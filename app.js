@@ -286,6 +286,11 @@ function messageTimestamp(value) {
   if (!dateOnly) Object.assign(options,{hour:'numeric',minute:'2-digit',timeZoneName:'short'});
   return `<time class="message-timestamp" datetime="${esc(value)}">${esc(date.toLocaleString(undefined,options))}</time>`;
 }
+function messageAuthor(record) {
+  if (record.channel === 'writing' && record.source === 'rss') return {name:'Betting Antelope',image:'assets/betting-antelope-textured.png',className:'publication-avatar'};
+  if (record.channel === 'newsletters' && record.source === 'notion') return {name:'Daily Newsletter',image:'assets/daily-newsletter-avatar.png',className:'publication-avatar'};
+  return {name:'Tyler',image:'assets/tyler-avatar.png',className:'tyler-avatar'};
+}
 function renderChannel(refreshControls=true) {
   const meta=channelMeta(activeChannel), records=channelRecords(activeChannel);
   if (refreshControls) renderChannelFilters();
@@ -297,12 +302,13 @@ function renderChannel(refreshControls=true) {
   const type=activeChannel==='websites'?'project':'entry';
   const body=list.map(record=>{
     const date=record.publishedAt||record.created;
+    const author=messageAuthor(record);
     let attachment='';
     if(activeChannel==='websites') attachment=projectCard(record);
     else if(activeChannel==='photography') attachment=`<button class="chat-photo" data-entry="${esc(record.id)}">${safeImage(record.image)?`<img src="${esc(safeImage(record.image))}" alt="${esc(record.title)}">`:'<span class="photo-placeholder">▧</span>'}<strong>${esc(record.title)}</strong></button>`;
     else attachment=safeUrl(record.url)?`<a href="${esc(safeUrl(record.url))}" target="_blank" rel="noopener noreferrer" class="preview-link">${linkPreview(record)}</a>`:`<button class="preview-link" data-entry="${esc(record.id)}">${linkPreview(record)}</button>`;
     const divider=String(record.id)===sessionCheckpoint?'<div class="read-divider last-read-divider">You left off here</div>':record.id===sessionFirstUnread?'<div class="read-divider">New since your last visit</div>':'';
-    return `${divider}<article class="message timeline-message" data-message-id="${esc(record.id)}"><div class="message-avatar tyler-avatar"><img src="assets/tyler-avatar.png" alt="" width="40" height="40"></div><div class="message-body"><div class="message-meta"><strong>${record.source === 'notion' ? 'Tyler’s newsletter agent' : 'Tyler'}</strong>${messageTimestamp(date)}</div><p>${ChannelFeeds.linkedText(record.note||record.description||'')}</p>${attachment}<button class="comment-link" data-${type}="${esc(record.id)}">♧ &nbsp; ${commentCount(type,record.id)} comments · Open thread</button></div></article>`;
+    return `${divider}<article class="message timeline-message" data-message-id="${esc(record.id)}"><div class="message-avatar ${author.className}"><img src="${author.image}" alt="" width="40" height="40"></div><div class="message-body"><div class="message-meta"><strong>${esc(author.name)}</strong>${messageTimestamp(date)}</div><p>${ChannelFeeds.linkedText(record.note||record.description||'')}</p>${attachment}<button class="comment-link" data-${type}="${esc(record.id)}">♧ &nbsp; ${commentCount(type,record.id)} comments · Open thread</button></div></article>`;
   }).join('');
   $('#content').innerHTML=`<div class="feed channel-feed"><div class="channel-intro"><div class="channel-symbol">#</div><h1>${esc(meta.title)}</h1><p>${esc(meta.intro || `${meta.description}.`)}</p>${safeUrl(meta.sourceUrl)?`<a class="channel-source-link" href="${esc(safeUrl(meta.sourceUrl))}" target="_blank" rel="noopener">${esc(meta.sourceLabel)}</a>`:''}</div><div class="feed-day">Beginning of #${esc(meta.title)}</div>${body||`<div class="empty-channel">${esc(filtered ? 'No matches. Try another filter or search.' : meta.empty || 'Nothing here yet. More to share soon.')}</div>`}<div class="feed-end">${filtered ? 'End of these results.' : 'You’re at the latest.'}</div></div>`;
 }
