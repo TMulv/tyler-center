@@ -506,7 +506,7 @@ function closeDesktopMenu() {$('#desktopMenuHost').innerHTML='';document.querySe
 function openDesktopMenu(name,button) {
   if($('#desktopMenuHost').dataset.open===name) {closeDesktopMenu();$('#desktopMenuHost').dataset.open='';return;}
   closeDesktopMenu();$('#desktopMenuHost').dataset.open=name;button.classList.add('active');
-  const items={file:[['linkedin','in','LinkedIn ↗'],['email','✉','Email me'],['instagram','◎','Instagram ↗'],['twitter','𝕏','Twitter / X ↗']],rec:[['recommend','✦','Recommend something to me'],['drafts','▤','Saved drafts on this device']],view:[['shore','◉','Jersey Shore live'],['surprise','▶','Surprise me with a video'],['spider','✳','Take a break']],window:[['show-shelf','✦','Show Tyler.Center'],['center-window','▣','Center window']]}[name];
+  const items={file:[['linkedin','in','LinkedIn ↗'],['email','✉','Email me'],['instagram','◎','Instagram ↗'],['twitter','𝕏','Twitter / X ↗']],rec:[['recommend','✦','Recommend something to me'],['drafts','▤','Saved drafts on this device']],view:[['surprise','▶','Surprise me with a video'],['spider','✳','Take a break']],window:[['show-shelf','✦','Show Tyler.Center'],['center-window','▣','Center window']]}[name];
   const rect=button.getBoundingClientRect();
   $('#desktopMenuHost').innerHTML=`<div class="desktop-dropdown" style="left:${Math.round(rect.left)}px">${items.map(([action,icon,label])=>`<button data-menu-action="${action}"><span>${icon}</span>${label}</button>`).join('')}</div>`;
 }
