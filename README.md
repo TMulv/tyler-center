@@ -8,12 +8,15 @@ Open `index.html` locally, or publish this directory from the root of a GitHub P
 
 - A movable desktop window, menu bar, and one app icon in the dock.
 - Drag the bottom-right corner to resize the desktop window. Content adapts to the window width; arrow keys on the corner grip also resize it. Zooming out restores the chosen size.
-- Rocket badges for channels with unread or updated items, including home-page channel shortcuts. Opening a channel marks its current items read in that visitor's browser; empty channels have no badge. Read markers persist when browser storage is available. These are local read indicators, not a claim that live Notion sync is enabled.
+- Rocket badges for channels with unread or updated items, including home-page channel shortcuts. Only visible messages are marked read; unseen earlier messages keep their badge. Channels sort oldest to newest, open at the bottom, and offer Last read / Latest controls; empty channels have no badge. Read markers persist when browser storage is available. These are local read indicators, not a claim that live Notion sync is enabled.
 - LinkedIn desktop shortcut and mobile navigation link, opening Tyler's profile in a new tab.
 - NASA's Challenger launch wallpaper with full attribution and Unsplash license links.
 - Locally hosted Special Elite typewriter font and original procedural print textures.
 - Search across the site's content.
-- Rich previews for links, website cards, video recommendations, and a photo gallery.
+- Chat-style link previews, website cards, video recommendations, and photo attachments.
+- About me as a chat thread, a personal details toggle, five redacted case-study files with downloadable notes, and a tactile Betting Antelope logo attachment.
+- Jersey Shore opens a separate draggable, resizable window showing the Borough of Seaside Park’s live beach broadcast. Closing it destroys the player and stops playback.
+- An Easter egg under View → Take a break opens playable Spider Solitaire: 1/2/4 suits, legal moves, deals, completed runs, hints, undo, and a game saved on this device.
 - Comments on each item. Channel editors open with the plus button; items can be edited or removed from their detail views.
 - The File, Rec, View, and Window menus, including Surprise Me for a random video.
 
@@ -30,6 +33,9 @@ The initial website preview is an illustration of the original prototype. No rea
 - `index.html`: desktop and app layout
 - `styles.css` and `v2.css`: layout and component foundations
 - `texture.css`: textured paper, ink-blue, faded-red, and typewriter design
+- `chat-apps.css`: chat files, camera window, and game surfaces
+- `about.js`: biography and anonymized case-study messages
+- `spider-engine.js` and `spider.js`: card rules and playable UI
 - `app.js`: content and interactions
 - `unread.js`: per-channel read markers
 - `assets/`: local illustrations
@@ -52,3 +58,11 @@ The provided image is stored unchanged in `assets/challenger-launch.jpg`. The re
 ## Notion sync
 
 Sync is not connected yet. The accompanying `NOTION-SYNC-ACTION-LIST.md` in the project directory maps the five channels to Notion sources, publishing properties, update behavior, and the server-side publishing bridge needed by this static site.
+
+## Camera source and testing
+
+The beach player is the [Coastal Camera Network embed](https://coastalcameranetwork.com/webcams/seaside-park/webcam-demo.php) used on the [Borough of Seaside Park’s official webcam page](https://www.seasideparknj.org/community/live_webcam.php). Playback, provider ads, and outages are controlled by the camera provider. The source link and Reconnect button stay available. No private stream URLs or expiring tokens are stored.
+
+Run `node --test tests/*.test.cjs` for reading-state and Spider rules tests.
+
+See `assets/ASSET-NOTES.md` for the Betting Antelope source and texture edit.

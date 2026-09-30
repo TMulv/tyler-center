@@ -17,7 +17,17 @@
   function markRead(records, state, channel) {
     return {...normalize(state), [channel]: Object.fromEntries(records.map(record => [record.id, revision(record)]))};
   }
-  const api = {count, markRead};
+  function markSeen(records, state, channel) {
+    return {...normalize(state), [channel]: {...normalize(normalize(state)[channel]), ...Object.fromEntries(records.map(record => [record.id, revision(record)]))}};
+  }
+  function ordered(records) {
+    const time = record => {
+      const parsed = Date.parse(record.publishedAt || record.created || '');
+      return Number.isFinite(parsed) ? parsed : 0;
+    };
+    return [...records].sort((a,b) => time(a)-time(b) || String(a.id).localeCompare(String(b.id)));
+  }
+  const api = {count, markRead, markSeen, ordered};
   if (typeof module !== 'undefined' && module.exports) module.exports = api;
   else root.ChannelReadState = api;
 })(globalThis);

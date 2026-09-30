@@ -1,0 +1,27 @@
+// Public, anonymized summaries approved by Tyler. No client identities are stored here.
+const CASE_STUDIES = [
+  {title:'Campaigns without losing context',file:'01-campaign-workflows.txt',body:'Getting campaigns, budgets, approvals and content across sales, revops, editorial, finance, procurement and security without losing context between teams.'},
+  {title:'The layer underneath agents',file:'02-agent-context.txt',body:'They already build agents. I’m helping them build the layer underneath: what agents can read and write, how context stays current and where security controls sit.'},
+  {title:'Meetings → decisions → action',file:'03-meetings-to-action.txt',body:'Meetings turn into decisions, decisions turn into artifacts, and approved actions update docs, forecasts and Jira. People stay accountable.'},
+  {title:'Current answers start with knowledge',file:'04-current-knowledge.txt',body:'They have Claude Enterprise, but their knowledge is disorganized, so AI surfaces outdated content. We’re cleaning up content, ownership and tools first.'},
+  {title:'A few workflows. Measured.',file:'05-ai-workflow-plan.txt',body:'People use AI, but there’s no plan. Next up: name an exec owner, pick two or three workflows, set baselines and measure.'}
+];
+function aboutMessage(body, label='about me') {
+  return `<article class="message about-message"><div class="message-avatar">TM</div><div class="message-body"><div class="message-meta"><strong>Tyler</strong><span>${label}</span></div>${body}</div></article>`;
+}
+function aboutThread() {
+  return `<div class="feed about-thread"><div class="thread-heading"><span class="eyebrow">WELCOME TO TYLER.CENTER</span><span class="thread-pin">↳ pinned introduction</span></div>
+  ${aboutMessage('<h1>i’m tyler.</h1><p class="about-lead">i help companies turn ai experiments into workflows that work.</p>')}
+  ${aboutMessage('<h2>the problem</h2><ul><li>everyone bought ai tools</li><li>the work underneath is still messy</li><li>agents don’t have context anyone trusts</li></ul>')}
+  ${aboutMessage('<h2>what i do</h2><ul><li>start with the work, not the ai</li><li>get execs, ops, it and security in one room</li><li>map how work moves now</li><li>build a working version of the new workflow</li><li>decide what ai handles and what people keep</li></ul>')}
+  ${aboutMessage('<h2>the kind of work</h2><ul><li>workflows that span many teams</li><li>rules for what agents can read and change</li><li>turning meetings into decisions, and decisions into action</li><li>cleaning up knowledge so ai gives current answers</li><li>choosing a few workflows and measuring the results</li></ul>')}
+  ${aboutMessage('<h2>in one line</h2><p class="one-line">ai ambition → a workflow people trust and use.</p><details class="personal-toggle"><summary>about me as a person</summary><p>i build websites for people and small businesses.</p><p>i consult with medium-sized and enterprise businesses.</p><p>i write betting antelope. i collect things worth reading, watching and sharing. that’s what the other channels are for.</p></details>')}
+  ${aboutMessage(`<p>a few things i’m working on. company names redacted.</p><div class="case-files">${CASE_STUDIES.map((item,i)=>`<button class="case-file" data-case-study="${i}" aria-label="Open case study: ${item.title}"><span class="file-paper" aria-hidden="true"><span>CASE / 0${i+1}</span><span class="redacted-bar"></span><span>FIELD NOTES</span></span><span class="file-info"><strong>${item.title}</strong><small>TXT · company name redacted</small><span>Open file ↗</span></span></button>`).join('')}</div>`,'shared 5 files')}
+  ${aboutMessage('<p>and this is betting antelope.</p><a class="antelope-file" href="https://bettingantelope.substack.com/" target="_blank" rel="noopener"><img src="assets/betting-antelope-textured.png" width="280" height="280" alt="Betting Antelope’s illustrated antelope logo printed on textured, worn paper"><span class="antelope-file-label"><strong>betting antelope</strong><small>my publication · open on Substack ↗</small></span></a>','shared a link')}
+  <div class="channel-directory-heading"><span>KEEP LOOKING AROUND</span><span>↓</span></div><div class="shortcut-grid">${CHANNELS.map((channel,index)=>`<button class="shortcut" data-channel="${channel.id}"><span class="shortcut-number">0${index+1}</span>${unreadBadge(channel.id)}<span class="shortcut-icon" aria-hidden="true">↗</span><strong>#${esc(channel.title)}</strong><small>${esc(channel.description)}</small></button>`).join('')}</div><div class="content-tail"><span>Tyler Mulvey / Tyler.Center</span><button data-action="wallpaper-credit">Wallpaper: NASA / Unsplash ↗</button></div></div>`;
+}
+function showCaseStudy(index) {
+  const item=CASE_STUDIES[index];if(!item)return;
+  $('#modalRoot').innerHTML=`<div class="modal-overlay" data-close-modal><div class="modal case-study-modal" role="dialog" aria-modal="true" aria-label="Case study: ${esc(item.title)}"><div class="modal-top"><span class="eyebrow">CASE STUDY / 0${index+1}</span><button class="close-button" data-close-modal aria-label="Close">×</button></div><div class="modal-body"><div class="redaction-label">COMPANY NAME: <span class="redacted-bar" aria-hidden="true"></span> REDACTED</div><h2>${esc(item.title)}</h2><p class="case-study-body">${esc(item.body)}</p><p class="case-study-note">A short account of the work. Client identity withheld.</p><a class="secondary-button" href="assets/case-studies/${item.file}" download>Download field note ↓</a></div></div></div>`;
+  $('#modalRoot .close-button').focus();
+}

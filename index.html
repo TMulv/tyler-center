@@ -14,6 +14,7 @@
   <link rel="stylesheet" href="styles.css">
   <link rel="stylesheet" href="v2.css">
   <link rel="stylesheet" href="texture.css">
+  <link rel="stylesheet" href="chat-apps.css">
 </head>
 <body>
   <div class="desktop-grain" aria-hidden="true"></div>
@@ -24,6 +25,7 @@
   <div class="desktop-icons">
     <button class="desktop-icon" data-desktop-open="home" aria-label="Open Tyler.Center"><span class="desktop-icon-art shelf-art">✦</span><span>Tyler.Center</span></button>
     <a class="desktop-icon linkedin-link" href="https://www.linkedin.com/in/tylermulvey/" aria-label="LinkedIn profile (opens in a new tab)" target="_blank" rel="noopener"><span class="desktop-icon-art linkedin-art" aria-hidden="true">in<span class="icon-arrow">↗</span></span><span>LinkedIn ↗</span></a>
+    <button class="desktop-icon" data-desktop-open="shore" aria-label="Open Jersey Shore live camera"><span class="desktop-icon-art shore-art" aria-hidden="true">≋<span class="camera-indicator"></span></span><span>Jersey Shore</span></button>
   </div>
   <button class="wallpaper-credit" data-action="wallpaper-credit">Wallpaper: NASA / Unsplash ↗</button>
   <div class="app-shell" id="appWindow">
@@ -44,18 +46,20 @@
           <div id="channelNav"></div>
           <div class="side-label side-label-small">A NOTE FROM TYLER</div>
           <div class="sidebar-note">Things I make. Things I find. All here.</div>
-          <div class="mobile-actions"><a class="linkedin-link" href="https://www.linkedin.com/in/tylermulvey/" target="_blank" rel="noopener">in &nbsp; LinkedIn ↗</a><button data-action="wallpaper-credit">↗ &nbsp; Wallpaper credit</button><button data-menu-action="recommend">✦ &nbsp; Recommend something</button><button data-menu-action="drafts">▤ &nbsp; Saved drafts</button><button data-menu-action="surprise">▶ &nbsp; Surprise me</button><button data-menu-action="email">✉ &nbsp; Email me</button><button data-menu-action="instagram">◎ &nbsp; Instagram</button></div>
+          <div class="mobile-actions"><button data-menu-action="shore">◉ &nbsp; Jersey Shore live</button><button data-menu-action="spider">✳ &nbsp; Take a break</button><a class="linkedin-link" href="https://www.linkedin.com/in/tylermulvey/" target="_blank" rel="noopener">in &nbsp; LinkedIn ↗</a><button data-action="wallpaper-credit">↗ &nbsp; Wallpaper credit</button><button data-menu-action="recommend">✦ &nbsp; Recommend something</button><button data-menu-action="drafts">▤ &nbsp; Saved drafts</button><button data-menu-action="surprise">▶ &nbsp; Surprise me</button><button data-menu-action="email">✉ &nbsp; Email me</button><button data-menu-action="instagram">◎ &nbsp; Instagram</button></div>
         </div>
         <div class="sidebar-footer"><span class="profile-avatar">TM</span><div><strong>Tyler Mulvey</strong><span>Currently collecting</span></div><span class="footer-presence"></span></div>
       </aside>
       <div class="mobile-scrim" id="mobileScrim" hidden></div>
       <main class="main">
         <header class="channel-header"><button class="mobile-menu" id="mobileMenu" aria-label="Open channels">☰</button><span class="header-hash">#</span><strong id="headerTitle">about-tyler</strong><span class="header-divider"></span><span class="header-description" id="headerDescription">A little introduction</span><div class="header-actions"><button id="headerSearch" aria-label="Search" title="Search">⌕</button><button id="headerAdd" aria-label="Add to this channel" title="Add to this channel">＋</button></div></header>
+        <div class="channel-reading-bar" id="channelReadingBar" hidden><span>oldest → newest</span><div><button id="lastReadButton">↑ Last read</button><button id="latestButton">Latest ↓</button></div></div>
         <div class="content-scroll" id="contentScroll"><div class="content-inner" id="content"></div></div>
       </main>
     </div>
     <button class="window-resize-handle" id="windowResize" aria-label="Resize window" title="Drag to resize. Arrow keys also work."></button>
   </div>
+  <section class="shore-window" id="shoreWindow" aria-label="Jersey Shore live camera" hidden><div class="topbar"><div class="traffic"><button class="close-light" id="shoreClose" aria-label="Close beach window" title="Close"></button></div><strong>Jersey Shore / live</strong><span aria-hidden="true">≋</span></div><div class="shore-window-content" id="shoreContent"></div><button class="window-resize-handle" id="shoreResize" aria-label="Resize beach window" title="Drag to resize. Arrow keys also work."></button></section>
   <div class="desktop-dock" aria-label="Desktop dock">
     <button class="dock-icon shelf-dock active" id="dockShelf" aria-label="Open Tyler.Center" title="Tyler.Center">✦<span class="dock-indicator"></span></button>
   </div>
@@ -64,6 +68,9 @@
   <div class="search-root" id="searchRoot"></div>
   <div class="toast" id="toast" role="status" aria-live="polite"></div>
   <script src="unread.js"></script>
+  <script src="spider-engine.js"></script>
+  <script src="spider.js"></script>
+  <script src="about.js"></script>
   <script src="app.js"></script>
 </body>
 </html>

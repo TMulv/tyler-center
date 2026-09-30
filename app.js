@@ -34,11 +34,40 @@ let projects = [...STARTER_PROJECTS], entries = [...STARTER_ENTRIES], comments =
 let database = null, activeChannel = 'home';
 let toastTimer, lastSurpriseId = null, frontLayer = 4;
 let readState = fallbackRead('read-state-v1', {});
+let readingPositions = fallbackRead('reading-positions-v1', {});
+if (!readingPositions || typeof readingPositions !== 'object' || Array.isArray(readingPositions)) readingPositions = {};
+let sessionCheckpoint = null, sessionFirstUnread = null, readingTimer;
+const APP_VIEWS = {spider:{title:'spider-solitaire',description:'A little break'}};
+
 const channelRecords = channel => channel === 'websites' ? projects : entries.filter(entry => entry.channel === channel);
-function markChannelRead(channel) {
-  if (!channelMeta(channel)) return;
-  readState = ChannelReadState.markRead(channelRecords(channel), readState, channel);
-  try { fallbackWrite('read-state-v1', readState); } catch { /* Read markers still work for this session. */ }
+function markVisibleMessages() {
+  if (!channelMeta(activeChannel) || document.hidden || $('#appWindow').classList.contains('hidden-window')) return;
+  const viewport = $('#contentScroll').getBoundingClientRect();
+  const ids = [...document.querySelectorAll('[data-message-id]')].filter(element => {
+    const rect = element.getBoundingClientRect();
+    return Math.min(rect.bottom,viewport.bottom)-Math.max(rect.top,viewport.top) >= Math.min(80,rect.height*.25);
+  }).map(element=>element.dataset.messageId);
+  if (!ids.length) return;
+  const visible = channelRecords(activeChannel).filter(record=>ids.includes(String(record.id)));
+  readState = ChannelReadState.markSeen(visible,readState,activeChannel);
+  readingPositions = {...readingPositions,[activeChannel]:ids.at(-1)};
+  try {fallbackWrite('read-state-v1',readState);fallbackWrite('reading-positions-v1',readingPositions);} catch {}
+  renderNav();
+}
+function positionChannelAtBottom() {
+  const channel = activeChannel;
+  requestAnimationFrame(()=>{
+    if (activeChannel!==channel || !channelMeta(channel)) return;
+    $('#contentScroll').scrollTop=$('#contentScroll').scrollHeight;
+    clearTimeout(readingTimer);readingTimer=setTimeout(markVisibleMessages,350);
+  });
+}
+function jumpToLastRead() {
+  const id=sessionCheckpoint || sessionFirstUnread;
+  const row=[...document.querySelectorAll('[data-message-id]')].find(element=>element.dataset.messageId===String(id));
+  if(!row)return;
+  const viewport=$('#contentScroll');
+  viewport.scrollTo({top:viewport.scrollTop+row.getBoundingClientRect().top-viewport.getBoundingClientRect().top-30,behavior:matchMedia('(prefers-reduced-motion:reduce)').matches?'instant':'smooth'});
 }
 function unreadBadge(channel) {
   const count = ChannelReadState.count(channelRecords(channel), readState, channel);
@@ -127,21 +156,31 @@ async function addComment(comment) {
   if (!database) fallbackWrite('comments',comments);
   renderEverything();
 }
-function renderEverything() { renderNav(); render(); }
+function renderEverything() { const top=$('#contentScroll').scrollTop; renderNav(); render(); $('#contentScroll').scrollTop=top; }
 function renderNav() {
   $('#channelNav').innerHTML = CHANNELS.map(channel => `<button class="channel-link ${activeChannel === channel.id ? 'active' : ''}" data-channel="${channel.id}" ${activeChannel === channel.id ? 'aria-current="page"' : ''}><span class="hash">#</span><span>${channel.title}</span><span class="channel-count">${channelRecords(channel.id).length}</span>${unreadBadge(channel.id)}</button>`).join('');
   $('.home-link').classList.toggle('active',activeChannel === 'home');
 }
 function navigate(channel) {
+  if(channel!=='home' && !channelMeta(channel) && !APP_VIEWS[channel])return;
+  markVisibleMessages();clearTimeout(readingTimer);
+  SpiderGame.unmount();
   activeChannel = channel;
-  markChannelRead(channel);
-  const meta = channelMeta(channel);
+  const meta = channelMeta(channel) || APP_VIEWS[channel];
+  const records=channelMeta(channel)?ChannelReadState.ordered(channelRecords(channel)):[];
+  const savedCheckpoint=readingPositions[channel];
+  sessionCheckpoint=records.some(record=>String(record.id)===savedCheckpoint)?savedCheckpoint:null;
+  sessionFirstUnread=records.find(record=>ChannelReadState.count([record],readState,channel))?.id || null;
   $('#headerTitle').textContent = channel === 'home' ? 'about-tyler' : meta.title;
-  $('#headerDescription').textContent = channel === 'home' ? 'A little introduction' : meta.description;
-  $('#headerAdd').hidden = channel === 'home';
+  $('#headerDescription').textContent = channel === 'home' ? 'Work, field notes & the rest' : meta.description;
+  $('#headerAdd').hidden = !channelMeta(channel);
   $('#headerAdd').setAttribute('aria-label', channel === 'websites' ? 'Add a website' : `Add to ${channel}`);
-  renderNav(); render();
-  $('#contentScroll').scrollTop = 0;
+  $('#channelReadingBar').hidden=!channelMeta(channel);
+  $('#lastReadButton').disabled=!sessionCheckpoint && !sessionFirstUnread;
+  $('#lastReadButton').textContent=sessionCheckpoint?'↑ Last read':'↑ First unread';
+  $('#content').classList.toggle('app-view-content',!!APP_VIEWS[channel]);
+  renderNav();render();
+  if(channelMeta(channel))positionChannelAtBottom();else $('#contentScroll').scrollTop=0;
   closeSidebar();
 }
 function projectCard(project) {
@@ -149,34 +188,43 @@ function projectCard(project) {
   return `<button class="project-card" data-project="${esc(project.id)}" aria-label="View ${esc(project.title)}"><div class="project-preview">${image ? `<img src="${esc(image)}" alt="Preview of ${esc(project.title)}">` : '<div class="project-art">✦</div>'}<span class="preview-badge">${project.builtIn ? 'Original prototype' : 'Website'}</span></div><div class="project-details"><span class="project-category">${esc(project.category)}</span><h3>${esc(project.title)}</h3><p>${esc(project.description)}</p><div class="project-bottom"><span>${url ? esc(domainOf(url)) : 'Concept preview'}</span><b>${commentCount('project',project.id)} comments · Explore ↗</b></div></div></button>`;
 }
 function render() {
-  if (activeChannel === 'home') renderHome();
-  else if (activeChannel === 'websites') renderWebsites();
-  else if (activeChannel === 'photography') renderPhotography();
-  else if (activeChannel === 'watch') renderWatch();
-  else renderPosts();
+  if(activeChannel==='home')renderHome();
+  else if(activeChannel==='spider')SpiderGame.mount($('#content'));
+  else renderChannel();
 }
-function renderHome() {
-  $('#content').innerHTML = `<div class="welcome-hero about-hero"><div class="eyebrow"><span class="edition-mark">✳</span> THE PERSONAL CHANNEL</div><h1>Welcome to<br><em>Tyler.Center.</em></h1><p>What I'm making, reading, watching,<br class="wide-break"> and getting into.</p><p class="welcome-prompt">Pick a channel. See what's new.</p><button class="primary-button" data-channel="websites">See what I've built &nbsp; ↗</button><span class="hero-stamp" aria-hidden="true">ALWAYS<br>IN PROGRESS</span></div><div class="channel-directory-heading"><span>FIND SOMETHING GOOD</span><span>01—05 ↙</span></div><div class="shortcut-grid">${CHANNELS.map((channel,index) => `<button class="shortcut" data-channel="${channel.id}"><span class="shortcut-number">0${index+1}</span>${unreadBadge(channel.id)}<span class="shortcut-icon" aria-hidden="true">↗</span><strong>#${esc(channel.title)}</strong><small>${esc(channel.description)}</small></button>`).join('')}</div><div class="content-tail"><span>Tyler Mulvey / Tyler.Center</span><button data-action="wallpaper-credit">Wallpaper: NASA / Unsplash ↗</button></div>`;
-}
-function renderWebsites() {
-  const ordered = [...projects].sort((a,b) => (a.builtIn === b.builtIn ? String(b.created).localeCompare(String(a.created)) : a.builtIn ? -1 : 1));
-  $('#content').innerHTML = `<div class="eyebrow">THE SHOWCASE</div><div class="hero"><div><h1>Things I've <em>built.</em></h1><p>A growing collection of websites and experiments. Open a project to see more or leave a comment.</p></div><button class="primary-button" data-action="add-project">＋ &nbsp; Add a website</button></div><div class="section-heading"><h2>Websites</h2><span class="line"></span><span class="meta">${ordered.length} ${ordered.length === 1 ? 'project' : 'projects'}</span></div><div class="project-grid">${ordered.map(projectCard).join('')}<button class="add-card" data-action="add-project"><span class="add-icon">＋</span><strong>More to come</strong><span>Add a site and its screenshot to keep building out the shelf.</span></button></div><div class="content-tail">Made with curiosity · Tyler.Center</div>`;
-}
+function renderHome() {$('#content').innerHTML=aboutThread();}
 function linkPreview(entry) {
   const image = safeImage(entry.image), url = safeUrl(entry.url);
   return `<div class="link-preview"><div class="link-preview-visual">${image ? `<img src="${esc(image)}" alt="Preview of ${esc(entry.title)}">` : `<div class="link-preview-art"><span>${esc(entry.domain || domainOf(url) || 'THE WEB')}</span><strong>${esc(entry.title)}</strong></div>`}</div><div class="link-preview-copy"><small>${esc(entry.domain || domainOf(url) || entry.kind)}</small><strong>${esc(entry.title)}</strong><p>${esc(entry.description)}</p></div></div>`;
 }
-function renderPosts() {
-  const meta = channelMeta(activeChannel), list = entries.filter(entry => entry.channel === activeChannel);
-  $('#content').innerHTML = `<div class="feed"><div class="channel-intro"><div class="channel-symbol">#</div><h1>${esc(meta.title)}</h1><p>${esc(meta.description)}.</p></div><div class="feed-day">From the shelf</div>${list.length ? list.map(entry => `<article class="message"><div class="message-avatar">TM</div><div class="message-body"><div class="message-meta"><strong>Tyler</strong><span>shared in #${esc(activeChannel)}</span></div><p>${esc(entry.note || entry.description)}</p>${safeUrl(entry.url) ? `<a href="${esc(safeUrl(entry.url))}" target="_blank" rel="noopener noreferrer" class="preview-link">${linkPreview(entry)}</a>` : `<button class="preview-link" data-entry="${esc(entry.id)}">${linkPreview(entry)}</button>`}<button class="comment-link" data-entry="${esc(entry.id)}">♧ &nbsp; ${commentCount('entry',entry.id)} ${commentCount('entry',entry.id) === 1 ? 'comment' : 'comments'} · Leave a comment</button></div></article>`).join('') : '<div class="empty-channel">Nothing here yet. More to share soon.</div>'}<div class="content-tail">More to share soon · Tyler.Center</div></div>`;
+function renderChannel() {
+  const meta=channelMeta(activeChannel),list=ChannelReadState.ordered(channelRecords(activeChannel));
+  const type=activeChannel==='websites'?'project':'entry';
+  const body=list.map(record=>{
+    const date=record.publishedAt||record.created;
+    const dateLabel=date && Number.isFinite(Date.parse(date))?new Date(date).toLocaleString(undefined,{month:'short',day:'numeric',year:'numeric',hour:'numeric',minute:'2-digit'}):'from the collection';
+    let attachment='';
+    if(activeChannel==='websites') attachment=projectCard(record);
+    else if(activeChannel==='photography') attachment=`<button class="chat-photo" data-entry="${esc(record.id)}">${safeImage(record.image)?`<img src="${esc(safeImage(record.image))}" alt="${esc(record.title)}">`:'<span class="photo-placeholder">▧</span>'}<strong>${esc(record.title)}</strong></button>`;
+    else attachment=safeUrl(record.url)?`<a href="${esc(safeUrl(record.url))}" target="_blank" rel="noopener noreferrer" class="preview-link">${linkPreview(record)}</a>`:`<button class="preview-link" data-entry="${esc(record.id)}">${linkPreview(record)}</button>`;
+    const divider=String(record.id)===sessionCheckpoint?'<div class="read-divider last-read-divider">You left off here</div>':record.id===sessionFirstUnread?'<div class="read-divider">New since your last visit</div>':'';
+    return `${divider}<article class="message timeline-message" data-message-id="${esc(record.id)}"><div class="message-avatar">TM</div><div class="message-body"><div class="message-meta"><strong>Tyler</strong><span>${esc(dateLabel)}</span></div><p>${esc(record.note||record.description)}</p>${attachment}<button class="comment-link" data-${type}="${esc(record.id)}">♧ &nbsp; ${commentCount(type,record.id)} comments · Open thread</button></div></article>`;
+  }).join('');
+  $('#content').innerHTML=`<div class="feed channel-feed"><div class="channel-intro"><div class="channel-symbol">#</div><h1>${esc(meta.title)}</h1><p>${esc(meta.description)}.</p></div><div class="feed-day">Beginning of #${esc(activeChannel)}</div>${body||'<div class="empty-channel">Nothing here yet. More to share soon.</div>'}<div class="feed-end">You’re at the latest.</div></div>`;
 }
-function renderWatch() {
-  const list = entries.filter(entry => entry.channel === 'watch');
-  $('#content').innerHTML = `<div class="eyebrow">PRESS PLAY</div><div class="hero"><div><h1>Worth a <em>watch.</em></h1><p>Videos I keep sending to people. Use View → Surprise Me if you want one picked for you.</p></div><button class="secondary-button" data-action="surprise">✦ &nbsp; Surprise me</button></div><div class="watch-grid">${list.map(entry => `<article class="watch-card"><button class="watch-image" data-entry="${esc(entry.id)}">${safeImage(entry.image) ? `<img src="${esc(safeImage(entry.image))}" alt="Preview of ${esc(entry.title)}">` : '<span class="watch-pattern"></span>'}<span class="watch-play">▶</span></button><div class="watch-copy"><small>${esc(entry.kind || 'VIDEO')} · ${esc(entry.domain || domainOf(entry.url))}</small><h3>${esc(entry.title)}</h3><p>${esc(entry.description)}</p><div class="watch-actions">${safeUrl(entry.url) ? `<a href="${esc(safeUrl(entry.url))}" target="_blank" rel="noopener noreferrer">Watch ↗</a>` : ''}<button data-entry="${esc(entry.id)}">${commentCount('entry',entry.id)} comments</button></div></div></article>`).join('')}</div>${!list.length ? '<div class="empty-channel">No videos here yet. Use + to add one.</div>' : ''}<div class="content-tail">Got a good one? The Rec menu is open.</div>`;
+function renderShore() {
+  $('#shoreContent').innerHTML=`<div class="shore-player"><iframe id="shorePlayer" title="Live beach camera: Seaside Park, New Jersey" src="https://coastalcameranetwork.com/webcams/seaside-park/webcam-demo.php" allow="autoplay; encrypted-media; picture-in-picture; fullscreen" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div><div class="shore-caption"><span>Seaside Park · beach<br>Borough of Seaside Park / Coastal Camera Network</span><button class="secondary-button" data-action="reload-shore">Reconnect ↻</button></div><p class="shore-help">Live from the beach. Press play if needed; use the player for fullscreen. If the feed stops, try reconnecting.</p><a class="shore-source" href="https://www.seasideparknj.org/community/live_webcam.php" target="_blank" rel="noopener">Camera source & current broadcast ↗</a>`;
 }
-function renderPhotography() {
-  const list = entries.filter(entry => entry.channel === 'photography');
-  $('#content').innerHTML = `<div class="eyebrow">THROUGH MY LENS</div><div class="hero"><div><h1>Little <em>moments.</em></h1><p>Photos I've taken and wanted to keep somewhere people can find them.</p></div></div>${list.length ? `<div class="photo-grid">${list.map(entry => `<button class="photo-card" data-entry="${esc(entry.id)}">${safeImage(entry.image) ? `<img src="${esc(safeImage(entry.image))}" alt="${esc(entry.title)}">` : '<div class="photo-placeholder">▧</div>'}<span><strong>${esc(entry.title)}</strong><small>${commentCount('entry',entry.id)} comments</small></span></button>`).join('')}</div>` : '<div class="empty-gallery"><span>▧</span><strong>Photos are coming soon.</strong><p>Nothing has been added to this channel yet.</p><button class="secondary-button" data-action="add-entry">Add a photo</button></div>'}<div class="content-tail">Through my lens · Tyler.Center</div>`;
+function openShore() {
+  closeSidebar();closeDesktopMenu();
+  const camera=$('#shoreWindow');
+  if(camera.hidden){camera.hidden=false;renderShore();}
+  bringFront(camera);$('#shoreClose').focus();
+}
+function closeShore() {
+  $('#shoreWindow').hidden=true;$('#shoreContent').innerHTML='';
+  const trigger=matchMedia('(max-width:760px)').matches?$('#mobileMenu'):document.querySelector('[data-desktop-open="shore"]');
+  trigger.focus();
 }
 function commentSection(type,id) {
   const thread = comments.filter(comment => comment.type === type && comment.entryId === id).sort((a,b) => a.created.localeCompare(b.created));
@@ -222,7 +270,7 @@ async function submitProject(event,existing) {
   if (urlText&&!safeUrl(urlText)) {error.textContent='Enter an http or https URL.';return;}
   if (!validImage(file)) {error.textContent='Choose an image under 8 MB.';return;}
   const button=form.querySelector('[type="submit"]'); button.disabled=true;button.textContent='Saving…';
-  try { const image=file?await readImage(file):existing?.image||''; await saveRecord('project',{id:existing?.id||uid(),title,category,description,url:safeUrl(urlText),image,builtIn:!!existing?.builtIn,created:existing?.created||new Date().toISOString().slice(0,10)});closeModal();navigate('websites');toast('Website saved.'); }
+  try { const image=file?await readImage(file):existing?.image||''; await saveRecord('project',{id:existing?.id||uid(),title,category,description,url:safeUrl(urlText),image,builtIn:!!existing?.builtIn,created:existing?.created||new Date().toISOString()});closeModal();navigate('websites');toast('Website saved.'); }
   catch {error.textContent='Could not save this website. Try a smaller image.';button.disabled=false;button.textContent='Save website';}
 }
 function entryEditor(channel='articles',entry=null) {
@@ -239,7 +287,7 @@ async function submitEntry(event,existing) {
   if (channel==='watch'&&!safeUrl(urlText)) {error.textContent='Videos need a link so Surprise Me can open them.';return;}
   if (!validImage(file)) {error.textContent='Choose an image under 8 MB.';return;}
   const button=form.querySelector('[type="submit"]');button.disabled=true;button.textContent='Saving…';
-  try {const image=file?await readImage(file):existing?.image||'';const url=safeUrl(urlText);await saveRecord('entry',{id:existing?.id||uid(),channel,title,kind,description,note,url,domain:domainOf(url)||existing?.domain||'',image,created:existing?.created||new Date().toISOString().slice(0,10)});closeModal();navigate(channel);toast('Item saved.');}
+  try {const image=file?await readImage(file):existing?.image||'';const url=safeUrl(urlText);await saveRecord('entry',{id:existing?.id||uid(),channel,title,kind,description,note,url,domain:domainOf(url)||existing?.domain||'',image,created:existing?.created||new Date().toISOString()});closeModal();navigate(channel);toast('Item saved.');}
   catch {error.textContent='Could not save this item. Try a smaller image.';button.disabled=false;button.textContent='Save item';}
 }
 function bringFront(element) {element.style.zIndex=++frontLayer;}
@@ -251,11 +299,11 @@ function showShelf(channel) {
   $('#dockShelf').setAttribute('aria-label','Open Tyler.Center');
   bringFront(windowEl);
   if(channel) navigate(channel);
-  else { markChannelRead(activeChannel); renderNav(); }
+  else { renderNav(); clearTimeout(readingTimer); readingTimer=setTimeout(markVisibleMessages,350); }
   if(wasHidden) $('#windowMinimize').focus();
 }
 function hideShelf() {
-  closeSearch();closeModal();closeSidebar();closeDesktopMenu();
+  markVisibleMessages();clearTimeout(readingTimer);closeSearch();closeModal();closeSidebar();closeDesktopMenu();
   $('#desktopMenuHost').dataset.open='';
   $('#appWindow').classList.add('hidden-window');
   $('#dockShelf').classList.remove('active');
@@ -327,7 +375,7 @@ function closeDesktopMenu() {$('#desktopMenuHost').innerHTML='';document.querySe
 function openDesktopMenu(name,button) {
   if($('#desktopMenuHost').dataset.open===name) {closeDesktopMenu();$('#desktopMenuHost').dataset.open='';return;}
   closeDesktopMenu();$('#desktopMenuHost').dataset.open=name;button.classList.add('active');
-  const items={file:[['linkedin','in','LinkedIn ↗'],['email','✉','Email me'],['instagram','◎','Instagram']],rec:[['recommend','✦','Recommend something to me'],['drafts','▤','Saved drafts on this device']],view:[['surprise','▶','Surprise me with a video']],window:[['show-shelf','✦','Show Tyler.Center'],['center-window','▣','Center window']]}[name];
+  const items={file:[['linkedin','in','LinkedIn ↗'],['email','✉','Email me'],['instagram','◎','Instagram']],rec:[['recommend','✦','Recommend something to me'],['drafts','▤','Saved drafts on this device']],view:[['shore','◉','Jersey Shore live'],['surprise','▶','Surprise me with a video'],['spider','✳','Take a break']],window:[['show-shelf','✦','Show Tyler.Center'],['center-window','▣','Center window']]}[name];
   const rect=button.getBoundingClientRect();
   $('#desktopMenuHost').innerHTML=`<div class="desktop-dropdown" style="left:${Math.round(rect.left)}px">${items.map(([action,icon,label])=>`<button data-menu-action="${action}"><span>${icon}</span>${label}</button>`).join('')}</div>`;
 }
@@ -385,15 +433,16 @@ function updateDesktopClock() {$('#desktopClock').textContent=new Date().toLocal
 
 document.addEventListener('click',async event=>{
   const target=event.target;
+  const caseFile=target.closest('[data-case-study]');if(caseFile){showCaseStudy(Number(caseFile.dataset.caseStudy));return;}
   const menuButton=target.closest('[data-menu]');if(menuButton){openDesktopMenu(menuButton.dataset.menu,menuButton);return;}
-  const menuAction=target.closest('[data-menu-action]');if(menuAction){const action=menuAction.dataset.menuAction;closeDesktopMenu();$('#desktopMenuHost').dataset.open='';if(action==='linkedin')openLinkedIn();if(action==='email')contactEmail()?window.location.href=`mailto:${contactEmail()}`:toast('Add Tyler’s email to enable this link.');if(action==='instagram')instagramUrl()?window.open(instagramUrl(),'_blank','noopener,noreferrer'):toast('Add Tyler’s Instagram profile to enable this link.');if(action==='recommend')recommendModal();if(action==='drafts')draftsModal();if(action==='surprise')surpriseMe();if(action==='show-shelf')showShelf();if(action==='center-window'){const element=$('#appWindow');element.style.left='';element.style.top='';element.style.transform='';toast('Window centered.');}return;}
+  const menuAction=target.closest('[data-menu-action]');if(menuAction){const action=menuAction.dataset.menuAction;closeDesktopMenu();$('#desktopMenuHost').dataset.open='';if(action==='shore')openShore();if(action==='spider')showShelf(action);if(action==='linkedin')openLinkedIn();if(action==='email')contactEmail()?window.location.href=`mailto:${contactEmail()}`:toast('Add Tyler’s email to enable this link.');if(action==='instagram')instagramUrl()?window.open(instagramUrl(),'_blank','noopener,noreferrer'):toast('Add Tyler’s Instagram profile to enable this link.');if(action==='recommend')recommendModal();if(action==='drafts')draftsModal();if(action==='surprise')surpriseMe();if(action==='show-shelf')showShelf();if(action==='center-window'){const element=$('#appWindow');element.style.left='';element.style.top='';element.style.transform='';toast('Window centered.');}return;}
   if(!target.closest('.desktop-dropdown')){closeDesktopMenu();$('#desktopMenuHost').dataset.open='';}
   const channel=target.closest('[data-channel]');if(channel){closeSearch();showShelf(channel.dataset.channel);return;}
   const project=target.closest('[data-project]');if(project){const record=projects.find(item=>item.id===project.dataset.project);if(record)showProject(record);return;}
   const entry=target.closest('[data-entry]');if(entry){const record=entries.find(item=>item.id===entry.dataset.entry);if(record)showEntry(record);return;}
   const searchProject=target.closest('[data-search-project]');if(searchProject){const record=projects.find(item=>item.id===searchProject.dataset.searchProject);closeSearch();showShelf('websites');if(record)showProject(record);return;}
   const searchEntry=target.closest('[data-search-entry]');if(searchEntry){const record=entries.find(item=>item.id===searchEntry.dataset.searchEntry);closeSearch();if(record){showShelf(record.channel);showEntry(record);}return;}
-  const actionButton=target.closest('[data-action]');if(actionButton){const action=actionButton.dataset.action,id=actionButton.dataset.id;if(action==='wallpaper-credit')wallpaperCredit();if(action==='add-project')projectEditor();if(action==='edit-project'){const record=projects.find(item=>item.id===id);if(record)projectEditor(record);}if(action==='delete-project'){const record=projects.find(item=>item.id===id);if(record&&confirm(`Remove "${record.title}" from this browser?`)){try{await removeRecord('project',id);closeModal();toast('Website removed.');}catch{toast('Could not remove the website.');}}}if(action==='edit-entry'){const record=entries.find(item=>item.id===id);if(record)entryEditor(record.channel,record);}if(action==='delete-entry'){const record=entries.find(item=>item.id===id);if(record&&confirm(`Remove "${record.title}" from this browser?`)){try{await removeRecord('entry',id);closeModal();toast('Item removed.');}catch{toast('Could not remove the item.');}}}if(action==='add-entry')entryEditor(activeChannel);if(action==='surprise')surpriseMe();return;}
+  const actionButton=target.closest('[data-action]');if(actionButton){const action=actionButton.dataset.action,id=actionButton.dataset.id;if(action==='reload-shore')renderShore();if(action==='wallpaper-credit')wallpaperCredit();if(action==='add-project')projectEditor();if(action==='edit-project'){const record=projects.find(item=>item.id===id);if(record)projectEditor(record);}if(action==='delete-project'){const record=projects.find(item=>item.id===id);if(record&&confirm(`Remove "${record.title}" from this browser?`)){try{await removeRecord('project',id);closeModal();toast('Website removed.');}catch{toast('Could not remove the website.');}}}if(action==='edit-entry'){const record=entries.find(item=>item.id===id);if(record)entryEditor(record.channel,record);}if(action==='delete-entry'){const record=entries.find(item=>item.id===id);if(record&&confirm(`Remove "${record.title}" from this browser?`)){try{await removeRecord('entry',id);closeModal();toast('Item removed.');}catch{toast('Could not remove the item.');}}}if(action==='add-entry')entryEditor(activeChannel);if(action==='surprise')surpriseMe();return;}
   if(target.closest('[data-close-modal]')&&(target===target.closest('[data-close-modal]')||target.tagName==='BUTTON')){closeModal();return;}
   if(target.closest('[data-close-search]')&&(target===target.closest('[data-close-search]')||target.tagName==='BUTTON'))closeSearch();
 });
@@ -401,16 +450,23 @@ document.addEventListener('keydown',event=>{if((event.metaKey||event.ctrlKey)&&e
 $('#searchTrigger').addEventListener('click',openSearch);
 $('#headerSearch').addEventListener('click',openSearch);
 $('#headerAdd').addEventListener('click',()=>activeChannel==='websites'?projectEditor():entryEditor(activeChannel));
+$('#lastReadButton').addEventListener('click',jumpToLastRead);
+$('#latestButton').addEventListener('click',()=>{$('#contentScroll').scrollTo({top:$('#contentScroll').scrollHeight,behavior:matchMedia('(prefers-reduced-motion:reduce)').matches?'instant':'smooth'});});
+$('#contentScroll').addEventListener('scroll',()=>{clearTimeout(readingTimer);readingTimer=setTimeout(markVisibleMessages,200);},{passive:true});
 $('#mobileMenu').addEventListener('click',toggleSidebar);
 $('#mobileScrim').addEventListener('click',closeSidebar);
 $('#windowClose').addEventListener('click',hideShelf);
 $('#windowMinimize').addEventListener('click',hideShelf);
 $('#windowZoom').addEventListener('click',()=>toggleZoom($('#appWindow')));
 $('#dockShelf').addEventListener('click',()=>showShelf());
-document.querySelectorAll('[data-desktop-open]').forEach(button=>button.addEventListener('click',()=>showShelf(button.dataset.desktopOpen)));
+document.querySelectorAll('[data-desktop-open]').forEach(button=>button.addEventListener('click',()=>button.dataset.desktopOpen==='shore'?openShore():showShelf(button.dataset.desktopOpen)));
 $('#appWindow').addEventListener('pointerdown',()=>bringFront($('#appWindow')));
 makeDraggable($('#appWindow'),$('#appWindow .topbar'));
 makeResizable($('#appWindow'),$('#windowResize'));
+$('#shoreClose').addEventListener('click',closeShore);
+$('#shoreWindow').addEventListener('pointerdown',()=>bringFront($('#shoreWindow')));
+makeDraggable($('#shoreWindow'),$('#shoreWindow .topbar'));
+makeResizable($('#shoreWindow'),$('#shoreResize'));
 updateDesktopClock();setInterval(updateDesktopClock,30000);
 initializeLinkedIn();
 initialize();
