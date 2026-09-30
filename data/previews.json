@@ -732,6 +732,16 @@
       "domain": "apps.apple.com",
       "checkedAt": "2026-09-30T18:15:07.795919+00:00",
       "available": true
+    },
+    "https://www.breakingchange.blog/p/shanghai-travelogue": {
+      "title": "Shanghai travelogue",
+      "description": "Where my agent ended up with nothing to do.",
+      "site": "",
+      "image": "https://substackcdn.com/image/fetch/$s_!z9JA!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F153670af-fbbf-497d-9363-7fd0ecd0ea5d_1733x907.png",
+      "icon": "https://substackcdn.com/image/fetch/$s_!nCPu!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa0406cc4-bd8a-45d3-a606-d9a9edaceeeb%2Ffavicon.ico",
+      "domain": "www.breakingchange.blog",
+      "checkedAt": "2026-09-30T19:31:09.205604+00:00",
+      "available": true
     }
   }
 }
