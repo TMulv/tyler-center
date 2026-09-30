@@ -16,6 +16,17 @@ concurrency:
   cancel-in-progress: false
 jobs:
   sync:
+    name: ${{ matrix.label }}
+    strategy:
+      fail-fast: false
+      # Each job commits snapshots; serialize to avoid competing pushes.
+      max-parallel: 1
+      matrix:
+        include:
+          - feed: notion
+            label: Notion channels
+          - feed: writing
+            label: Betting Antelope writing
     runs-on: ubuntu-24.04
     timeout-minutes: 10
     steps:
@@ -26,28 +37,33 @@ jobs:
       - name: Check sync behavior
         run: python3 -m unittest discover -s tests -p 'test_*.py'
       - name: Fetch Betting Antelope
+        if: matrix.feed == 'writing'
         id: rss
         continue-on-error: true
         run: python3 scripts/sync_feeds.py rss
       - name: Fetch finished newsletter editions
+        if: matrix.feed == 'notion'
         id: notion
         continue-on-error: true
         env:
           NOTION_TOKEN: ${{ secrets.NOTION_TOKEN_NEWSLETTER || secrets.NOTION_TOKEN }}
         run: python3 scripts/sync_feeds.py notion
       - name: Fetch approved Read Later metadata
+        if: matrix.feed == 'notion'
         id: read_later
         continue-on-error: true
         env:
           NOTION_TOKEN: ${{ secrets.NOTION_TOKEN_NEWSLETTER || secrets.NOTION_TOKEN }}
         run: python3 scripts/sync_feeds.py read-later
       - name: Fetch public built projects from My Domains
+        if: matrix.feed == 'notion'
         id: domains
         continue-on-error: true
         env:
           NOTION_TOKEN: ${{ secrets.NOTION_TOKEN_NEWSLETTER || secrets.NOTION_TOKEN }}
         run: python3 scripts/sync_feeds.py domains
       - name: Fetch Watch or Listen Later
+        if: matrix.feed == 'notion'
         id: watch_later
         continue-on-error: true
         env:
@@ -71,6 +87,15 @@ jobs:
           if [ "$latest" != "$head built" ] && [ "$latest" != "$head building" ] && [ "$latest" != "$head queued" ]; then
             gh api --method POST "repos/$GITHUB_REPOSITORY/pages/builds" --silent
           fi
+      - name: Summarize channel results
+        if: always()
+        env:
+          RSS_RESULT: ${{ steps.rss.outcome }}
+          NEWSLETTER_RESULT: ${{ steps.notion.outcome }}
+          READ_LATER_RESULT: ${{ steps.read_later.outcome }}
+          DOMAINS_RESULT: ${{ steps.domains.outcome }}
+          WATCH_RESULT: ${{ steps.watch_later.outcome }}
+        run: python3 scripts/feed_summary.py
       - name: Report source failures
         if: steps.rss.outcome == 'failure' || steps.notion.outcome == 'failure' || steps.read_later.outcome == 'failure' || steps.domains.outcome == 'failure' || steps.watch_later.outcome == 'failure'
         run: |

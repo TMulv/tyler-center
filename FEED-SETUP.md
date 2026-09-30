@@ -107,3 +107,8 @@ The public #watch-or-listen-later channel reads `data/watch.json`. GitHub Action
 Publish only title, public Link, Added date, Type, and Status. Notes, Recommended by, files, and page bodies are excluded. Archived/trashed pages disappear on the next successful sync. An optional Keep Private checkbox excludes checked rows. Failed or incomplete syncs retain the previous snapshot.
 
 Notion Movie / TV Show / Podcast / Documentary / Book map to the plural website filters. Other with a YouTube link maps to YouTube; other public links map to Online. Missing links remain visible as saved titles. YouTube thumbnails derive only from validated public video IDs. No video files are copied or hosted. The channel retains its internal `watch` ID to preserve existing links and read markers.
+
+
+### Independent workflow results
+
+The sync workflow has separate **Notion channels** and **Betting Antelope writing** jobs. A writing-source failure leaves its previous snapshot intact and keeps a failed status for visibility; it cannot mark the Notion job as failed. Jobs run sequentially to avoid snapshot push races. Each job includes a channel-by-channel summary. A successful local RSS request does not establish that GitHub's runner can access Substack; verify the writing job separately.

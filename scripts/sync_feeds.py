@@ -216,7 +216,7 @@ def sync_rss(xml=None, backfill=False):
         incoming = parse_rss(xml)
     else:
         try:
-            incoming = parse_rss(fetch(RSS_URL))
+            incoming = parse_rss(fetch(RSS_URL, headers={'Accept':'application/rss+xml, application/xml;q=0.9, text/xml;q=0.8'}))
         except (SourceHTTPError, URLError, TimeoutError, ET.ParseError, ValueError) as error:
             print(f'::warning::RSS unavailable ({error_summary(error)}); trying the public publication archive.')
             incoming = collect_writing_archive()
