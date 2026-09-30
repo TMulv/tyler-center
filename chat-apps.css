@@ -57,3 +57,6 @@
 .channel-link { height: auto; min-height: 36px; padding-top: 7px; padding-bottom: 7px; }
 .channel-link>span:nth-child(2) { min-width: 0; white-space: normal; line-height: 1.35; }
 .channel-link .hash, .channel-count { flex-shrink: 0; }
+
+/* A type-led cover for app projects without an uploaded image. */
+.project-art.app-wordmark{display:grid;place-items:center;font-size:clamp(28px,5vw,48px);letter-spacing:-.04em;padding:24px;color:var(--ink)}

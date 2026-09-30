@@ -2,7 +2,7 @@
 const CONTACT = { email: '', instagram: '', linkedin: 'https://www.linkedin.com/in/tylermulvey/' };
 
 const CHANNELS = [
-  {id:'websites', title:"websites i've built", description:"Websites I've built"},
+  {id:'websites', title:"what i've built", description:"Apps, websites, and other things I’ve made"},
   {id:'articles', title:'articles', description:"What I’m saving to read", intro:"Articles I’m saving for later. I’ll mark them as read when I’ve read them. All news is biased, but this is news that's biasing me. (Warning: you may become Tyler leaning after reading what I'm reading.)"},
   {id:'watch', title:'watch', description:'Videos I recommend watching'},
   {id:'writing', title:'writing', description:'Betting Antelope', intro:'My writing on Betting Antelope. New posts show up here when I publish.', managed:true, sourceUrl:'https://bettingantelope.substack.com/', sourceLabel:'Read Betting Antelope ↗'},
@@ -13,6 +13,10 @@ const STARTER_PROJECTS = [{
   id:'tylers-shelf', title:"Tyler.Center", category:'Personal website · prototype',
   description:'A home for the links, books, films, and ideas worth sharing. The original Finder-style concept that started this site.',
   url:'', image:'assets/shelf-preview.svg', builtIn:true, created:'2026-09-29'
+}, {
+  id:'tomotomo', title:'TomoTomo', category:'App · iPhone & iPad',
+  description:'Read and listen without losing your place. TomoTomo keeps your ebooks and audiobooks in sync, using the files you already own.',
+  url:'https://apps.apple.com/us/app/tomotomo/id6778601579', image:'', created:'2026-09-30'
 }];
 const STARTER_ENTRIES = [
   {id:'great-work', channel:'articles', title:'How to Do Great Work', kind:'Essay', domain:'paulgraham.com', url:'https://paulgraham.com/greatwork.html', description:'A long essay on picking a field, following curiosity, and making things that matter.', note:'A reminder to keep following the interesting questions.', image:''},
@@ -30,6 +34,7 @@ const instagramUrl = () => safeUrl(CONTACT.instagram);
 const uid = () => globalThis.crypto?.randomUUID?.() || `${Date.now()}-${Math.random().toString(36).slice(2)}`;
 const channelMeta = id => CHANNELS.find(channel => channel.id === id);
 const commentCount = (type,id) => comments.filter(comment => comment.type === type && comment.entryId === id).length;
+const isAppStoreProject = project => domainOf(project.url) === 'apps.apple.com';
 const domainOf = value => { const url=safeUrl(value); return url ? new URL(url).hostname.replace(/^www\./,'') : ''; };
 let projects = [...STARTER_PROJECTS], entries = [...STARTER_ENTRIES], comments = [];
 let database = null, activeChannel = 'home';
@@ -80,12 +85,19 @@ function unreadBadge(channel) {
 function openDatabase() {
   return new Promise((resolve,reject) => {
     if (!('indexedDB' in window)) return reject(new Error('Browser storage unavailable'));
-    const request = indexedDB.open('tylers-shelf-showcase', 2);
-    request.onupgradeneeded = () => {
+    const request = indexedDB.open('tylers-shelf-showcase', 3);
+    request.onupgradeneeded = event => {
       const db = request.result;
       if (!db.objectStoreNames.contains('projects')) {
         const store = db.createObjectStore('projects',{keyPath:'id'});
         STARTER_PROJECTS.forEach(project => store.put(project));
+      } else if (event.oldVersion < 3) {
+        // Publish the new app to returning visitors without replacing their projects.
+        const store = request.transaction.objectStore('projects');
+        const existing = store.get('tomotomo');
+        existing.onsuccess = () => {
+          if (!existing.result) store.put(STARTER_PROJECTS.find(project => project.id === 'tomotomo'));
+        };
       }
       if (!db.objectStoreNames.contains('entries')) {
         const store = db.createObjectStore('entries',{keyPath:'id'});
@@ -121,6 +133,13 @@ async function initialize() {
     projects = fallbackRead('projects',[...STARTER_PROJECTS]);
     entries = fallbackRead('entries',[...STARTER_ENTRIES]);
     comments = fallbackRead('comments',[]);
+    if (!fallbackRead('tomotomo-added-v1', false)) {
+      if (!projects.some(project => project.id === 'tomotomo')) projects.push({...STARTER_PROJECTS.find(project => project.id === 'tomotomo')});
+      try {
+        fallbackWrite('projects', projects);
+        fallbackWrite('tomotomo-added-v1', true);
+      } catch { /* The app still appears when browser storage is unavailable. */ }
+    }
   }
   const original = projects.find(project => project.id === 'tylers-shelf');
   if (original?.title === "Tyler's Shelf") {
@@ -215,7 +234,7 @@ function navigate(channel) {
   $('#headerTitle').textContent = channel === 'home' ? 'about-tyler' : meta.title;
   $('#headerDescription').textContent = channel === 'home' ? 'Work, field notes & the rest' : meta.description;
   $('#headerAdd').hidden = !channelMeta(channel) || !!meta.managed;
-  $('#headerAdd').setAttribute('aria-label', channel === 'websites' ? 'Add a website' : `Add to ${channel}`);
+  $('#headerAdd').setAttribute('aria-label', channel === 'websites' ? 'Add a project' : `Add to ${channel}`);
   $('#channelReadingBar').hidden=!channelMeta(channel);
   $('#lastReadButton').disabled=!sessionCheckpoint && !sessionFirstUnread;
   $('#lastReadButton').textContent=sessionCheckpoint?'↑ Last read':'↑ First unread';
@@ -226,7 +245,7 @@ function navigate(channel) {
 }
 function projectCard(project) {
   const image = safeImage(project.image), url = safeUrl(project.url);
-  return `<button class="project-card" data-project="${esc(project.id)}" aria-label="View ${esc(project.title)}"><div class="project-preview">${image ? `<img src="${esc(image)}" alt="Preview of ${esc(project.title)}">` : '<div class="project-art">✦</div>'}<span class="preview-badge">${project.builtIn ? 'Original prototype' : 'Website'}</span></div><div class="project-details"><span class="project-category">${esc(project.category)}</span><h3>${esc(project.title)}</h3><p>${esc(project.description)}</p><div class="project-bottom"><span>${url ? esc(domainOf(url)) : 'Concept preview'}</span><b>${commentCount('project',project.id)} comments · Explore ↗</b></div></div></button>`;
+  return `<button class="project-card" data-project="${esc(project.id)}" aria-label="View ${esc(project.title)}"><div class="project-preview">${image ? `<img src="${esc(image)}" alt="Preview of ${esc(project.title)}">` : `<div class="project-art${isAppStoreProject(project) ? ' app-wordmark' : ''}">${isAppStoreProject(project) ? esc(project.title) : '✦'}</div>`}<span class="preview-badge">${project.builtIn ? 'Original prototype' : isAppStoreProject(project) ? 'App' : 'Website'}</span></div><div class="project-details"><span class="project-category">${esc(project.category)}</span><h3>${esc(project.title)}</h3><p>${esc(project.description)}</p><div class="project-bottom"><span>${url ? esc(domainOf(url)) : 'Concept preview'}</span><b>${commentCount('project',project.id)} comments · Explore ↗</b></div></div></button>`;
 }
 function render() {
   if(activeChannel==='home')renderHome();
@@ -273,7 +292,7 @@ function commentSection(type,id) {
 }
 function showProject(project) {
   const image=safeImage(project.image),url=safeUrl(project.url);
-  $('#modalRoot').innerHTML = `<div class="modal-overlay" data-close-modal><div class="modal detail-modal" role="dialog" aria-modal="true" aria-label="${esc(project.title)}"><div class="modal-top"><span class="eyebrow">${esc(project.category)}</span><button class="close-button" data-close-modal aria-label="Close">×</button></div><div class="modal-body"><h2>${esc(project.title)}</h2><p class="modal-description">${esc(project.description)}</p><div class="modal-preview">${image ? `<img src="${esc(image)}" alt="Preview of ${esc(project.title)}">` : ''}</div><div class="modal-actions">${url ? `<a class="primary-button" href="${esc(url)}" target="_blank" rel="noopener noreferrer">Visit website ↗</a>` : '<span class="empty-note">Add a live link when this site is ready.</span>'}<button class="secondary-button" data-action="edit-project" data-id="${esc(project.id)}">Edit</button><button class="secondary-button delete" data-action="delete-project" data-id="${esc(project.id)}">Remove</button></div>${commentSection('project',project.id)}</div></div></div>`;
+  $('#modalRoot').innerHTML = `<div class="modal-overlay" data-close-modal><div class="modal detail-modal" role="dialog" aria-modal="true" aria-label="${esc(project.title)}"><div class="modal-top"><span class="eyebrow">${esc(project.category)}</span><button class="close-button" data-close-modal aria-label="Close">×</button></div><div class="modal-body"><h2>${esc(project.title)}</h2><p class="modal-description">${esc(project.description)}</p>${image ? `<div class="modal-preview"><img src="${esc(image)}" alt="Preview of ${esc(project.title)}"></div>` : ''}<div class="modal-actions">${url ? `<a class="primary-button" href="${esc(url)}" target="_blank" rel="noopener noreferrer">${isAppStoreProject(project) ? 'View on the App Store' : 'Visit website'} ↗</a>` : '<span class="empty-note">Add a live link when this site is ready.</span>'}<button class="secondary-button" data-action="edit-project" data-id="${esc(project.id)}">Edit</button><button class="secondary-button delete" data-action="delete-project" data-id="${esc(project.id)}">Remove</button></div>${commentSection('project',project.id)}</div></div></div>`;
   bindCommentForm();
 }
 function showEntry(entry) {
@@ -300,7 +319,7 @@ function imageField(current) { return `<label class="field-label">Preview image<
 function validImage(file) { return !file || (['image/png','image/jpeg','image/webp','image/gif'].includes(file.type) && file.size <= 8*1024*1024); }
 function projectEditor(project=null) {
   const editing=!!project;
-  $('#modalRoot').innerHTML=`<div class="modal-overlay" data-close-modal><div class="modal" role="dialog" aria-modal="true" aria-label="${editing?'Edit website':'Add a website'}"><div class="modal-top"><span class="eyebrow">${editing?'EDIT PROJECT':'NEW PROJECT'}</span><button class="close-button" data-close-modal aria-label="Close">×</button></div><div class="modal-body"><h2>${editing?'Edit website':'Add a website'}</h2><p class="modal-description">Give your site a home on the shelf.</p><form id="projectForm" class="form-grid"><label class="field-label">Website name<input name="title" value="${esc(project?.title||'')}" maxlength="70" required placeholder="e.g. My portfolio"></label><label class="field-label">What kind of site?<input name="category" value="${esc(project?.category||'')}" maxlength="60" placeholder="e.g. Portfolio · 2026"></label><label class="field-label">Short description<textarea name="description" maxlength="240" required>${esc(project?.description||'')}</textarea></label><label class="field-label">Live website URL<input name="url" type="url" value="${esc(project?.url||'')}" placeholder="https://example.com"></label>${imageField(project?.image)}<span class="field-help">Changes made here are saved in this browser. Publishing them for everyone needs a shared content source.</span><div class="form-error" id="formError" role="alert"></div><div class="form-actions"><button class="secondary-button" type="button" data-close-modal>Cancel</button><button class="primary-button" type="submit">${editing?'Save changes':'Add website'}</button></div></form></div></div></div>`;
+  $('#modalRoot').innerHTML=`<div class="modal-overlay" data-close-modal><div class="modal" role="dialog" aria-modal="true" aria-label="${editing?'Edit project':'Add a project'}"><div class="modal-top"><span class="eyebrow">${editing?'EDIT PROJECT':'NEW PROJECT'}</span><button class="close-button" data-close-modal aria-label="Close">×</button></div><div class="modal-body"><h2>${editing?'Edit project':'Add a project'}</h2><p class="modal-description">Add an app, website, or another project.</p><form id="projectForm" class="form-grid"><label class="field-label">Project name<input name="title" value="${esc(project?.title||'')}" maxlength="70" required placeholder="e.g. My portfolio"></label><label class="field-label">What kind of project?<input name="category" value="${esc(project?.category||'')}" maxlength="60" placeholder="e.g. Portfolio · 2026"></label><label class="field-label">Short description<textarea name="description" maxlength="240" required>${esc(project?.description||'')}</textarea></label><label class="field-label">Project URL<input name="url" type="url" value="${esc(project?.url||'')}" placeholder="https://example.com"></label>${imageField(project?.image)}<span class="field-help">Changes made here are saved in this browser. Publishing them for everyone needs a shared content source.</span><div class="form-error" id="formError" role="alert"></div><div class="form-actions"><button class="secondary-button" type="button" data-close-modal>Cancel</button><button class="primary-button" type="submit">${editing?'Save changes':'Add project'}</button></div></form></div></div></div>`;
   $('#projectForm').addEventListener('submit',event=>submitProject(event,project));
   $('#projectForm [name="title"]').focus();
 }
@@ -311,8 +330,8 @@ async function submitProject(event,existing) {
   if (urlText&&!safeUrl(urlText)) {error.textContent='Enter an http or https URL.';return;}
   if (!validImage(file)) {error.textContent='Choose an image under 8 MB.';return;}
   const button=form.querySelector('[type="submit"]'); button.disabled=true;button.textContent='Saving…';
-  try { const image=file?await readImage(file):existing?.image||''; await saveRecord('project',{id:existing?.id||uid(),title,category,description,url:safeUrl(urlText),image,builtIn:!!existing?.builtIn,created:existing?.created||new Date().toISOString()});closeModal();navigate('websites');toast('Website saved.'); }
-  catch {error.textContent='Could not save this website. Try a smaller image.';button.disabled=false;button.textContent='Save website';}
+  try { const image=file?await readImage(file):existing?.image||''; await saveRecord('project',{id:existing?.id||uid(),title,category,description,url:safeUrl(urlText),image,builtIn:!!existing?.builtIn,created:existing?.created||new Date().toISOString()});closeModal();navigate('websites');toast('Project saved.'); }
+  catch {error.textContent='Could not save this project. Try a smaller image.';button.disabled=false;button.textContent='Save project';}
 }
 function entryEditor(channel='articles',entry=null) {
   if (entry?.source || channelMeta(channel)?.managed) return;
@@ -461,8 +480,8 @@ function toast(message) {const element=$('#toast');element.textContent=message;e
 function closeSearch() {$('#searchRoot').innerHTML='';}
 function openSearch() {$('#searchRoot').innerHTML=`<div class="search-overlay" data-close-search><div class="search-panel" role="dialog" aria-modal="true" aria-label="Search the shelf"><div class="search-box"><span>⌕</span><input id="searchInput" type="search" placeholder="Search the shelf…" autocomplete="off"><button data-close-search>ESC</button></div><div class="search-results" id="searchResults"></div></div></div>`;$('#searchInput').addEventListener('input',renderSearch);$('#searchInput').focus();renderSearch();}
 function renderSearch() {
-  const query=$('#searchInput').value.trim().toLowerCase();if(!query){$('#searchResults').innerHTML='<div class="search-empty">Search websites, articles, videos, writing, newsletters, and photos.</div>';return;}
-  const results=[...projects.filter(p=>`${p.title} ${p.description}`.toLowerCase().includes(query)).map(p=>`<button class="search-result" data-search-project="${esc(p.id)}"><small>Website</small><strong>${esc(p.title)}</strong><span>${esc(p.description)}</span></button>`),...allEntries().filter(e=>`${e.title} ${e.description} ${e.channel}`.toLowerCase().includes(query)).map(e=>`<button class="search-result" data-search-entry="${esc(e.id)}"><small>#${esc(e.channel)}</small><strong>${esc(e.title)}</strong><span>${esc(e.description)}</span></button>`),...CHANNELS.filter(c=>`${c.title} ${c.description}`.toLowerCase().includes(query)).map(c=>`<button class="search-result" data-channel="${esc(c.id)}"><small>Channel</small><strong>#${esc(c.title)}</strong><span>${esc(c.description)}</span></button>`)];
+  const query=$('#searchInput').value.trim().toLowerCase();if(!query){$('#searchResults').innerHTML='<div class="search-empty">Search apps, websites, articles, videos, writing, newsletters, and photos.</div>';return;}
+  const results=[...projects.filter(p=>`${p.title} ${p.description}`.toLowerCase().includes(query)).map(p=>`<button class="search-result" data-search-project="${esc(p.id)}"><small>${isAppStoreProject(p) ? 'App' : 'Website'}</small><strong>${esc(p.title)}</strong><span>${esc(p.description)}</span></button>`),...allEntries().filter(e=>`${e.title} ${e.description} ${e.channel}`.toLowerCase().includes(query)).map(e=>`<button class="search-result" data-search-entry="${esc(e.id)}"><small>#${esc(e.channel)}</small><strong>${esc(e.title)}</strong><span>${esc(e.description)}</span></button>`),...CHANNELS.filter(c=>`${c.title} ${c.description}`.toLowerCase().includes(query)).map(c=>`<button class="search-result" data-channel="${esc(c.id)}"><small>Channel</small><strong>#${esc(c.title)}</strong><span>${esc(c.description)}</span></button>`)];
   $('#searchResults').innerHTML=results.length?results.join(''):'<div class="search-empty">No matches yet.</div>';
 }
 function closeSidebar() {$('#sidebar').classList.remove('open');$('#mobileScrim').hidden=true;}
@@ -480,7 +499,7 @@ document.addEventListener('click',async event=>{
   const entry=target.closest('[data-entry]');if(entry){const record=allEntries().find(item=>item.id===entry.dataset.entry);if(record)showEntry(record);return;}
   const searchProject=target.closest('[data-search-project]');if(searchProject){const record=projects.find(item=>item.id===searchProject.dataset.searchProject);closeSearch();showShelf('websites');if(record)showProject(record);return;}
   const searchEntry=target.closest('[data-search-entry]');if(searchEntry){const record=allEntries().find(item=>item.id===searchEntry.dataset.searchEntry);closeSearch();if(record){showShelf(record.channel);showEntry(record);}return;}
-  const actionButton=target.closest('[data-action]');if(actionButton){const action=actionButton.dataset.action,id=actionButton.dataset.id;if(action==='reload-shore')renderShore();if(action==='wallpaper-credit')wallpaperCredit();if(action==='add-project')projectEditor();if(action==='edit-project'){const record=projects.find(item=>item.id===id);if(record)projectEditor(record);}if(action==='delete-project'){const record=projects.find(item=>item.id===id);if(record&&confirm(`Remove "${record.title}" from this browser?`)){try{await removeRecord('project',id);closeModal();toast('Website removed.');}catch{toast('Could not remove the website.');}}}if(action==='edit-entry'){const record=entries.find(item=>item.id===id);if(record)entryEditor(record.channel,record);}if(action==='delete-entry'){const record=entries.find(item=>item.id===id);if(record&&confirm(`Remove "${record.title}" from this browser?`)){try{await removeRecord('entry',id);closeModal();toast('Item removed.');}catch{toast('Could not remove the item.');}}}if(action==='add-entry')entryEditor(activeChannel);if(action==='surprise')surpriseMe();return;}
+  const actionButton=target.closest('[data-action]');if(actionButton){const action=actionButton.dataset.action,id=actionButton.dataset.id;if(action==='reload-shore')renderShore();if(action==='wallpaper-credit')wallpaperCredit();if(action==='add-project')projectEditor();if(action==='edit-project'){const record=projects.find(item=>item.id===id);if(record)projectEditor(record);}if(action==='delete-project'){const record=projects.find(item=>item.id===id);if(record&&confirm(`Remove "${record.title}" from this browser?`)){try{await removeRecord('project',id);closeModal();toast('Project removed.');}catch{toast('Could not remove the project.');}}}if(action==='edit-entry'){const record=entries.find(item=>item.id===id);if(record)entryEditor(record.channel,record);}if(action==='delete-entry'){const record=entries.find(item=>item.id===id);if(record&&confirm(`Remove "${record.title}" from this browser?`)){try{await removeRecord('entry',id);closeModal();toast('Item removed.');}catch{toast('Could not remove the item.');}}}if(action==='add-entry')entryEditor(activeChannel);if(action==='surprise')surpriseMe();return;}
   if(target.closest('[data-close-modal]')&&(target===target.closest('[data-close-modal]')||target.tagName==='BUTTON')){closeModal();return;}
   if(target.closest('[data-close-search]')&&(target===target.closest('[data-close-search]')||target.tagName==='BUTTON'))closeSearch();
 });
