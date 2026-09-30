@@ -1,5 +1,5 @@
 // Add Tyler's real contact links here when they are available.
-const CONTACT = { email: '', instagram: '', linkedin: 'https://www.linkedin.com/in/tylermulvey/' };
+const CONTACT = { email: '', instagram: 'https://www.instagram.com/tyler_mulvey/', twitter: 'https://x.com/tyler_mulvey', linkedin: 'https://www.linkedin.com/in/tylermulvey/' };
 
 const CHANNELS = [
   {id:'websites', title:"what-i've-built", description:"Apps and websites I’ve made"},
@@ -506,7 +506,7 @@ function closeDesktopMenu() {$('#desktopMenuHost').innerHTML='';document.querySe
 function openDesktopMenu(name,button) {
   if($('#desktopMenuHost').dataset.open===name) {closeDesktopMenu();$('#desktopMenuHost').dataset.open='';return;}
   closeDesktopMenu();$('#desktopMenuHost').dataset.open=name;button.classList.add('active');
-  const items={file:[['linkedin','in','LinkedIn ↗'],['email','✉','Email me'],['instagram','◎','Instagram']],rec:[['recommend','✦','Recommend something to me'],['drafts','▤','Saved drafts on this device']],view:[['shore','◉','Jersey Shore live'],['surprise','▶','Surprise me with a video'],['spider','✳','Take a break']],window:[['show-shelf','✦','Show Tyler.Center'],['center-window','▣','Center window']]}[name];
+  const items={file:[['linkedin','in','LinkedIn ↗'],['email','✉','Email me'],['instagram','◎','Instagram ↗'],['twitter','𝕏','Twitter / X ↗']],rec:[['recommend','✦','Recommend something to me'],['drafts','▤','Saved drafts on this device']],view:[['shore','◉','Jersey Shore live'],['surprise','▶','Surprise me with a video'],['spider','✳','Take a break']],window:[['show-shelf','✦','Show Tyler.Center'],['center-window','▣','Center window']]}[name];
   const rect=button.getBoundingClientRect();
   $('#desktopMenuHost').innerHTML=`<div class="desktop-dropdown" style="left:${Math.round(rect.left)}px">${items.map(([action,icon,label])=>`<button data-menu-action="${action}"><span>${icon}</span>${label}</button>`).join('')}</div>`;
 }
@@ -569,7 +569,7 @@ document.addEventListener('click',async event=>{
   if(!target.closest('.rocket-menu'))closeRocketMenu();
   const caseFile=target.closest('[data-case-study]');if(caseFile){showCaseStudy(Number(caseFile.dataset.caseStudy));return;}
   const menuButton=target.closest('[data-menu]');if(menuButton){openDesktopMenu(menuButton.dataset.menu,menuButton);return;}
-  const menuAction=target.closest('[data-menu-action]');if(menuAction){const action=menuAction.dataset.menuAction;closeDesktopMenu();$('#desktopMenuHost').dataset.open='';if(action==='shore')openShore();if(action==='spider')showShelf(action);if(action==='linkedin')openLinkedIn();if(action==='email')contactEmail()?window.location.href=`mailto:${contactEmail()}`:toast('Add Tyler’s email to enable this link.');if(action==='instagram')instagramUrl()?window.open(instagramUrl(),'_blank','noopener,noreferrer'):toast('Add Tyler’s Instagram profile to enable this link.');if(action==='recommend')recommendModal();if(action==='drafts')draftsModal();if(action==='surprise')surpriseMe();if(action==='show-shelf')showShelf();if(action==='center-window'){const element=$('#appWindow');element.style.left='';element.style.top='';element.style.transform='';toast('Window centered.');}return;}
+  const menuAction=target.closest('[data-menu-action]');if(menuAction){const action=menuAction.dataset.menuAction;closeDesktopMenu();$('#desktopMenuHost').dataset.open='';if(action==='shore')openShore();if(action==='spider')showShelf(action);if(action==='linkedin')openLinkedIn();if(action==='email')contactEmail()?window.location.href=`mailto:${contactEmail()}`:toast('Add Tyler’s email to enable this link.');if(action==='instagram')instagramUrl()?window.open(instagramUrl(),'_blank','noopener,noreferrer'):toast('Add Tyler’s Instagram profile to enable this link.');if(action==='twitter')window.open(safeUrl(CONTACT.twitter),'_blank','noopener,noreferrer');if(action==='recommend')recommendModal();if(action==='drafts')draftsModal();if(action==='surprise')surpriseMe();if(action==='show-shelf')showShelf();if(action==='center-window'){const element=$('#appWindow');element.style.left='';element.style.top='';element.style.transform='';toast('Window centered.');}return;}
   if(!target.closest('.desktop-dropdown')){closeDesktopMenu();$('#desktopMenuHost').dataset.open='';}
   const channel=target.closest('[data-channel]');if(channel){closeSearch();showShelf(channel.dataset.channel);return;}
   const project=target.closest('[data-project]');if(project){const record=projects.find(item=>item.id===project.dataset.project);if(record)showProject(record);return;}

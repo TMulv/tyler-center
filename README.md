@@ -24,7 +24,7 @@ Serve locally with `python3 -m http.server 8766`, or publish this directory from
 
 Edits and comments made through the website are saved in the visitor's own browser. They do **not** publish to GitHub or appear for other visitors. The site needs a shared backend before public comments and browser edits can be shared.
 
-The File menu's Email and Instagram links need Tyler's chosen public contact details in `CONTACT` at the top of `app.js`. Until an email is configured, Rec saves a draft only on the visitor's device. These drafts can be reopened from the Rec menu; they are not delivered to Tyler.
+The File menu links to Instagram and Twitter / X as @tyler_mulvey. Its Email link still needs Tyler's chosen public email in `CONTACT` at the top of `app.js`. Until an email is configured, Rec saves a draft only on the visitor's device. These drafts can be reopened from the Rec menu; they are not delivered to Tyler.
 
 The initial website preview is an illustration of the original prototype. No real website screenshots or photography were supplied. To add content visible to everyone on this static site, edit `STARTER_PROJECTS` and `STARTER_ENTRIES` in `app.js` and put images in `assets/`. Existing browser storage can take precedence over updated starter records; clear this site's browser storage while testing changes to starter data.
 
