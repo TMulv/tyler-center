@@ -43,7 +43,7 @@ Read this file before changing the site. These are Tyler's standing project pref
 - Use focused checks for small changes and meaningful regression tests for behavioral changes. Do not claim a visual or playback check based only on HTTP success.
 - Public Notion sync uses only approved fields and respects privacy/status filters. Read Later publishes titles, article links, saved dates, and reading statuses; exclude notes and private PDFs. Never expose private inbox links, files, or tokens.
 - Failed or incomplete source syncs preserve the last good snapshot; one failed source must not erase or block successful independent sources. See `FEED-SETUP.md` for source-specific rules.
-- Visitors' saved username channels are private; comments are public. Real accounts need email-code authentication and enforced backend ownership rules. Keep setup honestly marked pending until the backend is configured and verified; do not simulate a successful signup.
+- Visitors' saved username channels are private and live after verified email-code authentication and backend ownership checks. Public comments remain disabled until their separate database and policy checks pass. Do not present a browser-only draft as a sent recommendation.
 
 ## Notion project dates
 

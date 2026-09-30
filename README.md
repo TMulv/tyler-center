@@ -19,12 +19,12 @@ Serve locally with `python3 -m http.server 8766`, or publish this directory from
 - About me as a chat thread, a personal details toggle, and five redacted case-study file previews. Betting Antelope uses its textured logo as its posting avatar.
 - Kanye2024.com shows Tyler's first domain purchase and sale with a typewriter SOLD stamp and a linked Namecheap ownership-transfer confirmation.
 - An Easter egg under View → Take a break opens playable Spider Solitaire: 1/2/4 suits, legal moves, deals, completed runs, hints, undo, and a game saved on this device.
-- Comment/thread entry points on posts and a private-channel setup guide. Real reader accounts and public comments remain behind the activation gate; public built projects have no visitor edit control.
+- Verified email-code reader accounts and private saved-item channels. Comment/thread entry points are visible, but public comments remain disabled; public built projects have no visitor edit control.
 - The File, Rec, View, and Window menus, including Surprise Me for a random video.
 
 ## Current limits
 
-Reader accounts and public comments are disabled in `reader-config.js` until the Supabase setup is complete and verified. Local read markers and recommendation drafts are browser-only; they are not shared accounts or public comments.
+Reader accounts and private saved-item channels are enabled after live email delivery and database isolation checks. Public comments remain disabled in `reader-config.js` pending their separate database and policy checks. Local read markers and recommendation drafts remain browser-only.
 
 The File menu links to Instagram and Twitter / X as @tyler_mulvey. Its Email link still needs Tyler's chosen public email in `CONTACT` at the top of `app.js`. Until an email is configured, Rec saves a draft only on the visitor's device. These drafts can be reopened from the Rec menu; they are not delivered to Tyler.
 
@@ -75,4 +75,4 @@ See `assets/ASSET-NOTES.md` for the Betting Antelope source and texture edit.
 
 ## Reader accounts and rocket menus
 
-Click a channel’s rocket for **Mark all as read**, or **Mark every channel as read**. Private reader accounts are implemented behind a deployment gate. See [READER-ACCOUNTS.md](READER-ACCOUNTS.md) for backend setup, email delivery, privacy checks, and the exact remaining activation steps.
+Click a channel’s rocket for **Mark all as read**, or **Mark every channel as read**. Email-code sign-in and private saved-item channels are live. See [READER-ACCOUNTS.md](READER-ACCOUNTS.md) for the verified setup and remaining public-comment checks.
