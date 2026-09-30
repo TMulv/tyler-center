@@ -260,6 +260,16 @@
       "mediaType": "YouTube",
       "readingStatus": "Finished",
       "publishedAt": "2026-09-30T16:52:00Z"
+    },
+    {
+      "id": "watchlater-e5b81bdda25f4673984e5a54aff10f72",
+      "channel": "watch",
+      "source": "notion",
+      "title": "The QB School",
+      "url": "https://www.youtube.com/@TheQBSchool",
+      "mediaType": "YouTube",
+      "readingStatus": "Want to see",
+      "publishedAt": "2026-09-30T19:45:00Z"
     }
   ]
 }
