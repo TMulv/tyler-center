@@ -6,7 +6,7 @@
     return payload.entries.map(item => {
       if (!item || item.channel !== channel || typeof item.id !== 'string' || seen.has(item.id) ||
           !item.id.startsWith(channel === 'writing' ? 'rss-' : channel === 'articles' ? 'readlater-' : channel === 'websites' ? 'domain-' : channel === 'watch' ? 'watchlater-' : 'digest-') ||
-          typeof item.title !== 'string' || !item.title.trim() || !Number.isFinite(Date.parse(item.publishedAt))) {
+          typeof item.title !== 'string' || !item.title.trim() || (!(channel === 'websites' && item.publishedAt === null) && !Number.isFinite(Date.parse(item.publishedAt)))) {
         throw new Error('Invalid feed entry');
       }
       seen.add(item.id);

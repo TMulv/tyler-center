@@ -198,6 +198,7 @@ class DomainSyncTests(unittest.TestCase):
     def page(self, private=False, statuses=('Live',)):
         return {'id':'domain-123','created_time':'2026-09-30T12:00:00Z','properties':{
             'Name':{'title':[{'plain_text':'Example.COM'}]},
+            'date ':{'type':'date','date':{'start':'2025-05-09','end':None,'time_zone':None}},
             'Keep Private':{'type':'checkbox','checkbox':private},
             'Status':{'multi_select':[{'name':s} for s in statuses]},
             'Description':{'rich_text':[{'plain_text':'A public project.'}]},
@@ -268,3 +269,24 @@ class WatchSyncTests(unittest.TestCase):
             self.assertEqual(path.read_bytes(),before)
             with patch.object(sync,'collect_watch_later',return_value=[]):sync.sync_watch_later()
             self.assertEqual(sync.read_snapshot(path),[])
+
+
+class ProjectDateTests(unittest.TestCase):
+    def test_calendar_date_wins_over_notion_row_creation(self):
+        page=DomainSyncTests().page()
+        self.assertEqual(sync.domain_record(page)['publishedAt'],'2025-05-09')
+        page['created_time']='2030-12-31T23:59:00Z'
+        self.assertEqual(sync.domain_record(page)['publishedAt'],'2025-05-09')
+    def test_whitespace_name_dates_with_times_and_empty_dates(self):
+        self.assertEqual(sync.project_date({'Date':{'type':'date','date':{'start':'2026-09-23'}}}),'2026-09-23')
+        self.assertEqual(sync.project_date({'date ':{'type':'date','date':{'start':'2026-09-23T10:30:00-04:00'}}}),'2026-09-23T14:30:00Z')
+        self.assertIsNone(sync.project_date({'date ':{'type':'date','date':None}}))
+        for fields in [{},{'date':{'type':'created_time'}},{'date':{'type':'date','date':{'start':'2025-02-30'}}}]:
+            with self.assertRaises(ValueError):sync.project_date(fields)
+    def test_empty_project_dates_serialize_without_invented_timestamps(self):
+        page=DomainSyncTests().page();page['properties']['date ']['date']=None
+        row=sync.domain_record(page);self.assertIsNone(row['publishedAt'])
+        with tempfile.TemporaryDirectory() as directory:
+            path=Path(directory)/'websites.json'
+            sync.write_snapshot(path,[row,{**row,'id':'second','publishedAt':'2025-01-01'}])
+            self.assertIsNone(sync.read_snapshot(path)[0]['publishedAt'])

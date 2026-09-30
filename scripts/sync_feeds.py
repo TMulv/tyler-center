@@ -130,7 +130,7 @@ def read_snapshot(path):
 
 
 def write_snapshot(path, entries):
-    payload = {'version': 1, 'entries': sorted(entries, key=lambda e: (e['publishedAt'], e['id']))}
+    payload = {'version': 1, 'entries': sorted(entries, key=lambda e: (e['publishedAt'] or '', e['id']))}
     serialized = json.dumps(payload, ensure_ascii=False, indent=2) + '\n'
     if path.exists() and path.read_text() == serialized:
         return
@@ -370,6 +370,21 @@ def sync_read_later():
     write_snapshot(ROOT / 'data/articles.json', records)
 
 
+def project_date(properties):
+    # The current Notion property is named "date " (with a trailing space).
+    fields = [value for name, value in properties.items() if name.strip().lower() == 'date']
+    if len(fields) != 1 or fields[0].get('type') != 'date':
+        raise ValueError('Project date property is missing or ambiguous')
+    date = fields[0].get('date')
+    if not date or not date.get('start'):
+        return None
+    start = date['start']
+    if re.fullmatch(r'\d{4}-\d{2}-\d{2}', start):
+        datetime.fromisoformat(start)  # Validate while retaining calendar-date precision.
+        return start
+    return iso_date(start)
+
+
 def domain_record(page):
     if page.get('archived') or page.get('in_trash'):
         return None
@@ -391,7 +406,7 @@ def domain_record(page):
     status = 'Live' if 'Live' in statuses else 'Practice'
     return {'id':'domain-' + page['id'].replace('-', ''), 'channel':'websites', 'source':'notion',
             'title':title, 'url':url, 'description':rich_text(props.get('Description', {}).get('rich_text', []), {}),
-            'projectStatus':status, 'publishedAt':iso_date(page['created_time'])}
+            'projectStatus':status, 'publishedAt':project_date(props)}
 
 
 def collect_domains(api):

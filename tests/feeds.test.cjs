@@ -81,3 +81,12 @@ test('watch metadata includes safe YouTube previews, excludes private content, a
  assert.equal(movie.url,'');assert.equal(movie.kind,'Movies');
  assert.throws(()=>validate({version:1,entries:[{...row,mediaType:'Invalid'}]},'watch'));
 });
+
+
+test('project calendar dates remain exact and empty dates do not become import dates',()=>{
+ const record={id:'domain-date',channel:'websites',title:'Example.com',url:'https://example.com/',projectStatus:'Live',publishedAt:'2025-05-09'};
+ assert.equal(validate({version:1,entries:[record]},'websites')[0].publishedAt,'2025-05-09');
+ assert.equal(validate({version:1,entries:[{...record,publishedAt:null}]},'websites')[0].publishedAt,null);
+ assert.throws(()=>validate({version:1,entries:[{...record,publishedAt:'invalid'}]},'websites'));
+ assert.throws(()=>validate({version:1,entries:[{...post,publishedAt:null}]},'writing'));
+});

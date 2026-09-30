@@ -117,3 +117,6 @@ The sync workflow has separate **Notion channels** and **Betting Antelope writin
 ### Automatic link previews
 
 `scripts/sync_previews.py` reads public links from the Read Later and built-project snapshots. It stores only page titles, short descriptions, site names, and original image/icon URLs in `data/previews.json`. It does not store article bodies or image files. The Notion sync refreshes newly added URLs and revisits cached sources weekly. Private/local destinations and signed file URLs are rejected; redirects are checked before following. Sites without available artwork use an explicit domain card. Existing metadata is retained when a source cannot refresh. The visible writing channel is named `betting-antelope`; its stable internal `writing` ID is unchanged.
+
+
+Project timestamps in #what-i’ve-built come from the Notion `date ` property (matched case-insensitively after trimming whitespace), never the row’s creation or import timestamp. Calendar dates stay YYYY-MM-DD, so display and year filtering preserve the selected day. Empty dates display “Date not set”; a missing/renamed date property fails the sync without replacing the previous snapshot. The standalone TomoTomo app remains separate from this domains database.
