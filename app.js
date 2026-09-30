@@ -10,10 +10,6 @@ const CHANNELS = [
   {id:'photography', title:'photography', description:'Photos I have taken'}
 ];
 const STARTER_PROJECTS = [{
-  id:'tylers-shelf', title:"Tyler.Center", category:'Personal website · prototype',
-  description:'A home for the links, books, films, and ideas worth sharing. The original Finder-style concept that started this site.',
-  url:'', image:'assets/shelf-preview.svg', builtIn:true, created:'2026-09-29'
-}, {
   id:'tomotomo', title:'TomoTomo', category:'App · iPhone & iPad',
   description:'Read and listen without losing your place. TomoTomo keeps your ebooks and audiobooks in sync, using the files you already own.',
   url:'https://apps.apple.com/us/app/tomotomo/id6778601579', image:'', created:'2026-09-30'
@@ -37,7 +33,7 @@ let projects = [...STARTER_PROJECTS], entries = [...STARTER_ENTRIES], comments =
 let database = null, activeChannel = 'home';
 let publishedEntries = [], refreshingFeeds = false;
 const channelFilters = {};
-const allEntries = () => ChannelFeeds.merge(entries, publishedEntries);
+const allEntries = () => ChannelFeeds.merge(entries, publishedEntries.filter(e=>e.channel!=='websites'));
 let toastTimer, lastSurpriseId = null, frontLayer = 4;
 let readState = fallbackRead('read-state-v1', {});
 let readingPositions = fallbackRead('reading-positions-v1', {});
@@ -198,6 +194,8 @@ async function initialize() {
     if (database) await writeStore('entries','put',firstPost);
     else fallbackWrite('entries',entries);
   }
+  // Public projects come from the canonical app list and Notion, never old browser copies.
+  projects = ChannelFeeds.projects(STARTER_PROJECTS, publishedEntries);
   navigate('home');
   refreshFeeds();
   setInterval(() => {if (!document.hidden) refreshFeeds();}, 60000);
@@ -208,7 +206,7 @@ async function refreshFeeds() {
   refreshingFeeds = true;
   const oldEntries = JSON.stringify(publishedEntries);
   try {
-    const results = await Promise.allSettled(['writing','newsletters','articles'].map(async channel => {
+    const results = await Promise.allSettled(['writing','newsletters','articles','websites'].map(async channel => {
       const response = await fetch(`data/${channel}.json`, {cache:'no-store', signal:AbortSignal.timeout(15000)});
       if (!response.ok) throw new Error('Feed unavailable');
       return {channel, records:ChannelFeeds.validate(await response.json(), channel)};
@@ -217,12 +215,13 @@ async function refreshFeeds() {
       publishedEntries = [...publishedEntries.filter(e => e.channel !== result.value.channel), ...result.value.records];
     }
     if (JSON.stringify(publishedEntries) !== oldEntries) {
+      projects = ChannelFeeds.projects(STARTER_PROJECTS, publishedEntries.filter(e=>e.channel==='websites'));
       const viewport = $('#contentScroll');
       const atBottom = viewport.scrollHeight - viewport.scrollTop - viewport.clientHeight < 80;
       const anchor = [...document.querySelectorAll('[data-message-id]')].find(el => el.getBoundingClientRect().bottom > viewport.getBoundingClientRect().top);
       const anchorId = anchor?.dataset.messageId, anchorTop = anchor?.getBoundingClientRect().top;
       renderNav();
-      if (['writing','newsletters','articles'].includes(activeChannel)) {
+      if (['writing','newsletters','articles','websites'].includes(activeChannel)) {
         const oldTop = viewport.scrollTop;
         if (!sessionFirstUnread) sessionFirstUnread = ChannelReadState.ordered(channelRecords(activeChannel)).find(record => ChannelReadState.count([record],readState,activeChannel))?.id || null;
         $('#lastReadButton').disabled = !sessionCheckpoint && !sessionFirstUnread;

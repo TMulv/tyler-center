@@ -22,6 +22,7 @@ RSS_URL = 'https://bettingantelope.substack.com/feed'
 WRITING_ARCHIVE_URL = 'https://bettingantelope.substack.com/api/v1/archive'
 ARCHIVE = '074c794e-c62f-48cc-97c9-dc98fba14a32'
 EDITIONS = 'aab9f113-6439-4714-9185-0cc08f9d70df'
+DOMAINS = '3eb8153c-8a3e-80ec-9922-000bccb5a71c'
 READ_LATER = 'a08dfd74-875d-4998-affe-968c65c3e41f'
 READING_STATUSES = ('To Read', 'Priority', 'Reading', 'Read', 'Archive', 'Not marked')
 PRIVATE_HOSTS = ('mail.google.com', 'gmail.com', 'outlook.com', 'outlook.office.com',
@@ -366,6 +367,46 @@ def sync_read_later():
     write_snapshot(ROOT / 'data/articles.json', records)
 
 
+def domain_record(page):
+    if page.get('archived') or page.get('in_trash'):
+        return None
+    props = page['properties']
+    # Fail closed if the privacy property is missing, renamed or not a checkbox.
+    privacy = props.get('Keep Private', {})
+    if privacy.get('type') != 'checkbox' or privacy.get('checkbox') is not False:
+        return None
+    statuses = {s['name'] for s in props.get('Status', {}).get('multi_select', [])}
+    if statuses & {'Parked', 'Sold'} or not statuses & {'Live', 'Practice'}:
+        return None
+    title = rich_text(props.get('Name', {}).get('title', []), {})
+    # Current source stores the public domain as Name; no page-body scraping.
+    if not re.fullmatch(r'(?:[A-Za-z0-9](?:[A-Za-z0-9-]{0,61}[A-Za-z0-9])?\.)+[A-Za-z]{2,63}', title):
+        raise ValueError('Public project Name must be a domain')
+    url = public_url('https://' + title.lower() + '/')
+    if not url:
+        raise ValueError('Project domain is not public')
+    status = 'Live' if 'Live' in statuses else 'Practice'
+    return {'id':'domain-' + page['id'].replace('-', ''), 'channel':'websites', 'source':'notion',
+            'title':title, 'url':url, 'description':rich_text(props.get('Description', {}).get('rich_text', []), {}),
+            'projectStatus':status, 'publishedAt':iso_date(page['created_time'])}
+
+
+def collect_domains(api):
+    records = []
+    for page in api.pages(f'data_sources/{DOMAINS}/query', query=True):
+        record = domain_record(page)
+        if record:
+            records.append(record)
+    return records
+
+
+def sync_domains():
+    token = os.environ.get('NOTION_TOKEN', '').strip()
+    if not token:
+        raise RuntimeError('My Domains requires NOTION_TOKEN')
+    write_snapshot(ROOT / 'data/websites.json', collect_domains(Notion(token)))
+
+
 def sync_notion():
     token = os.environ.get('NOTION_TOKEN', '').strip()
     if not token:
@@ -377,12 +418,14 @@ def sync_notion():
 
 if __name__ == '__main__':
     parser = argparse.ArgumentParser()
-    parser.add_argument('source', choices=['rss', 'notion', 'read-later'])
+    parser.add_argument('source', choices=['rss', 'notion', 'read-later', 'domains'])
     parser.add_argument('--backfill', action='store_true', help='Import the full public writing archive before syncing RSS')
     args = parser.parse_args()
     try:
         if args.source == 'rss':
             sync_rss(backfill=args.backfill)
+        elif args.source == 'domains':
+            sync_domains()
         elif args.source == 'read-later':
             sync_read_later()
         else:

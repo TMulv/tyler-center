@@ -87,3 +87,14 @@ The entire data source is synced, so changing a status to Read keeps the article
 Edit Title, Link, or Status in Notion to update the corresponding public message. Date added determines its saved timestamp and order. The scheduled workflow checks every 15 minutes, with possible GitHub scheduling and Pages deployment delays; the open website refreshes snapshots every minute. New saves appear automatically. The status filter describes Tyler’s reading status, independently of visitors’ unread badges. Historical Git commits can retain previously published metadata.
 
 Run `python3 scripts/sync_feeds.py read-later` with NOTION_TOKEN set for a local sync. Any query or schema error preserves the previous complete snapshot. Independent source steps let Read Later and the newsletter publish even when RSS fails. As of September 30, Substack returns HTTP 403 for both RSS and archive requests on GitHub’s runner; this is separate from the working Notion connection.
+
+
+## My Domains → #what-i've-built
+
+The Notion page formerly called My Domains is now What I’ve Built. The importer queries its child data source `3eb8153c-8a3e-80ec-9922-000bccb5a71c` every 15 minutes, using the existing read-only connection. It publishes only records with **Keep Private unchecked** and **Status = Live or Practice**. Any Parked/Sold status excludes the record, even if Live is also selected. Missing or renamed privacy fields fail closed. Archiving, deleting, or checking Keep Private removes the project after the next successful sync; previously public metadata remains in Git history.
+
+Public fields are Name, derived HTTPS domain link, Description, project status and Notion creation date, plus a stable source identifier. Names must be domains (for example `example.com`); invalid eligible rows preserve the last successful snapshot and report an error. Files, page bodies, internal notes, and private records are never included. The timestamp is the date added to Notion, not a claim about the website’s launch date.
+
+The browser loads `data/websites.json`, combines it with the explicitly added TomoTomo App Store entry, and ignores stale browser-stored prototype projects. The Apps / Websites filters still apply. Renaming or updating a source record updates the same message, and new eligible rows appear automatically. The first production run must succeed before the channel can show the Notion sites.
+
+Local command: `python3 scripts/sync_feeds.py domains` with NOTION_TOKEN set. Source failures leave the previous complete snapshot available and do not block the other sources from publishing.

@@ -51,3 +51,19 @@ test('Read Later only exposes approved metadata and replaces sample articles',()
   assert.deepEqual(merge([{id:'great-work',channel:'articles'},{id:'other',channel:'watch'}],[entry]),[{id:'other',channel:'watch'},entry]);
   assert.throws(()=>validate({version:1,entries:[{...record,readingStatus:'unknown'}]},'articles'));
 });
+
+test('Notion built projects are validated without importing files or private fields',()=>{
+  const row={id:'domain-abc',channel:'websites',title:'Example.com',url:'https://example.com/',description:'A website',projectStatus:'Practice',publishedAt:'2026-09-30T12:00:00Z',files:'PRIVATE',body:'PRIVATE'};
+  const [entry]=validate({version:1,entries:[row]},'websites');
+  assert.equal(entry.category,'Website · Practice');assert.equal(entry.source,'notion');
+  assert.doesNotMatch(JSON.stringify(entry),/PRIVATE/);
+  for(const patch of [{projectStatus:'Sold'},{url:'https://app.notion.com/private'}]) assert.throws(()=>validate({version:1,entries:[{...row,...patch}]},'websites'));
+});
+test('canonical projects retain TomoTomo, reflect deletions and do not duplicate a source',()=>{
+  const {projects}=require('../feeds.js');
+  const app={id:'tomotomo',url:'https://apps.apple.com/app/tomotomo'};
+  const site={id:'domain-abc',channel:'websites',url:'https://example.com/'};
+  assert.deepEqual(projects([app],[site]),[app,site]);
+  assert.deepEqual(projects([app],[]),[app]);
+  assert.deepEqual(projects([site],[site]),[site]);
+});

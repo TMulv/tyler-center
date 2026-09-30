@@ -192,3 +192,41 @@ class ReadLaterTests(unittest.TestCase):
             self.assertEqual(path.read_bytes(), before)
             with patch.object(sync, 'collect_read_later', return_value=[]): sync.sync_read_later()
             self.assertEqual(sync.read_snapshot(path), [])
+
+
+class DomainSyncTests(unittest.TestCase):
+    def page(self, private=False, statuses=('Live',)):
+        return {'id':'domain-123','created_time':'2026-09-30T12:00:00Z','properties':{
+            'Name':{'title':[{'plain_text':'Example.COM'}]},
+            'Keep Private':{'type':'checkbox','checkbox':private},
+            'Status':{'multi_select':[{'name':s} for s in statuses]},
+            'Description':{'rich_text':[{'plain_text':'A public project.'}]},
+            'files':{'files':[{'url':'SECRET_FILE'}]},'Notes':{'rich_text':[{'plain_text':'SECRET_NOTE'}]}}}
+    def test_public_allowlist_domain_and_stable_identity(self):
+        record=sync.domain_record(self.page())
+        self.assertEqual(record['url'],'https://example.com/')
+        self.assertEqual(record['projectStatus'],'Live')
+        self.assertEqual(set(record),{'id','channel','source','title','url','description','projectStatus','publishedAt'})
+        self.assertNotIn('SECRET',json.dumps(record))
+        page=self.page();page['properties']['Name']['title'][0]['plain_text']='Renamed.com'
+        self.assertEqual(sync.domain_record(page)['id'],record['id'])
+    def test_private_archived_and_nonbuilt_domains_never_publish(self):
+        self.assertIsNone(sync.domain_record(self.page(private=True)))
+        for statuses in [(),('Parked',),('Sold',),('Live','Sold'),('Practice','Parked')]:
+            self.assertIsNone(sync.domain_record(self.page(statuses=statuses)))
+        self.assertEqual(sync.domain_record(self.page(statuses=('Practice',)))['projectStatus'],'Practice')
+        for flag in ['archived','in_trash']:
+            page=self.page();page[flag]=True;self.assertIsNone(sync.domain_record(page))
+        for value in [{},{'type':'text','checkbox':False},{'type':'checkbox','checkbox':None}]:
+            page=self.page();page['properties']['Keep Private']=value;self.assertIsNone(sync.domain_record(page))
+    def test_invalid_public_names_fail_without_overwriting_snapshot(self):
+        for name in ['My cool site','example.com/private','notion.so','localhost','https://example.com']:
+            page=self.page();page['properties']['Name']['title'][0]['plain_text']=name
+            with self.assertRaises(ValueError):sync.domain_record(page)
+        with tempfile.TemporaryDirectory() as directory, patch.object(sync,'ROOT',Path(directory)), patch.dict(sync.os.environ,{'NOTION_TOKEN':'test'}):
+            path=Path(directory)/'data/websites.json';sync.write_snapshot(path,[sync.domain_record(self.page())]);before=path.read_bytes()
+            with patch.object(sync,'collect_domains',side_effect=RuntimeError('failed second page')):
+                with self.assertRaises(RuntimeError):sync.sync_domains()
+            self.assertEqual(path.read_bytes(),before)
+            with patch.object(sync,'collect_domains',return_value=[]):sync.sync_domains()
+            self.assertEqual(sync.read_snapshot(path),[])
