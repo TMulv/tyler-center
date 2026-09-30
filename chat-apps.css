@@ -17,3 +17,5 @@
 
 /* Tyler's supplied portrait, framed closer without changing the original file. */
 .tyler-avatar{position:relative;overflow:hidden;background:var(--grain),#eee8d5;border:1px solid #71867b;border-radius:4px}.tyler-avatar img{position:absolute;left:50%;top:50%;width:150%;height:150%;max-width:none;object-fit:contain;transform:translate(-50%,-50%)}
+
+.channel-source-link{display:inline-block;font-size:13px;margin:2px 0 14px;color:var(--red);text-underline-offset:4px}
