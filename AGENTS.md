@@ -18,6 +18,7 @@ Read this file before changing the site. These are Tyler's standing project pref
 - Preserve stable record/channel IDs and per-visitor read markers when renaming or refreshing content. Use rocket badges for unread/updated messages, with Mark all as read available from the rocket menu. Do not mark unseen messages as read just by opening a channel.
 - Use hyphenated visible channel names: `what-i've-built`, `read-later`, `watch-or-listen-later`, `betting-antelope`, `daily-newsletter`, and `photography`.
 - Each channel gets a short description under its heading and relevant filters. Keep the filtered results in chronological chat order.
+- Preserve Tyler's first-person channel descriptions in the channel header and intro. Read Later describes articles crossing his desk; Betting Antelope mentions its 2019 launch, Vince's model, publishing days, and a working email signup link; Daily Newsletter uses Tyler's "Frankenstein" digest description. Do not replace these with generic summaries.
 - Linked items get clickable preview cards with their title, destination, useful description, and source artwork where available. Every built project needs a visual preview. If a site lacks artwork or forbids embedding, use an honest branded/domain card; do not invent screenshots or bypass framing restrictions.
 - Preserve hyperlinks to original stories in newsletter digests. Case studies appear as shared files in the chat, with company names redacted.
 

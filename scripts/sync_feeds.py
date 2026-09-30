@@ -20,6 +20,10 @@ import xml.etree.ElementTree as ET
 ROOT = Path(__file__).resolve().parents[1]
 RSS_URL = 'https://bettingantelope.substack.com/feed'
 WRITING_ARCHIVE_URL = 'https://bettingantelope.substack.com/api/v1/archive'
+SUBSTACK_HEADERS = {
+    'User-Agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36',
+    'Accept': 'application/rss+xml, application/xml;q=0.9, application/json;q=0.8, */*;q=0.7',
+}
 ARCHIVE = '074c794e-c62f-48cc-97c9-dc98fba14a32'
 EDITIONS = 'aab9f113-6439-4714-9185-0cc08f9d70df'
 DOMAINS = '3eb8153c-8a3e-80ec-9922-000bccb5a71c'
@@ -174,7 +178,7 @@ def collect_writing_archive():
     records = {}
     offset = 0
     while True:
-        page = json.loads(fetch(f'{WRITING_ARCHIVE_URL}?sort=new&offset={offset}&limit=20'))
+        page = json.loads(fetch(f'{WRITING_ARCHIVE_URL}?sort=new&offset={offset}&limit=20', headers=SUBSTACK_HEADERS))
         if not isinstance(page, list):
             raise ValueError('Unexpected archive response')
         if not page:
@@ -216,7 +220,7 @@ def sync_rss(xml=None, backfill=False):
         incoming = parse_rss(xml)
     else:
         try:
-            incoming = parse_rss(fetch(RSS_URL, headers={'Accept':'application/rss+xml, application/xml;q=0.9, text/xml;q=0.8'}))
+            incoming = parse_rss(fetch(RSS_URL, headers=SUBSTACK_HEADERS))
         except (SourceHTTPError, URLError, TimeoutError, ET.ParseError, ValueError) as error:
             print(f'::warning::RSS unavailable ({error_summary(error)}); trying the public publication archive.')
             incoming = collect_writing_archive()
