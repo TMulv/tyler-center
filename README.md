@@ -1,8 +1,8 @@
 # Tyler.Center
 
-A desktop-style personal site with channels for About me, Websites, Articles, Watch, Writing, and Photography.
+A desktop-style personal site with channels for About me, Websites, Articles, Watch, Writing, Newsletters, and Photography.
 
-Open `index.html` locally, or publish this directory from the root of a GitHub Pages repository. The `CNAME` file sets the custom domain to `tyler.center`.
+Serve locally with `python3 -m http.server 8766`, or publish this directory from the root of a GitHub Pages repository. The `CNAME` file sets the custom domain to `tyler.center`.
 
 ## What works
 
@@ -38,6 +38,9 @@ The initial website preview is an illustration of the original prototype. No rea
 - `spider-engine.js` and `spider.js`: card rules and playable UI
 - `app.js`: content and interactions
 - `unread.js`: per-channel read markers
+- `feeds.js` and `data/`: validated shared channel snapshots
+- `scripts/sync_feeds.py`: RSS and Notion readers
+- `.github/workflows/sync-feeds.yml`: scheduled publishing
 - `assets/`: local illustrations
 - `CNAME`: GitHub Pages custom domain
 
@@ -55,9 +58,11 @@ Photo: NASA, via [Unsplash](https://unsplash.com/photos/dCgbRAQmTQA). Published 
 
 The provided image is stored unchanged in `assets/challenger-launch.jpg`. The reference texture images were not reused; `assets/print-grain.svg` provides original procedural surface grain. Special Elite's license is included under `assets/fonts/`.
 
-## Notion sync
+## Channel sync
 
-Sync is not connected yet. The accompanying `NOTION-SYNC-ACTION-LIST.md` in the project directory maps the five channels to Notion sources, publishing properties, update behavior, and the server-side publishing bridge needed by this static site.
+Writing reads shared Betting Antelope RSS snapshots. Newsletters reads finished editions from the Daily Newsletter Digest archive, once its read-only Notion key is configured. See [FEED-SETUP.md](FEED-SETUP.md) for activation, source IDs, scheduling, and limitations. The local implementation includes 20 writing previews and one existing digest; scheduled production sync still requires publishing this version.
+
+Websites, Articles, and Photography sync are not connected yet. The accompanying `NOTION-SYNC-ACTION-LIST.md` in the project directory maps the five channels to Notion sources, publishing properties, update behavior, and the server-side publishing bridge needed by this static site.
 
 ## Camera source and testing
 

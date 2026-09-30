@@ -5,7 +5,8 @@ const CHANNELS = [
   {id:'websites', title:'websites', description:"Websites I've built"},
   {id:'articles', title:'articles', description:"What I’m saving to read", intro:"Articles I’m saving for later. I’ll mark them as read when I’ve read them. All news is biased, but this is news that's biasing me. (Warning: you may become Tyler leaning after reading what I'm reading.)"},
   {id:'watch', title:'watch', description:'Videos I recommend watching'},
-  {id:'writing', title:'writing', description:'Betting Antelope', intro:'My writing on Betting Antelope.', sourceUrl:'https://bettingantelope.substack.com/', sourceLabel:'Read Betting Antelope ↗'},
+  {id:'writing', title:'writing', description:'Betting Antelope', intro:'My writing on Betting Antelope. New posts show up here when I publish.', managed:true, sourceUrl:'https://bettingantelope.substack.com/', sourceLabel:'Read Betting Antelope ↗'},
+  {id:'newsletters', title:'newsletters', description:'The daily newsletter digest', managed:true, intro:'I subscribe to a carefully picked mix of paid and free newsletters. I can’t read every issue every day. My newsletter agent pulls the highlights into one daily digest.', empty:'The first digest will appear here once the archive is connected.'},
   {id:'photography', title:'photography', description:'Photos I have taken'}
 ];
 const STARTER_PROJECTS = [{
@@ -32,6 +33,8 @@ const commentCount = (type,id) => comments.filter(comment => comment.type === ty
 const domainOf = value => { const url=safeUrl(value); return url ? new URL(url).hostname.replace(/^www\./,'') : ''; };
 let projects = [...STARTER_PROJECTS], entries = [...STARTER_ENTRIES], comments = [];
 let database = null, activeChannel = 'home';
+let publishedEntries = [], refreshingFeeds = false;
+const allEntries = () => ChannelFeeds.merge(entries, publishedEntries);
 let toastTimer, lastSurpriseId = null, frontLayer = 4;
 let readState = fallbackRead('read-state-v1', {});
 let readingPositions = fallbackRead('reading-positions-v1', {});
@@ -39,7 +42,7 @@ if (!readingPositions || typeof readingPositions !== 'object' || Array.isArray(r
 let sessionCheckpoint = null, sessionFirstUnread = null, readingTimer;
 const APP_VIEWS = {spider:{title:'spider-solitaire',description:'A little break'}};
 
-const channelRecords = channel => channel === 'websites' ? projects : entries.filter(entry => entry.channel === channel);
+const channelRecords = channel => channel === 'websites' ? projects : allEntries().filter(entry => entry.channel === channel);
 function markVisibleMessages() {
   if (!channelMeta(activeChannel) || document.hidden || $('#appWindow').classList.contains('hidden-window')) return;
   const viewport = $('#contentScroll').getBoundingClientRect();
@@ -132,6 +135,44 @@ async function initialize() {
     else fallbackWrite('entries',entries);
   }
   navigate('home');
+  refreshFeeds();
+  setInterval(() => {if (!document.hidden) refreshFeeds();}, 60000);
+  document.addEventListener('visibilitychange', () => {if (!document.hidden) refreshFeeds();});
+}
+async function refreshFeeds() {
+  if (refreshingFeeds) return;
+  refreshingFeeds = true;
+  const oldEntries = JSON.stringify(publishedEntries);
+  try {
+    const results = await Promise.allSettled(['writing','newsletters'].map(async channel => {
+      const response = await fetch(`data/${channel}.json`, {cache:'no-store', signal:AbortSignal.timeout(15000)});
+      if (!response.ok) throw new Error('Feed unavailable');
+      return {channel, records:ChannelFeeds.validate(await response.json(), channel)};
+    }));
+    for (const result of results) if (result.status === 'fulfilled') {
+      publishedEntries = [...publishedEntries.filter(e => e.channel !== result.value.channel), ...result.value.records];
+    }
+    if (JSON.stringify(publishedEntries) !== oldEntries) {
+      const viewport = $('#contentScroll');
+      const atBottom = viewport.scrollHeight - viewport.scrollTop - viewport.clientHeight < 80;
+      const anchor = [...document.querySelectorAll('[data-message-id]')].find(el => el.getBoundingClientRect().bottom > viewport.getBoundingClientRect().top);
+      const anchorId = anchor?.dataset.messageId, anchorTop = anchor?.getBoundingClientRect().top;
+      renderNav();
+      if (['writing','newsletters'].includes(activeChannel)) {
+        const oldTop = viewport.scrollTop;
+        if (!sessionFirstUnread) sessionFirstUnread = ChannelReadState.ordered(channelRecords(activeChannel)).find(record => ChannelReadState.count([record],readState,activeChannel))?.id || null;
+        $('#lastReadButton').disabled = !sessionCheckpoint && !sessionFirstUnread;
+        renderChannel();
+        viewport.scrollTop = oldTop;
+        const replacement = [...document.querySelectorAll('[data-message-id]')].find(el => el.dataset.messageId === anchorId);
+        viewport.scrollTop = oldTop + (replacement ? replacement.getBoundingClientRect().top - anchorTop : 0);
+        if (atBottom) positionChannelAtBottom();
+        else {clearTimeout(readingTimer);readingTimer=setTimeout(markVisibleMessages,350);}
+      } else if (activeChannel === 'home') {
+        const top = viewport.scrollTop; renderHome(); viewport.scrollTop = top;
+      }
+    }
+  } finally {refreshingFeeds = false;}
 }
 async function saveRecord(type,record) {
   const store = type === 'project' ? 'projects' : 'entries';
@@ -173,7 +214,7 @@ function navigate(channel) {
   sessionFirstUnread=records.find(record=>ChannelReadState.count([record],readState,channel))?.id || null;
   $('#headerTitle').textContent = channel === 'home' ? 'about-tyler' : meta.title;
   $('#headerDescription').textContent = channel === 'home' ? 'Work, field notes & the rest' : meta.description;
-  $('#headerAdd').hidden = !channelMeta(channel);
+  $('#headerAdd').hidden = !channelMeta(channel) || !!meta.managed;
   $('#headerAdd').setAttribute('aria-label', channel === 'websites' ? 'Add a website' : `Add to ${channel}`);
   $('#channelReadingBar').hidden=!channelMeta(channel);
   $('#lastReadButton').disabled=!sessionCheckpoint && !sessionFirstUnread;
@@ -208,9 +249,9 @@ function renderChannel() {
     else if(activeChannel==='photography') attachment=`<button class="chat-photo" data-entry="${esc(record.id)}">${safeImage(record.image)?`<img src="${esc(safeImage(record.image))}" alt="${esc(record.title)}">`:'<span class="photo-placeholder">▧</span>'}<strong>${esc(record.title)}</strong></button>`;
     else attachment=safeUrl(record.url)?`<a href="${esc(safeUrl(record.url))}" target="_blank" rel="noopener noreferrer" class="preview-link">${linkPreview(record)}</a>`:`<button class="preview-link" data-entry="${esc(record.id)}">${linkPreview(record)}</button>`;
     const divider=String(record.id)===sessionCheckpoint?'<div class="read-divider last-read-divider">You left off here</div>':record.id===sessionFirstUnread?'<div class="read-divider">New since your last visit</div>':'';
-    return `${divider}<article class="message timeline-message" data-message-id="${esc(record.id)}"><div class="message-avatar tyler-avatar"><img src="assets/tyler-avatar.png" alt="" width="40" height="40"></div><div class="message-body"><div class="message-meta"><strong>Tyler</strong><span>${esc(dateLabel)}</span></div><p>${esc(record.note||record.description)}</p>${attachment}<button class="comment-link" data-${type}="${esc(record.id)}">♧ &nbsp; ${commentCount(type,record.id)} comments · Open thread</button></div></article>`;
+    return `${divider}<article class="message timeline-message" data-message-id="${esc(record.id)}"><div class="message-avatar tyler-avatar"><img src="assets/tyler-avatar.png" alt="" width="40" height="40"></div><div class="message-body"><div class="message-meta"><strong>${record.source === 'notion' ? 'Tyler’s newsletter agent' : 'Tyler'}</strong><span>${esc(dateLabel)}</span></div><p>${esc(record.note||record.description)}</p>${attachment}<button class="comment-link" data-${type}="${esc(record.id)}">♧ &nbsp; ${commentCount(type,record.id)} comments · Open thread</button></div></article>`;
   }).join('');
-  $('#content').innerHTML=`<div class="feed channel-feed"><div class="channel-intro"><div class="channel-symbol">#</div><h1>${esc(meta.title)}</h1><p>${esc(meta.intro || `${meta.description}.`)}</p>${safeUrl(meta.sourceUrl)?`<a class="channel-source-link" href="${esc(safeUrl(meta.sourceUrl))}" target="_blank" rel="noopener">${esc(meta.sourceLabel)}</a>`:''}</div><div class="feed-day">Beginning of #${esc(activeChannel)}</div>${body||'<div class="empty-channel">Nothing here yet. More to share soon.</div>'}<div class="feed-end">You’re at the latest.</div></div>`;
+  $('#content').innerHTML=`<div class="feed channel-feed"><div class="channel-intro"><div class="channel-symbol">#</div><h1>${esc(meta.title)}</h1><p>${esc(meta.intro || `${meta.description}.`)}</p>${safeUrl(meta.sourceUrl)?`<a class="channel-source-link" href="${esc(safeUrl(meta.sourceUrl))}" target="_blank" rel="noopener">${esc(meta.sourceLabel)}</a>`:''}</div><div class="feed-day">Beginning of #${esc(activeChannel)}</div>${body||`<div class="empty-channel">${esc(meta.empty || 'Nothing here yet. More to share soon.')}</div>`}<div class="feed-end">You’re at the latest.</div></div>`;
 }
 function renderShore() {
   $('#shoreContent').innerHTML=`<div class="shore-player"><iframe id="shorePlayer" title="Live beach camera: Seaside Park, New Jersey" src="https://coastalcameranetwork.com/webcams/seaside-park/webcam-demo.php" allow="autoplay; encrypted-media; picture-in-picture; fullscreen" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div><div class="shore-caption"><span>Seaside Park · beach<br>Borough of Seaside Park / Coastal Camera Network</span><button class="secondary-button" data-action="reload-shore">Reconnect ↻</button></div><p class="shore-help">Live from the beach. Press play if needed; use the player for fullscreen. If the feed stops, try reconnecting.</p><a class="shore-source" href="https://www.seasideparknj.org/community/live_webcam.php" target="_blank" rel="noopener">Camera source & current broadcast ↗</a>`;
@@ -237,7 +278,7 @@ function showProject(project) {
 }
 function showEntry(entry) {
   const image=safeImage(entry.image),url=safeUrl(entry.url);
-  $('#modalRoot').innerHTML = `<div class="modal-overlay" data-close-modal><div class="modal detail-modal" role="dialog" aria-modal="true" aria-label="${esc(entry.title)}"><div class="modal-top"><span class="eyebrow">#${esc(entry.channel)} · ${esc(entry.kind)}</span><button class="close-button" data-close-modal aria-label="Close">×</button></div><div class="modal-body"><h2>${esc(entry.title)}</h2><p class="modal-description">${esc(entry.description)}</p>${image ? `<div class="modal-preview"><img src="${esc(image)}" alt="${esc(entry.title)}"></div>` : ''}<p class="modal-description">${esc(entry.note || '')}</p><div class="modal-actions">${url ? `<a class="primary-button" href="${esc(url)}" target="_blank" rel="noopener noreferrer">Open link ↗</a>` : ''}<button class="secondary-button" data-action="edit-entry" data-id="${esc(entry.id)}">Edit</button><button class="secondary-button delete" data-action="delete-entry" data-id="${esc(entry.id)}">Remove</button></div>${commentSection('entry',entry.id)}</div></div></div>`;
+  $('#modalRoot').innerHTML = `<div class="modal-overlay" data-close-modal><div class="modal detail-modal" role="dialog" aria-modal="true" aria-label="${esc(entry.title)}"><div class="modal-top"><span class="eyebrow">#${esc(entry.channel)} · ${esc(entry.kind)}</span><button class="close-button" data-close-modal aria-label="Close">×</button></div><div class="modal-body"><h2>${esc(entry.title)}</h2>${entry.body ? '' : `<p class="modal-description">${esc(entry.description)}</p>`}${image ? `<div class="modal-preview"><img src="${esc(image)}" alt="${esc(entry.title)}"></div>` : ''}<p class="modal-description">${esc(entry.note || '')}</p>${entry.body ? `<div class="digest-body">${esc(entry.body)}</div><p class="digest-label">Agent-written highlights from my newsletter subscriptions.</p>` : ''}${entry.links?.length ? `<div class="digest-sources"><h3>Sources</h3>${entry.links.map(link => `<a href="${esc(safeUrl(link.url))}" target="_blank" rel="noopener noreferrer">${esc(link.title)} ↗</a>`).join('')}</div>` : ''}<div class="modal-actions">${url ? `<a class="primary-button" href="${esc(url)}" target="_blank" rel="noopener noreferrer">Open link ↗</a>` : ''}${entry.source ? '' : `<button class="secondary-button" data-action="edit-entry" data-id="${esc(entry.id)}">Edit</button><button class="secondary-button delete" data-action="delete-entry" data-id="${esc(entry.id)}">Remove</button>`}</div>${commentSection('entry',entry.id)}</div></div></div>`;
   bindCommentForm();
 }
 function bindCommentForm() {
@@ -247,7 +288,7 @@ function bindCommentForm() {
     if (!name || !text) return;
     try {
       await addComment({id:uid(),type:form.dataset.type,entryId:form.dataset.id,name,text,created:new Date().toISOString()});
-      const item=form.dataset.type === 'project' ? projects.find(p => p.id === form.dataset.id) : entries.find(e => e.id === form.dataset.id);
+      const item=form.dataset.type === 'project' ? projects.find(p => p.id === form.dataset.id) : allEntries().find(e => e.id === form.dataset.id);
       if (item) (form.dataset.type === 'project' ? showProject : showEntry)(item);
       toast('Comment saved on this device.');
     } catch { $('#commentError').textContent='Could not save this comment. Please try again.'; }
@@ -274,8 +315,9 @@ async function submitProject(event,existing) {
   catch {error.textContent='Could not save this website. Try a smaller image.';button.disabled=false;button.textContent='Save website';}
 }
 function entryEditor(channel='articles',entry=null) {
+  if (entry?.source || channelMeta(channel)?.managed) return;
   const editing=!!entry;
-  $('#modalRoot').innerHTML=`<div class="modal-overlay" data-close-modal><div class="modal" role="dialog" aria-modal="true" aria-label="${editing?'Edit item':'Add an item'}"><div class="modal-top"><span class="eyebrow">${editing?'EDIT ITEM':'NEW ITEM'}</span><button class="close-button" data-close-modal aria-label="Close">×</button></div><div class="modal-body"><h2>${editing?'Edit item':'Add to the shelf'}</h2><p class="modal-description">The same item appears here and in its channel.</p><form id="entryForm" class="form-grid"><label class="field-label">Channel<select name="channel">${CHANNELS.filter(c=>c.id!=='websites').map(c=>`<option value="${c.id}" ${(entry?.channel||channel)===c.id?'selected':''}>${c.title}</option>`).join('')}</select></label><label class="field-label">Title<input name="title" value="${esc(entry?.title||'')}" maxlength="100" required></label><label class="field-label">Kind<input name="kind" value="${esc(entry?.kind||'')}" maxlength="50" placeholder="Article, video, blog post, photo…"></label><label class="field-label">Link<input name="url" type="url" value="${esc(entry?.url||'')}" placeholder="https://example.com"></label><label class="field-label">Description<textarea name="description" maxlength="300" required>${esc(entry?.description||'')}</textarea></label><label class="field-label">Why share it?<textarea name="note" maxlength="300">${esc(entry?.note||'')}</textarea></label>${imageField(entry?.image)}<span class="field-help">Changes made here are saved in this browser. Shared publishing needs a connected database.</span><div class="form-error" id="formError" role="alert"></div><div class="form-actions"><button class="secondary-button" type="button" data-close-modal>Cancel</button><button class="primary-button" type="submit">${editing?'Save changes':'Add item'}</button></div></form></div></div></div>`;
+  $('#modalRoot').innerHTML=`<div class="modal-overlay" data-close-modal><div class="modal" role="dialog" aria-modal="true" aria-label="${editing?'Edit item':'Add an item'}"><div class="modal-top"><span class="eyebrow">${editing?'EDIT ITEM':'NEW ITEM'}</span><button class="close-button" data-close-modal aria-label="Close">×</button></div><div class="modal-body"><h2>${editing?'Edit item':'Add to the shelf'}</h2><p class="modal-description">The same item appears here and in its channel.</p><form id="entryForm" class="form-grid"><label class="field-label">Channel<select name="channel">${CHANNELS.filter(c=>c.id!=='websites'&&!c.managed).map(c=>`<option value="${c.id}" ${(entry?.channel||channel)===c.id?'selected':''}>${c.title}</option>`).join('')}</select></label><label class="field-label">Title<input name="title" value="${esc(entry?.title||'')}" maxlength="100" required></label><label class="field-label">Kind<input name="kind" value="${esc(entry?.kind||'')}" maxlength="50" placeholder="Article, video, blog post, photo…"></label><label class="field-label">Link<input name="url" type="url" value="${esc(entry?.url||'')}" placeholder="https://example.com"></label><label class="field-label">Description<textarea name="description" maxlength="300" required>${esc(entry?.description||'')}</textarea></label><label class="field-label">Why share it?<textarea name="note" maxlength="300">${esc(entry?.note||'')}</textarea></label>${imageField(entry?.image)}<span class="field-help">Changes made here are saved in this browser. Shared publishing needs a connected database.</span><div class="form-error" id="formError" role="alert"></div><div class="form-actions"><button class="secondary-button" type="button" data-close-modal>Cancel</button><button class="primary-button" type="submit">${editing?'Save changes':'Add item'}</button></div></form></div></div></div>`;
   $('#entryForm').addEventListener('submit',event=>submitEntry(event,entry));
   $('#entryForm [name="title"]').focus();
 }
@@ -419,8 +461,8 @@ function toast(message) {const element=$('#toast');element.textContent=message;e
 function closeSearch() {$('#searchRoot').innerHTML='';}
 function openSearch() {$('#searchRoot').innerHTML=`<div class="search-overlay" data-close-search><div class="search-panel" role="dialog" aria-modal="true" aria-label="Search the shelf"><div class="search-box"><span>⌕</span><input id="searchInput" type="search" placeholder="Search the shelf…" autocomplete="off"><button data-close-search>ESC</button></div><div class="search-results" id="searchResults"></div></div></div>`;$('#searchInput').addEventListener('input',renderSearch);$('#searchInput').focus();renderSearch();}
 function renderSearch() {
-  const query=$('#searchInput').value.trim().toLowerCase();if(!query){$('#searchResults').innerHTML='<div class="search-empty">Search websites, articles, videos, writing, and photos.</div>';return;}
-  const results=[...projects.filter(p=>`${p.title} ${p.description}`.toLowerCase().includes(query)).map(p=>`<button class="search-result" data-search-project="${esc(p.id)}"><small>Website</small><strong>${esc(p.title)}</strong><span>${esc(p.description)}</span></button>`),...entries.filter(e=>`${e.title} ${e.description} ${e.channel}`.toLowerCase().includes(query)).map(e=>`<button class="search-result" data-search-entry="${esc(e.id)}"><small>#${esc(e.channel)}</small><strong>${esc(e.title)}</strong><span>${esc(e.description)}</span></button>`),...CHANNELS.filter(c=>`${c.title} ${c.description}`.toLowerCase().includes(query)).map(c=>`<button class="search-result" data-channel="${esc(c.id)}"><small>Channel</small><strong>#${esc(c.title)}</strong><span>${esc(c.description)}</span></button>`)];
+  const query=$('#searchInput').value.trim().toLowerCase();if(!query){$('#searchResults').innerHTML='<div class="search-empty">Search websites, articles, videos, writing, newsletters, and photos.</div>';return;}
+  const results=[...projects.filter(p=>`${p.title} ${p.description}`.toLowerCase().includes(query)).map(p=>`<button class="search-result" data-search-project="${esc(p.id)}"><small>Website</small><strong>${esc(p.title)}</strong><span>${esc(p.description)}</span></button>`),...allEntries().filter(e=>`${e.title} ${e.description} ${e.channel}`.toLowerCase().includes(query)).map(e=>`<button class="search-result" data-search-entry="${esc(e.id)}"><small>#${esc(e.channel)}</small><strong>${esc(e.title)}</strong><span>${esc(e.description)}</span></button>`),...CHANNELS.filter(c=>`${c.title} ${c.description}`.toLowerCase().includes(query)).map(c=>`<button class="search-result" data-channel="${esc(c.id)}"><small>Channel</small><strong>#${esc(c.title)}</strong><span>${esc(c.description)}</span></button>`)];
   $('#searchResults').innerHTML=results.length?results.join(''):'<div class="search-empty">No matches yet.</div>';
 }
 function closeSidebar() {$('#sidebar').classList.remove('open');$('#mobileScrim').hidden=true;}
@@ -435,9 +477,9 @@ document.addEventListener('click',async event=>{
   if(!target.closest('.desktop-dropdown')){closeDesktopMenu();$('#desktopMenuHost').dataset.open='';}
   const channel=target.closest('[data-channel]');if(channel){closeSearch();showShelf(channel.dataset.channel);return;}
   const project=target.closest('[data-project]');if(project){const record=projects.find(item=>item.id===project.dataset.project);if(record)showProject(record);return;}
-  const entry=target.closest('[data-entry]');if(entry){const record=entries.find(item=>item.id===entry.dataset.entry);if(record)showEntry(record);return;}
+  const entry=target.closest('[data-entry]');if(entry){const record=allEntries().find(item=>item.id===entry.dataset.entry);if(record)showEntry(record);return;}
   const searchProject=target.closest('[data-search-project]');if(searchProject){const record=projects.find(item=>item.id===searchProject.dataset.searchProject);closeSearch();showShelf('websites');if(record)showProject(record);return;}
-  const searchEntry=target.closest('[data-search-entry]');if(searchEntry){const record=entries.find(item=>item.id===searchEntry.dataset.searchEntry);closeSearch();if(record){showShelf(record.channel);showEntry(record);}return;}
+  const searchEntry=target.closest('[data-search-entry]');if(searchEntry){const record=allEntries().find(item=>item.id===searchEntry.dataset.searchEntry);closeSearch();if(record){showShelf(record.channel);showEntry(record);}return;}
   const actionButton=target.closest('[data-action]');if(actionButton){const action=actionButton.dataset.action,id=actionButton.dataset.id;if(action==='reload-shore')renderShore();if(action==='wallpaper-credit')wallpaperCredit();if(action==='add-project')projectEditor();if(action==='edit-project'){const record=projects.find(item=>item.id===id);if(record)projectEditor(record);}if(action==='delete-project'){const record=projects.find(item=>item.id===id);if(record&&confirm(`Remove "${record.title}" from this browser?`)){try{await removeRecord('project',id);closeModal();toast('Website removed.');}catch{toast('Could not remove the website.');}}}if(action==='edit-entry'){const record=entries.find(item=>item.id===id);if(record)entryEditor(record.channel,record);}if(action==='delete-entry'){const record=entries.find(item=>item.id===id);if(record&&confirm(`Remove "${record.title}" from this browser?`)){try{await removeRecord('entry',id);closeModal();toast('Item removed.');}catch{toast('Could not remove the item.');}}}if(action==='add-entry')entryEditor(activeChannel);if(action==='surprise')surpriseMe();return;}
   if(target.closest('[data-close-modal]')&&(target===target.closest('[data-close-modal]')||target.tagName==='BUTTON')){closeModal();return;}
   if(target.closest('[data-close-search]')&&(target===target.closest('[data-close-search]')||target.tagName==='BUTTON'))closeSearch();
