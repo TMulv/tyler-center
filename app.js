@@ -2,7 +2,7 @@
 const CONTACT = { email: '', instagram: '', linkedin: 'https://www.linkedin.com/in/tylermulvey/' };
 
 const CHANNELS = [
-  {id:'websites', title:'websites', description:"Websites I've built"},
+  {id:'websites', title:"websites i've built", description:"Websites I've built"},
   {id:'articles', title:'articles', description:"What I’m saving to read", intro:"Articles I’m saving for later. I’ll mark them as read when I’ve read them. All news is biased, but this is news that's biasing me. (Warning: you may become Tyler leaning after reading what I'm reading.)"},
   {id:'watch', title:'watch', description:'Videos I recommend watching'},
   {id:'writing', title:'writing', description:'Betting Antelope', intro:'My writing on Betting Antelope. New posts show up here when I publish.', managed:true, sourceUrl:'https://bettingantelope.substack.com/', sourceLabel:'Read Betting Antelope ↗'},
