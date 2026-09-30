@@ -295,7 +295,9 @@ function navigate(channel) {
   sessionCheckpoint=records.some(record=>String(record.id)===savedCheckpoint)?savedCheckpoint:null;
   sessionFirstUnread=records.find(record=>ChannelReadState.count([record],readState,channel))?.id || null;
   $('#headerTitle').textContent = channel === 'home' ? 'about-tyler' : meta.title;
-  $('#headerDescription').textContent = channel === 'home' ? 'Work, field notes & the rest' : meta.description;
+  $('#headerDescription').innerHTML = channel === 'home'
+    ? 'Work, field notes &amp; the rest'
+    : ChannelFeeds.linkedText(meta.description || '', meta.introLinks || []);
   $('#headerAdd').hidden = channel === 'websites' || !channelMeta(channel) || !!meta.managed;
   $('#headerAdd').setAttribute('aria-label', `Add to ${channel}`);
   $('#channelReadingBar').hidden=!channelMeta(channel);
