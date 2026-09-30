@@ -5,7 +5,7 @@ const CHANNELS = [
   {id:'websites', title:"what-i've-built", description:"Apps and websites I’ve made"},
   {id:'articles', title:'read-later', managed:true, description:"What I’m saving to read", intro:"Articles I’m saving for later. I’ll mark them as read when I’ve read them. All news is biased, but this is news that's biasing me. (Warning: you may become Tyler leaning after reading what I'm reading.)"},
   {id:'watch', title:'watch-or-listen-later', managed:true, description:'Videos, movies, shows and podcasts I’m saving for later', intro:'Things I want to watch or listen to. Filter by type, or see what I’ve finished.'},
-  {id:'writing', title:'writing', description:'My NFL picks and writing from Betting Antelope', intro:'My writing on Betting Antelope. New posts show up here when I publish.', managed:true, sourceUrl:'https://bettingantelope.substack.com/', sourceLabel:'Read Betting Antelope ↗'},
+  {id:'writing', title:'betting-antelope', description:'My NFL picks and writing from Betting Antelope', intro:'My writing on Betting Antelope. New posts show up here when I publish.', managed:true, sourceUrl:'https://bettingantelope.substack.com/', sourceLabel:'Read Betting Antelope ↗'},
   {id:'newsletters', title:'daily-newsletter', description:'Daily highlights from the newsletters I subscribe to', managed:true, intro:'I subscribe to a carefully picked mix of paid and free newsletters. I can’t read every issue every day. My newsletter agent pulls the highlights into one daily digest.', empty:'The first digest will appear here once the archive is connected.'},
   {id:'photography', title:'photography', description:'Photos I have taken'}
 ];
@@ -206,6 +206,7 @@ async function refreshFeeds() {
   refreshingFeeds = true;
   const oldEntries = JSON.stringify(publishedEntries);
   try {
+    const previewsChanged=await refreshLinkPreviews();
     const results = await Promise.allSettled(['writing','newsletters','articles','websites','watch'].map(async channel => {
       const response = await fetch(`data/${channel}.json`, {cache:'no-store', signal:AbortSignal.timeout(15000)});
       if (!response.ok) throw new Error('Feed unavailable');
@@ -214,7 +215,7 @@ async function refreshFeeds() {
     for (const result of results) if (result.status === 'fulfilled') {
       publishedEntries = [...publishedEntries.filter(e => e.channel !== result.value.channel), ...result.value.records];
     }
-    if (JSON.stringify(publishedEntries) !== oldEntries) {
+    if (JSON.stringify(publishedEntries) !== oldEntries || previewsChanged) {
       projects = ChannelFeeds.projects(STARTER_PROJECTS, publishedEntries.filter(e=>e.channel==='websites'));
       const viewport = $('#contentScroll');
       const atBottom = viewport.scrollHeight - viewport.scrollTop - viewport.clientHeight < 80;
@@ -303,12 +304,12 @@ function render() {
 }
 function renderHome() {$('#content').innerHTML=aboutThread();}
 function linkPreview(entry) {
-  const url = safeUrl(entry.url), metadata = LINK_PREVIEWS[url] || {};
-  const image = safeImage(entry.image) || ChannelFeeds.previewImage(entry.image) || ChannelFeeds.previewImage(metadata.image);
-  const title = metadata.title || entry.title;
+  const url = safeUrl(entry.url), metadata = {...(LINK_PREVIEWS[url] || {}),...(PUBLIC_PREVIEWS[url] || {})};
+  const image = safeImage(entry.image) || ChannelFeeds.previewImage(entry.image) || publicPreviewAsset(metadata.image);
+  const title = entry.channel==='websites' || entry.projectStatus ? entry.title : metadata.title || entry.title;
   const description = metadata.description || entry.description;
   const site = metadata.site || entry.domain || domainOf(url) || entry.kind;
-  return `<div class="link-preview source-preview ${image ? 'has-source-image' : ''}">${image ? `<div class="source-preview-image"><img src="${esc(image)}" alt="${esc(title)} — preview from ${esc(site)}" loading="lazy" decoding="async" referrerpolicy="no-referrer"></div>` : ''}<div class="link-preview-copy"><small>${esc(site)}${domainOf(url) && site !== domainOf(url) ? ` · ${esc(domainOf(url))}` : ''}</small><strong>${esc(title)}</strong><p>${esc(description)}</p>${url ? '<span class="source-preview-open">Open original ↗</span>' : ''}</div></div>`;
+  return `<div class="link-preview source-preview ${image ? 'has-source-image' : ''}">${image ? `<div class="source-preview-image"><img src="${esc(image)}" alt="${esc(title)} — preview from ${esc(site)}" loading="lazy" decoding="async" referrerpolicy="no-referrer" onerror="this.parentElement.hidden=true;this.parentElement.nextElementSibling.hidden=false"></div>` : ''}${domainPreview(url, metadata, !!image)}<div class="link-preview-copy"><small>${esc(site)}${domainOf(url) && site !== domainOf(url) ? ` · ${esc(domainOf(url))}` : ''}</small><strong>${esc(title)}</strong><p>${esc(description)}</p>${url ? '<span class="source-preview-open">Open original ↗</span>' : ''}</div></div>`;
 }
 function renderChannelFilters() {
   const records = channelRecords(activeChannel), options = ChannelFilters.options(records,activeChannel);

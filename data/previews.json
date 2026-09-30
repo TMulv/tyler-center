@@ -1,0 +1,727 @@
+{
+  "version": 1,
+  "previews": {
+    "https://nymag.com/intelligencer/article/jalen-brunson-interview-new-york-knicks-championship.html": {
+      "title": "Jalen Brunson’s Victory Lap",
+      "description": "Tagging along with the MVP as Knicks fans exhale and the city erupts.",
+      "site": "Intelligencer",
+      "image": "https://pyxis.nymag.com/v1/imgs/095/38d/385f6cd41f629386bdd482285d407316a6-2026-091-Jalen-Brunson-NYM-01-A-0106-H.1x.rsocial.w1200.jpg",
+      "icon": "https://assets.nymag.com/media/sites/intelligencer/icon.196x196.png",
+      "domain": "nymag.com",
+      "checkedAt": "2026-09-30T17:34:03.453440+00:00",
+      "available": true
+    },
+    "https://www.theatlantic.com/technology/archive/2023/09/landlines-comeback-home-phones/675280/": {
+      "title": "America Gave Up on the Best Home Technology There Is",
+      "description": "The death of the landline was premature.",
+      "site": "The Atlantic",
+      "image": "https://cdn.theatlantic.com/thumbor/iSD2GoVMESThXiDxFksroXMeAZA=/0x102:4792x2598/1200x625/media/img/mt/2023/09/landline_1/original.jpg",
+      "icon": "https://cdn.theatlantic.com/_next/static/images/favicon-3888b0e329526a975703e3059a02b92d.ico",
+      "domain": "www.theatlantic.com",
+      "checkedAt": "2026-09-30T17:34:03.453440+00:00",
+      "available": true
+    },
+    "https://www.technologyreview.com/2026/04/10/1135106/jeff-vandermeer-constellations-science-fiction/": {
+      "title": "Constellations",
+      "description": "A story about seeking",
+      "site": "MIT Technology Review",
+      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/04/edit-thumb.jpg?resize=1200%2C600",
+      "icon": "https://www.technologyreview.com/2026/04/10/1135106/jeff-vandermeer-constellations-science-fiction/static/media/favicon.1cfcdb44759a0f93ddf5feb5405dd4cc.ico",
+      "domain": "www.technologyreview.com",
+      "checkedAt": "2026-09-30T17:34:03.453440+00:00",
+      "available": true
+    },
+    "https://nymag.com/intelligencer/article/gifted-talented-intelligence-public-schools-testing.html": {
+      "title": "The Mirage of the Gifted Child",
+      "description": "Critics say the systems we use to educate the brightest kids are flawed and exclusionary. What if it’s the very premise of giftedness that’s faulty?",
+      "site": "Intelligencer",
+      "image": "https://pyxis.nymag.com/v1/imgs/2e3/ad4/81d5d424058c87e7168377fecfbb9a4383-gifted-kids-02.1x.rsocial.w1200.jpg",
+      "icon": "https://assets.nymag.com/media/sites/intelligencer/icon.196x196.png",
+      "domain": "nymag.com",
+      "checkedAt": "2026-09-30T17:34:03.453440+00:00",
+      "available": true
+    },
+    "https://www.theatlantic.com/philosophy/2026/06/no-artificial-intelligence-is-not-conscious/687378/": {
+      "title": "No, Artificial Intelligence Is Not Conscious",
+      "description": "Taken to its logical conclusion, this line of thinking is absurd—and damning.",
+      "site": "The Atlantic",
+      "image": "https://cdn.theatlantic.com/thumbor/fdONLsUPMiSaP_UQenVaAXAt2nI=/40x45:1998x1065/1200x625/media/img/mt/2026/06/2026_06_01_chiang_Consciousness_Trap_final_horizontal/original.gif",
+      "icon": "https://cdn.theatlantic.com/_next/static/images/favicon-3888b0e329526a975703e3059a02b92d.ico",
+      "domain": "www.theatlantic.com",
+      "checkedAt": "2026-09-30T17:34:03.453440+00:00",
+      "available": true
+    },
+    "https://www.wsj.com/sports/dave-portnoy-barstool-sports-caf2445e": {
+      "checkedAt": "2026-09-30T17:34:03.453440+00:00",
+      "available": false
+    },
+    "https://www.newyorker.com/culture/essay/our-longing-for-inconvenience": {
+      "title": "Our Longing for Inconvenience",
+      "description": "People are pining for old technologies—CD players, VCRs, Walkmans. What’s behind our longing for inconvenience?",
+      "site": "The New Yorker",
+      "image": "https://media.newyorker.com/photos/69dead408d73bbcdc1681fd7/16:9/w_1280,c_limit/hanif-16x9-bill-rebholz-nostalgia.jpg",
+      "icon": "https://www.newyorker.com/verso/static/thenewyorker-us/assets/favicon.ico",
+      "domain": "www.newyorker.com",
+      "checkedAt": "2026-09-30T17:34:03.453440+00:00",
+      "available": true
+    },
+    "https://aftermath.site/i-hate-adobe/": {
+      "title": "I Hate Adobe",
+      "description": "Adobe is a wretched, exploitative company that loves generative AI. Many are coerced into paying money for their software and the software runs like garbage.",
+      "site": "Aftermath",
+      "image": "https://storage.ghost.io/c/30/f5/30f5b1bb-84ee-4c26-b446-fb9a5e512994/content/images/size/w1200/2026/07/adobe_devil3.webp",
+      "icon": "https://storage.ghost.io/c/30/f5/30f5b1bb-84ee-4c26-b446-fb9a5e512994/content/images/size/w256h256/2025/08/favicon4.png",
+      "domain": "aftermath.site",
+      "checkedAt": "2026-09-30T17:34:03.453440+00:00",
+      "available": true
+    },
+    "https://www.nytimes.com/2026/06/05/magazine/ai-farmstechnology.html": {
+      "checkedAt": "2026-09-30T17:34:03.453440+00:00",
+      "available": false
+    },
+    "https://www.newyorker.com/culture/the-lede/are-disney-adults-the-happiest-debtors-on-earth": {
+      "title": "Some Disney Adults Are Going Into Serious Debt in the Pursuit of Magic",
+      "description": "For the most devoted fans, Disney has engineered an ecosystem of financial entanglement that goes far deeper than park tickets or merchandise, which keeps the magic—and the debt—perpetually compounding.",
+      "site": "The New Yorker",
+      "image": "https://media.newyorker.com/photos/69f4dbb5a7c9aa5d7f32fea5/16:9/w_1280,c_limit/Tait_Disney_2_9S9A0666.jpg",
+      "icon": "https://www.newyorker.com/verso/static/thenewyorker-us/assets/favicon.ico",
+      "domain": "www.newyorker.com",
+      "checkedAt": "2026-09-30T17:34:03.453440+00:00",
+      "available": true
+    },
+    "https://www.newyorker.com/magazine/2026/06/15/andrew-tates-empire-of-abuse": {
+      "title": "Andrew Tate’s Empire of Abuse",
+      "description": "How the defining figure of the manosphere built a fortune—and became a political force—by systematically exploiting women.",
+      "site": "The New Yorker",
+      "image": "https://media.newyorker.com/photos/6a21f2fd02aba52b2e455db1/16:9/w_1280,c_limit/r49385.png",
+      "icon": "https://www.newyorker.com/verso/static/thenewyorker-us/assets/favicon.ico",
+      "domain": "www.newyorker.com",
+      "checkedAt": "2026-09-30T17:34:03.453440+00:00",
+      "available": true
+    },
+    "https://nymag.com/intelligencer/article/sam-bankman-fried-prison-donald-trump-pardon-appeal.html": {
+      "title": "Sam Bankman-Fried’s Prison Experiment",
+      "description": "His life behind bars and his desperate campaign to get free.",
+      "site": "Intelligencer",
+      "image": "https://pyxis.nymag.com/v1/imgs/fdb/351/76a0a90e96eed96793fc33093b28d76c4b-SBF_illustration.1x.rsocial.w1200.jpg",
+      "icon": "https://assets.nymag.com/media/sites/intelligencer/icon.196x196.png",
+      "domain": "nymag.com",
+      "checkedAt": "2026-09-30T17:34:03.453440+00:00",
+      "available": true
+    },
+    "https://www.vanityfair.com/story/alex-coopers-mean-girl-problem": {
+      "title": "Daddy Issues: Trouble Behind the Scenes of Alex Cooper’s Unwell Media Empire",
+      "description": "Over 40 sources, including current and former Unwell employees, have spoken to Vanity Fair about Cooper’s company, and the man calling the shots at the Gen Z media empire, her husband, Matt Kaplan.",
+      "site": "Vanity Fair",
+      "image": "https://media.vanityfair.com/photos/6a2b4c26f2d077d143144a92/16:9/w_1280,c_limit/cooper.jpg",
+      "icon": "https://www.vanityfair.com/verso/static/vanityfair-global/assets/favicon.ico",
+      "domain": "www.vanityfair.com",
+      "checkedAt": "2026-09-30T17:34:03.453440+00:00",
+      "available": true
+    },
+    "https://www.newyorker.com/magazine/2026/06/22/misery-loves-company-if-there-are-snacks": {
+      "title": "Misery Loves Company—If There Are Snacks",
+      "description": "Do “Admin Nights” make people more productive or less lonely?",
+      "site": "The New Yorker",
+      "image": "https://media.newyorker.com/photos/6a2827bfca478c70255d3427/16:9/w_1280,c_limit/r49460.jpg",
+      "icon": "https://www.newyorker.com/verso/static/thenewyorker-us/assets/favicon.ico",
+      "domain": "www.newyorker.com",
+      "checkedAt": "2026-09-30T17:34:03.453440+00:00",
+      "available": true
+    },
+    "https://nymag.com/intelligencer/article/iran-revolutionary-guard-social-mediahistory": {
+      "checkedAt": "2026-09-30T17:34:03.453440+00:00",
+      "available": false
+    },
+    "https://www.theatlantic.com/family/archive/2025/04/quaker-parenting-research/682277/": {
+      "title": "Quaker Parents Were Ahead of Their Time",
+      "description": "The nearly 375-year-old religion’s principles line up surprisingly well with modern parenting research.",
+      "site": "The Atlantic",
+      "image": "https://cdn.theatlantic.com/thumbor/nrVn4to5zaiQQMnNqQQ5kbCMoZc=/0x92:4326x2345/1200x625/media/img/mt/2025/04/Bree_and_her_sons._2023/original.jpg",
+      "icon": "https://cdn.theatlantic.com/_next/static/images/favicon-3888b0e329526a975703e3059a02b92d.ico",
+      "domain": "www.theatlantic.com",
+      "checkedAt": "2026-09-30T17:34:03.453440+00:00",
+      "available": true
+    },
+    "https://www.theatlantic.com/magazine/2026/05/best-free-restaurant-bread-america/686582/": {
+      "checkedAt": "2026-09-30T17:34:03.453440+00:00",
+      "available": false
+    },
+    "https://www.rollingstone.com/culture/culture-features/jeffrey-epstein-brooklyn-childhood-memories-abuse-secrets-1235555133/": {
+      "title": "I Grew Up With Jeffrey Epstein. Our Neighborhood Held Dark Secrets",
+      "description": "A personal remembrance of growing up in Sea Gate, Coney Island, in the 1960s.",
+      "site": "Rolling Stone",
+      "image": "https://www.rollingstone.com/wp-content/uploads/2026/04/sea-gate-brooklyn.jpg?crop=0px%2C760px%2C1500px%2C844px&resize=1600%2C900",
+      "icon": "https://www.rollingstone.com/wp-content/uploads/2024/12/R-Avatar_512x512_flat.png?w=32",
+      "domain": "www.rollingstone.com",
+      "checkedAt": "2026-09-30T17:34:03.453440+00:00",
+      "available": true
+    },
+    "https://www.nytimes.com/2026/07/08/magazine/cold-plungefix.html": {
+      "checkedAt": "2026-09-30T17:34:03.453440+00:00",
+      "available": false
+    },
+    "https://www.bbc.com/future/article/20260417-fatherhood-how-the-male-brain-and-body-prepare-for-childcare": {
+      "title": "Dad brains: How fatherhood rewires the male mind",
+      "description": "From before their babies are born, men undergo serious hormonal changes that can powerfully influence their behaviour – with consequences for their child's wellbeing.",
+      "site": "",
+      "image": "https://ychef.files.bbci.co.uk/624x351/p0nf1ysw.jpg",
+      "icon": "https://static.files.bbci.co.uk/bbcdotcom/web/20260922-091849-a8520cb5b4-web-3.22.0-3/favicon-32x32.png",
+      "domain": "www.bbc.com",
+      "checkedAt": "2026-09-30T17:34:03.453440+00:00",
+      "available": true
+    },
+    "https://www.thebulwark.com/p/the-rights-worst-new-star-just-shot-someone-chud-builder-racist-streamer": {
+      "title": "The Right’s Worst New Star Just Shot Someone",
+      "description": "Meet “Chud the Builder.”",
+      "site": "",
+      "image": "https://substackcdn.com/image/fetch/$s_!Xoxu!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fbbc7c691-ca7f-485b-a8a6-dd1806cf72c9_1440x1080.jpeg",
+      "icon": "https://substackcdn.com/image/fetch/$s_!vN6K!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F227e4e1f-cd0d-4172-942c-f72d87801b78%2Ffavicon.ico",
+      "domain": "www.thebulwark.com",
+      "checkedAt": "2026-09-30T17:34:03.453440+00:00",
+      "available": true
+    },
+    "https://www.wired.com/story/jeff-bezos-is-funding-a-wild-hunt-for-the-brains-core-algorithm/": {
+      "title": "Jeff Bezos Is Funding a Wild Hunt for the Brain’s ‘Core Algorithm’",
+      "description": "With $500 million in funding and a reported $2.5 billion valuation, Flourish wants to reinvent AI by putting real neurons under the microscope.",
+      "site": "WIRED",
+      "image": "https://media.wired.com/photos/6a209f600b0d0bfc18ec9c17/191:100/w_1280,c_limit/LannaApisukh_Flourish_AI-0242.jpg",
+      "icon": "https://www.wired.com/verso/static/wired-us/assets/favicon.ico",
+      "domain": "www.wired.com",
+      "checkedAt": "2026-09-30T17:34:03.453440+00:00",
+      "available": true
+    },
+    "https://www.nytimes.com/2026/06/04/science/embryos-gene-editingcrispr.html": {
+      "checkedAt": "2026-09-30T17:34:03.453440+00:00",
+      "available": false
+    },
+    "https://robbreport.com/style/menswear/sid-mashburn-the-answers-1237573417/": {
+      "title": "Menswear Maestro Sid Mashburn on Collecting Vinyl, Cold Showers, and His Beloved Rolex Explorer",
+      "description": "Former J.Crew and Ralph Lauren menswear designer Sid Mashburn talks about his longtime Rolex Explorer, stay at Italy's Villa d'Este, and more.",
+      "site": "Robb Report",
+      "image": "https://robbreport.com/wp-content/uploads/2026/02/RR_Sid_Mashburn_Answers_6.jpg?w=681&h=383&crop=1",
+      "icon": "https://robbreport.com/wp-content/uploads/2018/04/cropped-robbreport_favicon.png?w=32",
+      "domain": "robbreport.com",
+      "checkedAt": "2026-09-30T17:34:03.453440+00:00",
+      "available": true
+    },
+    "https://www.newyorker.com/magazine/2026/04/13/sam-altman-may-control-our-future-can-he-be-trusted": {
+      "title": "Sam Altman May Control Our Future—Can He Be Trusted?",
+      "description": "New interviews and closely guarded documents shed light on the persistent doubts about the head of OpenAI.",
+      "site": "The New Yorker",
+      "image": "https://media.newyorker.com/photos/69cd326ac6ea0f4558d6e181/16:9/w_1280,c_limit/r47927.jpg",
+      "icon": "https://www.newyorker.com/verso/static/thenewyorker-us/assets/favicon.ico",
+      "domain": "www.newyorker.com",
+      "checkedAt": "2026-09-30T17:34:03.453440+00:00",
+      "available": true
+    },
+    "https://washingtonian.com/2026/06/29/dc-food-truck-mafia-national-mall": {
+      "title": "Inside the Food Truck Mafia Wreaking Havoc Around the National Mall",
+      "description": "Turf wars. Food and fire hazards. $15 ice-cream cones. How an organized network of unlicensed food trucks took over America's Front Lawn.",
+      "site": "Washingtonian - The website that Washington lives by.",
+      "image": "https://washingtonian.com/wp-content/uploads/2026/06/102-103-social.jpg",
+      "icon": "https://washingtonian.com/wp-content/themes/washingtonian/favicon.ico",
+      "domain": "washingtonian.com",
+      "checkedAt": "2026-09-30T17:34:03.453440+00:00",
+      "available": true
+    },
+    "https://www.newyorker.com/magazine/2026/06/29/colson-whitehead-profile": {
+      "title": "Colson Whitehead’s Big Score",
+      "description": "As he closes out his Harlem crime trilogy with “Cool Machine,” the two-time Pulitzer winner turns again to the city that made him, and to the private ghosts behind his restless reinventions.",
+      "site": "The New Yorker",
+      "image": "https://media.newyorker.com/photos/6a304de6e5234b7e948a53d9/16:9/w_1280,c_limit/r49489.jpg",
+      "icon": "https://www.newyorker.com/verso/static/thenewyorker-us/assets/favicon.ico",
+      "domain": "www.newyorker.com",
+      "checkedAt": "2026-09-30T17:34:03.453440+00:00",
+      "available": true
+    },
+    "https://www.theatlantic.com/books/2026/05/summer-reading-2026/686880/": {
+      "checkedAt": "2026-09-30T17:34:03.453440+00:00",
+      "available": false
+    },
+    "https://www.newstatesman.com/culture/radio-podcasts/2025/12/lets-hear-it-for-the-rest-is-history": {
+      "title": "Let's hear it for The Rest is History",
+      "description": "Dominic Sandbrook and Tom Holland are defining our national story",
+      "site": "New Statesman",
+      "image": "https://dl6pgk4f88hky.cloudfront.net/2025/12/05/00030239-800x418.jpg?1790789645=",
+      "icon": "https://dl6pgk4f88hky.cloudfront.net/2021/07/cropped-TNS-favicon-1-150x150.png",
+      "domain": "www.newstatesman.com",
+      "checkedAt": "2026-09-30T17:34:03.453440+00:00",
+      "available": true
+    },
+    "https://www.nytimes.com/2022/08/16/nyregion/cowtown-rodeo-newjersey.html": {
+      "checkedAt": "2026-09-30T17:34:03.453440+00:00",
+      "available": false
+    },
+    "https://www.theatlantic.com/books/archive/2024/12/oliver-sacks-letters-reveal-search-recognition/680997/": {
+      "checkedAt": "2026-09-30T17:34:03.453440+00:00",
+      "available": false
+    },
+    "https://www.vanityfair.com/culture/story/magnus-carsen-chess-excerpt": {
+      "title": "Chess Legend Magnus Carlsen Lost to Upstart Hans Niemann—Then All Hell Broke Loose",
+      "description": "In an excerpt from his new book, Checkmate: Genius, Lies, Ambition, and the Biggest Scandal in Chess, author Ben Mezrich explores every angle of the match where Niemann improbably beat Carlsen, leading Carlsen to imply that Niemann had cheated—and inspiring one enterprising internet troll to speculate about the, ahem, unorthodox methods Niemann cou",
+      "site": "Vanity Fair",
+      "image": "https://media.vanityfair.com/photos/69ceb837b80bc28d9d176fd7/16:9/w_1280,c_limit/Checkmate-Book-Expert-site-story-image-v2.jpg",
+      "icon": "https://www.vanityfair.com/verso/static/vanityfair-global/assets/favicon.ico",
+      "domain": "www.vanityfair.com",
+      "checkedAt": "2026-09-30T17:34:03.453440+00:00",
+      "available": true
+    },
+    "https://www.wired.com/story/i-work-in-hollywood-everyone-who-used-to-make-tv-now-training-ai/": {
+      "title": "I Work in Hollywood. Everyone Who Used to Make TV Is Now Secretly Training AI",
+      "description": "For screenwriters like me—and job seekers all over—AI gig work is the new waiting tables. In eight months, I’ve done 20 of these soul-crushing contracts for five different platforms. It’s bad.",
+      "site": "WIRED",
+      "image": "https://media.wired.com/photos/69f9d07c16b465babf179812/191:100/w_1280,c_limit/WIRED-AnastasiaKraynyuk-HollywoodAI-01.png",
+      "icon": "https://www.wired.com/verso/static/wired-us/assets/favicon.ico",
+      "domain": "www.wired.com",
+      "checkedAt": "2026-09-30T17:34:03.453440+00:00",
+      "available": true
+    },
+    "https://www.nytimes.com/2026/04/26/business/dwarkesh-patel-podcast-ai.html": {
+      "checkedAt": "2026-09-30T17:34:03.453440+00:00",
+      "available": false
+    },
+    "https://www.theringer.com/2026/05/04/tv/david-attenborough-voice-nature-earth-100-years": {
+      "title": "David Attenborough and the Voice That Revealed a Planet",
+      "description": "He turned a whisper into one of the most powerful voices in history. At 100, it carries both wonder and warning.",
+      "site": "",
+      "image": "https://wp.theringer.com/wp-content/uploads/2026/05/cropped-DA_conoldeeney1-scaled-1.jpg",
+      "icon": "",
+      "domain": "www.theringer.com",
+      "checkedAt": "2026-09-30T17:34:03.453440+00:00",
+      "available": true
+    },
+    "https://macleans.ca/longforms/menace-on-the-streets/": {
+      "checkedAt": "2026-09-30T17:34:03.453440+00:00",
+      "available": false
+    },
+    "https://www.newyorker.com/magazine/2026/06/22/the-church-that-won-america": {
+      "title": "How Did American Christianity End Up Like This?",
+      "description": "History helps explain the particular faith that now rules our religious marketplace.",
+      "site": "The New Yorker",
+      "image": "https://media.newyorker.com/photos/6a2827bf0377ff446e528be3/16:9/w_1280,c_limit/r49504.jpg",
+      "icon": "https://www.newyorker.com/verso/static/thenewyorker-us/assets/favicon.ico",
+      "domain": "www.newyorker.com",
+      "checkedAt": "2026-09-30T17:34:03.453440+00:00",
+      "available": true
+    },
+    "https://www.nytimes.com/2026/04/24/arts/music/michael-jackson-secondfamily-cascio.html": {
+      "checkedAt": "2026-09-30T17:34:03.453440+00:00",
+      "available": false
+    },
+    "https://www.wired.com/story/interactive-violent-gross-inside-fishtank-the-unhinged-future-of-reality-tv/": {
+      "title": "Interactive. Violent. Gross. Inside Fishtank, the Unhinged Future of Reality TV",
+      "description": "It’s like Big Brother without any limits, or broadcast standards. WIRED goes on location—and on camera—with the cult hit.",
+      "site": "WIRED",
+      "image": "https://media.wired.com/photos/6a3189cf6b7f39b676cb219a/191:100/w_1280,c_limit/WEB-mp-FISHTANK074.jpg",
+      "icon": "https://www.wired.com/verso/static/wired-us/assets/favicon.ico",
+      "domain": "www.wired.com",
+      "checkedAt": "2026-09-30T17:34:03.453440+00:00",
+      "available": true
+    },
+    "https://popcar.bearblog.dev/its-about-ownership/": {
+      "title": "It's not about physical vs digital games, it's about ownership",
+      "description": "PlayStation announced that they will stop making discs. People are rightfully mad about this, but it's not actually about physical media. It's about owning your games.",
+      "site": "Popcar's Blog",
+      "image": "https://popcar.bearblog.dev/static/og-image.png",
+      "icon": "",
+      "domain": "popcar.bearblog.dev",
+      "checkedAt": "2026-09-30T17:34:03.453440+00:00",
+      "available": true
+    },
+    "https://www.theatlantic.com/magazine/2026/07/boeing-747-retirement/687304": {
+      "title": "The Boeing 747 Begins Its Final Descent",
+      "description": "The jet was perhaps the pinnacle of American engineering excellence. Its retirement signals an end to an era of American culture—and ambition.",
+      "site": "The Atlantic",
+      "image": "https://cdn.theatlantic.com/thumbor/0yjtunjhk4KjnxzjCnrjvpQuKI4=/1x185:4931x2753/1200x625/media/img/2026/06/0726_WEL_Bogost_747_16x9/original.png",
+      "icon": "https://cdn.theatlantic.com/_next/static/images/favicon-3888b0e329526a975703e3059a02b92d.ico",
+      "domain": "www.theatlantic.com",
+      "checkedAt": "2026-09-30T17:34:03.453440+00:00",
+      "available": true
+    },
+    "https://www.vulture.com/article/social-media-feeds-chaotic-good-projects-clipping.html": {
+      "title": "The Feed Is Fake",
+      "description": "That “viral” song, movie, influencer, and celebrity drama you scrolled by recently was likely the result of a stealth marketing campaign.",
+      "site": "Vulture",
+      "image": "https://pyxis.nymag.com/v1/imgs/0c6/076/6f60609ad43758e0115567c89ee55ee9e6-NYM-clipping-final.1x.rsocial.w1200.jpg",
+      "icon": "https://assets.vulture.com/media/sites/vulture/icon.196x196.png",
+      "domain": "www.vulture.com",
+      "checkedAt": "2026-09-30T17:34:03.453440+00:00",
+      "available": true
+    },
+    "https://www.theatlantic.com/magazine/2026/08/reading-crisis-postliterate-age/687618/": {
+      "checkedAt": "2026-09-30T17:34:03.453440+00:00",
+      "available": false
+    },
+    "https://www.newyorker.com/culture/open-questions/why-is-it-so-hard-to-be-ordinary": {
+      "title": "Why Is It So Hard to Be Ordinary?",
+      "description": "We’ve been trained to strive for greatness at all times. Is there a positive case for being ordinary?",
+      "site": "The New Yorker",
+      "image": "https://media.newyorker.com/photos/6a0606e0807d85f9542022d3/16:9/w_1280,c_limit/OpenQuestions_Normal_final-2.png",
+      "icon": "https://www.newyorker.com/verso/static/thenewyorker-us/assets/favicon.ico",
+      "domain": "www.newyorker.com",
+      "checkedAt": "2026-09-30T17:34:03.453440+00:00",
+      "available": true
+    },
+    "https://www.nytimes.com/2026/06/07/magazine/stevenspielberg-movie-theater-disclosure-day.html": {
+      "checkedAt": "2026-09-30T17:34:03.453440+00:00",
+      "available": false
+    },
+    "https://www.espn.com/nba/story/_/id/48818786/how-34-generations-shaolin-warrior-monk-training-helped-build-once-generation-nba-superstar-victor-wembanyama": {
+      "title": "Inside the Shaolin monastery that helped build Victor Wembanyama",
+      "description": "Here's how monks in central China helped turn Victor Wembanyama into what he has now become: the most unstoppable force in basketball.",
+      "site": "ESPN.com",
+      "image": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0516%2Fr1659069_1296x729_16-9.jpg",
+      "icon": "https://a.espncdn.com/favicon.ico",
+      "domain": "www.espn.com",
+      "checkedAt": "2026-09-30T17:34:03.453440+00:00",
+      "available": true
+    },
+    "https://cazziedavid.substack.com/p/etiquette-for-befriending-a-friends": {
+      "title": "Etiquette for Befriending a Friend's Friend",
+      "description": "If you want your friend to welcome your friendship with her friend, it is essential that you follow these rules",
+      "site": "",
+      "image": "https://substackcdn.com/image/fetch/$s_!FI_S!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F976cccda-091f-4af9-bfa0-fbcf0e80f8a4_2724x1657.jpeg",
+      "icon": "https://substackcdn.com/icons/substack/favicon.ico",
+      "domain": "cazziedavid.substack.com",
+      "checkedAt": "2026-09-30T17:34:03.453440+00:00",
+      "available": true
+    },
+    "https://www.nytimes.com/2026/05/20/opinion/deep-springs-college-ivyleague-education.html": {
+      "checkedAt": "2026-09-30T17:34:03.453440+00:00",
+      "available": false
+    },
+    "https://www.thecut.com/article/the-cursed-quest-to-make-meta-glasses-cool.html": {
+      "title": "The Cursed Quest to Make Meta Glasses Cool",
+      "description": "How much star power does it take to make surveillance chic?",
+      "site": "The Cut",
+      "image": "https://pyxis.nymag.com/v1/imgs/892/236/ddfd1463860bbad4ed5a0d7cc696744c06-metaglasses-lede.1x.rsocial.w1200.jpg",
+      "icon": "https://assets.thecut.com/media/sites/wwwthecut/icon.196x196.png",
+      "domain": "www.thecut.com",
+      "checkedAt": "2026-09-30T17:34:03.453440+00:00",
+      "available": true
+    },
+    "https://www.vulture.com/article/clowning-hottest-new-comedy-los-angeles.html": {
+      "title": "My Week in the Los Angeles Clown Scene",
+      "description": "This winter, Allison P. Davis traveled to L.A.’s Eastside to settle one of comedy’s most controversial debates: Is the art of clowning a joke?",
+      "site": "Vulture",
+      "image": "https://pyxis.nymag.com/v1/imgs/e39/91f/1576c29d5a510b5128215b5eecfda05ac8-clownsofcolor-transparent.1x.rsocial.w1200.png",
+      "icon": "https://assets.vulture.com/media/sites/vulture/icon.196x196.png",
+      "domain": "www.vulture.com",
+      "checkedAt": "2026-09-30T17:34:03.453440+00:00",
+      "available": true
+    },
+    "https://www.theatlantic.com/technology/archive/2019/08/yahoo-mails-plan-to-fix-email-make-computers-read-it/595183/": {
+      "checkedAt": "2026-09-30T17:34:03.453440+00:00",
+      "available": false
+    },
+    "https://www.wired.com/story/book-excerpt-david-epstein-inside-the-box-general-magic": {
+      "title": "The iPhone That Never Was",
+      "description": "In 1990, three former Apple employees launched a company that epitomized the Silicon Valley dream. What they invented looked like an iPhone—more than a decade earlier. The device never came to be.",
+      "site": "WIRED",
+      "image": "https://media.wired.com/photos/69fa1b1a6ebacc1987cffa76/191:100/w_1280,c_limit/BookExcerpt-TheiPhoneThatNeverWas_v6.2.jpg",
+      "icon": "https://www.wired.com/verso/static/wired-us/assets/favicon.ico",
+      "domain": "www.wired.com",
+      "checkedAt": "2026-09-30T17:34:03.453440+00:00",
+      "available": true
+    },
+    "https://www.thecut.com/article/new-sex-diaries-story-she-cant-get-enough-of-her-husband.html": {
+      "title": "The Woman Who Can’t Get Enough Sex With Her Husband",
+      "description": "In this week’s story, an academic living in the suburbs goes on vacation with her family and celebrates her husband’s birthday in bed.",
+      "site": "The Cut",
+      "image": "https://pyxis.nymag.com/v1/imgs/306/bbf/33f8d6919d9af6821176813034abef1378-Diaries-Round10-18.1x.rsocial.w1200.png",
+      "icon": "https://assets.thecut.com/media/sites/wwwthecut/icon.196x196.png",
+      "domain": "www.thecut.com",
+      "checkedAt": "2026-09-30T17:34:03.453440+00:00",
+      "available": true
+    },
+    "https://thereader.mitpress.mit.edu/the-bra-and-girdle-maker-that-fashioned-the-impossible-for-nasa": {
+      "checkedAt": "2026-09-30T17:34:03.453440+00:00",
+      "available": false
+    },
+    "https://www.interviewmagazine.com/music/the-return-of-grimes": {
+      "title": "“This Is A Bigger Deal Than Jesus”: The Return of Grimes",
+      "description": "After a decade of putting out self-produced art pop that made her one of music’s most singular figures, she abruptly left the industry amid personal life chaos. Now she's back with a new album, and, as she tells sci-fi author Nnedi Okorafor, a little AI psychosis.",
+      "site": "Interview Magazine",
+      "image": "https://www.interviewmagazine.com/wp-content/uploads/2026/04/Interview_Issue-566_Spring-2026_Grimes_2-scaled-1-e1776882341565.jpg",
+      "icon": "https://www.interviewmagazine.com/wp-content/themes/interview/images/favicon.ico",
+      "domain": "www.interviewmagazine.com",
+      "checkedAt": "2026-09-30T17:34:03.453440+00:00",
+      "available": true
+    },
+    "https://www.thecut.com/article/reason-for-trump-news-paralysis-numb-reactions.html": {
+      "title": "The Great Numbing Out",
+      "description": "Why formerly politically engaged people are in a state of paralysis this time around.",
+      "site": "The Cut",
+      "image": "https://pyxis.nymag.com/v1/imgs/6c2/a9c/3ef86a698702a2417752b9d6b6633e9c32-trump-2.1x.rsocial.w1200.jpg",
+      "icon": "https://assets.thecut.com/media/sites/wwwthecut/icon.196x196.png",
+      "domain": "www.thecut.com",
+      "checkedAt": "2026-09-30T17:34:03.453440+00:00",
+      "available": true
+    },
+    "https://www.nytimes.com/2025/12/29/opinion/why-we-fall-fornarcissistic-leaders-starting-in-grade-school.html": {
+      "checkedAt": "2026-09-30T17:34:03.453440+00:00",
+      "available": false
+    },
+    "https://www.theatlantic.com/magazine/2026/01/human-ancestors-emotion-history/684959": {
+      "checkedAt": "2026-09-30T17:34:03.453440+00:00",
+      "available": false
+    },
+    "https://www.theatlantic.com/ideas/2026/07/female-ambition-alex-cooper-alix-earle/688080": {
+      "checkedAt": "2026-09-30T17:34:03.453440+00:00",
+      "available": false
+    },
+    "https://moultano.wordpress.com/2026/06/19/where-to-find-the-colors-your-screen-cant-show-you/": {
+      "title": "Where to Find the Colors Your Screen Can’t Show You",
+      "description": "An atlas of the vibrance of the real world",
+      "site": "Ryan Moulton's Articles",
+      "image": "https://moultano.wordpress.com/wp-content/uploads/2026/06/rgb-wing.png",
+      "icon": "https://moultano.wordpress.com/wp-content/uploads/2023/09/jp-triangle-icon-1.png?w=32",
+      "domain": "moultano.wordpress.com",
+      "checkedAt": "2026-09-30T17:34:03.453440+00:00",
+      "available": true
+    },
+    "https://www.wired.com/story/a-two-person-startup-has-fixed-one-of-the-most-hated-sounds-in-modern-life": {
+      "title": "A Two-Person Startup Has Fixed One of the Most Hated Sounds in Modern Life",
+      "description": "A couple of enterprising sound designers have taken on the challenge of producing more pleasant beeps for the humble microwave.",
+      "site": "WIRED",
+      "image": "https://media.wired.com/photos/6a633f9337c1de99d55a84c8/191:100/w_1280,c_limit/MicrowaveBeep.jpg",
+      "icon": "https://www.wired.com/verso/static/wired-us/assets/favicon.ico",
+      "domain": "www.wired.com",
+      "checkedAt": "2026-09-30T17:34:03.453440+00:00",
+      "available": true
+    },
+    "https://www.nytimes.com/2026/08/03/opinion/ai-hype-tech-layoffs.html": {
+      "checkedAt": "2026-09-30T17:34:03.453440+00:00",
+      "available": false
+    },
+    "https://www.nytimes.com/2026/08/04/style/jack-johnson-summer-surfilmusic.html": {
+      "checkedAt": "2026-09-30T17:34:03.453440+00:00",
+      "available": false
+    },
+    "https://www.nytimes.com/2026/08/02/books/review/paul-yoon-etna-novel-dog.html": {
+      "checkedAt": "2026-09-30T17:34:03.453440+00:00",
+      "available": false
+    },
+    "https://www.piratewires.com/p/inside-the-coke-fueled-rise-and-fall": {
+      "checkedAt": "2026-09-30T17:34:03.453440+00:00",
+      "available": false
+    },
+    "https://magazine.atavist.com/2026/mccann-cocaine-fugitives": {
+      "title": "The Fugitive Childhood of a Cocaine Smuggler's Daughters",
+      "description": "When their parents ripped two young sisters from their privileged lives, gave them fake names, and took them on the lam, they thought it was because their father was in trouble with the IRS. It would be years before they learned the truth about his life of crime.",
+      "site": "The Atavist Magazine",
+      "image": "https://magazine.atavist.com/wp-content/uploads/2026/05/TheAtavist_V.Saba_BarryMeier_Lead_02.jpg",
+      "icon": "https://magazine.atavist.com/wp-content/uploads/2021/03/cropped-atavist_Logo_A-2-32x32.png",
+      "domain": "magazine.atavist.com",
+      "checkedAt": "2026-09-30T17:34:03.453440+00:00",
+      "available": true
+    },
+    "https://www.newyorker.com/magazine/2026/08/03/johnny-knoxville-profile": {
+      "title": "Johnny Knoxville, America’s God of Mischief",
+      "description": "What moves the star of “Jackass” to risk his life for our entertainment? A very serious investigation.",
+      "site": "The New Yorker",
+      "image": "https://media.newyorker.com/photos/6a5fdf79ad2913fa4f360d3e/16:9/w_1280,c_limit/r49540.jpg",
+      "icon": "https://www.newyorker.com/verso/static/thenewyorker-us/assets/favicon.ico",
+      "domain": "www.newyorker.com",
+      "checkedAt": "2026-09-30T17:34:03.453440+00:00",
+      "available": true
+    },
+    "https://www.theringer.com/2026/08/04/tech/google-search-ai-internet": {
+      "title": "The End of Google Search—and the Internet—as We Know It",
+      "description": "For years now, Google has been tweaking its search formula to prop up AI and bury actual links. Now it’s rounding into its final form—and changing the internet forever.",
+      "site": "",
+      "image": "https://wp.theringer.com/wp-content/uploads/2026/08/cropped-googlebreak_getty_ringer-scaled-1.jpg",
+      "icon": "",
+      "domain": "www.theringer.com",
+      "checkedAt": "2026-09-30T17:34:03.453440+00:00",
+      "available": true
+    },
+    "https://blog.rootsofprogress.org/why-did-we-wait-so-long-for-the-bicycle": {
+      "title": "Why did we wait so long for the bicycle?",
+      "description": "The bicycle, as we know it today, was not invented until the late 1800s. Here are some theories about why",
+      "site": "The Roots of Progress",
+      "image": "https://blog.rootsofprogress.org/img/the-american-velocipede.jpg",
+      "icon": "https://blog.rootsofprogress.org/favicon-32x32.png",
+      "domain": "blog.rootsofprogress.org",
+      "checkedAt": "2026-09-30T17:34:03.453440+00:00",
+      "available": true
+    },
+    "https://www.libraryofshortstories.com/storiespdf/there-will-come-soft-rains.pdf": {
+      "checkedAt": "2026-09-30T17:34:03.453440+00:00",
+      "available": false
+    },
+    "https://www.economist.com/culture/2026/08/07/the-dark-underbelly-of-paw-patrol?giftId=M2RkNDcyNWItOWRkNS00MmJhLTgxM2QtN2U2NTQ5N2Y4ZWZh": {
+      "checkedAt": "2026-09-30T17:34:03.453440+00:00",
+      "available": false
+    },
+    "https://www.nytimes.com/2026/08/02/style/nicole-lepera-self-help-litigation-holistic-psychologist.html": {
+      "checkedAt": "2026-09-30T17:34:03.453440+00:00",
+      "available": false
+    },
+    "https://www.theatlantic.com/technology/2026/05/ai-wearable-surveillance-countermeasures/687203/": {
+      "title": "Everything You Do Is Being Recorded",
+      "description": "Is there any way of fighting back?",
+      "site": "The Atlantic",
+      "image": "https://cdn.theatlantic.com/thumbor/a_6tjTSlGfhmNqMHD5cosV_-kVQ=/0x43:2000x1085/1200x625/media/img/mt/2026/05/2026_05_15_Recording_arms_race_1/original.jpg",
+      "icon": "https://cdn.theatlantic.com/_next/static/images/favicon-3888b0e329526a975703e3059a02b92d.ico",
+      "domain": "www.theatlantic.com",
+      "checkedAt": "2026-09-30T17:34:03.453440+00:00",
+      "available": true
+    },
+    "https://www.bostonglobe.com/2026/08/11/magazine/heather-cox-richardson-youtube/": {
+      "title": "From a small town in Maine, Heather Cox Richardson has built a following of millions. She still thinks America can be saved. - The Boston Globe",
+      "description": "Her newsletter, Letters from an American, is quick to call out MAGA. Her critics say she's less tough on Democrats.",
+      "site": "BostonGlobe.com",
+      "image": "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/v2/Z7GQI3X3XZATFDESRXMAZHLDYI.jpg?auth=4aaea7261dced46ef6a52a71798f72d246db21b408d45c4b189c225c32928d36&width=1440",
+      "icon": "https://www.bostonglobe.com/pf/resources/images/favicon.png?v=bostonGlobe&d=704",
+      "domain": "www.bostonglobe.com",
+      "checkedAt": "2026-09-30T17:34:03.453440+00:00",
+      "available": true
+    },
+    "https://www.theringer.com/2026/08/04/movies/will-ferrell-sports-oral-history-talladega-nights-semi-pro-blades-of-glory-the-hawk": {
+      "title": "The Oral History of Will Ferrell, Sports Comedy Icon",
+      "description": "On the 20th anniversary of ‘Talladega Nights,’ here are the stories behind how Ferrell cemented his legacy as the defining sports comedian of his generation",
+      "site": "",
+      "image": "https://wp.theringer.com/wp-content/uploads/2026/08/cropped-Willtheathlete2_getty_netflix_ringer-scaled-1.jpg",
+      "icon": "",
+      "domain": "www.theringer.com",
+      "checkedAt": "2026-09-30T17:34:03.453440+00:00",
+      "available": true
+    },
+    "https://inews.co.uk/sport/football/fabrizio-romano-transfer-window-4700376": {
+      "title": "The transfer window that broke Fabrizio Romano",
+      "description": "As controversial reporter hints at career change after a summer of backlash, sources tell The i Paper about his methods, how his influence shapes the transfer market and what football really thinks of him",
+      "site": "The i Paper",
+      "image": "https://inews.co.uk/wp-content/uploads/2026/08/SEI_307365170.jpg?crop=4px%2C0px%2C1912px%2C1080px&resize=1200%2C675",
+      "icon": "https://inews.co.uk/wp-content/themes/inews-theme/assets/images/favicon/16x16.png",
+      "domain": "inews.co.uk",
+      "checkedAt": "2026-09-30T17:34:03.453440+00:00",
+      "available": true
+    },
+    "https://www.latimes.com/lifestyle/story/2026-08-17/los-angeles-wellness-dating-events-come-for-new-york-city": {
+      "title": "The Santa Monification of New York City",
+      "description": "Alcohol-free cold plunge parties, dating mixers and chic Rummikub events that started in Los Angeles have made their way east to New York City.",
+      "site": "Los Angeles Times",
+      "image": "https://ca-times.brightspotcdn.com/dims4/default/29dd1a3/2147483647/strip/true/crop/4514x2370+0+320/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F44%2Fdf%2Ff76ea7634f2281320c1e60aa7118%2Fwk-santa-monification-of-new-york-city-02.JPG",
+      "icon": "https://www.latimes.com/favicon-32x32.png",
+      "domain": "www.latimes.com",
+      "checkedAt": "2026-09-30T17:34:03.453440+00:00",
+      "available": true
+    },
+    "https://www.newyorker.com/culture/the-weekend-essay/a-diehard-drinker-accidentally-quits": {
+      "title": "A Diehard Drinker Accidentally Quits",
+      "description": "The cultural discourse around avoiding alcohol never convinced Sarah Miller—and why sober up when the world is burning? Then life intervened.",
+      "site": "The New Yorker",
+      "image": "https://media.newyorker.com/photos/6a304421a10eef2dcb837156/16:9/w_1280,c_limit/Newyorkersober.jpg",
+      "icon": "https://www.newyorker.com/verso/static/thenewyorker-us/assets/favicon.ico",
+      "domain": "www.newyorker.com",
+      "checkedAt": "2026-09-30T17:34:03.453440+00:00",
+      "available": true
+    },
+    "https://web.archive.org/web/20260912145502/https://www.theatlantic.com/ideas/2026/09/meditation-willoughby-britton-downsides/688474/": {
+      "title": "The Dark Side of Mindfulness",
+      "description": "A prominent psychologist and meditation teacher set out to research the benefits of the practice. What she found alarmed her.",
+      "site": "The Atlantic",
+      "image": "https://web.archive.org/web/20260912145502im_/https://cdn.theatlantic.com/thumbor/Y8NcT_qLZN0qNXaZyP4x0StZXO8=/4x96:3498x1916/1200x625/media/img/mt/2026/08/2026_07_09_what_if_meditation_was_bad_h/original.jpg",
+      "icon": "https://web.archive.org/web/20260912145502im_/https://cdn.theatlantic.com/_next/static/images/favicon-3888b0e329526a975703e3059a02b92d.ico",
+      "domain": "web.archive.org",
+      "checkedAt": "2026-09-30T17:34:03.453440+00:00",
+      "available": true
+    },
+    "https://www.thecut.com/article/my-husband-has-no-friends.html": {
+      "title": "‘My Husband Has No Friends’",
+      "description": "For some wives, first comes love, then comes marriage, then comes … managing their spouse’s social life?",
+      "site": "The Cut",
+      "image": "https://pyxis.nymag.com/v1/imgs/1ff/eeb/5b1c0f9d33385d7dd33fde7f8b5f2b5114-HusbandsNoFriends.1x.rsocial.w1200.jpg",
+      "icon": "https://assets.thecut.com/media/sites/wwwthecut/icon.196x196.png",
+      "domain": "www.thecut.com",
+      "checkedAt": "2026-09-30T17:34:03.453440+00:00",
+      "available": true
+    },
+    "https://www.nytimes.com/2026/09/14/dining/danny-meyer-hospitality-book.html": {
+      "checkedAt": "2026-09-30T17:34:03.453440+00:00",
+      "available": false
+    },
+    "https://colossus.com/article/mark-zuckerberg-profile/": {
+      "title": "Profile of Mark Zuckerberg",
+      "description": "A journey to the heart of history’s largest nonterritorial empire",
+      "site": "Colossus",
+      "image": "https://colossus.com/wp-content/uploads/2026/09/Mark-Preview-Card.jpg",
+      "icon": "https://colossus.com/wp-content/themes/colossus/assets/images/icons/favicon-96x96.png",
+      "domain": "colossus.com",
+      "checkedAt": "2026-09-30T17:34:03.453440+00:00",
+      "available": true
+    },
+    "https://web.archive.org/web/20260923081702/https://www.bostonglobe.com/2026/09/22/magazine/greenfield-last-ditch-bar-backlash/": {
+      "title": "A Western Mass. lesbian bar required KN-95 masks. When it changed the rules, all hell broke loose. - The Boston Globe",
+      "description": "Last Ditch Bar in Greenfield wanted to build community. They got a firestorm instead.",
+      "site": "BostonGlobe.com",
+      "image": "https://web.archive.org/web/20260923081702im_/https://bostonglobe-prod.cdn.arcpublishing.com/resizer/v2/CTJDPPL62RDIFB2B3BTXZZCKGA.jpg?auth=9febd2b6646f066a59cb186440a73e40df8a2ccd9ce775a8a4f856576aceec58&width=1440",
+      "icon": "https://web.archive.org/web/20260923081702im_/https://www.bostonglobe.com/pf/resources/images/favicon.png?v=bostonGlobe&d=702",
+      "domain": "web.archive.org",
+      "checkedAt": "2026-09-30T17:34:03.453440+00:00",
+      "available": true
+    },
+    "https://www.theatlantic.com/ideas/2026/09/college-education-future-ai/688655/": {
+      "title": "College Is Coming Apart",
+      "description": "Successive, overlapping crises reveal that American higher education makes no sense.",
+      "site": "The Atlantic",
+      "image": "https://cdn.theatlantic.com/thumbor/pCR-o4yu90wSntWXlBojVP3qC64=/0x43:2000x1085/1200x625/media/img/mt/2026/09/CollegeCooked/original.png",
+      "icon": "https://cdn.theatlantic.com/_next/static/images/favicon-3888b0e329526a975703e3059a02b92d.ico",
+      "domain": "www.theatlantic.com",
+      "checkedAt": "2026-09-30T17:34:03.453440+00:00",
+      "available": true
+    },
+    "https://tyler.center/": {
+      "title": "Tyler.Center",
+      "description": "Apps, websites, articles, videos, writing, and photography from Tyler Mulvey.",
+      "site": "",
+      "image": "",
+      "icon": "https://tyler.center/assets/favicon.svg",
+      "domain": "tyler.center",
+      "checkedAt": "2026-09-30T17:34:03.453440+00:00",
+      "available": true
+    },
+    "https://butter.living/": {
+      "title": "Maple Money",
+      "description": "",
+      "site": "",
+      "image": "",
+      "icon": "",
+      "domain": "butter.living",
+      "checkedAt": "2026-09-30T17:34:03.453440+00:00",
+      "available": true
+    },
+    "https://mulveyswoodworking.com/": {
+      "title": "Mulvey's Woodworking | Heirloom toys for modern times",
+      "description": "Wooden toys, puzzles, engraved gifts, flags and kids' furniture, made to order in a basement workshop in Northern NJ.",
+      "site": "",
+      "image": "https://mulveyswoodworking.com/brand/cat-working.gif",
+      "icon": "https://mulveyswoodworking.com/icon.png?icon.0vv3vo.tb3tos.png=",
+      "domain": "mulveyswoodworking.com",
+      "checkedAt": "2026-09-30T17:34:03.453440+00:00",
+      "available": true
+    },
+    "https://mulvey.world/": {
+      "title": "Tyler Mulvey · Aerial 360",
+      "description": "Drone 360° panoramas by Tyler Mulvey. Browse by town, state, year, or season, then step inside any one full screen.",
+      "site": "",
+      "image": "",
+      "icon": "https://mulvey.world/favicon.svg",
+      "domain": "mulvey.world",
+      "checkedAt": "2026-09-30T17:34:03.453440+00:00",
+      "available": true
+    },
+    "https://gatorademovie.com/": {
+      "title": "GATORADE — The Film",
+      "description": "",
+      "site": "",
+      "image": "",
+      "icon": "",
+      "domain": "gatorademovie.com",
+      "checkedAt": "2026-09-30T17:34:03.453440+00:00",
+      "available": true
+    }
+  }
+}

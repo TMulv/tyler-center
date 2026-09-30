@@ -112,3 +112,8 @@ Notion Movie / TV Show / Podcast / Documentary / Book map to the plural website 
 ### Independent workflow results
 
 The sync workflow has separate **Notion channels** and **Betting Antelope writing** jobs. A writing-source failure leaves its previous snapshot intact and keeps a failed status for visibility; it cannot mark the Notion job as failed. Jobs run sequentially to avoid snapshot push races. Each job includes a channel-by-channel summary. A successful local RSS request does not establish that GitHub's runner can access Substack; verify the writing job separately.
+
+
+### Automatic link previews
+
+`scripts/sync_previews.py` reads public links from the Read Later and built-project snapshots. It stores only page titles, short descriptions, site names, and original image/icon URLs in `data/previews.json`. It does not store article bodies or image files. The Notion sync refreshes newly added URLs and revisits cached sources weekly. Private/local destinations and signed file URLs are rejected; redirects are checked before following. Sites without available artwork use an explicit domain card. Existing metadata is retained when a source cannot refresh. The visible writing channel is named `betting-antelope`; its stable internal `writing` ID is unchanged.

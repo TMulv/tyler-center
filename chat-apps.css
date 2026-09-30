@@ -92,3 +92,7 @@
 /* Notion reading status is Tyler’s, separate from visitor unread markers. */
 .reading-status {font: 600 13px/1.4 Arial, sans-serif; padding: 3px 8px; border: 1px solid currentColor; border-radius: 3px; color: #254753; background: #e5e8d7;}
 .saved-label {font: 13px/1.4 Arial, sans-serif;}
+
+.domain-preview{display:flex;align-items:center;gap:14px;min-height:105px;padding:22px;background:var(--grain),#d9dfcf;border-bottom:1px solid #a5b1a1;color:#294c59}
+.domain-preview-mark{display:grid;place-items:center;flex:none;width:52px;height:52px;border:1px solid #879c8e;background:#f1eedf;font:28px var(--heading-font)}.domain-preview-mark img{width:36px;height:36px;object-fit:contain}
+.domain-preview-address{font:18px/1.4 var(--heading-font);overflow-wrap:anywhere}.domain-preview-arrow{margin-left:auto;font-size:25px}.source-preview-image[hidden]{display:none}
