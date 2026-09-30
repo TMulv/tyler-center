@@ -295,8 +295,6 @@ function showShelf(channel) {
   const windowEl=$('#appWindow');
   const wasHidden=windowEl.classList.contains('hidden-window');
   windowEl.classList.remove('hidden-window');
-  $('#dockShelf').classList.add('active');
-  $('#dockShelf').setAttribute('aria-label','Open Tyler.Center');
   bringFront(windowEl);
   if(channel) navigate(channel);
   else { renderNav(); clearTimeout(readingTimer); readingTimer=setTimeout(markVisibleMessages,350); }
@@ -306,9 +304,7 @@ function hideShelf() {
   markVisibleMessages();clearTimeout(readingTimer);closeSearch();closeModal();closeSidebar();closeDesktopMenu();
   $('#desktopMenuHost').dataset.open='';
   $('#appWindow').classList.add('hidden-window');
-  $('#dockShelf').classList.remove('active');
-  $('#dockShelf').setAttribute('aria-label','Restore Tyler.Center');
-  $('#dockShelf').focus();
+  document.querySelector('[data-desktop-open="home"]').focus();
 }
 let unzoomedLayout = null;
 function toggleZoom(element) {
@@ -458,7 +454,6 @@ $('#mobileScrim').addEventListener('click',closeSidebar);
 $('#windowClose').addEventListener('click',hideShelf);
 $('#windowMinimize').addEventListener('click',hideShelf);
 $('#windowZoom').addEventListener('click',()=>toggleZoom($('#appWindow')));
-$('#dockShelf').addEventListener('click',()=>showShelf());
 document.querySelectorAll('[data-desktop-open]').forEach(button=>button.addEventListener('click',()=>button.dataset.desktopOpen==='shore'?openShore():showShelf(button.dataset.desktopOpen)));
 $('#appWindow').addEventListener('pointerdown',()=>bringFront($('#appWindow')));
 makeDraggable($('#appWindow'),$('#appWindow .topbar'));
