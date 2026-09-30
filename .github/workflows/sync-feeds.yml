@@ -16,10 +16,10 @@ concurrency:
   cancel-in-progress: false
 jobs:
   sync:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-24.04
     timeout-minutes: 10
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v5
         with:
           ref: main
           fetch-depth: 0
@@ -33,7 +33,7 @@ jobs:
         id: notion
         continue-on-error: true
         env:
-          NOTION_TOKEN: ${{ secrets.NOTION_TOKEN }}
+          NOTION_TOKEN: ${{ secrets.NOTION_TOKEN_NEWSLETTER || secrets.NOTION_TOKEN }}
         run: python3 scripts/sync_feeds.py notion
       - name: Publish changed snapshots
         env:

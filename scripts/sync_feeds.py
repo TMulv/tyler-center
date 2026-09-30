@@ -12,7 +12,7 @@ from pathlib import Path
 import re
 import sys
 import time
-from urllib.error import HTTPError
+from urllib.error import HTTPError, URLError
 from urllib.parse import urlparse
 from urllib.request import Request, urlopen
 import xml.etree.ElementTree as ET
@@ -91,6 +91,17 @@ def iso_date(value):
     return date.astimezone(timezone.utc).isoformat().replace('+00:00', 'Z')
 
 
+class SourceHTTPError(RuntimeError):
+    def __init__(self, status):
+        self.status = int(status)
+        super().__init__(f'Source returned HTTP {self.status}')
+
+
+def error_summary(error):
+    # Only diagnostic codes/types: never exception bodies, URLs, headers, or tokens.
+    return f'HTTP {error.status}' if isinstance(error, SourceHTTPError) else type(error).__name__
+
+
 def fetch(url, headers=None, data=None):
     request = Request(url, headers={'User-Agent': 'TylerCenterFeed/1.0', **(headers or {})},
                       data=json.dumps(data).encode() if data is not None else None)
@@ -104,7 +115,7 @@ def fetch(url, headers=None, data=None):
         except HTTPError as error:
             if error.code not in (429, 500, 502, 503, 504) or attempt == 3:
                 # Do not echo response bodies, request headers, or tokens.
-                raise RuntimeError(f'Source returned HTTP {error.code}') from None
+                raise SourceHTTPError(error.code) from None
             time.sleep(min(10, 2 ** attempt))
 
 
@@ -195,7 +206,15 @@ def sync_rss(xml=None, backfill=False):
     records = {e['id']: e for e in read_snapshot(path)}
     if backfill:
         records.update({e['id']: e for e in collect_writing_archive()})
-    records.update({e['id']: e for e in parse_rss(xml if xml is not None else fetch(RSS_URL))})
+    if xml is not None:
+        incoming = parse_rss(xml)
+    else:
+        try:
+            incoming = parse_rss(fetch(RSS_URL))
+        except (SourceHTTPError, URLError, TimeoutError, ET.ParseError, ValueError) as error:
+            print(f'::warning::RSS unavailable ({error_summary(error)}); trying the public publication archive.')
+            incoming = collect_writing_archive()
+    records.update({e['id']: e for e in incoming})
     write_snapshot(path, list(records.values()))
 
 
@@ -297,7 +316,7 @@ def collect_digests(api):
 def sync_notion():
     token = os.environ.get('NOTION_TOKEN', '').strip()
     if not token:
-        print('::notice::Newsletter sync awaits the NOTION_TOKEN repository secret. Existing digest snapshot kept.')
+        print('::notice::Newsletter sync awaits NOTION_TOKEN_NEWSLETTER (or NOTION_TOKEN) in repository secrets. Existing digest snapshot kept.')
         return
     # Only replace after all pages succeed. Deletions in Notion then remove public editions.
     write_snapshot(ROOT / 'data/newsletters.json', collect_digests(Notion(token)))
@@ -311,5 +330,5 @@ if __name__ == '__main__':
     try:
         sync_rss(backfill=args.backfill) if args.source == 'rss' else sync_notion()
     except Exception as error:
-        print(f'::error::{args.source} sync failed ({type(error).__name__}); previous snapshot kept.', file=sys.stderr)
+        print(f'::error::{args.source} sync failed ({error_summary(error)}); previous snapshot kept.', file=sys.stderr)
         sys.exit(1)

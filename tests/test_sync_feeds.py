@@ -32,6 +32,23 @@ class SyncTests(unittest.TestCase):
             sync.sync_rss(rss('Older remains', 'next'))
             self.assertEqual(path.read_bytes(), before)
 
+    def test_rss_failure_uses_public_archive_and_preserves_history(self):
+        with tempfile.TemporaryDirectory() as directory, patch.object(sync, 'ROOT', Path(directory)):
+            path = Path(directory) / 'data/writing.json'
+            sync.sync_rss(rss('Old post','older'))
+            incoming = sync.parse_rss(rss('New post','newer'))
+            with patch.object(sync,'fetch',side_effect=sync.SourceHTTPError(403)), patch.object(sync,'collect_writing_archive',return_value=incoming):
+                sync.sync_rss()
+            self.assertEqual(len(sync.read_snapshot(path)),2)
+            before = path.read_bytes()
+            with patch.object(sync,'fetch',side_effect=sync.SourceHTTPError(403)), patch.object(sync,'collect_writing_archive',side_effect=sync.SourceHTTPError(503)):
+                with self.assertRaises(sync.SourceHTTPError): sync.sync_rss()
+            self.assertEqual(path.read_bytes(),before)
+
+    def test_source_errors_only_log_safe_status_or_type(self):
+        self.assertEqual(sync.error_summary(sync.SourceHTTPError(403)), 'HTTP 403')
+        self.assertEqual(sync.error_summary(RuntimeError('secret or response body')), 'RuntimeError')
+
     def test_rss_keeps_source_image_metadata(self):
         xml = rss().replace('</item>', '<enclosure type="image/jpeg" url="https://substackcdn.com/image/cover.jpg"/></item>')
         self.assertEqual(sync.parse_rss(xml)[0]['image'], 'https://substackcdn.com/image/cover.jpg')

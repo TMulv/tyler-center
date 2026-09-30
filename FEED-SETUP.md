@@ -1,6 +1,6 @@
 # Publishing channel feeds
 
-The site includes the full public Betting Antelope archive as linked previews and one existing newsletter edition as an initial snapshot. Neither the scheduled job nor the Notion API connection has been activated or tested against production from this checkout.
+The site includes the full public Betting Antelope archive as linked previews and one existing newsletter edition as an initial snapshot. The scheduled workflow runs in GitHub Actions. The Notion API connection still needs a successful production run to confirm access.
 
 ## Turn on RSS
 
@@ -14,7 +14,7 @@ Schedules can run late, and GitHub can disable schedules on public repositories 
 
 1. Create an internal connection in Notion's Developer portal in the workspace containing **Daily Newsletter Digest**. Name it **Tyler.Center feed** and enable **Read content**; it does not need insert, update, or user information capabilities.
 2. On [Daily Newsletter Digest](https://app.notion.com/p/074c794ec62f48cc97c9dc98fba14a32), choose **••• → Connections → Add connection** and select it. Ensure its Editions database is included. Sharing this archive grants inherited access to its children.
-3. Copy its API token into a [GitHub Actions repository secret](https://github.com/TMulv/tyler-center/settings/secrets/actions/new) named **NOTION_TOKEN**. Do not put the key in website files or chat. Alternatively run `gh secret set NOTION_TOKEN --repo TMulv/tyler-center`; the CLI prompts for the value.
+3. Copy its API token into a [GitHub Actions repository secret](https://github.com/TMulv/tyler-center/settings/secrets/actions/new) named **NOTION_TOKEN_NEWSLETTER** (the workflow also accepts **NOTION_TOKEN**). Do not put the key in website files or chat. Alternatively run `gh secret set NOTION_TOKEN_NEWSLETTER --repo TMulv/tyler-center`; the CLI prompts for the value.
 4. Run **Actions → Sync channel feeds → Run workflow**, or wait for the next scheduled run. Verify one new edition and an edit on the site.
 
 The existing newsletter agent keeps doing the summarizing. It should save finished editions in the archive's **Editions** database, or as direct child pages of the archive. Both locations are supported and duplicate page IDs are merged. Page creation time determines feed order; edits update the existing message. The initial manually read edition uses its known last-edit timestamp; the first authenticated sync replaces that with its creation timestamp.
@@ -72,3 +72,7 @@ Run `python3 scripts/sync_feeds.py rss --backfill` to paginate the public Substa
 `link-previews.js` stores public Open Graph metadata read from the existing App Store, article, and video links. These cards load artwork directly from the original image host and fall back to text if it fails. Update that map when adding a new static source link. RSS image enclosures and archive cover images are included in the writing sync. Supported image hosts are validated in `feeds.js`; no generic preview proxy is used.
 
 Channel descriptions and filters remain above the scroll area. Projects filter by Apps or Websites, other content filters by its available types, multi-year channels filter by year, and every channel supports text search. Filters only affect the current view; they do not remove records or change other channels.
+
+### September 30 sync repair
+
+The repository secret is named `NOTION_TOKEN_NEWSLETTER`; the workflow maps it to the script’s `NOTION_TOKEN` environment variable, with the older secret name as a fallback. RSS errors now report safe HTTP codes. If the RSS request fails, the sync tries the same publication’s public archive, preserving existing history and stable IDs. If both sources fail, the snapshot is left intact and the run fails. This fallback has been tested locally; success on GitHub’s runner remains to be verified after publishing.
