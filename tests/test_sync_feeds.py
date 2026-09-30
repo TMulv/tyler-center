@@ -48,6 +48,18 @@ class SyncTests(unittest.TestCase):
         for url in ['https://mail.google.com/a', 'https://app.notion.com/p/a', 'http://127.0.0.1/a', 'javascript:alert(1)', 'https://user:pass@example.com']:
             self.assertEqual(sync.public_url(url), '')
 
+    def test_rich_text_preserves_inline_links_emphasis_and_bare_urls(self):
+        links, runs = {}, []
+        text = sync.rich_text([
+            {'plain_text':'Read ', 'annotations':{}},
+            {'plain_text':'the story', 'text':{'link':{'url':'https://example.com/story'}}, 'annotations':{'bold':True}},
+            {'plain_text':' or https://example.com/other.'},
+        ], links, runs)
+        self.assertEqual(text, 'Read the story or https://example.com/other.')
+        self.assertEqual(runs[1]['url'], 'https://example.com/story')
+        self.assertTrue(runs[1]['bold'])
+        self.assertIn('https://example.com/other', links)
+
     def test_notion_pagination(self):
         api = sync.Notion('test')
         with patch.object(api,'request',side_effect=[{'results':[1], 'has_more':True, 'next_cursor':'cursor'}, {'results':[2], 'has_more':False}]) as request:
@@ -69,6 +81,7 @@ class SyncTests(unittest.TestCase):
         self.assertEqual(len(records), 1)
         self.assertEqual(records[0]['body'], 'Highlights.')
         self.assertEqual(records[0]['url'], '')
+        self.assertEqual(records[0]['blocks'][0]['runs'][0]['text'], 'Highlights.')
 
 
 if __name__ == '__main__':

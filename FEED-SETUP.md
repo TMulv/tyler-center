@@ -54,3 +54,11 @@ git -C "$HOME/Documents/GitHub/tyler-center" push https://github.com/TMulv/tyler
 - [GitHub Actions secrets](https://docs.github.com/en/actions/how-tos/write-workflows/choose-what-workflows-do/use-secrets)
 - [Scheduled workflow behavior](https://docs.github.com/en/actions/reference/workflows-and-actions/events-that-trigger-workflows#schedule)
 - [Requesting a Pages build](https://docs.github.com/en/rest/pages/pages#request-a-github-pages-build)
+
+## Story links and readable editions
+
+Digest headings retain the typewriter face; body text uses Georgia. The importer preserves Notion headings, emphasis, and public hyperlinks as structured blocks. URLs written directly in the text also become clickable. Private inbox links remain excluded.
+
+For future editions, the newsletter agent should link each story title to its original public article or recipe URL (even if the publisher requires a subscription), rather than a Gmail message URL. Missing public links cannot be recovered automatically from a private inbox citation.
+
+The original September 25 edition has five manually verified public destinations in `scripts/newsletter-links.json`. These backfilled links survive scheduled syncs and only apply while the matching story text is present. The Downpressors link opens the event listing.

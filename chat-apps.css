@@ -21,6 +21,39 @@
 .channel-source-link{display:inline-block;font-size:13px;margin:2px 0 14px;color:var(--red);text-underline-offset:4px}
 
 /* Finished newsletter editions read like a message, with original spacing. */
-.digest-body { white-space: pre-line; overflow-wrap: anywhere; line-height: 1.7; margin: 24px 0; }
+.digest-body { overflow-wrap: anywhere; line-height: 1.7; margin: 24px 0; }
 .digest-label { font-size: 12px; opacity: .8; }
 .digest-sources { display: grid; gap: 10px; margin: 24px 0; overflow-wrap: anywhere; }
+
+/* Typewriter titles and controls; a traditional book face for sustained reading. */
+:root { --reading-font: Georgia, 'Times New Roman', serif; --heading-font: 'Special Elite', 'Courier New', monospace; }
+.content-inner p, .modal p, .about-message ul, .case-study-body,
+.digest-body, .digest-sources>a, .comment p, .sidebar-note,
+.field-label textarea, .comment-section textarea, .comment-section input {
+  font-family: var(--reading-font);
+  font-size: 17px;
+  line-height: 1.65;
+  letter-spacing: normal;
+}
+.timeline-message .message-body>p, .about-message ul, .channel-intro p { font-size: 17px; line-height: 1.65; }
+.timeline-message .link-preview-copy p, .project-details p, .watch-copy p { font-size: 15px; line-height: 1.55; }
+.about-message .about-lead { font-family: var(--reading-font); line-height: 1.55; }
+.about-message .one-line { font-family: var(--reading-font); font-size: 18px; }
+.modal .modal-description, .case-study-body, .digest-body { font-size: 18px; line-height: 1.7; }
+.digest-body p { font-size: inherit; line-height: inherit; margin: 0 0 1.2em; white-space: pre-line; }
+.digest-body h3 { font-family: var(--heading-font); font-size: 18px; line-height: 1.4; font-weight: 400; margin: 1.8em 0 .8em; }
+.digest-body blockquote { border-left: 2px solid var(--rule); padding-left: 18px; margin: 1.2em 0; }
+.message-body>p a, .modal-description a, .digest-body a, .digest-sources a {
+  color: #214f67; text-decoration: underline; text-decoration-thickness: 1px; text-underline-offset: 3px;
+}
+.digest-body a:visited, .digest-sources a:visited { color: #74433d; }
+.digest-body a:hover, .digest-sources a:hover { text-decoration-thickness: 2px; }
+.modal .digest-label, .modal .comment-disclosure, .modal .field-help { font-size: 14px; }
+@media(max-width:760px) {
+  .timeline-message .message-body>p, .about-message ul, .channel-intro p { font-size: 16px; }
+  .modal .modal-description, .case-study-body, .digest-body { font-size: 17px; }
+}
+
+.channel-link { height: auto; min-height: 36px; padding-top: 7px; padding-bottom: 7px; }
+.channel-link>span:nth-child(2) { min-width: 0; white-space: normal; line-height: 1.35; }
+.channel-link .hash, .channel-count { flex-shrink: 0; }

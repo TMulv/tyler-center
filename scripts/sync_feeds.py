@@ -174,7 +174,7 @@ class Notion:
             cursor = result['next_cursor']
 
 
-def rich_text(items, links):
+def rich_text(items, links, runs=None):
     parts = []
     for item in items:
         text = item.get('plain_text', item.get('text', {}).get('content', ''))
@@ -185,27 +185,41 @@ def rich_text(items, links):
                 continue
         elif href:
             links[href] = clean_text(text) or urlparse(href).hostname
-        parts.append(clean_text(text, strip=False))
+        text = clean_text(text, strip=False)
+        parts.append(text)
+        for match in re.finditer(r'https?://[^\s<>]+', text):
+            url = match[0].rstrip('.,;!?)]')
+            if public_url(url):
+                links.setdefault(url, urlparse(url).hostname)
+        if runs is not None and text:
+            annotations = item.get('annotations', {})
+            runs.append({'text': text, 'url': public_url(href) if href else '',
+                         'bold': bool(annotations.get('bold')), 'italic': bool(annotations.get('italic'))})
     return clean_text(''.join(parts))
 
 
-def digest_blocks(api, page_id, links, depth=0):
+def digest_blocks(api, page_id, links, depth=0, blocks=None):
     if depth > 12:
         raise ValueError('Digest block nesting exceeds limit')
     lines = []
     for block in api.pages(f'blocks/{page_id}/children'):
         kind = block['type']
         content = block.get(kind, {})
-        text = rich_text(content.get('rich_text', []), links)
+        runs = []
+        text = rich_text(content.get('rich_text', []), links, runs)
         if text:
             lines.append(('• ' if kind in ('bulleted_list_item', 'numbered_list_item') else '') + text)
+            if blocks is not None:
+                blocks.append({'type': kind, 'runs': runs})
         # Skip attachments, embeds, child pages and raw email files.
         if block.get('has_children') and kind not in ('child_page', 'child_database', 'synced_block'):
-            lines.extend(digest_blocks(api, block['id'], links, depth + 1))
+            lines.extend(digest_blocks(api, block['id'], links, depth + 1, blocks))
     return lines
 
 
 def collect_digests(api):
+    overrides_path = ROOT / 'scripts/newsletter-links.json'
+    overrides = json.loads(overrides_path.read_text()) if overrides_path.exists() else {}
     pages = {p['id']: p for p in api.pages(f'data_sources/{EDITIONS}/query', query=True)}
     for block in api.pages(f'blocks/{ARCHIVE}/children'):
         if block['type'] == 'child_page':
@@ -217,14 +231,21 @@ def collect_digests(api):
             continue
         links = {}
         title = next((rich_text(p['title'], {}) for p in page['properties'].values() if p['type'] == 'title'), '')
-        lines = digest_blocks(api, page['id'], links)
+        blocks = []
+        lines = digest_blocks(api, page['id'], links, blocks=blocks)
         if not title or not lines:
             continue
+        source_links = [{'title': label, 'url': url} for url, label in links.items()]
+        body = '\n\n'.join(lines)
+        for source in overrides.get(page['id'], []):
+            if source.get('text') in body and public_url(source.get('url', '')):
+                source_links = [s for s in source_links if s['url'] != source['url']]
+                source_links.append(source)
         records.append({'id': 'digest-' + page['id'], 'channel': 'newsletters', 'source': 'notion',
                         'kind': 'Agent-written digest', 'domain': 'Daily newsletter digest',
                         'title': title, 'url': '', 'description': lines[0][:300],
-                        'body': '\n\n'.join(lines), 'publishedAt': iso_date(page['created_time']),
-                        'links': [{'title': label, 'url': url} for url, label in links.items()]})
+                        'body': body, 'blocks': blocks, 'publishedAt': iso_date(page['created_time']),
+                        'links': source_links})
     return records
 
 
