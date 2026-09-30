@@ -1,4 +1,5 @@
 import importlib.util
+import json
 from pathlib import Path
 import tempfile
 import unittest
@@ -35,6 +36,30 @@ class SyncTests(unittest.TestCase):
         for xml in ['<rss/>', rss().replace('bettingantelope.substack.com','evil.example'), rss().replace('Mon, 28 Sep 2026 23:43:38 GMT','bad')]:
             with self.assertRaises(Exception):
                 sync.parse_rss(xml)
+
+    def test_archive_pagination_and_rss_overlap(self):
+        def post(slug):
+            return {'title':slug, 'subtitle':'A preview', 'canonical_url':f'https://bettingantelope.substack.com/p/{slug}',
+                    'post_date':'2025-01-01T12:00:00Z', 'body_html':'Private full text', 'audience':'only_paid'}
+        with tempfile.TemporaryDirectory() as directory, patch.object(sync, 'ROOT', Path(directory)):
+            with patch.object(sync, 'fetch', side_effect=[json.dumps([post('post')]).encode(), json.dumps([post('older')]).encode(), b'[]']) as fetch:
+                sync.sync_rss(rss(), backfill=True)
+                self.assertIn('offset=1', fetch.call_args_list[1].args[0])
+                self.assertIn('offset=2', fetch.call_args_list[2].args[0])
+            path = Path(directory) / 'data/writing.json'
+            entries = sync.read_snapshot(path)
+            self.assertEqual(len(entries), 2)
+            self.assertEqual(entries[0]['title'], 'older')
+            self.assertNotIn('Private full text', path.read_text())
+            before = path.read_bytes()
+            for responses in [[b'[]'], [json.dumps([post('another')]).encode(), RuntimeError('failed')],
+                              [json.dumps([post('another')]).encode()] * 2]:
+                with patch.object(sync, 'fetch', side_effect=responses):
+                    with self.assertRaises(Exception):
+                        sync.sync_rss(rss(), backfill=True)
+                self.assertEqual(path.read_bytes(), before)
+            sync.sync_rss(rss())
+            self.assertEqual(len(sync.read_snapshot(path)), 2)
 
     def test_private_links_never_published(self):
         links = {}

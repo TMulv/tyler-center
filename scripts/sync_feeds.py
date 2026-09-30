@@ -19,6 +19,7 @@ import xml.etree.ElementTree as ET
 
 ROOT = Path(__file__).resolve().parents[1]
 RSS_URL = 'https://bettingantelope.substack.com/feed'
+WRITING_ARCHIVE_URL = 'https://bettingantelope.substack.com/api/v1/archive'
 ARCHIVE = '074c794e-c62f-48cc-97c9-dc98fba14a32'
 EDITIONS = 'aab9f113-6439-4714-9185-0cc08f9d70df'
 PRIVATE_HOSTS = ('mail.google.com', 'gmail.com', 'outlook.com', 'outlook.office.com',
@@ -147,9 +148,46 @@ def parse_rss(xml):
     return records
 
 
-def sync_rss(xml=None):
+def collect_writing_archive():
+    """Backfill public metadata only, including links to subscriber-only posts."""
+    records = {}
+    offset = 0
+    while True:
+        page = json.loads(fetch(f'{WRITING_ARCHIVE_URL}?sort=new&offset={offset}&limit=20'))
+        if not isinstance(page, list):
+            raise ValueError('Unexpected archive response')
+        if not page:
+            if not records:
+                raise ValueError('Archive has no posts; keeping the previous snapshot')
+            return list(records.values())
+        previous_count = len(records)
+        for post in page:
+            url = public_url(post.get('canonical_url', ''))
+            if not url or urlparse(url).hostname != 'bettingantelope.substack.com' or not urlparse(url).path.startswith('/p/'):
+                raise ValueError('Unexpected archive post URL')
+            identity = url.split('?')[0].rstrip('/')
+            title = plain_html(post.get('title') or '')
+            if not title:
+                raise ValueError('Archive post is missing a title')
+            preview = plain_html(post.get('subtitle') or '')
+            if len(preview) > 240:
+                preview = preview[:237].rsplit(' ', 1)[0] + '…'
+            record = {'id': 'rss-' + sha256(identity.encode()).hexdigest()[:24],
+                      'channel': 'writing', 'source': 'rss', 'kind': 'Betting Antelope',
+                      'domain': 'bettingantelope.substack.com', 'title': title,
+                      'url': identity, 'description': preview,
+                      'publishedAt': iso_date(post.get('post_date') or '')}
+            records[record['id']] = record
+        if len(records) == previous_count:
+            raise ValueError('Archive pagination did not advance')
+        offset += len(page)
+
+
+def sync_rss(xml=None, backfill=False):
     path = ROOT / 'data/writing.json'
     records = {e['id']: e for e in read_snapshot(path)}
+    if backfill:
+        records.update({e['id']: e for e in collect_writing_archive()})
     records.update({e['id']: e for e in parse_rss(xml if xml is not None else fetch(RSS_URL))})
     write_snapshot(path, list(records.values()))
 
@@ -261,9 +299,10 @@ def sync_notion():
 if __name__ == '__main__':
     parser = argparse.ArgumentParser()
     parser.add_argument('source', choices=['rss', 'notion'])
+    parser.add_argument('--backfill', action='store_true', help='Import the full public writing archive before syncing RSS')
     args = parser.parse_args()
     try:
-        sync_rss() if args.source == 'rss' else sync_notion()
+        sync_rss(backfill=args.backfill) if args.source == 'rss' else sync_notion()
     except Exception as error:
         print(f'::error::{args.source} sync failed ({type(error).__name__}); previous snapshot kept.', file=sys.stderr)
         sys.exit(1)

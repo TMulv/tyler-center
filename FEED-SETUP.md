@@ -1,6 +1,6 @@
 # Publishing channel feeds
 
-The site includes 20 Betting Antelope previews and one existing newsletter edition as an initial snapshot. Neither the scheduled job nor the Notion API connection has been activated or tested against production from this checkout.
+The site includes the full public Betting Antelope archive as linked previews and one existing newsletter edition as an initial snapshot. Neither the scheduled job nor the Notion API connection has been activated or tested against production from this checkout.
 
 ## Turn on RSS
 
@@ -62,3 +62,7 @@ Digest headings retain the typewriter face; body text uses Georgia. The importer
 For future editions, the newsletter agent should link each story title to its original public article or recipe URL (even if the publisher requires a subscription), rather than a Gmail message URL. Missing public links cannot be recovered automatically from a private inbox citation.
 
 The original September 25 edition has five manually verified public destinations in `scripts/newsletter-links.json`. These backfilled links survive scheduled syncs and only apply while the matching story text is present. The Downpressors link opens the event listing.
+
+### Backfill older writing
+
+Run `python3 scripts/sync_feeds.py rss --backfill` to paginate the public Substack archive to its end. This imports titles, subtitles, original publication dates, and links, including links to subscriber-only posts. Article bodies remain on Substack. The regular RSS sync preserves older entries and adds new posts. Archive errors leave the existing snapshot intact.

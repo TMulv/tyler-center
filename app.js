@@ -257,18 +257,25 @@ function linkPreview(entry) {
   const image = safeImage(entry.image), url = safeUrl(entry.url);
   return `<div class="link-preview"><div class="link-preview-visual">${image ? `<img src="${esc(image)}" alt="Preview of ${esc(entry.title)}">` : `<div class="link-preview-art"><span>${esc(entry.domain || domainOf(url) || 'THE WEB')}</span><strong>${esc(entry.title)}</strong></div>`}</div><div class="link-preview-copy"><small>${esc(entry.domain || domainOf(url) || entry.kind)}</small><strong>${esc(entry.title)}</strong><p>${esc(entry.description)}</p></div></div>`;
 }
+function messageTimestamp(value) {
+  if (!value || !Number.isFinite(Date.parse(value))) return '<span class="message-timestamp">from the collection</span>';
+  const dateOnly = /^\d{4}-\d{2}-\d{2}$/.test(value);
+  const date = new Date(dateOnly ? `${value}T12:00:00` : value);
+  const options = {month:'short',day:'numeric',year:'numeric'};
+  if (!dateOnly) Object.assign(options,{hour:'numeric',minute:'2-digit',timeZoneName:'short'});
+  return `<time class="message-timestamp" datetime="${esc(value)}">${esc(date.toLocaleString(undefined,options))}</time>`;
+}
 function renderChannel() {
   const meta=channelMeta(activeChannel),list=ChannelReadState.ordered(channelRecords(activeChannel));
   const type=activeChannel==='websites'?'project':'entry';
   const body=list.map(record=>{
     const date=record.publishedAt||record.created;
-    const dateLabel=date && Number.isFinite(Date.parse(date))?new Date(date).toLocaleString(undefined,{month:'short',day:'numeric',year:'numeric',hour:'numeric',minute:'2-digit'}):'from the collection';
     let attachment='';
     if(activeChannel==='websites') attachment=projectCard(record);
     else if(activeChannel==='photography') attachment=`<button class="chat-photo" data-entry="${esc(record.id)}">${safeImage(record.image)?`<img src="${esc(safeImage(record.image))}" alt="${esc(record.title)}">`:'<span class="photo-placeholder">▧</span>'}<strong>${esc(record.title)}</strong></button>`;
     else attachment=safeUrl(record.url)?`<a href="${esc(safeUrl(record.url))}" target="_blank" rel="noopener noreferrer" class="preview-link">${linkPreview(record)}</a>`:`<button class="preview-link" data-entry="${esc(record.id)}">${linkPreview(record)}</button>`;
     const divider=String(record.id)===sessionCheckpoint?'<div class="read-divider last-read-divider">You left off here</div>':record.id===sessionFirstUnread?'<div class="read-divider">New since your last visit</div>':'';
-    return `${divider}<article class="message timeline-message" data-message-id="${esc(record.id)}"><div class="message-avatar tyler-avatar"><img src="assets/tyler-avatar.png" alt="" width="40" height="40"></div><div class="message-body"><div class="message-meta"><strong>${record.source === 'notion' ? 'Tyler’s newsletter agent' : 'Tyler'}</strong><span>${esc(dateLabel)}</span></div><p>${ChannelFeeds.linkedText(record.note||record.description||'')}</p>${attachment}<button class="comment-link" data-${type}="${esc(record.id)}">♧ &nbsp; ${commentCount(type,record.id)} comments · Open thread</button></div></article>`;
+    return `${divider}<article class="message timeline-message" data-message-id="${esc(record.id)}"><div class="message-avatar tyler-avatar"><img src="assets/tyler-avatar.png" alt="" width="40" height="40"></div><div class="message-body"><div class="message-meta"><strong>${record.source === 'notion' ? 'Tyler’s newsletter agent' : 'Tyler'}</strong>${messageTimestamp(date)}</div><p>${ChannelFeeds.linkedText(record.note||record.description||'')}</p>${attachment}<button class="comment-link" data-${type}="${esc(record.id)}">♧ &nbsp; ${commentCount(type,record.id)} comments · Open thread</button></div></article>`;
   }).join('');
   $('#content').innerHTML=`<div class="feed channel-feed"><div class="channel-intro"><div class="channel-symbol">#</div><h1>${esc(meta.title)}</h1><p>${esc(meta.intro || `${meta.description}.`)}</p>${safeUrl(meta.sourceUrl)?`<a class="channel-source-link" href="${esc(safeUrl(meta.sourceUrl))}" target="_blank" rel="noopener">${esc(meta.sourceLabel)}</a>`:''}</div><div class="feed-day">Beginning of #${esc(meta.title)}</div>${body||`<div class="empty-channel">${esc(meta.empty || 'Nothing here yet. More to share soon.')}</div>`}<div class="feed-end">You’re at the latest.</div></div>`;
 }
@@ -288,7 +295,7 @@ function closeShore() {
 }
 function commentSection(type,id) {
   const thread = comments.filter(comment => comment.type === type && comment.entryId === id).sort((a,b) => a.created.localeCompare(b.created));
-  return `<div class="comment-section"><h3>Comments <span>${thread.length}</span></h3><p class="comment-disclosure">Comments in this prototype are saved on this device. Shared comments need a connected database.</p><div class="comment-list">${thread.length ? thread.map(comment => `<div class="comment"><span class="comment-avatar">${esc(comment.name.slice(0,1).toUpperCase())}</span><div><strong>${esc(comment.name)}</strong><small>${esc(new Date(comment.created).toLocaleDateString())}</small><p>${esc(comment.text)}</p></div></div>`).join('') : '<p class="no-comments">Be the first to leave a comment.</p>'}</div><form id="commentForm" data-type="${type}" data-id="${esc(id)}"><label>Your name<input name="name" maxlength="40" required placeholder="Name"></label><label>Leave a comment<textarea name="text" maxlength="600" required placeholder="What did you think?"></textarea></label><div class="form-error" id="commentError" role="alert"></div><button class="primary-button" type="submit">Post comment</button></form></div>`;
+  return `<div class="comment-section"><h3>Comments <span>${thread.length}</span></h3><p class="comment-disclosure">Comments in this prototype are saved on this device. Shared comments need a connected database.</p><div class="comment-list">${thread.length ? thread.map(comment => `<div class="comment"><span class="comment-avatar">${esc(comment.name.slice(0,1).toUpperCase())}</span><div><strong>${esc(comment.name)}</strong>${messageTimestamp(comment.created)}<p>${esc(comment.text)}</p></div></div>`).join('') : '<p class="no-comments">Be the first to leave a comment.</p>'}</div><form id="commentForm" data-type="${type}" data-id="${esc(id)}"><label>Your name<input name="name" maxlength="40" required placeholder="Name"></label><label>Leave a comment<textarea name="text" maxlength="600" required placeholder="What did you think?"></textarea></label><div class="form-error" id="commentError" role="alert"></div><button class="primary-button" type="submit">Post comment</button></form></div>`;
 }
 function showProject(project) {
   const image=safeImage(project.image),url=safeUrl(project.url);
