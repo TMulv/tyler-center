@@ -71,3 +71,8 @@ The beach player is the [Coastal Camera Network embed](https://coastalcameranetw
 Run `node --test tests/*.test.cjs` for reading-state and Spider rules tests.
 
 See `assets/ASSET-NOTES.md` for the Betting Antelope source and texture edit.
+
+
+## Reader accounts and rocket menus
+
+Click a channel’s rocket for **Mark all as read**, or **Mark every channel as read**. Private reader accounts are implemented behind a deployment gate. See [READER-ACCOUNTS.md](READER-ACCOUNTS.md) for backend setup, email delivery, privacy checks, and the exact remaining activation steps.

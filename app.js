@@ -43,7 +43,7 @@ let readState = fallbackRead('read-state-v1', {});
 let readingPositions = fallbackRead('reading-positions-v1', {});
 if (!readingPositions || typeof readingPositions !== 'object' || Array.isArray(readingPositions)) readingPositions = {};
 let sessionCheckpoint = null, sessionFirstUnread = null, readingTimer;
-const APP_VIEWS = {spider:{title:'spider-solitaire',description:'A little break'}};
+const APP_VIEWS = {private:{title:'your-channel',description:'Your private saved items'},spider:{title:'spider-solitaire',description:'A little break'}};
 
 const channelRecords = channel => channel === 'websites' ? projects : allEntries().filter(entry => entry.channel === channel);
 function markVisibleMessages() {
@@ -77,8 +77,55 @@ function jumpToLastRead() {
 }
 function unreadBadge(channel) {
   const count = ChannelReadState.count(channelRecords(channel), readState, channel);
-  return count ? `<span class="unread-badge" role="img" aria-label="${count} new ${count === 1 ? 'item' : 'items'}" title="${count} new ${count === 1 ? 'item' : 'items'}"><span aria-hidden="true">🚀</span></span>` : '';
+  return count ? `<button type="button" class="unread-badge" data-unread-menu="${esc(channel)}" aria-haspopup="menu" aria-expanded="false" aria-label="${count} new items in ${esc(channelMeta(channel)?.title || channel)}. Reading options" title="Reading options"><span aria-hidden="true">🚀</span></button>` : '';
 }
+
+
+let rocketOpener=null;
+function closeRocketMenu(restoreFocus=false) {
+  $('#rocketMenuHost').innerHTML='';
+  document.querySelectorAll('[data-unread-menu]').forEach(button=>button.setAttribute('aria-expanded','false'));
+  if(restoreFocus && rocketOpener) {
+    const match=[...document.querySelectorAll('[data-unread-menu]')].find(b=>b.dataset.unreadMenu===rocketOpener.dataset.unreadMenu);
+    (match || [...document.querySelectorAll('[data-channel]')].find(b=>b.dataset.channel===rocketOpener.dataset.unreadMenu))?.focus();
+  }
+  rocketOpener=null;
+}
+function openRocketMenu(button) {
+  const channel=button.dataset.unreadMenu;
+  if(!channelMeta(channel))return;
+  closeRocketMenu();rocketOpener=button;
+  const rect=button.getBoundingClientRect();
+  $('#rocketMenuHost').innerHTML=`<div class="rocket-menu" role="menu" aria-label="Reading options for ${esc(channelMeta(channel).title)}" style="left:${Math.max(12,Math.min(rect.left,innerWidth-257))}px;top:${Math.max(12,Math.min(rect.bottom+5,innerHeight-160))}px"><small>#${esc(channelMeta(channel).title)}</small><button role="menuitem" data-mark-read="${esc(channel)}">Mark all as read</button><button role="menuitem" data-mark-read="all">Mark every channel as read</button></div>`;
+  button.setAttribute('aria-expanded','true');
+  $('#rocketMenuHost [role="menuitem"]').focus();
+}
+function markChannelRead(channel) {
+  const targets=channel==='all'?CHANNELS:CHANNELS.filter(c=>c.id===channel);
+  for(const target of targets) {
+    const records=channelRecords(target.id);
+    readState=ChannelReadState.markRead(records,readState,target.id);
+    readingPositions[target.id]=ChannelReadState.ordered(records).at(-1)?.id || null;
+  }
+  try{fallbackWrite('read-state-v1',readState);fallbackWrite('reading-positions-v1',readingPositions);}catch{}
+  const focusChannel=rocketOpener?.dataset.unreadMenu;
+  closeRocketMenu();
+  if(targets.some(c=>c.id===activeChannel)){sessionCheckpoint=readingPositions[activeChannel];sessionFirstUnread=null;}
+  renderEverything();
+  [...document.querySelectorAll('[data-channel]')].find(b=>b.dataset.channel===focusChannel)?.focus();
+  toast(channel==='all'?'All channels marked as read.':'Channel marked as read.');
+}
+document.addEventListener('keydown',event=>{
+  if(!event.target.closest('.rocket-menu'))return;
+  const items=[...$('#rocketMenuHost').querySelectorAll('[role="menuitem"]')];
+  if(['ArrowDown','ArrowUp','Home','End'].includes(event.key)){
+    event.preventDefault();
+    const current=items.indexOf(document.activeElement);
+    const next=event.key==='Home'?0:event.key==='End'?items.length-1:(current+(event.key==='ArrowDown'?1:-1)+items.length)%items.length;
+    items[next]?.focus();
+  }
+  if(event.key==='Tab')closeRocketMenu();
+});
 
 function openDatabase() {
   return new Promise((resolve,reject) => {
@@ -216,7 +263,8 @@ async function addComment(comment) {
 }
 function renderEverything() { const top=$('#contentScroll').scrollTop; renderNav(); render(); $('#contentScroll').scrollTop=top; }
 function renderNav() {
-  $('#channelNav').innerHTML = CHANNELS.map(channel => `<button class="channel-link ${activeChannel === channel.id ? 'active' : ''}" data-channel="${channel.id}" ${activeChannel === channel.id ? 'aria-current="page"' : ''}><span class="hash">#</span><span>${channel.title}</span><span class="channel-count">${channelRecords(channel.id).length}</span>${unreadBadge(channel.id)}</button>`).join('');
+  $('#channelNav').innerHTML = CHANNELS.map(channel => `<div class="channel-nav-row"><button class="channel-link ${activeChannel === channel.id ? 'active' : ''}" data-channel="${channel.id}" ${activeChannel === channel.id ? 'aria-current="page"' : ''}><span class="hash">#</span><span>${channel.title}</span><span class="channel-count">${channelRecords(channel.id).length}</span></button>${unreadBadge(channel.id)}</div>`).join('');
+  globalThis.ReaderUI?.renderNav();
   $('.home-link').classList.toggle('active',activeChannel === 'home');
 }
 function navigate(channel) {
@@ -250,6 +298,7 @@ function projectCard(project) {
 }
 function render() {
   if(activeChannel==='home')renderHome();
+  else if(activeChannel==='private')globalThis.ReaderUI?.renderChannel();
   else if(activeChannel==='spider')SpiderGame.mount($('#content'));
   else renderChannel();
 }
@@ -306,7 +355,7 @@ function renderChannel(refreshControls=true) {
     else if(activeChannel==='photography') attachment=`<button class="chat-photo" data-entry="${esc(record.id)}">${safeImage(record.image)?`<img src="${esc(safeImage(record.image))}" alt="${esc(record.title)}">`:'<span class="photo-placeholder">▧</span>'}<strong>${esc(record.title)}</strong></button>`;
     else attachment=safeUrl(record.url)?`<a href="${esc(safeUrl(record.url))}" target="_blank" rel="noopener noreferrer" class="preview-link">${linkPreview(record)}</a>`:`<button class="preview-link" data-entry="${esc(record.id)}">${linkPreview(record)}</button>`;
     const divider=String(record.id)===sessionCheckpoint?'<div class="read-divider last-read-divider">You left off here</div>':record.id===sessionFirstUnread?'<div class="read-divider">New since your last visit</div>':'';
-    return `${divider}<article class="message timeline-message" data-message-id="${esc(record.id)}"><div class="message-avatar ${author.className}"><img src="${author.image}" alt="" width="40" height="40"></div><div class="message-body"><div class="message-meta"><strong>${esc(author.name)}</strong>${record.channel==='articles'?'<span class="saved-label">Saved</span>':''}${messageTimestamp(date)}${record.readingStatus?`<span class="reading-status">${esc(record.readingStatus)}</span>`:''}</div><p>${ChannelFeeds.linkedText(record.note||record.description||'')}</p>${attachment}<button class="comment-link" data-${type}="${esc(record.id)}">♧ &nbsp; ${commentCount(type,record.id)} comments · Open thread</button></div></article>`;
+    return `${divider}<article class="message timeline-message" data-message-id="${esc(record.id)}"><div class="message-avatar ${author.className}"><img src="${author.image}" alt="" width="40" height="40"></div><div class="message-body"><div class="message-meta"><strong>${esc(author.name)}</strong>${record.channel==='articles'?'<span class="saved-label">Saved</span>':''}${messageTimestamp(date)}${record.readingStatus?`<span class="reading-status">${esc(record.readingStatus)}</span>`:''}</div><p>${ChannelFeeds.linkedText(record.note||record.description||'')}</p>${attachment}${globalThis.ReaderUI?.saveButton({...record,channel:activeChannel}) || ''}<button class="comment-link" data-${type}="${esc(record.id)}">♧ &nbsp; ${commentCount(type,record.id)} comments · Open thread</button></div></article>`;
   }).join('');
   $('#content').innerHTML=`<div class="feed channel-feed"><div class="channel-intro"><div class="channel-symbol">#</div><h1>${esc(meta.title)}</h1><p>${esc(meta.intro || `${meta.description}.`)}</p>${safeUrl(meta.sourceUrl)?`<a class="channel-source-link" href="${esc(safeUrl(meta.sourceUrl))}" target="_blank" rel="noopener">${esc(meta.sourceLabel)}</a>`:''}</div><div class="feed-day">Beginning of #${esc(meta.title)}</div>${body||`<div class="empty-channel">${esc(filtered ? 'No matches. Try another filter or search.' : meta.empty || 'Nothing here yet. More to share soon.')}</div>`}<div class="feed-end">${filtered ? 'End of these results.' : 'You’re at the latest.'}</div></div>`;
 }
@@ -512,6 +561,9 @@ function updateDesktopClock() {$('#desktopClock').textContent=new Date().toLocal
 
 document.addEventListener('click',async event=>{
   const target=event.target;
+  const rocket=target.closest('[data-unread-menu]');if(rocket){openRocketMenu(rocket);return;}
+  const mark=target.closest('[data-mark-read]');if(mark){markChannelRead(mark.dataset.markRead);return;}
+  if(!target.closest('.rocket-menu'))closeRocketMenu();
   const caseFile=target.closest('[data-case-study]');if(caseFile){showCaseStudy(Number(caseFile.dataset.caseStudy));return;}
   const menuButton=target.closest('[data-menu]');if(menuButton){openDesktopMenu(menuButton.dataset.menu,menuButton);return;}
   const menuAction=target.closest('[data-menu-action]');if(menuAction){const action=menuAction.dataset.menuAction;closeDesktopMenu();$('#desktopMenuHost').dataset.open='';if(action==='shore')openShore();if(action==='spider')showShelf(action);if(action==='linkedin')openLinkedIn();if(action==='email')contactEmail()?window.location.href=`mailto:${contactEmail()}`:toast('Add Tyler’s email to enable this link.');if(action==='instagram')instagramUrl()?window.open(instagramUrl(),'_blank','noopener,noreferrer'):toast('Add Tyler’s Instagram profile to enable this link.');if(action==='recommend')recommendModal();if(action==='drafts')draftsModal();if(action==='surprise')surpriseMe();if(action==='show-shelf')showShelf();if(action==='center-window'){const element=$('#appWindow');element.style.left='';element.style.top='';element.style.transform='';toast('Window centered.');}return;}
@@ -522,10 +574,10 @@ document.addEventListener('click',async event=>{
   const searchProject=target.closest('[data-search-project]');if(searchProject){const record=projects.find(item=>item.id===searchProject.dataset.searchProject);closeSearch();showShelf('websites');if(record)showProject(record);return;}
   const searchEntry=target.closest('[data-search-entry]');if(searchEntry){const record=allEntries().find(item=>item.id===searchEntry.dataset.searchEntry);closeSearch();if(record){showShelf(record.channel);showEntry(record);}return;}
   const actionButton=target.closest('[data-action]');if(actionButton){const action=actionButton.dataset.action,id=actionButton.dataset.id;if(action==='reload-shore')renderShore();if(action==='wallpaper-credit')wallpaperCredit();if(action==='edit-entry'){const record=entries.find(item=>item.id===id);if(record)entryEditor(record.channel,record);}if(action==='delete-entry'){const record=entries.find(item=>item.id===id);if(record&&confirm(`Remove "${record.title}" from this browser?`)){try{await removeRecord('entry',id);closeModal();toast('Item removed.');}catch{toast('Could not remove the item.');}}}if(action==='add-entry')entryEditor(activeChannel);if(action==='surprise')surpriseMe();return;}
-  if(target.closest('[data-close-modal]')&&(target===target.closest('[data-close-modal]')||target.tagName==='BUTTON')){closeModal();return;}
+  if(target.closest('[data-close-modal]')&&(target===target.closest('[data-close-modal]')||target.closest('[data-close-modal]').tagName==='BUTTON')){closeModal();return;}
   if(target.closest('[data-close-search]')&&(target===target.closest('[data-close-search]')||target.tagName==='BUTTON'))closeSearch();
 });
-document.addEventListener('keydown',event=>{if((event.metaKey||event.ctrlKey)&&event.key.toLowerCase()==='k'){event.preventDefault();openSearch();}if(event.key==='Escape'){closeSearch();closeModal();closeDesktopMenu();closeSidebar();}});
+document.addEventListener('keydown',event=>{if((event.metaKey||event.ctrlKey)&&event.key.toLowerCase()==='k'){event.preventDefault();openSearch();}if(event.key==='Escape'){closeRocketMenu(true);closeSearch();closeModal();closeDesktopMenu();closeSidebar();}});
 $('#channelFilters').addEventListener('click',event=>{
   const button=event.target.closest('[data-filter-type]');if(!button)return;
   channelFilters[activeChannel].type=button.dataset.filterType;
