@@ -374,9 +374,9 @@ const SHORE_EMBED_URL = '';
 function renderShore() {
   const embed=safeUrl(SHORE_EMBED_URL);
   const player=embed
-    ? `<div class="shore-player"><iframe id="shorePlayer" title="Live beach camera: Harvey Cedars, Long Beach Island, New Jersey" src="${esc(embed)}" allow="autoplay; encrypted-media; picture-in-picture; fullscreen" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>`
-    : `<div class="shore-player shore-unavailable"><span aria-hidden="true">≋</span><h2>Harvey Cedars</h2><p>In-window playback isn’t connected yet.<br>You can watch on NJ Beach Cams.</p><a class="secondary-button" href="https://njbeachcams.com/central-new-jersey/harvey-cedars-webcam/" target="_blank" rel="noopener">Open beach camera ↗</a></div>`;
-  $('#shoreContent').innerHTML=`${player}<div class="shore-caption"><span>Harvey Cedars · Long Beach Island<br>NJ Beach Cams / Coastal Camera Network</span>${embed?'<button class="secondary-button" data-action="reload-shore">Reconnect ↻</button>':''}</div>${embed?'<p class="shore-help">If playback doesn’t start, press play. Use the player controls for sound and fullscreen.</p><a class="shore-source" href="https://njbeachcams.com/central-new-jersey/harvey-cedars-webcam/" target="_blank" rel="noopener">Camera source & current broadcast ↗</a>':''}`;
+    ? `<div class="shore-player"><iframe id="shorePlayer" title="Live beach camera: Spring Lake, New Jersey" src="${esc(embed)}" allow="autoplay; encrypted-media; picture-in-picture; fullscreen" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>`
+    : `<div class="shore-player shore-unavailable"><span aria-hidden="true">≋</span><h2>Spring Lake</h2><p>In-window playback isn’t connected yet.<br>You can watch on NJ Beach Cams.</p><a class="secondary-button" href="https://njbeachcams.com/central-new-jersey/spring-lake-webcam/" target="_blank" rel="noopener">Open beach camera ↗</a></div>`;
+  $('#shoreContent').innerHTML=`${player}<div class="shore-caption"><span>Spring Lake · New Jersey<br>NJ Beach Cams / Coastal Camera Network</span>${embed?'<button class="secondary-button" data-action="reload-shore">Reconnect ↻</button>':''}</div>${embed?'<p class="shore-help">If playback doesn’t start, press play. Use the player controls for sound and fullscreen.</p><a class="shore-source" href="https://njbeachcams.com/central-new-jersey/spring-lake-webcam/" target="_blank" rel="noopener">Camera source & current broadcast ↗</a>':''}`;
 }
 function openShore() {
   closeSidebar();closeDesktopMenu();
