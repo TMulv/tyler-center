@@ -39,7 +39,7 @@ let readState = fallbackRead('read-state-v1', {});
 let readingPositions = fallbackRead('reading-positions-v1', {});
 if (!readingPositions || typeof readingPositions !== 'object' || Array.isArray(readingPositions)) readingPositions = {};
 let sessionCheckpoint = null, sessionFirstUnread = null, readingTimer;
-const APP_VIEWS = {private:{title:'your-channel',description:'Your private saved items'},spider:{title:'spider-solitaire',description:'A little break'}};
+const APP_VIEWS = {private:{title:'your-username',description:'Your own channel: save posts privately and join the conversation'},spider:{title:'spider-solitaire',description:'A little break'}};
 
 const channelRecords = channel => channel === 'websites' ? projects : allEntries().filter(entry => entry.channel === channel);
 function markVisibleMessages() {
@@ -354,7 +354,7 @@ function renderChannel(refreshControls=true) {
     else if(activeChannel==='photography') attachment=`<button class="chat-photo" data-entry="${esc(record.id)}">${safeImage(record.image)?`<img src="${esc(safeImage(record.image))}" alt="${esc(record.title)}">`:'<span class="photo-placeholder">▧</span>'}<strong>${esc(record.title)}</strong></button>`;
     else attachment=safeUrl(record.url)?`<a href="${esc(safeUrl(record.url))}" target="_blank" rel="noopener noreferrer" class="preview-link">${linkPreview(record)}</a>`:`<button class="preview-link" data-entry="${esc(record.id)}">${linkPreview(record)}</button>`;
     const divider=String(record.id)===sessionCheckpoint?'<div class="read-divider last-read-divider">You left off here</div>':record.id===sessionFirstUnread?'<div class="read-divider">New since your last visit</div>':'';
-    return `${divider}<article class="message timeline-message" data-message-id="${esc(record.id)}"><div class="message-avatar ${author.className}"><img src="${author.image}" alt="" width="40" height="40"></div><div class="message-body"><div class="message-meta"><strong>${esc(author.name)}</strong>${record.channel==='articles'?'<span class="saved-label">Saved</span>':''}${messageTimestamp(date)}${record.readingStatus?`<span class="reading-status">${esc(record.readingStatus)}</span>`:''}</div><p>${ChannelFeeds.linkedText(record.note||record.description||'')}</p>${attachment}${globalThis.ReaderUI?.saveButton({...record,channel:activeChannel}) || ''}<button class="comment-link" data-${type}="${esc(record.id)}">♧ &nbsp; ${commentCount(type,record.id)} comments · Open thread</button></div></article>`;
+    return `${divider}<article class="message timeline-message" data-message-id="${esc(record.id)}"><div class="message-avatar ${author.className}"><img src="${author.image}" alt="" width="40" height="40"></div><div class="message-body"><div class="message-meta"><strong>${esc(author.name)}</strong>${VerifiedAuthor.trustedPost({...record,channel:activeChannel},publishedEntries,STARTER_PROJECTS)?VerifiedAuthor.badge():''}${record.channel==='articles'?'<span class="saved-label">Saved</span>':''}${messageTimestamp(date)}${record.readingStatus?`<span class="reading-status">${esc(record.readingStatus)}</span>`:''}</div><p>${ChannelFeeds.linkedText(record.note||record.description||'')}</p>${attachment}${globalThis.ReaderUI?.saveButton({...record,channel:activeChannel}) || ''}<button class="comment-link" data-${type}="${esc(record.id)}">♧ &nbsp; Comments · Open thread</button></div></article>`;
   }).join('');
   $('#content').innerHTML=`<div class="feed channel-feed"><div class="channel-intro"><div class="channel-symbol">#</div><h1>${esc(meta.title)}</h1><p>${esc(meta.intro || `${meta.description}.`)}</p>${safeUrl(meta.sourceUrl)?`<a class="channel-source-link" href="${esc(safeUrl(meta.sourceUrl))}" target="_blank" rel="noopener">${esc(meta.sourceLabel)}</a>`:''}</div><div class="feed-day">Beginning of #${esc(meta.title)}</div>${body||`<div class="empty-channel">${esc(filtered ? 'No matches. Try another filter or search.' : meta.empty || 'Nothing here yet. More to share soon.')}</div>`}<div class="feed-end">${filtered ? 'End of these results.' : 'You’re at the latest.'}</div></div>`;
 }
@@ -373,8 +373,7 @@ function closeShore() {
   trigger.focus();
 }
 function commentSection(type,id) {
-  const thread = comments.filter(comment => comment.type === type && comment.entryId === id).sort((a,b) => a.created.localeCompare(b.created));
-  return `<div class="comment-section"><h3>Comments <span>${thread.length}</span></h3><p class="comment-disclosure">Comments in this prototype are saved on this device. Shared comments need a connected database.</p><div class="comment-list">${thread.length ? thread.map(comment => `<div class="comment"><span class="comment-avatar">${esc(comment.name.slice(0,1).toUpperCase())}</span><div><strong>${esc(comment.name)}</strong>${messageTimestamp(comment.created)}<p>${esc(comment.text)}</p></div></div>`).join('') : '<p class="no-comments">Be the first to leave a comment.</p>'}</div><form id="commentForm" data-type="${type}" data-id="${esc(id)}"><label>Your name<input name="name" maxlength="40" required placeholder="Name"></label><label>Leave a comment<textarea name="text" maxlength="600" required placeholder="What did you think?"></textarea></label><div class="form-error" id="commentError" role="alert"></div><button class="primary-button" type="submit">Post comment</button></form></div>`;
+  return globalThis.ReaderComments?.section(type,id) || '<p>Comments are being connected.</p>';
 }
 function showProject(project) {
   const image=safeImage(project.image),url=safeUrl(project.url);
@@ -386,19 +385,7 @@ function showEntry(entry) {
   $('#modalRoot').innerHTML = `<div class="modal-overlay" data-close-modal><div class="modal detail-modal" role="dialog" aria-modal="true" aria-label="${esc(entry.title)}"><div class="modal-top"><span class="eyebrow">#${esc(channelMeta(entry.channel)?.title || entry.channel)} · ${esc(entry.kind)}</span><button class="close-button" data-close-modal aria-label="Close">×</button></div><div class="modal-body"><h2>${esc(entry.title)}</h2>${entry.body ? '' : `<p class="modal-description">${ChannelFeeds.linkedText(entry.description||'')}</p>`}${image ? `<div class="modal-preview"><img src="${esc(image)}" alt="${esc(entry.title)}"></div>` : ''}<p class="modal-description">${ChannelFeeds.linkedText(entry.note || '')}</p>${entry.body ? `<div class="digest-body">${ChannelFeeds.renderBody(entry)}</div><p class="digest-label">Agent-written highlights from my newsletter subscriptions.</p>` : ''}${entry.links?.length ? `<div class="digest-sources"><h3>Sources</h3>${entry.links.map(link => `<a href="${esc(safeUrl(link.url))}" target="_blank" rel="noopener noreferrer">${esc(link.title)} ↗</a>`).join('')}</div>` : ''}<div class="modal-actions">${url ? `<a class="primary-button" href="${esc(url)}" target="_blank" rel="noopener noreferrer">Open link ↗</a>` : ''}${entry.source ? '' : `<button class="secondary-button" data-action="edit-entry" data-id="${esc(entry.id)}">Edit</button><button class="secondary-button delete" data-action="delete-entry" data-id="${esc(entry.id)}">Remove</button>`}</div>${commentSection('entry',entry.id)}</div></div></div>`;
   bindCommentForm();
 }
-function bindCommentForm() {
-  $('#commentForm').addEventListener('submit',async event => {
-    event.preventDefault();
-    const form=event.currentTarget,name=form.elements.name.value.trim(),text=form.elements.text.value.trim();
-    if (!name || !text) return;
-    try {
-      await addComment({id:uid(),type:form.dataset.type,entryId:form.dataset.id,name,text,created:new Date().toISOString()});
-      const item=form.dataset.type === 'project' ? projects.find(p => p.id === form.dataset.id) : allEntries().find(e => e.id === form.dataset.id);
-      if (item) (form.dataset.type === 'project' ? showProject : showEntry)(item);
-      toast('Comment saved on this device.');
-    } catch { $('#commentError').textContent='Could not save this comment. Please try again.'; }
-  });
-}
+function bindCommentForm() { globalThis.ReaderComments?.mount(); }
 function closeModal() { $('#modalRoot').innerHTML=''; }
 function readImage(file) { return new Promise((resolve,reject) => { const reader=new FileReader(); reader.onload=()=>resolve(reader.result); reader.onerror=()=>reject(new Error('Could not read image')); reader.readAsDataURL(file); }); }
 function imageField(current) { return `<label class="field-label">Preview image<div class="upload-box">Upload an image<input name="image" type="file" accept="image/png,image/jpeg,image/webp,image/gif"><span class="field-help">PNG, JPG, WebP, or GIF · up to 8 MB</span></div></label>${safeImage(current) ? `<img class="current-image" src="${esc(current)}" alt="Current preview">` : ''}`; }

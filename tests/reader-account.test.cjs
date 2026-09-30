@@ -65,3 +65,18 @@ test('a failed save never reports success',async()=>{
   await account.verifyCode('alice@example.com','123456');await account.chooseUsername('alice');f.fail();
   await assert.rejects(account.save({id:'a',channel:'articles',title:'Story',url:'https://example.com'}),/try again/);
 });
+
+test('comments require activation, verified sign-in, and use the authenticated author only',async()=>{
+ const f=fixture(),a=create({...config,commentsEnabled:true},()=>f.client);await a.initialize();
+ await assert.rejects(a.postComment('entry','post','Hello'),/Sign in/);
+ await a.verifyCode('alice@example.com','123456');await a.chooseUsername('tyler');
+ await a.postComment('entry','post',' Hello ');
+ const q=f.queries.find(q=>q.table==='post_comments');
+ assert.deepEqual(q.data,{author_id:'alice',post_type:'entry',post_id:'post',body:'Hello'});
+ await assert.rejects(a.postComment('entry','post',' '.repeat(10)),/1–600/);
+ await assert.rejects(a.postComment('entry','post','x'.repeat(601)),/1–600/);
+ const off=create(config,()=>f.client);assert.equal(off.commentsEnabled,false);
+ await assert.rejects(off.postComment('entry','post','Hello'),/not ready/);
+ f.client.rpc=async(name,args)=>{assert.equal(name,'read_post_comments');assert.deepEqual(args,{p_type:'entry',p_id:'post'});return {data:[{username:'owner',is_owner:true}]};};
+ assert.equal((await a.listComments('entry','post'))[0].is_owner,true);
+});

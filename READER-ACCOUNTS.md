@@ -2,7 +2,7 @@
 
 ## Current deployment gate
 
-The account UI is implemented, but `reader-config.js` deliberately has `enabled:false` until the live Supabase project, database policies, and email sender have passed the checks below. With that flag off, public visitors see the working rocket menus but no account or save controls. A browser-only mock account is never presented as a real account.
+The account UI is implemented, but `reader-config.js` deliberately has `enabled:false` until the live Supabase project, database policies, and email sender have passed the checks below. With that flag off, visitors can open #your-username for setup directions; sign-in, save controls, and public commenting remain disabled. A browser-only mock account is never presented as a real account.
 
 The rocket beside a channel opens **Mark all as read** for that channel, plus **Mark every channel as read**. These existing read markers stay on the visitor’s browser. New or edited posts become unread again. They are independent of Tyler’s Notion reading status and each account’s saved-item status.
 
@@ -43,3 +43,12 @@ Suggested code email subject: **Your Tyler.Center sign-in code**
 `vendor/supabase.js` bundles official `@supabase/supabase-js` version 2.117.2, built with esbuild 0.28.2 as a browser IIFE named `supabase`. License notices are in `vendor/`. No private account information is sent to Notion or GitHub Actions.
 
 Official references: [email OTP](https://supabase.com/docs/guides/auth/auth-email-passwordless), [custom SMTP](https://supabase.com/docs/guides/auth/auth-smtp), [row-level security](https://supabase.com/docs/guides/database/postgres/row-level-security).
+
+
+## Public comments and Tyler verification
+
+Run `supabase/migrations/20260930_public_comments.sql` after the private-reader migration. Run both SQL policy tests in an isolated test project first. Public comments expose only usernames, text, timestamps, and the server-computed owner badge; private saves and emails stay private. Posts show the official badge only for repository-authored content and approved Notion snapshots, never browser-created entries.
+
+After Tyler signs in with his verified email and chooses a username, confirm his UUID directly in Supabase Auth and insert that UUID into `public.site_owners` using the SQL editor as administrator. Never assign ownership based on a requested username or a client-supplied flag. Regular accounts cannot read or write this table. Do not guess the UUID or commit any credentials.
+
+Enable `commentsEnabled:true` only after live email sign-in works, two-account privacy tests pass, an ordinary user cannot forge ownership, and a real owner reply returns `is_owner:true`. Check posting, signing out, anonymous public reading, and the 20-per-hour limit before launch. Public comments are disabled until then. Old browser-only comments are no longer displayed as shared replies.

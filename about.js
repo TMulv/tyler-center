@@ -7,7 +7,7 @@ const CASE_STUDIES = [
   {title:'A few workflows. Measured.',file:'05-ai-workflow-plan.txt',body:'People use AI, but there’s no plan. Next up: name an exec owner, pick two or three workflows, set baselines and measure.'}
 ];
 function aboutMessage(body, label='about me') {
-  return `<article class="message about-message"><div class="message-avatar tyler-avatar"><img src="assets/tyler-avatar.png" alt="" width="40" height="40"></div><div class="message-body"><div class="message-meta"><strong>Tyler</strong><span>${label}</span></div>${body}</div></article>`;
+  return `<article class="message about-message"><div class="message-avatar tyler-avatar"><img src="assets/tyler-avatar.png" alt="" width="40" height="40"></div><div class="message-body"><div class="message-meta"><strong>Tyler</strong>${VerifiedAuthor.badge()}<span>${label}</span></div>${body}</div></article>`;
 }
 function aboutThread() {
   return `<div class="feed about-thread"><div class="thread-heading"><span class="eyebrow">WELCOME TO TYLER.CENTER</span><span class="thread-pin">↳ pinned introduction</span></div>

@@ -53,7 +53,7 @@
       return new Error('That didn’t work. Please try again.');
     }
     return {
-      enabled:!!client, state:()=>({...state}), subscribe(fn) {listeners.add(fn);return()=>listeners.delete(fn);},
+      enabled:!!client, commentsEnabled:!!client && config.commentsEnabled===true, state:()=>({...state}), subscribe(fn) {listeners.add(fn);return()=>listeners.delete(fn);},
       async initialize() {
         if (!client) return;
         // Defer data calls outside Supabase’s synchronous auth callback.
@@ -112,6 +112,19 @@
         const {error}=await client.from('reader_saves').delete().eq('id',id).eq('user_id',user_id);
         if (error) throw friendly(error);
         await refresh();
+      },
+      async listComments(type,id) {
+        if (!client || config.commentsEnabled!==true) throw new Error('Comments are not ready yet.');
+        const {data,error}=await client.rpc('read_post_comments',{p_type:type,p_id:id});
+        if(error) throw friendly(error);
+        return data || [];
+      },
+      async postComment(type,id,body) {
+        if (!client || config.commentsEnabled!==true) throw new Error('Comments are not ready yet.');
+        const author_id=requireUser(), text=String(body).trim();
+        if(!['project','entry'].includes(type) || !id || id.length>200 || !text || text.length>600) throw new Error('Write a comment of 1–600 characters.');
+        const {error}=await client.from('post_comments').insert({author_id,post_type:type,post_id:id,body:text});
+        if(error) throw error.code==='P0001'?new Error('You’ve posted a lot recently. Please wait before posting again.'):friendly(error);
       },
       async signOut() {
         const {error}=await requireClient().auth.signOut({scope:'local'});

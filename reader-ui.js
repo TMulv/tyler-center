@@ -12,10 +12,9 @@
   }
   function renderNav() {
     const host=$('#readerNav'); if (!host) return;
-    if (!account.enabled) {host.innerHTML='';return;}
     host.innerHTML=current.user && current.profile
       ? `<div class="side-label side-label-small">JUST FOR YOU</div><button class="channel-link ${activeChannel==='private'?'active':''}" data-channel="private" ${activeChannel==='private'?'aria-current="page"':''}><span class="hash">#</span><span>${esc(current.profile.username)}</span><span class="channel-count">${current.saves.length}</span><span class="private-lock" aria-label="Private">▣</span></button><button class="reader-account-control" data-reader-action="account">Your account</button>`
-      : `<button class="reader-account-control" data-reader-action="account">${current.user?'Finish setting up your channel':'Sign in / create account'}</button><p class="reader-nav-note">Your own private place to save things.</p>`;
+      : `<div class="side-label side-label-small">JUST FOR YOU</div><button class="channel-link ${activeChannel==='private'?'active':''}" data-channel="private" ${activeChannel==='private'?'aria-current="page"':''}><span class="hash">#</span><span>your-username</span></button><p class="reader-nav-note">Make a private place to save things.</p>`;
     if (activeChannel==='private' && current.profile) {
       $('#headerTitle').textContent=current.profile.username;
       $('#headerDescription').textContent='Your private saved channel · only you can see it';
@@ -56,13 +55,16 @@
     try {await operation();} catch(e) {if ($('#readerError'))$('#readerError').textContent=e.message;else toast(e.message);}
     finally {busy=false;buttons.forEach(b=>b.disabled=false);}
   }
+  function channelGuide() {
+    return `<section class="reader-guide"><h2>A channel of your own.</h2><p>Keep the good stuff. Come back to it later.</p><ol><li><strong>Create your account.</strong> Enter your email, use the code we send, then choose a username. No password.</li><li><strong>Save something.</strong> Hit “Save for later” under a post in any of my channels.</li><li><strong>Find it in #your-username.</strong> Your saved channel is private. Add your own links and mark things read as you go.</li><li><strong>Join the conversation.</strong> Open a post’s thread and leave a comment under your username. Comments are public; your saved items stay private.</li></ol><p>${VerifiedAuthor.badge()} A check next to Tyler means it’s me. Choosing the same name won’t give anyone this badge.</p>${!account.enabled?'<p class="reader-setup-note" role="status">Accounts and comments are on the way. Sign-in is still being connected.</p>':!current.profile?'<button class="primary-button" data-reader-action="account">'+(current.user?'Choose my username':'Create account / sign in')+'</button>':''}${account.enabled&&!account.commentsEnabled?'<p class="reader-setup-note">Public comments are still being connected.</p>':''}</section>`;
+  }
   function renderChannel() {
-    if (!current.user) {$('#content').innerHTML='<div class="empty-channel"><h2>Your private channel.</h2><p>Sign in to see your saved items.</p><button class="primary-button" data-reader-action="account">Sign in / create account</button></div>';return;}
+    if (!current.user) {$('#content').innerHTML=channelGuide();return;}
     if (current.loading) {$('#content').innerHTML='<div class="empty-channel" role="status">Loading your private channel…</div>';return;}
     if (current.error) {$('#content').innerHTML=`<div class="empty-channel"><p role="alert">${esc(current.error)}</p><button class="primary-button" data-reader-action="retry">Try again</button></div>`;return;}
-    if (!current.profile) {$('#content').innerHTML='<div class="empty-channel"><p>Choose a username to create your private channel.</p><button class="primary-button" data-reader-action="account">Choose username</button></div>';return;}
+    if (!current.profile) {$('#content').innerHTML=channelGuide();return;}
     const list=current.saves.filter(s=>savedFilter==='all'||(savedFilter==='read'?s.is_read:!s.is_read));
-    $('#content').innerHTML=`<div class="feed private-feed"><div class="channel-intro"><div class="channel-symbol">▣</div><h1>#${esc(current.profile.username)}</h1><p>Saved for you. Visible only to your account.</p></div><div class="private-toolbar"><label>Show <select aria-label="Filter my saved items" id="privateFilter"><option value="unread" ${savedFilter==='unread'?'selected':''}>To read</option><option value="read" ${savedFilter==='read'?'selected':''}>Read</option><option value="all" ${savedFilter==='all'?'selected':''}>Everything</option></select></label><button class="secondary-button" data-reader-action="add-link">＋ Add a link</button><button class="secondary-button" data-reader-action="retry">Refresh</button></div><p class="reader-fine-print">${list.length} of ${current.saves.length} saved items</p>${list.map(item=>{
+    $('#content').innerHTML=`<div class="feed private-feed"><div class="channel-intro"><div class="channel-symbol">▣</div><h1>#${esc(current.profile.username)}</h1><p>Saved for you. Visible only to your account.</p></div><details class="reader-guide-details" ${current.saves.length?'':'open'}><summary>How my channel works</summary>${channelGuide()}</details><div class="private-toolbar"><label>Show <select aria-label="Filter my saved items" id="privateFilter"><option value="unread" ${savedFilter==='unread'?'selected':''}>To read</option><option value="read" ${savedFilter==='read'?'selected':''}>Read</option><option value="all" ${savedFilter==='all'?'selected':''}>Everything</option></select></label><button class="secondary-button" data-reader-action="add-link">＋ Add a link</button><button class="secondary-button" data-reader-action="retry">Refresh</button></div><p class="reader-fine-print">${list.length} of ${current.saves.length} saved items</p>${list.map(item=>{
       const url=ReaderAccount.safeLink(item.url);
       const source=channelMeta(item.source_channel)?.title || 'your link';
       const record=publicRecord(item.source_channel,item.source_key.slice(item.source_channel.length+1));
@@ -92,6 +94,7 @@
     const action=button.dataset.readerAction;
     if(action==='close'){pendingSave=null;close();return;}
     if(action==='account'){showAccount();return;}
+    if(action==='guide'){closeModal();close();navigate('private');const guide=$('.reader-guide-details');if(guide)guide.open=true;return;}
     if(action==='open'){close();navigate('private');return;}
     if(action==='change-email'){showAccount();return;}
     if(action==='add-link'){modal('Save a link.',`<form id="readerLinkForm"><label>Title<input name="title" maxlength="500" required></label><label>Link<input name="url" type="url" placeholder="https://" required maxlength="4000"></label><button class="primary-button" type="submit">Save to my channel</button></form>`);return;}
