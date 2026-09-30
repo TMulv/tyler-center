@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 750" role="img" aria-label="Illustrated preview of Tyler's Shelf">
+  <defs>
+    <linearGradient id="sky" x2="0" y2="1"><stop stop-color="#b9d7e9"/><stop offset="1" stop-color="#edf0e4"/></linearGradient>
+    <linearGradient id="glass" x2="1" y2="1"><stop stop-color="#fff" stop-opacity=".91"/><stop offset="1" stop-color="#f5f6f0" stop-opacity=".82"/></linearGradient>
+    <filter id="shadow"><feDropShadow dx="0" dy="23" stdDeviation="30" flood-color="#27402b" flood-opacity=".29"/></filter>
+  </defs>
+  <rect width="1200" height="750" fill="url(#sky)"/>
+  <path d="M0 280Q190 211 378 251T777 239T1200 229V750H0" fill="#a9c787"/>
+  <path d="M0 357Q252 304 443 344T851 304T1200 342V750H0" fill="#80aa62"/>
+  <path d="M0 490Q244 412 480 460T900 441T1200 459V750H0" fill="#5e8d45"/>
+  <path d="M0 600Q289 529 570 590T1200 561V750H0" fill="#3c6d33"/>
+  <g filter="url(#shadow)">
+    <rect x="82" y="70" width="1036" height="610" rx="26" fill="url(#glass)" stroke="#fff" stroke-opacity=".9" stroke-width="3"/>
+    <path d="M108 70h241v610H108q-26 0-26-26V96q0-26 26-26" fill="#edf0eb" fill-opacity=".72"/>
+    <path d="M349 70v610" stroke="#d9ddd5"/>
+    <circle cx="111" cy="102" r="7" fill="#ff635d"/><circle cx="134" cy="102" r="7" fill="#f9bd47"/><circle cx="157" cy="102" r="7" fill="#4cc667"/>
+    <text x="114" y="164" font-family="Arial,sans-serif" font-size="14" fill="#798479">FAVORITES</text>
+    <g font-family="Arial,sans-serif" font-size="19" fill="#344135">
+      <text x="116" y="212">▦  Everything</text><text x="116" y="254">▤  Links</text><text x="116" y="296">▶  Videos</text>
+      <text x="114" y="359" font-size="14" fill="#798479">ROOMS</text>
+      <text x="116" y="402">▧  Reading</text><text x="116" y="443">▣  Books</text><text x="116" y="484">▹  Watchlist</text><text x="116" y="525">✎  Blog</text>
+    </g>
+    <text x="716" y="122" text-anchor="middle" font-family="Arial,sans-serif" font-size="20" font-weight="700" fill="#283226">Everything</text>
+    <text x="716" y="145" text-anchor="middle" font-family="Arial,sans-serif" font-size="13" fill="#859084">Loose items</text>
+    <line x1="350" y1="167" x2="1118" y2="167" stroke="#e2e5de"/>
+    <g>
+      <rect x="389" y="199" width="213" height="203" rx="18" fill="#fff"/>
+      <rect x="403" y="213" width="185" height="112" rx="9" fill="#f1e6c8"/>
+      <text x="419" y="238" font-family="Arial,sans-serif" font-size="10" fill="#887956" letter-spacing="2">ESSAY</text>
+      <text x="419" y="278" font-family="Georgia,serif" font-size="22" fill="#3b2d1a">How to Do</text><text x="419" y="303" font-family="Georgia,serif" font-size="22" fill="#3b2d1a">Great Work</text>
+      <text x="412" y="352" font-family="Arial,sans-serif" font-size="15" font-weight="700" fill="#30352e">How to Do Great Work</text><text x="412" y="375" font-family="Arial,sans-serif" font-size="12" fill="#82897e">paulgraham.com</text>
+      <rect x="628" y="199" width="213" height="203" rx="18" fill="#fff"/>
+      <rect x="642" y="213" width="185" height="112" rx="9" fill="#e9eff4"/>
+      <rect x="697" y="226" width="73" height="96" rx="4" fill="#193046"/>
+      <text x="705" y="250" font-family="Arial,sans-serif" font-size="10" font-weight="700" fill="#ffe19e">PROJECT</text><text x="705" y="264" font-family="Arial,sans-serif" font-size="10" font-weight="700" fill="#ffe19e">HAIL</text><text x="705" y="278" font-family="Arial,sans-serif" font-size="10" font-weight="700" fill="#ffe19e">MARY</text>
+      <text x="650" y="352" font-family="Arial,sans-serif" font-size="15" font-weight="700" fill="#30352e">Project Hail Mary</text><text x="650" y="375" font-family="Arial,sans-serif" font-size="12" fill="#82897e">Andy Weir</text>
+      <rect x="867" y="199" width="213" height="203" rx="18" fill="#fff"/>
+      <rect x="881" y="213" width="185" height="112" rx="9" fill="#24476a"/>
+      <text x="895" y="258" font-family="Georgia,serif" font-size="24" fill="#fff">The Tail End</text>
+      <text x="889" y="352" font-family="Arial,sans-serif" font-size="15" font-weight="700" fill="#30352e">The Tail End</text><text x="889" y="375" font-family="Arial,sans-serif" font-size="12" fill="#82897e">waitbutwhy.com</text>
+      <rect x="389" y="427" width="213" height="203" rx="18" fill="#fff"/>
+      <rect x="403" y="441" width="185" height="112" rx="9" fill="#151515"/><text x="450" y="512" font-family="Arial,sans-serif" font-size="38" font-weight="900" fill="#f3833e">HEAT</text>
+      <text x="412" y="580" font-family="Arial,sans-serif" font-size="15" font-weight="700" fill="#30352e">Heat</text><text x="412" y="603" font-family="Arial,sans-serif" font-size="12" fill="#82897e">Michael Mann · 1995</text>
+      <rect x="628" y="427" width="213" height="203" rx="18" fill="#fff"/>
+      <rect x="642" y="441" width="185" height="112" rx="9" fill="#d8e7d1"/><text x="657" y="507" font-family="Georgia,serif" font-size="23" fill="#304c2d">A Brief History</text><text x="657" y="532" font-family="Georgia,serif" font-size="23" fill="#304c2d">of the Web</text>
+      <text x="650" y="580" font-family="Arial,sans-serif" font-size="15" font-weight="700" fill="#30352e">A digital garden</text><text x="650" y="603" font-family="Arial,sans-serif" font-size="12" fill="#82897e">maggieappleton.com</text>
+      <rect x="867" y="427" width="213" height="203" rx="18" fill="#fff"/>
+      <rect x="881" y="441" width="185" height="112" rx="9" fill="#315e40"/><text x="898" y="493" font-family="Georgia,serif" font-size="23" font-style="italic" fill="#eef4e9">Why this site</text><text x="898" y="520" font-family="Georgia,serif" font-size="23" font-style="italic" fill="#eef4e9">exists</text>
+      <text x="889" y="580" font-family="Arial,sans-serif" font-size="15" font-weight="700" fill="#30352e">Why this site exists</text><text x="889" y="603" font-family="Arial,sans-serif" font-size="12" fill="#82897e">2 min read</text>
+    </g>
+  </g>
+</svg>

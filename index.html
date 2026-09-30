@@ -1,0 +1,61 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="theme-color" content="#392139">
+  <title>Tyler.Center</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Instrument+Serif:ital@0;1&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+  <link rel="stylesheet" href="v2.css">
+</head>
+<body>
+  <div class="desktop-grain" aria-hidden="true"></div>
+  <div class="desktop-menu" aria-label="Desktop menu bar">
+    <div class="desktop-menu-left"><span class="apple-mark" aria-hidden="true">●</span><strong>Tyler.Center</strong><button class="desktop-menu-button" data-menu="file">File</button><button class="desktop-menu-button" data-menu="rec">Rec</button><button class="desktop-menu-button" data-menu="view">View</button><button class="desktop-menu-button" data-menu="window">Window</button></div>
+    <div class="desktop-menu-right"><span class="desktop-wifi" aria-hidden="true">◕</span><span id="desktopClock"></span></div>
+  </div>
+  <div class="desktop-icons">
+    <button class="desktop-icon" data-desktop-open="home" aria-label="Open Tyler.Center"><span class="desktop-icon-art shelf-art">✦</span><span>Tyler.Center</span></button>
+  </div>
+  <div class="app-shell" id="appWindow">
+    <div class="topbar">
+      <div class="traffic"><button class="close-light" id="windowClose" aria-label="Close window" title="Close"></button><button class="minimize-light" id="windowMinimize" aria-label="Minimize window" title="Minimize"></button><button class="zoom-light" id="windowZoom" aria-label="Zoom window" title="Zoom"></button></div>
+      <div class="topbar-center">
+        <span class="history-dots" aria-hidden="true">‹ &nbsp; ›</span>
+        <button class="search-trigger" id="searchTrigger" type="button"><span class="search-icon">⌕</span><span>Search Tyler.Center</span><kbd>⌘ K</kbd></button>
+      </div>
+      <div class="topbar-right"><span class="presence-dot"></span><span>Tyler's space</span></div>
+    </div>
+    <div class="workspace">
+      <aside class="sidebar" id="sidebar" aria-label="Channels">
+        <div class="workspace-title"><div><strong>Tyler.Center</strong><span>A small corner of the internet</span></div><span class="workspace-chevron">⌄</span></div>
+        <div class="sidebar-scroll">
+          <button class="home-link" data-channel="home"><span class="home-icon">✦</span> About me <span class="home-arrow">↗</span></button>
+          <div class="side-label">THE SHELF <span>⌄</span></div>
+          <div id="channelNav"></div>
+          <div class="side-label side-label-small">A NOTE FROM TYLER</div>
+          <div class="sidebar-note">The good stuff deserves a place to live. Click around, stay a while.</div>
+          <div class="mobile-actions"><button data-menu-action="recommend">✦ &nbsp; Recommend something</button><button data-menu-action="drafts">▤ &nbsp; Saved drafts</button><button data-menu-action="surprise">▶ &nbsp; Surprise me</button><button data-menu-action="email">✉ &nbsp; Email me</button><button data-menu-action="instagram">◎ &nbsp; Instagram</button></div>
+        </div>
+        <div class="sidebar-footer"><span class="profile-avatar">TM</span><div><strong>Tyler Mulvey</strong><span>Curating the good stuff</span></div><span class="footer-presence"></span></div>
+      </aside>
+      <div class="mobile-scrim" id="mobileScrim" hidden></div>
+      <main class="main">
+        <header class="channel-header"><button class="mobile-menu" id="mobileMenu" aria-label="Open channels">☰</button><span class="header-hash">#</span><strong id="headerTitle">about-tyler</strong><span class="header-divider"></span><span class="header-description" id="headerDescription">A little introduction</span><div class="header-actions"><button id="headerSearch" aria-label="Search" title="Search">⌕</button><button id="headerAdd" aria-label="Add to this channel" title="Add to this channel">＋</button></div></header>
+        <div class="content-scroll" id="contentScroll"><div class="content-inner" id="content"></div></div>
+      </main>
+    </div>
+  </div>
+  <div class="desktop-dock" aria-label="Desktop dock">
+    <button class="dock-icon shelf-dock active" id="dockShelf" aria-label="Open Tyler.Center" title="Tyler.Center">✦<span class="dock-indicator"></span></button>
+  </div>
+  <div id="desktopMenuHost"></div>
+  <div class="modal-root" id="modalRoot"></div>
+  <div class="search-root" id="searchRoot"></div>
+  <div class="toast" id="toast" role="status" aria-live="polite"></div>
+  <script src="app.js"></script>
+</body>
+</html>

@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1000" preserveAspectRatio="xMidYMid slice">
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#bea9c9"/><stop offset=".38" stop-color="#d9bac4"/><stop offset=".73" stop-color="#edd6c6"/><stop offset="1" stop-color="#f4ddca"/></linearGradient>
+    <linearGradient id="ridge" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#806e94"/><stop offset="1" stop-color="#514e79"/></linearGradient>
+    <linearGradient id="front" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#3e5879"/><stop offset="1" stop-color="#183956"/></linearGradient>
+    <linearGradient id="lake" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#62778a"/><stop offset="1" stop-color="#163a55"/></linearGradient>
+    <radialGradient id="glow"><stop stop-color="#fff2d8" stop-opacity=".8"/><stop offset="1" stop-color="#fff2d8" stop-opacity="0"/></radialGradient>
+  </defs>
+  <rect width="1600" height="1000" fill="url(#sky)"/>
+  <circle cx="1150" cy="300" r="290" fill="url(#glow)"/>
+  <circle cx="1150" cy="300" r="95" fill="#f7dfc9" opacity=".9"/>
+  <path d="M0 553Q154 482 263 511T542 460Q702 443 848 506T1111 477Q1265 416 1450 492T1600 510V1000H0Z" fill="#a997ad" opacity=".58"/>
+  <path d="M0 626L155 500L242 573L400 432L563 609L685 515L784 584L1002 419L1172 600L1354 466L1600 626V1000H0Z" fill="url(#ridge)"/>
+  <path d="M348 474l52-42 46 50-36-16-18 11-19-7zM958 466l44-47 59 74-45-23-25 12zM1318 497l36-31 49 44-32-15-23 11z" fill="#eee0e1" opacity=".58"/>
+  <path d="M0 711Q270 665 496 694T924 674T1600 693V1000H0Z" fill="url(#lake)"/>
+  <path d="M0 679Q143 618 271 650T505 648Q624 607 764 645T1028 633Q1207 580 1332 634T1600 654V1000H0Z" fill="url(#front)"/>
+  <path d="M0 784Q278 743 467 786T887 779T1304 755T1600 782" fill="none" stroke="#bd9aa5" stroke-opacity=".3" stroke-width="7"/>
+  <path d="M0 823Q227 790 444 831T881 818T1304 803T1600 827" fill="none" stroke="#d2afb0" stroke-opacity=".17" stroke-width="4"/>
+  <path d="M0 852Q203 829 403 870T854 854T1283 845T1600 861" fill="none" stroke="#d3b4b7" stroke-opacity=".1" stroke-width="4"/>
+  <path d="M0 931Q218 877 417 910T795 894T1184 894T1600 878V1000H0Z" fill="#17314b"/>
+</svg>
