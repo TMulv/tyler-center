@@ -1,5 +1,5 @@
 @font-face{font-family:'Special Elite';src:url('assets/fonts/special-elite.ttf') format('truetype');font-weight:400;font-style:normal;font-display:swap}
-:root{--ink:#233e4e;--blue:#254e64;--paper:#eee9dc;--red:#a43129;--muted:#5b625d;--rule:#b7b4a4;--grain:url('assets/print-grain.svg');font-family:'Special Elite','Courier New',monospace;color:var(--ink);background:var(--ink);font-synthesis:weight}
+:root{--ink:#233e4e;--blue:#254e64;--paper:#eee9dc;--red:#a43129;--muted:#5b625d;--rule:#b7b4a4;--grain:url('assets/print-grain.svg');font-family:var(--reading-font,Georgia,'Times New Roman',serif);color:var(--ink);background:var(--ink);font-synthesis:weight}
 button,input,textarea,select,kbd{font:inherit}button:focus-visible,a:focus-visible,input:focus-visible,textarea:focus-visible{outline:3px solid #be532e;outline-offset:4px}
 ::selection{background:#c6d2a5;color:#162f3b}
 .desktop-grain{background:#1c445c url('assets/challenger-launch.jpg') center center/cover no-repeat}

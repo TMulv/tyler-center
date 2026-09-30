@@ -25,7 +25,7 @@
 .digest-label { font-size: 12px; opacity: .8; }
 .digest-sources { display: grid; gap: 10px; margin: 24px 0; overflow-wrap: anywhere; }
 
-/* Typewriter titles and controls; a traditional book face for sustained reading. */
+/* Regular text is the default; typewriter is reserved for headings and titles. */
 :root { --reading-font: Georgia, 'Times New Roman', serif; --heading-font: 'Special Elite', 'Courier New', monospace; }
 .content-inner p, .modal p, .about-message ul, .case-study-body,
 .digest-body, .digest-sources>a, .comment p, .sidebar-note,

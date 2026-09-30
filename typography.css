@@ -1,0 +1,22 @@
+/* Keep this after component styles: prose inherits the reading face everywhere. */
+:root, body { font-family: var(--reading-font); }
+
+/* Headings and title-like UI labels opt into the typewriter face. */
+h1, h2, h3, h4, h5, h6,
+.hero h1, .welcome-hero h1, .about-message h1, .modal h2, .digest-body h3,
+#headerTitle, .workspace-title strong, .desktop-menu-left > strong,
+.channel-link, .home-link, .side-label, .eyebrow,
+.message-meta > strong, .sidebar-footer strong,
+.link-preview-copy > strong, .link-preview-art strong,
+.shortcut > strong, .case-file strong, .saved-title,
+.personal-toggle > summary, .reader-guide-details > summary {
+  font-family: var(--heading-font);
+}
+
+/* Lists are body copy, including their markers and bold introductory phrases. */
+.content-inner :is(ul, ol, li, blockquote),
+.modal :is(ul, ol, li, blockquote), .reader-guide li::marker {
+  font-family: var(--reading-font);
+  letter-spacing: normal;
+}
+.reader-guide ol { font-size: 17px; line-height: 1.65; }
