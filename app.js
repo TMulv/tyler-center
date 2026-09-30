@@ -234,8 +234,8 @@ function navigate(channel) {
   sessionFirstUnread=records.find(record=>ChannelReadState.count([record],readState,channel))?.id || null;
   $('#headerTitle').textContent = channel === 'home' ? 'about-tyler' : meta.title;
   $('#headerDescription').textContent = channel === 'home' ? 'Work, field notes & the rest' : meta.description;
-  $('#headerAdd').hidden = !channelMeta(channel) || !!meta.managed;
-  $('#headerAdd').setAttribute('aria-label', channel === 'websites' ? 'Add a project' : `Add to ${channel}`);
+  $('#headerAdd').hidden = channel === 'websites' || !channelMeta(channel) || !!meta.managed;
+  $('#headerAdd').setAttribute('aria-label', `Add to ${channel}`);
   $('#channelReadingBar').hidden=!channelMeta(channel);
   $('#channelFilters').hidden=!channelMeta(channel);
   $('#lastReadButton').disabled=!sessionCheckpoint && !sessionFirstUnread;
@@ -326,7 +326,7 @@ function commentSection(type,id) {
 }
 function showProject(project) {
   const image=safeImage(project.image),url=safeUrl(project.url);
-  $('#modalRoot').innerHTML = `<div class="modal-overlay" data-close-modal><div class="modal detail-modal" role="dialog" aria-modal="true" aria-label="${esc(project.title)}"><div class="modal-top"><span class="eyebrow">${esc(project.category)}</span><button class="close-button" data-close-modal aria-label="Close">×</button></div><div class="modal-body"><h2>${esc(project.title)}</h2><p class="modal-description">${esc(project.description)}</p>${image ? `<div class="modal-preview"><img src="${esc(image)}" alt="Preview of ${esc(project.title)}"></div>` : ''}<div class="modal-actions">${url ? `<a class="primary-button" href="${esc(url)}" target="_blank" rel="noopener noreferrer">${isAppStoreProject(project) ? 'View on the App Store' : 'Visit website'} ↗</a>` : '<span class="empty-note">Add a live link when this site is ready.</span>'}<button class="secondary-button" data-action="edit-project" data-id="${esc(project.id)}">Edit</button><button class="secondary-button delete" data-action="delete-project" data-id="${esc(project.id)}">Remove</button></div>${commentSection('project',project.id)}</div></div></div>`;
+  $('#modalRoot').innerHTML = `<div class="modal-overlay" data-close-modal><div class="modal detail-modal" role="dialog" aria-modal="true" aria-label="${esc(project.title)}"><div class="modal-top"><span class="eyebrow">${esc(project.category)}</span><button class="close-button" data-close-modal aria-label="Close">×</button></div><div class="modal-body"><h2>${esc(project.title)}</h2><p class="modal-description">${esc(project.description)}</p>${image ? `<div class="modal-preview"><img src="${esc(image)}" alt="Preview of ${esc(project.title)}"></div>` : ''}<div class="modal-actions">${url ? `<a class="primary-button" href="${esc(url)}" target="_blank" rel="noopener noreferrer">${isAppStoreProject(project) ? 'View on the App Store' : 'Visit website'} ↗</a>` : '<span class="empty-note">Original website prototype.</span>'}</div>${commentSection('project',project.id)}</div></div></div>`;
   bindCommentForm();
 }
 function showEntry(entry) {
@@ -351,22 +351,6 @@ function closeModal() { $('#modalRoot').innerHTML=''; }
 function readImage(file) { return new Promise((resolve,reject) => { const reader=new FileReader(); reader.onload=()=>resolve(reader.result); reader.onerror=()=>reject(new Error('Could not read image')); reader.readAsDataURL(file); }); }
 function imageField(current) { return `<label class="field-label">Preview image<div class="upload-box">Upload an image<input name="image" type="file" accept="image/png,image/jpeg,image/webp,image/gif"><span class="field-help">PNG, JPG, WebP, or GIF · up to 8 MB</span></div></label>${safeImage(current) ? `<img class="current-image" src="${esc(current)}" alt="Current preview">` : ''}`; }
 function validImage(file) { return !file || (['image/png','image/jpeg','image/webp','image/gif'].includes(file.type) && file.size <= 8*1024*1024); }
-function projectEditor(project=null) {
-  const editing=!!project;
-  $('#modalRoot').innerHTML=`<div class="modal-overlay" data-close-modal><div class="modal" role="dialog" aria-modal="true" aria-label="${editing?'Edit project':'Add a project'}"><div class="modal-top"><span class="eyebrow">${editing?'EDIT PROJECT':'NEW PROJECT'}</span><button class="close-button" data-close-modal aria-label="Close">×</button></div><div class="modal-body"><h2>${editing?'Edit project':'Add a project'}</h2><p class="modal-description">Add an app, website, or another project.</p><form id="projectForm" class="form-grid"><label class="field-label">Project name<input name="title" value="${esc(project?.title||'')}" maxlength="70" required placeholder="e.g. My portfolio"></label><label class="field-label">What kind of project?<input name="category" value="${esc(project?.category||'')}" maxlength="60" placeholder="e.g. Portfolio · 2026"></label><label class="field-label">Short description<textarea name="description" maxlength="240" required>${esc(project?.description||'')}</textarea></label><label class="field-label">Project URL<input name="url" type="url" value="${esc(project?.url||'')}" placeholder="https://example.com"></label>${imageField(project?.image)}<span class="field-help">Changes made here are saved in this browser. Publishing them for everyone needs a shared content source.</span><div class="form-error" id="formError" role="alert"></div><div class="form-actions"><button class="secondary-button" type="button" data-close-modal>Cancel</button><button class="primary-button" type="submit">${editing?'Save changes':'Add project'}</button></div></form></div></div></div>`;
-  $('#projectForm').addEventListener('submit',event=>submitProject(event,project));
-  $('#projectForm [name="title"]').focus();
-}
-async function submitProject(event,existing) {
-  event.preventDefault(); const form=event.currentTarget,error=$('#formError');
-  const title=form.elements.title.value.trim(),category=form.elements.category.value.trim()||'Website',description=form.elements.description.value.trim(),urlText=form.elements.url.value.trim(),file=form.elements.image.files[0];
-  if (!title||!description) {error.textContent='Add a name and description.';return;}
-  if (urlText&&!safeUrl(urlText)) {error.textContent='Enter an http or https URL.';return;}
-  if (!validImage(file)) {error.textContent='Choose an image under 8 MB.';return;}
-  const button=form.querySelector('[type="submit"]'); button.disabled=true;button.textContent='Saving…';
-  try { const image=file?await readImage(file):existing?.image||''; await saveRecord('project',{id:existing?.id||uid(),title,category,description,url:safeUrl(urlText),image,builtIn:!!existing?.builtIn,created:existing?.created||new Date().toISOString()});closeModal();navigate('websites');toast('Project saved.'); }
-  catch {error.textContent='Could not save this project. Try a smaller image.';button.disabled=false;button.textContent='Save project';}
-}
 function entryEditor(channel='articles',entry=null) {
   if (entry?.source || channelMeta(channel)?.managed) return;
   const editing=!!entry;
@@ -533,7 +517,7 @@ document.addEventListener('click',async event=>{
   const entry=target.closest('[data-entry]');if(entry){const record=allEntries().find(item=>item.id===entry.dataset.entry);if(record)showEntry(record);return;}
   const searchProject=target.closest('[data-search-project]');if(searchProject){const record=projects.find(item=>item.id===searchProject.dataset.searchProject);closeSearch();showShelf('websites');if(record)showProject(record);return;}
   const searchEntry=target.closest('[data-search-entry]');if(searchEntry){const record=allEntries().find(item=>item.id===searchEntry.dataset.searchEntry);closeSearch();if(record){showShelf(record.channel);showEntry(record);}return;}
-  const actionButton=target.closest('[data-action]');if(actionButton){const action=actionButton.dataset.action,id=actionButton.dataset.id;if(action==='reload-shore')renderShore();if(action==='wallpaper-credit')wallpaperCredit();if(action==='add-project')projectEditor();if(action==='edit-project'){const record=projects.find(item=>item.id===id);if(record)projectEditor(record);}if(action==='delete-project'){const record=projects.find(item=>item.id===id);if(record&&confirm(`Remove "${record.title}" from this browser?`)){try{await removeRecord('project',id);closeModal();toast('Project removed.');}catch{toast('Could not remove the project.');}}}if(action==='edit-entry'){const record=entries.find(item=>item.id===id);if(record)entryEditor(record.channel,record);}if(action==='delete-entry'){const record=entries.find(item=>item.id===id);if(record&&confirm(`Remove "${record.title}" from this browser?`)){try{await removeRecord('entry',id);closeModal();toast('Item removed.');}catch{toast('Could not remove the item.');}}}if(action==='add-entry')entryEditor(activeChannel);if(action==='surprise')surpriseMe();return;}
+  const actionButton=target.closest('[data-action]');if(actionButton){const action=actionButton.dataset.action,id=actionButton.dataset.id;if(action==='reload-shore')renderShore();if(action==='wallpaper-credit')wallpaperCredit();if(action==='edit-entry'){const record=entries.find(item=>item.id===id);if(record)entryEditor(record.channel,record);}if(action==='delete-entry'){const record=entries.find(item=>item.id===id);if(record&&confirm(`Remove "${record.title}" from this browser?`)){try{await removeRecord('entry',id);closeModal();toast('Item removed.');}catch{toast('Could not remove the item.');}}}if(action==='add-entry')entryEditor(activeChannel);if(action==='surprise')surpriseMe();return;}
   if(target.closest('[data-close-modal]')&&(target===target.closest('[data-close-modal]')||target.tagName==='BUTTON')){closeModal();return;}
   if(target.closest('[data-close-search]')&&(target===target.closest('[data-close-search]')||target.tagName==='BUTTON'))closeSearch();
 });
@@ -560,7 +544,7 @@ document.addEventListener('error',event=>{
 },true);
 $('#searchTrigger').addEventListener('click',openSearch);
 $('#headerSearch').addEventListener('click',openSearch);
-$('#headerAdd').addEventListener('click',()=>activeChannel==='websites'?projectEditor():entryEditor(activeChannel));
+$('#headerAdd').addEventListener('click',()=>{if(activeChannel!=='websites' && channelMeta(activeChannel))entryEditor(activeChannel);});
 $('#lastReadButton').addEventListener('click',jumpToLastRead);
 $('#latestButton').addEventListener('click',()=>{$('#contentScroll').scrollTo({top:$('#contentScroll').scrollHeight,behavior:matchMedia('(prefers-reduced-motion:reduce)').matches?'instant':'smooth'});});
 $('#contentScroll').addEventListener('scroll',()=>{clearTimeout(readingTimer);readingTimer=setTimeout(markVisibleMessages,200);},{passive:true});
