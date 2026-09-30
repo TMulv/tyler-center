@@ -45,6 +45,19 @@ class SyncTests(unittest.TestCase):
                 with self.assertRaises(sync.SourceHTTPError): sync.sync_rss()
             self.assertEqual(path.read_bytes(),before)
 
+    def test_blocked_archive_uses_public_reader_metadata(self):
+        post = {'title': 'New post', 'subtitle': 'A short excerpt',
+                'canonical_url': 'https://bettingantelope.substack.com/p/new-post',
+                'post_date': '2026-09-29T10:00:00Z'}
+        source = sync.WRITING_ARCHIVE_URL + '?sort=new&offset=0&limit=20'
+        reader = f'Title: \n\nURL Source: {source}\n\nMarkdown Content:\n{json.dumps([post])}'.encode()
+        with patch.object(sync, 'fetch', side_effect=[sync.SourceHTTPError(403), reader]) as fetch:
+            self.assertEqual(sync.writing_archive_page(0), [post])
+            self.assertEqual(fetch.call_args_list[1].args[0], sync.READER_ARCHIVE_URL + '?sort=new&offset=0&limit=20')
+        with patch.object(sync, 'fetch', side_effect=[sync.SourceHTTPError(403), b'wrong source']):
+            with self.assertRaises(ValueError):
+                sync.writing_archive_page(0)
+
     def test_source_errors_only_log_safe_status_or_type(self):
         self.assertEqual(sync.error_summary(sync.SourceHTTPError(403)), 'HTTP 403')
         self.assertEqual(sync.error_summary(RuntimeError('secret or response body')), 'RuntimeError')

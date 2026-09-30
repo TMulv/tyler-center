@@ -20,6 +20,7 @@ import xml.etree.ElementTree as ET
 ROOT = Path(__file__).resolve().parents[1]
 RSS_URL = 'https://bettingantelope.substack.com/feed'
 WRITING_ARCHIVE_URL = 'https://bettingantelope.substack.com/api/v1/archive'
+READER_ARCHIVE_URL = 'https://r.jina.ai/' + WRITING_ARCHIVE_URL
 SUBSTACK_HEADERS = {
     'User-Agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36',
     'Accept': 'application/rss+xml, application/xml;q=0.9, application/json;q=0.8, */*;q=0.7',
@@ -173,12 +174,29 @@ def parse_rss(xml):
     return records
 
 
-def collect_writing_archive():
+def writing_archive_page(offset):
+    query = f'?sort=new&offset={offset}&limit=20'
+    try:
+        return json.loads(fetch(WRITING_ARCHIVE_URL + query, headers=SUBSTACK_HEADERS))
+    except SourceHTTPError as error:
+        if error.status != 403:
+            raise
+        # GitHub's runner is blocked by Substack. The reader exposes the same
+        # public JSON as text; check its source before trusting its contents.
+        response = fetch(READER_ARCHIVE_URL + query, headers={'Accept': 'text/plain'}).decode()
+        source = f'URL Source: {WRITING_ARCHIVE_URL + query}\n'
+        marker = '\nMarkdown Content:\n'
+        if source not in response or marker not in response:
+            raise ValueError('Unexpected reader archive response')
+        return json.loads(response.split(marker, 1)[1])
+
+
+def collect_writing_archive(latest_only=False):
     """Backfill public metadata only, including links to subscriber-only posts."""
     records = {}
     offset = 0
     while True:
-        page = json.loads(fetch(f'{WRITING_ARCHIVE_URL}?sort=new&offset={offset}&limit=20', headers=SUBSTACK_HEADERS))
+        page = writing_archive_page(offset)
         if not isinstance(page, list):
             raise ValueError('Unexpected archive response')
         if not page:
@@ -208,6 +226,8 @@ def collect_writing_archive():
             records[record['id']] = record
         if len(records) == previous_count:
             raise ValueError('Archive pagination did not advance')
+        if latest_only:
+            return list(records.values())
         offset += len(page)
 
 
@@ -223,7 +243,7 @@ def sync_rss(xml=None, backfill=False):
             incoming = parse_rss(fetch(RSS_URL, headers=SUBSTACK_HEADERS))
         except (SourceHTTPError, URLError, TimeoutError, ET.ParseError, ValueError) as error:
             print(f'::warning::RSS unavailable ({error_summary(error)}); trying the public publication archive.')
-            incoming = collect_writing_archive()
+            incoming = collect_writing_archive(latest_only=True)
     records.update({e['id']: e for e in incoming})
     write_snapshot(path, list(records.values()))
 

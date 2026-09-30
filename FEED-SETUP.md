@@ -75,7 +75,7 @@ Channel descriptions and filters remain above the scroll area. Projects filter b
 
 ### September 30 sync repair
 
-The repository secret is named `NOTION_TOKEN_NEWSLETTER`; the workflow maps it to the script’s `NOTION_TOKEN` environment variable, with the older secret name as a fallback. RSS errors now report safe HTTP codes. If the RSS request fails, the sync tries the same publication’s public archive, preserving existing history and stable IDs. If both sources fail, the snapshot is left intact and the run fails. This fallback has been tested locally; success on GitHub’s runner remains to be verified after publishing.
+The repository secret is named `NOTION_TOKEN_NEWSLETTER`; the workflow maps it to the script’s `NOTION_TOKEN` environment variable, with the older secret name as a fallback. RSS errors report safe HTTP codes. If RSS fails, the sync reads the newest page of the publication’s public archive. Substack returns HTTP 403 to GitHub’s runner, so a second fallback reads that same public archive JSON through `r.jina.ai`. The reader sees only a public URL; no token or private data is sent. The importer validates the original Substack URLs and keeps only post metadata. Backfills still paginate all pages. If these sources fail, the last snapshot stays in place and the writing job fails visibly.
 
 
 ## Read Later → #read-later
@@ -86,7 +86,7 @@ The entire data source is synced, so changing a status to Read keeps the article
 
 Edit Title, Link, or Status in Notion to update the corresponding public message. Date added determines its saved timestamp and order. The scheduled workflow checks every 15 minutes, with possible GitHub scheduling and Pages deployment delays; the open website refreshes snapshots every minute. New saves appear automatically. The status filter describes Tyler’s reading status, independently of visitors’ unread badges. Historical Git commits can retain previously published metadata.
 
-Run `python3 scripts/sync_feeds.py read-later` with NOTION_TOKEN set for a local sync. Any query or schema error preserves the previous complete snapshot. Independent source steps let Read Later and the newsletter publish even when RSS fails. As of September 30, Substack returns HTTP 403 for both RSS and archive requests on GitHub’s runner; this is separate from the working Notion connection.
+Run `python3 scripts/sync_feeds.py read-later` with NOTION_TOKEN set for a local sync. Any query or schema error preserves the previous complete snapshot. Independent source steps let Read Later and the newsletter publish even when the writing source fails.
 
 
 ## My Domains → #what-i've-built

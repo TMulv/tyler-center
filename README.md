@@ -62,7 +62,7 @@ The provided image is stored unchanged in `assets/challenger-launch.jpg`. The re
 
 ## Channel sync
 
-Notion supplies built projects, Read Later, Watch or Listen Later, and finished Daily Newsletter Digest editions through public snapshots. Betting Antelope uses RSS/archive snapshots. The workflow checks every 15 minutes; source failures retain the previous snapshot. GitHub runner access to Substack has returned HTTP 403, independently of the working Notion job, so check the latest job before claiming writing sync is healthy. Photography sync is still pending.
+Notion supplies built projects, Read Later, Watch or Listen Later, and finished Daily Newsletter Digest editions through public snapshots. Betting Antelope uses RSS/archive snapshots; when GitHub's runner gets HTTP 403 from Substack, the writing job reads the same public archive metadata through a public reader. The workflow checks every 15 minutes; source failures retain the previous snapshot. Check the latest job before claiming writing sync is healthy. Photography sync is still pending.
 
 See [FEED-SETUP.md](FEED-SETUP.md) for approved fields, source IDs, date mappings, publishing, and limitations.
 
