@@ -13,6 +13,7 @@
       const entry = {id:item.id, channel, source:channel === 'writing' ? 'rss' : 'notion', publishedAt:item.publishedAt};
       for (const key of ['title','kind','domain','description','body']) entry[key] = typeof item[key] === 'string' ? item[key] : '';
       entry.url = link(item.url);
+      if (previewImage(item.image)) entry.image = previewImage(item.image);
       entry.links = Array.isArray(item.links) ? item.links.filter(l => l && typeof l === 'object').map(l => ({title:String(l.title || ''),text:String(l.text || ''),url:link(l.url)})).filter(l => l.url) : [];
       entry.blocks = Array.isArray(item.blocks) ? item.blocks.filter(b => b && Array.isArray(b.runs)).map(b => ({
         type:['heading_1','heading_2','heading_3','bulleted_list_item','numbered_list_item','quote'].includes(b.type) ? b.type : 'paragraph',
@@ -28,6 +29,12 @@
       if (privateHosts.some(h => url.hostname === h || url.hostname.endsWith('.' + h))) return '';
       return ['https:', 'http:'].includes(url.protocol) && !url.username && !url.password ? url.href : '';
     } catch {return '';}
+  }
+  function previewImage(value) {
+    const safe = link(value);
+    if (!safe || !safe.startsWith('https://')) return '';
+    const host = new URL(safe).hostname;
+    return /^(?:is\d+-ssl\.mzstatic\.com|substackcdn\.com|substack-post-media\.s3\.amazonaws\.com|i\.ytimg\.com|(?:www\.)?waitbutwhy\.com|maggieappleton\.com|images\.ctfassets\.net)$/.test(host) ? safe : '';
   }
   const escape = value => String(value ?? '').replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
   const anchor = (text,url) => `<a href="${escape(url)}" target="_blank" rel="noopener noreferrer">${escape(text)}</a>`;
@@ -64,6 +71,6 @@
     const sharedIds = new Set(published.map(e => e.id));
     return [...local.filter(e => e.id !== 'why-site' && !sharedIds.has(e.id)), ...published];
   }
-  root.ChannelFeeds = {validate, merge, linkedText, renderBody};
+  root.ChannelFeeds = {validate, merge, linkedText, renderBody, previewImage};
   if (typeof module !== 'undefined') module.exports = root.ChannelFeeds;
 })(globalThis);

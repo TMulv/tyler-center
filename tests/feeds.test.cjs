@@ -33,3 +33,11 @@ test('verified story links and bare URLs are clickable without turning markup in
   assert.match(html,/href="https:\/\/example.com\/read"/);
   assert.match(html,/&lt;b&gt;text/);
 });
+test('preview images accept known source artwork and reject unrelated or unsafe sources',()=>{
+  const {previewImage}=require('../feeds.js');
+  for(const url of ['https://is1-ssl.mzstatic.com/image/app.jpg','https://substackcdn.com/image/cover.jpg']) {
+    assert.equal(previewImage(url),url);
+    assert.equal(validate({version:1,entries:[{...post,image:url}]},'writing')[0].image,url);
+  }
+  for(const url of ['javascript:alert(1)','http://is1-ssl.mzstatic.com/a.jpg','https://is1-ssl.mzstatic.com.evil.example/a.jpg','https://127.0.0.1/a.jpg']) assert.equal(previewImage(url),'');
+});

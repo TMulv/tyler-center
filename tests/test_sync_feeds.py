@@ -32,6 +32,11 @@ class SyncTests(unittest.TestCase):
             sync.sync_rss(rss('Older remains', 'next'))
             self.assertEqual(path.read_bytes(), before)
 
+    def test_rss_keeps_source_image_metadata(self):
+        xml = rss().replace('</item>', '<enclosure type="image/jpeg" url="https://substackcdn.com/image/cover.jpg"/></item>')
+        self.assertEqual(sync.parse_rss(xml)[0]['image'], 'https://substackcdn.com/image/cover.jpg')
+        self.assertNotIn('image', sync.parse_rss(xml.replace('https://substackcdn.com/image/cover.jpg', 'http://127.0.0.1/private'))[0])
+
     def test_invalid_feed_keeps_snapshot(self):
         for xml in ['<rss/>', rss().replace('bettingantelope.substack.com','evil.example'), rss().replace('Mon, 28 Sep 2026 23:43:38 GMT','bad')]:
             with self.assertRaises(Exception):

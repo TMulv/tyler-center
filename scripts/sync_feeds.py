@@ -145,6 +145,10 @@ def parse_rss(xml):
                         'channel': 'writing', 'source': 'rss', 'kind': 'Betting Antelope',
                         'domain': 'bettingantelope.substack.com', 'title': title,
                         'url': identity, 'description': preview, 'publishedAt': iso_date(item.findtext('pubDate') or '')})
+        enclosure = item.find('enclosure')
+        image = public_url(enclosure.get('url', '')) if enclosure is not None and enclosure.get('type', '').startswith('image/') else ''
+        if image:
+            records[-1]['image'] = image
     return records
 
 
@@ -177,6 +181,9 @@ def collect_writing_archive():
                       'domain': 'bettingantelope.substack.com', 'title': title,
                       'url': identity, 'description': preview,
                       'publishedAt': iso_date(post.get('post_date') or '')}
+            image = public_url(post.get('cover_image') or '')
+            if image:
+                record['image'] = image
             records[record['id']] = record
         if len(records) == previous_count:
             raise ValueError('Archive pagination did not advance')

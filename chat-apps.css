@@ -58,10 +58,29 @@
 .channel-link>span:nth-child(2) { min-width: 0; white-space: normal; line-height: 1.35; }
 .channel-link .hash, .channel-count { flex-shrink: 0; }
 
-/* A type-led cover for app projects without an uploaded image. */
-.project-art.app-wordmark{display:grid;place-items:center;font-size:clamp(28px,5vw,48px);letter-spacing:-.04em;padding:24px;color:var(--ink)}
 
 /* Publication dates stay readable beside the sender, including on small screens. */
 .message-meta{flex-wrap:wrap;column-gap:12px;row-gap:4px}
 .message-meta .message-timestamp,.comment .message-timestamp{font-family:Arial,Helvetica,sans-serif;font-size:14px;font-weight:500;line-height:1.5;color:#344e55;font-variant-numeric:tabular-nums}
 .comment .message-timestamp{display:block;margin:4px 0 8px}
+
+/* Keep channel context and filters in view above the conversation. */
+.channel-header{height:auto;min-height:82px;padding:15px 24px;align-items:flex-start;gap:10px}
+.channel-heading{min-width:0;flex:1}.channel-header .header-hash{padding-top:3px}
+.channel-heading strong{display:block;line-height:1.3}
+.channel-header .header-description{display:block;margin:5px 0 0;white-space:normal;overflow:visible;font:14px/1.4 Georgia,'Times New Roman',serif;color:#405852}
+.channel-header .header-actions{flex:none;margin-left:auto}
+.channel-filters{display:flex;align-items:center;flex-wrap:wrap;gap:9px;padding:10px 24px;background:var(--grain),#ece8d6;border-bottom:1px solid #a6afa0;flex:none;font-size:12px;color:#344e55}
+.filter-types{display:flex;gap:4px}.filter-types button,.filter-select select{border:1px solid #879a8c;background:#f3efdf;border-radius:2px;padding:7px 10px;color:#294651;font:inherit;min-height:32px}
+.filter-types button[aria-pressed="true"]{color:#f7f0dc;background:#294c59;border-color:#294c59}
+.filter-select{display:flex;gap:6px;align-items:center}
+#channelQueryFilter{font:14px Georgia,'Times New Roman',serif;flex:1;min-width:140px;width:150px;max-width:300px;padding:7px 9px;min-height:32px;border:1px solid #879a8c;border-radius:2px;background:#f8f4e7;color:#294651}
+#channelFilterCount{font:12px Arial,Helvetica,sans-serif;white-space:nowrap;color:#425b53}
+.source-preview{display:block;min-height:0;width:min(610px,100%);border-left:3px solid #a44732}
+.source-preview-image{width:100%;aspect-ratio:1200/630;max-height:220px;overflow:hidden;border-bottom:1px solid #a6afa0;background:var(--grain),#dfdfce}
+.source-preview-image img{display:block;width:100%;height:100%;object-fit:contain}
+.source-preview .link-preview-copy{padding:16px 18px}.source-preview .link-preview-copy strong{font-size:20px;line-height:1.3;margin:8px 0}
+.source-preview .link-preview-copy small{font:11px/1.5 Arial,Helvetica,sans-serif;letter-spacing:.05em;overflow-wrap:anywhere}
+.source-preview-open{display:block;font-size:12px;margin-top:12px;color:#295369}
+.project-source-link{display:block;text-decoration:none;width:min(610px,100%)}
+@media(max-width:760px){.channel-header{padding:12px 16px;min-height:80px}.channel-header .header-description{font-size:13px}.channel-filters{padding:10px 16px;gap:8px}.source-preview .link-preview-copy{padding:13px}.source-preview .link-preview-copy strong{font-size:18px}}

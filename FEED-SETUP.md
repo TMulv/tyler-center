@@ -66,3 +66,9 @@ The original September 25 edition has five manually verified public destinations
 ### Backfill older writing
 
 Run `python3 scripts/sync_feeds.py rss --backfill` to paginate the public Substack archive to its end. This imports titles, subtitles, original publication dates, and links, including links to subscriber-only posts. Article bodies remain on Substack. The regular RSS sync preserves older entries and adds new posts. Archive errors leave the existing snapshot intact.
+
+### Link previews and channel filters
+
+`link-previews.js` stores public Open Graph metadata read from the existing App Store, article, and video links. These cards load artwork directly from the original image host and fall back to text if it fails. Update that map when adding a new static source link. RSS image enclosures and archive cover images are included in the writing sync. Supported image hosts are validated in `feeds.js`; no generic preview proxy is used.
+
+Channel descriptions and filters remain above the scroll area. Projects filter by Apps or Websites, other content filters by its available types, multi-year channels filter by year, and every channel supports text search. Filters only affect the current view; they do not remove records or change other channels.

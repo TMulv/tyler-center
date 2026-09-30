@@ -52,7 +52,8 @@
       </aside>
       <div class="mobile-scrim" id="mobileScrim" hidden></div>
       <main class="main">
-        <header class="channel-header"><button class="mobile-menu" id="mobileMenu" aria-label="Open channels">☰</button><span class="header-hash">#</span><strong id="headerTitle">about-tyler</strong><span class="header-divider"></span><span class="header-description" id="headerDescription">A little introduction</span><div class="header-actions"><button id="headerSearch" aria-label="Search" title="Search">⌕</button><button id="headerAdd" aria-label="Add to this channel" title="Add to this channel">＋</button></div></header>
+        <header class="channel-header"><button class="mobile-menu" id="mobileMenu" aria-label="Open channels">☰</button><span class="header-hash">#</span><div class="channel-heading"><strong id="headerTitle">about-tyler</strong><p class="header-description" id="headerDescription">A little introduction</p></div><div class="header-actions"><button id="headerSearch" aria-label="Search" title="Search">⌕</button><button id="headerAdd" aria-label="Add to this channel" title="Add to this channel">＋</button></div></header>
+        <div class="channel-filters" id="channelFilters" aria-label="Filter this channel" hidden></div>
         <div class="channel-reading-bar" id="channelReadingBar" hidden><span>oldest → newest</span><div><button id="lastReadButton">↑ Last read</button><button id="latestButton">Latest ↓</button></div></div>
         <div class="content-scroll" id="contentScroll"><div class="content-inner" id="content"></div></div>
       </main>
@@ -69,6 +70,8 @@
   <script src="spider.js"></script>
   <script src="about.js"></script>
   <script src="feeds.js"></script>
+  <script src="link-previews.js"></script>
+  <script src="channel-filters.js"></script>
   <script src="app.js"></script>
 </body>
 </html>

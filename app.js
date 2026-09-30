@@ -2,11 +2,11 @@
 const CONTACT = { email: '', instagram: '', linkedin: 'https://www.linkedin.com/in/tylermulvey/' };
 
 const CHANNELS = [
-  {id:'websites', title:"what i've built", description:"Apps, websites, and other things I’ve made"},
+  {id:'websites', title:"what i've built", description:"Apps and websites I’ve made"},
   {id:'articles', title:'articles', description:"What I’m saving to read", intro:"Articles I’m saving for later. I’ll mark them as read when I’ve read them. All news is biased, but this is news that's biasing me. (Warning: you may become Tyler leaning after reading what I'm reading.)"},
   {id:'watch', title:'watch', description:'Videos I recommend watching'},
-  {id:'writing', title:'writing', description:'Betting Antelope', intro:'My writing on Betting Antelope. New posts show up here when I publish.', managed:true, sourceUrl:'https://bettingantelope.substack.com/', sourceLabel:'Read Betting Antelope ↗'},
-  {id:'newsletters', title:'daily newsletter', description:'The daily newsletter digest', managed:true, intro:'I subscribe to a carefully picked mix of paid and free newsletters. I can’t read every issue every day. My newsletter agent pulls the highlights into one daily digest.', empty:'The first digest will appear here once the archive is connected.'},
+  {id:'writing', title:'writing', description:'My NFL picks and writing from Betting Antelope', intro:'My writing on Betting Antelope. New posts show up here when I publish.', managed:true, sourceUrl:'https://bettingantelope.substack.com/', sourceLabel:'Read Betting Antelope ↗'},
+  {id:'newsletters', title:'daily newsletter', description:'Daily highlights from the newsletters I subscribe to', managed:true, intro:'I subscribe to a carefully picked mix of paid and free newsletters. I can’t read every issue every day. My newsletter agent pulls the highlights into one daily digest.', empty:'The first digest will appear here once the archive is connected.'},
   {id:'photography', title:'photography', description:'Photos I have taken'}
 ];
 const STARTER_PROJECTS = [{
@@ -39,6 +39,7 @@ const domainOf = value => { const url=safeUrl(value); return url ? new URL(url).
 let projects = [...STARTER_PROJECTS], entries = [...STARTER_ENTRIES], comments = [];
 let database = null, activeChannel = 'home';
 let publishedEntries = [], refreshingFeeds = false;
+const channelFilters = {};
 const allEntries = () => ChannelFeeds.merge(entries, publishedEntries);
 let toastTimer, lastSurpriseId = null, frontLayer = 4;
 let readState = fallbackRead('read-state-v1', {});
@@ -236,6 +237,7 @@ function navigate(channel) {
   $('#headerAdd').hidden = !channelMeta(channel) || !!meta.managed;
   $('#headerAdd').setAttribute('aria-label', channel === 'websites' ? 'Add a project' : `Add to ${channel}`);
   $('#channelReadingBar').hidden=!channelMeta(channel);
+  $('#channelFilters').hidden=!channelMeta(channel);
   $('#lastReadButton').disabled=!sessionCheckpoint && !sessionFirstUnread;
   $('#lastReadButton').textContent=sessionCheckpoint?'↑ Last read':'↑ First unread';
   $('#content').classList.toggle('app-view-content',!!APP_VIEWS[channel]);
@@ -244,8 +246,10 @@ function navigate(channel) {
   closeSidebar();
 }
 function projectCard(project) {
-  const image = safeImage(project.image), url = safeUrl(project.url);
-  return `<button class="project-card" data-project="${esc(project.id)}" aria-label="View ${esc(project.title)}"><div class="project-preview">${image ? `<img src="${esc(image)}" alt="Preview of ${esc(project.title)}">` : `<div class="project-art${isAppStoreProject(project) ? ' app-wordmark' : ''}">${isAppStoreProject(project) ? esc(project.title) : '✦'}</div>`}<span class="preview-badge">${project.builtIn ? 'Original prototype' : isAppStoreProject(project) ? 'App' : 'Website'}</span></div><div class="project-details"><span class="project-category">${esc(project.category)}</span><h3>${esc(project.title)}</h3><p>${esc(project.description)}</p><div class="project-bottom"><span>${url ? esc(domainOf(url)) : 'Concept preview'}</span><b>${commentCount('project',project.id)} comments · Explore ↗</b></div></div></button>`;
+  const url = safeUrl(project.url);
+  if (url) return `<a class="preview-link project-source-link" href="${esc(url)}" target="_blank" rel="noopener noreferrer" aria-label="Open ${esc(project.title)} on ${isAppStoreProject(project) ? 'the App Store' : esc(domainOf(url))}">${linkPreview({...project,kind:project.category})}</a>`;
+  const image = safeImage(project.image);
+  return `<button class="project-card" data-project="${esc(project.id)}" aria-label="View ${esc(project.title)}"><div class="project-preview">${image ? `<img src="${esc(image)}" alt="Preview of ${esc(project.title)}">` : '<div class="project-art">✦</div>'}<span class="preview-badge">${project.builtIn ? 'Original prototype' : 'Website'}</span></div><div class="project-details"><span class="project-category">${esc(project.category)}</span><h3>${esc(project.title)}</h3><p>${esc(project.description)}</p><div class="project-bottom"><span>Concept preview</span><b>Explore ↗</b></div></div></button>`;
 }
 function render() {
   if(activeChannel==='home')renderHome();
@@ -254,9 +258,26 @@ function render() {
 }
 function renderHome() {$('#content').innerHTML=aboutThread();}
 function linkPreview(entry) {
-  const image = safeImage(entry.image), url = safeUrl(entry.url);
-  return `<div class="link-preview"><div class="link-preview-visual">${image ? `<img src="${esc(image)}" alt="Preview of ${esc(entry.title)}">` : `<div class="link-preview-art"><span>${esc(entry.domain || domainOf(url) || 'THE WEB')}</span><strong>${esc(entry.title)}</strong></div>`}</div><div class="link-preview-copy"><small>${esc(entry.domain || domainOf(url) || entry.kind)}</small><strong>${esc(entry.title)}</strong><p>${esc(entry.description)}</p></div></div>`;
+  const url = safeUrl(entry.url), metadata = LINK_PREVIEWS[url] || {};
+  const image = safeImage(entry.image) || ChannelFeeds.previewImage(entry.image) || ChannelFeeds.previewImage(metadata.image);
+  const title = metadata.title || entry.title;
+  const description = metadata.description || entry.description;
+  const site = metadata.site || entry.domain || domainOf(url) || entry.kind;
+  return `<div class="link-preview source-preview ${image ? 'has-source-image' : ''}">${image ? `<div class="source-preview-image"><img src="${esc(image)}" alt="${esc(title)} — preview from ${esc(site)}" loading="lazy" decoding="async" referrerpolicy="no-referrer"></div>` : ''}<div class="link-preview-copy"><small>${esc(site)}${domainOf(url) && site !== domainOf(url) ? ` · ${esc(domainOf(url))}` : ''}</small><strong>${esc(title)}</strong><p>${esc(description)}</p>${url ? '<span class="source-preview-open">Open original ↗</span>' : ''}</div></div>`;
 }
+function renderChannelFilters() {
+  const records = channelRecords(activeChannel), options = ChannelFilters.options(records,activeChannel);
+  const filter = channelFilters[activeChannel] ||= {type:'',year:'',query:''};
+  const typeControls = activeChannel === 'websites'
+    ? `<div class="filter-types" role="group" aria-label="Project type">${['',...options.types].map(type=>`<button type="button" data-filter-type="${esc(type)}" aria-pressed="${filter.type===type}">${type||'All'}</button>`).join('')}</div>`
+    : options.types.length > 1 ? `<label class="filter-select">Type <select id="channelTypeFilter" aria-label="Filter by type"><option value="">All types</option>${options.types.map(type=>`<option ${filter.type===type?'selected':''}>${esc(type)}</option>`).join('')}</select></label>` : '';
+  $('#channelFilters').innerHTML = `${typeControls}${options.years.length > 1 ? `<label class="filter-select">Year <select id="channelYearFilter" aria-label="Filter by year"><option value="">All years</option>${options.years.map(year=>`<option ${filter.year===year?'selected':''}>${year}</option>`).join('')}</select></label>` : ''}<input id="channelQueryFilter" type="search" aria-label="Search this channel" placeholder="Search this channel…" value="${esc(filter.query)}"><span id="channelFilterCount" role="status" aria-live="polite"></span>`;
+}
+function applyChannelFilter() {
+  renderChannel(false);
+  positionChannelAtBottom();
+}
+
 function messageTimestamp(value) {
   if (!value || !Number.isFinite(Date.parse(value))) return '<span class="message-timestamp">from the collection</span>';
   const dateOnly = /^\d{4}-\d{2}-\d{2}$/.test(value);
@@ -265,8 +286,14 @@ function messageTimestamp(value) {
   if (!dateOnly) Object.assign(options,{hour:'numeric',minute:'2-digit',timeZoneName:'short'});
   return `<time class="message-timestamp" datetime="${esc(value)}">${esc(date.toLocaleString(undefined,options))}</time>`;
 }
-function renderChannel() {
-  const meta=channelMeta(activeChannel),list=ChannelReadState.ordered(channelRecords(activeChannel));
+function renderChannel(refreshControls=true) {
+  const meta=channelMeta(activeChannel), records=channelRecords(activeChannel);
+  if (refreshControls) renderChannelFilters();
+  const filter=channelFilters[activeChannel] || {};
+  const list=ChannelReadState.ordered(ChannelFilters.apply(records,activeChannel,filter));
+  const filtered=!!(filter.type || filter.year || filter.query?.trim());
+  $('#channelFilterCount').textContent=`${list.length} of ${records.length}`;
+  $('#lastReadButton').disabled=!list.some(record=>String(record.id)===String(sessionCheckpoint || sessionFirstUnread));
   const type=activeChannel==='websites'?'project':'entry';
   const body=list.map(record=>{
     const date=record.publishedAt||record.created;
@@ -277,7 +304,7 @@ function renderChannel() {
     const divider=String(record.id)===sessionCheckpoint?'<div class="read-divider last-read-divider">You left off here</div>':record.id===sessionFirstUnread?'<div class="read-divider">New since your last visit</div>':'';
     return `${divider}<article class="message timeline-message" data-message-id="${esc(record.id)}"><div class="message-avatar tyler-avatar"><img src="assets/tyler-avatar.png" alt="" width="40" height="40"></div><div class="message-body"><div class="message-meta"><strong>${record.source === 'notion' ? 'Tyler’s newsletter agent' : 'Tyler'}</strong>${messageTimestamp(date)}</div><p>${ChannelFeeds.linkedText(record.note||record.description||'')}</p>${attachment}<button class="comment-link" data-${type}="${esc(record.id)}">♧ &nbsp; ${commentCount(type,record.id)} comments · Open thread</button></div></article>`;
   }).join('');
-  $('#content').innerHTML=`<div class="feed channel-feed"><div class="channel-intro"><div class="channel-symbol">#</div><h1>${esc(meta.title)}</h1><p>${esc(meta.intro || `${meta.description}.`)}</p>${safeUrl(meta.sourceUrl)?`<a class="channel-source-link" href="${esc(safeUrl(meta.sourceUrl))}" target="_blank" rel="noopener">${esc(meta.sourceLabel)}</a>`:''}</div><div class="feed-day">Beginning of #${esc(meta.title)}</div>${body||`<div class="empty-channel">${esc(meta.empty || 'Nothing here yet. More to share soon.')}</div>`}<div class="feed-end">You’re at the latest.</div></div>`;
+  $('#content').innerHTML=`<div class="feed channel-feed"><div class="channel-intro"><div class="channel-symbol">#</div><h1>${esc(meta.title)}</h1><p>${esc(meta.intro || `${meta.description}.`)}</p>${safeUrl(meta.sourceUrl)?`<a class="channel-source-link" href="${esc(safeUrl(meta.sourceUrl))}" target="_blank" rel="noopener">${esc(meta.sourceLabel)}</a>`:''}</div><div class="feed-day">Beginning of #${esc(meta.title)}</div>${body||`<div class="empty-channel">${esc(filtered ? 'No matches. Try another filter or search.' : meta.empty || 'Nothing here yet. More to share soon.')}</div>`}<div class="feed-end">${filtered ? 'End of these results.' : 'You’re at the latest.'}</div></div>`;
 }
 function renderShore() {
   $('#shoreContent').innerHTML=`<div class="shore-player"><iframe id="shorePlayer" title="Live beach camera: Seaside Park, New Jersey" src="https://coastalcameranetwork.com/webcams/seaside-park/webcam-demo.php" allow="autoplay; encrypted-media; picture-in-picture; fullscreen" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div><div class="shore-caption"><span>Seaside Park · beach<br>Borough of Seaside Park / Coastal Camera Network</span><button class="secondary-button" data-action="reload-shore">Reconnect ↻</button></div><p class="shore-help">Live from the beach. Press play if needed; use the player for fullscreen. If the feed stops, try reconnecting.</p><a class="shore-source" href="https://www.seasideparknj.org/community/live_webcam.php" target="_blank" rel="noopener">Camera source & current broadcast ↗</a>`;
@@ -511,6 +538,26 @@ document.addEventListener('click',async event=>{
   if(target.closest('[data-close-search]')&&(target===target.closest('[data-close-search]')||target.tagName==='BUTTON'))closeSearch();
 });
 document.addEventListener('keydown',event=>{if((event.metaKey||event.ctrlKey)&&event.key.toLowerCase()==='k'){event.preventDefault();openSearch();}if(event.key==='Escape'){closeSearch();closeModal();closeDesktopMenu();closeSidebar();}});
+$('#channelFilters').addEventListener('click',event=>{
+  const button=event.target.closest('[data-filter-type]');if(!button)return;
+  channelFilters[activeChannel].type=button.dataset.filterType;
+  $('#channelFilters').querySelectorAll('[data-filter-type]').forEach(item=>item.setAttribute('aria-pressed',String(item===button)));
+  applyChannelFilter();
+});
+$('#channelFilters').addEventListener('input',event=>{
+  if(event.target.id!=='channelQueryFilter')return;
+  channelFilters[activeChannel].query=event.target.value;applyChannelFilter();
+});
+$('#channelFilters').addEventListener('change',event=>{
+  const key={channelTypeFilter:'type',channelYearFilter:'year'}[event.target.id];
+  if(key){channelFilters[activeChannel][key]=event.target.value;applyChannelFilter();}
+});
+document.addEventListener('error',event=>{
+  if(event.target.matches?.('.source-preview-image img')) {
+    event.target.closest('.source-preview-image').hidden=true;
+    event.target.closest('.source-preview').classList.remove('has-source-image');
+  }
+},true);
 $('#searchTrigger').addEventListener('click',openSearch);
 $('#headerSearch').addEventListener('click',openSearch);
 $('#headerAdd').addEventListener('click',()=>activeChannel==='websites'?projectEditor():entryEditor(activeChannel));
