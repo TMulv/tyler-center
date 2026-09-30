@@ -15,7 +15,7 @@ Serve locally with `python3 -m http.server 8766`, or publish this directory from
 - Search across the site's content.
 - Chat-style link previews, website cards, video recommendations, and photo attachments.
 - About me as a chat thread, a personal details toggle, five redacted case-study previews, and a tactile Betting Antelope logo attachment.
-- Jersey Shore opens a separate draggable, resizable window showing the Borough of Seaside Park’s live beach broadcast. Closing it destroys the player and stops playback.
+- Jersey Shore opens a separate draggable, resizable Harvey Cedars beach window. The provider-approved player is pending; the window currently offers a link to NJ Beach Cams. Closing it removes any configured player and stops playback.
 - An Easter egg under View → Take a break opens playable Spider Solitaire: 1/2/4 suits, legal moves, deals, completed runs, hints, undo, and a game saved on this device.
 - Comments on each item. Channel editors open with the plus button; items can be edited or removed from their detail views.
 - The File, Rec, View, and Window menus, including Surprise Me for a random video.
@@ -76,3 +76,9 @@ See `assets/ASSET-NOTES.md` for the Betting Antelope source and texture edit.
 ## Reader accounts and rocket menus
 
 Click a channel’s rocket for **Mark all as read**, or **Mark every channel as read**. Private reader accounts are implemented behind a deployment gate. See [READER-ACCOUNTS.md](READER-ACCOUNTS.md) for backend setup, email delivery, privacy checks, and the exact remaining activation steps.
+
+## Harvey Cedars player setup
+
+The public NJ Beach Cams page is not a player embed. Its direct HLS stream returned HTTP 403 during a check on September 30, 2026. Coastal Camera Network [offers free embeds on request](https://coastalcameranetwork.com/streaming-experts/): request the Harvey Cedars camera for `https://tyler.center` through their [contact page](https://coastalcameranetwork.com/contact-us/?partner=camera).
+
+Once they supply an authorized iframe player URL, set `SHORE_EMBED_URL` in `app.js`. If they supply a script-based widget, integrate that widget and its teardown instead. Use their documented muted-autoplay option; granting iframe autoplay permission alone does not start playback. Keep visible play/sound controls, credit, and the external fallback. Test actual live playback from the production domain and verify closing/reopening stops/restarts it. Until then, leave the URL empty and show the honest unavailable state.
