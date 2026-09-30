@@ -1,0 +1,8 @@
+/* Marquee stays on the desktop, beneath application windows and menus. */
+.desktop-selection-box{position:fixed;z-index:2;pointer-events:none;border:1px solid #e2e8b5;background:#bfcf9452;box-shadow:inset 0 0 0 1px #233e4e70;border-radius:1px}
+.desktop-selecting,.desktop-selecting *{user-select:none!important;-webkit-user-select:none!important;cursor:crosshair!important}
+.desktop-icon.desktop-selected{outline:1px solid #e2e8b5;outline-offset:6px;background:#233e4e55;border-radius:2px}
+.desktop-icon.desktop-selected>span:last-child{background:#ced9ab;color:#17384b}
+.desktop-icon.desktop-selected .desktop-icon-art{box-shadow:0 0 0 2px #d8e4ac,3px 4px 0 #10263499}
+.desktop-selection-status{position:fixed;width:1px;height:1px;overflow:hidden;clip-path:inset(50%);white-space:nowrap;pointer-events:none}
+@media(max-width:760px){.desktop-selection-box{display:none}}
