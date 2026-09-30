@@ -17,7 +17,7 @@ Serve locally with `python3 -m http.server 8766`, or publish this directory from
 - Search across the site's content.
 - Chat-style link previews, website cards, video recommendations, and photo attachments.
 - About me as a chat thread, a personal details toggle, and five redacted case-study file previews. Betting Antelope uses its textured logo as its posting avatar.
-- Jersey Shore opens a separate draggable, resizable window with AtTheShore’s standalone Ocean City Fishing Club fishing pier player. The full camera website is not embedded. Closing the window removes the player and stops playback.
+- Kanye2024.com shows Tyler's first domain purchase and sale with a typewriter SOLD stamp and a linked Namecheap ownership-transfer confirmation.
 - An Easter egg under View → Take a break opens playable Spider Solitaire: 1/2/4 suits, legal moves, deals, completed runs, hints, undo, and a game saved on this device.
 - Comment/thread entry points on posts and a private-channel setup guide. Real reader accounts and public comments remain behind the activation gate; public built projects have no visitor edit control.
 - The File, Rec, View, and Window menus, including Surprise Me for a random video.
@@ -35,7 +35,7 @@ Built projects come from the public Notion snapshot plus the standalone TomoTomo
 - `index.html`: desktop and app layout
 - `styles.css` and `v2.css`: layout and component foundations
 - `texture.css`: textured paper, ink-blue, faded-red, and typewriter design
-- `chat-apps.css`: chat files, camera window, and game surfaces
+- `chat-apps.css`: chat files and game surfaces
 - `about.js`: biography and anonymized case-study messages
 - `spider-engine.js` and `spider.js`: card rules and playable UI
 - `app.js`: content and interactions
@@ -66,9 +66,7 @@ Notion supplies built projects, Read Later, Watch or Listen Later, and finished 
 
 See [FEED-SETUP.md](FEED-SETUP.md) for approved fields, source IDs, date mappings, publishing, and limitations.
 
-## Camera source and testing
-
-The beach window uses [AtTheShore’s standalone player](https://attheshore.com/combined-player?id=14thstreetpierpzt) from the [Ocean City Fishing Club camera page](https://attheshore.com/camera/ocean-city-fishing-club-fishing-pier-pzt-cam). Playback and outages are controlled by the provider. The source link and Reconnect button stay available. No private stream URLs or expiring tokens are stored.
+## Testing
 
 Run `node --test tests/*.test.cjs` for reading-state and Spider rules tests.
 
@@ -78,9 +76,3 @@ See `assets/ASSET-NOTES.md` for the Betting Antelope source and texture edit.
 ## Reader accounts and rocket menus
 
 Click a channel’s rocket for **Mark all as read**, or **Mark every channel as read**. Private reader accounts are implemented behind a deployment gate. See [READER-ACCOUNTS.md](READER-ACCOUNTS.md) for backend setup, email delivery, privacy checks, and the exact remaining activation steps.
-
-## Ocean City player setup
-
-`SHORE_EMBED_URL` in `app.js` points to the public standalone player already embedded on AtTheShore’s camera page. The endpoint responded successfully without `X-Frame-Options` or CSP frame restrictions on September 30, 2026. Its own video element requests autoplay; visitors may still need to press Play because of browser autoplay policy. We grant autoplay/fullscreen permission but do not claim that guarantees playback.
-
-Keep the camera ID `14thstreetpierpzt`, visible controls, provider credit, source link, and Reconnect button. Closing destroys the iframe; opening or reconnecting creates a fresh player so the provider can manage stream authorization. Never copy the short-lived media URLs out of the provider’s player.

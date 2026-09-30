@@ -13,7 +13,18 @@ const STARTER_PROJECTS = [{
   id:'tomotomo', title:'TomoTomo', category:'App · iPhone & iPad',
   description:'Read and listen without losing your place. TomoTomo keeps your ebooks and audiobooks in sync, using the files you already own.',
   url:'https://apps.apple.com/us/app/tomotomo/id6778601579', image:'', created:'2026-09-30'
+}, {
+  id:'domain-3eb8153c8a3e80d89ceec81441ec3b55', title:'Kanye2024.com', category:'Website · Sold',
+  description:'Sold the domain. Transfer confirmation below.',
+  url:'', image:'', projectStatus:'Sold', created:'2016-12-03'
 }];
+const PROJECT_ATTACHMENTS = {
+  'domain-3eb8153c8a3e80d89ceec81441ec3b55': {
+    image:'assets/kanye2024-transfer-confirmation.png',
+    title:'Kanye2024.com · proof of transfer',
+    description:'Namecheap confirmed the new owner accepted the domain on December 21, 2016.'
+  }
+};
 const STARTER_ENTRIES = [
   {id:'viral-video', channel:'watch', title:'Never Gonna Give You Up', kind:'Video · demo', domain:'YouTube', url:'https://www.youtube.com/watch?v=dQw4w9WgXcQ', description:'A demo video from the original site. Replace it with your own recommendations.', note:'A small piece of internet history.', image:''},
   {id:'why-site', channel:'writing', title:'Why this site exists', kind:'Sample post', domain:"Tyler.Center", url:'', description:'A shelf for the stuff I keep texting people about.', note:'A sample introduction. Replace this with your own blog post or a Betting Antelope article.', image:''}
@@ -298,6 +309,8 @@ function navigate(channel) {
 }
 function projectCard(project) {
   const url = safeUrl(project.url);
+  const attachment = PROJECT_ATTACHMENTS[project.id];
+  if (project.projectStatus==='Sold') return `<div class="sold-project"><div class="sold-project-heading"><span class="sold-stamp">SOLD</span><span class="project-status">${esc(project.title)} - first domain purchase and sale i made</span></div>${attachment ? `<a class="preview-link transfer-preview" href="${esc(attachment.image)}" target="_blank" rel="noopener noreferrer" aria-label="Open proof of Kanye2024.com ownership transfer"><div class="link-preview source-preview"><div class="transfer-preview-image"><img src="${esc(attachment.image)}" alt="Namecheap confirms the transfer of Kanye2024.com on December 21, 2016" loading="lazy"></div><div class="link-preview-copy"><small>Namecheap · December 21, 2016</small><strong>${esc(attachment.title)}</strong><p>${esc(attachment.description)}</p><span class="source-preview-open">View proof of transfer ↗</span></div></div></a>` : ''}</div>`;
   if (url) return `<a class="preview-link project-source-link" href="${esc(url)}" target="_blank" rel="noopener noreferrer" aria-label="Open ${esc(project.title)} on ${isAppStoreProject(project) ? 'the App Store' : esc(domainOf(url))}">${linkPreview({...project,channel:'websites',kind:project.category})}</a>`;
   const image = safeImage(project.image);
   return `<button class="project-card" data-project="${esc(project.id)}" aria-label="View ${esc(project.title)}"><div class="project-preview">${image ? `<img src="${esc(image)}" alt="Preview of ${esc(project.title)}">` : '<div class="project-art">✦</div>'}<span class="preview-badge">${project.builtIn ? 'Original prototype' : 'Website'}</span></div><div class="project-details"><span class="project-category">${esc(project.category)}</span><h3>${esc(project.title)}</h3><p>${esc(project.description)}</p><div class="project-bottom"><span>Concept preview</span><b>Explore ↗</b></div></div></button>`;
@@ -368,32 +381,12 @@ function renderChannel(refreshControls=true) {
   }).join('');
   $('#content').innerHTML=`<div class="feed channel-feed"><div class="channel-intro"><div class="channel-symbol">#</div><h1>${esc(meta.title)}</h1><p>${esc(meta.intro || `${meta.description}.`)}</p>${safeUrl(meta.sourceUrl)?`<a class="channel-source-link" href="${esc(safeUrl(meta.sourceUrl))}" target="_blank" rel="noopener">${esc(meta.sourceLabel)}</a>`:''}</div><div class="feed-day">Beginning of #${esc(meta.title)}</div>${body||`<div class="empty-channel">${esc(filtered ? 'No matches. Try another filter or search.' : meta.empty || 'Nothing here yet. More to share soon.')}</div>`}<div class="feed-end">${filtered ? 'End of these results.' : 'You’re at the latest.'}</div></div>`;
 }
-// Standalone public player used by AtTheShore; it manages its own stream tokens.
-const SHORE_EMBED_URL = 'https://attheshore.com/combined-player?id=14thstreetpierpzt';
-function renderShore() {
-  const embed=safeUrl(SHORE_EMBED_URL);
-  const player=embed
-    ? `<div class="shore-player"><iframe id="shorePlayer" title="Live beach camera: Ocean City Fishing Club fishing pier, New Jersey" src="${esc(embed)}" allow="autoplay; encrypted-media; picture-in-picture; fullscreen" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>`
-    : `<div class="shore-player shore-unavailable"><span aria-hidden="true">≋</span><h2>Ocean City Fishing Club</h2><p>In-window playback isn’t connected yet.<br>You can watch on AtTheShore.</p><a class="secondary-button" href="https://attheshore.com/camera/ocean-city-fishing-club-fishing-pier-pzt-cam" target="_blank" rel="noopener">Open beach camera ↗</a></div>`;
-  $('#shoreContent').innerHTML=`${player}<div class="shore-caption"><span>Ocean City Fishing Club · Fishing pier<br>Ocean City, NJ / AtTheShore</span>${embed?'<button class="secondary-button" data-action="reload-shore">Reconnect ↻</button>':''}</div>${embed?'<p class="shore-help">If playback doesn’t start, press play. Use the player controls for sound and fullscreen.</p><a class="shore-source" href="https://attheshore.com/camera/ocean-city-fishing-club-fishing-pier-pzt-cam" target="_blank" rel="noopener">Camera source & current broadcast ↗</a>':''}`;
-}
-function openShore() {
-  closeSidebar();closeDesktopMenu();
-  const camera=$('#shoreWindow');
-  if(camera.hidden){camera.hidden=false;renderShore();}
-  bringFront(camera);$('#shoreClose').focus();
-}
-function closeShore() {
-  $('#shoreWindow').hidden=true;$('#shoreContent').innerHTML='';
-  const trigger=matchMedia('(max-width:760px)').matches?$('#mobileMenu'):document.querySelector('[data-desktop-open="shore"]');
-  trigger.focus();
-}
 function commentSection(type,id) {
   return globalThis.ReaderComments?.section(type,id) || '<p>Comments are being connected.</p>';
 }
 function showProject(project) {
-  const image=safeImage(project.image),url=safeUrl(project.url);
-  $('#modalRoot').innerHTML = `<div class="modal-overlay" data-close-modal><div class="modal detail-modal" role="dialog" aria-modal="true" aria-label="${esc(project.title)}"><div class="modal-top"><span class="eyebrow">${esc(project.category)}</span><button class="close-button" data-close-modal aria-label="Close">×</button></div><div class="modal-body"><h2>${esc(project.title)}</h2><p class="modal-description">${esc(project.description)}</p>${image ? `<div class="modal-preview"><img src="${esc(image)}" alt="Preview of ${esc(project.title)}"></div>` : ''}<div class="modal-actions">${url ? `<a class="primary-button" href="${esc(url)}" target="_blank" rel="noopener noreferrer">${isAppStoreProject(project) ? 'View on the App Store' : 'Visit website'} ↗</a>` : '<span class="empty-note">Original website prototype.</span>'}</div>${commentSection('project',project.id)}</div></div></div>`;
+  const image=safeImage(project.image),url=project.projectStatus==='Sold'?'':safeUrl(project.url);
+  $('#modalRoot').innerHTML = `<div class="modal-overlay" data-close-modal><div class="modal detail-modal" role="dialog" aria-modal="true" aria-label="${esc(project.title)}"><div class="modal-top"><span class="eyebrow">${esc(project.category)}</span><button class="close-button" data-close-modal aria-label="Close">×</button></div><div class="modal-body"><h2>${esc(project.title)}</h2><p class="modal-description">${esc(project.description)}</p>${project.projectStatus==='Sold'?projectCard(project):image ? `<div class="modal-preview"><img src="${esc(image)}" alt="Preview of ${esc(project.title)}"></div>` : ''}<div class="modal-actions">${url ? `<a class="primary-button" href="${esc(url)}" target="_blank" rel="noopener noreferrer">${isAppStoreProject(project) ? 'View on the App Store' : 'Visit website'} ↗</a>` : project.projectStatus==='Sold'?'':'<span class="empty-note">Original website prototype.</span>'}</div>${commentSection('project',project.id)}</div></div></div>`;
   bindCommentForm();
 }
 function showEntry(entry) {
@@ -568,14 +561,14 @@ document.addEventListener('click',async event=>{
   if(!target.closest('.rocket-menu'))closeRocketMenu();
   const caseFile=target.closest('[data-case-study]');if(caseFile){showCaseStudy(Number(caseFile.dataset.caseStudy));return;}
   const menuButton=target.closest('[data-menu]');if(menuButton){openDesktopMenu(menuButton.dataset.menu,menuButton);return;}
-  const menuAction=target.closest('[data-menu-action]');if(menuAction){const action=menuAction.dataset.menuAction;closeDesktopMenu();$('#desktopMenuHost').dataset.open='';if(action==='shore')openShore();if(action==='spider')showShelf(action);if(action==='linkedin')openLinkedIn();if(action==='email')contactEmail()?window.location.href=`mailto:${contactEmail()}`:toast('Add Tyler’s email to enable this link.');if(action==='instagram')instagramUrl()?window.open(instagramUrl(),'_blank','noopener,noreferrer'):toast('Add Tyler’s Instagram profile to enable this link.');if(action==='twitter')window.open(safeUrl(CONTACT.twitter),'_blank','noopener,noreferrer');if(action==='recommend')recommendModal();if(action==='drafts')draftsModal();if(action==='surprise')surpriseMe();if(action==='show-shelf')showShelf();if(action==='center-window'){const element=$('#appWindow');element.style.left='';element.style.top='';element.style.transform='';toast('Window centered.');}return;}
+  const menuAction=target.closest('[data-menu-action]');if(menuAction){const action=menuAction.dataset.menuAction;closeDesktopMenu();$('#desktopMenuHost').dataset.open='';if(action==='spider')showShelf(action);if(action==='linkedin')openLinkedIn();if(action==='email')contactEmail()?window.location.href=`mailto:${contactEmail()}`:toast('Add Tyler’s email to enable this link.');if(action==='instagram')instagramUrl()?window.open(instagramUrl(),'_blank','noopener,noreferrer'):toast('Add Tyler’s Instagram profile to enable this link.');if(action==='twitter')window.open(safeUrl(CONTACT.twitter),'_blank','noopener,noreferrer');if(action==='recommend')recommendModal();if(action==='drafts')draftsModal();if(action==='surprise')surpriseMe();if(action==='show-shelf')showShelf();if(action==='center-window'){const element=$('#appWindow');element.style.left='';element.style.top='';element.style.transform='';toast('Window centered.');}return;}
   if(!target.closest('.desktop-dropdown')){closeDesktopMenu();$('#desktopMenuHost').dataset.open='';}
   const channel=target.closest('[data-channel]');if(channel){closeSearch();showShelf(channel.dataset.channel);return;}
   const project=target.closest('[data-project]');if(project){const record=projects.find(item=>item.id===project.dataset.project);if(record)showProject(record);return;}
   const entry=target.closest('[data-entry]');if(entry){const record=allEntries().find(item=>item.id===entry.dataset.entry);if(record)showEntry(record);return;}
   const searchProject=target.closest('[data-search-project]');if(searchProject){const record=projects.find(item=>item.id===searchProject.dataset.searchProject);closeSearch();showShelf('websites');if(record)showProject(record);return;}
   const searchEntry=target.closest('[data-search-entry]');if(searchEntry){const record=allEntries().find(item=>item.id===searchEntry.dataset.searchEntry);closeSearch();if(record){showShelf(record.channel);showEntry(record);}return;}
-  const actionButton=target.closest('[data-action]');if(actionButton){const action=actionButton.dataset.action,id=actionButton.dataset.id;if(action==='reload-shore')renderShore();if(action==='wallpaper-credit')wallpaperCredit();if(action==='edit-entry'){const record=entries.find(item=>item.id===id);if(record)entryEditor(record.channel,record);}if(action==='delete-entry'){const record=entries.find(item=>item.id===id);if(record&&confirm(`Remove "${record.title}" from this browser?`)){try{await removeRecord('entry',id);closeModal();toast('Item removed.');}catch{toast('Could not remove the item.');}}}if(action==='add-entry')entryEditor(activeChannel);if(action==='surprise')surpriseMe();return;}
+  const actionButton=target.closest('[data-action]');if(actionButton){const action=actionButton.dataset.action,id=actionButton.dataset.id;if(action==='wallpaper-credit')wallpaperCredit();if(action==='edit-entry'){const record=entries.find(item=>item.id===id);if(record)entryEditor(record.channel,record);}if(action==='delete-entry'){const record=entries.find(item=>item.id===id);if(record&&confirm(`Remove "${record.title}" from this browser?`)){try{await removeRecord('entry',id);closeModal();toast('Item removed.');}catch{toast('Could not remove the item.');}}}if(action==='add-entry')entryEditor(activeChannel);if(action==='surprise')surpriseMe();return;}
   if(target.closest('[data-close-modal]')&&(target===target.closest('[data-close-modal]')||target.closest('[data-close-modal]').tagName==='BUTTON')){closeModal();return;}
   if(target.closest('[data-close-search]')&&(target===target.closest('[data-close-search]')||target.tagName==='BUTTON'))closeSearch();
 });
@@ -611,14 +604,10 @@ $('#mobileScrim').addEventListener('click',closeSidebar);
 $('#windowClose').addEventListener('click',hideShelf);
 $('#windowMinimize').addEventListener('click',hideShelf);
 $('#windowZoom').addEventListener('click',()=>toggleZoom($('#appWindow')));
-document.querySelectorAll('[data-desktop-open]').forEach(button=>button.addEventListener('click',()=>button.dataset.desktopOpen==='shore'?openShore():showShelf(button.dataset.desktopOpen)));
+document.querySelectorAll('[data-desktop-open]').forEach(button=>button.addEventListener('click',()=>showShelf(button.dataset.desktopOpen)));
 $('#appWindow').addEventListener('pointerdown',()=>bringFront($('#appWindow')));
 makeDraggable($('#appWindow'),$('#appWindow .topbar'));
 makeResizable($('#appWindow'),$('#windowResize'));
-$('#shoreClose').addEventListener('click',closeShore);
-$('#shoreWindow').addEventListener('pointerdown',()=>bringFront($('#shoreWindow')));
-makeDraggable($('#shoreWindow'),$('#shoreWindow .topbar'));
-makeResizable($('#shoreWindow'),$('#shoreResize'));
 updateDesktopClock();setInterval(updateDesktopClock,30000);
 initializeLinkedIn();
 initialize();

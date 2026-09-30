@@ -30,12 +30,14 @@ Read this file before changing the site. These are Tyler's standing project pref
 - The verified badge identifies the trusted site owner; a matching username or display name must never grant it.
 - Keep copy short, direct, and human. No employer name in the opening bio and no named clients in the case studies.
 - Keep Spider Solitaire as the Take a break Easter egg; label difficulty by 1, 2, or 4 suits.
-- File includes LinkedIn, Instagram, and Twitter / X. Instagram and Twitter use `tyler_mulvey`. The beach camera stays accessible from its desktop icon, without a Jersey Shore entry under View.
+- File includes LinkedIn, Instagram, and Twitter / X. Instagram and Twitter use `tyler_mulvey`.
+- Keep the broken webcam and its desktop, mobile, and menu controls removed.
+- Kanye2024.com appears as Tyler's first domain purchase and sale. Show the Namecheap transfer confirmation as proof, with a typewriter SOLD stamp. Do not link to the domain's current owner or show a sale price.
 
 ## Publishing, privacy, and verification
 
 - Continue the requested change through appropriate verification and authorized publication; do not stop at a plan. Respect explicit requests to keep work local or review-only.
-- Preserve others' local edits. Before pushing, inspect the actual remote: this checkout's `origin` currently points to an old local checkout. The website repository is `https://github.com/TMulv/tyler-center.git`. See `FEED-SETUP.md` for the commit/rebase/push workflow.
+- Preserve others' local edits. Before pushing, fetch the current `https://github.com/TMulv/tyler-center.git` branch and integrate new work without overwriting it. See `FEED-SETUP.md` for the commit/rebase/push workflow.
 - When publishing, verify GitHub Pages built the intended commit before calling it live. Distinguish a configured integration, a successful sync, and verified browser behavior. Report remaining blockers plainly.
 - Use focused checks for small changes and meaningful regression tests for behavioral changes. Do not claim a visual or playback check based only on HTTP success.
 - Public Notion sync uses only approved fields and respects privacy/status filters. Read Later publishes titles, article links, saved dates, and reading statuses; exclude notes and private PDFs. Never expose private inbox links, files, or tokens.
@@ -50,11 +52,3 @@ Read this file before changing the site. These are Tyler's standing project pref
 - Empty dates display “Date not set.” Missing, renamed, ambiguous, or invalid date properties fail the sync and preserve the last good snapshot.
 - Keep the standalone TomoTomo entry separate from the Notion domains source.
 - When changing this mapping, run the date regression tests and compare the public snapshot with the selected dates in Notion. See `FEED-SETUP.md`.
-
-## Beach camera
-
-- The Jersey Shore icon opens its own draggable, resizable window, separate from the channel window.
-- Embed only the provider-approved player, never the full webcam website.
-- Use AtTheShore’s standalone `combined-player?id=14thstreetpierpzt` player for the Ocean City Fishing Club camera. The provider manages its own stream tokens; never save expiring stream URLs or generate tokens. Do not proxy around stream restrictions.
-- Keep the source credit and an external fallback link. Closing the window must remove the player and stop playback.
-- An HTTP success or iframe load event does not prove video playback. Verify playback in a browser before reporting it working; state clearly when verification is blocked.
