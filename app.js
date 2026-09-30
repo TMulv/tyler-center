@@ -3,7 +3,7 @@ const CONTACT = { email: '', instagram: '', linkedin: 'https://www.linkedin.com/
 
 const CHANNELS = [
   {id:'websites', title:'websites', description:"Websites I've built"},
-  {id:'articles', title:'articles', description:'Biased news. Leaning Tyler-wing', intro:'All news is biased. This is mine. Welcome to Tyler.Center—you’re leaning Tyler-wing.'},
+  {id:'articles', title:'articles', description:"News that's biasing me", intro:"All news is biased, but this is news that's biasing me. (Warning: you may become Tyler leaning after reading what I'm reading.)"},
   {id:'watch', title:'watch', description:'Videos I recommend watching'},
   {id:'writing', title:'writing', description:'Blogs and published writing'},
   {id:'photography', title:'photography', description:'Photos I have taken'}
