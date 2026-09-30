@@ -18,7 +18,8 @@ The rocket beside a channel opens **Mark all as read** for that channel, plus **
 - Resend domain `auth.tyler.center` is verified. Tyler approved the three DNS records, which were saved in Namecheap and checked against its authoritative DNS: DKIM TXT at `resend._domainkey.auth`, CNAME `rsend.auth` → `rsend.forge.rmta.net`, and CNAME `send.auth` → `send.forge.rmta.net`. Existing website and forwarding records were preserved.
 - Tyler completed the private-key handoff. Supabase SMTP uses sender `login@auth.tyler.center`, name `Tyler.Center`, host `smtp.resend.com`, port 465, username `resend`, and a 60-second per-user interval. The key was prepared with Sending access restricted to `auth.tyler.center`; no credential was read, stored locally, or committed.
 - Browser acceptance passed: the real emailed code signed in, the requested username created a private channel, saving a public post persisted across reload, its Read status updated, removal worked, and logout removed the private channel. The test save was removed. Fourteen focused account/guide/unread tests passed.
-- Publish account activation and verify returning-user login on the live domain. A second real inbox/device and deliberately expired code were not exercised; do not describe those as completed. Public comments remain gated separately.
+- Account activation was published in `0952653`; GitHub Pages reported that commit built. The live `https://tyler.center` form delivered a second code, verified it, and opened the existing private channel without asking for a new username. New-reader and returning-reader templates both worked.
+- A second real inbox/device and deliberately expired code were not exercised; do not describe those as completed. Public comments remain gated separately.
 
 ## Account behavior
 
