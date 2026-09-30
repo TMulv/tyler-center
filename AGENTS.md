@@ -32,6 +32,7 @@ Read this file before changing the site. These are Tyler's standing project pref
 - Keep copy short, direct, and human. No employer name in the opening bio and no named clients in the case studies.
 - Keep Spider Solitaire as the Take a break Easter egg; label difficulty by 1, 2, or 4 suits.
 - File includes LinkedIn, Instagram, and Twitter / X. Instagram and Twitter use `tyler_mulvey`.
+- File → Email me and Send me a rec use `mail@tyler.center`, the public address that forwards to Tyler's personal inbox. Make the visitor's final Send step clear whenever recommendations open an email draft.
 - Keep the broken webcam and its desktop, mobile, and menu controls removed.
 - Kanye2024.com appears as Tyler's first domain purchase and sale. Show the Namecheap transfer confirmation as proof, with a typewriter SOLD stamp. Do not link to the domain's current owner or show a sale price.
 
