@@ -2,11 +2,11 @@
 const CONTACT = { email: '', instagram: '', linkedin: 'https://www.linkedin.com/in/tylermulvey/' };
 
 const CHANNELS = [
-  {id:'websites', title:"what i've built", description:"Apps and websites I’ve made"},
-  {id:'articles', title:'articles', description:"What I’m saving to read", intro:"Articles I’m saving for later. I’ll mark them as read when I’ve read them. All news is biased, but this is news that's biasing me. (Warning: you may become Tyler leaning after reading what I'm reading.)"},
+  {id:'websites', title:"what-i've-built", description:"Apps and websites I’ve made"},
+  {id:'articles', title:'read-later', description:"What I’m saving to read", intro:"Articles I’m saving for later. I’ll mark them as read when I’ve read them. All news is biased, but this is news that's biasing me. (Warning: you may become Tyler leaning after reading what I'm reading.)"},
   {id:'watch', title:'watch', description:'Videos I recommend watching'},
   {id:'writing', title:'writing', description:'My NFL picks and writing from Betting Antelope', intro:'My writing on Betting Antelope. New posts show up here when I publish.', managed:true, sourceUrl:'https://bettingantelope.substack.com/', sourceLabel:'Read Betting Antelope ↗'},
-  {id:'newsletters', title:'daily newsletter', description:'Daily highlights from the newsletters I subscribe to', managed:true, intro:'I subscribe to a carefully picked mix of paid and free newsletters. I can’t read every issue every day. My newsletter agent pulls the highlights into one daily digest.', empty:'The first digest will appear here once the archive is connected.'},
+  {id:'newsletters', title:'daily-newsletter', description:'Daily highlights from the newsletters I subscribe to', managed:true, intro:'I subscribe to a carefully picked mix of paid and free newsletters. I can’t read every issue every day. My newsletter agent pulls the highlights into one daily digest.', empty:'The first digest will appear here once the archive is connected.'},
   {id:'photography', title:'photography', description:'Photos I have taken'}
 ];
 const STARTER_PROJECTS = [{
