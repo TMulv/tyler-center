@@ -1,5 +1,5 @@
 // Add Tyler's real contact links here when they are available.
-const CONTACT = { email: '', instagram: '' };
+const CONTACT = { email: '', instagram: '', linkedin: 'https://www.linkedin.com/in/tylermulvey/' };
 
 const CHANNELS = [
   {id:'websites', title:'websites', description:"Websites I've built"},
@@ -33,6 +33,17 @@ const domainOf = value => { const url=safeUrl(value); return url ? new URL(url).
 let projects = [...STARTER_PROJECTS], entries = [...STARTER_ENTRIES], comments = [];
 let database = null, activeChannel = 'home';
 let toastTimer, lastSurpriseId = null, frontLayer = 4;
+let readState = fallbackRead('read-state-v1', {});
+const channelRecords = channel => channel === 'websites' ? projects : entries.filter(entry => entry.channel === channel);
+function markChannelRead(channel) {
+  if (!channelMeta(channel)) return;
+  readState = ChannelReadState.markRead(channelRecords(channel), readState, channel);
+  try { fallbackWrite('read-state-v1', readState); } catch { /* Read markers still work for this session. */ }
+}
+function unreadBadge(channel) {
+  const count = ChannelReadState.count(channelRecords(channel), readState, channel);
+  return count ? `<span class="unread-badge" role="img" aria-label="${count} new ${count === 1 ? 'item' : 'items'}" title="${count} new ${count === 1 ? 'item' : 'items'}"><span aria-hidden="true">🚀</span></span>` : '';
+}
 
 function openDatabase() {
   return new Promise((resolve,reject) => {
@@ -118,11 +129,12 @@ async function addComment(comment) {
 }
 function renderEverything() { renderNav(); render(); }
 function renderNav() {
-  $('#channelNav').innerHTML = CHANNELS.map(channel => `<button class="channel-link ${activeChannel === channel.id ? 'active' : ''}" data-channel="${channel.id}"><span class="hash">#</span><span>${channel.title}</span><span class="channel-count">${channel.id === 'websites' ? projects.length : entries.filter(entry => entry.channel === channel.id).length}</span></button>`).join('');
+  $('#channelNav').innerHTML = CHANNELS.map(channel => `<button class="channel-link ${activeChannel === channel.id ? 'active' : ''}" data-channel="${channel.id}" ${activeChannel === channel.id ? 'aria-current="page"' : ''}><span class="hash">#</span><span>${channel.title}</span><span class="channel-count">${channelRecords(channel.id).length}</span>${unreadBadge(channel.id)}</button>`).join('');
   $('.home-link').classList.toggle('active',activeChannel === 'home');
 }
 function navigate(channel) {
   activeChannel = channel;
+  markChannelRead(channel);
   const meta = channelMeta(channel);
   $('#headerTitle').textContent = channel === 'home' ? 'about-tyler' : meta.title;
   $('#headerDescription').textContent = channel === 'home' ? 'A little introduction' : meta.description;
@@ -144,7 +156,7 @@ function render() {
   else renderPosts();
 }
 function renderHome() {
-  $('#content').innerHTML = `<div class="welcome-hero about-hero"><div class="eyebrow">A NOTE FROM TYLER</div><h1>Hi, I'm <em>Tyler.</em></h1><p>I work at Notion and like building things for the web. This is where I collect the websites I've made, articles I think are worth sharing, videos to watch, things I've written, and photos I've taken.</p><p>Pick a channel and make yourself at home.</p><button class="primary-button" data-channel="websites">See what I've built &nbsp; ↗</button></div><div class="shortcut-grid">${CHANNELS.map(channel => `<button class="shortcut" data-channel="${channel.id}"><span class="shortcut-icon">#</span><strong>${esc(channel.title)}</strong><small>${esc(channel.description)}</small></button>`).join('')}</div><div class="content-tail">A small corner of the internet · Tyler.Center</div>`;
+  $('#content').innerHTML = `<div class="welcome-hero about-hero"><div class="eyebrow"><span class="edition-mark">✳</span> THE PERSONAL CHANNEL</div><h1>Welcome to<br><em>Tyler.Center.</em></h1><p>What I'm making, reading, watching,<br class="wide-break"> and getting into.</p><p class="welcome-prompt">Pick a channel. See what's new.</p><button class="primary-button" data-channel="websites">See what I've built &nbsp; ↗</button><span class="hero-stamp" aria-hidden="true">ALWAYS<br>IN PROGRESS</span></div><div class="channel-directory-heading"><span>FIND SOMETHING GOOD</span><span>01—05 ↙</span></div><div class="shortcut-grid">${CHANNELS.map((channel,index) => `<button class="shortcut" data-channel="${channel.id}"><span class="shortcut-number">0${index+1}</span>${unreadBadge(channel.id)}<span class="shortcut-icon" aria-hidden="true">↗</span><strong>#${esc(channel.title)}</strong><small>${esc(channel.description)}</small></button>`).join('')}</div><div class="content-tail"><span>Tyler Mulvey / Tyler.Center</span><button data-action="wallpaper-credit">Wallpaper: NASA / Unsplash ↗</button></div>`;
 }
 function renderWebsites() {
   const ordered = [...projects].sort((a,b) => (a.builtIn === b.builtIn ? String(b.created).localeCompare(String(a.created)) : a.builtIn ? -1 : 1));
@@ -231,9 +243,76 @@ async function submitEntry(event,existing) {
   catch {error.textContent='Could not save this item. Try a smaller image.';button.disabled=false;button.textContent='Save item';}
 }
 function bringFront(element) {element.style.zIndex=++frontLayer;}
-function showShelf(channel) {const windowEl=$('#appWindow');windowEl.classList.remove('hidden-window');$('#dockShelf').classList.add('active');bringFront(windowEl);if(channel)navigate(channel);}
-function hideShelf() {closeSearch();closeModal();$('#appWindow').classList.add('hidden-window');$('#dockShelf').classList.remove('active');}
-function toggleZoom(element) {element.style.left='';element.style.top='';element.style.transform='';element.classList.toggle('zoomed');}
+function showShelf(channel) {
+  const windowEl=$('#appWindow');
+  const wasHidden=windowEl.classList.contains('hidden-window');
+  windowEl.classList.remove('hidden-window');
+  $('#dockShelf').classList.add('active');
+  $('#dockShelf').setAttribute('aria-label','Open Tyler.Center');
+  bringFront(windowEl);
+  if(channel) navigate(channel);
+  else { markChannelRead(activeChannel); renderNav(); }
+  if(wasHidden) $('#windowMinimize').focus();
+}
+function hideShelf() {
+  closeSearch();closeModal();closeSidebar();closeDesktopMenu();
+  $('#desktopMenuHost').dataset.open='';
+  $('#appWindow').classList.add('hidden-window');
+  $('#dockShelf').classList.remove('active');
+  $('#dockShelf').setAttribute('aria-label','Restore Tyler.Center');
+  $('#dockShelf').focus();
+}
+let unzoomedLayout = null;
+function toggleZoom(element) {
+  const properties = ['left','top','transform','width','height'];
+  if (element.classList.contains('zoomed')) {
+    element.classList.remove('zoomed');
+    properties.forEach(key => {element.style[key]=unzoomedLayout?.[key] || '';});
+  } else {
+    unzoomedLayout = Object.fromEntries(properties.map(key => [key,element.style[key]]));
+    properties.forEach(key => {element.style[key]='';});
+    element.classList.add('zoomed');
+  }
+}
+function makeResizable(element, handle) {
+  let resize = null;
+  const begin = () => {
+    const rect = element.getBoundingClientRect();
+    const minWidth = Math.min(520, innerWidth - 24);
+    const minHeight = Math.min(300, innerHeight - 68);
+    const left = Math.max(8, Math.min(rect.left, innerWidth - minWidth - 12));
+    const top = Math.max(36, Math.min(rect.top, innerHeight - minHeight - 12));
+    element.style.left = `${left}px`;
+    element.style.top = `${top}px`;
+    element.style.transform = 'none';
+    bringFront(element);
+    return {width:rect.width,height:rect.height,minWidth,minHeight,maxWidth:innerWidth-left-12,maxHeight:innerHeight-top-12};
+  };
+  const apply = (start, dx, dy) => {
+    element.style.width = `${Math.max(start.minWidth, Math.min(start.maxWidth, start.width + dx))}px`;
+    element.style.height = `${Math.max(start.minHeight, Math.min(start.maxHeight, start.height + dy))}px`;
+  };
+  handle.addEventListener('pointerdown', event => {
+    if (event.button !== 0 || matchMedia('(max-width:760px)').matches || element.classList.contains('zoomed')) return;
+    event.preventDefault();
+    resize = {...begin(), x:event.clientX, y:event.clientY};
+    element.classList.add('resizing');
+    handle.setPointerCapture(event.pointerId);
+  });
+  handle.addEventListener('pointermove', event => {
+    if (resize) apply(resize, event.clientX-resize.x, event.clientY-resize.y);
+  });
+  const end = () => {resize=null;element.classList.remove('resizing');};
+  handle.addEventListener('pointerup', end);
+  handle.addEventListener('pointercancel', end);
+  handle.addEventListener('lostpointercapture', end);
+  handle.addEventListener('keydown', event => {
+    if (!['ArrowLeft','ArrowRight','ArrowUp','ArrowDown'].includes(event.key) || element.classList.contains('zoomed') || matchMedia('(max-width:760px)').matches) return;
+    event.preventDefault();
+    const step = event.shiftKey ? 50 : 10;
+    apply(begin(), event.key==='ArrowLeft' ? -step : event.key==='ArrowRight' ? step : 0, event.key==='ArrowUp' ? -step : event.key==='ArrowDown' ? step : 0);
+  });
+}
 function makeDraggable(element,handle) {
   let drag=null;
   handle.addEventListener('pointerdown',event=>{
@@ -248,7 +327,7 @@ function closeDesktopMenu() {$('#desktopMenuHost').innerHTML='';document.querySe
 function openDesktopMenu(name,button) {
   if($('#desktopMenuHost').dataset.open===name) {closeDesktopMenu();$('#desktopMenuHost').dataset.open='';return;}
   closeDesktopMenu();$('#desktopMenuHost').dataset.open=name;button.classList.add('active');
-  const items={file:[['email','✉','Email me'],['instagram','◎','Instagram']],rec:[['recommend','✦','Recommend something to me'],['drafts','▤','Saved drafts on this device']],view:[['surprise','▶','Surprise me with a video']],window:[['show-shelf','✦','Show Tyler.Center'],['center-window','▣','Center window']]}[name];
+  const items={file:[['linkedin','in','LinkedIn ↗'],['email','✉','Email me'],['instagram','◎','Instagram']],rec:[['recommend','✦','Recommend something to me'],['drafts','▤','Saved drafts on this device']],view:[['surprise','▶','Surprise me with a video']],window:[['show-shelf','✦','Show Tyler.Center'],['center-window','▣','Center window']]}[name];
   const rect=button.getBoundingClientRect();
   $('#desktopMenuHost').innerHTML=`<div class="desktop-dropdown" style="left:${Math.round(rect.left)}px">${items.map(([action,icon,label])=>`<button data-menu-action="${action}"><span>${icon}</span>${label}</button>`).join('')}</div>`;
 }
@@ -274,6 +353,24 @@ function draftsModal() {
   const drafts=fallbackRead('recommendations',[]);
   $('#modalRoot').innerHTML=`<div class="modal-overlay" data-close-modal><div class="modal" role="dialog" aria-modal="true" aria-label="Saved recommendation drafts"><div class="modal-top"><span class="eyebrow">REC DRAFTS</span><button class="close-button" data-close-modal aria-label="Close">×</button></div><div class="modal-body"><h2>Saved drafts</h2><p class="modal-description">These recommendations are on this device only. They have not been sent to Tyler.</p><div class="draft-list">${drafts.length?drafts.map(draft=>`<div><strong>${esc(draft.kind)} from ${esc(draft.name)}</strong><p>${esc(draft.note)}</p>${safeUrl(draft.url)?`<a href="${esc(safeUrl(draft.url))}" target="_blank" rel="noopener noreferrer">Open link ↗</a>`:''}</div>`).join(''):'<p>No drafts saved yet.</p>'}</div></div></div></div>`;
 }
+
+function openLinkedIn() {
+  const url = safeUrl(CONTACT.linkedin);
+  if (url) window.open(url, '_blank', 'noopener');
+  else toast('LinkedIn link is waiting for Tyler’s profile URL.');
+}
+function wallpaperCredit() {
+  $('#modalRoot').innerHTML = `<div class="modal-overlay" data-close-modal><div class="modal credit-modal" role="dialog" aria-modal="true" aria-label="Wallpaper credit"><div class="modal-top"><span class="eyebrow">WALLPAPER / NASA</span><button class="close-button" data-close-modal aria-label="Close">×</button></div><div class="modal-body"><img class="credit-photo" src="assets/challenger-launch.jpg" alt="Space Shuttle Challenger launching from Complex 39 at Kennedy Space Center"><h2>Space Shuttle Challenger launches from Kennedy Space Center</h2><p class="modal-description">The Space Shuttle Challenger launching from Complex 39<br>Kennedy Space Center, Florida, USA</p><p class="modal-description">Photo: NASA, via Unsplash.<br>Published on March 2, 2021 (UTC).</p><div class="modal-actions"><a href="https://unsplash.com/photos/dCgbRAQmTQA" target="_blank" rel="noopener">View original photograph ↗</a><a href="https://unsplash.com/license" target="_blank" rel="noopener">Free to use under the Unsplash License ↗</a></div></div></div></div>`;
+  $('#modalRoot [data-close-modal] button').focus();
+}
+function initializeLinkedIn() {
+  document.querySelectorAll('.linkedin-link').forEach(link => {
+    const url = safeUrl(CONTACT.linkedin);
+    if (url) link.href = url;
+    else link.addEventListener('click', event => { event.preventDefault(); openLinkedIn(); });
+  });
+}
+
 function toast(message) {const element=$('#toast');element.textContent=message;element.classList.add('show');clearTimeout(toastTimer);toastTimer=setTimeout(()=>element.classList.remove('show'),3500);}
 function closeSearch() {$('#searchRoot').innerHTML='';}
 function openSearch() {$('#searchRoot').innerHTML=`<div class="search-overlay" data-close-search><div class="search-panel" role="dialog" aria-modal="true" aria-label="Search the shelf"><div class="search-box"><span>⌕</span><input id="searchInput" type="search" placeholder="Search the shelf…" autocomplete="off"><button data-close-search>ESC</button></div><div class="search-results" id="searchResults"></div></div></div>`;$('#searchInput').addEventListener('input',renderSearch);$('#searchInput').focus();renderSearch();}
@@ -289,14 +386,14 @@ function updateDesktopClock() {$('#desktopClock').textContent=new Date().toLocal
 document.addEventListener('click',async event=>{
   const target=event.target;
   const menuButton=target.closest('[data-menu]');if(menuButton){openDesktopMenu(menuButton.dataset.menu,menuButton);return;}
-  const menuAction=target.closest('[data-menu-action]');if(menuAction){const action=menuAction.dataset.menuAction;closeDesktopMenu();$('#desktopMenuHost').dataset.open='';if(action==='email')contactEmail()?window.location.href=`mailto:${contactEmail()}`:toast('Add Tyler’s email to enable this link.');if(action==='instagram')instagramUrl()?window.open(instagramUrl(),'_blank','noopener,noreferrer'):toast('Add Tyler’s Instagram profile to enable this link.');if(action==='recommend')recommendModal();if(action==='drafts')draftsModal();if(action==='surprise')surpriseMe();if(action==='show-shelf')showShelf();if(action==='center-window'){const element=$('#appWindow');element.style.left='';element.style.top='';element.style.transform='';toast('Window centered.');}return;}
+  const menuAction=target.closest('[data-menu-action]');if(menuAction){const action=menuAction.dataset.menuAction;closeDesktopMenu();$('#desktopMenuHost').dataset.open='';if(action==='linkedin')openLinkedIn();if(action==='email')contactEmail()?window.location.href=`mailto:${contactEmail()}`:toast('Add Tyler’s email to enable this link.');if(action==='instagram')instagramUrl()?window.open(instagramUrl(),'_blank','noopener,noreferrer'):toast('Add Tyler’s Instagram profile to enable this link.');if(action==='recommend')recommendModal();if(action==='drafts')draftsModal();if(action==='surprise')surpriseMe();if(action==='show-shelf')showShelf();if(action==='center-window'){const element=$('#appWindow');element.style.left='';element.style.top='';element.style.transform='';toast('Window centered.');}return;}
   if(!target.closest('.desktop-dropdown')){closeDesktopMenu();$('#desktopMenuHost').dataset.open='';}
   const channel=target.closest('[data-channel]');if(channel){closeSearch();showShelf(channel.dataset.channel);return;}
   const project=target.closest('[data-project]');if(project){const record=projects.find(item=>item.id===project.dataset.project);if(record)showProject(record);return;}
   const entry=target.closest('[data-entry]');if(entry){const record=entries.find(item=>item.id===entry.dataset.entry);if(record)showEntry(record);return;}
   const searchProject=target.closest('[data-search-project]');if(searchProject){const record=projects.find(item=>item.id===searchProject.dataset.searchProject);closeSearch();showShelf('websites');if(record)showProject(record);return;}
   const searchEntry=target.closest('[data-search-entry]');if(searchEntry){const record=entries.find(item=>item.id===searchEntry.dataset.searchEntry);closeSearch();if(record){showShelf(record.channel);showEntry(record);}return;}
-  const actionButton=target.closest('[data-action]');if(actionButton){const action=actionButton.dataset.action,id=actionButton.dataset.id;if(action==='add-project')projectEditor();if(action==='edit-project'){const record=projects.find(item=>item.id===id);if(record)projectEditor(record);}if(action==='delete-project'){const record=projects.find(item=>item.id===id);if(record&&confirm(`Remove "${record.title}" from this browser?`)){try{await removeRecord('project',id);closeModal();toast('Website removed.');}catch{toast('Could not remove the website.');}}}if(action==='edit-entry'){const record=entries.find(item=>item.id===id);if(record)entryEditor(record.channel,record);}if(action==='delete-entry'){const record=entries.find(item=>item.id===id);if(record&&confirm(`Remove "${record.title}" from this browser?`)){try{await removeRecord('entry',id);closeModal();toast('Item removed.');}catch{toast('Could not remove the item.');}}}if(action==='add-entry')entryEditor(activeChannel);if(action==='surprise')surpriseMe();return;}
+  const actionButton=target.closest('[data-action]');if(actionButton){const action=actionButton.dataset.action,id=actionButton.dataset.id;if(action==='wallpaper-credit')wallpaperCredit();if(action==='add-project')projectEditor();if(action==='edit-project'){const record=projects.find(item=>item.id===id);if(record)projectEditor(record);}if(action==='delete-project'){const record=projects.find(item=>item.id===id);if(record&&confirm(`Remove "${record.title}" from this browser?`)){try{await removeRecord('project',id);closeModal();toast('Website removed.');}catch{toast('Could not remove the website.');}}}if(action==='edit-entry'){const record=entries.find(item=>item.id===id);if(record)entryEditor(record.channel,record);}if(action==='delete-entry'){const record=entries.find(item=>item.id===id);if(record&&confirm(`Remove "${record.title}" from this browser?`)){try{await removeRecord('entry',id);closeModal();toast('Item removed.');}catch{toast('Could not remove the item.');}}}if(action==='add-entry')entryEditor(activeChannel);if(action==='surprise')surpriseMe();return;}
   if(target.closest('[data-close-modal]')&&(target===target.closest('[data-close-modal]')||target.tagName==='BUTTON')){closeModal();return;}
   if(target.closest('[data-close-search]')&&(target===target.closest('[data-close-search]')||target.tagName==='BUTTON'))closeSearch();
 });
@@ -313,5 +410,7 @@ $('#dockShelf').addEventListener('click',()=>showShelf());
 document.querySelectorAll('[data-desktop-open]').forEach(button=>button.addEventListener('click',()=>showShelf(button.dataset.desktopOpen)));
 $('#appWindow').addEventListener('pointerdown',()=>bringFront($('#appWindow')));
 makeDraggable($('#appWindow'),$('#appWindow .topbar'));
+makeResizable($('#appWindow'),$('#windowResize'));
 updateDesktopClock();setInterval(updateDesktopClock,30000);
+initializeLinkedIn();
 initialize();

@@ -7,6 +7,11 @@ Open `index.html` locally, or publish this directory from the root of a GitHub P
 ## What works
 
 - A movable desktop window, menu bar, and one app icon in the dock.
+- Drag the bottom-right corner to resize the desktop window. Content adapts to the window width; arrow keys on the corner grip also resize it. Zooming out restores the chosen size.
+- Rocket badges for channels with unread or updated items, including home-page channel shortcuts. Opening a channel marks its current items read in that visitor's browser; empty channels have no badge. Read markers persist when browser storage is available. These are local read indicators, not a claim that live Notion sync is enabled.
+- LinkedIn desktop shortcut and mobile navigation link, opening Tyler's profile in a new tab.
+- NASA's Challenger launch wallpaper with full attribution and Unsplash license links.
+- Locally hosted Special Elite typewriter font and original procedural print textures.
 - Search across the site's content.
 - Rich previews for links, website cards, video recommendations, and a photo gallery.
 - Comments on each item. Channel editors open with the plus button; items can be edited or removed from their detail views.
@@ -23,7 +28,27 @@ The initial website preview is an illustration of the original prototype. No rea
 ## Files
 
 - `index.html`: desktop and app layout
-- `styles.css` and `v2.css`: visual design
+- `styles.css` and `v2.css`: layout and component foundations
+- `texture.css`: textured paper, ink-blue, faded-red, and typewriter design
 - `app.js`: content and interactions
+- `unread.js`: per-channel read markers
 - `assets/`: local illustrations
 - `CNAME`: GitHub Pages custom domain
+
+## LinkedIn
+
+The shortcut points to `https://www.linkedin.com/in/tylermulvey/` with `target="_blank"` and `rel="noopener"`. A normal browser tab uses that browser profile's existing LinkedIn session. It does not log a visitor in automatically, bypass LinkedIn's login requirements, or guarantee that LinkedIn records or identifies a view. See [LinkedIn's private viewing explanation](https://www.linkedin.com/help/linkedin/answer/a567226).
+
+## Wallpaper credit
+
+**Space Shuttle Challenger launches from Kennedy Space Center**
+
+The Space Shuttle Challenger launching from Complex 39. Kennedy Space Center, Florida, USA.
+
+Photo: NASA, via [Unsplash](https://unsplash.com/photos/dCgbRAQmTQA). Published on March 2, 2021 (UTC). Free to use under the [Unsplash License](https://unsplash.com/license). This is the photo's publication date, not a claim about the launch date.
+
+The provided image is stored unchanged in `assets/challenger-launch.jpg`. The reference texture images were not reused; `assets/print-grain.svg` provides original procedural surface grain. Special Elite's license is included under `assets/fonts/`.
+
+## Notion sync
+
+Sync is not connected yet. The accompanying `NOTION-SYNC-ACTION-LIST.md` in the project directory maps the five channels to Notion sources, publishing properties, update behavior, and the server-side publishing bridge needed by this static site.
