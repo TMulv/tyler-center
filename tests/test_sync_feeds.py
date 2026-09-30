@@ -230,3 +230,41 @@ class DomainSyncTests(unittest.TestCase):
             self.assertEqual(path.read_bytes(),before)
             with patch.object(sync,'collect_domains',return_value=[]):sync.sync_domains()
             self.assertEqual(sync.read_snapshot(path),[])
+
+
+class WatchSyncTests(unittest.TestCase):
+    def page(self, kind='YouTube', link='https://youtu.be/RlSwsE22nX0?utm_source=test'):
+        return {'id':'abc-123','created_time':'2026-09-01T12:00:00Z','properties':{
+            'Title':{'title':[{'plain_text':'A saved title'}]},'Link':{'url':link},
+            'Type':{'select':{'name':kind}},'Status':{'status':{'name':'Want to see'}},
+            'Added':{'created_time':'2026-09-02T12:00:00Z'},
+            'Notes':{'rich_text':[{'plain_text':'PRIVATE'}]},'Recommended by':{'rich_text':[{'plain_text':'PRIVATE'}]},'files':{'files':['PRIVATE']}}}
+    def test_public_metadata_only_and_type_mapping(self):
+        row=sync.watch_later_record(self.page())
+        self.assertEqual(set(row),{'id','channel','source','title','url','mediaType','readingStatus','publishedAt'})
+        self.assertNotIn('PRIVATE',json.dumps(row))
+        self.assertEqual(row['publishedAt'],'2026-09-02T12:00:00Z')
+        self.assertEqual(row['url'],'https://youtu.be/RlSwsE22nX0')
+        for kind,expected in [('Movie','Movies'),('TV Show','TV Shows'),('Podcast','Podcasts'),('Documentary','Documentaries'),('Book','Books')]:
+            self.assertEqual(sync.watch_later_record(self.page(kind))['mediaType'],expected)
+        self.assertEqual(sync.watch_later_record(self.page('Other','https://vimeo.com/123'))['mediaType'],'Online')
+        self.assertEqual(sync.watch_later_record(self.page('Other'))['mediaType'],'YouTube')
+        self.assertEqual(sync.watch_later_record(self.page('Movie',None))['url'],'')
+        self.assertEqual(sync.watch_later_record(self.page('Other','https://app.notion.com/private'))['url'],'')
+        page=self.page();page['archived']=True;self.assertIsNone(sync.watch_later_record(page))
+        page=self.page();page['properties']['Keep Private']={'type':'checkbox','checkbox':True};self.assertIsNone(sync.watch_later_record(page))
+        with self.assertRaises(ValueError):sync.watch_later_record(self.page('Unexpected'))
+    def test_failed_pagination_keeps_snapshot_and_deletion_removes_entries(self):
+        page=self.page()
+        class FakeNotion:
+            def pages(self,route,query=False):
+                assert route==f'data_sources/{sync.WATCH_LATER}/query' and query
+                yield page
+                raise RuntimeError('second page failed')
+        with tempfile.TemporaryDirectory() as directory, patch.object(sync,'ROOT',Path(directory)), patch.dict(sync.os.environ,{'NOTION_TOKEN':'test'}):
+            path=Path(directory)/'data/watch.json';sync.write_snapshot(path,[sync.watch_later_record(page)]);before=path.read_bytes()
+            with patch.object(sync,'Notion',return_value=FakeNotion()):
+                with self.assertRaises(RuntimeError):sync.sync_watch_later()
+            self.assertEqual(path.read_bytes(),before)
+            with patch.object(sync,'collect_watch_later',return_value=[]):sync.sync_watch_later()
+            self.assertEqual(sync.read_snapshot(path),[])

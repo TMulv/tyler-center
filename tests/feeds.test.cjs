@@ -48,7 +48,7 @@ test('Read Later only exposes approved metadata and replaces sample articles',()
   assert.equal(entry.readingStatus,'Read');
   assert.equal(entry.source,'notion');
   assert.doesNotMatch(JSON.stringify(entry),/PRIVATE|private.example/);
-  assert.deepEqual(merge([{id:'great-work',channel:'articles'},{id:'other',channel:'watch'}],[entry]),[{id:'other',channel:'watch'},entry]);
+  assert.deepEqual(merge([{id:'great-work',channel:'articles'},{id:'other',channel:'photography'}],[entry]),[{id:'other',channel:'photography'},entry]);
   assert.throws(()=>validate({version:1,entries:[{...record,readingStatus:'unknown'}]},'articles'));
 });
 
@@ -66,4 +66,18 @@ test('canonical projects retain TomoTomo, reflect deletions and do not duplicate
   assert.deepEqual(projects([app],[site]),[app,site]);
   assert.deepEqual(projects([app],[]),[app]);
   assert.deepEqual(projects([site],[site]),[site]);
+});
+
+
+test('watch metadata includes safe YouTube previews, excludes private content, and removes stale local items',()=>{
+ const row={id:'watchlater-a',channel:'watch',title:'A saved video',url:'https://youtu.be/RlSwsE22nX0',mediaType:'YouTube',readingStatus:'Want to see',publishedAt:'2026-09-30T16:52:36Z',note:'SECRET',body:'SECRET',files:['SECRET']};
+ const [entry]=validate({version:1,entries:[row]},'watch');
+ assert.equal(entry.image,'https://i.ytimg.com/vi/RlSwsE22nX0/hqdefault.jpg');
+ assert.doesNotMatch(JSON.stringify(entry),/SECRET/);
+ assert.deepEqual(merge([{id:'viral-video',channel:'watch'}],[entry]),[entry]);
+ assert.deepEqual(merge([{id:'watchlater-old',channel:'watch'}],[]),[]);
+ for(const url of ['https://example.com/watch?v=RlSwsE22nX0','https://youtube.com.evil.example/watch?v=RlSwsE22nX0','https://youtu.be/invalid'])assert.equal(validate({version:1,entries:[{...row,url}]},'watch')[0].image,undefined);
+ const [movie]=validate({version:1,entries:[{...row,url:'',mediaType:'Movies'}]},'watch');
+ assert.equal(movie.url,'');assert.equal(movie.kind,'Movies');
+ assert.throws(()=>validate({version:1,entries:[{...row,mediaType:'Invalid'}]},'watch'));
 });

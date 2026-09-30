@@ -24,6 +24,9 @@ ARCHIVE = '074c794e-c62f-48cc-97c9-dc98fba14a32'
 EDITIONS = 'aab9f113-6439-4714-9185-0cc08f9d70df'
 DOMAINS = '3eb8153c-8a3e-80ec-9922-000bccb5a71c'
 READ_LATER = 'a08dfd74-875d-4998-affe-968c65c3e41f'
+WATCH_LATER = 'ecf1cef2-0a76-4486-93ee-f558c8b9afd0'
+MEDIA_TYPES = ('YouTube', 'Online', 'Movies', 'TV Shows', 'Podcasts', 'Documentaries', 'Books', 'Other')
+WATCH_STATUSES = ('Want to see','Want to listen','Want to read','Watching','Listening','Reading','Finished','Skipped','Not marked')
 READING_STATUSES = ('To Read', 'Priority', 'Reading', 'Read', 'Archive', 'Not marked')
 PRIVATE_HOSTS = ('mail.google.com', 'gmail.com', 'outlook.com', 'outlook.office.com',
                  'notion.so', 'notion.com', 'accounts.google.com', 'localhost')
@@ -407,6 +410,50 @@ def sync_domains():
     write_snapshot(ROOT / 'data/websites.json', collect_domains(Notion(token)))
 
 
+def watch_later_record(page):
+    if page.get('archived') or page.get('in_trash'):
+        return None
+    props = page['properties']
+    privacy = props.get('Keep Private')
+    if privacy is not None and (privacy.get('type') != 'checkbox' or privacy.get('checkbox') is not False):
+        return None
+    title = rich_text(props['Title']['title'], {}).replace('**', '').replace(r'\|', '|').strip()
+    if not title:
+        raise ValueError('Watch Later title is missing')
+    url = article_url(props.get('Link', {}).get('url'))
+    kind = (props.get('Type', {}).get('select') or {}).get('name') or 'Other'
+    mapping = {'Movie':'Movies','TV Show':'TV Shows','Podcast':'Podcasts','Documentary':'Documentaries','Book':'Books','YouTube':'YouTube','Online':'Online','Other':'Other'}
+    if kind not in mapping:
+        raise ValueError('Unknown media type; review mapping before publishing')
+    media_type = mapping[kind]
+    host = urlparse(url).hostname or ''
+    if media_type == 'Other' and url:
+        media_type = 'YouTube' if host in ('youtube.com','www.youtube.com','m.youtube.com','youtu.be') else 'Online'
+    status = (props.get('Status', {}).get('status') or {}).get('name') or 'Not marked'
+    if status not in WATCH_STATUSES:
+        raise ValueError('Unknown watch status; review mapping before publishing')
+    # Only public listing metadata. Never export Notes, Recommended by, files, or page bodies.
+    return {'id':'watchlater-'+page['id'].replace('-',''), 'channel':'watch', 'source':'notion',
+            'title':title, 'url':url, 'mediaType':media_type, 'readingStatus':status,
+            'publishedAt':iso_date(props.get('Added', {}).get('created_time') or page['created_time'])}
+
+
+def collect_watch_later(api):
+    records = []
+    for page in api.pages(f'data_sources/{WATCH_LATER}/query', query=True):
+        record = watch_later_record(page)
+        if record:
+            records.append(record)
+    return records
+
+
+def sync_watch_later():
+    token = os.environ.get('NOTION_TOKEN', '').strip()
+    if not token:
+        raise RuntimeError('Watch or Listen Later requires NOTION_TOKEN')
+    write_snapshot(ROOT / 'data/watch.json', collect_watch_later(Notion(token)))
+
+
 def sync_notion():
     token = os.environ.get('NOTION_TOKEN', '').strip()
     if not token:
@@ -418,12 +465,14 @@ def sync_notion():
 
 if __name__ == '__main__':
     parser = argparse.ArgumentParser()
-    parser.add_argument('source', choices=['rss', 'notion', 'read-later', 'domains'])
+    parser.add_argument('source', choices=['rss', 'notion', 'read-later', 'domains', 'watch-later'])
     parser.add_argument('--backfill', action='store_true', help='Import the full public writing archive before syncing RSS')
     args = parser.parse_args()
     try:
         if args.source == 'rss':
             sync_rss(backfill=args.backfill)
+        elif args.source == 'watch-later':
+            sync_watch_later()
         elif args.source == 'domains':
             sync_domains()
         elif args.source == 'read-later':

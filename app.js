@@ -4,7 +4,7 @@ const CONTACT = { email: '', instagram: '', linkedin: 'https://www.linkedin.com/
 const CHANNELS = [
   {id:'websites', title:"what-i've-built", description:"Apps and websites I’ve made"},
   {id:'articles', title:'read-later', managed:true, description:"What I’m saving to read", intro:"Articles I’m saving for later. I’ll mark them as read when I’ve read them. All news is biased, but this is news that's biasing me. (Warning: you may become Tyler leaning after reading what I'm reading.)"},
-  {id:'watch', title:'watch', description:'Videos I recommend watching'},
+  {id:'watch', title:'watch-or-listen-later', managed:true, description:'Videos, movies, shows and podcasts I’m saving for later', intro:'Things I want to watch or listen to. Filter by type, or see what I’ve finished.'},
   {id:'writing', title:'writing', description:'My NFL picks and writing from Betting Antelope', intro:'My writing on Betting Antelope. New posts show up here when I publish.', managed:true, sourceUrl:'https://bettingantelope.substack.com/', sourceLabel:'Read Betting Antelope ↗'},
   {id:'newsletters', title:'daily-newsletter', description:'Daily highlights from the newsletters I subscribe to', managed:true, intro:'I subscribe to a carefully picked mix of paid and free newsletters. I can’t read every issue every day. My newsletter agent pulls the highlights into one daily digest.', empty:'The first digest will appear here once the archive is connected.'},
   {id:'photography', title:'photography', description:'Photos I have taken'}
@@ -206,7 +206,7 @@ async function refreshFeeds() {
   refreshingFeeds = true;
   const oldEntries = JSON.stringify(publishedEntries);
   try {
-    const results = await Promise.allSettled(['writing','newsletters','articles','websites'].map(async channel => {
+    const results = await Promise.allSettled(['writing','newsletters','articles','websites','watch'].map(async channel => {
       const response = await fetch(`data/${channel}.json`, {cache:'no-store', signal:AbortSignal.timeout(15000)});
       if (!response.ok) throw new Error('Feed unavailable');
       return {channel, records:ChannelFeeds.validate(await response.json(), channel)};
@@ -221,7 +221,7 @@ async function refreshFeeds() {
       const anchor = [...document.querySelectorAll('[data-message-id]')].find(el => el.getBoundingClientRect().bottom > viewport.getBoundingClientRect().top);
       const anchorId = anchor?.dataset.messageId, anchorTop = anchor?.getBoundingClientRect().top;
       renderNav();
-      if (['writing','newsletters','articles','websites'].includes(activeChannel)) {
+      if (['writing','newsletters','articles','websites','watch'].includes(activeChannel)) {
         const oldTop = viewport.scrollTop;
         if (!sessionFirstUnread) sessionFirstUnread = ChannelReadState.ordered(channelRecords(activeChannel)).find(record => ChannelReadState.count([record],readState,activeChannel))?.id || null;
         $('#lastReadButton').disabled = !sessionCheckpoint && !sessionFirstUnread;
@@ -316,7 +316,8 @@ function renderChannelFilters() {
   const typeControls = activeChannel === 'websites'
     ? `<div class="filter-types" role="group" aria-label="Project type">${['',...options.types].map(type=>`<button type="button" data-filter-type="${esc(type)}" aria-pressed="${filter.type===type}">${type||'All'}</button>`).join('')}</div>`
     : options.types.length > 1 ? `<label class="filter-select">Type <select id="channelTypeFilter" aria-label="Filter by type"><option value="">All types</option>${options.types.map(type=>`<option ${filter.type===type?'selected':''}>${esc(type)}</option>`).join('')}</select></label>` : '';
-  const statusControl = activeChannel === 'articles' ? `<label class="filter-select">Tyler’s status <select id="channelStatusFilter" aria-label="Filter by Tyler’s reading status"><option value="">All statuses</option>${['To Read','Priority','Reading','Read','Archive','Not marked'].map(status=>`<option value="${status}" ${filter.status===status?'selected':''}>${status}</option>`).join('')}</select></label>` : '';
+  const statusOptions = activeChannel==='watch' ? ['Want to see','Want to listen','Want to read','Watching','Listening','Reading','Finished','Skipped','Not marked'] : ['To Read','Priority','Reading','Read','Archive','Not marked'];
+  const statusControl = ['articles','watch'].includes(activeChannel) ? `<label class="filter-select">Tyler’s status <select id="channelStatusFilter" aria-label="Filter by Tyler’s status"><option value="">All statuses</option>${statusOptions.map(status=>`<option value="${status}" ${filter.status===status?'selected':''}>${status}</option>`).join('')}</select></label>` : '';
   $('#channelFilters').innerHTML = `${typeControls}${statusControl}${options.years.length > 1 ? `<label class="filter-select">Year <select id="channelYearFilter" aria-label="Filter by year"><option value="">All years</option>${options.years.map(year=>`<option ${filter.year===year?'selected':''}>${year}</option>`).join('')}</select></label>` : ''}<input id="channelQueryFilter" type="search" aria-label="Search this channel" placeholder="Search this channel…" value="${esc(filter.query)}"><span id="channelFilterCount" role="status" aria-live="polite"></span>`;
 }
 function applyChannelFilter() {
@@ -354,7 +355,7 @@ function renderChannel(refreshControls=true) {
     else if(activeChannel==='photography') attachment=`<button class="chat-photo" data-entry="${esc(record.id)}">${safeImage(record.image)?`<img src="${esc(safeImage(record.image))}" alt="${esc(record.title)}">`:'<span class="photo-placeholder">▧</span>'}<strong>${esc(record.title)}</strong></button>`;
     else attachment=safeUrl(record.url)?`<a href="${esc(safeUrl(record.url))}" target="_blank" rel="noopener noreferrer" class="preview-link">${linkPreview(record)}</a>`:`<button class="preview-link" data-entry="${esc(record.id)}">${linkPreview(record)}</button>`;
     const divider=String(record.id)===sessionCheckpoint?'<div class="read-divider last-read-divider">You left off here</div>':record.id===sessionFirstUnread?'<div class="read-divider">New since your last visit</div>':'';
-    return `${divider}<article class="message timeline-message" data-message-id="${esc(record.id)}"><div class="message-avatar ${author.className}"><img src="${author.image}" alt="" width="40" height="40"></div><div class="message-body"><div class="message-meta"><strong>${esc(author.name)}</strong>${VerifiedAuthor.trustedPost({...record,channel:activeChannel},publishedEntries,STARTER_PROJECTS)?VerifiedAuthor.badge():''}${record.channel==='articles'?'<span class="saved-label">Saved</span>':''}${messageTimestamp(date)}${record.readingStatus?`<span class="reading-status">${esc(record.readingStatus)}</span>`:''}</div><p>${ChannelFeeds.linkedText(record.note||record.description||'')}</p>${attachment}${globalThis.ReaderUI?.saveButton({...record,channel:activeChannel}) || ''}<button class="comment-link" data-${type}="${esc(record.id)}">♧ &nbsp; Comments · Open thread</button></div></article>`;
+    return `${divider}<article class="message timeline-message" data-message-id="${esc(record.id)}"><div class="message-avatar ${author.className}"><img src="${author.image}" alt="" width="40" height="40"></div><div class="message-body"><div class="message-meta"><strong>${esc(author.name)}</strong>${VerifiedAuthor.trustedPost({...record,channel:activeChannel},publishedEntries,STARTER_PROJECTS)?VerifiedAuthor.badge():''}${['articles','watch'].includes(record.channel)?'<span class="saved-label">Saved</span>':''}${messageTimestamp(date)}${record.readingStatus?`<span class="reading-status">${esc(record.readingStatus)}</span>`:''}</div><p>${ChannelFeeds.linkedText(record.note||record.description||'')}</p>${attachment}${globalThis.ReaderUI?.saveButton({...record,channel:activeChannel}) || ''}<button class="comment-link" data-${type}="${esc(record.id)}">♧ &nbsp; Comments · Open thread</button></div></article>`;
   }).join('');
   $('#content').innerHTML=`<div class="feed channel-feed"><div class="channel-intro"><div class="channel-symbol">#</div><h1>${esc(meta.title)}</h1><p>${esc(meta.intro || `${meta.description}.`)}</p>${safeUrl(meta.sourceUrl)?`<a class="channel-source-link" href="${esc(safeUrl(meta.sourceUrl))}" target="_blank" rel="noopener">${esc(meta.sourceLabel)}</a>`:''}</div><div class="feed-day">Beginning of #${esc(meta.title)}</div>${body||`<div class="empty-channel">${esc(filtered ? 'No matches. Try another filter or search.' : meta.empty || 'Nothing here yet. More to share soon.')}</div>`}<div class="feed-end">${filtered ? 'End of these results.' : 'You’re at the latest.'}</div></div>`;
 }
@@ -494,8 +495,8 @@ function openDesktopMenu(name,button) {
   $('#desktopMenuHost').innerHTML=`<div class="desktop-dropdown" style="left:${Math.round(rect.left)}px">${items.map(([action,icon,label])=>`<button data-menu-action="${action}"><span>${icon}</span>${label}</button>`).join('')}</div>`;
 }
 function surpriseMe() {
-  const videos=entries.filter(entry=>entry.channel==='watch'&&safeUrl(entry.url));
-  if(!videos.length){toast('Add a video to #watch first.');return;}
+  const videos=allEntries().filter(entry=>entry.channel==='watch'&&safeUrl(entry.url));
+  if(!videos.length){toast('No watch-or-listen-later links are available yet.');return;}
   const choices=videos.length>1?videos.filter(video=>video.id!==lastSurpriseId):videos;
   const chosen=choices[Math.floor(Math.random()*choices.length)];lastSurpriseId=chosen.id;
   window.open(safeUrl(chosen.url),'_blank','noopener,noreferrer');

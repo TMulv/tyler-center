@@ -98,3 +98,12 @@ Public fields are Name, derived HTTPS domain link, Description, project status a
 The browser loads `data/websites.json`, combines it with the explicitly added TomoTomo App Store entry, and ignores stale browser-stored prototype projects. The Apps / Websites filters still apply. Renaming or updating a source record updates the same message, and new eligible rows appear automatically. The first production run must succeed before the channel can show the Notion sites.
 
 Local command: `python3 scripts/sync_feeds.py domains` with NOTION_TOKEN set. Source failures leave the previous complete snapshot available and do not block the other sources from publishing.
+
+
+## Watch or Listen Later
+
+The public #watch-or-listen-later channel reads `data/watch.json`. GitHub Actions refreshes the Notion data source `ecf1cef2-0a76-4486-93ee-f558c8b9afd0` every 15 minutes using the existing Notion secret. Share the Watch or Listen Later database with that integration if access changes.
+
+Publish only title, public Link, Added date, Type, and Status. Notes, Recommended by, files, and page bodies are excluded. Archived/trashed pages disappear on the next successful sync. An optional Keep Private checkbox excludes checked rows. Failed or incomplete syncs retain the previous snapshot.
+
+Notion Movie / TV Show / Podcast / Documentary / Book map to the plural website filters. Other with a YouTube link maps to YouTube; other public links map to Online. Missing links remain visible as saved titles. YouTube thumbnails derive only from validated public video IDs. No video files are copied or hosted. The channel retains its internal `watch` ID to preserve existing links and read markers.

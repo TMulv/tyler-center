@@ -29,3 +29,12 @@ test('Tyler reading status combines with year and search independently of visito
   assert.deepEqual(apply(records,'articles',{status:'Not marked'}),[records[2]]);
   assert.deepEqual(apply(records,'articles',{}),records);
 });
+
+
+test('watch filters include requested formats and combine type, status and search',()=>{
+ const rows=[{title:'Interview',mediaType:'YouTube',readingStatus:'Want to see'},{title:'Interview podcast',mediaType:'Podcasts',readingStatus:'Finished'},{title:'Film',mediaType:'Movies',readingStatus:'Finished'}];
+ for(const type of ['YouTube','Online','Movies','Podcasts','TV Shows','Documentaries','Books'])assert.ok(options(rows,'watch').types.includes(type));
+ assert.deepEqual(apply(rows,'watch',{type:'Podcasts',status:'Finished',query:'interview'}),[rows[1]]);
+ assert.deepEqual(apply(rows,'watch',{type:'Online'}),[]);
+ assert.deepEqual(apply(rows,'watch',{}),rows);
+});

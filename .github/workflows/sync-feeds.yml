@@ -47,13 +47,19 @@ jobs:
         env:
           NOTION_TOKEN: ${{ secrets.NOTION_TOKEN_NEWSLETTER || secrets.NOTION_TOKEN }}
         run: python3 scripts/sync_feeds.py domains
+      - name: Fetch Watch or Listen Later
+        id: watch_later
+        continue-on-error: true
+        env:
+          NOTION_TOKEN: ${{ secrets.NOTION_TOKEN_NEWSLETTER || secrets.NOTION_TOKEN }}
+        run: python3 scripts/sync_feeds.py watch-later
       - name: Publish changed snapshots
         env:
           GH_TOKEN: ${{ github.token }}
         run: |
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add data/writing.json data/newsletters.json data/articles.json data/websites.json
+          git add data/writing.json data/newsletters.json data/articles.json data/websites.json data/watch.json
           if ! git diff --cached --quiet; then
             git commit -m 'Update channel feeds'
             git pull --rebase origin main
@@ -66,7 +72,7 @@ jobs:
             gh api --method POST "repos/$GITHUB_REPOSITORY/pages/builds" --silent
           fi
       - name: Report source failures
-        if: steps.rss.outcome == 'failure' || steps.notion.outcome == 'failure' || steps.read_later.outcome == 'failure' || steps.domains.outcome == 'failure'
+        if: steps.rss.outcome == 'failure' || steps.notion.outcome == 'failure' || steps.read_later.outcome == 'failure' || steps.domains.outcome == 'failure' || steps.watch_later.outcome == 'failure'
         run: |
           echo 'A source failed. Its last successful snapshot remains available; see the source step above.'
           exit 1

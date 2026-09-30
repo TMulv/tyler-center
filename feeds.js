@@ -5,7 +5,7 @@
     const seen = new Set();
     return payload.entries.map(item => {
       if (!item || item.channel !== channel || typeof item.id !== 'string' || seen.has(item.id) ||
-          !item.id.startsWith(channel === 'writing' ? 'rss-' : channel === 'articles' ? 'readlater-' : channel === 'websites' ? 'domain-' : 'digest-') ||
+          !item.id.startsWith(channel === 'writing' ? 'rss-' : channel === 'articles' ? 'readlater-' : channel === 'websites' ? 'domain-' : channel === 'watch' ? 'watchlater-' : 'digest-') ||
           typeof item.title !== 'string' || !item.title.trim() || !Number.isFinite(Date.parse(item.publishedAt))) {
         throw new Error('Invalid feed entry');
       }
@@ -16,6 +16,19 @@
         if (!url || !['Live','Practice'].includes(item.projectStatus)) throw new Error('Invalid project');
         return {...entry,title:item.title,url,description:typeof item.description==='string'?item.description:'',
           projectStatus:item.projectStatus,category:`Website · ${item.projectStatus}`,kind:'Website',domain:new URL(url).hostname};
+      }
+      if (channel === 'watch') {
+        if (!['YouTube','Online','Movies','TV Shows','Podcasts','Documentaries','Books','Other'].includes(item.mediaType) ||
+            !['Want to see','Want to listen','Want to read','Watching','Listening','Reading','Finished','Skipped','Not marked'].includes(item.readingStatus)) throw new Error('Invalid media listing');
+        const url=link(item.url);
+        const record={...entry,title:item.title,url,kind:item.mediaType,mediaType:item.mediaType,readingStatus:item.readingStatus,
+          domain:url?new URL(url).hostname.replace(/^www\./,''):item.mediaType,description:url?'':'I’ve saved this title. No link added yet.'};
+        if(url){
+          const u=new URL(url), youtube=['youtube.com','www.youtube.com','m.youtube.com','youtu.be'].includes(u.hostname);
+          const id=u.hostname==='youtu.be'?u.pathname.slice(1):u.searchParams.get('v') || (/^\/(?:shorts|embed|live)\/([^/]+)/.exec(u.pathname)||[])[1];
+          if(youtube && /^[A-Za-z0-9_-]{11}$/.test(id||''))record.image=`https://i.ytimg.com/vi/${id}/hqdefault.jpg`;
+        }
+        return record;
       }
       if (channel === 'articles') {
         const statuses = ['To Read','Priority','Reading','Read','Archive','Not marked'];
@@ -86,7 +99,7 @@
   }
   function merge(local, published) {
     const sharedIds = new Set(published.map(e => e.id));
-    return [...local.filter(e => e.channel !== 'articles' && e.id !== 'why-site' && !sharedIds.has(e.id)), ...published];
+    return [...local.filter(e => !['articles','watch'].includes(e.channel) && e.id !== 'why-site' && !sharedIds.has(e.id)), ...published];
   }
   function projects(staticProjects, published) {
     return [...staticProjects.filter(p => !published.some(e => e.id===p.id || (e.url && e.url===p.url))), ...published.filter(e=>e.channel==='websites')];
