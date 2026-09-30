@@ -552,8 +552,8 @@ function renderSearch() {
   const results=[...projects.filter(p=>`${p.title} ${p.description}`.toLowerCase().includes(query)).map(p=>`<button class="search-result" data-search-project="${esc(p.id)}"><small>${isAppStoreProject(p) ? 'App' : 'Website'}</small><strong>${esc(p.title)}</strong><span>${esc(p.description)}</span></button>`),...allEntries().filter(e=>`${e.title} ${e.description} ${e.channel}`.toLowerCase().includes(query)).map(e=>`<button class="search-result" data-search-entry="${esc(e.id)}"><small>#${esc(e.channel)}</small><strong>${esc(e.title)}</strong><span>${esc(e.description)}</span></button>`),...CHANNELS.filter(c=>`${c.title} ${c.description}`.toLowerCase().includes(query)).map(c=>`<button class="search-result" data-channel="${esc(c.id)}"><small>Channel</small><strong>#${esc(c.title)}</strong><span>${esc(c.description)}</span></button>`)];
   $('#searchResults').innerHTML=results.length?results.join(''):'<div class="search-empty">No matches yet.</div>';
 }
-function closeSidebar() {$('#sidebar').classList.remove('open');$('#mobileScrim').hidden=true;}
-function toggleSidebar() {const open=$('#sidebar').classList.toggle('open');$('#mobileScrim').hidden=!open;}
+function closeSidebar() {$('#sidebar').classList.remove('open');$('#mobileScrim').hidden=true;$('#mobileMenu').setAttribute('aria-expanded','false');$('#mobileMenu').setAttribute('aria-label','Open channels');}
+function toggleSidebar() {const open=$('#sidebar').classList.toggle('open');$('#mobileScrim').hidden=!open;$('#mobileMenu').setAttribute('aria-expanded',String(open));$('#mobileMenu').setAttribute('aria-label',open?'Close channels':'Open channels');}
 function updateDesktopClock() {$('#desktopClock').textContent=new Date().toLocaleString(undefined,{weekday:'short',month:'short',day:'numeric',hour:'numeric',minute:'2-digit'});}
 
 document.addEventListener('click',async event=>{
