@@ -9,7 +9,7 @@
       "url": "",
       "mediaType": "Documentaries",
       "readingStatus": "Want to see",
-      "publishedAt": "2026-08-04T01:12:51Z"
+      "publishedAt": "2026-08-04T01:12:00Z"
     },
     {
       "id": "watchlater-503037ff9a2f40479662e1d182c449e5",
@@ -19,7 +19,7 @@
       "url": "",
       "mediaType": "Documentaries",
       "readingStatus": "Want to see",
-      "publishedAt": "2026-08-04T01:12:51Z"
+      "publishedAt": "2026-08-04T01:12:00Z"
     },
     {
       "id": "watchlater-8cf45b8b911641fcb76983de17581974",
@@ -29,7 +29,7 @@
       "url": "",
       "mediaType": "Documentaries",
       "readingStatus": "Want to see",
-      "publishedAt": "2026-08-04T01:12:51Z"
+      "publishedAt": "2026-08-04T01:12:00Z"
     },
     {
       "id": "watchlater-b175fc9a01f048e8ae670d615d5e3c68",
@@ -39,7 +39,7 @@
       "url": "",
       "mediaType": "Documentaries",
       "readingStatus": "Want to see",
-      "publishedAt": "2026-08-04T01:12:51Z"
+      "publishedAt": "2026-08-04T01:12:00Z"
     },
     {
       "id": "watchlater-428a8e0bfd9a4959923737715dbba536",
@@ -49,47 +49,7 @@
       "url": "",
       "mediaType": "Documentaries",
       "readingStatus": "Want to see",
-      "publishedAt": "2026-08-04T13:27:11Z"
-    },
-    {
-      "id": "watchlater-83b44d738127446483883dffb75b5dad",
-      "channel": "watch",
-      "source": "notion",
-      "title": "Tiger King",
-      "url": "",
-      "mediaType": "Documentaries",
-      "readingStatus": "Finished",
-      "publishedAt": "2026-08-04T13:27:11Z"
-    },
-    {
-      "id": "watchlater-915e37079ba44266afe8101c59713c7c",
-      "channel": "watch",
-      "source": "notion",
-      "title": "Abducted in Plain Sight",
-      "url": "",
-      "mediaType": "Documentaries",
-      "readingStatus": "Want to see",
-      "publishedAt": "2026-08-04T13:27:11Z"
-    },
-    {
-      "id": "watchlater-b28e8aa61ef84466a8ec605f18478852",
-      "channel": "watch",
-      "source": "notion",
-      "title": "Icarus",
-      "url": "",
-      "mediaType": "Documentaries",
-      "readingStatus": "Want to see",
-      "publishedAt": "2026-08-04T13:27:11Z"
-    },
-    {
-      "id": "watchlater-d81a764d2a21446d8f485598781fca45",
-      "channel": "watch",
-      "source": "notion",
-      "title": "Wild Wild Country",
-      "url": "",
-      "mediaType": "Documentaries",
-      "readingStatus": "Finished",
-      "publishedAt": "2026-08-04T13:27:11Z"
+      "publishedAt": "2026-08-04T13:27:00Z"
     },
     {
       "id": "watchlater-5af193f70222435b8e1a77e478715c57",
@@ -99,7 +59,7 @@
       "url": "",
       "mediaType": "Documentaries",
       "readingStatus": "Want to see",
-      "publishedAt": "2026-08-04T13:27:26Z"
+      "publishedAt": "2026-08-04T13:27:00Z"
     },
     {
       "id": "watchlater-7f36bef80b9f4fb6b3777b8e12d91406",
@@ -109,7 +69,37 @@
       "url": "",
       "mediaType": "Documentaries",
       "readingStatus": "Want to see",
-      "publishedAt": "2026-08-04T13:27:26Z"
+      "publishedAt": "2026-08-04T13:27:00Z"
+    },
+    {
+      "id": "watchlater-83b44d738127446483883dffb75b5dad",
+      "channel": "watch",
+      "source": "notion",
+      "title": "Tiger King",
+      "url": "",
+      "mediaType": "Documentaries",
+      "readingStatus": "Finished",
+      "publishedAt": "2026-08-04T13:27:00Z"
+    },
+    {
+      "id": "watchlater-915e37079ba44266afe8101c59713c7c",
+      "channel": "watch",
+      "source": "notion",
+      "title": "Abducted in Plain Sight",
+      "url": "",
+      "mediaType": "Documentaries",
+      "readingStatus": "Want to see",
+      "publishedAt": "2026-08-04T13:27:00Z"
+    },
+    {
+      "id": "watchlater-b28e8aa61ef84466a8ec605f18478852",
+      "channel": "watch",
+      "source": "notion",
+      "title": "Icarus",
+      "url": "",
+      "mediaType": "Documentaries",
+      "readingStatus": "Want to see",
+      "publishedAt": "2026-08-04T13:27:00Z"
     },
     {
       "id": "watchlater-ccf68ca2dbb14a8aa99f724bb35af830",
@@ -119,7 +109,7 @@
       "url": "",
       "mediaType": "Documentaries",
       "readingStatus": "Want to see",
-      "publishedAt": "2026-08-04T13:27:26Z"
+      "publishedAt": "2026-08-04T13:27:00Z"
     },
     {
       "id": "watchlater-d6dc9c8e64974d059a4f88680d92f06e",
@@ -129,7 +119,17 @@
       "url": "",
       "mediaType": "Documentaries",
       "readingStatus": "Want to see",
-      "publishedAt": "2026-08-04T13:27:26Z"
+      "publishedAt": "2026-08-04T13:27:00Z"
+    },
+    {
+      "id": "watchlater-d81a764d2a21446d8f485598781fca45",
+      "channel": "watch",
+      "source": "notion",
+      "title": "Wild Wild Country",
+      "url": "",
+      "mediaType": "Documentaries",
+      "readingStatus": "Finished",
+      "publishedAt": "2026-08-04T13:27:00Z"
     },
     {
       "id": "watchlater-eafdccea9d9e4753b5568232917b9992",
@@ -139,37 +139,7 @@
       "url": "",
       "mediaType": "Documentaries",
       "readingStatus": "Want to see",
-      "publishedAt": "2026-08-04T13:27:26Z"
-    },
-    {
-      "id": "watchlater-8e8d04557f5644aca11d6bfd36082eb1",
-      "channel": "watch",
-      "source": "notion",
-      "title": "The Sopranos' David Chase & Beef's Lee Sung Jin in Conversation | The A24 Podcast",
-      "url": "https://www.youtube.com/watch?v=CkMFt4p5bPs",
-      "mediaType": "YouTube",
-      "readingStatus": "Want to see",
-      "publishedAt": "2026-09-30T16:52:34Z"
-    },
-    {
-      "id": "watchlater-a8cd685492e64ae1bdb90ca0d6f96862",
-      "channel": "watch",
-      "source": "notion",
-      "title": "introducing an italian poet to kendrick lamar",
-      "url": "https://www.youtube.com/watch?v=q5dqCeNEIFU",
-      "mediaType": "YouTube",
-      "readingStatus": "Want to see",
-      "publishedAt": "2026-09-30T16:52:34Z"
-    },
-    {
-      "id": "watchlater-ef4a94500ba44e1aa9a37d4b96c43b05",
-      "channel": "watch",
-      "source": "notion",
-      "title": "Elon’s Epic Ego Explained",
-      "url": "https://www.youtube.com/watch?v=3RF2lkn-lwA",
-      "mediaType": "YouTube",
-      "readingStatus": "Want to see",
-      "publishedAt": "2026-09-30T16:52:34Z"
+      "publishedAt": "2026-08-04T13:27:00Z"
     },
     {
       "id": "watchlater-1f01b5efe90a42ae967d88cf64f65208",
@@ -179,7 +149,7 @@
       "url": "https://www.youtube.com/watch?v=Yx7baJMQuVA",
       "mediaType": "YouTube",
       "readingStatus": "Want to see",
-      "publishedAt": "2026-09-30T16:52:35Z"
+      "publishedAt": "2026-09-30T16:52:00Z"
     },
     {
       "id": "watchlater-3f1c2fa2e17e4ea2880ad298d24e64fb",
@@ -188,8 +158,8 @@
       "title": "4K 10 hours - Earth from Space & Space Wind Audio - Long Video - relaxing, meditation, nature",
       "url": "https://www.youtube.com/watch?v=wnhvanMdx4s",
       "mediaType": "YouTube",
-      "readingStatus": "Want to see",
-      "publishedAt": "2026-09-30T16:52:35Z"
+      "readingStatus": "Skipped",
+      "publishedAt": "2026-09-30T16:52:00Z"
     },
     {
       "id": "watchlater-4c0347ff36504fca9f1979c35ba1ac63",
@@ -198,8 +168,18 @@
       "title": "The photography behind Earthrise",
       "url": "https://www.youtube.com/watch?v=B7KR1nCA4Js",
       "mediaType": "YouTube",
-      "readingStatus": "Want to see",
-      "publishedAt": "2026-09-30T16:52:35Z"
+      "readingStatus": "Finished",
+      "publishedAt": "2026-09-30T16:52:00Z"
+    },
+    {
+      "id": "watchlater-5a2779cda9094fbfb039449c39f15cf1",
+      "channel": "watch",
+      "source": "notion",
+      "title": "What Representing Men in Divorce Taught Me About Fatherhood | Marilyn York | TEDxUniversityofNevada",
+      "url": "https://www.youtube.com/watch?v=RlSwsE22nX0",
+      "mediaType": "YouTube",
+      "readingStatus": "Finished",
+      "publishedAt": "2026-09-30T16:52:00Z"
     },
     {
       "id": "watchlater-68d4582580834e75872833a797317d79",
@@ -208,8 +188,8 @@
       "title": "china is living in the future - and it's all banned in america.",
       "url": "https://www.youtube.com/watch?v=dgilcxWQYcs",
       "mediaType": "YouTube",
-      "readingStatus": "Want to see",
-      "publishedAt": "2026-09-30T16:52:35Z"
+      "readingStatus": "Finished",
+      "publishedAt": "2026-09-30T16:52:00Z"
     },
     {
       "id": "watchlater-7e52c7e7c0eb436a8e6497ff189c84b4",
@@ -219,37 +199,17 @@
       "url": "https://www.youtube.com/watch?v=0Ge3jKLDJaA",
       "mediaType": "YouTube",
       "readingStatus": "Want to see",
-      "publishedAt": "2026-09-30T16:52:35Z"
+      "publishedAt": "2026-09-30T16:52:00Z"
     },
     {
-      "id": "watchlater-cfb3efb88b05497b9523add09b35a50e",
+      "id": "watchlater-8e8d04557f5644aca11d6bfd36082eb1",
       "channel": "watch",
       "source": "notion",
-      "title": "1967: Can Humans and Robots Co-Exist? | Towards Tomorrow | BBC Archive",
-      "url": "https://www.youtube.com/watch?v=_7_DiUpyrjc",
+      "title": "The Sopranos' David Chase & Beef's Lee Sung Jin in Conversation | The A24 Podcast",
+      "url": "https://www.youtube.com/watch?v=CkMFt4p5bPs",
       "mediaType": "YouTube",
       "readingStatus": "Want to see",
-      "publishedAt": "2026-09-30T16:52:35Z"
-    },
-    {
-      "id": "watchlater-e2242dfde3a2416a9aaee4ebc7ac7a46",
-      "channel": "watch",
-      "source": "notion",
-      "title": "Oral History of Andy Hertzfeld Part 1 of 2",
-      "url": "https://www.youtube.com/watch?v=yhtPR7RoG9k",
-      "mediaType": "YouTube",
-      "readingStatus": "Want to see",
-      "publishedAt": "2026-09-30T16:52:35Z"
-    },
-    {
-      "id": "watchlater-5a2779cda9094fbfb039449c39f15cf1",
-      "channel": "watch",
-      "source": "notion",
-      "title": "What Representing Men in Divorce Taught Me About Fatherhood | Marilyn York | TEDxUniversityofNevada",
-      "url": "https://www.youtube.com/watch?v=RlSwsE22nX0",
-      "mediaType": "YouTube",
-      "readingStatus": "Want to see",
-      "publishedAt": "2026-09-30T16:52:36Z"
+      "publishedAt": "2026-09-30T16:52:00Z"
     },
     {
       "id": "watchlater-93549274edc64a5190f7d858bce6adc7",
@@ -259,7 +219,47 @@
       "url": "https://www.youtube.com/watch?v=25GI3-kiLdo",
       "mediaType": "YouTube",
       "readingStatus": "Want to see",
-      "publishedAt": "2026-09-30T16:52:36Z"
+      "publishedAt": "2026-09-30T16:52:00Z"
+    },
+    {
+      "id": "watchlater-a8cd685492e64ae1bdb90ca0d6f96862",
+      "channel": "watch",
+      "source": "notion",
+      "title": "introducing an italian poet to kendrick lamar",
+      "url": "https://www.youtube.com/watch?v=q5dqCeNEIFU",
+      "mediaType": "YouTube",
+      "readingStatus": "Finished",
+      "publishedAt": "2026-09-30T16:52:00Z"
+    },
+    {
+      "id": "watchlater-cfb3efb88b05497b9523add09b35a50e",
+      "channel": "watch",
+      "source": "notion",
+      "title": "1967: Can Humans and Robots Co-Exist? | Towards Tomorrow | BBC Archive",
+      "url": "https://www.youtube.com/watch?v=_7_DiUpyrjc",
+      "mediaType": "YouTube",
+      "readingStatus": "Finished",
+      "publishedAt": "2026-09-30T16:52:00Z"
+    },
+    {
+      "id": "watchlater-e2242dfde3a2416a9aaee4ebc7ac7a46",
+      "channel": "watch",
+      "source": "notion",
+      "title": "Oral History of Andy Hertzfeld Part 1 of 2",
+      "url": "https://www.youtube.com/watch?v=yhtPR7RoG9k",
+      "mediaType": "YouTube",
+      "readingStatus": "Want to see",
+      "publishedAt": "2026-09-30T16:52:00Z"
+    },
+    {
+      "id": "watchlater-ef4a94500ba44e1aa9a37d4b96c43b05",
+      "channel": "watch",
+      "source": "notion",
+      "title": "Elon’s Epic Ego Explained",
+      "url": "https://www.youtube.com/watch?v=3RF2lkn-lwA",
+      "mediaType": "YouTube",
+      "readingStatus": "Finished",
+      "publishedAt": "2026-09-30T16:52:00Z"
     }
   ]
 }
