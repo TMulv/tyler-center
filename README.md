@@ -1,6 +1,8 @@
 # Tyler.Center
 
-A desktop-style personal site with channels for About me, Websites, Articles, Watch, Writing, Newsletters, and Photography.
+A desktop-style personal site with chat channels for About me, what-i've-built, read-later, watch-or-listen-later, betting-antelope, daily-newsletter, and photography.
+
+Read [AGENTS.md](AGENTS.md) before making changes. It records Tyler's standing preferences and tells future agents to keep them current as part of each task.
 
 Serve locally with `python3 -m http.server 8766`, or publish this directory from the root of a GitHub Pages repository. The `CNAME` file sets the custom domain to `tyler.center`.
 
@@ -14,19 +16,19 @@ Serve locally with `python3 -m http.server 8766`, or publish this directory from
 - Locally hosted Special Elite typewriter font and original procedural print textures.
 - Search across the site's content.
 - Chat-style link previews, website cards, video recommendations, and photo attachments.
-- About me as a chat thread, a personal details toggle, five redacted case-study previews, and a tactile Betting Antelope logo attachment.
+- About me as a chat thread, a personal details toggle, and five redacted case-study file previews. Betting Antelope uses its textured logo as its posting avatar.
 - Jersey Shore opens a separate draggable, resizable window with AtTheShore’s standalone Ocean City Fishing Club fishing pier player. The full camera website is not embedded. Closing the window removes the player and stops playback.
 - An Easter egg under View → Take a break opens playable Spider Solitaire: 1/2/4 suits, legal moves, deals, completed runs, hints, undo, and a game saved on this device.
-- Comments on each item. Channel editors open with the plus button; items can be edited or removed from their detail views.
+- Comment/thread entry points on posts and a private-channel setup guide. Real reader accounts and public comments remain behind the activation gate; public built projects have no visitor edit control.
 - The File, Rec, View, and Window menus, including Surprise Me for a random video.
 
 ## Current limits
 
-Edits and comments made through the website are saved in the visitor's own browser. They do **not** publish to GitHub or appear for other visitors. The site needs a shared backend before public comments and browser edits can be shared.
+Reader accounts and public comments are disabled in `reader-config.js` until the Supabase setup is complete and verified. Local read markers and recommendation drafts are browser-only; they are not shared accounts or public comments.
 
 The File menu links to Instagram and Twitter / X as @tyler_mulvey. Its Email link still needs Tyler's chosen public email in `CONTACT` at the top of `app.js`. Until an email is configured, Rec saves a draft only on the visitor's device. These drafts can be reopened from the Rec menu; they are not delivered to Tyler.
 
-The initial website preview is an illustration of the original prototype. No real website screenshots or photography were supplied. To add content visible to everyone on this static site, edit `STARTER_PROJECTS` and `STARTER_ENTRIES` in `app.js` and put images in `assets/`. Existing browser storage can take precedence over updated starter records; clear this site's browser storage while testing changes to starter data.
+Built projects come from the public Notion snapshot plus the standalone TomoTomo entry. Cached source artwork, selected page miniatures, and branded cards provide visual previews. Stale browser project copies do not override the canonical feed. Photography ingestion is still pending.
 
 ## Files
 
@@ -60,9 +62,9 @@ The provided image is stored unchanged in `assets/challenger-launch.jpg`. The re
 
 ## Channel sync
 
-Writing reads shared Betting Antelope RSS snapshots. Newsletters reads finished editions from the Daily Newsletter Digest archive, once its read-only Notion key is configured. See [FEED-SETUP.md](FEED-SETUP.md) for activation, source IDs, scheduling, and limitations. The local implementation includes 20 writing previews and one existing digest; scheduled production sync still requires publishing this version.
+Notion supplies built projects, Read Later, Watch or Listen Later, and finished Daily Newsletter Digest editions through public snapshots. Betting Antelope uses RSS/archive snapshots. The workflow checks every 15 minutes; source failures retain the previous snapshot. GitHub runner access to Substack has returned HTTP 403, independently of the working Notion job, so check the latest job before claiming writing sync is healthy. Photography sync is still pending.
 
-Websites, Articles, and Photography sync are not connected yet. The accompanying `NOTION-SYNC-ACTION-LIST.md` in the project directory maps the five channels to Notion sources, publishing properties, update behavior, and the server-side publishing bridge needed by this static site.
+See [FEED-SETUP.md](FEED-SETUP.md) for approved fields, source IDs, date mappings, publishing, and limitations.
 
 ## Camera source and testing
 
