@@ -15,7 +15,7 @@ Serve locally with `python3 -m http.server 8766`, or publish this directory from
 - Search across the site's content.
 - Chat-style link previews, website cards, video recommendations, and photo attachments.
 - About me as a chat thread, a personal details toggle, five redacted case-study previews, and a tactile Betting Antelope logo attachment.
-- Jersey Shore opens a separate draggable, resizable Spring Lake beach window. The provider-approved player is pending; the window currently offers a link to NJ Beach Cams. Closing it removes any configured player and stops playback.
+- Jersey Shore opens a separate draggable, resizable window with AtTheShore’s standalone Ocean City Fishing Club fishing pier player. The full camera website is not embedded. Closing the window removes the player and stops playback.
 - An Easter egg under View → Take a break opens playable Spider Solitaire: 1/2/4 suits, legal moves, deals, completed runs, hints, undo, and a game saved on this device.
 - Comments on each item. Channel editors open with the plus button; items can be edited or removed from their detail views.
 - The File, Rec, View, and Window menus, including Surprise Me for a random video.
@@ -66,7 +66,7 @@ Websites, Articles, and Photography sync are not connected yet. The accompanying
 
 ## Camera source and testing
 
-The beach player is the [Coastal Camera Network embed](https://coastalcameranetwork.com/webcams/seaside-park/webcam-demo.php) used on the [Borough of Seaside Park’s official webcam page](https://www.seasideparknj.org/community/live_webcam.php). Playback, provider ads, and outages are controlled by the camera provider. The source link and Reconnect button stay available. No private stream URLs or expiring tokens are stored.
+The beach window uses [AtTheShore’s standalone player](https://attheshore.com/combined-player?id=14thstreetpierpzt) from the [Ocean City Fishing Club camera page](https://attheshore.com/camera/ocean-city-fishing-club-fishing-pier-pzt-cam). Playback and outages are controlled by the provider. The source link and Reconnect button stay available. No private stream URLs or expiring tokens are stored.
 
 Run `node --test tests/*.test.cjs` for reading-state and Spider rules tests.
 
@@ -77,8 +77,8 @@ See `assets/ASSET-NOTES.md` for the Betting Antelope source and texture edit.
 
 Click a channel’s rocket for **Mark all as read**, or **Mark every channel as read**. Private reader accounts are implemented behind a deployment gate. See [READER-ACCOUNTS.md](READER-ACCOUNTS.md) for backend setup, email delivery, privacy checks, and the exact remaining activation steps.
 
-## Spring Lake player setup
+## Ocean City player setup
 
-The public NJ Beach Cams page is not a player embed. Its direct HLS stream returned HTTP 403 during a check on September 30, 2026. Coastal Camera Network [offers free embeds on request](https://coastalcameranetwork.com/streaming-experts/): request the Spring Lake camera for `https://tyler.center` through their [contact page](https://coastalcameranetwork.com/contact-us/?partner=camera).
+`SHORE_EMBED_URL` in `app.js` points to the public standalone player already embedded on AtTheShore’s camera page. The endpoint responded successfully without `X-Frame-Options` or CSP frame restrictions on September 30, 2026. Its own video element requests autoplay; visitors may still need to press Play because of browser autoplay policy. We grant autoplay/fullscreen permission but do not claim that guarantees playback.
 
-Once they supply an authorized iframe player URL, set `SHORE_EMBED_URL` in `app.js`. If they supply a script-based widget, integrate that widget and its teardown instead. Use their documented muted-autoplay option; granting iframe autoplay permission alone does not start playback. Keep visible play/sound controls, credit, and the external fallback. Test actual live playback from the production domain and verify closing/reopening stops/restarts it. Until then, leave the URL empty and show the honest unavailable state.
+Keep the camera ID `14thstreetpierpzt`, visible controls, provider credit, source link, and Reconnect button. Closing destroys the iframe; opening or reconnecting creates a fresh player so the provider can manage stream authorization. Never copy the short-lived media URLs out of the provider’s player.

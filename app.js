@@ -368,15 +368,14 @@ function renderChannel(refreshControls=true) {
   }).join('');
   $('#content').innerHTML=`<div class="feed channel-feed"><div class="channel-intro"><div class="channel-symbol">#</div><h1>${esc(meta.title)}</h1><p>${esc(meta.intro || `${meta.description}.`)}</p>${safeUrl(meta.sourceUrl)?`<a class="channel-source-link" href="${esc(safeUrl(meta.sourceUrl))}" target="_blank" rel="noopener">${esc(meta.sourceLabel)}</a>`:''}</div><div class="feed-day">Beginning of #${esc(meta.title)}</div>${body||`<div class="empty-channel">${esc(filtered ? 'No matches. Try another filter or search.' : meta.empty || 'Nothing here yet. More to share soon.')}</div>`}<div class="feed-end">${filtered ? 'End of these results.' : 'You’re at the latest.'}</div></div>`;
 }
-// Add only the player URL issued by Coastal Camera Network for tyler.center.
-// Leave empty until authorized; the public webcam page is not an embed URL.
-const SHORE_EMBED_URL = '';
+// Standalone public player used by AtTheShore; it manages its own stream tokens.
+const SHORE_EMBED_URL = 'https://attheshore.com/combined-player?id=14thstreetpierpzt';
 function renderShore() {
   const embed=safeUrl(SHORE_EMBED_URL);
   const player=embed
-    ? `<div class="shore-player"><iframe id="shorePlayer" title="Live beach camera: Spring Lake, New Jersey" src="${esc(embed)}" allow="autoplay; encrypted-media; picture-in-picture; fullscreen" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>`
-    : `<div class="shore-player shore-unavailable"><span aria-hidden="true">≋</span><h2>Spring Lake</h2><p>In-window playback isn’t connected yet.<br>You can watch on NJ Beach Cams.</p><a class="secondary-button" href="https://njbeachcams.com/central-new-jersey/spring-lake-webcam/" target="_blank" rel="noopener">Open beach camera ↗</a></div>`;
-  $('#shoreContent').innerHTML=`${player}<div class="shore-caption"><span>Spring Lake · New Jersey<br>NJ Beach Cams / Coastal Camera Network</span>${embed?'<button class="secondary-button" data-action="reload-shore">Reconnect ↻</button>':''}</div>${embed?'<p class="shore-help">If playback doesn’t start, press play. Use the player controls for sound and fullscreen.</p><a class="shore-source" href="https://njbeachcams.com/central-new-jersey/spring-lake-webcam/" target="_blank" rel="noopener">Camera source & current broadcast ↗</a>':''}`;
+    ? `<div class="shore-player"><iframe id="shorePlayer" title="Live beach camera: Ocean City Fishing Club fishing pier, New Jersey" src="${esc(embed)}" allow="autoplay; encrypted-media; picture-in-picture; fullscreen" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>`
+    : `<div class="shore-player shore-unavailable"><span aria-hidden="true">≋</span><h2>Ocean City Fishing Club</h2><p>In-window playback isn’t connected yet.<br>You can watch on AtTheShore.</p><a class="secondary-button" href="https://attheshore.com/camera/ocean-city-fishing-club-fishing-pier-pzt-cam" target="_blank" rel="noopener">Open beach camera ↗</a></div>`;
+  $('#shoreContent').innerHTML=`${player}<div class="shore-caption"><span>Ocean City Fishing Club · Fishing pier<br>Ocean City, NJ / AtTheShore</span>${embed?'<button class="secondary-button" data-action="reload-shore">Reconnect ↻</button>':''}</div>${embed?'<p class="shore-help">If playback doesn’t start, press play. Use the player controls for sound and fullscreen.</p><a class="shore-source" href="https://attheshore.com/camera/ocean-city-fishing-club-fishing-pier-pzt-cam" target="_blank" rel="noopener">Camera source & current broadcast ↗</a>':''}`;
 }
 function openShore() {
   closeSidebar();closeDesktopMenu();

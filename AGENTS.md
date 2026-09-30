@@ -13,6 +13,6 @@
 
 - The Jersey Shore icon opens its own draggable, resizable window, separate from the channel window.
 - Embed only the provider-approved player, never the full webcam website.
-- Spring Lake requires a working embed issued for `tyler.center`. Do not copy another domain's authorization, generate provider tokens, or proxy around stream restrictions.
+- Use AtTheShore’s standalone `combined-player?id=14thstreetpierpzt` player for the Ocean City Fishing Club camera. The provider manages its own stream tokens; never save expiring stream URLs or generate tokens. Do not proxy around stream restrictions.
 - Keep the source credit and an external fallback link. Closing the window must remove the player and stop playback.
 - An HTTP success or iframe load event does not prove video playback. Verify playback in a browser before reporting it working; state clearly when verification is blocked.
