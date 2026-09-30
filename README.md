@@ -14,7 +14,7 @@ Open `index.html` locally, or publish this directory from the root of a GitHub P
 - Locally hosted Special Elite typewriter font and original procedural print textures.
 - Search across the site's content.
 - Chat-style link previews, website cards, video recommendations, and photo attachments.
-- About me as a chat thread, a personal details toggle, five redacted case-study files with downloadable notes, and a tactile Betting Antelope logo attachment.
+- About me as a chat thread, a personal details toggle, five redacted case-study previews, and a tactile Betting Antelope logo attachment.
 - Jersey Shore opens a separate draggable, resizable window showing the Borough of Seaside Park’s live beach broadcast. Closing it destroys the player and stops playback.
 - An Easter egg under View → Take a break opens playable Spider Solitaire: 1/2/4 suits, legal moves, deals, completed runs, hints, undo, and a game saved on this device.
 - Comments on each item. Channel editors open with the plus button; items can be edited or removed from their detail views.

@@ -22,6 +22,6 @@ function aboutThread() {
 }
 function showCaseStudy(index) {
   const item=CASE_STUDIES[index];if(!item)return;
-  $('#modalRoot').innerHTML=`<div class="modal-overlay" data-close-modal><div class="modal case-study-modal" role="dialog" aria-modal="true" aria-label="Case study: ${esc(item.title)}"><div class="modal-top"><span class="eyebrow">CASE STUDY / 0${index+1}</span><button class="close-button" data-close-modal aria-label="Close">×</button></div><div class="modal-body"><div class="redaction-label">COMPANY NAME: <span class="redacted-bar" aria-hidden="true"></span> REDACTED</div><h2>${esc(item.title)}</h2><p class="case-study-body">${esc(item.body)}</p><p class="case-study-note">A short account of the work. Client identity withheld.</p><a class="secondary-button" href="assets/case-studies/${item.file}" download>Download field note ↓</a></div></div></div>`;
+  $('#modalRoot').innerHTML=`<div class="modal-overlay" data-close-modal><div class="modal case-study-modal" role="dialog" aria-modal="true" aria-label="Case study: ${esc(item.title)}"><div class="modal-top"><span class="eyebrow">CASE STUDY / 0${index+1}</span><button class="close-button" data-close-modal aria-label="Close">×</button></div><div class="modal-body"><div class="redaction-label">COMPANY NAME: <span class="redacted-bar" aria-hidden="true"></span> REDACTED</div><h2>${esc(item.title)}</h2><p class="case-study-body">${esc(item.body)}</p><p class="case-study-note">A short account of the work. Client identity withheld.</p></div></div></div>`;
   $('#modalRoot .close-button').focus();
 }
