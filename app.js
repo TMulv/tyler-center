@@ -3,7 +3,7 @@ const CONTACT = { email: '', instagram: '', linkedin: 'https://www.linkedin.com/
 
 const CHANNELS = [
   {id:'websites', title:'websites', description:"Websites I've built"},
-  {id:'articles', title:'articles', description:'Articles worth sharing'},
+  {id:'articles', title:'articles', description:'Biased news. Leaning Tyler-wing', intro:'All news is biased. This is mine. Welcome to Tyler.Center—you’re leaning Tyler-wing.'},
   {id:'watch', title:'watch', description:'Videos I recommend watching'},
   {id:'writing', title:'writing', description:'Blogs and published writing'},
   {id:'photography', title:'photography', description:'Photos I have taken'}
@@ -210,7 +210,7 @@ function renderChannel() {
     const divider=String(record.id)===sessionCheckpoint?'<div class="read-divider last-read-divider">You left off here</div>':record.id===sessionFirstUnread?'<div class="read-divider">New since your last visit</div>':'';
     return `${divider}<article class="message timeline-message" data-message-id="${esc(record.id)}"><div class="message-avatar tyler-avatar"><img src="assets/tyler-avatar.png" alt="" width="40" height="40"></div><div class="message-body"><div class="message-meta"><strong>Tyler</strong><span>${esc(dateLabel)}</span></div><p>${esc(record.note||record.description)}</p>${attachment}<button class="comment-link" data-${type}="${esc(record.id)}">♧ &nbsp; ${commentCount(type,record.id)} comments · Open thread</button></div></article>`;
   }).join('');
-  $('#content').innerHTML=`<div class="feed channel-feed"><div class="channel-intro"><div class="channel-symbol">#</div><h1>${esc(meta.title)}</h1><p>${esc(meta.description)}.</p></div><div class="feed-day">Beginning of #${esc(activeChannel)}</div>${body||'<div class="empty-channel">Nothing here yet. More to share soon.</div>'}<div class="feed-end">You’re at the latest.</div></div>`;
+  $('#content').innerHTML=`<div class="feed channel-feed"><div class="channel-intro"><div class="channel-symbol">#</div><h1>${esc(meta.title)}</h1><p>${esc(meta.intro || `${meta.description}.`)}</p></div><div class="feed-day">Beginning of #${esc(activeChannel)}</div>${body||'<div class="empty-channel">Nothing here yet. More to share soon.</div>'}<div class="feed-end">You’re at the latest.</div></div>`;
 }
 function renderShore() {
   $('#shoreContent').innerHTML=`<div class="shore-player"><iframe id="shorePlayer" title="Live beach camera: Seaside Park, New Jersey" src="https://coastalcameranetwork.com/webcams/seaside-park/webcam-demo.php" allow="autoplay; encrypted-media; picture-in-picture; fullscreen" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div><div class="shore-caption"><span>Seaside Park · beach<br>Borough of Seaside Park / Coastal Camera Network</span><button class="secondary-button" data-action="reload-shore">Reconnect ↻</button></div><p class="shore-help">Live from the beach. Press play if needed; use the player for fullscreen. If the feed stops, try reconnecting.</p><a class="shore-source" href="https://www.seasideparknj.org/community/live_webcam.php" target="_blank" rel="noopener">Camera source & current broadcast ↗</a>`;
