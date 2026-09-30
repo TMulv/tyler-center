@@ -77,6 +77,9 @@ def main():
     for channel in ('articles','websites'):
         for row in json.loads((ROOT/f'data/{channel}.json').read_text())['entries']:
             if article_url(row.get('url','')):urls[row['url']]=channel=='websites'
+    project_sources=json.loads((ROOT/'data/project-preview-sources.json').read_text())
+    for url in project_sources:
+        if article_url(url):urls[url]=True
     previews={url:value for url,value in previous.items() if url in urls}
     now=datetime.now(timezone.utc);due=[]
     for url,art in urls.items():
@@ -92,6 +95,10 @@ def main():
         for url,meta,ok in pool.map(get,due):
             successes+=ok
             previews[url]={**previews.get(url,{}),**meta,'checkedAt':now.isoformat(),'available':ok}
+    for url,source in project_sources.items():
+        if url in previews and not previews[url].get('image'):
+            image=absolute_asset(url,source.get('image',''))
+            if image:previews[url]['image']=image
     payload=json.dumps({'version':1,'previews':previews},ensure_ascii=False,indent=2)+'\n'
     if not path.exists() or path.read_text()!=payload:
         temporary=path.with_suffix('.tmp');temporary.write_text(payload);temporary.replace(path)

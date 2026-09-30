@@ -102,3 +102,17 @@
 .shore-unavailable h2{font:400 24px 'Special Elite',monospace;margin:0}
 .shore-unavailable p{font:16px/1.5 Georgia,serif;margin:0}
 .shore-unavailable .secondary-button{display:inline-block;margin-top:4px;text-decoration:none}
+
+/* Noninteractive page miniatures stay inside the card's single external link. */
+.project-page-preview{position:relative;aspect-ratio:16/10;overflow:hidden;background:#e9e5d3;border-bottom:1px solid #a6afa0;pointer-events:none}
+.project-page-preview iframe{position:absolute;inset:0;width:200%;height:200%;border:0;transform:scale(.5);transform-origin:top left;pointer-events:none}
+.project-page-label{position:absolute;bottom:9px;right:9px;padding:5px 8px;background:#f1eedfe8;color:#254959;font:11px/1.3 Arial,sans-serif}
+.project-brand-preview{min-height:220px;display:flex;flex-direction:column;justify-content:center;gap:14px;padding:28px;background:var(--grain),#d9dfcf;color:#234653;border-bottom:1px solid #a6afa0}
+.project-brand-preview>span,.project-brand-preview>small{font:11px/1.5 Arial,sans-serif;letter-spacing:.06em}
+.project-brand-preview>strong{font:32px/1.1 var(--heading-font);overflow-wrap:anywhere}
+.project-brand-preview>p{font:18px/1.5 var(--reading-font);margin:0}
+.butter-project-preview{background:#131c19;color:#efeede;border-top:5px solid #d9dd94}
+.butter-project-preview>span,.butter-project-preview>small{color:#d9dd94}
+.project-preview-mode .desktop-icons,.project-preview-mode .desktop-menu-bar{display:none}
+.project-preview-mode #appWindow{inset:10px!important;width:calc(100vw - 20px)!important;height:calc(100vh - 20px)!important;transform:none!important}
+.project-preview-mode #contentScroll{overflow:hidden}

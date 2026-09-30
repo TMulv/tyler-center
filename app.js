@@ -167,6 +167,12 @@ function writeStore(name,mode,value) {
 function fallbackRead(name,defaultValue) { try { return JSON.parse(localStorage.getItem(`tylers-shelf-${name}`)) || defaultValue; } catch { return defaultValue; } }
 function fallbackWrite(name,value) { localStorage.setItem(`tylers-shelf-${name}`,JSON.stringify(value)); }
 async function initialize() {
+  // The self-preview renders About me without accounts, feed polling, or nested cards.
+  if(window.self!==window.top && new URLSearchParams(location.search).get('project-preview')==='1') {
+    document.documentElement.classList.add('project-preview-mode');
+    navigate('home');
+    return;
+  }
   try {
     database = await openDatabase();
     [projects,entries,comments] = await Promise.all(['projects','entries','comments'].map(readStore));
@@ -292,7 +298,7 @@ function navigate(channel) {
 }
 function projectCard(project) {
   const url = safeUrl(project.url);
-  if (url) return `<a class="preview-link project-source-link" href="${esc(url)}" target="_blank" rel="noopener noreferrer" aria-label="Open ${esc(project.title)} on ${isAppStoreProject(project) ? 'the App Store' : esc(domainOf(url))}">${linkPreview({...project,kind:project.category})}</a>`;
+  if (url) return `<a class="preview-link project-source-link" href="${esc(url)}" target="_blank" rel="noopener noreferrer" aria-label="Open ${esc(project.title)} on ${isAppStoreProject(project) ? 'the App Store' : esc(domainOf(url))}">${linkPreview({...project,channel:'websites',kind:project.category})}</a>`;
   const image = safeImage(project.image);
   return `<button class="project-card" data-project="${esc(project.id)}" aria-label="View ${esc(project.title)}"><div class="project-preview">${image ? `<img src="${esc(image)}" alt="Preview of ${esc(project.title)}">` : '<div class="project-art">✦</div>'}<span class="preview-badge">${project.builtIn ? 'Original prototype' : 'Website'}</span></div><div class="project-details"><span class="project-category">${esc(project.category)}</span><h3>${esc(project.title)}</h3><p>${esc(project.description)}</p><div class="project-bottom"><span>Concept preview</span><b>Explore ↗</b></div></div></button>`;
 }
@@ -307,9 +313,11 @@ function linkPreview(entry) {
   const url = safeUrl(entry.url), metadata = {...(LINK_PREVIEWS[url] || {}),...(PUBLIC_PREVIEWS[url] || {})};
   const image = safeImage(entry.image) || ChannelFeeds.previewImage(entry.image) || publicPreviewAsset(metadata.image);
   const title = entry.channel==='websites' || entry.projectStatus ? entry.title : metadata.title || entry.title;
-  const description = metadata.description || entry.description;
+  const description = entry.channel==='websites' ? entry.description || metadata.description : metadata.description || entry.description;
   const site = metadata.site || entry.domain || domainOf(url) || entry.kind;
-  return `<div class="link-preview source-preview ${image ? 'has-source-image' : ''}">${image ? `<div class="source-preview-image"><img src="${esc(image)}" alt="${esc(title)} — preview from ${esc(site)}" loading="lazy" decoding="async" referrerpolicy="no-referrer" onerror="this.parentElement.hidden=true;this.parentElement.nextElementSibling.hidden=false"></div>` : ''}${domainPreview(url, metadata, !!image)}<div class="link-preview-copy"><small>${esc(site)}${domainOf(url) && site !== domainOf(url) ? ` · ${esc(domainOf(url))}` : ''}</small><strong>${esc(title)}</strong><p>${esc(description)}</p>${url ? '<span class="source-preview-open">Open original ↗</span>' : ''}</div></div>`;
+  const projectVisual=entry.channel==='websites'?projectPreviewVisual(entry,metadata,image):'';
+  const artwork=image ? `<div class="source-preview-image"><img src="${esc(image)}" alt="${esc(title)} — preview from ${esc(site)}" loading="lazy" decoding="async" referrerpolicy="no-referrer" onerror="this.parentElement.hidden=true;this.parentElement.nextElementSibling.hidden=false"></div>` : '';
+  return `<div class="link-preview source-preview ${image ? 'has-source-image' : ''}">${projectVisual || artwork+domainPreview(url, metadata, !!image)}<div class="link-preview-copy"><small>${esc(site)}${domainOf(url) && site !== domainOf(url) ? ` · ${esc(domainOf(url))}` : ''}</small><strong>${esc(title)}</strong><p>${esc(description)}</p>${url ? '<span class="source-preview-open">Open original ↗</span>' : ''}</div></div>`;
 }
 function renderChannelFilters() {
   const records = channelRecords(activeChannel), options = ChannelFilters.options(records,activeChannel);

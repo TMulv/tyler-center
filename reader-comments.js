@@ -1,4 +1,5 @@
 (function(root) {
+  if(document.documentElement?.classList.contains("project-preview-mode"))return;
   let threadVersion=0;
   const account=()=>root.ReaderUI?.account;
   function section(type,id) {

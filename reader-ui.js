@@ -1,4 +1,5 @@
 (function(root) {
+  if(document.documentElement?.classList.contains("project-preview-mode"))return;
   'use strict';
   const account=ReaderAccount.create(root.TYLER_READER_CONFIG, root.supabase?.createClient);
   let current=account.state(), pendingSave=null, email='', busy=false, refreshAt=0;

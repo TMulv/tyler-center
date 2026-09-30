@@ -120,3 +120,6 @@ The sync workflow has separate **Notion channels** and **Betting Antelope writin
 
 
 Project timestamps in #what-i’ve-built come from the Notion `date ` property (matched case-insensitively after trimming whitespace), never the row’s creation or import timestamp. Calendar dates stay YYYY-MM-DD, so display and year filtering preserve the selected day. Empty dates display “Date not set”; a missing/renamed date property fails the sync without replacing the previous snapshot. The standalone TomoTomo app remains separate from this domains database.
+
+
+Built-project previews use the original site's social artwork where available. `data/project-preview-sources.json` includes the standalone TomoTomo App Store URL in scheduled metadata refreshes and a public Mulvey.World gallery thumbnail fallback. GatoradeMovie and Tyler.Center have noninteractive, sandboxed page miniatures; Tyler.Center's preview mode skips feeds/accounts to avoid recursive previews. Butter.Living blocks framing, so its card uses its real public landing-page name and wording. Do not remove its frame restrictions or proxy around them. New projects without artwork receive a branded title/domain card. Every card remains one normal external link.
