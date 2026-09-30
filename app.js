@@ -3,7 +3,7 @@ const CONTACT = { email: '', instagram: '', linkedin: 'https://www.linkedin.com/
 
 const CHANNELS = [
   {id:'websites', title:"what-i've-built", description:"Apps and websites I’ve made"},
-  {id:'articles', title:'read-later', description:"What I’m saving to read", intro:"Articles I’m saving for later. I’ll mark them as read when I’ve read them. All news is biased, but this is news that's biasing me. (Warning: you may become Tyler leaning after reading what I'm reading.)"},
+  {id:'articles', title:'read-later', managed:true, description:"What I’m saving to read", intro:"Articles I’m saving for later. I’ll mark them as read when I’ve read them. All news is biased, but this is news that's biasing me. (Warning: you may become Tyler leaning after reading what I'm reading.)"},
   {id:'watch', title:'watch', description:'Videos I recommend watching'},
   {id:'writing', title:'writing', description:'My NFL picks and writing from Betting Antelope', intro:'My writing on Betting Antelope. New posts show up here when I publish.', managed:true, sourceUrl:'https://bettingantelope.substack.com/', sourceLabel:'Read Betting Antelope ↗'},
   {id:'newsletters', title:'daily-newsletter', description:'Daily highlights from the newsletters I subscribe to', managed:true, intro:'I subscribe to a carefully picked mix of paid and free newsletters. I can’t read every issue every day. My newsletter agent pulls the highlights into one daily digest.', empty:'The first digest will appear here once the archive is connected.'},
@@ -19,9 +19,6 @@ const STARTER_PROJECTS = [{
   url:'https://apps.apple.com/us/app/tomotomo/id6778601579', image:'', created:'2026-09-30'
 }];
 const STARTER_ENTRIES = [
-  {id:'great-work', channel:'articles', title:'How to Do Great Work', kind:'Essay', domain:'paulgraham.com', url:'https://paulgraham.com/greatwork.html', description:'A long essay on picking a field, following curiosity, and making things that matter.', note:'A reminder to keep following the interesting questions.', image:''},
-  {id:'tail-end', channel:'articles', title:'The Tail End', kind:'Article', domain:'waitbutwhy.com', url:'https://waitbutwhy.com/2015/12/the-tail-end.html', description:'Your life in weeks, and the time you have with the people you love.', note:'The one that makes you call home.', image:''},
-  {id:'garden', channel:'articles', title:'A Brief History of the Digital Garden', kind:'Article', domain:'maggieappleton.com', url:'https://maggieappleton.com/garden-history', description:'Why personal sites that grow slowly are so compelling.', note:'A fitting idea for a place like this.', image:''},
   {id:'viral-video', channel:'watch', title:'Never Gonna Give You Up', kind:'Video · demo', domain:'YouTube', url:'https://www.youtube.com/watch?v=dQw4w9WgXcQ', description:'A demo video from the original site. Replace it with your own recommendations.', note:'A small piece of internet history.', image:''},
   {id:'why-site', channel:'writing', title:'Why this site exists', kind:'Sample post', domain:"Tyler.Center", url:'', description:'A shelf for the stuff I keep texting people about.', note:'A sample introduction. Replace this with your own blog post or a Betting Antelope article.', image:''}
 ];
@@ -164,7 +161,7 @@ async function refreshFeeds() {
   refreshingFeeds = true;
   const oldEntries = JSON.stringify(publishedEntries);
   try {
-    const results = await Promise.allSettled(['writing','newsletters'].map(async channel => {
+    const results = await Promise.allSettled(['writing','newsletters','articles'].map(async channel => {
       const response = await fetch(`data/${channel}.json`, {cache:'no-store', signal:AbortSignal.timeout(15000)});
       if (!response.ok) throw new Error('Feed unavailable');
       return {channel, records:ChannelFeeds.validate(await response.json(), channel)};
@@ -178,7 +175,7 @@ async function refreshFeeds() {
       const anchor = [...document.querySelectorAll('[data-message-id]')].find(el => el.getBoundingClientRect().bottom > viewport.getBoundingClientRect().top);
       const anchorId = anchor?.dataset.messageId, anchorTop = anchor?.getBoundingClientRect().top;
       renderNav();
-      if (['writing','newsletters'].includes(activeChannel)) {
+      if (['writing','newsletters','articles'].includes(activeChannel)) {
         const oldTop = viewport.scrollTop;
         if (!sessionFirstUnread) sessionFirstUnread = ChannelReadState.ordered(channelRecords(activeChannel)).find(record => ChannelReadState.count([record],readState,activeChannel))?.id || null;
         $('#lastReadButton').disabled = !sessionCheckpoint && !sessionFirstUnread;
@@ -267,11 +264,12 @@ function linkPreview(entry) {
 }
 function renderChannelFilters() {
   const records = channelRecords(activeChannel), options = ChannelFilters.options(records,activeChannel);
-  const filter = channelFilters[activeChannel] ||= {type:'',year:'',query:''};
+  const filter = channelFilters[activeChannel] ||= {type:'',year:'',status:'',query:''};
   const typeControls = activeChannel === 'websites'
     ? `<div class="filter-types" role="group" aria-label="Project type">${['',...options.types].map(type=>`<button type="button" data-filter-type="${esc(type)}" aria-pressed="${filter.type===type}">${type||'All'}</button>`).join('')}</div>`
     : options.types.length > 1 ? `<label class="filter-select">Type <select id="channelTypeFilter" aria-label="Filter by type"><option value="">All types</option>${options.types.map(type=>`<option ${filter.type===type?'selected':''}>${esc(type)}</option>`).join('')}</select></label>` : '';
-  $('#channelFilters').innerHTML = `${typeControls}${options.years.length > 1 ? `<label class="filter-select">Year <select id="channelYearFilter" aria-label="Filter by year"><option value="">All years</option>${options.years.map(year=>`<option ${filter.year===year?'selected':''}>${year}</option>`).join('')}</select></label>` : ''}<input id="channelQueryFilter" type="search" aria-label="Search this channel" placeholder="Search this channel…" value="${esc(filter.query)}"><span id="channelFilterCount" role="status" aria-live="polite"></span>`;
+  const statusControl = activeChannel === 'articles' ? `<label class="filter-select">Tyler’s status <select id="channelStatusFilter" aria-label="Filter by Tyler’s reading status"><option value="">All statuses</option>${['To Read','Priority','Reading','Read','Archive','Not marked'].map(status=>`<option value="${status}" ${filter.status===status?'selected':''}>${status}</option>`).join('')}</select></label>` : '';
+  $('#channelFilters').innerHTML = `${typeControls}${statusControl}${options.years.length > 1 ? `<label class="filter-select">Year <select id="channelYearFilter" aria-label="Filter by year"><option value="">All years</option>${options.years.map(year=>`<option ${filter.year===year?'selected':''}>${year}</option>`).join('')}</select></label>` : ''}<input id="channelQueryFilter" type="search" aria-label="Search this channel" placeholder="Search this channel…" value="${esc(filter.query)}"><span id="channelFilterCount" role="status" aria-live="polite"></span>`;
 }
 function applyChannelFilter() {
   renderChannel(false);
@@ -296,7 +294,7 @@ function renderChannel(refreshControls=true) {
   if (refreshControls) renderChannelFilters();
   const filter=channelFilters[activeChannel] || {};
   const list=ChannelReadState.ordered(ChannelFilters.apply(records,activeChannel,filter));
-  const filtered=!!(filter.type || filter.year || filter.query?.trim());
+  const filtered=!!(filter.type || filter.year || filter.status || filter.query?.trim());
   $('#channelFilterCount').textContent=`${list.length} of ${records.length}`;
   $('#lastReadButton').disabled=!list.some(record=>String(record.id)===String(sessionCheckpoint || sessionFirstUnread));
   const type=activeChannel==='websites'?'project':'entry';
@@ -308,7 +306,7 @@ function renderChannel(refreshControls=true) {
     else if(activeChannel==='photography') attachment=`<button class="chat-photo" data-entry="${esc(record.id)}">${safeImage(record.image)?`<img src="${esc(safeImage(record.image))}" alt="${esc(record.title)}">`:'<span class="photo-placeholder">▧</span>'}<strong>${esc(record.title)}</strong></button>`;
     else attachment=safeUrl(record.url)?`<a href="${esc(safeUrl(record.url))}" target="_blank" rel="noopener noreferrer" class="preview-link">${linkPreview(record)}</a>`:`<button class="preview-link" data-entry="${esc(record.id)}">${linkPreview(record)}</button>`;
     const divider=String(record.id)===sessionCheckpoint?'<div class="read-divider last-read-divider">You left off here</div>':record.id===sessionFirstUnread?'<div class="read-divider">New since your last visit</div>':'';
-    return `${divider}<article class="message timeline-message" data-message-id="${esc(record.id)}"><div class="message-avatar ${author.className}"><img src="${author.image}" alt="" width="40" height="40"></div><div class="message-body"><div class="message-meta"><strong>${esc(author.name)}</strong>${messageTimestamp(date)}</div><p>${ChannelFeeds.linkedText(record.note||record.description||'')}</p>${attachment}<button class="comment-link" data-${type}="${esc(record.id)}">♧ &nbsp; ${commentCount(type,record.id)} comments · Open thread</button></div></article>`;
+    return `${divider}<article class="message timeline-message" data-message-id="${esc(record.id)}"><div class="message-avatar ${author.className}"><img src="${author.image}" alt="" width="40" height="40"></div><div class="message-body"><div class="message-meta"><strong>${esc(author.name)}</strong>${record.channel==='articles'?'<span class="saved-label">Saved</span>':''}${messageTimestamp(date)}${record.readingStatus?`<span class="reading-status">${esc(record.readingStatus)}</span>`:''}</div><p>${ChannelFeeds.linkedText(record.note||record.description||'')}</p>${attachment}<button class="comment-link" data-${type}="${esc(record.id)}">♧ &nbsp; ${commentCount(type,record.id)} comments · Open thread</button></div></article>`;
   }).join('');
   $('#content').innerHTML=`<div class="feed channel-feed"><div class="channel-intro"><div class="channel-symbol">#</div><h1>${esc(meta.title)}</h1><p>${esc(meta.intro || `${meta.description}.`)}</p>${safeUrl(meta.sourceUrl)?`<a class="channel-source-link" href="${esc(safeUrl(meta.sourceUrl))}" target="_blank" rel="noopener">${esc(meta.sourceLabel)}</a>`:''}</div><div class="feed-day">Beginning of #${esc(meta.title)}</div>${body||`<div class="empty-channel">${esc(filtered ? 'No matches. Try another filter or search.' : meta.empty || 'Nothing here yet. More to share soon.')}</div>`}<div class="feed-end">${filtered ? 'End of these results.' : 'You’re at the latest.'}</div></div>`;
 }
@@ -539,7 +537,7 @@ $('#channelFilters').addEventListener('input',event=>{
   channelFilters[activeChannel].query=event.target.value;applyChannelFilter();
 });
 $('#channelFilters').addEventListener('change',event=>{
-  const key={channelTypeFilter:'type',channelYearFilter:'year'}[event.target.id];
+  const key={channelTypeFilter:'type',channelYearFilter:'year',channelStatusFilter:'status'}[event.target.id];
   if(key){channelFilters[activeChannel][key]=event.target.value;applyChannelFilter();}
 });
 document.addEventListener('error',event=>{

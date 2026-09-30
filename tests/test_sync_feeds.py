@@ -133,3 +133,62 @@ class SyncTests(unittest.TestCase):
 
 if __name__ == '__main__':
     unittest.main()
+
+
+class ReadLaterTests(unittest.TestCase):
+    def page(self, status='Read'):
+        return {'id':'abc-123', 'created_time':'2026-09-01T12:00:00Z', 'properties': {
+            'Title': {'title':[{'plain_text':'An article'}]},
+            'Link': {'url':'https://example.com/story?utm_source=email&ueid=PRIVATE&part=2'},
+            'Date added': {'created_time':'2026-08-01T12:00:00Z'},
+            'Status': {'status':{'name':status} if status else None},
+            'Notes': {'rich_text':[{'plain_text':'PRIVATE NOTE'}]},
+            'ADHD Summary': {'rich_text':[{'plain_text':'PRIVATE SUMMARY'}]},
+            'Files': {'files':[{'url':'https://private.example/PRIVATE.pdf'}]}}}
+
+    def test_exact_public_allowlist_and_saved_date(self):
+        record = sync.read_later_record(self.page())
+        self.assertEqual(set(record), {'id','channel','source','title','url','publishedAt','readingStatus'})
+        self.assertEqual(record['publishedAt'], '2026-08-01T12:00:00Z')
+        self.assertEqual(record['url'], 'https://example.com/story?part=2')
+        self.assertEqual(record['readingStatus'], 'Read')
+        self.assertNotIn('PRIVATE', json.dumps(record))
+        changed = self.page('Reading')
+        changed['last_edited_time'] = '2026-09-30T12:00:00Z'
+        self.assertEqual(sync.read_later_record(changed)['id'], record['id'])
+
+    def test_unset_status_missing_links_and_removed_pages(self):
+        page = self.page(None)
+        page['properties']['Link']['url'] = None
+        record = sync.read_later_record(page)
+        self.assertEqual(record['readingStatus'], 'Not marked')
+        self.assertEqual(record['url'], '')
+        # Archive status remains a faithful status; actual archived pages disappear.
+        self.assertEqual(sync.read_later_record(self.page('Archive'))['readingStatus'], 'Archive')
+        page['archived'] = True
+        self.assertIsNone(sync.read_later_record(page))
+        with self.assertRaises(ValueError): sync.read_later_record(self.page('Unknown'))
+
+    def test_private_and_signed_article_links_are_excluded(self):
+        for url in ['https://app.notion.com/private', 'https://bucket.s3.amazonaws.com/private.pdf',
+                    'https://example.com/file?X-Amz-Signature=private', 'https://example.com/file?token=private',
+                    'http://127.0.0.1/private', 'https://user:pass@example.com/story']:
+            self.assertEqual(sync.article_url(url), '')
+        self.assertEqual(sync.article_url('https://example.com/story?giftId=public-gift'), 'https://example.com/story?giftId=public-gift')
+
+    def test_only_queries_properties_and_keeps_snapshot_on_partial_failure(self):
+        page = self.page()
+        class FakeNotion:
+            def pages(self, route, query=False):
+                assert route == f'data_sources/{sync.READ_LATER}/query' and query
+                yield page
+                raise RuntimeError('second page failed')
+        with tempfile.TemporaryDirectory() as directory, patch.object(sync, 'ROOT', Path(directory)), patch.dict(sync.os.environ, {'NOTION_TOKEN':'test'}):
+            path = Path(directory) / 'data/articles.json'
+            sync.write_snapshot(path, [sync.read_later_record(page)])
+            before = path.read_bytes()
+            with patch.object(sync, 'Notion', return_value=FakeNotion()):
+                with self.assertRaises(RuntimeError): sync.sync_read_later()
+            self.assertEqual(path.read_bytes(), before)
+            with patch.object(sync, 'collect_read_later', return_value=[]): sync.sync_read_later()
+            self.assertEqual(sync.read_snapshot(path), [])

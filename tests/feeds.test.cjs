@@ -41,3 +41,13 @@ test('preview images accept known source artwork and reject unrelated or unsafe 
   }
   for(const url of ['javascript:alert(1)','http://is1-ssl.mzstatic.com/a.jpg','https://is1-ssl.mzstatic.com.evil.example/a.jpg','https://127.0.0.1/a.jpg']) assert.equal(previewImage(url),'');
 });
+
+test('Read Later only exposes approved metadata and replaces sample articles',()=>{
+  const record={id:'readlater-abc',channel:'articles',title:'Saved story',url:'https://example.com/story',publishedAt:'2026-09-01T12:00:00Z',readingStatus:'Read',note:'PRIVATE',body:'PRIVATE',description:'PRIVATE',blocks:[{runs:[{text:'PRIVATE'}]}],links:[{url:'https://private.example'}]};
+  const [entry]=validate({version:1,entries:[record]},'articles');
+  assert.equal(entry.readingStatus,'Read');
+  assert.equal(entry.source,'notion');
+  assert.doesNotMatch(JSON.stringify(entry),/PRIVATE|private.example/);
+  assert.deepEqual(merge([{id:'great-work',channel:'articles'},{id:'other',channel:'watch'}],[entry]),[{id:'other',channel:'watch'},entry]);
+  assert.throws(()=>validate({version:1,entries:[{...record,readingStatus:'unknown'}]},'articles'));
+});

@@ -5,12 +5,23 @@
     const seen = new Set();
     return payload.entries.map(item => {
       if (!item || item.channel !== channel || typeof item.id !== 'string' || seen.has(item.id) ||
-          !item.id.startsWith(channel === 'writing' ? 'rss-' : 'digest-') ||
+          !item.id.startsWith(channel === 'writing' ? 'rss-' : channel === 'articles' ? 'readlater-' : 'digest-') ||
           typeof item.title !== 'string' || !item.title.trim() || !Number.isFinite(Date.parse(item.publishedAt))) {
         throw new Error('Invalid feed entry');
       }
       seen.add(item.id);
       const entry = {id:item.id, channel, source:channel === 'writing' ? 'rss' : 'notion', publishedAt:item.publishedAt};
+      if (channel === 'articles') {
+        const statuses = ['To Read','Priority','Reading','Read','Archive','Not marked'];
+        if (!statuses.includes(item.readingStatus)) throw new Error('Invalid reading status');
+        entry.title = item.title;
+        entry.url = link(item.url);
+        entry.readingStatus = item.readingStatus;
+        entry.kind = 'Article';
+        entry.domain = entry.url ? new URL(entry.url).hostname.replace(/^www\./,'') : 'Read Later';
+        entry.description = entry.url ? '' : 'The original article link hasn’t been added yet.';
+        return entry;
+      }
       for (const key of ['title','kind','domain','description','body']) entry[key] = typeof item[key] === 'string' ? item[key] : '';
       entry.url = link(item.url);
       if (previewImage(item.image)) entry.image = previewImage(item.image);
@@ -69,7 +80,7 @@
   }
   function merge(local, published) {
     const sharedIds = new Set(published.map(e => e.id));
-    return [...local.filter(e => e.id !== 'why-site' && !sharedIds.has(e.id)), ...published];
+    return [...local.filter(e => e.channel !== 'articles' && e.id !== 'why-site' && !sharedIds.has(e.id)), ...published];
   }
   root.ChannelFeeds = {validate, merge, linkedText, renderBody, previewImage};
   if (typeof module !== 'undefined') module.exports = root.ChannelFeeds;

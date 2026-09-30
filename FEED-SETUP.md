@@ -1,6 +1,6 @@
 # Publishing channel feeds
 
-The site includes the full public Betting Antelope archive as linked previews and one existing newsletter edition as an initial snapshot. The scheduled workflow runs in GitHub Actions. The Notion API connection still needs a successful production run to confirm access.
+The site includes the full public Betting Antelope archive as linked previews and one existing newsletter edition as an initial snapshot. The scheduled workflow runs in GitHub Actions. The Notion newsletter connection has completed a successful production run.
 
 ## Turn on RSS
 
@@ -76,3 +76,14 @@ Channel descriptions and filters remain above the scroll area. Projects filter b
 ### September 30 sync repair
 
 The repository secret is named `NOTION_TOKEN_NEWSLETTER`; the workflow maps it to the script’s `NOTION_TOKEN` environment variable, with the older secret name as a fallback. RSS errors now report safe HTTP codes. If the RSS request fails, the sync tries the same publication’s public archive, preserving existing history and stable IDs. If both sources fail, the snapshot is left intact and the run fails. This fallback has been tested locally; success on GitHub’s runner remains to be verified after publishing.
+
+
+## Read Later → #read-later
+
+The user approved public publication of titles, article links, saved dates, and reading statuses on September 30, 2026. The importer queries data source `a08dfd74-875d-4998-affe-968c65c3e41f` using the same read-only Notion connection and existing repository secret. It does not read page bodies, Notes, ADHD Summary, file properties, or PDF attachments. The public snapshot only contains those approved fields plus stable record IDs and channel/source identifiers.
+
+The entire data source is synced, so changing a status to Read keeps the article visible. Unset statuses display Not marked. The Archive status is preserved; actually archiving/deleting a page removes it after the next successful sync. Missing article links remain blank; there is no fallback to a private Notion page or attachment. Known email tracking parameters and signed file links are removed.
+
+Edit Title, Link, or Status in Notion to update the corresponding public message. Date added determines its saved timestamp and order. The scheduled workflow checks every 15 minutes, with possible GitHub scheduling and Pages deployment delays; the open website refreshes snapshots every minute. New saves appear automatically. The status filter describes Tyler’s reading status, independently of visitors’ unread badges. Historical Git commits can retain previously published metadata.
+
+Run `python3 scripts/sync_feeds.py read-later` with NOTION_TOKEN set for a local sync. Any query or schema error preserves the previous complete snapshot. Independent source steps let Read Later and the newsletter publish even when RSS fails. As of September 30, Substack returns HTTP 403 for both RSS and archive requests on GitHub’s runner; this is separate from the working Notion connection.

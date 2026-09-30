@@ -22,3 +22,10 @@ test('article type options come from real content',()=>{
   assert.deepEqual(options(records,'articles').types,['Article','Essay']);
   assert.deepEqual(apply(records,'articles',{type:'Essay'}),[records[0]]);
 });
+
+test('Tyler reading status combines with year and search independently of visitor unread state',()=>{
+  const records=[{title:'Saved story',readingStatus:'Read',publishedAt:'2026-01-01'},{title:'Next story',readingStatus:'To Read',publishedAt:'2026-01-02'},{title:'Unmarked',readingStatus:'Not marked',publishedAt:'2025-01-01'}];
+  assert.deepEqual(apply(records,'articles',{status:'Read',year:'2026',query:'story'}),[records[0]]);
+  assert.deepEqual(apply(records,'articles',{status:'Not marked'}),[records[2]]);
+  assert.deepEqual(apply(records,'articles',{}),records);
+});

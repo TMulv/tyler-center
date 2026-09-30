@@ -18,6 +18,7 @@
     const query = String(filter.query || '').trim().toLocaleLowerCase();
     return records.filter(record => (!filter.type || type(record,channel) === filter.type) &&
       (!filter.year || year(record) === filter.year) &&
+      (!filter.status || record.readingStatus === filter.status) &&
       (!query || [record.title,record.description,record.note,record.body,record.category,record.domain].filter(Boolean).join(' ').toLocaleLowerCase().includes(query)));
   }
   const api = {type,options,apply};

@@ -13,7 +13,7 @@ import re
 import sys
 import time
 from urllib.error import HTTPError, URLError
-from urllib.parse import urlparse
+from urllib.parse import urlparse, parse_qsl, urlencode, urlunparse
 from urllib.request import Request, urlopen
 import xml.etree.ElementTree as ET
 
@@ -22,6 +22,8 @@ RSS_URL = 'https://bettingantelope.substack.com/feed'
 WRITING_ARCHIVE_URL = 'https://bettingantelope.substack.com/api/v1/archive'
 ARCHIVE = '074c794e-c62f-48cc-97c9-dc98fba14a32'
 EDITIONS = 'aab9f113-6439-4714-9185-0cc08f9d70df'
+READ_LATER = 'a08dfd74-875d-4998-affe-968c65c3e41f'
+READING_STATUSES = ('To Read', 'Priority', 'Reading', 'Read', 'Archive', 'Not marked')
 PRIVATE_HOSTS = ('mail.google.com', 'gmail.com', 'outlook.com', 'outlook.office.com',
                  'notion.so', 'notion.com', 'accounts.google.com', 'localhost')
 
@@ -313,6 +315,57 @@ def collect_digests(api):
     return records
 
 
+def article_url(value):
+    safe = public_url(value or '')
+    if not safe:
+        return ''
+    url = urlparse(safe)
+    # Never republish signed file URLs, even if pasted into the Link property.
+    host = url.hostname or ''
+    if host.endswith(('.amazonaws.com', '.notion-static.com', '.notionusercontent.com')):
+        return ''
+    params = parse_qsl(url.query, keep_blank_values=True)
+    if any(k.lower().startswith(('x-amz-', 'x-goog-')) or k.lower() in ('signature', 'token', 'access_token') for k, _ in params):
+        return ''
+    params = [(k, v) for k, v in params if not k.lower().startswith('utm_') and k.lower() not in ('ueid', 'fbclid', 'gclid', 'mc_cid', 'mc_eid')]
+    return urlunparse(url._replace(query=urlencode(params)))
+
+
+def read_later_record(page):
+    if page.get('archived') or page.get('in_trash'):
+        return None
+    props = page['properties']
+    status = (props.get('Status', {}).get('status') or {}).get('name') or 'Not marked'
+    if status not in READING_STATUSES:
+        raise ValueError('Unknown reading status; review mapping before publishing')
+    title = rich_text(props['Title']['title'], {}).replace('**', '').replace(r'\|', '|').strip()
+    if not title:
+        raise ValueError('Read Later title is missing')
+    date = props.get('Date added', {}).get('created_time') or page['created_time']
+    # Explicit public allowlist: never read notes, summaries, page blocks, or files.
+    return {'id': 'readlater-' + page['id'].replace('-', ''), 'channel': 'articles',
+            'source': 'notion', 'title': title, 'url': article_url(props.get('Link', {}).get('url')),
+            'publishedAt': iso_date(date), 'readingStatus': status}
+
+
+def collect_read_later(api):
+    records = []
+    for page in api.pages(f'data_sources/{READ_LATER}/query', query=True):
+        record = read_later_record(page)
+        if record:
+            records.append(record)
+    return records
+
+
+def sync_read_later():
+    token = os.environ.get('NOTION_TOKEN', '').strip()
+    if not token:
+        raise RuntimeError('Read Later requires NOTION_TOKEN')
+    # Collect every page first: partial failures must leave the last good file intact.
+    records = collect_read_later(Notion(token))
+    write_snapshot(ROOT / 'data/articles.json', records)
+
+
 def sync_notion():
     token = os.environ.get('NOTION_TOKEN', '').strip()
     if not token:
@@ -324,11 +377,16 @@ def sync_notion():
 
 if __name__ == '__main__':
     parser = argparse.ArgumentParser()
-    parser.add_argument('source', choices=['rss', 'notion'])
+    parser.add_argument('source', choices=['rss', 'notion', 'read-later'])
     parser.add_argument('--backfill', action='store_true', help='Import the full public writing archive before syncing RSS')
     args = parser.parse_args()
     try:
-        sync_rss(backfill=args.backfill) if args.source == 'rss' else sync_notion()
+        if args.source == 'rss':
+            sync_rss(backfill=args.backfill)
+        elif args.source == 'read-later':
+            sync_read_later()
+        else:
+            sync_notion()
     except Exception as error:
         print(f'::error::{args.source} sync failed ({error_summary(error)}); previous snapshot kept.', file=sys.stderr)
         sys.exit(1)
