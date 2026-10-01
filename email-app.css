@@ -56,5 +56,5 @@
 @container email-window (max-width:650px){.email-inbox{flex-basis:100%;border:0}.email-reading-pane{display:none}.reading-email .email-inbox{display:none}.reading-email .email-reading-pane{display:flex}.email-item-meta{flex-wrap:nowrap}.email-letter{max-width:760px}.email-reading-tools{padding:7px 12px}}
 @media(max-width:760px){.email-window,.email-window.zoomed{inset:0!important;transform:none!important;width:100vw!important;height:100dvh!important;border:0;border-radius:0}.email-titlebar{min-height:48px;padding:6px 12px}.email-window-controls{display:none}.email-titlebar .email-return{min-height:36px}.email-letter{padding:28px 20px 60px}.email-letter h1{font-size:27px}.email-letter .digest-body{font-size:18px;line-height:1.75}.email-letter .digest-body h3{font-size:22px}.email-search-controls input{height:40px;font-size:16px}.email-filters summary{min-height:40px;padding:11px 9px}.email-filters>div{top:45px}.email-filters select{font-size:16px;min-height:44px}.email-reading-tools button{min-height:36px}.email-reading-tools>span{font-size:11px}.email-window .window-resize-handle{display:none}}
 
-.email-window:fullscreen.reading-email .email-inbox{display:none}
+@container email-window (min-width:651px){.inbox-collapsed .email-inbox{display:none}}
 .email-window:fullscreen.reading-email .email-reading-pane{display:flex}

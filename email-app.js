@@ -8,18 +8,32 @@
     const win=document.querySelector('#emailWindow');
     const escape=config.escape;
     let selected=null, opener=null, renderedRevision='', feedStatus='loading';
+    let sidebarCollapsed=false, beforeFullscreen=null;
     const filter={query:'',source:'',month:''};
     const records=()=>editions(config.getRecords());
     const date=(value,long=false)=>new Date(value).toLocaleDateString(undefined,long?{weekday:'long',month:'long',day:'numeric',year:'numeric'}:{month:'short',day:'numeric',year:'numeric'});
     win.innerHTML=`<header class="email-titlebar"><div class="email-window-controls"><button type="button" data-mail-close aria-label="Close Email" title="Close Email">×</button><button type="button" data-mail-minimize aria-label="Minimize Email" title="Minimize Email">−</button><button type="button" data-mail-zoom aria-label="Expand Email window" title="Expand Email window">↗</button></div><strong>✉ &nbsp; Email</strong><button type="button" class="email-return" data-mail-messages>Back to messages</button></header>
-      <div class="email-layout"><aside class="email-inbox" aria-label="Newsletter inbox"><div class="email-inbox-heading"><div><span class="email-eyebrow">DAILY NEWSLETTER</span><h1>Inbox</h1></div><span id="emailInboxCount" role="status"></span></div>
+      <div class="email-layout"><aside id="emailInbox" class="email-inbox" aria-label="Newsletter inbox"><div class="email-inbox-heading"><div><span class="email-eyebrow">DAILY NEWSLETTER</span><h1>Inbox</h1></div><span id="emailInboxCount" role="status"></span></div>
       <details class="email-about"><summary>About this inbox</summary><p>I subscribe to a ton of newsletters, both paid and free. Sometimes I don't have a chance to read them, so this is a live feed of a Frankenstein version of my newsletter: the most interesting or important articles that I don't want to fall through the cracks.</p><p>Agent-written digests from my subscriptions. New editions arrive here automatically.</p></details>
       <div class="email-search-controls"><input id="emailQuery" type="search" placeholder="Search editions…" aria-label="Search newsletter editions"><details class="email-filters"><summary>Filters<span id="emailFilterCount"></span></summary><div><label>Source<select id="emailSource" aria-label="Filter editions by source"></select></label><label>Month<select id="emailMonth" aria-label="Filter editions by month"></select></label><small>Sources match publishers linked inside each edition.</small><button type="button" data-mail-clear>Clear filters</button></div></details></div>
       <p id="emailSyncStatus" class="email-sync-status" role="status"></p><div id="emailList" class="email-list" aria-label="Editions, newest first"></div></aside>
-      <section class="email-reading-pane" aria-label="Read newsletter"><div class="email-reading-tools"><button type="button" data-mail-inbox>← Inbox</button><span>Daily Newsletter</span><button type="button" data-mail-fullscreen>Full screen ↗</button></div><div id="emailReader" class="email-reader" tabindex="0" aria-label="Newsletter reading area"></div></section></div>
+      <section class="email-reading-pane" aria-label="Read newsletter"><div class="email-reading-tools"><button type="button" data-mail-inbox aria-controls="emailInbox" aria-expanded="true">Hide inbox</button><span>Daily Newsletter</span><button type="button" data-mail-fullscreen>Full screen ↗</button></div><div id="emailReader" class="email-reader" tabindex="0" aria-label="Newsletter reading area"></div></section></div>
       <button id="emailResize" class="window-resize-handle" aria-label="Resize Email window" title="Drag to resize. Arrow keys also work."></button>`;
     const $=selector=>win.querySelector(selector);
     const mark=record=>config.markRead(record);
+    function updateSidebarControl() {
+      const compact=win.clientWidth<=650;
+      const button=$('[data-mail-inbox]');
+      button.textContent=compact?'← Inbox':sidebarCollapsed?'Show inbox →':'← Hide inbox';
+      button.setAttribute('aria-expanded',String(!compact && !sidebarCollapsed));
+      button.title=compact?'Back to inbox':sidebarCollapsed?'Show inbox sidebar':'Hide inbox sidebar';
+    }
+    function setSidebarCollapsed(collapsed) {
+      sidebarCollapsed=collapsed;
+      win.classList.toggle('inbox-collapsed',collapsed);
+      updateSidebarControl();
+    }
+    new ResizeObserver(updateSidebarControl).observe(win);
     function updateBadge() {
       const count=records().filter(config.isUnread).length;
       document.querySelectorAll('[data-email-unread]').forEach(el=>{el.textContent=count;el.hidden=!count;});
@@ -48,7 +62,7 @@
       const record=records().find(r=>r.id===selected);
       const reader=$('#emailReader');
       if(!record) {
-        selected=null;renderedRevision='';win.classList.remove('reading-email');
+        selected=null;renderedRevision='';win.classList.remove('reading-email');setSidebarCollapsed(false);
         reader.innerHTML='<div class="email-welcome"><span aria-hidden="true">✉</span><h2>A little room to read.</h2><p>Choose an edition from the inbox.<br>Just the Daily Newsletter, all in one place.</p></div>';
         return;
       }
@@ -74,7 +88,7 @@
     }
     function open(id) {
       if(win.hidden)opener=document.activeElement;
-      config.beforeOpen();win.hidden=false;config.bringFront(win);refresh();
+      config.beforeOpen();win.hidden=false;config.bringFront(win);refresh();updateSidebarControl();
       if(id)select(id);else if(!selected)$('#emailQuery').focus();
     }
     async function close() {
@@ -85,8 +99,10 @@
       target?.focus();
     }
     function inbox() {
+      if(win.clientWidth>650){setSidebarCollapsed(!sidebarCollapsed);return;}
       win.classList.remove('reading-email');
-      if(matchMedia('(max-width:760px)').matches)$('#emailList [aria-current]')?.focus();else $('#emailQuery').focus();
+      setSidebarCollapsed(false);
+      ($('#emailList [aria-current]') || $('#emailQuery')).focus();
     }
     $('#emailQuery').addEventListener('input',event=>{filter.query=event.target.value;renderList();});
     $('#emailSource').addEventListener('change',event=>{filter.source=event.target.value;renderList();});
@@ -111,7 +127,12 @@
         } catch {config.zoom(win);}
       }
     });
-    document.addEventListener('fullscreenchange',()=>{$('[data-mail-fullscreen]').textContent=document.fullscreenElement===win?'Exit full screen ↙':'Full screen ↗';});
+    document.addEventListener('fullscreenchange',()=>{
+      const fullscreen=document.fullscreenElement===win;
+      $('[data-mail-fullscreen]').textContent=fullscreen?'Exit full screen ↙':'Full screen ↗';
+      if(fullscreen){beforeFullscreen=sidebarCollapsed;setSidebarCollapsed(true);}
+      else if(beforeFullscreen!==null){setSidebarCollapsed(beforeFullscreen);beforeFullscreen=null;}
+    });
     document.querySelectorAll('[data-open-email]').forEach(button=>button.addEventListener('click',()=>open()));
     config.draggable(win,$('.email-titlebar'));config.resizable(win,$('#emailResize'));
     refresh();

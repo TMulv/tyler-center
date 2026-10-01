@@ -68,5 +68,6 @@ Use bold typewriter channel labels on desktop and mobile. On mobile, keep channe
 
 - Daily Newsletter lives in a separate desktop Email app, not in messaging channels or their home shortcuts. Keep Betting Antelope in the messaging app.
 - The inbox contains only the public Notion-synced Daily Newsletter editions, newest first. Preserve stable edition IDs, source links, and existing per-visitor newsletter read markers. Opening the inbox must not mark every edition read.
+- Let readers collapse and reopen the Email inbox sidebar to give the reading pane more room, preserving the open edition and reading position.
 - Provide a wide reading pane, independent window resizing/maximizing, full-screen reading, and an inbox/reader flow on mobile. Open newsletter search results and saved items in Email, never the narrow detail popup.
 - Keep the existing newsletter sync and archive; new editions arrive automatically. Preserve source/search filters and the “Frankenstein” description in the inbox’s expandable introduction.
