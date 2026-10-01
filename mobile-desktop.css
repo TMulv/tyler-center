@@ -1,5 +1,51 @@
 /* Mobile apps fill the browser; the bottom bar minimizes to the desktop. */
 .mobile-minimize-label { display: none; }
+.sidebar-collapse { display: none; }
+
+/* Keep scroll position visible in the channel, sidebar, and Email scroll surfaces. */
+.content-scroll,
+.sidebar-scroll,
+.email-list,
+.email-reader,
+.email-about {
+  -webkit-overflow-scrolling: touch;
+  scrollbar-width: thin;
+  scrollbar-color: rgba(41, 76, 94, .78) rgba(41, 76, 94, .08);
+  scrollbar-gutter: stable;
+}
+.content-scroll::-webkit-scrollbar,
+.sidebar-scroll::-webkit-scrollbar,
+.email-list::-webkit-scrollbar,
+.email-reader::-webkit-scrollbar,
+.email-about::-webkit-scrollbar {
+  width: 7px;
+  height: 7px;
+}
+.content-scroll::-webkit-scrollbar-track,
+.email-list::-webkit-scrollbar-track,
+.email-reader::-webkit-scrollbar-track,
+.email-about::-webkit-scrollbar-track {
+  background: rgba(41, 76, 94, .08);
+}
+.content-scroll::-webkit-scrollbar-thumb,
+.email-list::-webkit-scrollbar-thumb,
+.email-reader::-webkit-scrollbar-thumb,
+.email-about::-webkit-scrollbar-thumb {
+  background: rgba(41, 76, 94, .78);
+  border: 1px solid transparent;
+  border-radius: 999px;
+  background-clip: padding-box;
+}
+.sidebar-scroll {
+  scrollbar-color: rgba(244, 239, 218, .78) rgba(255, 255, 255, .08);
+}
+.sidebar-scroll::-webkit-scrollbar-track { background: rgba(255, 255, 255, .08); }
+.sidebar-scroll::-webkit-scrollbar-thumb {
+  background: rgba(244, 239, 218, .78);
+  border: 1px solid transparent;
+  border-radius: 999px;
+  background-clip: padding-box;
+}
 @media (max-width: 760px) {
   :root {
     --mobile-minimize-height: calc(44px + env(safe-area-inset-bottom));
@@ -66,6 +112,21 @@
   .search-trigger { height: 36px; font-size: 11px; gap: 6px; }
   .search-trigger kbd { display: none; }
   .sidebar { top: calc(41px + env(safe-area-inset-top)); bottom: var(--mobile-minimize-height); }
+  .sidebar-collapse {
+    display: grid;
+    place-items: center;
+    width: 44px;
+    height: 44px;
+    margin: -5px -5px -5px auto;
+    padding: 0;
+    flex: none;
+    border: 0;
+    border-radius: 3px;
+    background: transparent;
+    color: #f2edda;
+    font: 30px/1 Arial, sans-serif;
+  }
+  .sidebar-collapse:hover { background: #ffffff14; }
   .mobile-scrim { position: absolute; inset: calc(41px + env(safe-area-inset-top)) 0 var(--mobile-minimize-height); }
 
   .email-titlebar { min-height: 44px; padding: 5px 8px; gap: 8px; }

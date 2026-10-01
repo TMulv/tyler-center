@@ -19,7 +19,7 @@
   <link rel="stylesheet" href="typography.css">
   <link rel="stylesheet" href="desktop-selection.css">
   <link rel="stylesheet" href="email-app.css?v=20261001-edition-snapshots">
-  <link rel="stylesheet" href="mobile-desktop.css?v=20261001-minimize-bar">
+  <link rel="stylesheet" href="mobile-desktop.css?v=20261001-sidebar-scrollbars">
 </head>
 <body>
   <div class="desktop-grain" aria-hidden="true"></div>
@@ -44,7 +44,7 @@
     </div>
     <div class="workspace">
       <aside class="sidebar" id="sidebar" aria-label="Channels">
-        <div class="workspace-title"><div><strong>Tyler.Center</strong><span>An ongoing collection</span></div><span class="workspace-chevron">⌄</span></div>
+        <div class="workspace-title"><div><strong>Tyler.Center</strong><span>An ongoing collection</span></div><button class="sidebar-collapse" id="sidebarCollapse" type="button" aria-label="Close channels" title="Close channels">‹</button></div>
         <div class="sidebar-scroll">
           <button class="home-link" data-channel="home"><span class="home-icon">✦</span> About me <span class="home-arrow">↗</span></button>
           <div id="channelNav"></div>
@@ -88,7 +88,7 @@
   <script src="reader-account.js"></script>
   <script src="desktop-selection.js"></script>
   <script src="email-app.js?v=20261001-edition-snapshots"></script>
-  <script src="app.js?v=20261001-minimize-bar"></script>
+  <script src="app.js?v=20261001-sidebar-collapse"></script>
   <script src="reader-ui.js"></script>
   <script src="reader-comments.js"></script>
 </body>

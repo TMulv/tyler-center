@@ -63,7 +63,7 @@ Read this file before changing the site. These are Tyler's standing project pref
 
 ## Sidebar readability
 
-Use bold typewriter channel labels on desktop and mobile. On mobile, keep channel labels at least 15px with roomy row spacing and touch targets at least 48px tall.
+Use bold typewriter channel labels on desktop and mobile. On mobile, keep channel labels at least 15px with roomy row spacing and touch targets at least 48px tall. Use a left-facing chevron in the mobile sidebar header to close the channel drawer; do not use a down-caret affordance there. Keep a visible right-edge scrollbar or scroll indicator on scrollable channel content and Email inbox/reader surfaces so position is apparent while scrolling.
 
 ## Email app
 

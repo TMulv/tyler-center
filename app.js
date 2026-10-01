@@ -636,6 +636,7 @@ $('#lastReadButton').addEventListener('click',jumpToLastRead);
 $('#latestButton').addEventListener('click',()=>{$('#contentScroll').scrollTo({top:$('#contentScroll').scrollHeight,behavior:matchMedia('(prefers-reduced-motion:reduce)').matches?'instant':'smooth'});});
 $('#contentScroll').addEventListener('scroll',()=>{clearTimeout(readingTimer);readingTimer=setTimeout(markVisibleMessages,200);},{passive:true});
 $('#mobileMenu').addEventListener('click',toggleSidebar);
+$('#sidebarCollapse').addEventListener('click',()=>{closeSidebar();$('#mobileMenu').focus({preventScroll:true});});
 $('#mobileScrim').addEventListener('click',closeSidebar);
 $('#windowClose').addEventListener('click',hideShelf);
 $('#windowMinimize').addEventListener('click',hideShelf);
