@@ -810,6 +810,33 @@
       "url": "https://spectrum.ieee.org/bloomberg-terminal",
       "publishedAt": "2026-10-01T03:30:00Z",
       "readingStatus": "To Read"
+    },
+    {
+      "id": "readlater-65f496323ac9445596d7ca778182a5b5",
+      "channel": "articles",
+      "source": "notion",
+      "title": "Bicameral mentality (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Bicameral_mentality",
+      "publishedAt": "2026-10-01T19:38:00Z",
+      "readingStatus": "To Read"
+    },
+    {
+      "id": "readlater-77ea66358f97498d834723d938b8a26b",
+      "channel": "articles",
+      "source": "notion",
+      "title": "Meetings — NBER Working Paper 35706",
+      "url": "https://www.nber.org/papers/w35706",
+      "publishedAt": "2026-10-01T19:38:00Z",
+      "readingStatus": "To Read"
+    },
+    {
+      "id": "readlater-ef3ad4f24ac94edab75b1aca9d36104b",
+      "channel": "articles",
+      "source": "notion",
+      "title": "Decades After Watergate, Justice Department Reviews Whether Nixon Got a Raw Deal (WSJ)",
+      "url": "https://www.wsj.com/us-news/law/decades-after-watergate-justice-department-reviews-whether-nixon-got-a-raw-deal-8e25380f?mod=e2tw",
+      "publishedAt": "2026-10-01T19:38:00Z",
+      "readingStatus": "To Read"
     }
   ]
 }

@@ -766,6 +766,30 @@
       "domain": "spectrum.ieee.org",
       "checkedAt": "2026-10-01T09:06:49.427624+00:00",
       "available": true
+    },
+    "https://en.wikipedia.org/wiki/Bicameral_mentality": {
+      "title": "Bicameral mentality - Wikipedia",
+      "description": "",
+      "site": "",
+      "image": "",
+      "icon": "https://en.wikipedia.org/static/favicon/wikipedia.ico",
+      "domain": "en.wikipedia.org",
+      "checkedAt": "2026-10-01T21:18:09.961845+00:00",
+      "available": true
+    },
+    "https://www.nber.org/papers/w35706": {
+      "title": "Meetings",
+      "description": "Founded in 1920, the NBER is a private, non-profit, non-partisan organization dedicated to conducting economic research and to disseminating research findings among academics, public policy makers, and business professionals.",
+      "site": "NBER",
+      "image": "https://www.nber.org/sites/default/files/2022-06/NBER-FB-Share-Tile-1200.jpg",
+      "icon": "https://www.nber.org/themes/custom/nber/favicon.ico",
+      "domain": "www.nber.org",
+      "checkedAt": "2026-10-01T21:18:09.961845+00:00",
+      "available": true
+    },
+    "https://www.wsj.com/us-news/law/decades-after-watergate-justice-department-reviews-whether-nixon-got-a-raw-deal-8e25380f?mod=e2tw": {
+      "checkedAt": "2026-10-01T21:18:09.961845+00:00",
+      "available": false
     }
   }
 }
