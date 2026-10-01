@@ -13800,6 +13800,2759 @@
           "url": "https://www.insidehook.com/style/corridor-menswear-americana-laurel-canyon"
         }
       ]
+    },
+    {
+      "id": "digest-3ec8153c-8a3e-81e0-b5b2-ca1385577be6",
+      "channel": "newsletters",
+      "source": "notion",
+      "kind": "Agent-written digest",
+      "domain": "Daily newsletter digest",
+      "title": "The Parallel Parking Crown, Benchmark's Graph Chips, and Hollywood IP Churn — Thursday, October 1, 2026",
+      "url": "",
+      "description": "(Thursday, October 1, 2026)",
+      "body": "(Thursday, October 1, 2026)\n\nThursday’s dispatches highlight an era of hyper-specialized infrastructure colliding with grassroots human eccentricity. In high finance and venture capital, the capital demands of artificial intelligence are reshaping corporate power: Benchmark is betting on exotic graph-based compute architectures to break agent CPU bottlenecks, while Wall Street's storied independent advisory boutiques are forced into mergers because they lack the multi-billion-dollar balance sheets required to fund the compute buildout. In Washington, voluntary AI safety frameworks are secretly orchestrated over state dinners, even as A24’s Primetime scores a massive youth box office driven by a generation that feels irrevocably surveilled. And in western Pennsylvania, hundreds of drivers gathered for a 20-foot parking challenge that proves joy and civic competence still thrive outside algorithmically optimized life.\n\nToday’s Numbers\n\n• $19.2 Million: Opening weekend domestic box office haul for A24’s Primetime, with Gen Z accounting for 69% of ticket buyers. (After School)\n\n• $1.2 Trillion: Capital estimated by Wall Street analysts required solely to fund the ongoing global AI data center and energy buildout. (Semafor Business)\n\n• 20.5x: Return multiple realized by venture firm Benchmark on its early hardware bet in Cerebras Systems following its public offering. (Newcomer)\n\n• 1 in 25: Proportion of Japanese marriages facilitated by corporate matchmaking agency IBJ as 20-somethings abandon swipe apps for structured coaching. (After School)\n\n• $36 Billion: Market capitalization that activist shareholder Artisan Partners estimates UBS risks losing if it stays in Switzerland under pending domestic capital regulations. (Semafor Business)\n\n• $700 / Week: Cost for after-school sessions at The Yard on Governors Island, a parent-free adventure playground where elementary schoolers play with hammers and saws. (After School)\n\n• 20 Feet: Exact length of the curb space defining the competition zone at the annual Pittsburgh Parallel Parking Championship. (Why Is This Interesting?)\n\nQuotes of the Day\n\n\"The entire process, from rolling up to the venue through to completing the run and getting a commemorative card with your score, takes about ten minutes. Why is this free event better run than any airline check-in counter, DMV, or preschool drop-off in the world?\"\n\n— Mark Slavonia, on competing in the Pittsburgh Parallel Parking Championship, via Why Is This Interesting?\n\n\"A decade ago they felt new and exciting, a corrective to bloated banks oozing conflicts. Now they just feel like furniture... By one recent estimate, $1.2 trillion needs to be raised just to fund the AI buildout. This era rewards balance sheets boutiques don’t have.\"\n\n— Liz Hoffman, on the fading era of boutique M&A advisory firms, via Semafor Business\n\n\"The traditional mechanisms of recruiting and cold outreach are probably becoming less and less useful to everyone involved: kids can't stand out, and adults can't tell what's real.\"\n\n— Casey Lewis, reflecting on youth labor markets and automated application spam, via After School\n\n\"We find large established categories that have been tried and true, and then we’re gonna go in and win with brand.\"\n\n— Mike Cessario, CEO of Liquid Death, on avoiding unproven categories like oat milk to dominate commodity essentials, via Semafor Business\n\nHardware, Capital & Dealmaking\n\nBenchmark Backs Tendrils Compute in Bet on Post-CPU Agent Architectures\n\nEarly-stage startup seeks to untangle multi-step reasoning bottlenecks using esoteric graph interaction nets.\n\nVenture firm Benchmark has emerged as the winner in a hotly contested early financing round for Cambridge, UK-based semiconductor startup Tendrils Compute, reports Eric Newcomer in Newcomer. Led by Nils Cremer, Tendrils is developing general-purpose processing chips based on \"interaction nets\"—a theoretical graph-reduction model designed to execute complex computational graphs without the synchronization overhead and bus lockups endemic to traditional multi-core CPUs. As autonomous AI agents execute longer chains of multi-step tool calls and reasoning loops, memory coordination and CPU latency have emerged as acute bottlenecks. The investment comes amid a wider hardware venture renaissance, following Etched's $21 billion valuation, Fractile's talks at $6.5 billion, and nine-figure rounds for OLIX, Euclyd, and Delos Data.\n\nThe Death of the Boutique: M&A Advisory Royalty Succumbs to the $1.2T Infrastructure Era\n\nAs Perella Weinberg negotiates a sale to Piper Sandler, Wall Street's rainmaker model loses out to giant lending balance sheets.\n\nWriting in Semafor Business, Liz Hoffman chronicles the steady twilight of Wall Street’s independent advisory boutiques. With Perella Weinberg Partners in advanced talks to sell to Piper Sandler, following Greenhill’s acquisition by Japanese lender Mizuho, the post-2008 dream of independent, conflict-free advice led by marquee rainmakers has ground to a halt. While superstar bankers once leveraged personal Rolodexes to command hefty M&A fees, corporate clients navigating the $1.2 trillion AI infrastructure expansion require massive balance-sheet financing, credit facilities, and debt syndication that advisory-only firms cannot supply. Of the 30 most active M&A advisers tracked by Dealogic today, only one firm founded after 2013 remains on the board.\n\nZuckerberg’s State Dinner Diplomatic Coup Shapes White House AI Pact\n\nA quiet conversation with House Speaker Mike Johnson yielded the administration’s voluntary safety agreement.\n\nSemafor’s Ashley Gold reported in Semafor Business that President Trump’s newly unveiled AI industry accord—establishing voluntary safety checkpoints for frontier models—was engineered behind the scenes by Meta CEO Mark Zuckerberg. Seated beside House Speaker Mike Johnson at a White House state dinner honoring Chinese leader Xi Jinping, Zuckerberg initiated discussions on regulatory frameworks, subsequently coordinating principles with Nvidia chief Jensen Huang before presenting the proposal to the administration. The maneuver highlights how Zuckerberg’s aggressive political outreach, including installing former Trump economic adviser Dina Powell McCormick as Meta’s head of global policy, has positioned the tech giant at the center of federal AI governance.\n\nCulture, Youth & Urban Life\n\nThe 20-Foot Crown: The Pittsburgh Parallel Parking Championship Turns Six\n\nWhat began as an informal family dispute has blossomed into Western Pennsylvania’s premier celebration of urban driving competence.\n\nIn an affectionate dispatch for Why Is This Interesting?, investor and cyclist Mark Slavonia celebrated the sixth edition of the Pittsburgh Parallel Parking Championship. Conceived by local founders Dan and Jenna to settle an argument over who drove better, the annual gathering has evolved into an authentic, zero-cost street festival complete with DJs, cheering neighborhood crowds, and rumbling freight trains. The contest rules remain pure: a timer starts the instant a vehicle’s reverse lights illuminate and stops when the driver yells \"Done\" out the window. Hitting a curb or adjoining bumper results in immediate disqualification, with final rankings determined by multiplying elapsed time by distance from the curb. Operating with ten-minute throughput per vehicle, the volunteer-run event offers a masterclass in low-friction civic celebration.\n\nThe \"Primetime\" Phenomenon: Why Zoomers Flocked to a Aughts Stalking Thriller\n\nA24’s To Catch a Predator drama pulls a massive youth audience obsessed with perpetual surveillance.\n\nReporting in After School, Casey Lewis examined why A24’s Primetime notched a commanding $19.2 million opening weekend powered predominantly by Gen Z moviegoers (69% of attendees). While Robert Pattinson’s unhinged portrayal of host Chris Hansen served as the primary box office draw, cultural critics noted that the film’s claustrophobic atmosphere directly mirrors the psychological reality of younger audiences. Coming of age in an era defined by smartphone tracking, algorithmic behavioral modeling, and pervasive public recording, Zoomers resonated with the film’s voyeuristic dread—viewing early-2000s chatroom stings as the historical origin point of a culture where digital privacy ceased to exist.\n\nCupid Work and Group Hangs: Gen Z Recalibrates Courtship Friction\n\nFrom 15-person Tinder outings to Japanese marriage agencies, daters outsource the pressure of one-on-one swiping.\n\nAs digital dating fatigue peaks across global markets, youth social habits are undergoing structural shifts, notes After School. In the United States, Tinder has rolled out \"Group Hangouts,\" enabling friend pods of up to 15 people to organize shared activities like mini-golf; testing in Australia showed women were more than twice as likely to engage with group profiles over isolated individuals. Meanwhile in Japan, young professionals are abandoning swipe apps entirely to register with institutional marriage bureaus like IBJ. Clients undergo etiquette training and mock dates while agency counselors conduct behind-the-scenes \"Cupid work\" filtering mutual feedback, accelerating relationships from first meeting to marriage proposal in under 90 days.\n\nRadar & Quick Hits\n\n• Hollywood IP Musical Chairs: Mattel CEO Ynon Kreiz is departing the toy giant to become co-CEO of the newly combined Paramount-Warner Bros. studio under David Ellison, while outgoing Condé Nast chief executive Roger Lynch takes the top post at Mattel to monetize legacy toy IP. (Semafor Business)\n\n• Artisan Pushes UBS Swiss Exit: Activist investor Artisan Partners publicly demanded that UBS relocate its corporate headquarters outside Switzerland, warning that proposed Swiss capital buffer requirements will erase $36 billion in shareholder equity. (Semafor Business)\n\n• Junkyard Parenting on Governors Island: Elementary school children are wielding handsaws, swinging hammers, and roaming unsupervised in mud at The Yard, an adventure playground on NYC's Governors Island where parents are strictly barred from entry. (After School)\n\n• Accounting Rolls Up for Wall Street: RSM, one of the world's largest middle-market accounting firms, is actively preparing an initial public offering as private equity firms aggressively acquire accounting partnerships. (Semafor Business)\n\n• Liquid Death Launches External Agency: Beverage sensation Liquid Death has opened its in-house ad agency, Death Machine, to select external corporate brands looking to replicate its irreverent, viral marketing playbook. (Semafor Business)",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "(Thursday, October 1, 2026)",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Thursday’s dispatches highlight an era of hyper-specialized infrastructure colliding with grassroots human eccentricity. In high finance and venture capital, the capital demands of artificial intelligence are reshaping corporate power: Benchmark is betting on exotic graph-based compute architectures to break agent CPU bottlenecks, while Wall Street's storied independent advisory boutiques are forced into mergers because they lack the multi-billion-dollar balance sheets required to fund the compute buildout. In Washington, voluntary AI safety frameworks are secretly orchestrated over state dinners, even as A24’s ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Primetime",
+              "url": "",
+              "bold": false,
+              "italic": true
+            },
+            {
+              "text": " scores a massive youth box office driven by a generation that feels irrevocably surveilled. And in western Pennsylvania, hundreds of drivers gathered for a 20-foot parking challenge that proves joy and civic competence still thrive outside algorithmically optimized life.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "heading_2",
+          "runs": [
+            {
+              "text": "Today’s Numbers",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "$19.2 Million",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": ": Opening weekend domestic box office haul for A24’s ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Primetime",
+              "url": "",
+              "bold": false,
+              "italic": true
+            },
+            {
+              "text": ", with Gen Z accounting for 69% of ticket buyers. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "After School",
+              "url": "https://afterschool.substack.com/p/cupid-work-and-group-hangs",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "$1.2 Trillion",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": ": Capital estimated by Wall Street analysts required solely to fund the ongoing global AI data center and energy buildout. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Semafor Business",
+              "url": "https://semafor.com/newsletters/business",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "20.5x",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": ": Return multiple realized by venture firm Benchmark on its early hardware bet in Cerebras Systems following its public offering. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Newcomer",
+              "url": "https://www.newcomer.co/p/scoop-benchmark-backs-early-stage",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "1 in 25",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": ": Proportion of Japanese marriages facilitated by corporate matchmaking agency IBJ as 20-somethings abandon swipe apps for structured coaching. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "After School",
+              "url": "https://afterschool.substack.com/p/cupid-work-and-group-hangs",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "$36 Billion",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": ": Market capitalization that activist shareholder Artisan Partners estimates UBS risks losing if it stays in Switzerland under pending domestic capital regulations. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Semafor Business",
+              "url": "https://semafor.com/newsletters/business",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "$700 / Week",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": ": Cost for after-school sessions at The Yard on Governors Island, a parent-free adventure playground where elementary schoolers play with hammers and saws. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "After School",
+              "url": "https://afterschool.substack.com/p/cupid-work-and-group-hangs",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "20 Feet",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": ": Exact length of the curb space defining the competition zone at the annual Pittsburgh Parallel Parking Championship. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Why Is This Interesting?",
+              "url": "https://whyisthisinteresting.substack.com/p/the-pittsburgh-parallel-parking-championship",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "heading_2",
+          "runs": [
+            {
+              "text": "Quotes of the Day",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "quote",
+          "runs": [
+            {
+              "text": "\"The entire process, from rolling up to the venue through to completing the run and getting a commemorative card with your score, takes about ten minutes. Why is this free event better run than any airline check-in counter, DMV, or preschool drop-off in the world?\"",
+              "url": "",
+              "bold": false,
+              "italic": true
+            }
+          ]
+        },
+        {
+          "type": "quote",
+          "runs": [
+            {
+              "text": "— ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Mark Slavonia",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": ", on competing in the Pittsburgh Parallel Parking Championship, via ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Why Is This Interesting?",
+              "url": "https://whyisthisinteresting.substack.com/p/the-pittsburgh-parallel-parking-championship",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "quote",
+          "runs": [
+            {
+              "text": "\"A decade ago they felt new and exciting, a corrective to bloated banks oozing conflicts. Now they just feel like furniture... By one recent estimate, $1.2 trillion needs to be raised just to fund the AI buildout. This era rewards balance sheets boutiques don’t have.\"",
+              "url": "",
+              "bold": false,
+              "italic": true
+            }
+          ]
+        },
+        {
+          "type": "quote",
+          "runs": [
+            {
+              "text": "— ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Liz Hoffman",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": ", on the fading era of boutique M&A advisory firms, via ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Semafor Business",
+              "url": "https://semafor.com/newsletters/business",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "quote",
+          "runs": [
+            {
+              "text": "\"The traditional mechanisms of recruiting and cold outreach are probably becoming less and less useful to everyone involved: kids can't stand out, and adults can't tell what's real.\"",
+              "url": "",
+              "bold": false,
+              "italic": true
+            }
+          ]
+        },
+        {
+          "type": "quote",
+          "runs": [
+            {
+              "text": "— ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Casey Lewis",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": ", reflecting on youth labor markets and automated application spam, via ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "After School",
+              "url": "https://afterschool.substack.com/p/cupid-work-and-group-hangs",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "quote",
+          "runs": [
+            {
+              "text": "\"We find large established categories that have been tried and true, and then we’re gonna go in and win with brand.\"",
+              "url": "",
+              "bold": false,
+              "italic": true
+            }
+          ]
+        },
+        {
+          "type": "quote",
+          "runs": [
+            {
+              "text": "— ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Mike Cessario",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": ", CEO of Liquid Death, on avoiding unproven categories like oat milk to dominate commodity essentials, via ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Semafor Business",
+              "url": "https://semafor.com/newsletters/business",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "heading_2",
+          "runs": [
+            {
+              "text": "Hardware, Capital & Dealmaking",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "heading_3",
+          "runs": [
+            {
+              "text": "Benchmark Backs Tendrils Compute in Bet on Post-CPU Agent Architectures",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Early-stage startup seeks to untangle multi-step reasoning bottlenecks using esoteric graph interaction nets.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Venture firm Benchmark has emerged as the winner in a hotly contested early financing round for Cambridge, UK-based semiconductor startup Tendrils Compute, reports Eric Newcomer in ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Newcomer",
+              "url": "https://www.newcomer.co/p/scoop-benchmark-backs-early-stage",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ". Led by Nils Cremer, Tendrils is developing general-purpose processing chips based on \"interaction nets\"—a theoretical graph-reduction model designed to execute complex computational graphs without the synchronization overhead and bus lockups endemic to traditional multi-core CPUs. As autonomous AI agents execute longer chains of multi-step tool calls and reasoning loops, memory coordination and CPU latency have emerged as acute bottlenecks. The investment comes amid a wider hardware venture renaissance, following Etched's $21 billion valuation, Fractile's talks at $6.5 billion, and nine-figure rounds for OLIX, Euclyd, and Delos Data.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "heading_3",
+          "runs": [
+            {
+              "text": "The Death of the Boutique: M&A Advisory Royalty Succumbs to the $1.2T Infrastructure Era",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "As Perella Weinberg negotiates a sale to Piper Sandler, Wall Street's rainmaker model loses out to giant lending balance sheets.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Writing in ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Semafor Business",
+              "url": "https://semafor.com/newsletters/business",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ", Liz Hoffman chronicles the steady twilight of Wall Street’s independent advisory boutiques. With Perella Weinberg Partners in advanced talks to sell to Piper Sandler, following Greenhill’s acquisition by Japanese lender Mizuho, the post-2008 dream of independent, conflict-free advice led by marquee rainmakers has ground to a halt. While superstar bankers once leveraged personal Rolodexes to command hefty M&A fees, corporate clients navigating the $1.2 trillion AI infrastructure expansion require massive balance-sheet financing, credit facilities, and debt syndication that advisory-only firms cannot supply. Of the 30 most active M&A advisers tracked by Dealogic today, only one firm founded after 2013 remains on the board.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "heading_3",
+          "runs": [
+            {
+              "text": "Zuckerberg’s State Dinner Diplomatic Coup Shapes White House AI Pact",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "A quiet conversation with House Speaker Mike Johnson yielded the administration’s voluntary safety agreement.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Semafor’s Ashley Gold reported in ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Semafor Business",
+              "url": "https://semafor.com/newsletters/business",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": " that President Trump’s newly unveiled AI industry accord—establishing voluntary safety checkpoints for frontier models—was engineered behind the scenes by Meta CEO Mark Zuckerberg. Seated beside House Speaker Mike Johnson at a White House state dinner honoring Chinese leader Xi Jinping, Zuckerberg initiated discussions on regulatory frameworks, subsequently coordinating principles with Nvidia chief Jensen Huang before presenting the proposal to the administration. The maneuver highlights how Zuckerberg’s aggressive political outreach, including installing former Trump economic adviser Dina Powell McCormick as Meta’s head of global policy, has positioned the tech giant at the center of federal AI governance.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "heading_2",
+          "runs": [
+            {
+              "text": "Culture, Youth & Urban Life",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "heading_3",
+          "runs": [
+            {
+              "text": "The 20-Foot Crown: The Pittsburgh Parallel Parking Championship Turns Six",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "What began as an informal family dispute has blossomed into Western Pennsylvania’s premier celebration of urban driving competence.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "In an affectionate dispatch for ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Why Is This Interesting?",
+              "url": "https://whyisthisinteresting.substack.com/p/the-pittsburgh-parallel-parking-championship",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ", investor and cyclist Mark Slavonia celebrated the sixth edition of the Pittsburgh Parallel Parking Championship. Conceived by local founders Dan and Jenna to settle an argument over who drove better, the annual gathering has evolved into an authentic, zero-cost street festival complete with DJs, cheering neighborhood crowds, and rumbling freight trains. The contest rules remain pure: a timer starts the instant a vehicle’s reverse lights illuminate and stops when the driver yells \"Done\" out the window. Hitting a curb or adjoining bumper results in immediate disqualification, with final rankings determined by multiplying elapsed time by distance from the curb. Operating with ten-minute throughput per vehicle, the volunteer-run event offers a masterclass in low-friction civic celebration.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "heading_3",
+          "runs": [
+            {
+              "text": "The \"Primetime\" Phenomenon: Why Zoomers Flocked to a Aughts Stalking Thriller",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "A24’s To Catch a Predator drama pulls a massive youth audience obsessed with perpetual surveillance.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Reporting in ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "After School",
+              "url": "https://afterschool.substack.com/p/cupid-work-and-group-hangs",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ", Casey Lewis examined why A24’s ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Primetime",
+              "url": "",
+              "bold": false,
+              "italic": true
+            },
+            {
+              "text": " notched a commanding $19.2 million opening weekend powered predominantly by Gen Z moviegoers (69% of attendees). While Robert Pattinson’s unhinged portrayal of host Chris Hansen served as the primary box office draw, cultural critics noted that the film’s claustrophobic atmosphere directly mirrors the psychological reality of younger audiences. Coming of age in an era defined by smartphone tracking, algorithmic behavioral modeling, and pervasive public recording, Zoomers resonated with the film’s voyeuristic dread—viewing early-2000s chatroom stings as the historical origin point of a culture where digital privacy ceased to exist.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "heading_3",
+          "runs": [
+            {
+              "text": "Cupid Work and Group Hangs: Gen Z Recalibrates Courtship Friction",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "From 15-person Tinder outings to Japanese marriage agencies, daters outsource the pressure of one-on-one swiping.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "As digital dating fatigue peaks across global markets, youth social habits are undergoing structural shifts, notes ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "After School",
+              "url": "https://afterschool.substack.com/p/cupid-work-and-group-hangs",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ". In the United States, Tinder has rolled out \"Group Hangouts,\" enabling friend pods of up to 15 people to organize shared activities like mini-golf; testing in Australia showed women were more than twice as likely to engage with group profiles over isolated individuals. Meanwhile in Japan, young professionals are abandoning swipe apps entirely to register with institutional marriage bureaus like IBJ. Clients undergo etiquette training and mock dates while agency counselors conduct behind-the-scenes \"Cupid work\" filtering mutual feedback, accelerating relationships from first meeting to marriage proposal in under 90 days.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "heading_2",
+          "runs": [
+            {
+              "text": "Radar & Quick Hits",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Hollywood IP Musical Chairs",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": ": Mattel CEO Ynon Kreiz is departing the toy giant to become co-CEO of the newly combined Paramount-Warner Bros. studio under David Ellison, while outgoing Condé Nast chief executive Roger Lynch takes the top post at Mattel to monetize legacy toy IP. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Semafor Business",
+              "url": "https://semafor.com/newsletters/business",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Artisan Pushes UBS Swiss Exit",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": ": Activist investor Artisan Partners publicly demanded that UBS relocate its corporate headquarters outside Switzerland, warning that proposed Swiss capital buffer requirements will erase $36 billion in shareholder equity. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Semafor Business",
+              "url": "https://semafor.com/newsletters/business",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Junkyard Parenting on Governors Island",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": ": Elementary school children are wielding handsaws, swinging hammers, and roaming unsupervised in mud at The Yard, an adventure playground on NYC's Governors Island where parents are strictly barred from entry. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "After School",
+              "url": "https://afterschool.substack.com/p/cupid-work-and-group-hangs",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Accounting Rolls Up for Wall Street",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": ": RSM, one of the world's largest middle-market accounting firms, is actively preparing an initial public offering as private equity firms aggressively acquire accounting partnerships. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Semafor Business",
+              "url": "https://semafor.com/newsletters/business",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Liquid Death Launches External Agency",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": ": Beverage sensation Liquid Death has opened its in-house ad agency, Death Machine, to select external corporate brands looking to replicate its irreverent, viral marketing playbook. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Semafor Business",
+              "url": "https://semafor.com/newsletters/business",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        }
+      ],
+      "publishedAt": "2026-10-01T17:41:00Z",
+      "links": [
+        {
+          "title": "After School",
+          "url": "https://afterschool.substack.com/p/cupid-work-and-group-hangs"
+        },
+        {
+          "title": "Semafor Business",
+          "url": "https://semafor.com/newsletters/business"
+        },
+        {
+          "title": "Newcomer",
+          "url": "https://www.newcomer.co/p/scoop-benchmark-backs-early-stage"
+        },
+        {
+          "title": "Why Is This Interesting?",
+          "url": "https://whyisthisinteresting.substack.com/p/the-pittsburgh-parallel-parking-championship"
+        }
+      ],
+      "versions": {
+        "midday": {
+          "body": "(Thursday, October 1, 2026)\n\nThursday’s dispatches highlight an era of hyper-specialized infrastructure colliding with grassroots human eccentricity. In high finance and venture capital, the capital demands of artificial intelligence are reshaping corporate power: Benchmark is betting on exotic graph-based compute architectures to break agent CPU bottlenecks, while Wall Street's storied independent advisory boutiques are forced into mergers because they lack the multi-billion-dollar balance sheets required to fund the compute buildout. In Washington, voluntary AI safety frameworks are secretly orchestrated over state dinners, even as A24’s Primetime scores a massive youth box office driven by a generation that feels irrevocably surveilled. And in western Pennsylvania, hundreds of drivers gathered for a 20-foot parking challenge that proves joy and civic competence still thrive outside algorithmically optimized life.\n\nToday’s Numbers\n\n• $19.2 Million: Opening weekend domestic box office haul for A24’s Primetime, with Gen Z accounting for 69% of ticket buyers. (After School)\n\n• $1.2 Trillion: Capital estimated by Wall Street analysts required solely to fund the ongoing global AI data center and energy buildout. (Semafor Business)\n\n• 20.5x: Return multiple realized by venture firm Benchmark on its early hardware bet in Cerebras Systems following its public offering. (Newcomer)\n\n• 1 in 25: Proportion of Japanese marriages facilitated by corporate matchmaking agency IBJ as 20-somethings abandon swipe apps for structured coaching. (After School)\n\n• $36 Billion: Market capitalization that activist shareholder Artisan Partners estimates UBS risks losing if it stays in Switzerland under pending domestic capital regulations. (Semafor Business)\n\n• $700 / Week: Cost for after-school sessions at The Yard on Governors Island, a parent-free adventure playground where elementary schoolers play with hammers and saws. (After School)\n\n• 20 Feet: Exact length of the curb space defining the competition zone at the annual Pittsburgh Parallel Parking Championship. (Why Is This Interesting?)\n\nQuotes of the Day\n\n\"The entire process, from rolling up to the venue through to completing the run and getting a commemorative card with your score, takes about ten minutes. Why is this free event better run than any airline check-in counter, DMV, or preschool drop-off in the world?\"\n\n— Mark Slavonia, on competing in the Pittsburgh Parallel Parking Championship, via Why Is This Interesting?\n\n\"A decade ago they felt new and exciting, a corrective to bloated banks oozing conflicts. Now they just feel like furniture... By one recent estimate, $1.2 trillion needs to be raised just to fund the AI buildout. This era rewards balance sheets boutiques don’t have.\"\n\n— Liz Hoffman, on the fading era of boutique M&A advisory firms, via Semafor Business\n\n\"The traditional mechanisms of recruiting and cold outreach are probably becoming less and less useful to everyone involved: kids can't stand out, and adults can't tell what's real.\"\n\n— Casey Lewis, reflecting on youth labor markets and automated application spam, via After School\n\n\"We find large established categories that have been tried and true, and then we’re gonna go in and win with brand.\"\n\n— Mike Cessario, CEO of Liquid Death, on avoiding unproven categories like oat milk to dominate commodity essentials, via Semafor Business\n\nHardware, Capital & Dealmaking\n\nBenchmark Backs Tendrils Compute in Bet on Post-CPU Agent Architectures\n\nEarly-stage startup seeks to untangle multi-step reasoning bottlenecks using esoteric graph interaction nets.\n\nVenture firm Benchmark has emerged as the winner in a hotly contested early financing round for Cambridge, UK-based semiconductor startup Tendrils Compute, reports Eric Newcomer in Newcomer. Led by Nils Cremer, Tendrils is developing general-purpose processing chips based on \"interaction nets\"—a theoretical graph-reduction model designed to execute complex computational graphs without the synchronization overhead and bus lockups endemic to traditional multi-core CPUs. As autonomous AI agents execute longer chains of multi-step tool calls and reasoning loops, memory coordination and CPU latency have emerged as acute bottlenecks. The investment comes amid a wider hardware venture renaissance, following Etched's $21 billion valuation, Fractile's talks at $6.5 billion, and nine-figure rounds for OLIX, Euclyd, and Delos Data.\n\nThe Death of the Boutique: M&A Advisory Royalty Succumbs to the $1.2T Infrastructure Era\n\nAs Perella Weinberg negotiates a sale to Piper Sandler, Wall Street's rainmaker model loses out to giant lending balance sheets.\n\nWriting in Semafor Business, Liz Hoffman chronicles the steady twilight of Wall Street’s independent advisory boutiques. With Perella Weinberg Partners in advanced talks to sell to Piper Sandler, following Greenhill’s acquisition by Japanese lender Mizuho, the post-2008 dream of independent, conflict-free advice led by marquee rainmakers has ground to a halt. While superstar bankers once leveraged personal Rolodexes to command hefty M&A fees, corporate clients navigating the $1.2 trillion AI infrastructure expansion require massive balance-sheet financing, credit facilities, and debt syndication that advisory-only firms cannot supply. Of the 30 most active M&A advisers tracked by Dealogic today, only one firm founded after 2013 remains on the board.\n\nZuckerberg’s State Dinner Diplomatic Coup Shapes White House AI Pact\n\nA quiet conversation with House Speaker Mike Johnson yielded the administration’s voluntary safety agreement.\n\nSemafor’s Ashley Gold reported in Semafor Business that President Trump’s newly unveiled AI industry accord—establishing voluntary safety checkpoints for frontier models—was engineered behind the scenes by Meta CEO Mark Zuckerberg. Seated beside House Speaker Mike Johnson at a White House state dinner honoring Chinese leader Xi Jinping, Zuckerberg initiated discussions on regulatory frameworks, subsequently coordinating principles with Nvidia chief Jensen Huang before presenting the proposal to the administration. The maneuver highlights how Zuckerberg’s aggressive political outreach, including installing former Trump economic adviser Dina Powell McCormick as Meta’s head of global policy, has positioned the tech giant at the center of federal AI governance.\n\nCulture, Youth & Urban Life\n\nThe 20-Foot Crown: The Pittsburgh Parallel Parking Championship Turns Six\n\nWhat began as an informal family dispute has blossomed into Western Pennsylvania’s premier celebration of urban driving competence.\n\nIn an affectionate dispatch for Why Is This Interesting?, investor and cyclist Mark Slavonia celebrated the sixth edition of the Pittsburgh Parallel Parking Championship. Conceived by local founders Dan and Jenna to settle an argument over who drove better, the annual gathering has evolved into an authentic, zero-cost street festival complete with DJs, cheering neighborhood crowds, and rumbling freight trains. The contest rules remain pure: a timer starts the instant a vehicle’s reverse lights illuminate and stops when the driver yells \"Done\" out the window. Hitting a curb or adjoining bumper results in immediate disqualification, with final rankings determined by multiplying elapsed time by distance from the curb. Operating with ten-minute throughput per vehicle, the volunteer-run event offers a masterclass in low-friction civic celebration.\n\nThe \"Primetime\" Phenomenon: Why Zoomers Flocked to a Aughts Stalking Thriller\n\nA24’s To Catch a Predator drama pulls a massive youth audience obsessed with perpetual surveillance.\n\nReporting in After School, Casey Lewis examined why A24’s Primetime notched a commanding $19.2 million opening weekend powered predominantly by Gen Z moviegoers (69% of attendees). While Robert Pattinson’s unhinged portrayal of host Chris Hansen served as the primary box office draw, cultural critics noted that the film’s claustrophobic atmosphere directly mirrors the psychological reality of younger audiences. Coming of age in an era defined by smartphone tracking, algorithmic behavioral modeling, and pervasive public recording, Zoomers resonated with the film’s voyeuristic dread—viewing early-2000s chatroom stings as the historical origin point of a culture where digital privacy ceased to exist.\n\nCupid Work and Group Hangs: Gen Z Recalibrates Courtship Friction\n\nFrom 15-person Tinder outings to Japanese marriage agencies, daters outsource the pressure of one-on-one swiping.\n\nAs digital dating fatigue peaks across global markets, youth social habits are undergoing structural shifts, notes After School. In the United States, Tinder has rolled out \"Group Hangouts,\" enabling friend pods of up to 15 people to organize shared activities like mini-golf; testing in Australia showed women were more than twice as likely to engage with group profiles over isolated individuals. Meanwhile in Japan, young professionals are abandoning swipe apps entirely to register with institutional marriage bureaus like IBJ. Clients undergo etiquette training and mock dates while agency counselors conduct behind-the-scenes \"Cupid work\" filtering mutual feedback, accelerating relationships from first meeting to marriage proposal in under 90 days.\n\nRadar & Quick Hits\n\n• Hollywood IP Musical Chairs: Mattel CEO Ynon Kreiz is departing the toy giant to become co-CEO of the newly combined Paramount-Warner Bros. studio under David Ellison, while outgoing Condé Nast chief executive Roger Lynch takes the top post at Mattel to monetize legacy toy IP. (Semafor Business)\n\n• Artisan Pushes UBS Swiss Exit: Activist investor Artisan Partners publicly demanded that UBS relocate its corporate headquarters outside Switzerland, warning that proposed Swiss capital buffer requirements will erase $36 billion in shareholder equity. (Semafor Business)\n\n• Junkyard Parenting on Governors Island: Elementary school children are wielding handsaws, swinging hammers, and roaming unsupervised in mud at The Yard, an adventure playground on NYC's Governors Island where parents are strictly barred from entry. (After School)\n\n• Accounting Rolls Up for Wall Street: RSM, one of the world's largest middle-market accounting firms, is actively preparing an initial public offering as private equity firms aggressively acquire accounting partnerships. (Semafor Business)\n\n• Liquid Death Launches External Agency: Beverage sensation Liquid Death has opened its in-house ad agency, Death Machine, to select external corporate brands looking to replicate its irreverent, viral marketing playbook. (Semafor Business)",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "(Thursday, October 1, 2026)",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Thursday’s dispatches highlight an era of hyper-specialized infrastructure colliding with grassroots human eccentricity. In high finance and venture capital, the capital demands of artificial intelligence are reshaping corporate power: Benchmark is betting on exotic graph-based compute architectures to break agent CPU bottlenecks, while Wall Street's storied independent advisory boutiques are forced into mergers because they lack the multi-billion-dollar balance sheets required to fund the compute buildout. In Washington, voluntary AI safety frameworks are secretly orchestrated over state dinners, even as A24’s ",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Primetime",
+                  "url": "",
+                  "bold": false,
+                  "italic": true
+                },
+                {
+                  "text": " scores a massive youth box office driven by a generation that feels irrevocably surveilled. And in western Pennsylvania, hundreds of drivers gathered for a 20-foot parking challenge that proves joy and civic competence still thrive outside algorithmically optimized life.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "heading_2",
+              "runs": [
+                {
+                  "text": "Today’s Numbers",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "$19.2 Million",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": Opening weekend domestic box office haul for A24’s ",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Primetime",
+                  "url": "",
+                  "bold": false,
+                  "italic": true
+                },
+                {
+                  "text": ", with Gen Z accounting for 69% of ticket buyers. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "After School",
+                  "url": "https://afterschool.substack.com/p/cupid-work-and-group-hangs",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "$1.2 Trillion",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": Capital estimated by Wall Street analysts required solely to fund the ongoing global AI data center and energy buildout. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Semafor Business",
+                  "url": "https://semafor.com/newsletters/business",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "20.5x",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": Return multiple realized by venture firm Benchmark on its early hardware bet in Cerebras Systems following its public offering. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Newcomer",
+                  "url": "https://www.newcomer.co/p/scoop-benchmark-backs-early-stage",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "1 in 25",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": Proportion of Japanese marriages facilitated by corporate matchmaking agency IBJ as 20-somethings abandon swipe apps for structured coaching. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "After School",
+                  "url": "https://afterschool.substack.com/p/cupid-work-and-group-hangs",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "$36 Billion",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": Market capitalization that activist shareholder Artisan Partners estimates UBS risks losing if it stays in Switzerland under pending domestic capital regulations. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Semafor Business",
+                  "url": "https://semafor.com/newsletters/business",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "$700 / Week",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": Cost for after-school sessions at The Yard on Governors Island, a parent-free adventure playground where elementary schoolers play with hammers and saws. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "After School",
+                  "url": "https://afterschool.substack.com/p/cupid-work-and-group-hangs",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "20 Feet",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": Exact length of the curb space defining the competition zone at the annual Pittsburgh Parallel Parking Championship. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Why Is This Interesting?",
+                  "url": "https://whyisthisinteresting.substack.com/p/the-pittsburgh-parallel-parking-championship",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "heading_2",
+              "runs": [
+                {
+                  "text": "Quotes of the Day",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "quote",
+              "runs": [
+                {
+                  "text": "\"The entire process, from rolling up to the venue through to completing the run and getting a commemorative card with your score, takes about ten minutes. Why is this free event better run than any airline check-in counter, DMV, or preschool drop-off in the world?\"",
+                  "url": "",
+                  "bold": false,
+                  "italic": true
+                }
+              ]
+            },
+            {
+              "type": "quote",
+              "runs": [
+                {
+                  "text": "— ",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Mark Slavonia",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ", on competing in the Pittsburgh Parallel Parking Championship, via ",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Why Is This Interesting?",
+                  "url": "https://whyisthisinteresting.substack.com/p/the-pittsburgh-parallel-parking-championship",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "quote",
+              "runs": [
+                {
+                  "text": "\"A decade ago they felt new and exciting, a corrective to bloated banks oozing conflicts. Now they just feel like furniture... By one recent estimate, $1.2 trillion needs to be raised just to fund the AI buildout. This era rewards balance sheets boutiques don’t have.\"",
+                  "url": "",
+                  "bold": false,
+                  "italic": true
+                }
+              ]
+            },
+            {
+              "type": "quote",
+              "runs": [
+                {
+                  "text": "— ",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Liz Hoffman",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ", on the fading era of boutique M&A advisory firms, via ",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Semafor Business",
+                  "url": "https://semafor.com/newsletters/business",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "quote",
+              "runs": [
+                {
+                  "text": "\"The traditional mechanisms of recruiting and cold outreach are probably becoming less and less useful to everyone involved: kids can't stand out, and adults can't tell what's real.\"",
+                  "url": "",
+                  "bold": false,
+                  "italic": true
+                }
+              ]
+            },
+            {
+              "type": "quote",
+              "runs": [
+                {
+                  "text": "— ",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Casey Lewis",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ", reflecting on youth labor markets and automated application spam, via ",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "After School",
+                  "url": "https://afterschool.substack.com/p/cupid-work-and-group-hangs",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "quote",
+              "runs": [
+                {
+                  "text": "\"We find large established categories that have been tried and true, and then we’re gonna go in and win with brand.\"",
+                  "url": "",
+                  "bold": false,
+                  "italic": true
+                }
+              ]
+            },
+            {
+              "type": "quote",
+              "runs": [
+                {
+                  "text": "— ",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Mike Cessario",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ", CEO of Liquid Death, on avoiding unproven categories like oat milk to dominate commodity essentials, via ",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Semafor Business",
+                  "url": "https://semafor.com/newsletters/business",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "heading_2",
+              "runs": [
+                {
+                  "text": "Hardware, Capital & Dealmaking",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "heading_3",
+              "runs": [
+                {
+                  "text": "Benchmark Backs Tendrils Compute in Bet on Post-CPU Agent Architectures",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Early-stage startup seeks to untangle multi-step reasoning bottlenecks using esoteric graph interaction nets.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Venture firm Benchmark has emerged as the winner in a hotly contested early financing round for Cambridge, UK-based semiconductor startup Tendrils Compute, reports Eric Newcomer in ",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Newcomer",
+                  "url": "https://www.newcomer.co/p/scoop-benchmark-backs-early-stage",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ". Led by Nils Cremer, Tendrils is developing general-purpose processing chips based on \"interaction nets\"—a theoretical graph-reduction model designed to execute complex computational graphs without the synchronization overhead and bus lockups endemic to traditional multi-core CPUs. As autonomous AI agents execute longer chains of multi-step tool calls and reasoning loops, memory coordination and CPU latency have emerged as acute bottlenecks. The investment comes amid a wider hardware venture renaissance, following Etched's $21 billion valuation, Fractile's talks at $6.5 billion, and nine-figure rounds for OLIX, Euclyd, and Delos Data.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "heading_3",
+              "runs": [
+                {
+                  "text": "The Death of the Boutique: M&A Advisory Royalty Succumbs to the $1.2T Infrastructure Era",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "As Perella Weinberg negotiates a sale to Piper Sandler, Wall Street's rainmaker model loses out to giant lending balance sheets.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Writing in ",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Semafor Business",
+                  "url": "https://semafor.com/newsletters/business",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ", Liz Hoffman chronicles the steady twilight of Wall Street’s independent advisory boutiques. With Perella Weinberg Partners in advanced talks to sell to Piper Sandler, following Greenhill’s acquisition by Japanese lender Mizuho, the post-2008 dream of independent, conflict-free advice led by marquee rainmakers has ground to a halt. While superstar bankers once leveraged personal Rolodexes to command hefty M&A fees, corporate clients navigating the $1.2 trillion AI infrastructure expansion require massive balance-sheet financing, credit facilities, and debt syndication that advisory-only firms cannot supply. Of the 30 most active M&A advisers tracked by Dealogic today, only one firm founded after 2013 remains on the board.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "heading_3",
+              "runs": [
+                {
+                  "text": "Zuckerberg’s State Dinner Diplomatic Coup Shapes White House AI Pact",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "A quiet conversation with House Speaker Mike Johnson yielded the administration’s voluntary safety agreement.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Semafor’s Ashley Gold reported in ",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Semafor Business",
+                  "url": "https://semafor.com/newsletters/business",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": " that President Trump’s newly unveiled AI industry accord—establishing voluntary safety checkpoints for frontier models—was engineered behind the scenes by Meta CEO Mark Zuckerberg. Seated beside House Speaker Mike Johnson at a White House state dinner honoring Chinese leader Xi Jinping, Zuckerberg initiated discussions on regulatory frameworks, subsequently coordinating principles with Nvidia chief Jensen Huang before presenting the proposal to the administration. The maneuver highlights how Zuckerberg’s aggressive political outreach, including installing former Trump economic adviser Dina Powell McCormick as Meta’s head of global policy, has positioned the tech giant at the center of federal AI governance.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "heading_2",
+              "runs": [
+                {
+                  "text": "Culture, Youth & Urban Life",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "heading_3",
+              "runs": [
+                {
+                  "text": "The 20-Foot Crown: The Pittsburgh Parallel Parking Championship Turns Six",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "What began as an informal family dispute has blossomed into Western Pennsylvania’s premier celebration of urban driving competence.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "In an affectionate dispatch for ",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Why Is This Interesting?",
+                  "url": "https://whyisthisinteresting.substack.com/p/the-pittsburgh-parallel-parking-championship",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ", investor and cyclist Mark Slavonia celebrated the sixth edition of the Pittsburgh Parallel Parking Championship. Conceived by local founders Dan and Jenna to settle an argument over who drove better, the annual gathering has evolved into an authentic, zero-cost street festival complete with DJs, cheering neighborhood crowds, and rumbling freight trains. The contest rules remain pure: a timer starts the instant a vehicle’s reverse lights illuminate and stops when the driver yells \"Done\" out the window. Hitting a curb or adjoining bumper results in immediate disqualification, with final rankings determined by multiplying elapsed time by distance from the curb. Operating with ten-minute throughput per vehicle, the volunteer-run event offers a masterclass in low-friction civic celebration.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "heading_3",
+              "runs": [
+                {
+                  "text": "The \"Primetime\" Phenomenon: Why Zoomers Flocked to a Aughts Stalking Thriller",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "A24’s To Catch a Predator drama pulls a massive youth audience obsessed with perpetual surveillance.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Reporting in ",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "After School",
+                  "url": "https://afterschool.substack.com/p/cupid-work-and-group-hangs",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ", Casey Lewis examined why A24’s ",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Primetime",
+                  "url": "",
+                  "bold": false,
+                  "italic": true
+                },
+                {
+                  "text": " notched a commanding $19.2 million opening weekend powered predominantly by Gen Z moviegoers (69% of attendees). While Robert Pattinson’s unhinged portrayal of host Chris Hansen served as the primary box office draw, cultural critics noted that the film’s claustrophobic atmosphere directly mirrors the psychological reality of younger audiences. Coming of age in an era defined by smartphone tracking, algorithmic behavioral modeling, and pervasive public recording, Zoomers resonated with the film’s voyeuristic dread—viewing early-2000s chatroom stings as the historical origin point of a culture where digital privacy ceased to exist.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "heading_3",
+              "runs": [
+                {
+                  "text": "Cupid Work and Group Hangs: Gen Z Recalibrates Courtship Friction",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "From 15-person Tinder outings to Japanese marriage agencies, daters outsource the pressure of one-on-one swiping.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "As digital dating fatigue peaks across global markets, youth social habits are undergoing structural shifts, notes ",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "After School",
+                  "url": "https://afterschool.substack.com/p/cupid-work-and-group-hangs",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ". In the United States, Tinder has rolled out \"Group Hangouts,\" enabling friend pods of up to 15 people to organize shared activities like mini-golf; testing in Australia showed women were more than twice as likely to engage with group profiles over isolated individuals. Meanwhile in Japan, young professionals are abandoning swipe apps entirely to register with institutional marriage bureaus like IBJ. Clients undergo etiquette training and mock dates while agency counselors conduct behind-the-scenes \"Cupid work\" filtering mutual feedback, accelerating relationships from first meeting to marriage proposal in under 90 days.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "heading_2",
+              "runs": [
+                {
+                  "text": "Radar & Quick Hits",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Hollywood IP Musical Chairs",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": Mattel CEO Ynon Kreiz is departing the toy giant to become co-CEO of the newly combined Paramount-Warner Bros. studio under David Ellison, while outgoing Condé Nast chief executive Roger Lynch takes the top post at Mattel to monetize legacy toy IP. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Semafor Business",
+                  "url": "https://semafor.com/newsletters/business",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Artisan Pushes UBS Swiss Exit",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": Activist investor Artisan Partners publicly demanded that UBS relocate its corporate headquarters outside Switzerland, warning that proposed Swiss capital buffer requirements will erase $36 billion in shareholder equity. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Semafor Business",
+                  "url": "https://semafor.com/newsletters/business",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Junkyard Parenting on Governors Island",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": Elementary school children are wielding handsaws, swinging hammers, and roaming unsupervised in mud at The Yard, an adventure playground on NYC's Governors Island where parents are strictly barred from entry. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "After School",
+                  "url": "https://afterschool.substack.com/p/cupid-work-and-group-hangs",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Accounting Rolls Up for Wall Street",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": RSM, one of the world's largest middle-market accounting firms, is actively preparing an initial public offering as private equity firms aggressively acquire accounting partnerships. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Semafor Business",
+                  "url": "https://semafor.com/newsletters/business",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Liquid Death Launches External Agency",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": Beverage sensation Liquid Death has opened its in-house ad agency, Death Machine, to select external corporate brands looking to replicate its irreverent, viral marketing playbook. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Semafor Business",
+                  "url": "https://semafor.com/newsletters/business",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            }
+          ],
+          "links": [
+            {
+              "title": "After School",
+              "url": "https://afterschool.substack.com/p/cupid-work-and-group-hangs"
+            },
+            {
+              "title": "Semafor Business",
+              "url": "https://semafor.com/newsletters/business"
+            },
+            {
+              "title": "Newcomer",
+              "url": "https://www.newcomer.co/p/scoop-benchmark-backs-early-stage"
+            },
+            {
+              "title": "Why Is This Interesting?",
+              "url": "https://whyisthisinteresting.substack.com/p/the-pittsburgh-parallel-parking-championship"
+            }
+          ]
+        },
+        "full": {
+          "body": "(Thursday, October 1, 2026)\n\nThursday’s dispatches highlight an era of hyper-specialized infrastructure colliding with grassroots human eccentricity. In high finance and venture capital, the capital demands of artificial intelligence are reshaping corporate power: Benchmark is betting on exotic graph-based compute architectures to break agent CPU bottlenecks, while Wall Street's storied independent advisory boutiques are forced into mergers because they lack the multi-billion-dollar balance sheets required to fund the compute buildout. In Washington, voluntary AI safety frameworks are secretly orchestrated over state dinners, even as A24’s Primetime scores a massive youth box office driven by a generation that feels irrevocably surveilled. And in western Pennsylvania, hundreds of drivers gathered for a 20-foot parking challenge that proves joy and civic competence still thrive outside algorithmically optimized life.\n\nToday’s Numbers\n\n• $19.2 Million: Opening weekend domestic box office haul for A24’s Primetime, with Gen Z accounting for 69% of ticket buyers. (After School)\n\n• $1.2 Trillion: Capital estimated by Wall Street analysts required solely to fund the ongoing global AI data center and energy buildout. (Semafor Business)\n\n• 20.5x: Return multiple realized by venture firm Benchmark on its early hardware bet in Cerebras Systems following its public offering. (Newcomer)\n\n• 1 in 25: Proportion of Japanese marriages facilitated by corporate matchmaking agency IBJ as 20-somethings abandon swipe apps for structured coaching. (After School)\n\n• $36 Billion: Market capitalization that activist shareholder Artisan Partners estimates UBS risks losing if it stays in Switzerland under pending domestic capital regulations. (Semafor Business)\n\n• $700 / Week: Cost for after-school sessions at The Yard on Governors Island, a parent-free adventure playground where elementary schoolers play with hammers and saws. (After School)\n\n• 20 Feet: Exact length of the curb space defining the competition zone at the annual Pittsburgh Parallel Parking Championship. (Why Is This Interesting?)\n\nQuotes of the Day\n\n\"The entire process, from rolling up to the venue through to completing the run and getting a commemorative card with your score, takes about ten minutes. Why is this free event better run than any airline check-in counter, DMV, or preschool drop-off in the world?\"\n\n— Mark Slavonia, on competing in the Pittsburgh Parallel Parking Championship, via Why Is This Interesting?\n\n\"A decade ago they felt new and exciting, a corrective to bloated banks oozing conflicts. Now they just feel like furniture... By one recent estimate, $1.2 trillion needs to be raised just to fund the AI buildout. This era rewards balance sheets boutiques don’t have.\"\n\n— Liz Hoffman, on the fading era of boutique M&A advisory firms, via Semafor Business\n\n\"The traditional mechanisms of recruiting and cold outreach are probably becoming less and less useful to everyone involved: kids can't stand out, and adults can't tell what's real.\"\n\n— Casey Lewis, reflecting on youth labor markets and automated application spam, via After School\n\n\"We find large established categories that have been tried and true, and then we’re gonna go in and win with brand.\"\n\n— Mike Cessario, CEO of Liquid Death, on avoiding unproven categories like oat milk to dominate commodity essentials, via Semafor Business\n\nHardware, Capital & Dealmaking\n\nBenchmark Backs Tendrils Compute in Bet on Post-CPU Agent Architectures\n\nEarly-stage startup seeks to untangle multi-step reasoning bottlenecks using esoteric graph interaction nets.\n\nVenture firm Benchmark has emerged as the winner in a hotly contested early financing round for Cambridge, UK-based semiconductor startup Tendrils Compute, reports Eric Newcomer in Newcomer. Led by Nils Cremer, Tendrils is developing general-purpose processing chips based on \"interaction nets\"—a theoretical graph-reduction model designed to execute complex computational graphs without the synchronization overhead and bus lockups endemic to traditional multi-core CPUs. As autonomous AI agents execute longer chains of multi-step tool calls and reasoning loops, memory coordination and CPU latency have emerged as acute bottlenecks. The investment comes amid a wider hardware venture renaissance, following Etched's $21 billion valuation, Fractile's talks at $6.5 billion, and nine-figure rounds for OLIX, Euclyd, and Delos Data.\n\nThe Death of the Boutique: M&A Advisory Royalty Succumbs to the $1.2T Infrastructure Era\n\nAs Perella Weinberg negotiates a sale to Piper Sandler, Wall Street's rainmaker model loses out to giant lending balance sheets.\n\nWriting in Semafor Business, Liz Hoffman chronicles the steady twilight of Wall Street’s independent advisory boutiques. With Perella Weinberg Partners in advanced talks to sell to Piper Sandler, following Greenhill’s acquisition by Japanese lender Mizuho, the post-2008 dream of independent, conflict-free advice led by marquee rainmakers has ground to a halt. While superstar bankers once leveraged personal Rolodexes to command hefty M&A fees, corporate clients navigating the $1.2 trillion AI infrastructure expansion require massive balance-sheet financing, credit facilities, and debt syndication that advisory-only firms cannot supply. Of the 30 most active M&A advisers tracked by Dealogic today, only one firm founded after 2013 remains on the board.\n\nZuckerberg’s State Dinner Diplomatic Coup Shapes White House AI Pact\n\nA quiet conversation with House Speaker Mike Johnson yielded the administration’s voluntary safety agreement.\n\nSemafor’s Ashley Gold reported in Semafor Business that President Trump’s newly unveiled AI industry accord—establishing voluntary safety checkpoints for frontier models—was engineered behind the scenes by Meta CEO Mark Zuckerberg. Seated beside House Speaker Mike Johnson at a White House state dinner honoring Chinese leader Xi Jinping, Zuckerberg initiated discussions on regulatory frameworks, subsequently coordinating principles with Nvidia chief Jensen Huang before presenting the proposal to the administration. The maneuver highlights how Zuckerberg’s aggressive political outreach, including installing former Trump economic adviser Dina Powell McCormick as Meta’s head of global policy, has positioned the tech giant at the center of federal AI governance.\n\nCulture, Youth & Urban Life\n\nThe 20-Foot Crown: The Pittsburgh Parallel Parking Championship Turns Six\n\nWhat began as an informal family dispute has blossomed into Western Pennsylvania’s premier celebration of urban driving competence.\n\nIn an affectionate dispatch for Why Is This Interesting?, investor and cyclist Mark Slavonia celebrated the sixth edition of the Pittsburgh Parallel Parking Championship. Conceived by local founders Dan and Jenna to settle an argument over who drove better, the annual gathering has evolved into an authentic, zero-cost street festival complete with DJs, cheering neighborhood crowds, and rumbling freight trains. The contest rules remain pure: a timer starts the instant a vehicle’s reverse lights illuminate and stops when the driver yells \"Done\" out the window. Hitting a curb or adjoining bumper results in immediate disqualification, with final rankings determined by multiplying elapsed time by distance from the curb. Operating with ten-minute throughput per vehicle, the volunteer-run event offers a masterclass in low-friction civic celebration.\n\nThe \"Primetime\" Phenomenon: Why Zoomers Flocked to a Aughts Stalking Thriller\n\nA24’s To Catch a Predator drama pulls a massive youth audience obsessed with perpetual surveillance.\n\nReporting in After School, Casey Lewis examined why A24’s Primetime notched a commanding $19.2 million opening weekend powered predominantly by Gen Z moviegoers (69% of attendees). While Robert Pattinson’s unhinged portrayal of host Chris Hansen served as the primary box office draw, cultural critics noted that the film’s claustrophobic atmosphere directly mirrors the psychological reality of younger audiences. Coming of age in an era defined by smartphone tracking, algorithmic behavioral modeling, and pervasive public recording, Zoomers resonated with the film’s voyeuristic dread—viewing early-2000s chatroom stings as the historical origin point of a culture where digital privacy ceased to exist.\n\nCupid Work and Group Hangs: Gen Z Recalibrates Courtship Friction\n\nFrom 15-person Tinder outings to Japanese marriage agencies, daters outsource the pressure of one-on-one swiping.\n\nAs digital dating fatigue peaks across global markets, youth social habits are undergoing structural shifts, notes After School. In the United States, Tinder has rolled out \"Group Hangouts,\" enabling friend pods of up to 15 people to organize shared activities like mini-golf; testing in Australia showed women were more than twice as likely to engage with group profiles over isolated individuals. Meanwhile in Japan, young professionals are abandoning swipe apps entirely to register with institutional marriage bureaus like IBJ. Clients undergo etiquette training and mock dates while agency counselors conduct behind-the-scenes \"Cupid work\" filtering mutual feedback, accelerating relationships from first meeting to marriage proposal in under 90 days.\n\nRadar & Quick Hits\n\n• Hollywood IP Musical Chairs: Mattel CEO Ynon Kreiz is departing the toy giant to become co-CEO of the newly combined Paramount-Warner Bros. studio under David Ellison, while outgoing Condé Nast chief executive Roger Lynch takes the top post at Mattel to monetize legacy toy IP. (Semafor Business)\n\n• Artisan Pushes UBS Swiss Exit: Activist investor Artisan Partners publicly demanded that UBS relocate its corporate headquarters outside Switzerland, warning that proposed Swiss capital buffer requirements will erase $36 billion in shareholder equity. (Semafor Business)\n\n• Junkyard Parenting on Governors Island: Elementary school children are wielding handsaws, swinging hammers, and roaming unsupervised in mud at The Yard, an adventure playground on NYC's Governors Island where parents are strictly barred from entry. (After School)\n\n• Accounting Rolls Up for Wall Street: RSM, one of the world's largest middle-market accounting firms, is actively preparing an initial public offering as private equity firms aggressively acquire accounting partnerships. (Semafor Business)\n\n• Liquid Death Launches External Agency: Beverage sensation Liquid Death has opened its in-house ad agency, Death Machine, to select external corporate brands looking to replicate its irreverent, viral marketing playbook. (Semafor Business)",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "(Thursday, October 1, 2026)",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Thursday’s dispatches highlight an era of hyper-specialized infrastructure colliding with grassroots human eccentricity. In high finance and venture capital, the capital demands of artificial intelligence are reshaping corporate power: Benchmark is betting on exotic graph-based compute architectures to break agent CPU bottlenecks, while Wall Street's storied independent advisory boutiques are forced into mergers because they lack the multi-billion-dollar balance sheets required to fund the compute buildout. In Washington, voluntary AI safety frameworks are secretly orchestrated over state dinners, even as A24’s ",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Primetime",
+                  "url": "",
+                  "bold": false,
+                  "italic": true
+                },
+                {
+                  "text": " scores a massive youth box office driven by a generation that feels irrevocably surveilled. And in western Pennsylvania, hundreds of drivers gathered for a 20-foot parking challenge that proves joy and civic competence still thrive outside algorithmically optimized life.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "heading_2",
+              "runs": [
+                {
+                  "text": "Today’s Numbers",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "$19.2 Million",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": Opening weekend domestic box office haul for A24’s ",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Primetime",
+                  "url": "",
+                  "bold": false,
+                  "italic": true
+                },
+                {
+                  "text": ", with Gen Z accounting for 69% of ticket buyers. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "After School",
+                  "url": "https://afterschool.substack.com/p/cupid-work-and-group-hangs",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "$1.2 Trillion",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": Capital estimated by Wall Street analysts required solely to fund the ongoing global AI data center and energy buildout. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Semafor Business",
+                  "url": "https://semafor.com/newsletters/business",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "20.5x",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": Return multiple realized by venture firm Benchmark on its early hardware bet in Cerebras Systems following its public offering. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Newcomer",
+                  "url": "https://www.newcomer.co/p/scoop-benchmark-backs-early-stage",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "1 in 25",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": Proportion of Japanese marriages facilitated by corporate matchmaking agency IBJ as 20-somethings abandon swipe apps for structured coaching. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "After School",
+                  "url": "https://afterschool.substack.com/p/cupid-work-and-group-hangs",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "$36 Billion",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": Market capitalization that activist shareholder Artisan Partners estimates UBS risks losing if it stays in Switzerland under pending domestic capital regulations. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Semafor Business",
+                  "url": "https://semafor.com/newsletters/business",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "$700 / Week",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": Cost for after-school sessions at The Yard on Governors Island, a parent-free adventure playground where elementary schoolers play with hammers and saws. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "After School",
+                  "url": "https://afterschool.substack.com/p/cupid-work-and-group-hangs",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "20 Feet",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": Exact length of the curb space defining the competition zone at the annual Pittsburgh Parallel Parking Championship. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Why Is This Interesting?",
+                  "url": "https://whyisthisinteresting.substack.com/p/the-pittsburgh-parallel-parking-championship",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "heading_2",
+              "runs": [
+                {
+                  "text": "Quotes of the Day",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "quote",
+              "runs": [
+                {
+                  "text": "\"The entire process, from rolling up to the venue through to completing the run and getting a commemorative card with your score, takes about ten minutes. Why is this free event better run than any airline check-in counter, DMV, or preschool drop-off in the world?\"",
+                  "url": "",
+                  "bold": false,
+                  "italic": true
+                }
+              ]
+            },
+            {
+              "type": "quote",
+              "runs": [
+                {
+                  "text": "— ",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Mark Slavonia",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ", on competing in the Pittsburgh Parallel Parking Championship, via ",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Why Is This Interesting?",
+                  "url": "https://whyisthisinteresting.substack.com/p/the-pittsburgh-parallel-parking-championship",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "quote",
+              "runs": [
+                {
+                  "text": "\"A decade ago they felt new and exciting, a corrective to bloated banks oozing conflicts. Now they just feel like furniture... By one recent estimate, $1.2 trillion needs to be raised just to fund the AI buildout. This era rewards balance sheets boutiques don’t have.\"",
+                  "url": "",
+                  "bold": false,
+                  "italic": true
+                }
+              ]
+            },
+            {
+              "type": "quote",
+              "runs": [
+                {
+                  "text": "— ",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Liz Hoffman",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ", on the fading era of boutique M&A advisory firms, via ",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Semafor Business",
+                  "url": "https://semafor.com/newsletters/business",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "quote",
+              "runs": [
+                {
+                  "text": "\"The traditional mechanisms of recruiting and cold outreach are probably becoming less and less useful to everyone involved: kids can't stand out, and adults can't tell what's real.\"",
+                  "url": "",
+                  "bold": false,
+                  "italic": true
+                }
+              ]
+            },
+            {
+              "type": "quote",
+              "runs": [
+                {
+                  "text": "— ",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Casey Lewis",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ", reflecting on youth labor markets and automated application spam, via ",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "After School",
+                  "url": "https://afterschool.substack.com/p/cupid-work-and-group-hangs",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "quote",
+              "runs": [
+                {
+                  "text": "\"We find large established categories that have been tried and true, and then we’re gonna go in and win with brand.\"",
+                  "url": "",
+                  "bold": false,
+                  "italic": true
+                }
+              ]
+            },
+            {
+              "type": "quote",
+              "runs": [
+                {
+                  "text": "— ",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Mike Cessario",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ", CEO of Liquid Death, on avoiding unproven categories like oat milk to dominate commodity essentials, via ",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Semafor Business",
+                  "url": "https://semafor.com/newsletters/business",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "heading_2",
+              "runs": [
+                {
+                  "text": "Hardware, Capital & Dealmaking",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "heading_3",
+              "runs": [
+                {
+                  "text": "Benchmark Backs Tendrils Compute in Bet on Post-CPU Agent Architectures",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Early-stage startup seeks to untangle multi-step reasoning bottlenecks using esoteric graph interaction nets.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Venture firm Benchmark has emerged as the winner in a hotly contested early financing round for Cambridge, UK-based semiconductor startup Tendrils Compute, reports Eric Newcomer in ",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Newcomer",
+                  "url": "https://www.newcomer.co/p/scoop-benchmark-backs-early-stage",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ". Led by Nils Cremer, Tendrils is developing general-purpose processing chips based on \"interaction nets\"—a theoretical graph-reduction model designed to execute complex computational graphs without the synchronization overhead and bus lockups endemic to traditional multi-core CPUs. As autonomous AI agents execute longer chains of multi-step tool calls and reasoning loops, memory coordination and CPU latency have emerged as acute bottlenecks. The investment comes amid a wider hardware venture renaissance, following Etched's $21 billion valuation, Fractile's talks at $6.5 billion, and nine-figure rounds for OLIX, Euclyd, and Delos Data.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "heading_3",
+              "runs": [
+                {
+                  "text": "The Death of the Boutique: M&A Advisory Royalty Succumbs to the $1.2T Infrastructure Era",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "As Perella Weinberg negotiates a sale to Piper Sandler, Wall Street's rainmaker model loses out to giant lending balance sheets.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Writing in ",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Semafor Business",
+                  "url": "https://semafor.com/newsletters/business",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ", Liz Hoffman chronicles the steady twilight of Wall Street’s independent advisory boutiques. With Perella Weinberg Partners in advanced talks to sell to Piper Sandler, following Greenhill’s acquisition by Japanese lender Mizuho, the post-2008 dream of independent, conflict-free advice led by marquee rainmakers has ground to a halt. While superstar bankers once leveraged personal Rolodexes to command hefty M&A fees, corporate clients navigating the $1.2 trillion AI infrastructure expansion require massive balance-sheet financing, credit facilities, and debt syndication that advisory-only firms cannot supply. Of the 30 most active M&A advisers tracked by Dealogic today, only one firm founded after 2013 remains on the board.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "heading_3",
+              "runs": [
+                {
+                  "text": "Zuckerberg’s State Dinner Diplomatic Coup Shapes White House AI Pact",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "A quiet conversation with House Speaker Mike Johnson yielded the administration’s voluntary safety agreement.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Semafor’s Ashley Gold reported in ",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Semafor Business",
+                  "url": "https://semafor.com/newsletters/business",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": " that President Trump’s newly unveiled AI industry accord—establishing voluntary safety checkpoints for frontier models—was engineered behind the scenes by Meta CEO Mark Zuckerberg. Seated beside House Speaker Mike Johnson at a White House state dinner honoring Chinese leader Xi Jinping, Zuckerberg initiated discussions on regulatory frameworks, subsequently coordinating principles with Nvidia chief Jensen Huang before presenting the proposal to the administration. The maneuver highlights how Zuckerberg’s aggressive political outreach, including installing former Trump economic adviser Dina Powell McCormick as Meta’s head of global policy, has positioned the tech giant at the center of federal AI governance.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "heading_2",
+              "runs": [
+                {
+                  "text": "Culture, Youth & Urban Life",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "heading_3",
+              "runs": [
+                {
+                  "text": "The 20-Foot Crown: The Pittsburgh Parallel Parking Championship Turns Six",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "What began as an informal family dispute has blossomed into Western Pennsylvania’s premier celebration of urban driving competence.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "In an affectionate dispatch for ",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Why Is This Interesting?",
+                  "url": "https://whyisthisinteresting.substack.com/p/the-pittsburgh-parallel-parking-championship",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ", investor and cyclist Mark Slavonia celebrated the sixth edition of the Pittsburgh Parallel Parking Championship. Conceived by local founders Dan and Jenna to settle an argument over who drove better, the annual gathering has evolved into an authentic, zero-cost street festival complete with DJs, cheering neighborhood crowds, and rumbling freight trains. The contest rules remain pure: a timer starts the instant a vehicle’s reverse lights illuminate and stops when the driver yells \"Done\" out the window. Hitting a curb or adjoining bumper results in immediate disqualification, with final rankings determined by multiplying elapsed time by distance from the curb. Operating with ten-minute throughput per vehicle, the volunteer-run event offers a masterclass in low-friction civic celebration.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "heading_3",
+              "runs": [
+                {
+                  "text": "The \"Primetime\" Phenomenon: Why Zoomers Flocked to a Aughts Stalking Thriller",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "A24’s To Catch a Predator drama pulls a massive youth audience obsessed with perpetual surveillance.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Reporting in ",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "After School",
+                  "url": "https://afterschool.substack.com/p/cupid-work-and-group-hangs",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ", Casey Lewis examined why A24’s ",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Primetime",
+                  "url": "",
+                  "bold": false,
+                  "italic": true
+                },
+                {
+                  "text": " notched a commanding $19.2 million opening weekend powered predominantly by Gen Z moviegoers (69% of attendees). While Robert Pattinson’s unhinged portrayal of host Chris Hansen served as the primary box office draw, cultural critics noted that the film’s claustrophobic atmosphere directly mirrors the psychological reality of younger audiences. Coming of age in an era defined by smartphone tracking, algorithmic behavioral modeling, and pervasive public recording, Zoomers resonated with the film’s voyeuristic dread—viewing early-2000s chatroom stings as the historical origin point of a culture where digital privacy ceased to exist.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "heading_3",
+              "runs": [
+                {
+                  "text": "Cupid Work and Group Hangs: Gen Z Recalibrates Courtship Friction",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "From 15-person Tinder outings to Japanese marriage agencies, daters outsource the pressure of one-on-one swiping.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "As digital dating fatigue peaks across global markets, youth social habits are undergoing structural shifts, notes ",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "After School",
+                  "url": "https://afterschool.substack.com/p/cupid-work-and-group-hangs",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ". In the United States, Tinder has rolled out \"Group Hangouts,\" enabling friend pods of up to 15 people to organize shared activities like mini-golf; testing in Australia showed women were more than twice as likely to engage with group profiles over isolated individuals. Meanwhile in Japan, young professionals are abandoning swipe apps entirely to register with institutional marriage bureaus like IBJ. Clients undergo etiquette training and mock dates while agency counselors conduct behind-the-scenes \"Cupid work\" filtering mutual feedback, accelerating relationships from first meeting to marriage proposal in under 90 days.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "heading_2",
+              "runs": [
+                {
+                  "text": "Radar & Quick Hits",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Hollywood IP Musical Chairs",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": Mattel CEO Ynon Kreiz is departing the toy giant to become co-CEO of the newly combined Paramount-Warner Bros. studio under David Ellison, while outgoing Condé Nast chief executive Roger Lynch takes the top post at Mattel to monetize legacy toy IP. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Semafor Business",
+                  "url": "https://semafor.com/newsletters/business",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Artisan Pushes UBS Swiss Exit",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": Activist investor Artisan Partners publicly demanded that UBS relocate its corporate headquarters outside Switzerland, warning that proposed Swiss capital buffer requirements will erase $36 billion in shareholder equity. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Semafor Business",
+                  "url": "https://semafor.com/newsletters/business",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Junkyard Parenting on Governors Island",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": Elementary school children are wielding handsaws, swinging hammers, and roaming unsupervised in mud at The Yard, an adventure playground on NYC's Governors Island where parents are strictly barred from entry. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "After School",
+                  "url": "https://afterschool.substack.com/p/cupid-work-and-group-hangs",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Accounting Rolls Up for Wall Street",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": RSM, one of the world's largest middle-market accounting firms, is actively preparing an initial public offering as private equity firms aggressively acquire accounting partnerships. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Semafor Business",
+                  "url": "https://semafor.com/newsletters/business",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Liquid Death Launches External Agency",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": Beverage sensation Liquid Death has opened its in-house ad agency, Death Machine, to select external corporate brands looking to replicate its irreverent, viral marketing playbook. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Semafor Business",
+                  "url": "https://semafor.com/newsletters/business",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            }
+          ],
+          "links": [
+            {
+              "title": "After School",
+              "url": "https://afterschool.substack.com/p/cupid-work-and-group-hangs"
+            },
+            {
+              "title": "Semafor Business",
+              "url": "https://semafor.com/newsletters/business"
+            },
+            {
+              "title": "Newcomer",
+              "url": "https://www.newcomer.co/p/scoop-benchmark-backs-early-stage"
+            },
+            {
+              "title": "Why Is This Interesting?",
+              "url": "https://whyisthisinteresting.substack.com/p/the-pittsburgh-parallel-parking-championship"
+            }
+          ]
+        }
+      }
     }
   ]
 }
