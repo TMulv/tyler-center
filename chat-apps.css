@@ -187,3 +187,9 @@
  .channel-toolbar .channel-reading-bar>span{display:block}
  .channel-toolbar .channel-reading-bar button{min-height:32px}
 }
+
+/* The newsletter introduction stays brief until a reader asks for more. */
+.channel-header .header-description.is-expandable{display:block;max-height:none;overflow:visible;-webkit-line-clamp:unset}
+.description-toggle{display:inline-block;border:0;background:none;padding:2px 0;margin-left:6px;color:var(--red);font:12px/1.5 Arial,Helvetica,sans-serif;text-decoration:underline;text-underline-offset:3px;white-space:nowrap}
+.description-toggle:hover{color:#862f27}
+@media(max-width:760px){.description-toggle{padding:4px 0;font-size:12px}}

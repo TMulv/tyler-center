@@ -2,8 +2,8 @@ const CONTACT = { email: 'mail@tyler.center', instagram: 'https://www.instagram.
 
 const CHANNELS = [
   {id:'websites', group:'tyler', title:"what-i've-built", description:"Apps and websites I’ve made"},
-  {id:'writing', group:'tyler', title:'betting-antelope', description:'Newsletter that launched in 2019 (before AI was everywhere) and a link to sign up for our emails with me and Vince. He built a machine learning model to predict NFL games. This is our newsletter that comes out Monday, Thursday, Sundays, and Saturdays when there are games.', intro:'Newsletter that launched in 2019 (before AI was everywhere) and a link to sign up for our emails with me and Vince. He built a machine learning model to predict NFL games. This is our newsletter that comes out Monday, Thursday, Sundays, and Saturdays when there are games.', introLinks:[{text:'Vince',url:'https://dk.linkedin.com/in/vincemartin-eng'},{text:'sign up for our emails',url:'https://bettingantelope.substack.com/subscribe'}], managed:true, sourceUrl:'https://bettingantelope.substack.com/subscribe', sourceLabel:'Sign up for our emails ↗'},
-  {id:'newsletters', group:'tyler', title:'daily-newsletter', description:"I subscribe to a ton of newsletters, both paid and free. Sometimes I don't have a chance to read them, so this is a Live Feed of a Frankenstein version of my newsletter, the most interesting or important articles that came through today that I don't want to fall through the cracks", managed:true, intro:"I subscribe to a ton of newsletters, both paid and free. Sometimes I don't have a chance to read them, so this is a Live Feed of a Frankenstein version of my newsletter, the most interesting or important articles that came through today that I don't want to fall through the cracks", empty:'The first digest will appear here once the archive is connected.'},
+  {id:'writing', group:'tyler', title:'betting-antelope', shortDescription:'My NFL newsletter with Vince, since 2019.', description:'Newsletter that launched in 2019 (before AI was everywhere) and a link to sign up for our emails with me and Vince. He built a machine learning model to predict NFL games. This is our newsletter that comes out Monday, Thursday, Sundays, and Saturdays when there are games.', intro:'Newsletter that launched in 2019 (before AI was everywhere) and a link to sign up for our emails with me and Vince. He built a machine learning model to predict NFL games. This is our newsletter that comes out Monday, Thursday, Sundays, and Saturdays when there are games.', introLinks:[{text:'Vince',url:'https://dk.linkedin.com/in/vincemartin-eng'},{text:'sign up for our emails',url:'https://bettingantelope.substack.com/subscribe'}], managed:true, sourceUrl:'https://bettingantelope.substack.com/subscribe', sourceLabel:'Sign up for our emails ↗'},
+  {id:'newsletters', group:'tyler', title:'daily-newsletter', shortDescription:'A daily digest of newsletters I follow.', description:"I subscribe to a ton of newsletters, both paid and free. Sometimes I don't have a chance to read them, so this is a Live Feed of a Frankenstein version of my newsletter, the most interesting or important articles that came through today that I don't want to fall through the cracks", managed:true, intro:"I subscribe to a ton of newsletters, both paid and free. Sometimes I don't have a chance to read them, so this is a Live Feed of a Frankenstein version of my newsletter, the most interesting or important articles that came through today that I don't want to fall through the cracks", empty:'The first digest will appear here once the archive is connected.'},
   {id:'articles', group:'content', title:'read-later', managed:true, description:"this is a live feed of articles crossing my desk that i'm saving to read for later", intro:"this is a live feed of articles crossing my desk that i'm saving to read for later. All news is biased, but this is news that's biasing me. (Warning: you may become Tyler leaning after reading what I'm reading.)"},
   {id:'watch', group:'content', title:'watch-or-listen-later', managed:true, description:'Videos, movies, shows and podcasts I’m saving for later', intro:'Things I want to watch or listen to. Filter by type, or see what I’ve finished.'},
   {id:'photography', group:'content', title:'photography', description:'Photos I have taken'}
@@ -295,9 +295,11 @@ function navigate(channel) {
   sessionCheckpoint=records.some(record=>String(record.id)===savedCheckpoint)?savedCheckpoint:null;
   sessionFirstUnread=records.find(record=>ChannelReadState.count([record],readState,channel))?.id || null;
   $('#headerTitle').textContent = channel === 'home' ? 'about-tyler' : meta.title;
-  $('#headerDescription').innerHTML = channel === 'home'
-    ? 'Work, field notes &amp; the rest'
-    : ChannelFeeds.linkedText(meta.description || '', meta.introLinks || []);
+  const description = $('#headerDescription');
+  description.classList.toggle('is-expandable',!!meta?.shortDescription);
+  description.innerHTML = meta?.shortDescription
+    ? `<span id="headerDescriptionText">${ChannelFeeds.linkedText(meta.shortDescription,meta.introLinks || [])}</span> <button type="button" class="description-toggle" aria-expanded="false" aria-controls="headerDescriptionText">Read more</button>`
+    : channel === 'home' ? 'Work, field notes &amp; the rest' : ChannelFeeds.linkedText(meta.description || '', meta.introLinks || []);
   $('#headerAdd').hidden = channel === 'websites' || !channelMeta(channel) || !!meta.managed;
   $('#headerAdd').setAttribute('aria-label', `Add to ${channel}`);
   $('#channelToolbar').hidden=!channelMeta(channel);
@@ -615,6 +617,15 @@ document.addEventListener('error',event=>{
   }
 },true);
 $('#searchTrigger').addEventListener('click',openSearch);
+$('#headerDescription').addEventListener('click',event=>{
+  const button=event.target.closest('.description-toggle');
+  const meta=channelMeta(activeChannel);
+  if(!button || !meta?.shortDescription)return;
+  const expanded=button.getAttribute('aria-expanded')!=='true';
+  $('#headerDescriptionText').innerHTML=ChannelFeeds.linkedText(expanded?meta.description:meta.shortDescription,meta.introLinks || []);
+  button.setAttribute('aria-expanded',String(expanded));
+  button.textContent=expanded?'Show less':'Read more';
+});
 $('#headerSearch').addEventListener('click',openSearch);
 $('#headerAdd').addEventListener('click',()=>{if(activeChannel!=='websites' && channelMeta(activeChannel))entryEditor(activeChannel);});
 $('#lastReadButton').addEventListener('click',jumpToLastRead);
