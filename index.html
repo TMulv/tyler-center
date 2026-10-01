@@ -18,6 +18,7 @@
   <link rel="stylesheet" href="reader.css">
   <link rel="stylesheet" href="typography.css">
   <link rel="stylesheet" href="desktop-selection.css">
+  <link rel="stylesheet" href="email-app.css?v=20261001-email">
 </head>
 <body>
   <div class="desktop-grain" aria-hidden="true"></div>
@@ -27,6 +28,7 @@
   </div>
   <div class="desktop-icons">
     <button class="desktop-icon" data-desktop-open="home" aria-label="Open Tyler.Center"><span class="desktop-icon-art shelf-art">✦</span><span>Tyler.Center</span></button>
+    <button class="desktop-icon" data-open-email aria-label="Open Email"><span class="desktop-icon-art email-icon-art" aria-hidden="true">✉<span data-email-unread hidden></span></span><span>Email</span></button>
     <a class="desktop-icon linkedin-link" href="https://www.linkedin.com/in/tylermulvey/" aria-label="LinkedIn profile (opens in a new tab)" target="_blank" rel="noopener"><span class="desktop-icon-art linkedin-art" aria-hidden="true">in<span class="icon-arrow">↗</span></span><span>LinkedIn ↗</span></a>
   </div>
   <button class="wallpaper-credit" data-action="wallpaper-credit">Wallpaper: NASA / Unsplash ↗</button>
@@ -48,7 +50,7 @@
           <div id="readerNav"></div>
           <div class="side-label side-label-small">A NOTE FROM TYLER</div>
           <div class="sidebar-note">a collection of stuff i'm staring at when i'm looking at a screen</div>
-          <div class="mobile-actions"><button data-menu-action="spider">✳ &nbsp; Take a break</button><a class="linkedin-link" href="https://www.linkedin.com/in/tylermulvey/" target="_blank" rel="noopener">in &nbsp; LinkedIn ↗</a><button data-action="wallpaper-credit">↗ &nbsp; Wallpaper credit</button><button data-menu-action="recommend">✦ &nbsp; Recommend something</button><button data-menu-action="drafts">▤ &nbsp; Saved drafts</button><button data-menu-action="surprise">▶ &nbsp; Surprise me</button><button data-menu-action="email">✉ &nbsp; Email me</button><button data-menu-action="instagram">◎ &nbsp; Instagram ↗</button><button data-menu-action="twitter">𝕏 &nbsp; Twitter / X ↗</button></div>
+          <div class="mobile-actions"><button type="button" data-open-email>✉ &nbsp; Email inbox <span data-email-unread hidden></span></button><button data-menu-action="spider">✳ &nbsp; Take a break</button><a class="linkedin-link" href="https://www.linkedin.com/in/tylermulvey/" target="_blank" rel="noopener">in &nbsp; LinkedIn ↗</a><button data-action="wallpaper-credit">↗ &nbsp; Wallpaper credit</button><button data-menu-action="recommend">✦ &nbsp; Recommend something</button><button data-menu-action="drafts">▤ &nbsp; Saved drafts</button><button data-menu-action="surprise">▶ &nbsp; Surprise me</button><button data-menu-action="email">✉ &nbsp; Email me</button><button data-menu-action="instagram">◎ &nbsp; Instagram ↗</button><button data-menu-action="twitter">𝕏 &nbsp; Twitter / X ↗</button></div>
         </div>
         <div class="sidebar-footer"><span class="profile-avatar tyler-avatar"><img src="assets/tyler-avatar.png" alt="" width="40" height="40"></span><div><strong>Tyler Mulvey</strong><span>Currently collecting</span></div><span class="footer-presence"></span></div>
       </aside>
@@ -64,6 +66,7 @@
     </div>
     <button class="window-resize-handle" id="windowResize" aria-label="Resize window" title="Drag to resize. Arrow keys also work."></button>
   </div>
+  <section class="email-window" id="emailWindow" aria-label="Email" hidden></section>
   <div id="desktopMenuHost"></div>
   <div id="rocketMenuHost"></div>
   <div class="modal-root" id="readerModal"></div>
@@ -83,7 +86,8 @@
   <script src="reader-config.js"></script>
   <script src="reader-account.js"></script>
   <script src="desktop-selection.js"></script>
-  <script src="app.js?v=20261001-collapse-intro"></script>
+  <script src="email-app.js?v=20261001-email"></script>
+  <script src="app.js?v=20261001-email"></script>
   <script src="reader-ui.js"></script>
   <script src="reader-comments.js"></script>
 </body>

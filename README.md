@@ -1,8 +1,8 @@
 # Tyler.Center
 
-A desktop-style personal site with chat channels for About me, what-i've-built, read-later, watch-or-listen-later, betting-antelope, daily-newsletter, and photography.
+A desktop-style personal site with chat channels for About me, what-i've-built, read-later, watch-or-listen-later, betting-antelope, and photography, plus a separate Email app for the Daily Newsletter archive.
 
-The sidebar and home shortcuts group what-i've-built, betting-antelope, and daily-newsletter under **Tyler Channels**, followed by read-later, watch-or-listen-later, and photography under **Content Channels**.
+The sidebar and home shortcuts group what-i've-built and betting-antelope under **Tyler Channels**, followed by read-later, watch-or-listen-later, and photography under **Content Channels**.
 
 Read [AGENTS.md](AGENTS.md) before making changes. It records Tyler's standing preferences and tells future agents to keep them current as part of each task.
 
@@ -11,6 +11,7 @@ Serve locally with `python3 -m http.server 8766`, or publish this directory from
 ## What works
 
 - A movable desktop window, menu bar, and desktop shortcuts.
+- An independent Email app containing only synced Daily Newsletter editions, newest first. Open it from the desktop icon, View menu, or mobile menu. Its inbox supports search and publisher/month filters; editions open in a wide reader with resize, maximize, and full-screen controls. Existing unread markers and source links are retained, and background refreshes preserve your reading position.
 - Drag the bottom-right corner to resize the desktop window. Content adapts to the window width; arrow keys on the corner grip also resize it. Zooming out restores the chosen size.
 - Rocket badges for channels with unread or updated items, including home-page channel shortcuts. Only visible messages are marked read; unseen earlier messages keep their badge. Channels sort oldest to newest, open at the bottom, and offer Last read / Latest controls; empty channels have no badge. Read markers persist when browser storage is available. These are local read indicators, not a claim that live Notion sync is enabled.
 - LinkedIn desktop shortcut and mobile navigation link, opening Tyler's profile in a new tab.

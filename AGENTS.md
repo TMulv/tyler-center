@@ -16,14 +16,14 @@ Read this file before changing the site. These are Tyler's standing project pref
 - Open a channel at its latest messages. Keep scrolling up, Last read, and Latest navigation usable. Do not drag a reader back to the bottom while they are reading older messages.
 - Show a clear, readable sent/posted/saved date on every message using its source date. Re-syncing or editing content must not turn it into a newly posted message or invent a fresh date.
 - Preserve stable record/channel IDs and per-visitor read markers when renaming or refreshing content. Use rocket badges for unread/updated messages, with Mark all as read available from the rocket menu. Do not mark unseen messages as read just by opening a channel.
-- Use hyphenated visible channel names: `what-i've-built`, `read-later`, `watch-or-listen-later`, `betting-antelope`, `daily-newsletter`, and `photography`.
-- Group channels in this order in the sidebar and home shortcuts: Tyler Channels (`what-i've-built`, `betting-antelope`, `daily-newsletter`), then Content Channels (`read-later`, `watch-or-listen-later`, `photography`). Keep the channel IDs stable.
+- Use hyphenated visible channel names: `what-i've-built`, `read-later`, `watch-or-listen-later`, `betting-antelope`, and `photography`.
+- Group channels in this order in the sidebar and home shortcuts: Tyler Channels (`what-i've-built`, `betting-antelope`), then Content Channels (`read-later`, `watch-or-listen-later`, `photography`). Keep the channel IDs stable.
 - On mobile, make the channel menu opener obvious and easy to tap, with a clear menu label and at least a 44px touch target.
 - Keep mobile channel headers compact so long descriptions cannot push filters or reading controls into the middle of the screen. Show at most two lines in the header by default; explicitly expanded descriptions may show their full wording. Keep the full wording in the channel intro.
-- Keep channel search, filter, and reading controls compact. Offer source and date filters from real content, with additional type/status filters where relevant. Newsletter source filters match publishers linked inside an edition.
+- Keep channel search, filter, and reading controls compact. Offer source and date filters from real content, with additional type/status filters where relevant.
 - Each channel gets a short description under its heading and relevant filters. Keep the filtered results in chronological chat order.
-- Betting Antelope and Daily Newsletter headers start with short descriptions and Read more / Show less controls. Preserve their full introductions and links in the expanded view.
-- Preserve Tyler's first-person channel descriptions in the channel header and intro. Read Later describes articles crossing his desk; Betting Antelope mentions its 2019 launch, Vince's model, publishing days, and working links on Vince's name and the email signup in both locations; Daily Newsletter uses Tyler's "Frankenstein" digest description. Do not replace these with generic summaries.
+- Betting Antelope’s header starts with a short description and Read more / Show less controls. Preserve its full introduction and links in the expanded view.
+- Preserve Tyler's first-person channel descriptions in the channel header and intro. Read Later describes articles crossing his desk; Betting Antelope mentions its 2019 launch, Vince's model, publishing days, and working links on Vince's name and the email signup in both locations. Do not replace these with generic summaries.
 - Linked items get clickable preview cards with their title, destination, useful description, and source artwork where available. Every built project needs a visual preview. If a site lacks artwork or forbids embedding, use an honest branded/domain card; do not invent screenshots or bypass framing restrictions.
 - Preserve hyperlinks to original stories in newsletter digests. Case studies appear as shared files in the chat, with company names redacted.
 
@@ -63,3 +63,10 @@ Read this file before changing the site. These are Tyler's standing project pref
 ## Sidebar readability
 
 Use bold typewriter channel labels on desktop and mobile. On mobile, keep channel labels at least 15px with roomy row spacing and touch targets at least 48px tall.
+
+## Email app
+
+- Daily Newsletter lives in a separate desktop Email app, not in messaging channels or their home shortcuts. Keep Betting Antelope in the messaging app.
+- The inbox contains only the public Notion-synced Daily Newsletter editions, newest first. Preserve stable edition IDs, source links, and existing per-visitor newsletter read markers. Opening the inbox must not mark every edition read.
+- Provide a wide reading pane, independent window resizing/maximizing, full-screen reading, and an inbox/reader flow on mobile. Open newsletter search results and saved items in Email, never the narrow detail popup.
+- Keep the existing newsletter sync and archive; new editions arrive automatically. Preserve source/search filters and the “Frankenstein” description in the inbox’s expandable introduction.

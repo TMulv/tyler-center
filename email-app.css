@@ -1,0 +1,60 @@
+/* An independent desktop inbox, using the site's paper and typewriter palette. */
+.email-icon-art{position:relative;background:var(--grain),#eadfbf;color:#294c5e;font:40px/1 Georgia,serif;border:1px solid #183646;box-shadow:3px 3px 0 #122f3c55}
+.email-icon-art [data-email-unread]{position:absolute;right:-7px;top:-7px;min-width:22px;height:22px;padding:3px;border-radius:50%;background:#a43129;color:#fff4df;font:12px/16px Arial,sans-serif;text-shadow:none}
+.email-window{position:fixed;left:48%;top:52%;transform:translate(-50%,-50%);width:min(1220px,calc(100vw - 170px));height:min(880px,calc(100dvh - 110px));display:flex;flex-direction:column;overflow:hidden;container:email-window / inline-size;border:1px solid #142c39;border-radius:3px;background:var(--grain),var(--paper);box-shadow:8px 10px 0 #112b3c55,0 22px 65px #112b3c66;color:#294651}
+.email-window.zoomed{left:8px!important;top:36px!important;transform:none!important;width:calc(100vw - 16px)!important;height:calc(100dvh - 44px)!important}
+.email-window:fullscreen{left:0!important;top:0!important;transform:none!important;width:100vw!important;height:100dvh!important;border:0;border-radius:0;background:var(--grain),#f4efdf}
+.email-titlebar{display:flex;align-items:center;gap:16px;min-height:43px;padding:7px 12px;border-bottom:1px solid #142c39;background:var(--grain),#294c5e;color:#f4edda;cursor:grab;flex:none}
+.email-titlebar>strong{font:15px var(--heading-font)}
+.email-window-controls{display:flex;gap:6px}
+.email-window-controls button{display:grid;place-items:center;width:20px;height:20px;padding:0;border:1px solid #183442;border-radius:0;background:#cad2b8;color:#244552;font:16px/1 Arial,sans-serif}
+.email-window-controls button:first-child{background:#bd7057}.email-window-controls button:nth-child(2){background:#dbca83}
+.email-titlebar .email-return{margin-left:auto;border:1px solid #96aaa5;background:transparent;color:inherit;font:12px Arial,sans-serif;padding:5px 8px}
+.email-layout{display:flex;flex:1;min-height:0}
+.email-inbox{display:flex;flex-direction:column;flex:0 0 300px;min-width:0;border-right:1px solid #a5afa1;background:var(--grain),#e8e6d5}
+.email-inbox-heading{display:flex;align-items:center;justify-content:space-between;gap:10px;padding:23px 18px 12px}
+.email-eyebrow{font:10px/1.4 Arial,sans-serif;letter-spacing:.1em;color:#7e392c}
+.email-inbox-heading h1{margin:7px 0 0;font:28px/1.1 var(--heading-font)}
+#emailInboxCount{font:11px Arial,sans-serif;white-space:nowrap}
+.email-about{margin:0 18px 14px;font:13px/1.5 Georgia,serif;max-height:180px;overflow:auto;flex-shrink:0}
+.email-about summary{cursor:pointer;text-decoration:underline;text-underline-offset:3px;font:12px Arial,sans-serif}
+.email-about p{margin:9px 0 0}
+.email-search-controls{display:flex;gap:6px;padding:0 12px 12px;position:relative;flex-shrink:0}
+.email-search-controls input{width:0;min-width:0;flex:1;height:34px;padding:6px 8px;border:1px solid #879a8c;border-radius:2px;background:#f8f4e7;color:#294651;font:13px Arial,sans-serif}
+.email-filters summary{cursor:pointer;list-style:none;padding:9px 7px;border:1px solid #879a8c;font:12px Arial,sans-serif;background:#f8f4e7}
+.email-filters summary::-webkit-details-marker{display:none}
+.email-filters>div{position:absolute;right:12px;left:12px;top:39px;z-index:2;display:grid;gap:12px;padding:14px;background:#f4efdf;border:1px solid #879a8c;box-shadow:0 8px 22px #203d4b30;font:12px/1.4 Arial,sans-serif}
+.email-filters label{display:grid;gap:4px}.email-filters select{min-width:0;width:100%;padding:8px;border:1px solid #879a8c;background:#f8f4e7;font:13px Arial,sans-serif;color:inherit}
+.email-filters button{padding:8px;border:1px solid #879a8c;background:#d9dfbf;color:inherit}
+.email-list{overflow-y:auto;min-height:0;flex:1;overscroll-behavior:contain}
+.email-item{display:block;width:100%;padding:16px 17px;text-align:left;color:inherit;border:0;border-top:1px solid #bdc2af;border-left:3px solid transparent;background:transparent}
+.email-item:hover{background:#f7f1df}.email-item.is-selected{background:var(--grain),#d9dfbf;border-left-color:#a43129}
+.email-item-meta{display:flex;justify-content:space-between;align-items:center;gap:8px;margin-bottom:8px;font:10px/1.4 Arial,sans-serif;color:#52665f}
+.email-item.is-unread .email-sender:before{content:'';display:inline-block;width:6px;height:6px;border-radius:50%;background:#a43129;margin-right:5px}
+.email-item>strong{display:block;font:14px/1.4 var(--heading-font);overflow-wrap:anywhere}
+.email-item.is-unread>strong{font-weight:700;font-synthesis:weight}
+.email-excerpt{display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden;margin-top:7px;font:13px/1.45 Georgia,serif;color:#52665f}
+.email-empty-list,.email-sync-status{padding:12px 18px;margin:0;font:13px/1.5 Georgia,serif}.email-sync-status{color:#862f27}
+.email-reading-pane{flex:1;min-width:0;display:flex;flex-direction:column;background:var(--grain),#f6f1e3}
+.email-reading-tools{display:flex;align-items:center;gap:12px;min-height:43px;padding:6px 18px;border-bottom:1px solid #b9c0ae;flex-shrink:0;font:12px Arial,sans-serif}
+.email-reading-tools>span{flex:1;color:#52665f}
+.email-reading-tools button{padding:6px 9px;border:1px solid #879a8c;border-radius:2px;background:#efedde;color:#294651;font:12px Arial,sans-serif}
+.email-reader{flex:1;min-height:0;overflow-y:auto;overscroll-behavior:contain;scrollbar-gutter:stable}
+.email-reader:focus-visible{outline-offset:-3px}
+.email-letter{max-width:820px;margin:0 auto;padding:44px clamp(22px,4.5vw,64px) 70px;overflow-wrap:anywhere}
+.email-letter-meta{display:flex;align-items:center;gap:12px;font:12px/1.5 Arial,sans-serif;color:#52665f}.email-letter-meta img{border:1px solid #879a8c;border-radius:3px;flex:none}.email-letter-meta time{display:block;margin-top:3px}
+.email-letter h1{font:clamp(25px,2.5vw,36px)/1.25 var(--heading-font);margin:25px 0 22px;color:#203d4b;outline:none}
+.email-letter-rule{height:3px;background:#a44732;width:52px;margin-bottom:30px}
+.email-letter .digest-body{font:19px/1.8 Georgia,'Times New Roman',serif;color:#293d3d}
+.email-letter .digest-body h3{font:24px/1.35 var(--heading-font);margin:1.7em 0 .8em;color:#294651}
+.email-sources{border-top:1px solid #a5afa1;padding-top:25px;margin-top:40px}.email-sources h2{font:20px var(--heading-font)}
+.email-sources a{display:block;width:fit-content;margin:10px 0;font:15px/1.5 Georgia,serif;color:#214f67;text-underline-offset:3px}
+.email-signoff{margin:32px 0 0;color:#52665f;font:13px/1.5 Georgia,serif}
+.email-welcome{min-height:100%;display:flex;flex-direction:column;align-items:center;justify-content:center;text-align:center;padding:35px}.email-welcome>span{font:72px Georgia,serif;color:#a44732}.email-welcome h2{font:28px/1.3 var(--heading-font);margin:18px 0 8px}.email-welcome p{font:17px/1.7 Georgia,serif;color:#52665f}
+.email-window.zoomed .window-resize-handle,.email-window:fullscreen .window-resize-handle{display:none}
+@container email-window (max-width:850px){.email-inbox{flex-basis:245px}.email-letter{padding:28px 24px 50px}.email-letter .digest-body{font-size:18px}.email-item-meta{flex-wrap:wrap;gap:2px}}
+@container email-window (max-width:650px){.email-inbox{flex-basis:100%;border:0}.email-reading-pane{display:none}.reading-email .email-inbox{display:none}.reading-email .email-reading-pane{display:flex}.email-item-meta{flex-wrap:nowrap}.email-letter{max-width:760px}.email-reading-tools{padding:7px 12px}}
+@media(max-width:760px){.email-window,.email-window.zoomed{inset:0!important;transform:none!important;width:100vw!important;height:100dvh!important;border:0;border-radius:0}.email-titlebar{min-height:48px;padding:6px 12px}.email-window-controls{display:none}.email-titlebar .email-return{min-height:36px}.email-letter{padding:28px 20px 60px}.email-letter h1{font-size:27px}.email-letter .digest-body{font-size:18px;line-height:1.75}.email-letter .digest-body h3{font-size:22px}.email-search-controls input{height:40px;font-size:16px}.email-filters summary{min-height:40px;padding:11px 9px}.email-filters>div{top:45px}.email-filters select{font-size:16px;min-height:44px}.email-reading-tools button{min-height:36px}.email-reading-tools>span{font-size:11px}.email-window .window-resize-handle{display:none}}
+
+.email-window:fullscreen.reading-email .email-inbox{display:none}
+.email-window:fullscreen.reading-email .email-reading-pane{display:flex}

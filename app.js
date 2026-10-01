@@ -3,7 +3,6 @@ const CONTACT = { email: 'mail@tyler.center', instagram: 'https://www.instagram.
 const CHANNELS = [
   {id:'websites', group:'tyler', title:"what-i've-built", description:"Apps and websites I’ve made"},
   {id:'writing', group:'tyler', title:'betting-antelope', shortDescription:'My NFL newsletter with Vince, since 2019.', description:'Newsletter that launched in 2019 (before AI was everywhere) and a link to sign up for our emails with me and Vince. He built a machine learning model to predict NFL games. This is our newsletter that comes out Monday, Thursday, Sundays, and Saturdays when there are games.', intro:'Newsletter that launched in 2019 (before AI was everywhere) and a link to sign up for our emails with me and Vince. He built a machine learning model to predict NFL games. This is our newsletter that comes out Monday, Thursday, Sundays, and Saturdays when there are games.', introLinks:[{text:'Vince',url:'https://dk.linkedin.com/in/vincemartin-eng'},{text:'sign up for our emails',url:'https://bettingantelope.substack.com/subscribe'}], managed:true, sourceUrl:'https://bettingantelope.substack.com/subscribe', sourceLabel:'Sign up for our emails ↗'},
-  {id:'newsletters', group:'tyler', title:'daily-newsletter', shortDescription:'A daily digest of newsletters I follow.', description:"I subscribe to a ton of newsletters, both paid and free. Sometimes I don't have a chance to read them, so this is a Live Feed of a Frankenstein version of my newsletter, the most interesting or important articles that came through today that I don't want to fall through the cracks", managed:true, intro:"I subscribe to a ton of newsletters, both paid and free. Sometimes I don't have a chance to read them, so this is a Live Feed of a Frankenstein version of my newsletter, the most interesting or important articles that came through today that I don't want to fall through the cracks", empty:'The first digest will appear here once the archive is connected.'},
   {id:'articles', group:'content', title:'read-later', managed:true, description:"this is a live feed of articles crossing my desk that i'm saving to read for later", intro:"this is a live feed of articles crossing my desk that i'm saving to read for later. All news is biased, but this is news that's biasing me. (Warning: you may become Tyler leaning after reading what I'm reading.)"},
   {id:'watch', group:'content', title:'watch-or-listen-later', managed:true, description:'Videos, movies, shows and podcasts I’m saving for later', intro:'Things I want to watch or listen to. Filter by type, or see what I’ve finished.'},
   {id:'photography', group:'content', title:'photography', description:'Photos I have taken'}
@@ -232,6 +231,7 @@ async function refreshFeeds() {
     for (const result of results) if (result.status === 'fulfilled') {
       publishedEntries = [...publishedEntries.filter(e => e.channel !== result.value.channel), ...result.value.records];
     }
+    emailApp.refresh(results[1].status==='fulfilled'?'ready':'error');
     if (JSON.stringify(publishedEntries) !== oldEntries || previewsChanged) {
       projects = ChannelFeeds.projects(STARTER_PROJECTS, publishedEntries.filter(e=>e.channel==='websites'));
       const viewport = $('#contentScroll');
@@ -239,7 +239,7 @@ async function refreshFeeds() {
       const anchor = [...document.querySelectorAll('[data-message-id]')].find(el => el.getBoundingClientRect().bottom > viewport.getBoundingClientRect().top);
       const anchorId = anchor?.dataset.messageId, anchorTop = anchor?.getBoundingClientRect().top;
       renderNav();
-      if (['writing','newsletters','articles','websites','watch'].includes(activeChannel)) {
+      if (['writing','articles','websites','watch'].includes(activeChannel)) {
         const oldTop = viewport.scrollTop;
         if (!sessionFirstUnread) sessionFirstUnread = ChannelReadState.ordered(channelRecords(activeChannel)).find(record => ChannelReadState.count([record],readState,activeChannel))?.id || null;
         $('#lastReadButton').disabled = !sessionCheckpoint && !sessionFirstUnread;
@@ -285,6 +285,7 @@ function renderNav() {
   $('.home-link').classList.toggle('active',activeChannel === 'home');
 }
 function navigate(channel) {
+  if(channel==='newsletters'){emailApp.open();return;}
   if(channel!=='home' && !channelMeta(channel) && !APP_VIEWS[channel])return;
   markVisibleMessages();clearTimeout(readingTimer);
   SpiderGame.unmount();
@@ -404,6 +405,7 @@ function showProject(project) {
   bindCommentForm();
 }
 function showEntry(entry) {
+  if(entry.channel==='newsletters'){closeModal();emailApp.open(entry.id);return;}
   const image=safeImage(entry.image),url=safeUrl(entry.url);
   $('#modalRoot').innerHTML = `<div class="modal-overlay" data-close-modal><div class="modal detail-modal" role="dialog" aria-modal="true" aria-label="${esc(entry.title)}"><div class="modal-top"><span class="eyebrow">#${esc(channelMeta(entry.channel)?.title || entry.channel)} · ${esc(entry.kind)}</span><button class="close-button" data-close-modal aria-label="Close">×</button></div><div class="modal-body"><h2>${esc(entry.title)}</h2>${entry.body ? '' : `<p class="modal-description">${ChannelFeeds.linkedText(entry.description||'')}</p>`}${image ? `<div class="modal-preview"><img src="${esc(image)}" alt="${esc(entry.title)}"></div>` : ''}<p class="modal-description">${ChannelFeeds.linkedText(entry.note || '')}</p>${entry.body ? `<div class="digest-body">${ChannelFeeds.renderBody(entry)}</div><p class="digest-label">Agent-written highlights from my newsletter subscriptions.</p>` : ''}${entry.links?.length ? `<div class="digest-sources"><h3>Sources</h3>${entry.links.map(link => `<a href="${esc(safeUrl(link.url))}" target="_blank" rel="noopener noreferrer">${esc(link.title)} ↗</a>`).join('')}</div>` : ''}<div class="modal-actions">${url ? `<a class="primary-button" href="${esc(url)}" target="_blank" rel="noopener noreferrer">Open link ↗</a>` : ''}${entry.source ? '' : `<button class="secondary-button" data-action="edit-entry" data-id="${esc(entry.id)}">Edit</button><button class="secondary-button delete" data-action="delete-entry" data-id="${esc(entry.id)}">Remove</button>`}</div>${commentSection('entry',entry.id)}</div></div></div>`;
   bindCommentForm();
@@ -433,6 +435,7 @@ async function submitEntry(event,existing) {
 }
 function bringFront(element) {element.style.zIndex=++frontLayer;}
 function showShelf(channel) {
+  if(channel==='newsletters'){emailApp.open();return;}
   const windowEl=$('#appWindow');
   const wasHidden=windowEl.classList.contains('hidden-window');
   windowEl.classList.remove('hidden-window');
@@ -447,14 +450,14 @@ function hideShelf() {
   $('#appWindow').classList.add('hidden-window');
   document.querySelector('[data-desktop-open="home"]').focus();
 }
-let unzoomedLayout = null;
+const unzoomedLayouts = new WeakMap();
 function toggleZoom(element) {
   const properties = ['left','top','transform','width','height'];
   if (element.classList.contains('zoomed')) {
     element.classList.remove('zoomed');
-    properties.forEach(key => {element.style[key]=unzoomedLayout?.[key] || '';});
+    properties.forEach(key => {element.style[key]=unzoomedLayouts.get(element)?.[key] || '';});
   } else {
-    unzoomedLayout = Object.fromEntries(properties.map(key => [key,element.style[key]]));
+    unzoomedLayouts.set(element,Object.fromEntries(properties.map(key => [key,element.style[key]])));
     properties.forEach(key => {element.style[key]='';});
     element.classList.add('zoomed');
   }
@@ -512,7 +515,7 @@ function closeDesktopMenu() {$('#desktopMenuHost').innerHTML='';document.querySe
 function openDesktopMenu(name,button) {
   if($('#desktopMenuHost').dataset.open===name) {closeDesktopMenu();$('#desktopMenuHost').dataset.open='';return;}
   closeDesktopMenu();$('#desktopMenuHost').dataset.open=name;button.classList.add('active');
-  const items={file:[['linkedin','in','LinkedIn ↗'],['email','✉','Email me'],['instagram','◎','Instagram ↗'],['twitter','𝕏','Twitter / X ↗']],rec:[['recommend','✦','Recommend something to me'],['drafts','▤','Saved drafts on this device']],view:[['surprise','▶','Surprise me with a video'],['spider','✳','Take a break']],window:[['show-shelf','✦','Show Tyler.Center'],['center-window','▣','Center window']]}[name];
+  const items={file:[['linkedin','in','LinkedIn ↗'],['email','✉','Email me'],['instagram','◎','Instagram ↗'],['twitter','𝕏','Twitter / X ↗']],rec:[['recommend','✦','Recommend something to me'],['drafts','▤','Saved drafts on this device']],view:[['open-email','✉','Email inbox'],['surprise','▶','Surprise me with a video'],['spider','✳','Take a break']],window:[['show-shelf','✦','Show Tyler.Center'],['center-window','▣','Center window']]}[name];
   const rect=button.getBoundingClientRect();
   $('#desktopMenuHost').innerHTML=`<div class="desktop-dropdown" style="left:${Math.round(rect.left)}px">${items.map(([action,icon,label])=>`<button data-menu-action="${action}"><span>${icon}</span>${label}</button>`).join('')}</div>`;
 }
@@ -561,7 +564,7 @@ function closeSearch() {$('#searchRoot').innerHTML='';}
 function openSearch() {$('#searchRoot').innerHTML=`<div class="search-overlay" data-close-search><div class="search-panel" role="dialog" aria-modal="true" aria-label="Search the shelf"><div class="search-box"><span>⌕</span><input id="searchInput" type="search" placeholder="Search the shelf…" autocomplete="off"><button data-close-search>ESC</button></div><div class="search-results" id="searchResults"></div></div></div>`;$('#searchInput').addEventListener('input',renderSearch);$('#searchInput').focus();renderSearch();}
 function renderSearch() {
   const query=$('#searchInput').value.trim().toLowerCase();if(!query){$('#searchResults').innerHTML='<div class="search-empty">Search apps, websites, articles, videos, writing, newsletters, and photos.</div>';return;}
-  const results=[...projects.filter(p=>`${p.title} ${p.description}`.toLowerCase().includes(query)).map(p=>`<button class="search-result" data-search-project="${esc(p.id)}"><small>${isAppStoreProject(p) ? 'App' : 'Website'}</small><strong>${esc(p.title)}</strong><span>${esc(p.description)}</span></button>`),...allEntries().filter(e=>`${e.title} ${e.description} ${e.channel}`.toLowerCase().includes(query)).map(e=>`<button class="search-result" data-search-entry="${esc(e.id)}"><small>#${esc(e.channel)}</small><strong>${esc(e.title)}</strong><span>${esc(e.description)}</span></button>`),...CHANNELS.filter(c=>`${c.title} ${c.description}`.toLowerCase().includes(query)).map(c=>`<button class="search-result" data-channel="${esc(c.id)}"><small>Channel</small><strong>#${esc(c.title)}</strong><span>${esc(c.description)}</span></button>`)];
+  const results=[...projects.filter(p=>`${p.title} ${p.description}`.toLowerCase().includes(query)).map(p=>`<button class="search-result" data-search-project="${esc(p.id)}"><small>${isAppStoreProject(p) ? 'App' : 'Website'}</small><strong>${esc(p.title)}</strong><span>${esc(p.description)}</span></button>`),...allEntries().filter(e=>`${e.title} ${e.description} ${e.channel}`.toLowerCase().includes(query)).map(e=>`<button class="search-result" data-search-entry="${esc(e.id)}"><small>${e.channel==='newsletters'?'Email · Daily Newsletter':'#'+esc(e.channel)}</small><strong>${esc(e.title)}</strong><span>${esc(e.description)}</span></button>`),...CHANNELS.filter(c=>`${c.title} ${c.description}`.toLowerCase().includes(query)).map(c=>`<button class="search-result" data-channel="${esc(c.id)}"><small>Channel</small><strong>#${esc(c.title)}</strong><span>${esc(c.description)}</span></button>`)];
   $('#searchResults').innerHTML=results.length?results.join(''):'<div class="search-empty">No matches yet.</div>';
 }
 function closeSidebar() {$('#sidebar').classList.remove('open');$('#mobileScrim').hidden=true;$('#mobileMenu').setAttribute('aria-expanded','false');$('#mobileMenu').setAttribute('aria-label','Open channels');}
@@ -575,7 +578,7 @@ document.addEventListener('click',async event=>{
   if(!target.closest('.rocket-menu'))closeRocketMenu();
   const caseFile=target.closest('[data-case-study]');if(caseFile){showCaseStudy(Number(caseFile.dataset.caseStudy));return;}
   const menuButton=target.closest('[data-menu]');if(menuButton){openDesktopMenu(menuButton.dataset.menu,menuButton);return;}
-  const menuAction=target.closest('[data-menu-action]');if(menuAction){const action=menuAction.dataset.menuAction;closeDesktopMenu();$('#desktopMenuHost').dataset.open='';if(action==='spider')showShelf(action);if(action==='linkedin')openLinkedIn();if(action==='email')contactEmail()?window.location.href=`mailto:${contactEmail()}`:toast('Add Tyler’s email to enable this link.');if(action==='instagram')instagramUrl()?window.open(instagramUrl(),'_blank','noopener,noreferrer'):toast('Add Tyler’s Instagram profile to enable this link.');if(action==='twitter')window.open(safeUrl(CONTACT.twitter),'_blank','noopener,noreferrer');if(action==='recommend')recommendModal();if(action==='drafts')draftsModal();if(action==='surprise')surpriseMe();if(action==='show-shelf')showShelf();if(action==='center-window'){const element=$('#appWindow');element.style.left='';element.style.top='';element.style.transform='';toast('Window centered.');}return;}
+  const menuAction=target.closest('[data-menu-action]');if(menuAction){const action=menuAction.dataset.menuAction;closeDesktopMenu();$('#desktopMenuHost').dataset.open='';if(action==='open-email')emailApp.open();if(action==='spider')showShelf(action);if(action==='linkedin')openLinkedIn();if(action==='email')contactEmail()?window.location.href=`mailto:${contactEmail()}`:toast('Add Tyler’s email to enable this link.');if(action==='instagram')instagramUrl()?window.open(instagramUrl(),'_blank','noopener,noreferrer'):toast('Add Tyler’s Instagram profile to enable this link.');if(action==='twitter')window.open(safeUrl(CONTACT.twitter),'_blank','noopener,noreferrer');if(action==='recommend')recommendModal();if(action==='drafts')draftsModal();if(action==='surprise')surpriseMe();if(action==='show-shelf')showShelf();if(action==='center-window'){const element=$('#appWindow');element.style.left='';element.style.top='';element.style.transform='';toast('Window centered.');}return;}
   if(!target.closest('.desktop-dropdown')){closeDesktopMenu();$('#desktopMenuHost').dataset.open='';}
   const channel=target.closest('[data-channel]');if(channel){closeSearch();showShelf(channel.dataset.channel);return;}
   const project=target.closest('[data-project]');if(project){const record=projects.find(item=>item.id===project.dataset.project);if(record)showProject(record);return;}
@@ -642,4 +645,11 @@ makeDraggable($('#appWindow'),$('#appWindow .topbar'));
 makeResizable($('#appWindow'),$('#windowResize'));
 updateDesktopClock();setInterval(updateDesktopClock,30000);
 initializeLinkedIn();
+const emailApp=EmailApp.mount({
+  escape:esc,safeUrl,getRecords:()=>publishedEntries,
+  isUnread:record=>!!ChannelReadState.count([record],readState,'newsletters'),
+  markRead:record=>{readState=ChannelReadState.markSeen([record],readState,'newsletters');try{fallbackWrite('read-state-v1',readState);}catch{}},
+  beforeOpen:()=>{closeSearch();closeModal();closeSidebar();closeDesktopMenu();},
+  showMessages:()=>showShelf(),bringFront,zoom:toggleZoom,draggable:makeDraggable,resizable:makeResizable
+});
 initialize();

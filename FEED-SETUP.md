@@ -123,3 +123,7 @@ Project timestamps in #what-i’ve-built come from the Notion `date ` property (
 
 
 Built-project previews use the original site's social artwork where available. `data/project-preview-sources.json` includes the standalone TomoTomo App Store URL in scheduled metadata refreshes and a public Mulvey.World gallery thumbnail fallback. GatoradeMovie and Tyler.Center have noninteractive, sandboxed page miniatures; Tyler.Center's preview mode skips feeds/accounts to avoid recursive previews. Butter.Living blocks framing, so its card uses its real public landing-page name and wording. Do not remove its frame restrictions or proxy around them. New projects without artwork receive a branded title/domain card. Every card remains one normal external link.
+
+## Daily Newsletter Email app
+
+Daily Newsletter editions now appear in the separate desktop Email app rather than a messaging channel. The app consumes the same validated `data/newsletters.json` snapshot and the existing scheduled Notion sync, so no new credentials or publishing destination are needed. Only public, Notion-synced digest editions appear in the inbox, newest first. Newsletter IDs and the `newsletters` read-state key stay unchanged, preserving prior read markers and saved-item links. New editions update the inbox while keeping the selected edition and reading position. Source failures retain the last available editions and display a refresh notice.
