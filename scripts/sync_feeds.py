@@ -311,6 +311,26 @@ def digest_blocks(api, page_id, links, depth=0, blocks=None):
     return lines
 
 
+def newsletter_published_at(title, created_time):
+    # Keep the source date when an older Google Doc reaches Notion later.
+    created = iso_date(created_time)
+    match = re.search(
+        r'\b(?:Monday|Tuesday|Wednesday|Thursday|Friday|Saturday|Sunday),?\s+'
+        r'([A-Za-z]{3,9})\s+(\d{1,2}),\s+(\d{4})\b', title, re.I)
+    if not match:
+        return created
+    month, day, year = match.groups()
+    try:
+        edition = datetime.strptime(f'{month} {day} {year}', '%B %d %Y')
+    except ValueError:
+        try:
+            edition = datetime.strptime(f'{month} {day} {year}', '%b %d %Y')
+        except ValueError:
+            return created
+    date = edition.strftime('%Y-%m-%d')
+    return created if created.startswith(date) else date + 'T12:00:00Z'
+
+
 def collect_digests(api):
     overrides_path = ROOT / 'scripts/newsletter-links.json'
     overrides = json.loads(overrides_path.read_text()) if overrides_path.exists() else {}
@@ -338,7 +358,7 @@ def collect_digests(api):
         records.append({'id': 'digest-' + page['id'], 'channel': 'newsletters', 'source': 'notion',
                         'kind': 'Agent-written digest', 'domain': 'Daily newsletter digest',
                         'title': title, 'url': '', 'description': lines[0][:300],
-                        'body': body, 'blocks': blocks, 'publishedAt': iso_date(page['created_time']),
+                        'body': body, 'blocks': blocks, 'publishedAt': newsletter_published_at(title, page['created_time']),
                         'links': source_links})
     return records
 

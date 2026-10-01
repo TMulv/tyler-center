@@ -12,6 +12,8 @@ Schedules can run late, and GitHub can disable schedules on public repositories 
 
 ## Connect the daily newsletter archive
 
+Google Docs arriving in the dedicated Editions Queue folder are copied into this database by the separate [Drive → Notion sync](drive-notion-sync/README.md). That setup uses its own write-capable Notion connection. The website connection below stays read-only.
+
 1. Create an internal connection in Notion's Developer portal in the workspace containing **Daily Newsletter Digest**. Name it **Tyler.Center feed** and enable **Read content**; it does not need insert, update, or user information capabilities.
 2. On [Daily Newsletter Digest](https://app.notion.com/p/074c794ec62f48cc97c9dc98fba14a32), choose **••• → Connections → Add connection** and select it. Ensure its Editions database is included. Sharing this archive grants inherited access to its children.
 3. Copy its API token into a [GitHub Actions repository secret](https://github.com/TMulv/tyler-center/settings/secrets/actions/new) named **NOTION_TOKEN_NEWSLETTER** (the workflow also accepts **NOTION_TOKEN**). Do not put the key in website files or chat. Alternatively run `gh secret set NOTION_TOKEN_NEWSLETTER --repo TMulv/tyler-center`; the CLI prompts for the value.
