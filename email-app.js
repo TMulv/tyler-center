@@ -12,7 +12,7 @@
     const filter={query:'',source:'',month:''};
     const records=()=>editions(config.getRecords());
     const date=(value,long=false)=>new Date(value).toLocaleDateString(undefined,long?{weekday:'long',month:'long',day:'numeric',year:'numeric'}:{month:'short',day:'numeric',year:'numeric'});
-    win.innerHTML=`<header class="email-titlebar"><div class="email-window-controls"><button type="button" data-mail-close aria-label="Close Email" title="Close Email">×</button><button type="button" data-mail-minimize aria-label="Minimize Email" title="Minimize Email">−</button><button type="button" data-mail-zoom aria-label="Expand Email window" title="Expand Email window">↗</button></div><strong>✉ &nbsp; Email</strong><button type="button" class="email-return" data-mail-messages>Back to messages</button></header>
+    win.innerHTML=`<header class="email-titlebar"><div class="email-window-controls"><button type="button" data-mail-close aria-label="Close Email" title="Close Email">×</button><button type="button" data-mail-minimize aria-label="Minimize Email" title="Minimize Email">−<span class="mobile-minimize-label"> Minimize</span></button><button type="button" data-mail-zoom aria-label="Expand Email window" title="Expand Email window">↗</button></div><strong>✉ &nbsp; Email</strong><button type="button" class="email-return" data-mail-messages>Back to messages</button></header>
       <div class="email-layout"><aside id="emailInbox" class="email-inbox" aria-label="Newsletter inbox"><div class="email-inbox-heading"><div><span class="email-eyebrow">DAILY NEWSLETTER</span><h1>Inbox</h1></div><span id="emailInboxCount" role="status"></span></div>
       <details class="email-about"><summary>About this inbox</summary><p>I subscribe to a ton of newsletters, both paid and free. Sometimes I don't have a chance to read them, so this is a live feed of a Frankenstein version of my newsletter: the most interesting or important articles that I don't want to fall through the cracks.</p><p>Agent-written digests from my subscriptions. New editions arrive here automatically.</p></details>
       <div class="email-search-controls"><input id="emailQuery" type="search" placeholder="Search editions…" aria-label="Search newsletter editions"><details class="email-filters"><summary>Filters<span id="emailFilterCount"></span></summary><div><label>Source<select id="emailSource" aria-label="Filter editions by source"></select></label><label>Month<select id="emailMonth" aria-label="Filter editions by month"></select></label><small>Sources match publishers linked inside each edition.</small><button type="button" data-mail-clear>Clear filters</button></div></details></div>
@@ -91,10 +91,11 @@
       config.beforeOpen();win.hidden=false;config.bringFront(win);refresh();updateSidebarControl();
       if(id)select(id);else if(!selected)$('#emailQuery').focus();
     }
-    async function close() {
+    async function close({restoreFocus=true}={}) {
       if(document.fullscreenElement===win)await document.exitFullscreen().catch(()=>{});
       win.hidden=true;
-      if(matchMedia('(max-width:760px)').matches){config.showMessages();document.querySelector('#mobileMenu')?.focus();return;}
+      if(!restoreFocus)return;
+      if(matchMedia('(max-width:760px)').matches){document.querySelector('.desktop-icon[data-open-email]')?.focus();return;}
       const target=opener?.isConnected && opener.getClientRects().length?opener:document.querySelector('[data-open-email]');
       target?.focus();
     }

@@ -436,6 +436,7 @@ async function submitEntry(event,existing) {
 function bringFront(element) {element.style.zIndex=++frontLayer;}
 function showShelf(channel) {
   if(channel==='newsletters'){emailApp.open();return;}
+  if(matchMedia('(max-width:760px)').matches && !$('#emailWindow').hidden) emailApp.close({restoreFocus:false});
   const windowEl=$('#appWindow');
   const wasHidden=windowEl.classList.contains('hidden-window');
   windowEl.classList.remove('hidden-window');
@@ -639,7 +640,7 @@ $('#mobileScrim').addEventListener('click',closeSidebar);
 $('#windowClose').addEventListener('click',hideShelf);
 $('#windowMinimize').addEventListener('click',hideShelf);
 $('#windowZoom').addEventListener('click',()=>toggleZoom($('#appWindow')));
-document.querySelectorAll('[data-desktop-open]').forEach(button=>button.addEventListener('click',()=>showShelf(button.dataset.desktopOpen)));
+document.querySelectorAll('[data-desktop-open]').forEach(button=>button.addEventListener('click',()=>showShelf(matchMedia('(max-width:760px)').matches?undefined:button.dataset.desktopOpen)));
 $('#appWindow').addEventListener('pointerdown',()=>bringFront($('#appWindow')));
 makeDraggable($('#appWindow'),$('#appWindow .topbar'));
 makeResizable($('#appWindow'),$('#windowResize'));
@@ -649,7 +650,14 @@ const emailApp=EmailApp.mount({
   escape:esc,safeUrl,getRecords:()=>publishedEntries,
   isUnread:record=>!!ChannelReadState.count([record],readState,'newsletters'),
   markRead:record=>{readState=ChannelReadState.markSeen([record],readState,'newsletters');try{fallbackWrite('read-state-v1',readState);}catch{}},
-  beforeOpen:()=>{closeSearch();closeModal();closeSidebar();closeDesktopMenu();},
+  beforeOpen:()=>{if(matchMedia('(max-width:760px)').matches)hideShelf();else{closeSearch();closeModal();closeSidebar();closeDesktopMenu();}},
   showMessages:()=>showShelf(),bringFront,zoom:toggleZoom,draggable:makeDraggable,resizable:makeResizable
+});
+matchMedia('(max-width:760px)').addEventListener('change',event=>{
+  const chat=$('#appWindow'),email=$('#emailWindow');
+  if(!event.matches || chat.classList.contains('hidden-window') || email.hidden)return;
+  if(Number(email.style.zIndex)>Number(chat.style.zIndex)){
+    markVisibleMessages();clearTimeout(readingTimer);closeSidebar();chat.classList.add('hidden-window');
+  }else emailApp.close({restoreFocus:false});
 });
 initialize();

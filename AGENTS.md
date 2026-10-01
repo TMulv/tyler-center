@@ -31,7 +31,8 @@ Read this file before changing the site. These are Tyler's standing project pref
 
 - Typewriter font for headings and title-like labels; a traditional readable font (currently Georgia) for writing, descriptions, lists, and article/digest bodies. Do not let the heading font leak into prose.
 - Keep the textured computer-desktop style, original grain, and NASA Challenger wallpaper with its visible source/license credit. Treat the supplied texture references as inspiration rather than copied textures.
-- Use `tyler.center` in window branding. Windows resize by dragging their corner with a subtle grip. Keep the removed bottom dock icon removed.
+- Use `tyler.center` in window branding. Windows resize by dragging their corner with a subtle grip. Keep the removed desktop dock icon removed.
+- Mobile opens chat filling the browser viewport. Chat and Email use a compact bottom minimize bar, with no wallpaper margins or desktop shortcuts visible while reading. Minimizing reveals the wallpaper desktop with compact Tyler.Center, Email, and LinkedIn shortcuts along the bottom. Show one app at a time on mobile, and preserve the current channel or email and reading position when reopening it.
 - Use Tyler's supplied portrait for his posts. Betting Antelope uses its textured antelope avatar; Daily Newsletter uses its newspaper avatar. Other posts come from Tyler.
 - The verified badge identifies the trusted site owner; a matching username or display name must never grant it.
 - Keep copy short, direct, and human. No employer name in the opening bio and no named clients in the case studies.

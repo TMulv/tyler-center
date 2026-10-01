@@ -11,6 +11,7 @@ Serve locally with `python3 -m http.server 8766`, or publish this directory from
 ## What works
 
 - A movable desktop window, menu bar, and desktop shortcuts.
+- On mobile, chat and Email fill the browser viewport with a compact bottom minimize bar. Minimize to reveal the wallpaper desktop and its shortcuts; reopening an app preserves its reading position.
 - An independent Email app containing only synced Daily Newsletter editions, newest first. Open it from the desktop icon, View menu, or mobile menu. Its inbox supports search and publisher/month filters; editions open in a wide reader with resize, maximize, and full-screen controls. Existing unread markers and source links are retained, and background refreshes preserve your reading position.
 - Drag the bottom-right corner to resize the desktop window. Content adapts to the window width; arrow keys on the corner grip also resize it. Zooming out restores the chosen size.
 - Rocket badges for channels with unread or updated items, including home-page channel shortcuts. Only visible messages are marked read; unseen earlier messages keep their badge. Channels sort oldest to newest, open at the bottom, and offer Last read / Latest controls; empty channels have no badge. Read markers persist when browser storage is available. These are local read indicators, not a claim that live Notion sync is enabled.

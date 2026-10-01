@@ -1,0 +1,96 @@
+/* Mobile apps fill the browser; the bottom bar minimizes to the desktop. */
+.mobile-minimize-label { display: none; }
+@media (max-width: 760px) {
+  :root {
+    --mobile-minimize-height: calc(44px + env(safe-area-inset-bottom));
+  }
+
+  .desktop-menu {
+    display: flex;
+    height: calc(32px + env(safe-area-inset-top));
+    padding: env(safe-area-inset-top) 12px 0;
+  }
+  .desktop-menu-left { gap: 8px; }
+  .desktop-menu-left strong { font-size: 12px; }
+  .desktop-menu-button, .desktop-wifi { display: none; }
+  .desktop-menu-right { font-size: 11px; }
+  .wallpaper-credit {
+    display: block;
+    top: calc(36px + env(safe-area-inset-top));
+    bottom: auto;
+    left: 8px;
+    padding: 4px 6px;
+    font-size: 9px;
+  }
+
+  .desktop-icons {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: flex-start;
+    gap: 14px;
+    top: auto;
+    right: 8px;
+    left: 8px;
+    bottom: calc(12px + env(safe-area-inset-bottom));
+    width: auto;
+  }
+  .desktop-icon { width: 82px; min-height: 66px; gap: 6px; font-size: 10px; }
+  .desktop-icon-art { width: 40px; height: 40px; font-size: 26px; }
+  .desktop-icon > span:last-child { padding: 4px; }
+  .linkedin-art { font-size: 27px; }
+  .icon-arrow { width: 16px; height: 16px; font-size: 12px; line-height: 14px; }
+  .email-icon-art [data-email-unread] { min-width: 18px; height: 18px; font-size: 10px; line-height: 12px; }
+
+  .app-shell, .app-shell.zoomed, .email-window, .email-window.zoomed {
+    position: fixed;
+    inset: 0 !important;
+    width: 100% !important;
+    height: 100dvh !important;
+    padding-top: env(safe-area-inset-top);
+    padding-bottom: var(--mobile-minimize-height);
+    transform: none !important;
+    margin: 0;
+    border: 0;
+    border-radius: 0;
+    box-shadow: none;
+  }
+  body:has(#appWindow:not(.hidden-window)) :is(.desktop-menu, .desktop-icons, .wallpaper-credit),
+  body:has(#emailWindow:not([hidden])) :is(.desktop-menu, .desktop-icons, .wallpaper-credit) { display: none; }
+
+  .app-shell .topbar { height: 41px; grid-template-columns: minmax(0, 1fr); padding: 0 8px; }
+  .traffic { visibility: visible; display: contents; }
+  .traffic .close-light, .traffic .zoom-light { display: none; }
+  .traffic .minimize-light:after, .traffic .minimize-light:hover:after { content: none; }
+  .mobile-minimize-label { display: inline; }
+  .search-trigger { height: 36px; font-size: 11px; gap: 6px; }
+  .search-trigger kbd { display: none; }
+  .sidebar { top: calc(41px + env(safe-area-inset-top)); bottom: var(--mobile-minimize-height); }
+  .mobile-scrim { position: absolute; inset: calc(41px + env(safe-area-inset-top)) 0 var(--mobile-minimize-height); }
+
+  .email-titlebar { min-height: 44px; padding: 5px 8px; gap: 8px; }
+  .email-titlebar > strong { font-size: 13px; white-space: nowrap; }
+  .email-window-controls { display: contents; }
+  .email-window-controls [data-mail-close], .email-window-controls [data-mail-zoom] { display: none; }
+  .traffic .minimize-light, .email-window-controls [data-mail-minimize] {
+    position: absolute;
+    z-index: 11;
+    inset: auto 0 0;
+    width: 100%;
+    height: var(--mobile-minimize-height);
+    display: block;
+    padding: 0 0 env(safe-area-inset-bottom);
+    border: 0;
+    border-top: 1px solid #9ba99e;
+    border-radius: 0;
+    background: var(--grain), #e5dfce;
+    color: var(--ink);
+    box-shadow: none;
+    font: 12px var(--heading-font);
+    cursor: pointer;
+  }
+  .traffic .minimize-light:focus-visible, .email-window-controls [data-mail-minimize]:focus-visible { outline-offset: -4px; }
+  .email-titlebar .email-return { min-height: 44px; padding: 5px; font-size: 11px; }
+  .email-window:fullscreen { inset: 0 !important; width: 100vw !important; height: 100dvh !important; }
+  .toast { bottom: calc(var(--mobile-minimize-height) + 8px); right: 16px; max-width: calc(100vw - 32px); }
+}
