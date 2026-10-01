@@ -51,6 +51,7 @@
 .email-letter-meta{display:flex;align-items:center;gap:12px;font:12px/1.5 Arial,sans-serif;color:#52665f}.email-letter-meta img{border:1px solid #879a8c;border-radius:3px;flex:none}.email-letter-meta time{display:block;margin-top:3px}
 .email-letter h1{font:clamp(25px,2.5vw,36px)/1.25 var(--heading-font);margin:25px 0 22px;color:#203d4b;outline:none}
 .email-stage-label{margin:-8px 0 20px;color:#805041;font:12px/1.4 Arial,sans-serif;letter-spacing:.03em}
+.email-no-additions{padding:18px 20px;border:1px solid #b9c0ae;background:#efedde;color:#405853}
 .email-letter-rule{height:3px;background:#a44732;width:52px;margin-bottom:30px}
 .email-letter .digest-body{font:19px/1.8 Georgia,'Times New Roman',serif;color:#293d3d}
 .email-letter .digest-body h3{font:24px/1.35 var(--heading-font);margin:1.7em 0 .8em;color:#294651}
