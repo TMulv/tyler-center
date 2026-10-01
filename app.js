@@ -300,6 +300,7 @@ function navigate(channel) {
     : ChannelFeeds.linkedText(meta.description || '', meta.introLinks || []);
   $('#headerAdd').hidden = channel === 'websites' || !channelMeta(channel) || !!meta.managed;
   $('#headerAdd').setAttribute('aria-label', `Add to ${channel}`);
+  $('#channelToolbar').hidden=!channelMeta(channel);
   $('#channelReadingBar').hidden=!channelMeta(channel);
   $('#channelFilters').hidden=!channelMeta(channel);
   $('#lastReadButton').disabled=!sessionCheckpoint && !sessionFirstUnread;
@@ -336,13 +337,20 @@ function linkPreview(entry) {
 }
 function renderChannelFilters() {
   const records = channelRecords(activeChannel), options = ChannelFilters.options(records,activeChannel);
-  const filter = channelFilters[activeChannel] ||= {type:'',year:'',status:'',query:''};
-  const typeControls = activeChannel === 'websites'
-    ? `<div class="filter-types" role="group" aria-label="Project type">${['',...options.types].map(type=>`<button type="button" data-filter-type="${esc(type)}" aria-pressed="${filter.type===type}">${type||'All'}</button>`).join('')}</div>`
-    : options.types.length > 1 ? `<label class="filter-select">Type <select id="channelTypeFilter" aria-label="Filter by type"><option value="">All types</option>${options.types.map(type=>`<option ${filter.type===type?'selected':''}>${esc(type)}</option>`).join('')}</select></label>` : '';
+  const filter = channelFilters[activeChannel] ||= {type:'',year:'',month:'',source:'',status:'',query:''};
+  const select = (key,label,all,values) => `<label class="filter-select">${label}<select id="channel${key}Filter" aria-label="Filter by ${label.toLowerCase()}"><option value="">${all}</option>${values.map(([value,text])=>`<option value="${esc(value)}" ${filter[key.toLowerCase()]===value?'selected':''}>${esc(text)}</option>`).join('')}</select></label>`;
+  const typeControl = options.types.length > 1 ? select('Type','Type','All types',options.types.map(value=>[value,value])) : '';
   const statusOptions = activeChannel==='watch' ? ['Want to see','Want to listen','Want to read','Watching','Listening','Reading','Finished','Skipped','Not marked'] : ['To Read','Priority','Reading','Read','Archive','Not marked'];
-  const statusControl = ['articles','watch'].includes(activeChannel) ? `<label class="filter-select">Tyler’s status <select id="channelStatusFilter" aria-label="Filter by Tyler’s status"><option value="">All statuses</option>${statusOptions.map(status=>`<option value="${status}" ${filter.status===status?'selected':''}>${status}</option>`).join('')}</select></label>` : '';
-  $('#channelFilters').innerHTML = `${typeControls}${statusControl}${options.years.length > 1 ? `<label class="filter-select">Year <select id="channelYearFilter" aria-label="Filter by year"><option value="">All years</option>${options.years.map(year=>`<option ${filter.year===year?'selected':''}>${year}</option>`).join('')}</select></label>` : ''}<input id="channelQueryFilter" type="search" aria-label="Search this channel" placeholder="Search this channel…" value="${esc(filter.query)}"><span id="channelFilterCount" role="status" aria-live="polite"></span>`;
+  const statusControl = ['articles','watch'].includes(activeChannel) ? select('Status','Tyler’s status','All statuses',statusOptions.map(value=>[value,value])) : '';
+  const sourceOptions = options.sources.map(value=>[value,value]);
+  if (options.hasMissingSource) sourceOptions.push(['__none__','No source link']);
+  const sourceControl = sourceOptions.length > 1 ? select('Source','Source','All sources',sourceOptions) : '';
+  const months = ['January','February','March','April','May','June','July','August','September','October','November','December'];
+  const monthControl = options.months.length > 1 ? select('Month','Month','All months',options.months.map(value=>[value,months[Number(value)-1]])) : '';
+  const yearControl = options.years.length > 1 ? select('Year','Year','All years',options.years.map(value=>[value,value])) : '';
+  const count = ['type','status','source','month','year'].filter(key=>filter[key]).length;
+  const controls = sourceControl+typeControl+statusControl+monthControl+yearControl;
+  $('#channelFilters').innerHTML = `<input id="channelQueryFilter" type="search" aria-label="Search this channel" placeholder="Search channel…" value="${esc(filter.query)}">${controls ? `<details class="channel-filter-menu"><summary>Filters<span id="channelActiveFilters">${count?' · '+count:''}</span></summary><div class="channel-filter-panel">${controls}${activeChannel==='newsletters' ? '<p class="filter-help">Source matches publishers linked in an edition. Results show whole editions.</p>' : ''}<button type="button" data-clear-filters>Clear filters</button></div></details>` : ''}<span id="channelFilterCount" role="status" aria-live="polite"></span>`;
 }
 function applyChannelFilter() {
   renderChannel(false);
@@ -367,8 +375,10 @@ function renderChannel(refreshControls=true) {
   if (refreshControls) renderChannelFilters();
   const filter=channelFilters[activeChannel] || {};
   const list=ChannelReadState.ordered(ChannelFilters.apply(records,activeChannel,filter));
-  const filtered=!!(filter.type || filter.year || filter.status || filter.query?.trim());
+  const filtered=!!(filter.type || filter.year || filter.month || filter.source || filter.status || filter.query?.trim());
   $('#channelFilterCount').textContent=`${list.length} of ${records.length}`;
+  const activeCount=['type','status','source','month','year'].filter(key=>filter[key]).length;
+  if ($('#channelActiveFilters')) $('#channelActiveFilters').textContent=activeCount?' · '+activeCount:'';
   $('#lastReadButton').disabled=!list.some(record=>String(record.id)===String(sessionCheckpoint || sessionFirstUnread));
   const type=activeChannel==='websites'?'project':'entry';
   const body=list.map(record=>{
@@ -574,19 +584,28 @@ document.addEventListener('click',async event=>{
   if(target.closest('[data-close-modal]')&&(target===target.closest('[data-close-modal]')||target.closest('[data-close-modal]').tagName==='BUTTON')){closeModal();return;}
   if(target.closest('[data-close-search]')&&(target===target.closest('[data-close-search]')||target.tagName==='BUTTON'))closeSearch();
 });
-document.addEventListener('keydown',event=>{if((event.metaKey||event.ctrlKey)&&event.key.toLowerCase()==='k'){event.preventDefault();openSearch();}if(event.key==='Escape'){closeRocketMenu(true);closeSearch();closeModal();closeDesktopMenu();closeSidebar();}});
+document.addEventListener('keydown',event=>{if((event.metaKey||event.ctrlKey)&&event.key.toLowerCase()==='k'){event.preventDefault();openSearch();}if(event.key==='Escape'){const menu=$('.channel-filter-menu[open]');if(menu){menu.open=false;menu.querySelector('summary').focus();}closeRocketMenu(true);closeSearch();closeModal();closeDesktopMenu();closeSidebar();}});
 $('#channelFilters').addEventListener('click',event=>{
+  if(event.target.closest('[data-clear-filters]')) {
+    channelFilters[activeChannel]={type:'',year:'',month:'',source:'',status:'',query:''};
+    renderChannel();positionChannelAtBottom();
+    $('#channelFilters summary')?.focus();return;
+  }
   const button=event.target.closest('[data-filter-type]');if(!button)return;
   channelFilters[activeChannel].type=button.dataset.filterType;
   $('#channelFilters').querySelectorAll('[data-filter-type]').forEach(item=>item.setAttribute('aria-pressed',String(item===button)));
   applyChannelFilter();
+});
+document.addEventListener('click',event=>{
+  const menu=$('.channel-filter-menu[open]');
+  if(menu && !menu.contains(event.target)) menu.open=false;
 });
 $('#channelFilters').addEventListener('input',event=>{
   if(event.target.id!=='channelQueryFilter')return;
   channelFilters[activeChannel].query=event.target.value;applyChannelFilter();
 });
 $('#channelFilters').addEventListener('change',event=>{
-  const key={channelTypeFilter:'type',channelYearFilter:'year',channelStatusFilter:'status'}[event.target.id];
+  const key={channelTypeFilter:'type',channelYearFilter:'year',channelStatusFilter:'status',channelSourceFilter:'source',channelMonthFilter:'month'}[event.target.id];
   if(key){channelFilters[activeChannel][key]=event.target.value;applyChannelFilter();}
 });
 document.addEventListener('error',event=>{

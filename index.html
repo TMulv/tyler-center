@@ -14,7 +14,7 @@
   <link rel="stylesheet" href="styles.css">
   <link rel="stylesheet" href="v2.css">
   <link rel="stylesheet" href="texture.css?v=20260930-mobile-menu">
-  <link rel="stylesheet" href="chat-apps.css?v=20261001-channel-spacing">
+  <link rel="stylesheet" href="chat-apps.css?v=20261001-compact-filters">
   <link rel="stylesheet" href="reader.css">
   <link rel="stylesheet" href="typography.css">
   <link rel="stylesheet" href="desktop-selection.css">
@@ -55,8 +55,10 @@
       <div class="mobile-scrim" id="mobileScrim" hidden></div>
       <main class="main">
         <header class="channel-header"><button class="mobile-menu" id="mobileMenu" type="button" aria-label="Open channels" aria-controls="sidebar" aria-expanded="false"><span class="mobile-menu-lines" aria-hidden="true"><span></span><span></span><span></span></span><span class="mobile-menu-caption" aria-hidden="true">MENU</span></button><span class="header-hash">#</span><div class="channel-heading"><strong id="headerTitle">about-tyler</strong><p class="header-description" id="headerDescription">A little introduction</p></div><div class="header-actions"><button id="headerSearch" aria-label="Search" title="Search">⌕</button><button id="headerAdd" aria-label="Add to this channel" title="Add to this channel">＋</button></div></header>
+        <div class="channel-toolbar" id="channelToolbar" hidden>
         <div class="channel-filters" id="channelFilters" aria-label="Filter this channel" hidden></div>
         <div class="channel-reading-bar" id="channelReadingBar" hidden><span>oldest → newest</span><div><button id="lastReadButton">↑ Last read</button><button id="latestButton">Latest ↓</button></div></div>
+        </div>
         <div class="content-scroll" id="contentScroll"><div class="content-inner" id="content"></div></div>
       </main>
     </div>
@@ -76,12 +78,12 @@
   <script src="feeds.js"></script>
   <script src="link-previews.js"></script>
   <script src="preview-cards.js"></script>
-  <script src="channel-filters.js"></script>
+  <script src="channel-filters.js?v=20261001-compact-filters"></script>
   <script src="vendor/supabase.js"></script>
   <script src="reader-config.js"></script>
   <script src="reader-account.js"></script>
   <script src="desktop-selection.js"></script>
-  <script src="app.js?v=20260930-mobile-menu"></script>
+  <script src="app.js?v=20261001-compact-filters"></script>
   <script src="reader-ui.js"></script>
   <script src="reader-comments.js"></script>
 </body>
