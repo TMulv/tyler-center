@@ -785,13 +785,22 @@
       "readingStatus": "To Read"
     },
     {
-      "id": "readlater-3eb8153c8a3e81f0872ccdedbfe9a932",
+      "id": "readlater-03b99c43279b4bf0bd3a4cc8c531b39f",
       "channel": "articles",
       "source": "notion",
-      "title": "https://www.nytimes.com/2026/09/29/us/politics/evan-gershkovich-interview.html?smid=nytcore-ios-share",
-      "url": "",
-      "publishedAt": "2026-09-30T22:24:00Z",
-      "readingStatus": "Not marked"
+      "title": "Zip Enterprise AI Index: Where AI budget is actually going",
+      "url": "https://zip.com/blog/where-ai-budget-is-actually-going",
+      "publishedAt": "2026-10-01T00:24:00Z",
+      "readingStatus": "To Read"
+    },
+    {
+      "id": "readlater-46581dc344f3420c916ed7a1c648d424",
+      "channel": "articles",
+      "source": "notion",
+      "title": "The Russian Prison That Evan Gershkovich Carried Home",
+      "url": "https://www.nytimes.com/2026/09/29/us/politics/evan-gershkovich-interview.html?smid=nytcore-ios-share",
+      "publishedAt": "2026-10-01T00:52:00Z",
+      "readingStatus": "To Read"
     }
   ]
 }

@@ -742,6 +742,20 @@
       "domain": "www.breakingchange.blog",
       "checkedAt": "2026-09-30T19:31:09.205604+00:00",
       "available": true
+    },
+    "https://zip.com/blog/where-ai-budget-is-actually-going": {
+      "title": "Zip Enterprise AI Index: Where AI budget is actually going",
+      "description": "AI now takes 8.1% of enterprise software spend, up from 1.4% a year ago. One in five AI purchase requests is rejected. Data from $18B in approved spend.",
+      "site": "",
+      "image": "https://cdn.prod.website-files.com/66bbb684f0a6bfda78a042b4/6ab178c0749e13b3e7e3e28c_Monthly%20Index%201%20Large.jpeg",
+      "icon": "https://cdn.prod.website-files.com/66ba279e03c8e2713df59ea5/66eebcd144f29b78be4fc398_Zip%20Favicon.png",
+      "domain": "zip.com",
+      "checkedAt": "2026-10-01T02:07:42.150963+00:00",
+      "available": true
+    },
+    "https://www.nytimes.com/2026/09/29/us/politics/evan-gershkovich-interview.html?smid=nytcore-ios-share": {
+      "checkedAt": "2026-10-01T02:07:42.150963+00:00",
+      "available": false
     }
   }
 }
