@@ -801,6 +801,15 @@
       "url": "https://www.nytimes.com/2026/09/29/us/politics/evan-gershkovich-interview.html?smid=nytcore-ios-share",
       "publishedAt": "2026-10-01T00:52:00Z",
       "readingStatus": "To Read"
+    },
+    {
+      "id": "readlater-5270a48a4ca1417784909825fe0a8b88",
+      "channel": "articles",
+      "source": "notion",
+      "title": "A Brief History of the Bloomberg Terminal",
+      "url": "https://spectrum.ieee.org/bloomberg-terminal",
+      "publishedAt": "2026-10-01T03:30:00Z",
+      "readingStatus": "To Read"
     }
   ]
 }
