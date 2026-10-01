@@ -11,7 +11,7 @@
     const win=document.querySelector('#emailWindow');
     const escape=config.escape;
     let selected=null, selectedStage='full', opener=null, renderedRevision='', feedStatus='loading';
-    let sidebarCollapsed=false, beforeFullscreen=null;
+    let sidebarCollapsed=false;
     const filter={query:'',source:'',month:''};
     const records=()=>editions(config.getRecords());
     const date=(value,long=false)=>new Date(value).toLocaleDateString(undefined,long?{weekday:'long',month:'long',day:'numeric',year:'numeric'}:{month:'short',day:'numeric',year:'numeric'});
@@ -20,7 +20,7 @@
       <details class="email-about"><summary>About this inbox</summary><p>I subscribe to a ton of newsletters, both paid and free. Sometimes I don't have a chance to read them, so this is a live feed of a Frankenstein version of my newsletter: the most interesting or important articles that I don't want to fall through the cracks.</p><p>Agent-written digests from my subscriptions. New editions arrive here automatically.</p></details>
       <div class="email-search-controls"><input id="emailQuery" type="search" placeholder="Search editions…" aria-label="Search newsletter editions"><details class="email-filters"><summary>Filters<span id="emailFilterCount"></span></summary><div><label>Source<select id="emailSource" aria-label="Filter editions by source"></select></label><label>Month<select id="emailMonth" aria-label="Filter editions by month"></select></label><small>Sources match publishers linked inside each edition.</small><button type="button" data-mail-clear>Clear filters</button></div></details></div>
       <p id="emailSyncStatus" class="email-sync-status" role="status"></p><div id="emailList" class="email-list" aria-label="Editions, newest first"></div></aside>
-      <section class="email-reading-pane" aria-label="Read newsletter"><div class="email-reading-tools"><button type="button" data-mail-inbox aria-controls="emailInbox" aria-expanded="true">Hide inbox</button><span>Daily Newsletter</span><nav id="emailVersions" class="email-versions" aria-label="Edition snapshot" hidden></nav><button type="button" data-mail-fullscreen>Full screen ↗</button></div><div id="emailReader" class="email-reader" tabindex="0" aria-label="Newsletter reading area"></div></section></div>
+      <section class="email-reading-pane" aria-label="Read newsletter"><div class="email-reading-tools"><button type="button" data-mail-inbox aria-controls="emailInbox" aria-expanded="true">Hide inbox</button><span>Daily Newsletter</span><nav id="emailVersions" class="email-versions" aria-label="Edition snapshot" hidden></nav></div><div id="emailReader" class="email-reader" tabindex="0" aria-label="Newsletter reading area"></div></section></div>
       <button id="emailResize" class="window-resize-handle" aria-label="Resize Email window" title="Drag to resize. Arrow keys also work."></button>`;
     const $=selector=>win.querySelector(selector);
     const mark=record=>config.markRead(record);
@@ -107,7 +107,6 @@
       if(id)select(id);else if(!selected)$('#emailQuery').focus();
     }
     async function close({restoreFocus=true}={}) {
-      if(document.fullscreenElement===win)await document.exitFullscreen().catch(()=>{});
       win.hidden=true;
       if(!restoreFocus)return;
       if(matchMedia('(max-width:760px)').matches){document.querySelector('.desktop-icon[data-open-email]')?.focus();return;}
@@ -136,19 +135,6 @@
       }
       if(event.target.closest('[data-mail-inbox]')){inbox();return;}
       if(event.target.closest('[data-mail-clear]')){filter.query='';filter.source='';filter.month='';$('#emailQuery').value='';updateOptions();renderList();$('.email-filters').open=false;$('.email-filters summary').focus();return;}
-      if(event.target.closest('[data-mail-fullscreen]')){
-        try {
-          if(document.fullscreenElement===win)await document.exitFullscreen();
-          else if(win.requestFullscreen)await win.requestFullscreen();
-          else config.zoom(win);
-        } catch {config.zoom(win);}
-      }
-    });
-    document.addEventListener('fullscreenchange',()=>{
-      const fullscreen=document.fullscreenElement===win;
-      $('[data-mail-fullscreen]').textContent=fullscreen?'Exit full screen ↙':'Full screen ↗';
-      if(fullscreen){beforeFullscreen=sidebarCollapsed;setSidebarCollapsed(true);}
-      else if(beforeFullscreen!==null){setSidebarCollapsed(beforeFullscreen);beforeFullscreen=null;}
     });
     document.querySelectorAll('[data-open-email]').forEach(button=>button.addEventListener('click',()=>open()));
     config.draggable(win,$('.email-titlebar'));config.resizable(win,$('#emailResize'));
