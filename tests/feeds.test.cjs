@@ -26,6 +26,17 @@ test('digest rendering preserves inline links and headings while escaping source
   assert.match(html,/href="https:\/\/example.com\/story" target="_blank" rel="noopener noreferrer"/);
   assert.match(html,/&lt;script&gt;/);assert.doesNotMatch(html,/<script>|mail\.google/);
 });
+test('newsletter snapshots survive validation with safe links and one stable edition ID',()=>{
+  const view={body:'A growing edition',blocks:[{type:'paragraph',runs:[{text:'Read',url:'https://example.com/story'}]}],
+    links:[{url:'https://example.com/story',title:'Source'},{url:'https://mail.google.com/private',title:'Private'}]};
+  const [entry]=validate({version:1,entries:[{id:'digest-one',channel:'newsletters',title:'Today',publishedAt:'2026-10-01T12:00:00Z',
+    versions:{morning:view,full:view,unexpected:{body:'ignored'}}}]},'newsletters');
+  assert.equal(entry.id,'digest-one');
+  assert.equal(entry.versions.morning.blocks[0].runs[0].url,'https://example.com/story');
+  assert.equal(entry.versions.full.links.length,1);
+  assert.equal(entry.versions.unexpected,undefined);
+  assert.doesNotMatch(JSON.stringify(entry),/mail\.google/);
+});
 test('verified story links and bare URLs are clickable without turning markup into HTML',()=>{
   const {linkedText}=require('../feeds.js');
   const html=linkedText('A story + more. https://example.com/read. <b>text</b>',[{text:'A story + more',url:'https://example.com/story'}]);

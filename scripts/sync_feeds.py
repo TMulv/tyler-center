@@ -292,11 +292,11 @@ def rich_text(items, links, runs=None):
     return clean_text(''.join(parts))
 
 
-def digest_blocks(api, page_id, links, depth=0, blocks=None):
+def digest_blocks(api, page_id, links, depth=0, blocks=None, items=None):
     if depth > 12:
         raise ValueError('Digest block nesting exceeds limit')
     lines = []
-    for block in api.pages(f'blocks/{page_id}/children'):
+    for block in items if items is not None else api.pages(f'blocks/{page_id}/children'):
         kind = block['type']
         content = block.get(kind, {})
         runs = []
@@ -340,26 +340,57 @@ def collect_digests(api):
             page = api.request('pages/' + block['id'])
             pages[page['id']] = page
     records = []
+    snapshot_names = {'Morning edition': 'morning', 'Midday pass': 'midday',
+                      'Afternoon edition': 'afternoon', 'Evening edition': 'evening'}
+    snapshot_order = ('morning', 'midday', 'afternoon', 'evening')
     for page in pages.values():
         if page.get('archived') or page.get('in_trash'):
             continue
-        links = {}
         title = next((rich_text(p['title'], {}) for p in page['properties'].values() if p['type'] == 'title'), '')
-        blocks = []
-        lines = digest_blocks(api, page['id'], links, blocks=blocks)
-        if not title or not lines:
+        if not title:
             continue
-        source_links = [{'title': label, 'url': url} for url, label in links.items()]
-        body = '\n\n'.join(lines)
-        for source in overrides.get(page['id'], []):
-            if source.get('text') in body and public_url(source.get('url', '')):
-                source_links = [s for s in source_links if s['url'] != source['url']]
-                source_links.append(source)
+        top = list(api.pages(f'blocks/{page["id"]}/children'))
+        versions = {}
+        for block in top:
+            if block['type'] != 'toggle':
+                continue
+            name = rich_text(block.get('toggle', {}).get('rich_text', []), {})
+            stage = snapshot_names.get(name)
+            if not stage:
+                continue
+            stage_links, stage_blocks = {}, []
+            stage_lines = digest_blocks(api, block['id'], stage_links, blocks=stage_blocks)
+            if not stage_lines:
+                continue
+            stage_body = '\n\n'.join(stage_lines)
+            stage_sources = [{'title': label, 'url': url} for url, label in stage_links.items()]
+            for source in overrides.get(page['id'], []):
+                if source.get('text') in stage_body and public_url(source.get('url', '')):
+                    stage_sources = [s for s in stage_sources if s['url'] != source['url']]
+                    stage_sources.append(source)
+            versions[stage] = {'body': stage_body, 'blocks': stage_blocks, 'links': stage_sources}
+        if versions:
+            latest = next(stage for stage in reversed(snapshot_order) if stage in versions)
+            current = versions[latest]
+            lines = current['body'].split('\n\n')
+            body, blocks, source_links = current['body'], current['blocks'], current['links']
+            versions['full'] = current
+        else:
+            links, blocks = {}, []
+            lines = digest_blocks(api, page['id'], links, blocks=blocks, items=top)
+            if not lines:
+                continue
+            body = '\n\n'.join(lines)
+            source_links = [{'title': label, 'url': url} for url, label in links.items()]
+            for source in overrides.get(page['id'], []):
+                if source.get('text') in body and public_url(source.get('url', '')):
+                    source_links = [s for s in source_links if s['url'] != source['url']]
+                    source_links.append(source)
         records.append({'id': 'digest-' + page['id'], 'channel': 'newsletters', 'source': 'notion',
                         'kind': 'Agent-written digest', 'domain': 'Daily newsletter digest',
                         'title': title, 'url': '', 'description': lines[0][:300],
                         'body': body, 'blocks': blocks, 'publishedAt': newsletter_published_at(title, page['created_time']),
-                        'links': source_links})
+                        'links': source_links, **({'versions': versions} if versions else {})})
     return records
 
 

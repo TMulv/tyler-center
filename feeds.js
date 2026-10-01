@@ -49,6 +49,22 @@
         type:['heading_1','heading_2','heading_3','bulleted_list_item','numbered_list_item','quote'].includes(b.type) ? b.type : 'paragraph',
         runs:b.runs.filter(r => r && typeof r.text === 'string').map(r => ({text:r.text,url:link(r.url),bold:r.bold === true,italic:r.italic === true}))
       })) : [];
+      if(channel==='newsletters' && item.versions && typeof item.versions==='object'){
+        entry.versions={};
+        for(const stage of ['morning','midday','afternoon','evening','full']){
+          const view=item.versions[stage];
+          if(!view || typeof view!=='object')continue;
+          entry.versions[stage]={
+            body:typeof view.body==='string'?view.body:'',
+            links:Array.isArray(view.links)?view.links.filter(l=>l && typeof l==='object').map(l=>({title:String(l.title||''),text:String(l.text||''),url:link(l.url)})).filter(l=>l.url):[],
+            blocks:Array.isArray(view.blocks)?view.blocks.filter(b=>b && Array.isArray(b.runs)).map(b=>({
+              type:['heading_1','heading_2','heading_3','bulleted_list_item','numbered_list_item','quote'].includes(b.type)?b.type:'paragraph',
+              runs:b.runs.filter(r=>r && typeof r.text==='string').map(r=>({text:r.text,url:link(r.url),bold:r.bold===true,italic:r.italic===true}))
+            })):[]
+          };
+        }
+        if(!entry.versions.full)throw new Error('Newsletter snapshots need a full view');
+      }
       return entry;
     });
   }

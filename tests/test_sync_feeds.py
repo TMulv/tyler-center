@@ -143,6 +143,36 @@ class SyncTests(unittest.TestCase):
         self.assertEqual(records[0]['url'], '')
         self.assertEqual(records[0]['blocks'][0]['runs'][0]['text'], 'Highlights.')
 
+    def test_cumulative_snapshots_stay_one_email_with_latest_full_view(self):
+        page = {'id': 'edition', 'created_time': '2026-10-01T14:05:00Z',
+                'properties': {'Name': {'type': 'title', 'title': [
+                    {'plain_text': 'A Daily Digest — Thursday, October 1, 2026'}]}}}
+        stages = [('morning', 'Morning edition'), ('midday', 'Midday pass'),
+                  ('afternoon', 'Afternoon edition'), ('evening', 'Evening edition')]
+        def block(text):
+            return {'type': 'paragraph', 'paragraph': {'rich_text': [{'plain_text': text}]}}
+        class FakeNotion:
+            def pages(self, route, query=False):
+                if query:
+                    return [page]
+                if sync.ARCHIVE in route:
+                    return []
+                if route.endswith('/edition/children'):
+                    return [{'id': key, 'type': 'toggle',
+                             'toggle': {'rich_text': [{'plain_text': label}]}} for key, label in stages]
+                for key, _ in stages:
+                    if route.endswith('/' + key + '/children'):
+                        return [block('Morning text.'), block('Latest ' + key + ' text.')]
+                raise AssertionError(route)
+        records = sync.collect_digests(FakeNotion())
+        self.assertEqual(len(records), 1)
+        record = records[0]
+        self.assertEqual(record['id'], 'digest-edition')
+        self.assertIn('Latest evening text.', record['body'])
+        self.assertEqual(record['versions']['full'], record['versions']['evening'])
+        self.assertNotIn('Latest evening text.', record['versions']['morning']['body'])
+        self.assertEqual(record['publishedAt'], '2026-10-01T14:05:00Z')
+
 
 if __name__ == '__main__':
     unittest.main()
