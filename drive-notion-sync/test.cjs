@@ -21,8 +21,13 @@ function harness({ files, existing = [], bodies = {} }) {
         return { hasNext: () => index < files.length, next: () => files[index++] };
       }
     }) },
-    DocumentApp: { openById: id => ({ getBody: () => ({ getText: () => bodies[id] }) }) },
+    ScriptApp: { getOAuthToken: () => 'google-test-token' },
     UrlFetchApp: { fetch: (url, options) => {
+      if (url.includes('www.googleapis.com/drive/v3/files/')) {
+        const id = decodeURIComponent(url.split('/files/')[1].split('/')[0]);
+        assert.equal(options.headers.Authorization, 'Bearer google-test-token');
+        return { getResponseCode: () => 200, getContentText: () => bodies[id] };
+      }
       const body = JSON.parse(options.payload);
       requests.push({ url, body });
       let result;

@@ -23,7 +23,7 @@ function syncNewsletterDocs() {
     pending.sort((a, b) => a.file.getDateCreated() - b.file.getDateCreated());
     let created = 0;
     for (const { file, title } of pending) {
-      const markdown = DocumentApp.openById(file.getId()).getBody().getText()
+      const markdown = exportDocText_(file.getId())
         .replace(/^\uFEFF/, '').replace(/\r\n?/g, '\n').trim();
       if (markdown.length < 100) throw new Error('Newsletter Doc is empty or too short: ' + title);
       if (/https?:\/\/(?:mail\.google\.com|gmail\.com|outlook\.com|outlook\.office\.com|notion\.so|notion\.com)\b/i.test(markdown)) {
@@ -43,6 +43,19 @@ function syncNewsletterDocs() {
   } finally {
     lock.releaseLock();
   }
+}
+
+function exportDocText_(fileId) {
+  const url = 'https://www.googleapis.com/drive/v3/files/' + encodeURIComponent(fileId) + '/export?mimeType=text%2Fplain';
+  const response = UrlFetchApp.fetch(url, {
+    method: 'get',
+    headers: { Authorization: 'Bearer ' + ScriptApp.getOAuthToken() },
+    muteHttpExceptions: true
+  });
+  if (response.getResponseCode() !== 200) {
+    throw new Error('Google Doc export failed (HTTP ' + response.getResponseCode() + ').');
+  }
+  return response.getContentText('UTF-8');
 }
 
 function getEditionTitles_(token) {
