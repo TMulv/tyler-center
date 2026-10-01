@@ -57,3 +57,7 @@ Read this file before changing the site. These are Tyler's standing project pref
 - Empty dates display “Date not set.” Missing, renamed, ambiguous, or invalid date properties fail the sync and preserve the last good snapshot.
 - Keep the standalone TomoTomo entry separate from the Notion domains source.
 - When changing this mapping, run the date regression tests and compare the public snapshot with the selected dates in Notion. See `FEED-SETUP.md`.
+
+## Sidebar readability
+
+Use bold typewriter channel labels on desktop and mobile. On mobile, keep channel labels at least 15px with roomy row spacing and touch targets at least 48px tall.

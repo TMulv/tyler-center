@@ -127,3 +127,31 @@
 .project-preview-mode .desktop-icons,.project-preview-mode .desktop-menu-bar{display:none}
 .project-preview-mode #appWindow{inset:10px!important;width:calc(100vw - 20px)!important;height:calc(100vh - 20px)!important;transform:none!important}
 .project-preview-mode #contentScroll{overflow:hidden}
+
+/* Clear channel labels on desktop, with roomier touch targets on mobile. */
+.sidebar .channel-link,
+.sidebar .home-link {
+  font-weight: 700;
+  font-synthesis: weight;
+}
+@media (max-width: 760px) {
+  .sidebar .sidebar-scroll { padding: 18px 12px 24px; }
+  .sidebar .channel-link,
+  .sidebar .home-link {
+    min-height: 48px;
+    height: auto;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    margin-top: 3px;
+    margin-bottom: 5px;
+    gap: 10px;
+    font-size: 15px;
+    line-height: 1.45;
+  }
+  .sidebar .channel-link > span:nth-child(2) {
+    line-height: 1.45;
+    overflow-wrap: anywhere;
+  }
+  .sidebar .channel-link .hash { width: 18px; }
+  .sidebar .side-label { margin-top: 24px; margin-bottom: 12px; }
+}
