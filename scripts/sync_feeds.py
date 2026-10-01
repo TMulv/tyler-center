@@ -340,7 +340,9 @@ def collect_digests(api):
             page = api.request('pages/' + block['id'])
             pages[page['id']] = page
     records = []
-    snapshot_names = {'Morning edition': 'morning', 'Midday pass': 'midday',
+    snapshot_names = {'8am edition': 'morning', '12pm edition': 'midday',
+                      '4pm edition': 'afternoon', '8pm edition': 'evening',
+                      'Morning edition': 'morning', 'Midday pass': 'midday',
                       'Afternoon edition': 'afternoon', 'Evening edition': 'evening'}
     snapshot_order = ('morning', 'midday', 'afternoon', 'evening')
     for page in pages.values():

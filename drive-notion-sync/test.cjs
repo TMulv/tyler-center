@@ -6,10 +6,12 @@ const vm = require('node:vm');
 
 const script = fs.readFileSync(path.join(__dirname, 'Code.gs'), 'utf8');
 function doc(id, name, created) {
-  return { getId: () => id, getName: () => name, getDateCreated: () => new Date(created) };
+  let modified = created;
+  return { getId: () => id, getName: () => name, getDateCreated: () => new Date(created),
+    getLastUpdated: () => new Date(modified), setModified: value => { modified = value; } };
 }
 function harness({ files, existing = [], bodies = {} }) {
-  let now = '2026-10-01T13:45:00Z';
+  let now = '2026-10-01T11:45:00Z';
   const pages = existing.map((name, index) => ({
     id: 'existing-' + index,
     properties: { Name: { title: [{ plain_text: name }] } },
@@ -60,14 +62,16 @@ function harness({ files, existing = [], bodies = {} }) {
         const id = url.split('/blocks/')[1].split('/')[0];
         const page = pages.find(page => page.id === id);
         const toggle = pages.flatMap(page => page.children).find(block => block.id === id);
-        const children = body.children.map(block => ({ ...block, id: 'block-' + (requests.length + pages.length) + '-' + Math.random() }));
+        const children = body.children.map((block, index) => ({ ...block, id: 'block-' + (requests.length + pages.length) + '-' + index,
+          last_edited_time: now }));
         (page ? page.children : toggle.toggle.children).push(...children);
         result = { results: children };
       } else if (url.endsWith('/pages')) {
         result = { id: 'page-' + (pages.length + 1) };
         pages.push({ id: result.id,
           properties: { Name: { title: [{ plain_text: body.properties.Name.title[0].text.content }] } },
-          children: (body.children || []).map((block, index) => ({ ...block, id: 'block-' + result.id + '-' + index })), markdown: body.markdown });
+          children: (body.children || []).map((block, index) => ({ ...block, id: 'block-' + result.id + '-' + index,
+            last_edited_time: now })), markdown: body.markdown });
       } else throw new Error('Unexpected request: ' + url);
       return { getResponseCode: () => 200, getContentText: () => JSON.stringify(result) };
     } }
@@ -77,20 +81,27 @@ function harness({ files, existing = [], bodies = {} }) {
   return { context, pages, requests, setNow: value => { now = value; } };
 }
 
-test('captures four cumulative passes in one Notion page, once per window', () => {
+test('captures four visible cumulative passes in one Notion page and refreshes the active pass', () => {
   const title = 'A Daily Digest — Thursday, October 1, 2026';
   const bodies = { today: 'Morning introduction with enough text to count as a complete newsletter.\n\n## Front Page\n[Read the source](https://example.com/a)' };
-  const h = harness({ files: [doc('today', title + '.md', '2026-10-01')], bodies });
-  assert.equal(h.context.syncNewsletterDocs(), 0); // 9:45 ET
+  const file = doc('today', title + '.md', '2026-10-01');
+  const h = harness({ files: [file], bodies });
+  assert.equal(h.context.syncNewsletterDocs(), 0); // 7:45 ET
   assert.equal(h.pages.length, 0);
-  h.setNow('2026-10-01T14:08:00Z'); // 10:08 ET
+  h.setNow('2026-10-01T12:08:00Z'); // 8:08 ET
   assert.equal(h.context.syncNewsletterDocs(), 1);
   assert.equal(h.pages.length, 1);
-  assert.equal(h.pages[0].children[0].toggle.rich_text[0].text.content, 'Morning edition');
+  assert.equal(h.pages[0].children[0].toggle.rich_text[0].text.content, '8am edition');
   assert.equal(h.pages[0].children[0].toggle.children[1].type, 'heading_2');
   assert.equal(h.pages[0].children[0].toggle.children[2].paragraph.rich_text[0].text.link.url, 'https://example.com/a');
   assert.equal(h.context.syncNewsletterDocs(), 0);
   assert.equal(h.pages[0].children.length, 1);
+  bodies.today += '\n\nMore morning links arrived.';
+  file.setModified('2026-10-01T12:55:00Z');
+  h.setNow('2026-10-01T13:10:00Z');
+  h.context.syncNewsletterDocs();
+  assert.equal(h.pages[0].children.length, 2);
+  assert.equal(h.pages[0].children[1].toggle.rich_text[0].text.content, '8am edition');
   bodies.today += '\n\nNoon update with more useful detail for readers.';
   h.setNow('2026-10-01T16:10:00Z');
   h.context.syncNewsletterDocs();
@@ -101,12 +112,12 @@ test('captures four cumulative passes in one Notion page, once per window', () =
   h.setNow('2026-10-02T00:06:00Z');
   h.context.syncNewsletterDocs();
   assert.deepEqual(h.pages[0].children.map(block => block.toggle.rich_text[0].text.content),
-    ['Morning edition', 'Midday pass', 'Afternoon edition', 'Evening edition']);
+    ['8am edition', '8am edition', '12pm edition', '4pm edition', '8pm edition']);
   assert.equal(h.pages[0].children[0].toggle.children.some(block => JSON.stringify(block).includes('Evening')), false);
-  assert.equal(h.pages[0].children[3].toggle.children.some(block => JSON.stringify(block).includes('Evening')), true);
+  assert.equal(h.pages[0].children[4].toggle.children.some(block => JSON.stringify(block).includes('Evening')), true);
   assert.equal(h.pages.length, 1);
   assert.equal(h.context.syncNewsletterDocs(), 0);
-  assert.equal(h.pages[0].children.length, 4);
+  assert.equal(h.pages[0].children.length, 5);
 });
 
 test('backfills historical docs once and never adds snapshots to legacy pages', () => {

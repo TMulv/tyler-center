@@ -15,6 +15,7 @@
 .email-eyebrow{font:10px/1.4 Arial,sans-serif;letter-spacing:.1em;color:#7e392c}
 .email-inbox-heading h1{margin:7px 0 0;font:28px/1.1 var(--heading-font)}
 #emailInboxCount{font:11px Arial,sans-serif;white-space:nowrap}
+.email-today-status{margin:0 18px 11px;color:#52665f;font:11px/1.4 Arial,sans-serif}
 .email-about{margin:0 18px 14px;font:13px/1.5 Georgia,serif;max-height:180px;overflow:auto;flex-shrink:0}
 .email-about summary{cursor:pointer;text-decoration:underline;text-underline-offset:3px;font:12px Arial,sans-serif}
 .email-about p{margin:9px 0 0}

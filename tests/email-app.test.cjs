@@ -24,9 +24,10 @@ test('inbox source and search filters match linked publishers and keep newest-fi
  assert.deepEqual(filters.apply(rows,'newsletters',{source:'wired.com',query:'AI'}).map(r=>r.id),['b','a']);
 });
 test('snapshot switcher reads a selected pass and Full follows the latest cumulative pass',()=>{
- const record={id:'digest-one',body:'Current',versions:{morning:{body:'Morning'},afternoon:{body:'Afternoon'},full:{body:'Afternoon'}}};
- assert.equal(editionView(record,'morning').body,'Morning');
- assert.equal(editionView(record,'full').body,'Afternoon');
- assert.equal(editionView(record,'evening').body,'Afternoon');
+ const record={id:'digest-one',body:'Current',versions:{morning:{body:'8am'},midday:{body:'12pm'},afternoon:{body:'4pm'},full:{body:'4pm'}}};
+ assert.equal(editionView(record,'morning').body,'8am');
+ assert.equal(editionView(record,'midday').body,'12pm');
+ assert.equal(editionView(record,'full').body,'4pm');
+ assert.equal(editionView(record,'evening').body,'4pm');
  assert.equal(editionView({id:'legacy',body:'Archive'},'full').body,'Archive');
 });

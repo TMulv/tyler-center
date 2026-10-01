@@ -147,8 +147,8 @@ class SyncTests(unittest.TestCase):
         page = {'id': 'edition', 'created_time': '2026-10-01T14:05:00Z',
                 'properties': {'Name': {'type': 'title', 'title': [
                     {'plain_text': 'A Daily Digest — Thursday, October 1, 2026'}]}}}
-        stages = [('morning', 'Morning edition'), ('midday', 'Midday pass'),
-                  ('afternoon', 'Afternoon edition'), ('evening', 'Evening edition')]
+        stages = [('morning', '8am edition'), ('midday', '12pm edition'),
+                  ('afternoon', '4pm edition'), ('evening', '8pm edition')]
         def block(text):
             return {'type': 'paragraph', 'paragraph': {'rich_text': [{'plain_text': text}]}}
         class FakeNotion:
@@ -158,8 +158,12 @@ class SyncTests(unittest.TestCase):
                 if sync.ARCHIVE in route:
                     return []
                 if route.endswith('/edition/children'):
-                    return [{'id': key, 'type': 'toggle',
+                    return [{'id': 'midday-old', 'type': 'toggle',
+                             'toggle': {'rich_text': [{'plain_text': '12pm edition'}]}}] + [
+                            {'id': key, 'type': 'toggle',
                              'toggle': {'rich_text': [{'plain_text': label}]}} for key, label in stages]
+                if route.endswith('/midday-old/children'):
+                    return [block('Stale noon draft.')]
                 for key, _ in stages:
                     if route.endswith('/' + key + '/children'):
                         return [block('Morning text.'), block('Latest ' + key + ' text.')]
@@ -170,6 +174,7 @@ class SyncTests(unittest.TestCase):
         self.assertEqual(record['id'], 'digest-edition')
         self.assertIn('Latest evening text.', record['body'])
         self.assertEqual(record['versions']['full'], record['versions']['evening'])
+        self.assertNotIn('Stale noon draft.', record['versions']['midday']['body'])
         self.assertNotIn('Latest evening text.', record['versions']['morning']['body'])
         self.assertEqual(record['publishedAt'], '2026-10-01T14:05:00Z')
 

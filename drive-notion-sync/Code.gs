@@ -1,16 +1,16 @@
 /**
  * One Google Doc becomes one Notion edition. The existing 15-minute trigger
- * captures the first available Doc text in each New York time window.
+ * refreshes the active edition as the Doc changes in each New York time window.
  */
 const NEWSLETTER_FOLDER_ID = '1mhNmOwgL3lBMlrWAdNZQNiHZ3uZ-Lk9o';
 const NOTION_EDITIONS_DATA_SOURCE_ID = 'aab9f113-6439-4714-9185-0cc08f9d70df';
 const NOTION_VERSION = '2026-03-11';
 const NEWSLETTER_TIME_ZONE = 'America/New_York';
 const SNAPSHOT_WINDOWS = [
-  { hour: 10, name: 'Morning edition' },
-  { hour: 12, name: 'Midday pass' },
-  { hour: 16, name: 'Afternoon edition' },
-  { hour: 20, name: 'Evening edition' }
+  { hour: 8, name: '8am edition' },
+  { hour: 12, name: '12pm edition' },
+  { hour: 16, name: '4pm edition' },
+  { hour: 20, name: '8pm edition' }
 ];
 
 function syncNewsletterDocs() {
@@ -53,11 +53,13 @@ function syncNewsletterDocs() {
         Logger.log('Published historical newsletter edition: ' + title);
         continue;
       }
-      if (page) {
-        const snapshots = snapshotNames_(token, page);
-        // Never overwrite a manually written or legacy page with the same title.
-        if (!snapshots.length || snapshots.includes(window.name)) continue;
-      }
+      const snapshots = page ? snapshotBlocks_(token, page) : [];
+      const namedSnapshots = snapshots.filter(block => block.type === 'toggle' &&
+        SNAPSHOT_WINDOWS.some(item => item.name === blockName_(block)));
+      // Never overwrite a manually written or legacy page with the same title.
+      if (page && !namedSnapshots.length) continue;
+      const old = namedSnapshots.filter(block => blockName_(block) === window.name).pop();
+      if (old && Date.parse(old.last_edited_time || '') >= file.getLastUpdated().getTime()) continue;
       const markdown = checkedDocText_(file.getId(), title);
       const snapshot = snapshotBlock_(window.name, markdown);
       const overflow = snapshot.toggle.children.splice(100);
@@ -194,9 +196,13 @@ function getEditionPages_(token) {
 
 function snapshotNames_(token, pageId) {
   return snapshotBlocks_(token, pageId).filter(block => block.type === 'toggle')
-    .map(block => ((block.toggle || {}).rich_text || [])
-      .map(part => part.plain_text || (part.text || {}).content || '').join(''))
+    .map(blockName_)
     .filter(name => SNAPSHOT_WINDOWS.some(item => item.name === name));
+}
+
+function blockName_(block) {
+  return ((block.toggle || {}).rich_text || [])
+    .map(part => part.plain_text || (part.text || {}).content || '').join('');
 }
 
 function snapshotBlocks_(token, pageId) {
