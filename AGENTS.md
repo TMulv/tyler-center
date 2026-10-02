@@ -29,6 +29,7 @@ Read this file before changing the site. These are Tyler's standing project pref
 
 ## Visual style and identity
 
+- Use Tyler's supplied navy T-M monogram for the browser-tab favicon.
 - Typewriter font for headings and title-like labels; a traditional readable font (currently Georgia) for writing, descriptions, lists, and article/digest bodies. Do not let the heading font leak into prose.
 - Keep the textured computer-desktop style, original grain, and NASA Challenger wallpaper with its visible source/license credit. Treat the supplied texture references as inspiration rather than copied textures.
 - Use `tyler.center` in window branding. Windows resize by dragging their corner with a subtle grip. Keep the removed desktop dock icon removed.
