@@ -280,6 +280,16 @@
       "mediaType": "YouTube",
       "readingStatus": "Want to see",
       "publishedAt": "2026-10-02T21:04:00Z"
+    },
+    {
+      "id": "watchlater-8c361584d61d4aeca7fe2f356e2417e6",
+      "channel": "watch",
+      "source": "notion",
+      "title": "terrifying youtube video",
+      "url": "https://youtu.be/UZ2duRYykkk?is=pB3GIxyiKd_yrXjA",
+      "mediaType": "YouTube",
+      "readingStatus": "Finished",
+      "publishedAt": "2026-10-04T02:15:00Z"
     }
   ]
 }
