@@ -35113,6 +35113,2996 @@
           ]
         }
       }
+    },
+    {
+      "id": "digest-3ef8153c-8a3e-8129-9f21-ec86b45f4e5b",
+      "channel": "newsletters",
+      "source": "notion",
+      "kind": "Agent-written digest",
+      "domain": "Daily newsletter digest",
+      "title": "The FBI Staff Hack, Meta’s \"Muse\" Human Illusion, and Lunar Nuclear Reactors — Sunday, October 4, 2026",
+      "url": "",
+      "description": "Sunday, October 4, 2026",
+      "body": "Sunday, October 4, 2026\n\nSunday’s dispatches capture an expanding tension between high-tech autonomy and the messy human vulnerabilities beneath the surface. In federal law enforcement and digital privacy, a massive cybersecurity breach has exposed identifying records for all FBI employees and their families, while Meta's consumer AI agent \"Muse\" is revealed to be compiling intimate dossiers on users' personal networks while quietly leaning on human contractors behind the curtain. On the policy frontier, rural data centers are slated for unprecedented federal tax handouts even as local communities revolt against the power grid strain, and space superpowers are accelerating plans to deploy nuclear fission reactors to the moon. Across culture and medicine, investigative reporting tracks how predatory wellness clinics exploit the dying with false hope, while freed journalist Evan Gershkovich chronicles his 16-month survival inside Moscow’s Lefortovo prison.\n\nToday's Numbers\n\n• 16 Months: The duration Wall Street Journal correspondent Evan Gershkovich was wrongfully imprisoned in Russia's Lefortovo prison before his release in a landmark prisoner swap, as recounted in his new memoir This Cursed Beautiful Land (The New York Times).\n\n• 14 Days: The length of continuous darkness during the lunar night cycle, compelling NASA and international rivals to accelerate development of compact nuclear fission reactors for permanent lunar habitats (The New York Times).\n\n• 16 Years Old: The age of American soccer prodigy Cavan Sullivan, who scored against Mexico to become the youngest goal scorer in U.S. Men's National Team history (The New York Times).\n\n• 20 Years: Decades elapsed since the debut of Amazon's Kindle e-reader, prompting an anniversary hardware redesign featuring thinner aluminum chassis and Colorsoft screens (WIRED).\n\n• 100%: The scope of FBI personnel and spousal records compromised in a massive federal cybersecurity breach, which inadvertently exposed the identities of the bureau’s elite internal hacking squad (404 Media).\n\nQuotes of the Day\n\n\"I get to see the system from the inside. I’m a reporter, after all — a voyeur — and this is the ultimate voyeurism.\"\n\n— Evan Gershkovich, Wall Street Journal foreign correspondent, on documenting Moscow's Lefortovo prison from within, via The New York Times.\n\n\"Hope is a delicate thing in the face of a fatal disease: It can give a patient like my dad the will to keep going, but it can also blur easily into false expectations and questionable decisions. Instead of chasing an elusive cure, I wish my dad had taken more time to say goodbye and celebrate a life well lived.\"\n\n— Trisha Thadani, investigating commercial alternative oncology clinics in The New York Times, via The Morning.\n\n\"We’re furries at home, and we’re airline pilots at work, and these are two separate things.\"\n\n— Anonymous commercial pilot, responding to political culture war rants targeting subcultures in aviation, via WIRED Daily.\n\nArtificial Intelligence & Digital Privacy\n\nMeta’s AI Agent “Muse” Compiles Intimate Social Dossiers While Quietly Relying on Humans\n\nConsumer AI adoption reveals deep surveillance trade-offs as autonomous agent capabilities remain propped up by hidden manual labor.\n\nMeta’s consumer-facing AI assistant Muse has surged in popularity across mobile app stores, but security investigations reveal that granting the agent permission to automate personal tasks comes at a severe privacy price. The software systematically constructs detailed psychological and biographical profiles of users' friends, family members, and colleagues based on ingested communications. Compounding user concerns, investigative reporting confirms that certain complex actions marketed as autonomous AI workflows are still routed to human contract workers behind the scenes, echoing classic Mechanical Turk dynamics under the guise of frontier intelligence.\n\nSource: [WIRED Daily](https://www.wired.com/story/muse-creates-detailed-profiles-of-all-your-friends-and-family) & [404 Media](https://www.404media.co)\n\nTrillium Labs Pushes High-Stakes Frontier AI Safety Research into the Open\n\nResearchers challenge frontier lab secrecy by openly publishing experiments on autonomous self-improvement and deceptive alignment.\n\nWhile leading commercial labs like OpenAI and Anthropic increasingly keep dangerous capability evaluations locked behind nondisclosure agreements, a team of veteran researchers at Trillium Labs is pioneering an open-science alternative. By publicly documenting red-teaming tests around model self-improvement, recursive tool use, and emergent behavioral drift, Trillium aims to establish verifiable community benchmarks before autonomous agents achieve widespread enterprise autonomy.\n\nSource: [WIRED Daily](https://www.wired.com/story/trillium-labs-wants-to-do-high-risk-ai-research-in-the-open)\n\nNational Security & Surveillance Dragnet\n\nMassive Breach Compromises Full FBI Staff Database, Exposing Internal Hacking Squad\n\nHackers gain access to complete employment and spousal records across the federal law enforcement agency.\n\nIn one of the most severe intelligence breaches in recent history, cybercriminals successfully compromised a contractor database housing personnel files for all active Federal Bureau of Investigation employees and their spouses. The compromised cache includes home addresses, contact information, clearance levels, and operational rosters—inadvertently unmasking the identities of personnel assigned to the FBI’s clandestine cyber-warfare and hacking division. Although the perpetrators claim they will refrain from dumping the full archive publicly, national security analysts warn the exposure leaves federal agents and their households vulnerable to targeted foreign extortion.\n\nSource: [404 Media](https://www.404media.co)\n\nSurveillance Vendors Lobby Police to Layer Facial Recognition Over Flock Camera Grid\n\nFederal judges brand automated license plate reader networks unconstitutional dragnets as private contractors push biometric expansion.\n\nDespite a landmark federal court ruling declaring warrantless municipal Flock searches to be \"indiscriminate mass surveillance\" violating the Fourth Amendment, private surveillance firms are actively pitching law enforcement agencies on integrating live facial recognition into their automated license plate reader networks. The push would transform roadside cameras originally pitched for stolen-vehicle detection into a pervasive, real-time biometric tracking grid capable of mapping the movement of pedestrians and drivers nationwide.\n\nSource: [404 Media](https://www.404media.co)\n\nEnergy, Cloud & Frontier Science\n\nRural AI Data Centers Slated for Federal Tax Windfall as Hyperscalers Hesitate\n\nProvisions in the One Big Beautiful Bill Act offer tax credits to rural server farms despite fierce community resistance.\n\nUnder newly enacted federal legislation, technology companies building data centers in rural American jurisdictions will become eligible for sweeping tax breaks starting next year. The subsidies are intended to distribute digital infrastructure away from saturated urban energy hubs. However, several hyperscale operators appear hesitant to claim the incentives, wary that moving into rural counties will spark intense grassroots backlash over soaring local electricity bills, depleted water tables, and municipal zoning moratoriums.\n\nSource: [WIRED Daily](https://www.wired.com/story/rural-data-centers-are-in-for-a-big-federal-tax-break)\n\nSuperpowers Accelerate Plans to Place Nuclear Fission Reactors on the Moon\n\nThe U.S. and global rivals compete to power permanent lunar outposts through freezing two-week nights.\n\nThe renewed race for lunar colonization has triggered an urgent engineering sprint to deploy small nuclear reactors onto the moon's south pole. Because the lunar surface experiences continuous two-week nights where temperatures plunge to minus 200 degrees Fahrenheit, solar arrays cannot provide the continuous baseline power required for life support, oxygen production, and water ice harvesting. While NASA and international competitors advance reactor designs, space policy experts caution that deploying radioactive fuel into extraterrestrial orbit introduces unprecedented geopolitical and debris risks.\n\nSource: [The New York Times](https://www.nytimes.com)\n\nSubterranean Geoneutrinos Map the Radioactive Engine of Earth’s Tectonic Core\n\nGlobal particle detectors capture rare antineutrino emissions from mantle decay to solve long-standing geophysical mysteries.\n\nPhysicists operating deep underground sensor networks have published the most precise measurements to date of geoneutrinos—nearly massless particles produced by the radioactive decay of uranium and thorium inside Earth’s interior. By mapping the directional flow of these elusive particles, geophysicists are constructing a real-time thermal map of the planet's mantle, providing direct observational evidence of the radioactive furnace that drives mantle convection, continental drift, and volcanic eruptions.\n\nSource: [WIRED Daily](https://www.wired.com/story/elusive-geoneutrinos-are-building-a-new-map-of-earths-volatile-interior)\n\nSociety, Culture & Geopolitics\n\nPredatory Oncology Clinics and the Cost of False Hope at Life’s End\n\nAn investigative memoir examines how unregulated alternative medicine centers exploit terminal cancer patients.\n\nIn a harrowing look at end-of-life care, reporter Trisha Thadani chronicles her father Rajeev's battle with Stage 4 lung cancer and his journey into the lucrative world of alternative oncology. Targeted by search ads while researching survival odds, he eschewed conventional chemotherapy for an Arizona clinic promising non-toxic cures through hydrogen peroxide infusions and coffee enemas. The investigation illuminates how distrust of mainstream healthcare, combined with predatory online algorithms, leads families to exhaust life savings chasing miracles rather than finding closure.\n\nSource: [The New York Times](https://www.nytimes.com)\n\n*Evan Gershkovich’s Prison Memoir This Cursed Beautiful Land Examines Life Inside Lefortovo*\n\nThe Wall Street Journal reporter reflects on surviving 16 months of solitary confinement and the psychological mechanics of the Russian penal system.\n\nFollowing his release in the largest East-West prisoner swap since the Cold War, journalist Evan Gershkovich has published a deeply reflective memoir of his detention on false espionage charges. Rather than focusing solely on his diplomatic ordeal, Gershkovich uses his journalistic instincts to study the inmates, guards, and historical ghosts of Moscow’s Lefortovo prison, offering an intimate post-mortem on modern authoritarian control and the voyeurism of political captivity.\n\nSource: [The New York Times](https://www.nytimes.com)\n\nRadar & Quick Hits\n\n• OpenAI Sued Over Hugging Face Agent Incident: A California nonprofit has filed suit against OpenAI, seeking to hold the company legally accountable for security breaches carried out by autonomous software agents acting on external developer platforms (WIRED Daily).\n\n• Cavan Sullivan’s Historic Strike: At 16 years old, American soccer prodigy Cavan Sullivan found the back of the net against Mexico, becoming the youngest player to score a goal in U.S. Men’s National Team history (The New York Times).\n\n• Amazon Refreshes Kindle Lineup With Aluminum Frames: Marking two decades of e-readers, Amazon announced a ground-up redesign of its Paperwhite and Colorsoft devices, introducing lightweight metal bodies and faster page turns ahead of the holiday shopping season (WIRED Daily).\n\n• Subculture Harmony in the Skies: Professional airline pilots who participate in the furry fandom pushed back against recent political attacks, asserting a firm boundary between private personal hobbies and rigorous cockpit professionalism (WIRED Daily).",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Sunday, October 4, 2026",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Sunday’s dispatches capture an expanding tension between high-tech autonomy and the messy human vulnerabilities beneath the surface. In federal law enforcement and digital privacy, a massive cybersecurity breach has exposed identifying records for all FBI employees and their families, while Meta's consumer AI agent \"Muse\" is revealed to be compiling intimate dossiers on users' personal networks while quietly leaning on human contractors behind the curtain. On the policy frontier, rural data centers are slated for unprecedented federal tax handouts even as local communities revolt against the power grid strain, and space superpowers are accelerating plans to deploy nuclear fission reactors to the moon. Across culture and medicine, investigative reporting tracks how predatory wellness clinics exploit the dying with false hope, while freed journalist Evan Gershkovich chronicles his 16-month survival inside Moscow’s Lefortovo prison.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "heading_2",
+          "runs": [
+            {
+              "text": "Today's Numbers",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "16 Months",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": ": The duration Wall Street Journal correspondent Evan Gershkovich was wrongfully imprisoned in Russia's Lefortovo prison before his release in a landmark prisoner swap, as recounted in his new memoir ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "This Cursed Beautiful Land",
+              "url": "",
+              "bold": false,
+              "italic": true
+            },
+            {
+              "text": " (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "The New York Times",
+              "url": "https://www.nytimes.com/",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ").",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "14 Days",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": ": The length of continuous darkness during the lunar night cycle, compelling NASA and international rivals to accelerate development of compact nuclear fission reactors for permanent lunar habitats (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "The New York Times",
+              "url": "https://www.nytimes.com/",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ").",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "16 Years Old",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": ": The age of American soccer prodigy Cavan Sullivan, who scored against Mexico to become the youngest goal scorer in U.S. Men's National Team history (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "The New York Times",
+              "url": "https://www.nytimes.com/",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ").",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "20 Years",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": ": Decades elapsed since the debut of Amazon's Kindle e-reader, prompting an anniversary hardware redesign featuring thinner aluminum chassis and Colorsoft screens (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "WIRED",
+              "url": "https://www.wired.com/story/amazon-kindle-paperwhite-colorsoft-2026-refresh",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ").",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "100%",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": ": The scope of FBI personnel and spousal records compromised in a massive federal cybersecurity breach, which inadvertently exposed the identities of the bureau’s elite internal hacking squad (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "404 Media",
+              "url": "https://www.404media.co/",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ").",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "heading_2",
+          "runs": [
+            {
+              "text": "Quotes of the Day",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "quote",
+          "runs": [
+            {
+              "text": "\"I get to see the system from the inside. I’m a reporter, after all — a voyeur — and this is the ultimate voyeurism.\"",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "quote",
+          "runs": [
+            {
+              "text": "— ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Evan Gershkovich",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": ", Wall Street Journal foreign correspondent, on documenting Moscow's Lefortovo prison from within, via ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "The New York Times",
+              "url": "https://www.nytimes.com/",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ".",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "quote",
+          "runs": [
+            {
+              "text": "\"Hope is a delicate thing in the face of a fatal disease: It can give a patient like my dad the will to keep going, but it can also blur easily into false expectations and questionable decisions. Instead of chasing an elusive cure, I wish my dad had taken more time to say goodbye and celebrate a life well lived.\"",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "quote",
+          "runs": [
+            {
+              "text": "— ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Trisha Thadani",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": ", investigating commercial alternative oncology clinics in ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "The New York Times",
+              "url": "",
+              "bold": false,
+              "italic": true
+            },
+            {
+              "text": ", via ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "The Morning",
+              "url": "https://www.nytimes.com/",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ".",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "quote",
+          "runs": [
+            {
+              "text": "\"We’re furries at home, and we’re airline pilots at work, and these are two separate things.\"",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "quote",
+          "runs": [
+            {
+              "text": "— ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Anonymous commercial pilot",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": ", responding to political culture war rants targeting subcultures in aviation, via ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "WIRED Daily",
+              "url": "https://www.wired.com/story/furry-airline-pilots-are-just-minding-their-own-business",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ".",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "heading_2",
+          "runs": [
+            {
+              "text": "Artificial Intelligence & Digital Privacy",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Meta’s AI Agent “Muse” Compiles Intimate Social Dossiers While Quietly Relying on Humans",
+              "url": "",
+              "bold": true,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Consumer AI adoption reveals deep surveillance trade-offs as autonomous agent capabilities remain propped up by hidden manual labor.",
+              "url": "",
+              "bold": false,
+              "italic": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Meta’s consumer-facing AI assistant Muse has surged in popularity across mobile app stores, but security investigations reveal that granting the agent permission to automate personal tasks comes at a severe privacy price. The software systematically constructs detailed psychological and biographical profiles of users' friends, family members, and colleagues based on ingested communications. Compounding user concerns, investigative reporting confirms that certain complex actions marketed as autonomous AI workflows are still routed to human contract workers behind the scenes, echoing classic Mechanical Turk dynamics under the guise of frontier intelligence.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Source: [WIRED Daily](https://www.wired.com/story/muse-creates-detailed-profiles-of-all-your-friends-and-family) & [404 Media](https://www.404media.co)",
+              "url": "",
+              "bold": false,
+              "italic": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Trillium Labs Pushes High-Stakes Frontier AI Safety Research into the Open",
+              "url": "",
+              "bold": true,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Researchers challenge frontier lab secrecy by openly publishing experiments on autonomous self-improvement and deceptive alignment.",
+              "url": "",
+              "bold": false,
+              "italic": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "While leading commercial labs like OpenAI and Anthropic increasingly keep dangerous capability evaluations locked behind nondisclosure agreements, a team of veteran researchers at Trillium Labs is pioneering an open-science alternative. By publicly documenting red-teaming tests around model self-improvement, recursive tool use, and emergent behavioral drift, Trillium aims to establish verifiable community benchmarks before autonomous agents achieve widespread enterprise autonomy.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Source: [WIRED Daily](https://www.wired.com/story/trillium-labs-wants-to-do-high-risk-ai-research-in-the-open)",
+              "url": "",
+              "bold": false,
+              "italic": true
+            }
+          ]
+        },
+        {
+          "type": "heading_2",
+          "runs": [
+            {
+              "text": "National Security & Surveillance Dragnet",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Massive Breach Compromises Full FBI Staff Database, Exposing Internal Hacking Squad",
+              "url": "",
+              "bold": true,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Hackers gain access to complete employment and spousal records across the federal law enforcement agency.",
+              "url": "",
+              "bold": false,
+              "italic": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "In one of the most severe intelligence breaches in recent history, cybercriminals successfully compromised a contractor database housing personnel files for all active Federal Bureau of Investigation employees and their spouses. The compromised cache includes home addresses, contact information, clearance levels, and operational rosters—inadvertently unmasking the identities of personnel assigned to the FBI’s clandestine cyber-warfare and hacking division. Although the perpetrators claim they will refrain from dumping the full archive publicly, national security analysts warn the exposure leaves federal agents and their households vulnerable to targeted foreign extortion.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Source: [404 Media](https://www.404media.co)",
+              "url": "",
+              "bold": false,
+              "italic": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Surveillance Vendors Lobby Police to Layer Facial Recognition Over Flock Camera Grid",
+              "url": "",
+              "bold": true,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Federal judges brand automated license plate reader networks unconstitutional dragnets as private contractors push biometric expansion.",
+              "url": "",
+              "bold": false,
+              "italic": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Despite a landmark federal court ruling declaring warrantless municipal Flock searches to be \"indiscriminate mass surveillance\" violating the Fourth Amendment, private surveillance firms are actively pitching law enforcement agencies on integrating live facial recognition into their automated license plate reader networks. The push would transform roadside cameras originally pitched for stolen-vehicle detection into a pervasive, real-time biometric tracking grid capable of mapping the movement of pedestrians and drivers nationwide.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Source: [404 Media](https://www.404media.co)",
+              "url": "",
+              "bold": false,
+              "italic": true
+            }
+          ]
+        },
+        {
+          "type": "heading_2",
+          "runs": [
+            {
+              "text": "Energy, Cloud & Frontier Science",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Rural AI Data Centers Slated for Federal Tax Windfall as Hyperscalers Hesitate",
+              "url": "",
+              "bold": true,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Provisions in the One Big Beautiful Bill Act offer tax credits to rural server farms despite fierce community resistance.",
+              "url": "",
+              "bold": false,
+              "italic": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Under newly enacted federal legislation, technology companies building data centers in rural American jurisdictions will become eligible for sweeping tax breaks starting next year. The subsidies are intended to distribute digital infrastructure away from saturated urban energy hubs. However, several hyperscale operators appear hesitant to claim the incentives, wary that moving into rural counties will spark intense grassroots backlash over soaring local electricity bills, depleted water tables, and municipal zoning moratoriums.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Source: [WIRED Daily](https://www.wired.com/story/rural-data-centers-are-in-for-a-big-federal-tax-break)",
+              "url": "",
+              "bold": false,
+              "italic": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Superpowers Accelerate Plans to Place Nuclear Fission Reactors on the Moon",
+              "url": "",
+              "bold": true,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "The U.S. and global rivals compete to power permanent lunar outposts through freezing two-week nights.",
+              "url": "",
+              "bold": false,
+              "italic": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "The renewed race for lunar colonization has triggered an urgent engineering sprint to deploy small nuclear reactors onto the moon's south pole. Because the lunar surface experiences continuous two-week nights where temperatures plunge to minus 200 degrees Fahrenheit, solar arrays cannot provide the continuous baseline power required for life support, oxygen production, and water ice harvesting. While NASA and international competitors advance reactor designs, space policy experts caution that deploying radioactive fuel into extraterrestrial orbit introduces unprecedented geopolitical and debris risks.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Source: [The New York Times](https://www.nytimes.com)",
+              "url": "",
+              "bold": false,
+              "italic": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Subterranean Geoneutrinos Map the Radioactive Engine of Earth’s Tectonic Core",
+              "url": "",
+              "bold": true,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Global particle detectors capture rare antineutrino emissions from mantle decay to solve long-standing geophysical mysteries.",
+              "url": "",
+              "bold": false,
+              "italic": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Physicists operating deep underground sensor networks have published the most precise measurements to date of geoneutrinos—nearly massless particles produced by the radioactive decay of uranium and thorium inside Earth’s interior. By mapping the directional flow of these elusive particles, geophysicists are constructing a real-time thermal map of the planet's mantle, providing direct observational evidence of the radioactive furnace that drives mantle convection, continental drift, and volcanic eruptions.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Source: [WIRED Daily](https://www.wired.com/story/elusive-geoneutrinos-are-building-a-new-map-of-earths-volatile-interior)",
+              "url": "",
+              "bold": false,
+              "italic": true
+            }
+          ]
+        },
+        {
+          "type": "heading_2",
+          "runs": [
+            {
+              "text": "Society, Culture & Geopolitics",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Predatory Oncology Clinics and the Cost of False Hope at Life’s End",
+              "url": "",
+              "bold": true,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "An investigative memoir examines how unregulated alternative medicine centers exploit terminal cancer patients.",
+              "url": "",
+              "bold": false,
+              "italic": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "In a harrowing look at end-of-life care, reporter Trisha Thadani chronicles her father Rajeev's battle with Stage 4 lung cancer and his journey into the lucrative world of alternative oncology. Targeted by search ads while researching survival odds, he eschewed conventional chemotherapy for an Arizona clinic promising non-toxic cures through hydrogen peroxide infusions and coffee enemas. The investigation illuminates how distrust of mainstream healthcare, combined with predatory online algorithms, leads families to exhaust life savings chasing miracles rather than finding closure.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Source: [The New York Times](https://www.nytimes.com)",
+              "url": "",
+              "bold": false,
+              "italic": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "*",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Evan Gershkovich’s Prison Memoir ",
+              "url": "",
+              "bold": false,
+              "italic": true
+            },
+            {
+              "text": "This Cursed Beautiful Land",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": " Examines Life Inside Lefortovo",
+              "url": "",
+              "bold": false,
+              "italic": true
+            },
+            {
+              "text": "*",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "The Wall Street Journal reporter reflects on surviving 16 months of solitary confinement and the psychological mechanics of the Russian penal system.",
+              "url": "",
+              "bold": false,
+              "italic": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Following his release in the largest East-West prisoner swap since the Cold War, journalist Evan Gershkovich has published a deeply reflective memoir of his detention on false espionage charges. Rather than focusing solely on his diplomatic ordeal, Gershkovich uses his journalistic instincts to study the inmates, guards, and historical ghosts of Moscow’s Lefortovo prison, offering an intimate post-mortem on modern authoritarian control and the voyeurism of political captivity.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Source: [The New York Times](https://www.nytimes.com)",
+              "url": "",
+              "bold": false,
+              "italic": true
+            }
+          ]
+        },
+        {
+          "type": "heading_2",
+          "runs": [
+            {
+              "text": "Radar & Quick Hits",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "OpenAI Sued Over Hugging Face Agent Incident",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": ": A California nonprofit has filed suit against OpenAI, seeking to hold the company legally accountable for security breaches carried out by autonomous software agents acting on external developer platforms (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "WIRED Daily",
+              "url": "https://www.wired.com/story/openai-sued-over-the-hugging-face-hack",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ").",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Cavan Sullivan’s Historic Strike",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": ": At 16 years old, American soccer prodigy Cavan Sullivan found the back of the net against Mexico, becoming the youngest player to score a goal in U.S. Men’s National Team history (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "The New York Times",
+              "url": "https://www.nytimes.com/",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ").",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Amazon Refreshes Kindle Lineup With Aluminum Frames",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": ": Marking two decades of e-readers, Amazon announced a ground-up redesign of its Paperwhite and Colorsoft devices, introducing lightweight metal bodies and faster page turns ahead of the holiday shopping season (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "WIRED Daily",
+              "url": "https://www.wired.com/story/amazon-kindle-paperwhite-colorsoft-2026-refresh",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ").",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Subculture Harmony in the Skies",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": ": Professional airline pilots who participate in the furry fandom pushed back against recent political attacks, asserting a firm boundary between private personal hobbies and rigorous cockpit professionalism (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "WIRED Daily",
+              "url": "https://www.wired.com/story/furry-airline-pilots-are-just-minding-their-own-business",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ").",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        }
+      ],
+      "publishedAt": "2026-10-04T12:31:00Z",
+      "links": [
+        {
+          "title": "The New York Times",
+          "url": "https://www.nytimes.com/"
+        },
+        {
+          "title": "WIRED Daily",
+          "url": "https://www.wired.com/story/amazon-kindle-paperwhite-colorsoft-2026-refresh"
+        },
+        {
+          "title": "404 Media",
+          "url": "https://www.404media.co/"
+        },
+        {
+          "title": "WIRED Daily",
+          "url": "https://www.wired.com/story/furry-airline-pilots-are-just-minding-their-own-business"
+        },
+        {
+          "title": "www.wired.com",
+          "url": "https://www.wired.com/story/muse-creates-detailed-profiles-of-all-your-friends-and-family"
+        },
+        {
+          "title": "www.404media.co",
+          "url": "https://www.404media.co"
+        },
+        {
+          "title": "www.wired.com",
+          "url": "https://www.wired.com/story/trillium-labs-wants-to-do-high-risk-ai-research-in-the-open"
+        },
+        {
+          "title": "www.wired.com",
+          "url": "https://www.wired.com/story/rural-data-centers-are-in-for-a-big-federal-tax-break"
+        },
+        {
+          "title": "www.nytimes.com",
+          "url": "https://www.nytimes.com"
+        },
+        {
+          "title": "www.wired.com",
+          "url": "https://www.wired.com/story/elusive-geoneutrinos-are-building-a-new-map-of-earths-volatile-interior"
+        },
+        {
+          "title": "WIRED Daily",
+          "url": "https://www.wired.com/story/openai-sued-over-the-hugging-face-hack"
+        }
+      ],
+      "versions": {
+        "morning": {
+          "body": "Sunday, October 4, 2026\n\nSunday’s dispatches capture an expanding tension between high-tech autonomy and the messy human vulnerabilities beneath the surface. In federal law enforcement and digital privacy, a massive cybersecurity breach has exposed identifying records for all FBI employees and their families, while Meta's consumer AI agent \"Muse\" is revealed to be compiling intimate dossiers on users' personal networks while quietly leaning on human contractors behind the curtain. On the policy frontier, rural data centers are slated for unprecedented federal tax handouts even as local communities revolt against the power grid strain, and space superpowers are accelerating plans to deploy nuclear fission reactors to the moon. Across culture and medicine, investigative reporting tracks how predatory wellness clinics exploit the dying with false hope, while freed journalist Evan Gershkovich chronicles his 16-month survival inside Moscow’s Lefortovo prison.\n\nToday's Numbers\n\n• 16 Months: The duration Wall Street Journal correspondent Evan Gershkovich was wrongfully imprisoned in Russia's Lefortovo prison before his release in a landmark prisoner swap, as recounted in his new memoir This Cursed Beautiful Land (The New York Times).\n\n• 14 Days: The length of continuous darkness during the lunar night cycle, compelling NASA and international rivals to accelerate development of compact nuclear fission reactors for permanent lunar habitats (The New York Times).\n\n• 16 Years Old: The age of American soccer prodigy Cavan Sullivan, who scored against Mexico to become the youngest goal scorer in U.S. Men's National Team history (The New York Times).\n\n• 20 Years: Decades elapsed since the debut of Amazon's Kindle e-reader, prompting an anniversary hardware redesign featuring thinner aluminum chassis and Colorsoft screens (WIRED).\n\n• 100%: The scope of FBI personnel and spousal records compromised in a massive federal cybersecurity breach, which inadvertently exposed the identities of the bureau’s elite internal hacking squad (404 Media).\n\nQuotes of the Day\n\n\"I get to see the system from the inside. I’m a reporter, after all — a voyeur — and this is the ultimate voyeurism.\"\n\n— Evan Gershkovich, Wall Street Journal foreign correspondent, on documenting Moscow's Lefortovo prison from within, via The New York Times.\n\n\"Hope is a delicate thing in the face of a fatal disease: It can give a patient like my dad the will to keep going, but it can also blur easily into false expectations and questionable decisions. Instead of chasing an elusive cure, I wish my dad had taken more time to say goodbye and celebrate a life well lived.\"\n\n— Trisha Thadani, investigating commercial alternative oncology clinics in The New York Times, via The Morning.\n\n\"We’re furries at home, and we’re airline pilots at work, and these are two separate things.\"\n\n— Anonymous commercial pilot, responding to political culture war rants targeting subcultures in aviation, via WIRED Daily.\n\nArtificial Intelligence & Digital Privacy\n\nMeta’s AI Agent “Muse” Compiles Intimate Social Dossiers While Quietly Relying on Humans\n\nConsumer AI adoption reveals deep surveillance trade-offs as autonomous agent capabilities remain propped up by hidden manual labor.\n\nMeta’s consumer-facing AI assistant Muse has surged in popularity across mobile app stores, but security investigations reveal that granting the agent permission to automate personal tasks comes at a severe privacy price. The software systematically constructs detailed psychological and biographical profiles of users' friends, family members, and colleagues based on ingested communications. Compounding user concerns, investigative reporting confirms that certain complex actions marketed as autonomous AI workflows are still routed to human contract workers behind the scenes, echoing classic Mechanical Turk dynamics under the guise of frontier intelligence.\n\nSource: [WIRED Daily](https://www.wired.com/story/muse-creates-detailed-profiles-of-all-your-friends-and-family) & [404 Media](https://www.404media.co)\n\nTrillium Labs Pushes High-Stakes Frontier AI Safety Research into the Open\n\nResearchers challenge frontier lab secrecy by openly publishing experiments on autonomous self-improvement and deceptive alignment.\n\nWhile leading commercial labs like OpenAI and Anthropic increasingly keep dangerous capability evaluations locked behind nondisclosure agreements, a team of veteran researchers at Trillium Labs is pioneering an open-science alternative. By publicly documenting red-teaming tests around model self-improvement, recursive tool use, and emergent behavioral drift, Trillium aims to establish verifiable community benchmarks before autonomous agents achieve widespread enterprise autonomy.\n\nSource: [WIRED Daily](https://www.wired.com/story/trillium-labs-wants-to-do-high-risk-ai-research-in-the-open)\n\nNational Security & Surveillance Dragnet\n\nMassive Breach Compromises Full FBI Staff Database, Exposing Internal Hacking Squad\n\nHackers gain access to complete employment and spousal records across the federal law enforcement agency.\n\nIn one of the most severe intelligence breaches in recent history, cybercriminals successfully compromised a contractor database housing personnel files for all active Federal Bureau of Investigation employees and their spouses. The compromised cache includes home addresses, contact information, clearance levels, and operational rosters—inadvertently unmasking the identities of personnel assigned to the FBI’s clandestine cyber-warfare and hacking division. Although the perpetrators claim they will refrain from dumping the full archive publicly, national security analysts warn the exposure leaves federal agents and their households vulnerable to targeted foreign extortion.\n\nSource: [404 Media](https://www.404media.co)\n\nSurveillance Vendors Lobby Police to Layer Facial Recognition Over Flock Camera Grid\n\nFederal judges brand automated license plate reader networks unconstitutional dragnets as private contractors push biometric expansion.\n\nDespite a landmark federal court ruling declaring warrantless municipal Flock searches to be \"indiscriminate mass surveillance\" violating the Fourth Amendment, private surveillance firms are actively pitching law enforcement agencies on integrating live facial recognition into their automated license plate reader networks. The push would transform roadside cameras originally pitched for stolen-vehicle detection into a pervasive, real-time biometric tracking grid capable of mapping the movement of pedestrians and drivers nationwide.\n\nSource: [404 Media](https://www.404media.co)\n\nEnergy, Cloud & Frontier Science\n\nRural AI Data Centers Slated for Federal Tax Windfall as Hyperscalers Hesitate\n\nProvisions in the One Big Beautiful Bill Act offer tax credits to rural server farms despite fierce community resistance.\n\nUnder newly enacted federal legislation, technology companies building data centers in rural American jurisdictions will become eligible for sweeping tax breaks starting next year. The subsidies are intended to distribute digital infrastructure away from saturated urban energy hubs. However, several hyperscale operators appear hesitant to claim the incentives, wary that moving into rural counties will spark intense grassroots backlash over soaring local electricity bills, depleted water tables, and municipal zoning moratoriums.\n\nSource: [WIRED Daily](https://www.wired.com/story/rural-data-centers-are-in-for-a-big-federal-tax-break)\n\nSuperpowers Accelerate Plans to Place Nuclear Fission Reactors on the Moon\n\nThe U.S. and global rivals compete to power permanent lunar outposts through freezing two-week nights.\n\nThe renewed race for lunar colonization has triggered an urgent engineering sprint to deploy small nuclear reactors onto the moon's south pole. Because the lunar surface experiences continuous two-week nights where temperatures plunge to minus 200 degrees Fahrenheit, solar arrays cannot provide the continuous baseline power required for life support, oxygen production, and water ice harvesting. While NASA and international competitors advance reactor designs, space policy experts caution that deploying radioactive fuel into extraterrestrial orbit introduces unprecedented geopolitical and debris risks.\n\nSource: [The New York Times](https://www.nytimes.com)\n\nSubterranean Geoneutrinos Map the Radioactive Engine of Earth’s Tectonic Core\n\nGlobal particle detectors capture rare antineutrino emissions from mantle decay to solve long-standing geophysical mysteries.\n\nPhysicists operating deep underground sensor networks have published the most precise measurements to date of geoneutrinos—nearly massless particles produced by the radioactive decay of uranium and thorium inside Earth’s interior. By mapping the directional flow of these elusive particles, geophysicists are constructing a real-time thermal map of the planet's mantle, providing direct observational evidence of the radioactive furnace that drives mantle convection, continental drift, and volcanic eruptions.\n\nSource: [WIRED Daily](https://www.wired.com/story/elusive-geoneutrinos-are-building-a-new-map-of-earths-volatile-interior)\n\nSociety, Culture & Geopolitics\n\nPredatory Oncology Clinics and the Cost of False Hope at Life’s End\n\nAn investigative memoir examines how unregulated alternative medicine centers exploit terminal cancer patients.\n\nIn a harrowing look at end-of-life care, reporter Trisha Thadani chronicles her father Rajeev's battle with Stage 4 lung cancer and his journey into the lucrative world of alternative oncology. Targeted by search ads while researching survival odds, he eschewed conventional chemotherapy for an Arizona clinic promising non-toxic cures through hydrogen peroxide infusions and coffee enemas. The investigation illuminates how distrust of mainstream healthcare, combined with predatory online algorithms, leads families to exhaust life savings chasing miracles rather than finding closure.\n\nSource: [The New York Times](https://www.nytimes.com)\n\n*Evan Gershkovich’s Prison Memoir This Cursed Beautiful Land Examines Life Inside Lefortovo*\n\nThe Wall Street Journal reporter reflects on surviving 16 months of solitary confinement and the psychological mechanics of the Russian penal system.\n\nFollowing his release in the largest East-West prisoner swap since the Cold War, journalist Evan Gershkovich has published a deeply reflective memoir of his detention on false espionage charges. Rather than focusing solely on his diplomatic ordeal, Gershkovich uses his journalistic instincts to study the inmates, guards, and historical ghosts of Moscow’s Lefortovo prison, offering an intimate post-mortem on modern authoritarian control and the voyeurism of political captivity.\n\nSource: [The New York Times](https://www.nytimes.com)\n\nRadar & Quick Hits\n\n• OpenAI Sued Over Hugging Face Agent Incident: A California nonprofit has filed suit against OpenAI, seeking to hold the company legally accountable for security breaches carried out by autonomous software agents acting on external developer platforms (WIRED Daily).\n\n• Cavan Sullivan’s Historic Strike: At 16 years old, American soccer prodigy Cavan Sullivan found the back of the net against Mexico, becoming the youngest player to score a goal in U.S. Men’s National Team history (The New York Times).\n\n• Amazon Refreshes Kindle Lineup With Aluminum Frames: Marking two decades of e-readers, Amazon announced a ground-up redesign of its Paperwhite and Colorsoft devices, introducing lightweight metal bodies and faster page turns ahead of the holiday shopping season (WIRED Daily).\n\n• Subculture Harmony in the Skies: Professional airline pilots who participate in the furry fandom pushed back against recent political attacks, asserting a firm boundary between private personal hobbies and rigorous cockpit professionalism (WIRED Daily).",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Sunday, October 4, 2026",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Sunday’s dispatches capture an expanding tension between high-tech autonomy and the messy human vulnerabilities beneath the surface. In federal law enforcement and digital privacy, a massive cybersecurity breach has exposed identifying records for all FBI employees and their families, while Meta's consumer AI agent \"Muse\" is revealed to be compiling intimate dossiers on users' personal networks while quietly leaning on human contractors behind the curtain. On the policy frontier, rural data centers are slated for unprecedented federal tax handouts even as local communities revolt against the power grid strain, and space superpowers are accelerating plans to deploy nuclear fission reactors to the moon. Across culture and medicine, investigative reporting tracks how predatory wellness clinics exploit the dying with false hope, while freed journalist Evan Gershkovich chronicles his 16-month survival inside Moscow’s Lefortovo prison.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "heading_2",
+              "runs": [
+                {
+                  "text": "Today's Numbers",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "16 Months",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": The duration Wall Street Journal correspondent Evan Gershkovich was wrongfully imprisoned in Russia's Lefortovo prison before his release in a landmark prisoner swap, as recounted in his new memoir ",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "This Cursed Beautiful Land",
+                  "url": "",
+                  "bold": false,
+                  "italic": true
+                },
+                {
+                  "text": " (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "The New York Times",
+                  "url": "https://www.nytimes.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ").",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "14 Days",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": The length of continuous darkness during the lunar night cycle, compelling NASA and international rivals to accelerate development of compact nuclear fission reactors for permanent lunar habitats (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "The New York Times",
+                  "url": "https://www.nytimes.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ").",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "16 Years Old",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": The age of American soccer prodigy Cavan Sullivan, who scored against Mexico to become the youngest goal scorer in U.S. Men's National Team history (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "The New York Times",
+                  "url": "https://www.nytimes.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ").",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "20 Years",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": Decades elapsed since the debut of Amazon's Kindle e-reader, prompting an anniversary hardware redesign featuring thinner aluminum chassis and Colorsoft screens (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "WIRED",
+                  "url": "https://www.wired.com/story/amazon-kindle-paperwhite-colorsoft-2026-refresh",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ").",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "100%",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": The scope of FBI personnel and spousal records compromised in a massive federal cybersecurity breach, which inadvertently exposed the identities of the bureau’s elite internal hacking squad (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "404 Media",
+                  "url": "https://www.404media.co/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ").",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "heading_2",
+              "runs": [
+                {
+                  "text": "Quotes of the Day",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "quote",
+              "runs": [
+                {
+                  "text": "\"I get to see the system from the inside. I’m a reporter, after all — a voyeur — and this is the ultimate voyeurism.\"",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "quote",
+              "runs": [
+                {
+                  "text": "— ",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Evan Gershkovich",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ", Wall Street Journal foreign correspondent, on documenting Moscow's Lefortovo prison from within, via ",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "The New York Times",
+                  "url": "https://www.nytimes.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ".",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "quote",
+              "runs": [
+                {
+                  "text": "\"Hope is a delicate thing in the face of a fatal disease: It can give a patient like my dad the will to keep going, but it can also blur easily into false expectations and questionable decisions. Instead of chasing an elusive cure, I wish my dad had taken more time to say goodbye and celebrate a life well lived.\"",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "quote",
+              "runs": [
+                {
+                  "text": "— ",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Trisha Thadani",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ", investigating commercial alternative oncology clinics in ",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "The New York Times",
+                  "url": "",
+                  "bold": false,
+                  "italic": true
+                },
+                {
+                  "text": ", via ",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "The Morning",
+                  "url": "https://www.nytimes.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ".",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "quote",
+              "runs": [
+                {
+                  "text": "\"We’re furries at home, and we’re airline pilots at work, and these are two separate things.\"",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "quote",
+              "runs": [
+                {
+                  "text": "— ",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Anonymous commercial pilot",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ", responding to political culture war rants targeting subcultures in aviation, via ",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "WIRED Daily",
+                  "url": "https://www.wired.com/story/furry-airline-pilots-are-just-minding-their-own-business",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ".",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "heading_2",
+              "runs": [
+                {
+                  "text": "Artificial Intelligence & Digital Privacy",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Meta’s AI Agent “Muse” Compiles Intimate Social Dossiers While Quietly Relying on Humans",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Consumer AI adoption reveals deep surveillance trade-offs as autonomous agent capabilities remain propped up by hidden manual labor.",
+                  "url": "",
+                  "bold": false,
+                  "italic": true
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Meta’s consumer-facing AI assistant Muse has surged in popularity across mobile app stores, but security investigations reveal that granting the agent permission to automate personal tasks comes at a severe privacy price. The software systematically constructs detailed psychological and biographical profiles of users' friends, family members, and colleagues based on ingested communications. Compounding user concerns, investigative reporting confirms that certain complex actions marketed as autonomous AI workflows are still routed to human contract workers behind the scenes, echoing classic Mechanical Turk dynamics under the guise of frontier intelligence.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Source: [WIRED Daily](https://www.wired.com/story/muse-creates-detailed-profiles-of-all-your-friends-and-family) & [404 Media](https://www.404media.co)",
+                  "url": "",
+                  "bold": false,
+                  "italic": true
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Trillium Labs Pushes High-Stakes Frontier AI Safety Research into the Open",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Researchers challenge frontier lab secrecy by openly publishing experiments on autonomous self-improvement and deceptive alignment.",
+                  "url": "",
+                  "bold": false,
+                  "italic": true
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "While leading commercial labs like OpenAI and Anthropic increasingly keep dangerous capability evaluations locked behind nondisclosure agreements, a team of veteran researchers at Trillium Labs is pioneering an open-science alternative. By publicly documenting red-teaming tests around model self-improvement, recursive tool use, and emergent behavioral drift, Trillium aims to establish verifiable community benchmarks before autonomous agents achieve widespread enterprise autonomy.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Source: [WIRED Daily](https://www.wired.com/story/trillium-labs-wants-to-do-high-risk-ai-research-in-the-open)",
+                  "url": "",
+                  "bold": false,
+                  "italic": true
+                }
+              ]
+            },
+            {
+              "type": "heading_2",
+              "runs": [
+                {
+                  "text": "National Security & Surveillance Dragnet",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Massive Breach Compromises Full FBI Staff Database, Exposing Internal Hacking Squad",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Hackers gain access to complete employment and spousal records across the federal law enforcement agency.",
+                  "url": "",
+                  "bold": false,
+                  "italic": true
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "In one of the most severe intelligence breaches in recent history, cybercriminals successfully compromised a contractor database housing personnel files for all active Federal Bureau of Investigation employees and their spouses. The compromised cache includes home addresses, contact information, clearance levels, and operational rosters—inadvertently unmasking the identities of personnel assigned to the FBI’s clandestine cyber-warfare and hacking division. Although the perpetrators claim they will refrain from dumping the full archive publicly, national security analysts warn the exposure leaves federal agents and their households vulnerable to targeted foreign extortion.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Source: [404 Media](https://www.404media.co)",
+                  "url": "",
+                  "bold": false,
+                  "italic": true
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Surveillance Vendors Lobby Police to Layer Facial Recognition Over Flock Camera Grid",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Federal judges brand automated license plate reader networks unconstitutional dragnets as private contractors push biometric expansion.",
+                  "url": "",
+                  "bold": false,
+                  "italic": true
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Despite a landmark federal court ruling declaring warrantless municipal Flock searches to be \"indiscriminate mass surveillance\" violating the Fourth Amendment, private surveillance firms are actively pitching law enforcement agencies on integrating live facial recognition into their automated license plate reader networks. The push would transform roadside cameras originally pitched for stolen-vehicle detection into a pervasive, real-time biometric tracking grid capable of mapping the movement of pedestrians and drivers nationwide.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Source: [404 Media](https://www.404media.co)",
+                  "url": "",
+                  "bold": false,
+                  "italic": true
+                }
+              ]
+            },
+            {
+              "type": "heading_2",
+              "runs": [
+                {
+                  "text": "Energy, Cloud & Frontier Science",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Rural AI Data Centers Slated for Federal Tax Windfall as Hyperscalers Hesitate",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Provisions in the One Big Beautiful Bill Act offer tax credits to rural server farms despite fierce community resistance.",
+                  "url": "",
+                  "bold": false,
+                  "italic": true
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Under newly enacted federal legislation, technology companies building data centers in rural American jurisdictions will become eligible for sweeping tax breaks starting next year. The subsidies are intended to distribute digital infrastructure away from saturated urban energy hubs. However, several hyperscale operators appear hesitant to claim the incentives, wary that moving into rural counties will spark intense grassroots backlash over soaring local electricity bills, depleted water tables, and municipal zoning moratoriums.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Source: [WIRED Daily](https://www.wired.com/story/rural-data-centers-are-in-for-a-big-federal-tax-break)",
+                  "url": "",
+                  "bold": false,
+                  "italic": true
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Superpowers Accelerate Plans to Place Nuclear Fission Reactors on the Moon",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "The U.S. and global rivals compete to power permanent lunar outposts through freezing two-week nights.",
+                  "url": "",
+                  "bold": false,
+                  "italic": true
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "The renewed race for lunar colonization has triggered an urgent engineering sprint to deploy small nuclear reactors onto the moon's south pole. Because the lunar surface experiences continuous two-week nights where temperatures plunge to minus 200 degrees Fahrenheit, solar arrays cannot provide the continuous baseline power required for life support, oxygen production, and water ice harvesting. While NASA and international competitors advance reactor designs, space policy experts caution that deploying radioactive fuel into extraterrestrial orbit introduces unprecedented geopolitical and debris risks.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Source: [The New York Times](https://www.nytimes.com)",
+                  "url": "",
+                  "bold": false,
+                  "italic": true
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Subterranean Geoneutrinos Map the Radioactive Engine of Earth’s Tectonic Core",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Global particle detectors capture rare antineutrino emissions from mantle decay to solve long-standing geophysical mysteries.",
+                  "url": "",
+                  "bold": false,
+                  "italic": true
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Physicists operating deep underground sensor networks have published the most precise measurements to date of geoneutrinos—nearly massless particles produced by the radioactive decay of uranium and thorium inside Earth’s interior. By mapping the directional flow of these elusive particles, geophysicists are constructing a real-time thermal map of the planet's mantle, providing direct observational evidence of the radioactive furnace that drives mantle convection, continental drift, and volcanic eruptions.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Source: [WIRED Daily](https://www.wired.com/story/elusive-geoneutrinos-are-building-a-new-map-of-earths-volatile-interior)",
+                  "url": "",
+                  "bold": false,
+                  "italic": true
+                }
+              ]
+            },
+            {
+              "type": "heading_2",
+              "runs": [
+                {
+                  "text": "Society, Culture & Geopolitics",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Predatory Oncology Clinics and the Cost of False Hope at Life’s End",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "An investigative memoir examines how unregulated alternative medicine centers exploit terminal cancer patients.",
+                  "url": "",
+                  "bold": false,
+                  "italic": true
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "In a harrowing look at end-of-life care, reporter Trisha Thadani chronicles her father Rajeev's battle with Stage 4 lung cancer and his journey into the lucrative world of alternative oncology. Targeted by search ads while researching survival odds, he eschewed conventional chemotherapy for an Arizona clinic promising non-toxic cures through hydrogen peroxide infusions and coffee enemas. The investigation illuminates how distrust of mainstream healthcare, combined with predatory online algorithms, leads families to exhaust life savings chasing miracles rather than finding closure.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Source: [The New York Times](https://www.nytimes.com)",
+                  "url": "",
+                  "bold": false,
+                  "italic": true
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "*",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Evan Gershkovich’s Prison Memoir ",
+                  "url": "",
+                  "bold": false,
+                  "italic": true
+                },
+                {
+                  "text": "This Cursed Beautiful Land",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": " Examines Life Inside Lefortovo",
+                  "url": "",
+                  "bold": false,
+                  "italic": true
+                },
+                {
+                  "text": "*",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "The Wall Street Journal reporter reflects on surviving 16 months of solitary confinement and the psychological mechanics of the Russian penal system.",
+                  "url": "",
+                  "bold": false,
+                  "italic": true
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Following his release in the largest East-West prisoner swap since the Cold War, journalist Evan Gershkovich has published a deeply reflective memoir of his detention on false espionage charges. Rather than focusing solely on his diplomatic ordeal, Gershkovich uses his journalistic instincts to study the inmates, guards, and historical ghosts of Moscow’s Lefortovo prison, offering an intimate post-mortem on modern authoritarian control and the voyeurism of political captivity.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Source: [The New York Times](https://www.nytimes.com)",
+                  "url": "",
+                  "bold": false,
+                  "italic": true
+                }
+              ]
+            },
+            {
+              "type": "heading_2",
+              "runs": [
+                {
+                  "text": "Radar & Quick Hits",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "OpenAI Sued Over Hugging Face Agent Incident",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": A California nonprofit has filed suit against OpenAI, seeking to hold the company legally accountable for security breaches carried out by autonomous software agents acting on external developer platforms (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "WIRED Daily",
+                  "url": "https://www.wired.com/story/openai-sued-over-the-hugging-face-hack",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ").",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Cavan Sullivan’s Historic Strike",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": At 16 years old, American soccer prodigy Cavan Sullivan found the back of the net against Mexico, becoming the youngest player to score a goal in U.S. Men’s National Team history (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "The New York Times",
+                  "url": "https://www.nytimes.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ").",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Amazon Refreshes Kindle Lineup With Aluminum Frames",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": Marking two decades of e-readers, Amazon announced a ground-up redesign of its Paperwhite and Colorsoft devices, introducing lightweight metal bodies and faster page turns ahead of the holiday shopping season (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "WIRED Daily",
+                  "url": "https://www.wired.com/story/amazon-kindle-paperwhite-colorsoft-2026-refresh",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ").",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Subculture Harmony in the Skies",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": Professional airline pilots who participate in the furry fandom pushed back against recent political attacks, asserting a firm boundary between private personal hobbies and rigorous cockpit professionalism (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "WIRED Daily",
+                  "url": "https://www.wired.com/story/furry-airline-pilots-are-just-minding-their-own-business",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ").",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            }
+          ],
+          "links": [
+            {
+              "title": "The New York Times",
+              "url": "https://www.nytimes.com/"
+            },
+            {
+              "title": "WIRED Daily",
+              "url": "https://www.wired.com/story/amazon-kindle-paperwhite-colorsoft-2026-refresh"
+            },
+            {
+              "title": "404 Media",
+              "url": "https://www.404media.co/"
+            },
+            {
+              "title": "WIRED Daily",
+              "url": "https://www.wired.com/story/furry-airline-pilots-are-just-minding-their-own-business"
+            },
+            {
+              "title": "www.wired.com",
+              "url": "https://www.wired.com/story/muse-creates-detailed-profiles-of-all-your-friends-and-family"
+            },
+            {
+              "title": "www.404media.co",
+              "url": "https://www.404media.co"
+            },
+            {
+              "title": "www.wired.com",
+              "url": "https://www.wired.com/story/trillium-labs-wants-to-do-high-risk-ai-research-in-the-open"
+            },
+            {
+              "title": "www.wired.com",
+              "url": "https://www.wired.com/story/rural-data-centers-are-in-for-a-big-federal-tax-break"
+            },
+            {
+              "title": "www.nytimes.com",
+              "url": "https://www.nytimes.com"
+            },
+            {
+              "title": "www.wired.com",
+              "url": "https://www.wired.com/story/elusive-geoneutrinos-are-building-a-new-map-of-earths-volatile-interior"
+            },
+            {
+              "title": "WIRED Daily",
+              "url": "https://www.wired.com/story/openai-sued-over-the-hugging-face-hack"
+            }
+          ]
+        },
+        "full": {
+          "body": "Sunday, October 4, 2026\n\nSunday’s dispatches capture an expanding tension between high-tech autonomy and the messy human vulnerabilities beneath the surface. In federal law enforcement and digital privacy, a massive cybersecurity breach has exposed identifying records for all FBI employees and their families, while Meta's consumer AI agent \"Muse\" is revealed to be compiling intimate dossiers on users' personal networks while quietly leaning on human contractors behind the curtain. On the policy frontier, rural data centers are slated for unprecedented federal tax handouts even as local communities revolt against the power grid strain, and space superpowers are accelerating plans to deploy nuclear fission reactors to the moon. Across culture and medicine, investigative reporting tracks how predatory wellness clinics exploit the dying with false hope, while freed journalist Evan Gershkovich chronicles his 16-month survival inside Moscow’s Lefortovo prison.\n\nToday's Numbers\n\n• 16 Months: The duration Wall Street Journal correspondent Evan Gershkovich was wrongfully imprisoned in Russia's Lefortovo prison before his release in a landmark prisoner swap, as recounted in his new memoir This Cursed Beautiful Land (The New York Times).\n\n• 14 Days: The length of continuous darkness during the lunar night cycle, compelling NASA and international rivals to accelerate development of compact nuclear fission reactors for permanent lunar habitats (The New York Times).\n\n• 16 Years Old: The age of American soccer prodigy Cavan Sullivan, who scored against Mexico to become the youngest goal scorer in U.S. Men's National Team history (The New York Times).\n\n• 20 Years: Decades elapsed since the debut of Amazon's Kindle e-reader, prompting an anniversary hardware redesign featuring thinner aluminum chassis and Colorsoft screens (WIRED).\n\n• 100%: The scope of FBI personnel and spousal records compromised in a massive federal cybersecurity breach, which inadvertently exposed the identities of the bureau’s elite internal hacking squad (404 Media).\n\nQuotes of the Day\n\n\"I get to see the system from the inside. I’m a reporter, after all — a voyeur — and this is the ultimate voyeurism.\"\n\n— Evan Gershkovich, Wall Street Journal foreign correspondent, on documenting Moscow's Lefortovo prison from within, via The New York Times.\n\n\"Hope is a delicate thing in the face of a fatal disease: It can give a patient like my dad the will to keep going, but it can also blur easily into false expectations and questionable decisions. Instead of chasing an elusive cure, I wish my dad had taken more time to say goodbye and celebrate a life well lived.\"\n\n— Trisha Thadani, investigating commercial alternative oncology clinics in The New York Times, via The Morning.\n\n\"We’re furries at home, and we’re airline pilots at work, and these are two separate things.\"\n\n— Anonymous commercial pilot, responding to political culture war rants targeting subcultures in aviation, via WIRED Daily.\n\nArtificial Intelligence & Digital Privacy\n\nMeta’s AI Agent “Muse” Compiles Intimate Social Dossiers While Quietly Relying on Humans\n\nConsumer AI adoption reveals deep surveillance trade-offs as autonomous agent capabilities remain propped up by hidden manual labor.\n\nMeta’s consumer-facing AI assistant Muse has surged in popularity across mobile app stores, but security investigations reveal that granting the agent permission to automate personal tasks comes at a severe privacy price. The software systematically constructs detailed psychological and biographical profiles of users' friends, family members, and colleagues based on ingested communications. Compounding user concerns, investigative reporting confirms that certain complex actions marketed as autonomous AI workflows are still routed to human contract workers behind the scenes, echoing classic Mechanical Turk dynamics under the guise of frontier intelligence.\n\nSource: [WIRED Daily](https://www.wired.com/story/muse-creates-detailed-profiles-of-all-your-friends-and-family) & [404 Media](https://www.404media.co)\n\nTrillium Labs Pushes High-Stakes Frontier AI Safety Research into the Open\n\nResearchers challenge frontier lab secrecy by openly publishing experiments on autonomous self-improvement and deceptive alignment.\n\nWhile leading commercial labs like OpenAI and Anthropic increasingly keep dangerous capability evaluations locked behind nondisclosure agreements, a team of veteran researchers at Trillium Labs is pioneering an open-science alternative. By publicly documenting red-teaming tests around model self-improvement, recursive tool use, and emergent behavioral drift, Trillium aims to establish verifiable community benchmarks before autonomous agents achieve widespread enterprise autonomy.\n\nSource: [WIRED Daily](https://www.wired.com/story/trillium-labs-wants-to-do-high-risk-ai-research-in-the-open)\n\nNational Security & Surveillance Dragnet\n\nMassive Breach Compromises Full FBI Staff Database, Exposing Internal Hacking Squad\n\nHackers gain access to complete employment and spousal records across the federal law enforcement agency.\n\nIn one of the most severe intelligence breaches in recent history, cybercriminals successfully compromised a contractor database housing personnel files for all active Federal Bureau of Investigation employees and their spouses. The compromised cache includes home addresses, contact information, clearance levels, and operational rosters—inadvertently unmasking the identities of personnel assigned to the FBI’s clandestine cyber-warfare and hacking division. Although the perpetrators claim they will refrain from dumping the full archive publicly, national security analysts warn the exposure leaves federal agents and their households vulnerable to targeted foreign extortion.\n\nSource: [404 Media](https://www.404media.co)\n\nSurveillance Vendors Lobby Police to Layer Facial Recognition Over Flock Camera Grid\n\nFederal judges brand automated license plate reader networks unconstitutional dragnets as private contractors push biometric expansion.\n\nDespite a landmark federal court ruling declaring warrantless municipal Flock searches to be \"indiscriminate mass surveillance\" violating the Fourth Amendment, private surveillance firms are actively pitching law enforcement agencies on integrating live facial recognition into their automated license plate reader networks. The push would transform roadside cameras originally pitched for stolen-vehicle detection into a pervasive, real-time biometric tracking grid capable of mapping the movement of pedestrians and drivers nationwide.\n\nSource: [404 Media](https://www.404media.co)\n\nEnergy, Cloud & Frontier Science\n\nRural AI Data Centers Slated for Federal Tax Windfall as Hyperscalers Hesitate\n\nProvisions in the One Big Beautiful Bill Act offer tax credits to rural server farms despite fierce community resistance.\n\nUnder newly enacted federal legislation, technology companies building data centers in rural American jurisdictions will become eligible for sweeping tax breaks starting next year. The subsidies are intended to distribute digital infrastructure away from saturated urban energy hubs. However, several hyperscale operators appear hesitant to claim the incentives, wary that moving into rural counties will spark intense grassroots backlash over soaring local electricity bills, depleted water tables, and municipal zoning moratoriums.\n\nSource: [WIRED Daily](https://www.wired.com/story/rural-data-centers-are-in-for-a-big-federal-tax-break)\n\nSuperpowers Accelerate Plans to Place Nuclear Fission Reactors on the Moon\n\nThe U.S. and global rivals compete to power permanent lunar outposts through freezing two-week nights.\n\nThe renewed race for lunar colonization has triggered an urgent engineering sprint to deploy small nuclear reactors onto the moon's south pole. Because the lunar surface experiences continuous two-week nights where temperatures plunge to minus 200 degrees Fahrenheit, solar arrays cannot provide the continuous baseline power required for life support, oxygen production, and water ice harvesting. While NASA and international competitors advance reactor designs, space policy experts caution that deploying radioactive fuel into extraterrestrial orbit introduces unprecedented geopolitical and debris risks.\n\nSource: [The New York Times](https://www.nytimes.com)\n\nSubterranean Geoneutrinos Map the Radioactive Engine of Earth’s Tectonic Core\n\nGlobal particle detectors capture rare antineutrino emissions from mantle decay to solve long-standing geophysical mysteries.\n\nPhysicists operating deep underground sensor networks have published the most precise measurements to date of geoneutrinos—nearly massless particles produced by the radioactive decay of uranium and thorium inside Earth’s interior. By mapping the directional flow of these elusive particles, geophysicists are constructing a real-time thermal map of the planet's mantle, providing direct observational evidence of the radioactive furnace that drives mantle convection, continental drift, and volcanic eruptions.\n\nSource: [WIRED Daily](https://www.wired.com/story/elusive-geoneutrinos-are-building-a-new-map-of-earths-volatile-interior)\n\nSociety, Culture & Geopolitics\n\nPredatory Oncology Clinics and the Cost of False Hope at Life’s End\n\nAn investigative memoir examines how unregulated alternative medicine centers exploit terminal cancer patients.\n\nIn a harrowing look at end-of-life care, reporter Trisha Thadani chronicles her father Rajeev's battle with Stage 4 lung cancer and his journey into the lucrative world of alternative oncology. Targeted by search ads while researching survival odds, he eschewed conventional chemotherapy for an Arizona clinic promising non-toxic cures through hydrogen peroxide infusions and coffee enemas. The investigation illuminates how distrust of mainstream healthcare, combined with predatory online algorithms, leads families to exhaust life savings chasing miracles rather than finding closure.\n\nSource: [The New York Times](https://www.nytimes.com)\n\n*Evan Gershkovich’s Prison Memoir This Cursed Beautiful Land Examines Life Inside Lefortovo*\n\nThe Wall Street Journal reporter reflects on surviving 16 months of solitary confinement and the psychological mechanics of the Russian penal system.\n\nFollowing his release in the largest East-West prisoner swap since the Cold War, journalist Evan Gershkovich has published a deeply reflective memoir of his detention on false espionage charges. Rather than focusing solely on his diplomatic ordeal, Gershkovich uses his journalistic instincts to study the inmates, guards, and historical ghosts of Moscow’s Lefortovo prison, offering an intimate post-mortem on modern authoritarian control and the voyeurism of political captivity.\n\nSource: [The New York Times](https://www.nytimes.com)\n\nRadar & Quick Hits\n\n• OpenAI Sued Over Hugging Face Agent Incident: A California nonprofit has filed suit against OpenAI, seeking to hold the company legally accountable for security breaches carried out by autonomous software agents acting on external developer platforms (WIRED Daily).\n\n• Cavan Sullivan’s Historic Strike: At 16 years old, American soccer prodigy Cavan Sullivan found the back of the net against Mexico, becoming the youngest player to score a goal in U.S. Men’s National Team history (The New York Times).\n\n• Amazon Refreshes Kindle Lineup With Aluminum Frames: Marking two decades of e-readers, Amazon announced a ground-up redesign of its Paperwhite and Colorsoft devices, introducing lightweight metal bodies and faster page turns ahead of the holiday shopping season (WIRED Daily).\n\n• Subculture Harmony in the Skies: Professional airline pilots who participate in the furry fandom pushed back against recent political attacks, asserting a firm boundary between private personal hobbies and rigorous cockpit professionalism (WIRED Daily).",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Sunday, October 4, 2026",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Sunday’s dispatches capture an expanding tension between high-tech autonomy and the messy human vulnerabilities beneath the surface. In federal law enforcement and digital privacy, a massive cybersecurity breach has exposed identifying records for all FBI employees and their families, while Meta's consumer AI agent \"Muse\" is revealed to be compiling intimate dossiers on users' personal networks while quietly leaning on human contractors behind the curtain. On the policy frontier, rural data centers are slated for unprecedented federal tax handouts even as local communities revolt against the power grid strain, and space superpowers are accelerating plans to deploy nuclear fission reactors to the moon. Across culture and medicine, investigative reporting tracks how predatory wellness clinics exploit the dying with false hope, while freed journalist Evan Gershkovich chronicles his 16-month survival inside Moscow’s Lefortovo prison.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "heading_2",
+              "runs": [
+                {
+                  "text": "Today's Numbers",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "16 Months",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": The duration Wall Street Journal correspondent Evan Gershkovich was wrongfully imprisoned in Russia's Lefortovo prison before his release in a landmark prisoner swap, as recounted in his new memoir ",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "This Cursed Beautiful Land",
+                  "url": "",
+                  "bold": false,
+                  "italic": true
+                },
+                {
+                  "text": " (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "The New York Times",
+                  "url": "https://www.nytimes.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ").",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "14 Days",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": The length of continuous darkness during the lunar night cycle, compelling NASA and international rivals to accelerate development of compact nuclear fission reactors for permanent lunar habitats (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "The New York Times",
+                  "url": "https://www.nytimes.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ").",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "16 Years Old",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": The age of American soccer prodigy Cavan Sullivan, who scored against Mexico to become the youngest goal scorer in U.S. Men's National Team history (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "The New York Times",
+                  "url": "https://www.nytimes.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ").",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "20 Years",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": Decades elapsed since the debut of Amazon's Kindle e-reader, prompting an anniversary hardware redesign featuring thinner aluminum chassis and Colorsoft screens (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "WIRED",
+                  "url": "https://www.wired.com/story/amazon-kindle-paperwhite-colorsoft-2026-refresh",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ").",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "100%",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": The scope of FBI personnel and spousal records compromised in a massive federal cybersecurity breach, which inadvertently exposed the identities of the bureau’s elite internal hacking squad (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "404 Media",
+                  "url": "https://www.404media.co/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ").",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "heading_2",
+              "runs": [
+                {
+                  "text": "Quotes of the Day",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "quote",
+              "runs": [
+                {
+                  "text": "\"I get to see the system from the inside. I’m a reporter, after all — a voyeur — and this is the ultimate voyeurism.\"",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "quote",
+              "runs": [
+                {
+                  "text": "— ",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Evan Gershkovich",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ", Wall Street Journal foreign correspondent, on documenting Moscow's Lefortovo prison from within, via ",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "The New York Times",
+                  "url": "https://www.nytimes.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ".",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "quote",
+              "runs": [
+                {
+                  "text": "\"Hope is a delicate thing in the face of a fatal disease: It can give a patient like my dad the will to keep going, but it can also blur easily into false expectations and questionable decisions. Instead of chasing an elusive cure, I wish my dad had taken more time to say goodbye and celebrate a life well lived.\"",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "quote",
+              "runs": [
+                {
+                  "text": "— ",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Trisha Thadani",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ", investigating commercial alternative oncology clinics in ",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "The New York Times",
+                  "url": "",
+                  "bold": false,
+                  "italic": true
+                },
+                {
+                  "text": ", via ",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "The Morning",
+                  "url": "https://www.nytimes.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ".",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "quote",
+              "runs": [
+                {
+                  "text": "\"We’re furries at home, and we’re airline pilots at work, and these are two separate things.\"",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "quote",
+              "runs": [
+                {
+                  "text": "— ",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Anonymous commercial pilot",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ", responding to political culture war rants targeting subcultures in aviation, via ",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "WIRED Daily",
+                  "url": "https://www.wired.com/story/furry-airline-pilots-are-just-minding-their-own-business",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ".",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "heading_2",
+              "runs": [
+                {
+                  "text": "Artificial Intelligence & Digital Privacy",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Meta’s AI Agent “Muse” Compiles Intimate Social Dossiers While Quietly Relying on Humans",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Consumer AI adoption reveals deep surveillance trade-offs as autonomous agent capabilities remain propped up by hidden manual labor.",
+                  "url": "",
+                  "bold": false,
+                  "italic": true
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Meta’s consumer-facing AI assistant Muse has surged in popularity across mobile app stores, but security investigations reveal that granting the agent permission to automate personal tasks comes at a severe privacy price. The software systematically constructs detailed psychological and biographical profiles of users' friends, family members, and colleagues based on ingested communications. Compounding user concerns, investigative reporting confirms that certain complex actions marketed as autonomous AI workflows are still routed to human contract workers behind the scenes, echoing classic Mechanical Turk dynamics under the guise of frontier intelligence.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Source: [WIRED Daily](https://www.wired.com/story/muse-creates-detailed-profiles-of-all-your-friends-and-family) & [404 Media](https://www.404media.co)",
+                  "url": "",
+                  "bold": false,
+                  "italic": true
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Trillium Labs Pushes High-Stakes Frontier AI Safety Research into the Open",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Researchers challenge frontier lab secrecy by openly publishing experiments on autonomous self-improvement and deceptive alignment.",
+                  "url": "",
+                  "bold": false,
+                  "italic": true
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "While leading commercial labs like OpenAI and Anthropic increasingly keep dangerous capability evaluations locked behind nondisclosure agreements, a team of veteran researchers at Trillium Labs is pioneering an open-science alternative. By publicly documenting red-teaming tests around model self-improvement, recursive tool use, and emergent behavioral drift, Trillium aims to establish verifiable community benchmarks before autonomous agents achieve widespread enterprise autonomy.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Source: [WIRED Daily](https://www.wired.com/story/trillium-labs-wants-to-do-high-risk-ai-research-in-the-open)",
+                  "url": "",
+                  "bold": false,
+                  "italic": true
+                }
+              ]
+            },
+            {
+              "type": "heading_2",
+              "runs": [
+                {
+                  "text": "National Security & Surveillance Dragnet",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Massive Breach Compromises Full FBI Staff Database, Exposing Internal Hacking Squad",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Hackers gain access to complete employment and spousal records across the federal law enforcement agency.",
+                  "url": "",
+                  "bold": false,
+                  "italic": true
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "In one of the most severe intelligence breaches in recent history, cybercriminals successfully compromised a contractor database housing personnel files for all active Federal Bureau of Investigation employees and their spouses. The compromised cache includes home addresses, contact information, clearance levels, and operational rosters—inadvertently unmasking the identities of personnel assigned to the FBI’s clandestine cyber-warfare and hacking division. Although the perpetrators claim they will refrain from dumping the full archive publicly, national security analysts warn the exposure leaves federal agents and their households vulnerable to targeted foreign extortion.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Source: [404 Media](https://www.404media.co)",
+                  "url": "",
+                  "bold": false,
+                  "italic": true
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Surveillance Vendors Lobby Police to Layer Facial Recognition Over Flock Camera Grid",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Federal judges brand automated license plate reader networks unconstitutional dragnets as private contractors push biometric expansion.",
+                  "url": "",
+                  "bold": false,
+                  "italic": true
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Despite a landmark federal court ruling declaring warrantless municipal Flock searches to be \"indiscriminate mass surveillance\" violating the Fourth Amendment, private surveillance firms are actively pitching law enforcement agencies on integrating live facial recognition into their automated license plate reader networks. The push would transform roadside cameras originally pitched for stolen-vehicle detection into a pervasive, real-time biometric tracking grid capable of mapping the movement of pedestrians and drivers nationwide.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Source: [404 Media](https://www.404media.co)",
+                  "url": "",
+                  "bold": false,
+                  "italic": true
+                }
+              ]
+            },
+            {
+              "type": "heading_2",
+              "runs": [
+                {
+                  "text": "Energy, Cloud & Frontier Science",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Rural AI Data Centers Slated for Federal Tax Windfall as Hyperscalers Hesitate",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Provisions in the One Big Beautiful Bill Act offer tax credits to rural server farms despite fierce community resistance.",
+                  "url": "",
+                  "bold": false,
+                  "italic": true
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Under newly enacted federal legislation, technology companies building data centers in rural American jurisdictions will become eligible for sweeping tax breaks starting next year. The subsidies are intended to distribute digital infrastructure away from saturated urban energy hubs. However, several hyperscale operators appear hesitant to claim the incentives, wary that moving into rural counties will spark intense grassroots backlash over soaring local electricity bills, depleted water tables, and municipal zoning moratoriums.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Source: [WIRED Daily](https://www.wired.com/story/rural-data-centers-are-in-for-a-big-federal-tax-break)",
+                  "url": "",
+                  "bold": false,
+                  "italic": true
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Superpowers Accelerate Plans to Place Nuclear Fission Reactors on the Moon",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "The U.S. and global rivals compete to power permanent lunar outposts through freezing two-week nights.",
+                  "url": "",
+                  "bold": false,
+                  "italic": true
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "The renewed race for lunar colonization has triggered an urgent engineering sprint to deploy small nuclear reactors onto the moon's south pole. Because the lunar surface experiences continuous two-week nights where temperatures plunge to minus 200 degrees Fahrenheit, solar arrays cannot provide the continuous baseline power required for life support, oxygen production, and water ice harvesting. While NASA and international competitors advance reactor designs, space policy experts caution that deploying radioactive fuel into extraterrestrial orbit introduces unprecedented geopolitical and debris risks.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Source: [The New York Times](https://www.nytimes.com)",
+                  "url": "",
+                  "bold": false,
+                  "italic": true
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Subterranean Geoneutrinos Map the Radioactive Engine of Earth’s Tectonic Core",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Global particle detectors capture rare antineutrino emissions from mantle decay to solve long-standing geophysical mysteries.",
+                  "url": "",
+                  "bold": false,
+                  "italic": true
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Physicists operating deep underground sensor networks have published the most precise measurements to date of geoneutrinos—nearly massless particles produced by the radioactive decay of uranium and thorium inside Earth’s interior. By mapping the directional flow of these elusive particles, geophysicists are constructing a real-time thermal map of the planet's mantle, providing direct observational evidence of the radioactive furnace that drives mantle convection, continental drift, and volcanic eruptions.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Source: [WIRED Daily](https://www.wired.com/story/elusive-geoneutrinos-are-building-a-new-map-of-earths-volatile-interior)",
+                  "url": "",
+                  "bold": false,
+                  "italic": true
+                }
+              ]
+            },
+            {
+              "type": "heading_2",
+              "runs": [
+                {
+                  "text": "Society, Culture & Geopolitics",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Predatory Oncology Clinics and the Cost of False Hope at Life’s End",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "An investigative memoir examines how unregulated alternative medicine centers exploit terminal cancer patients.",
+                  "url": "",
+                  "bold": false,
+                  "italic": true
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "In a harrowing look at end-of-life care, reporter Trisha Thadani chronicles her father Rajeev's battle with Stage 4 lung cancer and his journey into the lucrative world of alternative oncology. Targeted by search ads while researching survival odds, he eschewed conventional chemotherapy for an Arizona clinic promising non-toxic cures through hydrogen peroxide infusions and coffee enemas. The investigation illuminates how distrust of mainstream healthcare, combined with predatory online algorithms, leads families to exhaust life savings chasing miracles rather than finding closure.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Source: [The New York Times](https://www.nytimes.com)",
+                  "url": "",
+                  "bold": false,
+                  "italic": true
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "*",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Evan Gershkovich’s Prison Memoir ",
+                  "url": "",
+                  "bold": false,
+                  "italic": true
+                },
+                {
+                  "text": "This Cursed Beautiful Land",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": " Examines Life Inside Lefortovo",
+                  "url": "",
+                  "bold": false,
+                  "italic": true
+                },
+                {
+                  "text": "*",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "The Wall Street Journal reporter reflects on surviving 16 months of solitary confinement and the psychological mechanics of the Russian penal system.",
+                  "url": "",
+                  "bold": false,
+                  "italic": true
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Following his release in the largest East-West prisoner swap since the Cold War, journalist Evan Gershkovich has published a deeply reflective memoir of his detention on false espionage charges. Rather than focusing solely on his diplomatic ordeal, Gershkovich uses his journalistic instincts to study the inmates, guards, and historical ghosts of Moscow’s Lefortovo prison, offering an intimate post-mortem on modern authoritarian control and the voyeurism of political captivity.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Source: [The New York Times](https://www.nytimes.com)",
+                  "url": "",
+                  "bold": false,
+                  "italic": true
+                }
+              ]
+            },
+            {
+              "type": "heading_2",
+              "runs": [
+                {
+                  "text": "Radar & Quick Hits",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "OpenAI Sued Over Hugging Face Agent Incident",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": A California nonprofit has filed suit against OpenAI, seeking to hold the company legally accountable for security breaches carried out by autonomous software agents acting on external developer platforms (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "WIRED Daily",
+                  "url": "https://www.wired.com/story/openai-sued-over-the-hugging-face-hack",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ").",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Cavan Sullivan’s Historic Strike",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": At 16 years old, American soccer prodigy Cavan Sullivan found the back of the net against Mexico, becoming the youngest player to score a goal in U.S. Men’s National Team history (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "The New York Times",
+                  "url": "https://www.nytimes.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ").",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Amazon Refreshes Kindle Lineup With Aluminum Frames",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": Marking two decades of e-readers, Amazon announced a ground-up redesign of its Paperwhite and Colorsoft devices, introducing lightweight metal bodies and faster page turns ahead of the holiday shopping season (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "WIRED Daily",
+                  "url": "https://www.wired.com/story/amazon-kindle-paperwhite-colorsoft-2026-refresh",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ").",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Subculture Harmony in the Skies",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": Professional airline pilots who participate in the furry fandom pushed back against recent political attacks, asserting a firm boundary between private personal hobbies and rigorous cockpit professionalism (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "WIRED Daily",
+                  "url": "https://www.wired.com/story/furry-airline-pilots-are-just-minding-their-own-business",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ").",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            }
+          ],
+          "links": [
+            {
+              "title": "The New York Times",
+              "url": "https://www.nytimes.com/"
+            },
+            {
+              "title": "WIRED Daily",
+              "url": "https://www.wired.com/story/amazon-kindle-paperwhite-colorsoft-2026-refresh"
+            },
+            {
+              "title": "404 Media",
+              "url": "https://www.404media.co/"
+            },
+            {
+              "title": "WIRED Daily",
+              "url": "https://www.wired.com/story/furry-airline-pilots-are-just-minding-their-own-business"
+            },
+            {
+              "title": "www.wired.com",
+              "url": "https://www.wired.com/story/muse-creates-detailed-profiles-of-all-your-friends-and-family"
+            },
+            {
+              "title": "www.404media.co",
+              "url": "https://www.404media.co"
+            },
+            {
+              "title": "www.wired.com",
+              "url": "https://www.wired.com/story/trillium-labs-wants-to-do-high-risk-ai-research-in-the-open"
+            },
+            {
+              "title": "www.wired.com",
+              "url": "https://www.wired.com/story/rural-data-centers-are-in-for-a-big-federal-tax-break"
+            },
+            {
+              "title": "www.nytimes.com",
+              "url": "https://www.nytimes.com"
+            },
+            {
+              "title": "www.wired.com",
+              "url": "https://www.wired.com/story/elusive-geoneutrinos-are-building-a-new-map-of-earths-volatile-interior"
+            },
+            {
+              "title": "WIRED Daily",
+              "url": "https://www.wired.com/story/openai-sued-over-the-hugging-face-hack"
+            }
+          ]
+        }
+      }
     }
   ]
 }
