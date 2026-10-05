@@ -794,6 +794,20 @@
     "https://www.nytimes.com/2026/10/02/podcasts/stephen-king-the-talisman.html?smid=nytcore-ios-share": {
       "checkedAt": "2026-10-03T19:32:58.057485+00:00",
       "available": false
+    },
+    "https://www.joanwestenberg.com/p/unbruised-prosperity-makes-you-weak": {
+      "title": "Unbruised Prosperity Makes You Weak",
+      "description": "Grow some stress wood",
+      "site": "",
+      "image": "https://images.unsplash.com/photo-1760017346204-0dc0640b2181?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzMDAzMzh8MHwxfHNlYXJjaHw2fHxvbGQlMjB0cmVlfGVufDB8fHx8MTc5MTAxMzM2Nnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "icon": "https://substackcdn.com/image/fetch/$s_!UPf8!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9957195b-8502-4f6d-a807-6aa1895d34de%2Ffavicon.ico",
+      "domain": "www.joanwestenberg.com",
+      "checkedAt": "2026-10-05T21:37:31.182125+00:00",
+      "available": true
+    },
+    "https://www.nytimes.com/2026/10/02/us/michael-mcdonald-doobie-brothers-biological-son.html?smid=nytcore-ios-share": {
+      "checkedAt": "2026-10-05T21:37:31.182125+00:00",
+      "available": false
     }
   }
 }
