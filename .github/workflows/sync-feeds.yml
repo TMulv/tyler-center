@@ -1,7 +1,10 @@
 name: Sync channel feeds
 on:
   schedule:
-    - cron: '7,22,37,52 * * * *'
+    # Primary pull (30 min after compilation: 8:30 AM, 12:30 PM, 4:30 PM, 8:30 PM, 11:30 PM EDT)
+    - cron: '30 0,3,12,16,20 * * *'
+    # Fallback retry (60 min after compilation: 9:00 AM, 1:00 PM, 5:00 PM, 9:00 PM, 12:00 AM EDT)
+    - cron: '0 1,4,13,17,21 * * *'
   workflow_dispatch:
   push:
     branches: [main]
