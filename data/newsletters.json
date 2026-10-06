@@ -41025,7 +41025,7 @@
       "title": "Haidt’s Tech & Society Lab, Nike’s Scarcity Reset, and Free Speech in the AI Era — Monday, October 5, 2026",
       "url": "",
       "description": "Monday, October 5, 2026",
-      "body": "Monday, October 5, 2026\n\nToday's Numbers\n\n• $2.5 Billion: Nike plans to slash $2.5 billion in operational expenses and cut jobs as sneaker sales slow down across North America and China. (Feed Me)\n\n• 45,000 Workers: Barclays ordered 45,000 UK bank employees back into physical offices three days a week, but postponed the deadline to 2027 for staff burdened by soaring train fares. (Feed Me)\n\n• $100 Million: Modern artist Jeff Koons placed nine masterpieces from his private collection up for auction, including classic paintings by Picasso and Manet, to raise liquid cash. (Feed Me)\n\n• $12 / Year: Vogue charges only $12 annually for a digital subscription, but fashion lovers expressed anger after parent publisher Condé Nast locked its decades-long runway show archive behind an expensive paywall. (Feed Me)\n\n• $2 per Million Tokens: OpenAI introduced GPT-6.1 Sol as an everyday developer model priced at $2 per million input tokens, offering an 80% price cut compared to flagship Astra models. (Lenny's Newsletter)\n\n• 73 Cents: Total computing cost spent by software developer John Lindquist across 23 complete app development tests using Jev, proving that small AI decision engines make building custom software nearly free. (Lenny's Newsletter)\n\n• 1,009 Drafts: Number of Wikipedia article submissions researchers audited to show how strictly the online encyclopedia rejects corporate pages. (Wikify)\n\n• 6 Hours: Total slow-cooker cooking time for a velvety autumn butternut squash and apple soup topped with mango chutney and crunchy pumpkin seeds. (The New York Times)\n\nQuotes of the Day\n\n\"Our great hope with this is that he or one of his press people will call us horrible scumbags.\"\n\n— Kurt Andersen, co-founder of satire magazine Spy, on reviving the publication for 30 days on Substack to reprint vintage investigative roasts of Donald Trump, via Feed Me\n\n\"Neighbors have taken to the water to protest him. Calling themselves 'kayak-tivists,' they form flotillas facing his island home, holding waterproof signs conveying their disappointment. A local newspaper columnist recommended that people in town give him the finger.\"\n\n— The New York Times, reporting on Maine island locals paddling kayaks to protest Supreme Court Chief Justice John Roberts outside his vacation house, via Feed Me\n\n\"Getting to see it on my TV, in Taylor Swift’s hands, with Dakota’s reaction was really cool.\"\n\n— Gabrielle Scelzo, New York baker behind backstage cakes at Saturday Night Live, on watching Taylor Swift present her custom cake to Dakota Johnson on live broadcast, via Feed Me\n\n\"The Face’s inability to get off the ground might just reflect the great divide between corporate publications like Vogue or independent Substacks that are not commercially tied to the industry so they’re able to deliver serious critique.\"\n\n— Artemis Ward, design writer, explaining why legacy fashion magazines struggle to match the editorial freedom of independent newsletters, via Feed Me\n\n\"We believe that the world should accept some bad things happening for the benefits of this technology and people having the agency.\"\n\n— Sam Altman, CEO of OpenAI, discussing societal trade-offs in artificial intelligence development with Politico, via 404 Media\n\n\"In general, my intrigue with any sort of style-forward apparel was largely predicated on what looked good with Nike or Adidas footwear... I was much more enamored with Jordans and Yeezys than anything Kris Van Assche was doing at Dior.\"\n\n— Paolo Sandoval, editor of The Goods, on how 2010s sneaker forums launched a generation of menswear obsession, via InsideHook\n\nArtificial Intelligence & Digital Infrastructure\n\nMeta Patches Dangerous \"Escape\" Bug in Its Muse AI Assistant Right Before Launch\n\nSecurity engineers scrambled during a multi-team emergency to block users from jumping out of virtual sandboxes into private servers.\n\nMeta engineers discovered serious security vulnerabilities in their viral AI agent \"Muse\" just weeks before its public rollout. At least one flaw could have allowed an ordinary user to break out of their assigned virtual machine and access Meta's sensitive internal databases. The discovery triggered emergency overtime work across infrastructure teams, reaching the desk of Mark Zuckerberg before engineers deployed a fix. (Think of an AI virtual machine like a locked hotel room: you can move the chairs around inside your room, but you should never be able to pick the lock and walk straight into the manager's master safe.) Read the full investigation in 404 Media.\n\nOpenAI Product Teams Build \"Disposable Software\" with ChatGPT Sites\n\nFast development models allow engineers to create custom tools for a single business trip and discard them seven days later.\n\nOpenAI product staff lead Kath Korevec demonstrated how internal teams use ChatGPT Sites to generate working dashboards connected to Slack, Notion, and team calendars in minutes. Instead of spending months coding permanent software, workers create narrow internal tools designed for single events or seven-day business trips, happily tossing them away when the project wraps up. (In the past, building a software tool felt like pouring concrete for a house—it took months and cost serious money. Today, building with AI feels like popping up a lightweight camping tent: you pitch it in five minutes, use it for the weekend, and pack it away when done.) Listen to the complete workflow walkthrough on Lenny's Newsletter.\n\nCan the Government Kick Reporters Out of the White House and Censor AI Speech?\n\nLegal scholars warn that upcoming court battles over autonomous agents will define First Amendment law for decades.\n\nSpeaking on Scott Galloway's podcast, free speech attorney Greg Lukianoff warned that political administrations are increasingly locking out journalists whose questions make them uncomfortable. More critically, Lukianoff highlighted an upcoming constitutional showdown: whether computer algorithms enjoy free speech rights. If federal regulators claim the power to dictate what opinions an AI model can generate, that authority could quickly expand to censor human digital speech. (Think of it like this: if you invent a robot that writes opinions, does that robot have freedom of speech like a newspaper writer, or can the mayor pull the plug whenever the machine criticizes city hall?) Hear the full legal debate on Prof G Media.\n\nLaw, Surveillance & Accountability\n\nOklahoma Federal Judge Strikes Down Routine Police Flock Camera Searches\n\nA landmark court ruling declares that scanning out-of-state drivers without suspicion amounts to unconstitutional mass surveillance.\n\nA federal judge in Oklahoma ruled that a police officer violated the U.S. Constitution by pulling over a driver based solely on automated license plate camera logs. The officer ran the car's plate through Flock Safety's camera database simply because it carried California plates, using past highway travel to justify searching the vehicle. The judge struck down the tactic as \"indiscriminate mass surveillance\" that directly violates Fourth Amendment protections against unreasonable searches. (Imagine a police officer following you home from school every day just because your bicycle has a sticker from another city. The court ruled that police cannot treat every passing car as a criminal suspect without a specific, real reason.) Review the historic court ruling in 404 Media.\n\nYouth, Cognition & Public Health\n\nJonathan Haidt Opens the Tech & Society Lab at NYU to Protect Young Minds\n\nResearchers build open scientific tools to track how pocket screens and algorithms alter childhood development.\n\nSocial psychologist Jonathan Haidt and ten scientists at NYU Stern launched a dedicated laboratory to measure how smartphones and AI bots change developing brains. The lab studies how daily screen use disrupts classroom learning, sleep schedules, and face-to-face friendships, publishing practical research toolkits directly to schools, parents, and lawmakers. Explore their research findings at After Babel.\n\nTaking a Two-Week Social Media Break Boosts Teen Mental Health Like Therapy\n\nClinical experiments show that stepping away from notifications delivers immediate drops in sadness and anxiety.\n\nGlobal Politics & Internet Culture\n\nBrazil’s Online Culture Wars Reveal How Social Apps Protect Right-Wing Leaders\n\nEvangelical social channels and online loan apps help far-right politicians keep power even after losing national elections.\n\nBrazil's right-wing political movement scored huge legislative wins this weekend, forcing current President Lula da Silva into a tough runoff election against former leader Jair Bolsonaro’s son Flavio. Internet researcher Ryan Broderick reported that right-wing candidates stayed wildly popular through massive online communities rather than traditional news. Popular church leaders like Bruno Leonardo—whose YouTube channel commands nearly 80 million subscribers—rack up millions of daily views by asking followers to comment prayers. Meanwhile, easy phone-based loan services left over 80% of Brazilian households in debt, creating economic anxiety that right-wing media channels exploit. (Think of social media algorithms like a giant megaphone that gives the loudest voices free extra batteries. Even if voters elect a new leader, the megaphone keeps replaying the old leader's songs, keeping their political movement alive online forever.) Read the deep-dive report on international digital politics in Garbage Day.\n\nA major review of clinical experiments revealed that teenagers who step away from social media apps for one to three weeks experience rapid improvements in emotional well-being. The boost in mood and reduction in anxiety matched the positive relief young people typically achieve through weeks of professional mental health counseling. (Stepping away from social media notifications for two weeks acted like a mental reset button, clearing away the constant pressure of comparing everyday life to polished highlights online.) Read the complete clinical review on After Babel.\n\nCulture, Media & the Arts\n\nLevi’s and Japanese Label Sacai Turn Classic Denim into High-Fashion Outerwear\n\nChitose Abe rebuilds everyday American trucker jackets with luxury sherpa lining and built-in belts.\n\nAmerican denim giant Levi’s teamed up with Japanese luxury streetwear brand Sacai to release a four-piece outerwear capsule. Sacai designer Chitose Abe rebuilt standard Levi's pieces from the ground up, adding warm sherpa linings, sleek leather trims, and integrated belt systems to denim jackets and flared jeans. While everyday 501 jeans sell for under $100, the high-fashion reimagining commands prices between $395 for belted trousers and $795 for heavy winter coats. (Think of regular blue jeans like a standard cotton t-shirt you wear to gym class. A high-fashion designer takes that plain shirt, cuts it into sharp angles, adds military-grade buckles, and turns it into a high-end runway statement piece.) Explore the complete collection details in InsideHook.\n\nActor Emma D'Arcy Shares an Obsession with Stone Carving and Mk.gee's Raw Guitar\n\nThe House of the Dragon star champions tactile craftsmanship, survival television, and messy teenage yearning.\n\nActor Emma D'Arcy sat down with culture newsletter Perfectly Imperfect to share personal cultural obsessions outside of Hollywood sets. D'Arcy praised indie musician Mk.gee's record Two Star & The Dream Police for channeling raw, nostalgic guitar energy, praised the wilderness reality show Alone for its gritty documentary style, and highlighted a lifelong fascination with historic stone carving tools and gargoyle masonry. Read the full recommendations list on Perfectly Imperfect.\n\nGaza Documentary Screening Draws Peaceful Crowds in the Hamptons\n\nA sold-out premiere at the Sag Harbor Cinema brings passionate local audiences together without disruption.\n\nHundreds of filmgoers and local community members assembled outside the Sag Harbor Cinema on eastern Long Island for the sold-out premiere of NAZA, an acclaimed documentary directed by award-winning filmmakers Yuval Abraham and Rachel Szor. Local authorities reported that the peaceful screening and sidewalk demonstrations concluded without incident. Read the local dispatch in Feed Me.\n\nTech Reporter Mike Isaac Leaves The New York Times for The Atlantic\n\nA leading Silicon Valley investigative scoop-maker transitions to long-form magazine journalism.\n\nVeteran technology correspondent Mike Isaac spent twelve years breaking front-page scoops about Uber, Meta, and startup boardroom battles for The New York Times. This week, Isaac announced a move to The Atlantic as a senior writer to spearhead deep investigative profiles across the tech landscape. Read about the newsroom move in Feed Me.\n\nQuick Hits & Curiosities\n\n• YouTube Cracks Down on Automated \"Clipping\" Accounts on Shorts: YouTube introduced new guidelines that reward original videographers while demoting accounts that chop up popular livestreams into thousands of spammy short clips. Read the policy shift on creator algorithms in Garbage Day.\n\n• Viral \"AI Video Game Mashups\" Turn Out to Be Screen-Recording Tricks: Viral clips claiming new artificial intelligence models magically combined Tony Hawk with Kingdom Hearts proved fake, relying on two games running side-by-side rather than real code rewrites. Follow the full technical breakdown in Feed Me.\n\n• J.Crew Refreshes Rugged Workwear Sub-Brand Wallace & Barnes: Menswear brand J.Crew launched a fresh fall capsule for its long-running heritage line Wallace & Barnes, releasing heavy canvas chore jackets and thick flannel shirts. Check out the new autumn workwear catalog in InsideHook.\n\n• Norway Considers Banning Smart Camera Glasses in Public Places: The Norwegian parliament will debate a temporary ban on Meta's video-recording smart glasses in public parks, beaches, schools, and locker rooms to protect citizen privacy. Check the policy report in 404 Media.\n\n• Scientific Archive arXiv Slows Down Uploads to Fight AI Slop: The research paper hub arXiv announced strict daily submission caps after automated AI writing tools caused academic paper submissions to double over two years. Read the announcement in 404 Media.\n\n• Frustrated Daters File Federal Complaints Against Match Group: Singles submitted formal complaints accusing Tinder and Hinge owner Match Group of manipulating matching algorithms to push lonely users toward $600 annual subscriptions. Review the regulatory report in 404 Media.\n\n• The Wall Street Journal Recruits College Interns Two Years in Advance: The financial daily is already accepting student applications for summer 2027 internships in New York and London, showing how top media companies lock down talent earlier than ever. Find the job notice in Feed Me.\n\n• Bennington College Launches Master's Program for Screenwriters: The Vermont liberal arts college created a graduate degree where students learn to write complete television pilot bibles and feature film scripts from scratch. Read the curriculum details in Feed Me.\n\n• Newsletter Founder Tyler Denk Builds Giant Wellness Bathhouse: The founder of newsletter platform beehiiv opened a massive wellness bathhouse and sauna resort in Latin America as an unexpected hospitality side project. Check out the venue note in Feed Me.\n\n• Brooklyn Shop Salter House Hosts Mary Shelley Literary Nights: A boutique in Brooklyn is gathering neighbors for live podcast recordings and community lectures about Mary Shelley's gothic novel Frankenstein. Explore the community calendar in Feed Me.\n\n• Wall Street Hedge Funds Build $21 Million Private Office Clubs: Investment firms in Midtown Manhattan are spending millions constructing private restaurant floors, espresso bars, and gyms so traders gladly show up in person. Read the commercial real estate trend in Feed Me.",
+      "body": "Monday, October 5, 2026\n\nToday's Numbers\n\n• $132,000: Luxury watchmaker Vacheron Constantin released an ultra-thin Overseas Perpetual Calendar watch in azure blue with a six-figure price tag. (InsideHook)\n\n• 48%: Nearly half of American adults report feeling more anxious in 2026 than they did in 2025, according to a nationwide mental health survey by the American Psychiatric Association. (InsideHook)\n\n• $2.5 Billion: Nike plans to slash $2.5 billion in operational expenses and cut jobs as sneaker sales slow down across North America and China. (Feed Me)\n\n• 45,000 Workers: Barclays ordered 45,000 UK bank employees back into physical offices three days a week, but postponed the deadline to 2027 for staff burdened by soaring train fares. (Feed Me)\n\n• $100 Million: Modern artist Jeff Koons placed nine masterpieces from his private collection up for auction, including classic paintings by Picasso and Manet, to raise liquid cash. (Feed Me)\n\n• $12 / Year: Vogue charges only $12 annually for a digital subscription, but fashion lovers expressed anger after parent publisher Condé Nast locked its decades-long runway show archive behind an expensive paywall. (Feed Me)\n\n• $2 per Million Tokens: OpenAI introduced GPT-6.1 Sol as an everyday developer model priced at $2 per million input tokens, offering an 80% price cut compared to flagship Astra models. (Lenny's Newsletter)\n\n• 73 Cents: Total computing cost spent by software developer John Lindquist across 23 complete app development tests using Jev, proving that small AI decision engines make building custom software nearly free. (Lenny's Newsletter)\n\n• 1,009 Drafts: Number of Wikipedia article submissions researchers audited to show how strictly the online encyclopedia rejects corporate pages. (Wikify)\n\n• 6 Hours: Total slow-cooker cooking time for a velvety autumn butternut squash and apple soup topped with mango chutney and crunchy pumpkin seeds. (The New York Times)\n\nQuotes of the Day\n\n\"You and Anna and so many people around the world have such immense power over these people’s self perception … You guys gave that acceptance into high society to them without having to do any of the legwork … You guys are advertising people.\"\n\n— Jeremy O. Harris, playwright, challenging Vanity Fair editor Mark Guiducci on why elite fashion and lifestyle magazines glamorize controversial tech billionaires on their covers, via Deez Links\n\n\"Our great hope with this is that he or one of his press people will call us horrible scumbags.\"\n\n— Kurt Andersen, co-founder of satire magazine Spy, on reviving the publication for 30 days on Substack to reprint vintage investigative roasts of Donald Trump, via Feed Me\n\n\"Neighbors have taken to the water to protest him. Calling themselves 'kayak-tivists,' they form flotillas facing his island home, holding waterproof signs conveying their disappointment. A local newspaper columnist recommended that people in town give him the finger.\"\n\n— The New York Times, reporting on Maine island locals paddling kayaks to protest Supreme Court Chief Justice John Roberts outside his vacation house, via Feed Me\n\n\"Getting to see it on my TV, in Taylor Swift’s hands, with Dakota’s reaction was really cool.\"\n\n— Gabrielle Scelzo, New York baker behind backstage cakes at Saturday Night Live, on watching Taylor Swift present her custom cake to Dakota Johnson on live broadcast, via Feed Me\n\n\"The Face’s inability to get off the ground might just reflect the great divide between corporate publications like Vogue or independent Substacks that are not commercially tied to the industry so they’re able to deliver serious critique.\"\n\n— Artemis Ward, design writer, explaining why legacy fashion magazines struggle to match the editorial freedom of independent newsletters, via Feed Me\n\n\"We believe that the world should accept some bad things happening for the benefits of this technology and people having the agency.\"\n\n— Sam Altman, CEO of OpenAI, discussing societal trade-offs in artificial intelligence development with Politico, via 404 Media\n\n\"In general, my intrigue with any sort of style-forward apparel was largely predicated on what looked good with Nike or Adidas footwear... I was much more enamored with Jordans and Yeezys than anything Kris Van Assche was doing at Dior.\"\n\n— Paolo Sandoval, editor of The Goods, on how 2010s sneaker forums launched a generation of menswear obsession, via InsideHook\n\nArtificial Intelligence & Digital Infrastructure\n\n• Silicon Valley Pours Millions into Newsrooms to Influence AI Headlines: Tech nonprofits and wealthy benefactors are funding newsrooms to shape how reporters write about artificial intelligence. An AI nonprofit tied to Coefficient Giving just pledged $10 million to sponsor AI journalism, while Vanity Fair put Sam Altman on its cover and New York Magazine partnered with an Effective Altruism group to interview eight former lab employees. Meanwhile, The Atlantic faces internal tension because its chief executive hosts an AI podcast run by business sales staff rather than independent journalists. (Think of this like a star quarterback buying the local sports newspaper: when the players on the field also pay the reporters in the press box, readers have to wonder if anyone will ever write about their bad plays.) Read the media critique in Deez Links.\n\n• Meta Patches Dangerous \"Escape\" Bug in Its Muse AI Assistant Right Before Launch: Meta engineers discovered serious security vulnerabilities in their viral AI agent \"Muse\" just weeks before its public rollout. At least one flaw could have allowed an ordinary user to break out of their assigned virtual machine and access Meta's sensitive internal databases. The discovery triggered emergency overtime work across infrastructure teams, reaching the desk of Mark Zuckerberg before engineers deployed a fix. (Think of an AI virtual machine like a locked hotel room: you can move the chairs around inside your room, but you should never be able to pick the lock and walk straight into the manager's master safe.) Read the full investigation in 404 Media.\n\n• OpenAI Product Teams Build \"Disposable Software\" with ChatGPT Sites: OpenAI product staff lead Kath Korevec demonstrated how internal teams use ChatGPT Sites to generate working dashboards connected to Slack, Notion, and team calendars in minutes. Instead of spending months coding permanent software, workers create narrow internal tools designed for single events or seven-day business trips, happily tossing them away when the project wraps up. (In the past, building a software tool felt like pouring concrete for a house—it took months and cost serious money. Today, building with AI feels like popping up a lightweight camping tent: you pitch it in five minutes, use it for the weekend, and pack it away when done.) Listen to the complete workflow walkthrough on Lenny's Newsletter.\n\n• Can the Government Kick Reporters Out of the White House and Censor AI Speech?: Speaking on Scott Galloway's podcast, free speech attorney Greg Lukianoff warned that political administrations are increasingly locking out journalists whose questions make them uncomfortable. More critically, Lukianoff highlighted an upcoming constitutional showdown: whether computer algorithms enjoy free speech rights. If federal regulators claim the power to dictate what opinions an AI model can generate, that authority could quickly expand to censor human digital speech. (Think of it like this: if you invent a robot that writes opinions, does that robot have freedom of speech like a newspaper writer, or can the mayor pull the plug whenever the machine criticizes city hall?) Hear the full legal debate on Prof G Media.\n\nLaw, Surveillance & Global Politics\n\n• Russian Press Blackout Sparks Viral Bubonic Plague Panic: False rumors of a new plague outbreak in Russia spread across social media feeds over the weekend, causing widespread panic. Because the Russian government ranks 172nd out of 180 countries in world press freedom and routinely jails independent journalists, ordinary citizens had no trustworthy medical reporting to disprove the claims. (Imagine your school bans all teachers from talking, so students start trading scary rumors about ghost stories at lunch. When governments lock up honest reporters, people end up believing every wild story they see on their phones because nobody trusted is left to tell the truth.) Read the media breakdown in Shit You Should Care About.\n\n• Oklahoma Federal Judge Strikes Down Routine Police Flock Camera Searches: A federal judge in Oklahoma ruled that a police officer violated the U.S. Constitution by pulling over a driver based solely on automated license plate camera logs. The officer ran the car's plate through Flock Safety's camera database simply because it carried California plates, using past highway travel to justify searching the vehicle. The judge struck down the tactic as \"indiscriminate mass surveillance\" that directly violates Fourth Amendment protections against unreasonable searches. (Imagine a police officer following you home from school every day just because your bicycle has a sticker from another city. The court ruled that police cannot treat every passing car as a criminal suspect without a specific, real reason.) Review the historic court ruling in 404 Media.\n\n• Brazil’s Online Culture Wars Reveal How Social Apps Protect Right-Wing Leaders: Brazil's right-wing political movement scored huge legislative wins this weekend, forcing current President Lula da Silva into a tough runoff election against former leader Jair Bolsonaro’s son Flavio. Internet researcher Ryan Broderick reported that right-wing candidates stayed wildly popular through massive online communities rather than traditional news. Popular church leaders like Bruno Leonardo—whose YouTube channel commands nearly 80 million subscribers—rack up millions of daily views by asking followers to comment prayers. Meanwhile, easy phone-based loan services left over 80% of Brazilian households in debt, creating economic anxiety that right-wing media channels exploit. (Think of social media algorithms like a giant megaphone that gives the loudest voices free extra batteries. Even if voters elect a new leader, the megaphone keeps replaying the old leader's songs, keeping their political movement alive online forever.) Read the deep-dive report on international digital politics in Garbage Day.\n\nYouth, Cognition & Public Health\n\n• Jonathan Haidt Opens the Tech & Society Lab at NYU to Protect Young Minds: Social psychologist Jonathan Haidt and ten scientists at NYU Stern launched a dedicated laboratory to measure how smartphones and AI bots change developing brains. The lab studies how daily screen use disrupts classroom learning, sleep schedules, and face-to-face friendships, publishing practical research toolkits directly to schools, parents, and lawmakers. Explore their research findings at After Babel.\n\n• Taking a Two-Week Social Media Break Boosts Teen Mental Health Like Therapy: A major review of clinical experiments revealed that teenagers who step away from social media apps for one to three weeks experience rapid improvements in emotional well-being. The boost in mood and reduction in anxiety matched the positive relief young people typically achieve through weeks of professional mental health counseling. (Stepping away from social media notifications for two weeks acted like a mental reset button, clearing away the constant pressure of comparing everyday life to polished highlights online.) Read the complete clinical review on After Babel.\n\nCulture, Media & the Arts\n\n• Levi’s and Japanese Label Sacai Turn Classic Denim into High-Fashion Outerwear: American denim giant Levi’s teamed up with Japanese luxury streetwear brand Sacai to release a four-piece outerwear capsule. Sacai designer Chitose Abe rebuilt standard Levi's pieces from the ground up, adding warm sherpa linings, sleek leather trims, and integrated belt systems to denim jackets and flared jeans. While everyday 501 jeans sell for under $100, the high-fashion reimagining commands prices between $395 for belted trousers and $795 for heavy winter coats. (Think of regular blue jeans like a standard cotton t-shirt you wear to gym class. A high-fashion designer takes that plain shirt, cuts it into sharp angles, adds military-grade buckles, and turns it into a high-end runway statement piece.) Explore the complete collection details in InsideHook.\n\n• Actor Emma D'Arcy Shares an Obsession with Stone Carving and Mk.gee's Raw Guitar: Actor Emma D'Arcy sat down with culture newsletter Perfectly Imperfect to share personal cultural obsessions outside of Hollywood sets. D'Arcy praised indie musician Mk.gee's record Two Star & The Dream Police for channeling raw, nostalgic guitar energy, praised the wilderness reality show Alone for its gritty documentary style, and highlighted a lifelong fascination with historic stone carving tools and gargoyle masonry. Read the full recommendations list on Perfectly Imperfect.\n\n• Gaza Documentary Screening Draws Peaceful Crowds in the Hamptons: Hundreds of filmgoers and local community members assembled outside the Sag Harbor Cinema on eastern Long Island for the sold-out premiere of NAZA, an acclaimed documentary directed by award-winning filmmakers Yuval Abraham and Rachel Szor. Local authorities reported that the peaceful screening and sidewalk demonstrations concluded without incident. Read the local dispatch in Feed Me.\n\n• Tech Reporter Mike Isaac Leaves The New York Times for The Atlantic: Veteran technology correspondent Mike Isaac spent twelve years breaking front-page scoops about Uber, Meta, and startup boardroom battles for The New York Times. This week, Isaac announced a move to The Atlantic as a senior writer to spearhead deep investigative profiles across the tech landscape. Read about the newsroom move in Feed Me.\n\nQuick Hits & Curiosities\n\n• Five Everyday Hacks to Calm Modern Living Anxiety: Health reporter Tom Ward outlines five practical behavioral tools to help adults navigate daily stress and catastrophizing, including walking a completely new route home from work, noting past hardships you successfully overcame, and taking phone-free walks. Read the mental wellness guide in InsideHook.\n\n• YouTube Cracks Down on Automated \"Clipping\" Accounts on Shorts: YouTube introduced new guidelines that reward original videographers while demoting accounts that chop up popular livestreams into thousands of spammy short clips. Read the policy shift on creator algorithms in Garbage Day.\n\n• Viral \"AI Video Game Mashups\" Turn Out to Be Screen-Recording Tricks: Viral clips claiming new artificial intelligence models magically combined Tony Hawk with Kingdom Hearts proved fake, relying on two games running side-by-side rather than real code rewrites. Follow the full technical breakdown in Garbage Day.\n\n• J.Crew Refreshes Rugged Workwear Sub-Brand Wallace & Barnes: Menswear brand J.Crew launched a fresh fall capsule for its long-running heritage line Wallace & Barnes, releasing heavy canvas chore jackets and thick flannel shirts. Check out the new autumn workwear catalog in InsideHook.\n\n• Norway Considers Banning Smart Camera Glasses in Public Places: The Norwegian parliament will debate a temporary ban on Meta's video-recording smart glasses in public parks, beaches, schools, and locker rooms to protect citizen privacy. Check the policy report in 404 Media.\n\n• Scientific Archive arXiv Slows Down Uploads to Fight AI Slop: The research paper hub arXiv announced strict daily submission caps after automated AI writing tools caused academic paper submissions to double over two years. Read the announcement in 404 Media.\n\n• Frustrated Daters File Federal Complaints Against Match Group: Singles submitted formal complaints accusing Tinder and Hinge owner Match Group of manipulating matching algorithms to push lonely users toward $600 annual subscriptions. Review the regulatory report in 404 Media.\n\n• The Wall Street Journal Recruits College Interns Two Years in Advance: The financial daily is already accepting student applications for summer 2027 internships in New York and London, showing how top media companies lock down talent earlier than ever. Find the job notice in Feed Me.\n\n• Bennington College Launches Master's Program for Screenwriters: The Vermont liberal arts college created a graduate degree where students learn to write complete television pilot bibles and feature film scripts from scratch. Read the curriculum details in Feed Me.\n\n• Newsletter Founder Tyler Denk Builds Giant Wellness Bathhouse: The founder of newsletter platform beehiiv opened a massive wellness bathhouse and sauna resort in Latin America as an unexpected hospitality side project. Check out the venue note in Feed Me.\n\n• Brooklyn Shop Salter House Hosts Mary Shelley Literary Nights: A boutique in Brooklyn is gathering neighbors for live podcast recordings and community lectures about Mary Shelley's gothic novel Frankenstein. Explore the community calendar in Feed Me.\n\n• Wall Street Hedge Funds Build $21 Million Private Office Clubs: Investment firms in Midtown Manhattan are spending millions constructing private restaurant floors, espresso bars, and gyms so traders gladly show up in person. Read the commercial real estate trend in Feed Me.",
       "blocks": [
         {
           "type": "paragraph",
@@ -41043,6 +41043,28 @@
           "runs": [
             {
               "text": "Today's Numbers",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "$132,000: Luxury watchmaker Vacheron Constantin released an ultra-thin Overseas Perpetual Calendar watch in azure blue with a six-figure price tag. (InsideHook)",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "48%: Nearly half of American adults report feeling more anxious in 2026 than they did in 2025, according to a nationwide mental health survey by the American Psychiatric Association. (InsideHook)",
               "url": "",
               "bold": false,
               "italic": false
@@ -41142,6 +41164,28 @@
           "runs": [
             {
               "text": "Quotes of the Day",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "\"You and Anna and so many people around the world have such immense power over these people’s self perception … You guys gave that acceptance into high society to them without having to do any of the legwork … You guys are advertising people.\"",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "— Jeremy O. Harris, playwright, challenging Vanity Fair editor Mark Guiducci on why elite fashion and lifestyle magazines glamorize controversial tech billionaires on their covers, via Deez Links",
               "url": "",
               "bold": false,
               "italic": false
@@ -41292,10 +41336,43 @@
           ]
         },
         {
-          "type": "paragraph",
+          "type": "bulleted_list_item",
           "runs": [
             {
-              "text": "Meta Patches Dangerous \"Escape\" Bug in Its Muse AI Assistant Right Before Launch",
+              "text": "Silicon Valley Pours Millions into Newsrooms to Influence AI Headlines: Tech nonprofits and wealthy benefactors are funding newsrooms to shape how reporters write about artificial intelligence. An AI nonprofit tied to Coefficient Giving just pledged $10 million to sponsor AI journalism, while Vanity Fair put Sam Altman on its cover and New York Magazine partnered with an Effective Altruism group to interview eight former lab employees. Meanwhile, The Atlantic faces internal tension because its chief executive hosts an AI podcast run by business sales staff rather than independent journalists. (Think of this like a star quarterback buying the local sports newspaper: when the players on the field also pay the reporters in the press box, readers have to wonder if anyone will ever write about their bad plays.) Read the media critique in Deez Links.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Meta Patches Dangerous \"Escape\" Bug in Its Muse AI Assistant Right Before Launch: Meta engineers discovered serious security vulnerabilities in their viral AI agent \"Muse\" just weeks before its public rollout. At least one flaw could have allowed an ordinary user to break out of their assigned virtual machine and access Meta's sensitive internal databases. The discovery triggered emergency overtime work across infrastructure teams, reaching the desk of Mark Zuckerberg before engineers deployed a fix. (Think of an AI virtual machine like a locked hotel room: you can move the chairs around inside your room, but you should never be able to pick the lock and walk straight into the manager's master safe.) Read the full investigation in 404 Media.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "OpenAI Product Teams Build \"Disposable Software\" with ChatGPT Sites: OpenAI product staff lead Kath Korevec demonstrated how internal teams use ChatGPT Sites to generate working dashboards connected to Slack, Notion, and team calendars in minutes. Instead of spending months coding permanent software, workers create narrow internal tools designed for single events or seven-day business trips, happily tossing them away when the project wraps up. (In the past, building a software tool felt like pouring concrete for a house—it took months and cost serious money. Today, building with AI feels like popping up a lightweight camping tent: you pitch it in five minutes, use it for the weekend, and pack it away when done.) Listen to the complete workflow walkthrough on Lenny's Newsletter.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Can the Government Kick Reporters Out of the White House and Censor AI Speech?: Speaking on Scott Galloway's podcast, free speech attorney Greg Lukianoff warned that political administrations are increasingly locking out journalists whose questions make them uncomfortable. More critically, Lukianoff highlighted an upcoming constitutional showdown: whether computer algorithms enjoy free speech rights. If federal regulators claim the power to dictate what opinions an AI model can generate, that authority could quickly expand to censor human digital speech. (Think of it like this: if you invent a robot that writes opinions, does that robot have freedom of speech like a newspaper writer, or can the mayor pull the plug whenever the machine criticizes city hall?) Hear the full legal debate on Prof G Media.",
               "url": "",
               "bold": false,
               "italic": false
@@ -41306,7 +41383,7 @@
           "type": "paragraph",
           "runs": [
             {
-              "text": "Security engineers scrambled during a multi-team emergency to block users from jumping out of virtual sandboxes into private servers.",
+              "text": "Law, Surveillance & Global Politics",
               "url": "",
               "bold": false,
               "italic": false
@@ -41314,10 +41391,10 @@
           ]
         },
         {
-          "type": "paragraph",
+          "type": "bulleted_list_item",
           "runs": [
             {
-              "text": "Meta engineers discovered serious security vulnerabilities in their viral AI agent \"Muse\" just weeks before its public rollout. At least one flaw could have allowed an ordinary user to break out of their assigned virtual machine and access Meta's sensitive internal databases. The discovery triggered emergency overtime work across infrastructure teams, reaching the desk of Mark Zuckerberg before engineers deployed a fix. (Think of an AI virtual machine like a locked hotel room: you can move the chairs around inside your room, but you should never be able to pick the lock and walk straight into the manager's master safe.) Read the full investigation in 404 Media.",
+              "text": "Russian Press Blackout Sparks Viral Bubonic Plague Panic: False rumors of a new plague outbreak in Russia spread across social media feeds over the weekend, causing widespread panic. Because the Russian government ranks 172nd out of 180 countries in world press freedom and routinely jails independent journalists, ordinary citizens had no trustworthy medical reporting to disprove the claims. (Imagine your school bans all teachers from talking, so students start trading scary rumors about ghost stories at lunch. When governments lock up honest reporters, people end up believing every wild story they see on their phones because nobody trusted is left to tell the truth.) Read the media breakdown in Shit You Should Care About.",
               "url": "",
               "bold": false,
               "italic": false
@@ -41325,10 +41402,10 @@
           ]
         },
         {
-          "type": "paragraph",
+          "type": "bulleted_list_item",
           "runs": [
             {
-              "text": "OpenAI Product Teams Build \"Disposable Software\" with ChatGPT Sites",
+              "text": "Oklahoma Federal Judge Strikes Down Routine Police Flock Camera Searches: A federal judge in Oklahoma ruled that a police officer violated the U.S. Constitution by pulling over a driver based solely on automated license plate camera logs. The officer ran the car's plate through Flock Safety's camera database simply because it carried California plates, using past highway travel to justify searching the vehicle. The judge struck down the tactic as \"indiscriminate mass surveillance\" that directly violates Fourth Amendment protections against unreasonable searches. (Imagine a police officer following you home from school every day just because your bicycle has a sticker from another city. The court ruled that police cannot treat every passing car as a criminal suspect without a specific, real reason.) Review the historic court ruling in 404 Media.",
               "url": "",
               "bold": false,
               "italic": false
@@ -41336,98 +41413,10 @@
           ]
         },
         {
-          "type": "paragraph",
+          "type": "bulleted_list_item",
           "runs": [
             {
-              "text": "Fast development models allow engineers to create custom tools for a single business trip and discard them seven days later.",
-              "url": "",
-              "bold": false,
-              "italic": false
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "runs": [
-            {
-              "text": "OpenAI product staff lead Kath Korevec demonstrated how internal teams use ChatGPT Sites to generate working dashboards connected to Slack, Notion, and team calendars in minutes. Instead of spending months coding permanent software, workers create narrow internal tools designed for single events or seven-day business trips, happily tossing them away when the project wraps up. (In the past, building a software tool felt like pouring concrete for a house—it took months and cost serious money. Today, building with AI feels like popping up a lightweight camping tent: you pitch it in five minutes, use it for the weekend, and pack it away when done.) Listen to the complete workflow walkthrough on Lenny's Newsletter.",
-              "url": "",
-              "bold": false,
-              "italic": false
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "runs": [
-            {
-              "text": "Can the Government Kick Reporters Out of the White House and Censor AI Speech?",
-              "url": "",
-              "bold": false,
-              "italic": false
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "runs": [
-            {
-              "text": "Legal scholars warn that upcoming court battles over autonomous agents will define First Amendment law for decades.",
-              "url": "",
-              "bold": false,
-              "italic": false
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "runs": [
-            {
-              "text": "Speaking on Scott Galloway's podcast, free speech attorney Greg Lukianoff warned that political administrations are increasingly locking out journalists whose questions make them uncomfortable. More critically, Lukianoff highlighted an upcoming constitutional showdown: whether computer algorithms enjoy free speech rights. If federal regulators claim the power to dictate what opinions an AI model can generate, that authority could quickly expand to censor human digital speech. (Think of it like this: if you invent a robot that writes opinions, does that robot have freedom of speech like a newspaper writer, or can the mayor pull the plug whenever the machine criticizes city hall?) Hear the full legal debate on Prof G Media.",
-              "url": "",
-              "bold": false,
-              "italic": false
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "runs": [
-            {
-              "text": "Law, Surveillance & Accountability",
-              "url": "",
-              "bold": false,
-              "italic": false
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "runs": [
-            {
-              "text": "Oklahoma Federal Judge Strikes Down Routine Police Flock Camera Searches",
-              "url": "",
-              "bold": false,
-              "italic": false
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "runs": [
-            {
-              "text": "A landmark court ruling declares that scanning out-of-state drivers without suspicion amounts to unconstitutional mass surveillance.",
-              "url": "",
-              "bold": false,
-              "italic": false
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "runs": [
-            {
-              "text": "A federal judge in Oklahoma ruled that a police officer violated the U.S. Constitution by pulling over a driver based solely on automated license plate camera logs. The officer ran the car's plate through Flock Safety's camera database simply because it carried California plates, using past highway travel to justify searching the vehicle. The judge struck down the tactic as \"indiscriminate mass surveillance\" that directly violates Fourth Amendment protections against unreasonable searches. (Imagine a police officer following you home from school every day just because your bicycle has a sticker from another city. The court ruled that police cannot treat every passing car as a criminal suspect without a specific, real reason.) Review the historic court ruling in 404 Media.",
+              "text": "Brazil’s Online Culture Wars Reveal How Social Apps Protect Right-Wing Leaders: Brazil's right-wing political movement scored huge legislative wins this weekend, forcing current President Lula da Silva into a tough runoff election against former leader Jair Bolsonaro’s son Flavio. Internet researcher Ryan Broderick reported that right-wing candidates stayed wildly popular through massive online communities rather than traditional news. Popular church leaders like Bruno Leonardo—whose YouTube channel commands nearly 80 million subscribers—rack up millions of daily views by asking followers to comment prayers. Meanwhile, easy phone-based loan services left over 80% of Brazilian households in debt, creating economic anxiety that right-wing media channels exploit. (Think of social media algorithms like a giant megaphone that gives the loudest voices free extra batteries. Even if voters elect a new leader, the megaphone keeps replaying the old leader's songs, keeping their political movement alive online forever.) Read the deep-dive report on international digital politics in Garbage Day.",
               "url": "",
               "bold": false,
               "italic": false
@@ -41446,10 +41435,10 @@
           ]
         },
         {
-          "type": "paragraph",
+          "type": "bulleted_list_item",
           "runs": [
             {
-              "text": "Jonathan Haidt Opens the Tech & Society Lab at NYU to Protect Young Minds",
+              "text": "Jonathan Haidt Opens the Tech & Society Lab at NYU to Protect Young Minds: Social psychologist Jonathan Haidt and ten scientists at NYU Stern launched a dedicated laboratory to measure how smartphones and AI bots change developing brains. The lab studies how daily screen use disrupts classroom learning, sleep schedules, and face-to-face friendships, publishing practical research toolkits directly to schools, parents, and lawmakers. Explore their research findings at After Babel.",
               "url": "",
               "bold": false,
               "italic": false
@@ -41457,98 +41446,10 @@
           ]
         },
         {
-          "type": "paragraph",
+          "type": "bulleted_list_item",
           "runs": [
             {
-              "text": "Researchers build open scientific tools to track how pocket screens and algorithms alter childhood development.",
-              "url": "",
-              "bold": false,
-              "italic": false
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "runs": [
-            {
-              "text": "Social psychologist Jonathan Haidt and ten scientists at NYU Stern launched a dedicated laboratory to measure how smartphones and AI bots change developing brains. The lab studies how daily screen use disrupts classroom learning, sleep schedules, and face-to-face friendships, publishing practical research toolkits directly to schools, parents, and lawmakers. Explore their research findings at After Babel.",
-              "url": "",
-              "bold": false,
-              "italic": false
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "runs": [
-            {
-              "text": "Taking a Two-Week Social Media Break Boosts Teen Mental Health Like Therapy",
-              "url": "",
-              "bold": false,
-              "italic": false
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "runs": [
-            {
-              "text": "Clinical experiments show that stepping away from notifications delivers immediate drops in sadness and anxiety.",
-              "url": "",
-              "bold": false,
-              "italic": false
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "runs": [
-            {
-              "text": "Global Politics & Internet Culture",
-              "url": "",
-              "bold": false,
-              "italic": false
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "runs": [
-            {
-              "text": "Brazil’s Online Culture Wars Reveal How Social Apps Protect Right-Wing Leaders",
-              "url": "",
-              "bold": false,
-              "italic": false
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "runs": [
-            {
-              "text": "Evangelical social channels and online loan apps help far-right politicians keep power even after losing national elections.",
-              "url": "",
-              "bold": false,
-              "italic": false
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "runs": [
-            {
-              "text": "Brazil's right-wing political movement scored huge legislative wins this weekend, forcing current President Lula da Silva into a tough runoff election against former leader Jair Bolsonaro’s son Flavio. Internet researcher Ryan Broderick reported that right-wing candidates stayed wildly popular through massive online communities rather than traditional news. Popular church leaders like Bruno Leonardo—whose YouTube channel commands nearly 80 million subscribers—rack up millions of daily views by asking followers to comment prayers. Meanwhile, easy phone-based loan services left over 80% of Brazilian households in debt, creating economic anxiety that right-wing media channels exploit. (Think of social media algorithms like a giant megaphone that gives the loudest voices free extra batteries. Even if voters elect a new leader, the megaphone keeps replaying the old leader's songs, keeping their political movement alive online forever.) Read the deep-dive report on international digital politics in Garbage Day.",
-              "url": "",
-              "bold": false,
-              "italic": false
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "runs": [
-            {
-              "text": "A major review of clinical experiments revealed that teenagers who step away from social media apps for one to three weeks experience rapid improvements in emotional well-being. The boost in mood and reduction in anxiety matched the positive relief young people typically achieve through weeks of professional mental health counseling. (Stepping away from social media notifications for two weeks acted like a mental reset button, clearing away the constant pressure of comparing everyday life to polished highlights online.) Read the complete clinical review on After Babel.",
+              "text": "Taking a Two-Week Social Media Break Boosts Teen Mental Health Like Therapy: A major review of clinical experiments revealed that teenagers who step away from social media apps for one to three weeks experience rapid improvements in emotional well-being. The boost in mood and reduction in anxiety matched the positive relief young people typically achieve through weeks of professional mental health counseling. (Stepping away from social media notifications for two weeks acted like a mental reset button, clearing away the constant pressure of comparing everyday life to polished highlights online.) Read the complete clinical review on After Babel.",
               "url": "",
               "bold": false,
               "italic": false
@@ -41567,10 +41468,10 @@
           ]
         },
         {
-          "type": "paragraph",
+          "type": "bulleted_list_item",
           "runs": [
             {
-              "text": "Levi’s and Japanese Label Sacai Turn Classic Denim into High-Fashion Outerwear",
+              "text": "Levi’s and Japanese Label Sacai Turn Classic Denim into High-Fashion Outerwear: American denim giant Levi’s teamed up with Japanese luxury streetwear brand Sacai to release a four-piece outerwear capsule. Sacai designer Chitose Abe rebuilt standard Levi's pieces from the ground up, adding warm sherpa linings, sleek leather trims, and integrated belt systems to denim jackets and flared jeans. While everyday 501 jeans sell for under $100, the high-fashion reimagining commands prices between $395 for belted trousers and $795 for heavy winter coats. (Think of regular blue jeans like a standard cotton t-shirt you wear to gym class. A high-fashion designer takes that plain shirt, cuts it into sharp angles, adds military-grade buckles, and turns it into a high-end runway statement piece.) Explore the complete collection details in InsideHook.",
               "url": "",
               "bold": false,
               "italic": false
@@ -41578,10 +41479,10 @@
           ]
         },
         {
-          "type": "paragraph",
+          "type": "bulleted_list_item",
           "runs": [
             {
-              "text": "Chitose Abe rebuilds everyday American trucker jackets with luxury sherpa lining and built-in belts.",
+              "text": "Actor Emma D'Arcy Shares an Obsession with Stone Carving and Mk.gee's Raw Guitar: Actor Emma D'Arcy sat down with culture newsletter Perfectly Imperfect to share personal cultural obsessions outside of Hollywood sets. D'Arcy praised indie musician Mk.gee's record Two Star & The Dream Police for channeling raw, nostalgic guitar energy, praised the wilderness reality show Alone for its gritty documentary style, and highlighted a lifelong fascination with historic stone carving tools and gargoyle masonry. Read the full recommendations list on Perfectly Imperfect.",
               "url": "",
               "bold": false,
               "italic": false
@@ -41589,10 +41490,10 @@
           ]
         },
         {
-          "type": "paragraph",
+          "type": "bulleted_list_item",
           "runs": [
             {
-              "text": "American denim giant Levi’s teamed up with Japanese luxury streetwear brand Sacai to release a four-piece outerwear capsule. Sacai designer Chitose Abe rebuilt standard Levi's pieces from the ground up, adding warm sherpa linings, sleek leather trims, and integrated belt systems to denim jackets and flared jeans. While everyday 501 jeans sell for under $100, the high-fashion reimagining commands prices between $395 for belted trousers and $795 for heavy winter coats. (Think of regular blue jeans like a standard cotton t-shirt you wear to gym class. A high-fashion designer takes that plain shirt, cuts it into sharp angles, adds military-grade buckles, and turns it into a high-end runway statement piece.) Explore the complete collection details in InsideHook.",
+              "text": "Gaza Documentary Screening Draws Peaceful Crowds in the Hamptons: Hundreds of filmgoers and local community members assembled outside the Sag Harbor Cinema on eastern Long Island for the sold-out premiere of NAZA, an acclaimed documentary directed by award-winning filmmakers Yuval Abraham and Rachel Szor. Local authorities reported that the peaceful screening and sidewalk demonstrations concluded without incident. Read the local dispatch in Feed Me.",
               "url": "",
               "bold": false,
               "italic": false
@@ -41600,98 +41501,10 @@
           ]
         },
         {
-          "type": "paragraph",
+          "type": "bulleted_list_item",
           "runs": [
             {
-              "text": "Actor Emma D'Arcy Shares an Obsession with Stone Carving and Mk.gee's Raw Guitar",
-              "url": "",
-              "bold": false,
-              "italic": false
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "runs": [
-            {
-              "text": "The House of the Dragon star champions tactile craftsmanship, survival television, and messy teenage yearning.",
-              "url": "",
-              "bold": false,
-              "italic": false
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "runs": [
-            {
-              "text": "Actor Emma D'Arcy sat down with culture newsletter Perfectly Imperfect to share personal cultural obsessions outside of Hollywood sets. D'Arcy praised indie musician Mk.gee's record Two Star & The Dream Police for channeling raw, nostalgic guitar energy, praised the wilderness reality show Alone for its gritty documentary style, and highlighted a lifelong fascination with historic stone carving tools and gargoyle masonry. Read the full recommendations list on Perfectly Imperfect.",
-              "url": "",
-              "bold": false,
-              "italic": false
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "runs": [
-            {
-              "text": "Gaza Documentary Screening Draws Peaceful Crowds in the Hamptons",
-              "url": "",
-              "bold": false,
-              "italic": false
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "runs": [
-            {
-              "text": "A sold-out premiere at the Sag Harbor Cinema brings passionate local audiences together without disruption.",
-              "url": "",
-              "bold": false,
-              "italic": false
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "runs": [
-            {
-              "text": "Hundreds of filmgoers and local community members assembled outside the Sag Harbor Cinema on eastern Long Island for the sold-out premiere of NAZA, an acclaimed documentary directed by award-winning filmmakers Yuval Abraham and Rachel Szor. Local authorities reported that the peaceful screening and sidewalk demonstrations concluded without incident. Read the local dispatch in Feed Me.",
-              "url": "",
-              "bold": false,
-              "italic": false
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "runs": [
-            {
-              "text": "Tech Reporter Mike Isaac Leaves The New York Times for The Atlantic",
-              "url": "",
-              "bold": false,
-              "italic": false
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "runs": [
-            {
-              "text": "A leading Silicon Valley investigative scoop-maker transitions to long-form magazine journalism.",
-              "url": "",
-              "bold": false,
-              "italic": false
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "runs": [
-            {
-              "text": "Veteran technology correspondent Mike Isaac spent twelve years breaking front-page scoops about Uber, Meta, and startup boardroom battles for The New York Times. This week, Isaac announced a move to The Atlantic as a senior writer to spearhead deep investigative profiles across the tech landscape. Read about the newsroom move in Feed Me.",
+              "text": "Tech Reporter Mike Isaac Leaves The New York Times for The Atlantic: Veteran technology correspondent Mike Isaac spent twelve years breaking front-page scoops about Uber, Meta, and startup boardroom battles for The New York Times. This week, Isaac announced a move to The Atlantic as a senior writer to spearhead deep investigative profiles across the tech landscape. Read about the newsroom move in Feed Me.",
               "url": "",
               "bold": false,
               "italic": false
@@ -41713,6 +41526,17 @@
           "type": "bulleted_list_item",
           "runs": [
             {
+              "text": "Five Everyday Hacks to Calm Modern Living Anxiety: Health reporter Tom Ward outlines five practical behavioral tools to help adults navigate daily stress and catastrophizing, including walking a completely new route home from work, noting past hardships you successfully overcame, and taking phone-free walks. Read the mental wellness guide in InsideHook.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
               "text": "YouTube Cracks Down on Automated \"Clipping\" Accounts on Shorts: YouTube introduced new guidelines that reward original videographers while demoting accounts that chop up popular livestreams into thousands of spammy short clips. Read the policy shift on creator algorithms in Garbage Day.",
               "url": "",
               "bold": false,
@@ -41724,7 +41548,7 @@
           "type": "bulleted_list_item",
           "runs": [
             {
-              "text": "Viral \"AI Video Game Mashups\" Turn Out to Be Screen-Recording Tricks: Viral clips claiming new artificial intelligence models magically combined Tony Hawk with Kingdom Hearts proved fake, relying on two games running side-by-side rather than real code rewrites. Follow the full technical breakdown in Feed Me.",
+              "text": "Viral \"AI Video Game Mashups\" Turn Out to Be Screen-Recording Tricks: Viral clips claiming new artificial intelligence models magically combined Tony Hawk with Kingdom Hearts proved fake, relying on two games running side-by-side rather than real code rewrites. Follow the full technical breakdown in Garbage Day.",
               "url": "",
               "bold": false,
               "italic": false
@@ -43667,8 +43491,8 @@
           ],
           "links": []
         },
-        "full": {
-          "body": "Monday, October 5, 2026\n\nToday's Numbers\n\n• $2.5 Billion: Nike plans to slash $2.5 billion in operational expenses and cut jobs as sneaker sales slow down across North America and China. (Feed Me)\n\n• 45,000 Workers: Barclays ordered 45,000 UK bank employees back into physical offices three days a week, but postponed the deadline to 2027 for staff burdened by soaring train fares. (Feed Me)\n\n• $100 Million: Modern artist Jeff Koons placed nine masterpieces from his private collection up for auction, including classic paintings by Picasso and Manet, to raise liquid cash. (Feed Me)\n\n• $12 / Year: Vogue charges only $12 annually for a digital subscription, but fashion lovers expressed anger after parent publisher Condé Nast locked its decades-long runway show archive behind an expensive paywall. (Feed Me)\n\n• $2 per Million Tokens: OpenAI introduced GPT-6.1 Sol as an everyday developer model priced at $2 per million input tokens, offering an 80% price cut compared to flagship Astra models. (Lenny's Newsletter)\n\n• 73 Cents: Total computing cost spent by software developer John Lindquist across 23 complete app development tests using Jev, proving that small AI decision engines make building custom software nearly free. (Lenny's Newsletter)\n\n• 1,009 Drafts: Number of Wikipedia article submissions researchers audited to show how strictly the online encyclopedia rejects corporate pages. (Wikify)\n\n• 6 Hours: Total slow-cooker cooking time for a velvety autumn butternut squash and apple soup topped with mango chutney and crunchy pumpkin seeds. (The New York Times)\n\nQuotes of the Day\n\n\"Our great hope with this is that he or one of his press people will call us horrible scumbags.\"\n\n— Kurt Andersen, co-founder of satire magazine Spy, on reviving the publication for 30 days on Substack to reprint vintage investigative roasts of Donald Trump, via Feed Me\n\n\"Neighbors have taken to the water to protest him. Calling themselves 'kayak-tivists,' they form flotillas facing his island home, holding waterproof signs conveying their disappointment. A local newspaper columnist recommended that people in town give him the finger.\"\n\n— The New York Times, reporting on Maine island locals paddling kayaks to protest Supreme Court Chief Justice John Roberts outside his vacation house, via Feed Me\n\n\"Getting to see it on my TV, in Taylor Swift’s hands, with Dakota’s reaction was really cool.\"\n\n— Gabrielle Scelzo, New York baker behind backstage cakes at Saturday Night Live, on watching Taylor Swift present her custom cake to Dakota Johnson on live broadcast, via Feed Me\n\n\"The Face’s inability to get off the ground might just reflect the great divide between corporate publications like Vogue or independent Substacks that are not commercially tied to the industry so they’re able to deliver serious critique.\"\n\n— Artemis Ward, design writer, explaining why legacy fashion magazines struggle to match the editorial freedom of independent newsletters, via Feed Me\n\n\"We believe that the world should accept some bad things happening for the benefits of this technology and people having the agency.\"\n\n— Sam Altman, CEO of OpenAI, discussing societal trade-offs in artificial intelligence development with Politico, via 404 Media\n\n\"In general, my intrigue with any sort of style-forward apparel was largely predicated on what looked good with Nike or Adidas footwear... I was much more enamored with Jordans and Yeezys than anything Kris Van Assche was doing at Dior.\"\n\n— Paolo Sandoval, editor of The Goods, on how 2010s sneaker forums launched a generation of menswear obsession, via InsideHook\n\nArtificial Intelligence & Digital Infrastructure\n\nMeta Patches Dangerous \"Escape\" Bug in Its Muse AI Assistant Right Before Launch\n\nSecurity engineers scrambled during a multi-team emergency to block users from jumping out of virtual sandboxes into private servers.\n\nMeta engineers discovered serious security vulnerabilities in their viral AI agent \"Muse\" just weeks before its public rollout. At least one flaw could have allowed an ordinary user to break out of their assigned virtual machine and access Meta's sensitive internal databases. The discovery triggered emergency overtime work across infrastructure teams, reaching the desk of Mark Zuckerberg before engineers deployed a fix. (Think of an AI virtual machine like a locked hotel room: you can move the chairs around inside your room, but you should never be able to pick the lock and walk straight into the manager's master safe.) Read the full investigation in 404 Media.\n\nOpenAI Product Teams Build \"Disposable Software\" with ChatGPT Sites\n\nFast development models allow engineers to create custom tools for a single business trip and discard them seven days later.\n\nOpenAI product staff lead Kath Korevec demonstrated how internal teams use ChatGPT Sites to generate working dashboards connected to Slack, Notion, and team calendars in minutes. Instead of spending months coding permanent software, workers create narrow internal tools designed for single events or seven-day business trips, happily tossing them away when the project wraps up. (In the past, building a software tool felt like pouring concrete for a house—it took months and cost serious money. Today, building with AI feels like popping up a lightweight camping tent: you pitch it in five minutes, use it for the weekend, and pack it away when done.) Listen to the complete workflow walkthrough on Lenny's Newsletter.\n\nCan the Government Kick Reporters Out of the White House and Censor AI Speech?\n\nLegal scholars warn that upcoming court battles over autonomous agents will define First Amendment law for decades.\n\nSpeaking on Scott Galloway's podcast, free speech attorney Greg Lukianoff warned that political administrations are increasingly locking out journalists whose questions make them uncomfortable. More critically, Lukianoff highlighted an upcoming constitutional showdown: whether computer algorithms enjoy free speech rights. If federal regulators claim the power to dictate what opinions an AI model can generate, that authority could quickly expand to censor human digital speech. (Think of it like this: if you invent a robot that writes opinions, does that robot have freedom of speech like a newspaper writer, or can the mayor pull the plug whenever the machine criticizes city hall?) Hear the full legal debate on Prof G Media.\n\nLaw, Surveillance & Accountability\n\nOklahoma Federal Judge Strikes Down Routine Police Flock Camera Searches\n\nA landmark court ruling declares that scanning out-of-state drivers without suspicion amounts to unconstitutional mass surveillance.\n\nA federal judge in Oklahoma ruled that a police officer violated the U.S. Constitution by pulling over a driver based solely on automated license plate camera logs. The officer ran the car's plate through Flock Safety's camera database simply because it carried California plates, using past highway travel to justify searching the vehicle. The judge struck down the tactic as \"indiscriminate mass surveillance\" that directly violates Fourth Amendment protections against unreasonable searches. (Imagine a police officer following you home from school every day just because your bicycle has a sticker from another city. The court ruled that police cannot treat every passing car as a criminal suspect without a specific, real reason.) Review the historic court ruling in 404 Media.\n\nYouth, Cognition & Public Health\n\nJonathan Haidt Opens the Tech & Society Lab at NYU to Protect Young Minds\n\nResearchers build open scientific tools to track how pocket screens and algorithms alter childhood development.\n\nSocial psychologist Jonathan Haidt and ten scientists at NYU Stern launched a dedicated laboratory to measure how smartphones and AI bots change developing brains. The lab studies how daily screen use disrupts classroom learning, sleep schedules, and face-to-face friendships, publishing practical research toolkits directly to schools, parents, and lawmakers. Explore their research findings at After Babel.\n\nTaking a Two-Week Social Media Break Boosts Teen Mental Health Like Therapy\n\nClinical experiments show that stepping away from notifications delivers immediate drops in sadness and anxiety.\n\nGlobal Politics & Internet Culture\n\nBrazil’s Online Culture Wars Reveal How Social Apps Protect Right-Wing Leaders\n\nEvangelical social channels and online loan apps help far-right politicians keep power even after losing national elections.\n\nBrazil's right-wing political movement scored huge legislative wins this weekend, forcing current President Lula da Silva into a tough runoff election against former leader Jair Bolsonaro’s son Flavio. Internet researcher Ryan Broderick reported that right-wing candidates stayed wildly popular through massive online communities rather than traditional news. Popular church leaders like Bruno Leonardo—whose YouTube channel commands nearly 80 million subscribers—rack up millions of daily views by asking followers to comment prayers. Meanwhile, easy phone-based loan services left over 80% of Brazilian households in debt, creating economic anxiety that right-wing media channels exploit. (Think of social media algorithms like a giant megaphone that gives the loudest voices free extra batteries. Even if voters elect a new leader, the megaphone keeps replaying the old leader's songs, keeping their political movement alive online forever.) Read the deep-dive report on international digital politics in Garbage Day.\n\nA major review of clinical experiments revealed that teenagers who step away from social media apps for one to three weeks experience rapid improvements in emotional well-being. The boost in mood and reduction in anxiety matched the positive relief young people typically achieve through weeks of professional mental health counseling. (Stepping away from social media notifications for two weeks acted like a mental reset button, clearing away the constant pressure of comparing everyday life to polished highlights online.) Read the complete clinical review on After Babel.\n\nCulture, Media & the Arts\n\nLevi’s and Japanese Label Sacai Turn Classic Denim into High-Fashion Outerwear\n\nChitose Abe rebuilds everyday American trucker jackets with luxury sherpa lining and built-in belts.\n\nAmerican denim giant Levi’s teamed up with Japanese luxury streetwear brand Sacai to release a four-piece outerwear capsule. Sacai designer Chitose Abe rebuilt standard Levi's pieces from the ground up, adding warm sherpa linings, sleek leather trims, and integrated belt systems to denim jackets and flared jeans. While everyday 501 jeans sell for under $100, the high-fashion reimagining commands prices between $395 for belted trousers and $795 for heavy winter coats. (Think of regular blue jeans like a standard cotton t-shirt you wear to gym class. A high-fashion designer takes that plain shirt, cuts it into sharp angles, adds military-grade buckles, and turns it into a high-end runway statement piece.) Explore the complete collection details in InsideHook.\n\nActor Emma D'Arcy Shares an Obsession with Stone Carving and Mk.gee's Raw Guitar\n\nThe House of the Dragon star champions tactile craftsmanship, survival television, and messy teenage yearning.\n\nActor Emma D'Arcy sat down with culture newsletter Perfectly Imperfect to share personal cultural obsessions outside of Hollywood sets. D'Arcy praised indie musician Mk.gee's record Two Star & The Dream Police for channeling raw, nostalgic guitar energy, praised the wilderness reality show Alone for its gritty documentary style, and highlighted a lifelong fascination with historic stone carving tools and gargoyle masonry. Read the full recommendations list on Perfectly Imperfect.\n\nGaza Documentary Screening Draws Peaceful Crowds in the Hamptons\n\nA sold-out premiere at the Sag Harbor Cinema brings passionate local audiences together without disruption.\n\nHundreds of filmgoers and local community members assembled outside the Sag Harbor Cinema on eastern Long Island for the sold-out premiere of NAZA, an acclaimed documentary directed by award-winning filmmakers Yuval Abraham and Rachel Szor. Local authorities reported that the peaceful screening and sidewalk demonstrations concluded without incident. Read the local dispatch in Feed Me.\n\nTech Reporter Mike Isaac Leaves The New York Times for The Atlantic\n\nA leading Silicon Valley investigative scoop-maker transitions to long-form magazine journalism.\n\nVeteran technology correspondent Mike Isaac spent twelve years breaking front-page scoops about Uber, Meta, and startup boardroom battles for The New York Times. This week, Isaac announced a move to The Atlantic as a senior writer to spearhead deep investigative profiles across the tech landscape. Read about the newsroom move in Feed Me.\n\nQuick Hits & Curiosities\n\n• YouTube Cracks Down on Automated \"Clipping\" Accounts on Shorts: YouTube introduced new guidelines that reward original videographers while demoting accounts that chop up popular livestreams into thousands of spammy short clips. Read the policy shift on creator algorithms in Garbage Day.\n\n• Viral \"AI Video Game Mashups\" Turn Out to Be Screen-Recording Tricks: Viral clips claiming new artificial intelligence models magically combined Tony Hawk with Kingdom Hearts proved fake, relying on two games running side-by-side rather than real code rewrites. Follow the full technical breakdown in Feed Me.\n\n• J.Crew Refreshes Rugged Workwear Sub-Brand Wallace & Barnes: Menswear brand J.Crew launched a fresh fall capsule for its long-running heritage line Wallace & Barnes, releasing heavy canvas chore jackets and thick flannel shirts. Check out the new autumn workwear catalog in InsideHook.\n\n• Norway Considers Banning Smart Camera Glasses in Public Places: The Norwegian parliament will debate a temporary ban on Meta's video-recording smart glasses in public parks, beaches, schools, and locker rooms to protect citizen privacy. Check the policy report in 404 Media.\n\n• Scientific Archive arXiv Slows Down Uploads to Fight AI Slop: The research paper hub arXiv announced strict daily submission caps after automated AI writing tools caused academic paper submissions to double over two years. Read the announcement in 404 Media.\n\n• Frustrated Daters File Federal Complaints Against Match Group: Singles submitted formal complaints accusing Tinder and Hinge owner Match Group of manipulating matching algorithms to push lonely users toward $600 annual subscriptions. Review the regulatory report in 404 Media.\n\n• The Wall Street Journal Recruits College Interns Two Years in Advance: The financial daily is already accepting student applications for summer 2027 internships in New York and London, showing how top media companies lock down talent earlier than ever. Find the job notice in Feed Me.\n\n• Bennington College Launches Master's Program for Screenwriters: The Vermont liberal arts college created a graduate degree where students learn to write complete television pilot bibles and feature film scripts from scratch. Read the curriculum details in Feed Me.\n\n• Newsletter Founder Tyler Denk Builds Giant Wellness Bathhouse: The founder of newsletter platform beehiiv opened a massive wellness bathhouse and sauna resort in Latin America as an unexpected hospitality side project. Check out the venue note in Feed Me.\n\n• Brooklyn Shop Salter House Hosts Mary Shelley Literary Nights: A boutique in Brooklyn is gathering neighbors for live podcast recordings and community lectures about Mary Shelley's gothic novel Frankenstein. Explore the community calendar in Feed Me.\n\n• Wall Street Hedge Funds Build $21 Million Private Office Clubs: Investment firms in Midtown Manhattan are spending millions constructing private restaurant floors, espresso bars, and gyms so traders gladly show up in person. Read the commercial real estate trend in Feed Me.",
+        "evening": {
+          "body": "Monday, October 5, 2026\n\nToday's Numbers\n\n• $132,000: Luxury watchmaker Vacheron Constantin released an ultra-thin Overseas Perpetual Calendar watch in azure blue with a six-figure price tag. (InsideHook)\n\n• 48%: Nearly half of American adults report feeling more anxious in 2026 than they did in 2025, according to a nationwide mental health survey by the American Psychiatric Association. (InsideHook)\n\n• $2.5 Billion: Nike plans to slash $2.5 billion in operational expenses and cut jobs as sneaker sales slow down across North America and China. (Feed Me)\n\n• 45,000 Workers: Barclays ordered 45,000 UK bank employees back into physical offices three days a week, but postponed the deadline to 2027 for staff burdened by soaring train fares. (Feed Me)\n\n• $100 Million: Modern artist Jeff Koons placed nine masterpieces from his private collection up for auction, including classic paintings by Picasso and Manet, to raise liquid cash. (Feed Me)\n\n• $12 / Year: Vogue charges only $12 annually for a digital subscription, but fashion lovers expressed anger after parent publisher Condé Nast locked its decades-long runway show archive behind an expensive paywall. (Feed Me)\n\n• $2 per Million Tokens: OpenAI introduced GPT-6.1 Sol as an everyday developer model priced at $2 per million input tokens, offering an 80% price cut compared to flagship Astra models. (Lenny's Newsletter)\n\n• 73 Cents: Total computing cost spent by software developer John Lindquist across 23 complete app development tests using Jev, proving that small AI decision engines make building custom software nearly free. (Lenny's Newsletter)\n\n• 1,009 Drafts: Number of Wikipedia article submissions researchers audited to show how strictly the online encyclopedia rejects corporate pages. (Wikify)\n\n• 6 Hours: Total slow-cooker cooking time for a velvety autumn butternut squash and apple soup topped with mango chutney and crunchy pumpkin seeds. (The New York Times)\n\nQuotes of the Day\n\n\"You and Anna and so many people around the world have such immense power over these people’s self perception … You guys gave that acceptance into high society to them without having to do any of the legwork … You guys are advertising people.\"\n\n— Jeremy O. Harris, playwright, challenging Vanity Fair editor Mark Guiducci on why elite fashion and lifestyle magazines glamorize controversial tech billionaires on their covers, via Deez Links\n\n\"Our great hope with this is that he or one of his press people will call us horrible scumbags.\"\n\n— Kurt Andersen, co-founder of satire magazine Spy, on reviving the publication for 30 days on Substack to reprint vintage investigative roasts of Donald Trump, via Feed Me\n\n\"Neighbors have taken to the water to protest him. Calling themselves 'kayak-tivists,' they form flotillas facing his island home, holding waterproof signs conveying their disappointment. A local newspaper columnist recommended that people in town give him the finger.\"\n\n— The New York Times, reporting on Maine island locals paddling kayaks to protest Supreme Court Chief Justice John Roberts outside his vacation house, via Feed Me\n\n\"Getting to see it on my TV, in Taylor Swift’s hands, with Dakota’s reaction was really cool.\"\n\n— Gabrielle Scelzo, New York baker behind backstage cakes at Saturday Night Live, on watching Taylor Swift present her custom cake to Dakota Johnson on live broadcast, via Feed Me\n\n\"The Face’s inability to get off the ground might just reflect the great divide between corporate publications like Vogue or independent Substacks that are not commercially tied to the industry so they’re able to deliver serious critique.\"\n\n— Artemis Ward, design writer, explaining why legacy fashion magazines struggle to match the editorial freedom of independent newsletters, via Feed Me\n\n\"We believe that the world should accept some bad things happening for the benefits of this technology and people having the agency.\"\n\n— Sam Altman, CEO of OpenAI, discussing societal trade-offs in artificial intelligence development with Politico, via 404 Media\n\n\"In general, my intrigue with any sort of style-forward apparel was largely predicated on what looked good with Nike or Adidas footwear... I was much more enamored with Jordans and Yeezys than anything Kris Van Assche was doing at Dior.\"\n\n— Paolo Sandoval, editor of The Goods, on how 2010s sneaker forums launched a generation of menswear obsession, via InsideHook\n\nArtificial Intelligence & Digital Infrastructure\n\n• Silicon Valley Pours Millions into Newsrooms to Influence AI Headlines: Tech nonprofits and wealthy benefactors are funding newsrooms to shape how reporters write about artificial intelligence. An AI nonprofit tied to Coefficient Giving just pledged $10 million to sponsor AI journalism, while Vanity Fair put Sam Altman on its cover and New York Magazine partnered with an Effective Altruism group to interview eight former lab employees. Meanwhile, The Atlantic faces internal tension because its chief executive hosts an AI podcast run by business sales staff rather than independent journalists. (Think of this like a star quarterback buying the local sports newspaper: when the players on the field also pay the reporters in the press box, readers have to wonder if anyone will ever write about their bad plays.) Read the media critique in Deez Links.\n\n• Meta Patches Dangerous \"Escape\" Bug in Its Muse AI Assistant Right Before Launch: Meta engineers discovered serious security vulnerabilities in their viral AI agent \"Muse\" just weeks before its public rollout. At least one flaw could have allowed an ordinary user to break out of their assigned virtual machine and access Meta's sensitive internal databases. The discovery triggered emergency overtime work across infrastructure teams, reaching the desk of Mark Zuckerberg before engineers deployed a fix. (Think of an AI virtual machine like a locked hotel room: you can move the chairs around inside your room, but you should never be able to pick the lock and walk straight into the manager's master safe.) Read the full investigation in 404 Media.\n\n• OpenAI Product Teams Build \"Disposable Software\" with ChatGPT Sites: OpenAI product staff lead Kath Korevec demonstrated how internal teams use ChatGPT Sites to generate working dashboards connected to Slack, Notion, and team calendars in minutes. Instead of spending months coding permanent software, workers create narrow internal tools designed for single events or seven-day business trips, happily tossing them away when the project wraps up. (In the past, building a software tool felt like pouring concrete for a house—it took months and cost serious money. Today, building with AI feels like popping up a lightweight camping tent: you pitch it in five minutes, use it for the weekend, and pack it away when done.) Listen to the complete workflow walkthrough on Lenny's Newsletter.\n\n• Can the Government Kick Reporters Out of the White House and Censor AI Speech?: Speaking on Scott Galloway's podcast, free speech attorney Greg Lukianoff warned that political administrations are increasingly locking out journalists whose questions make them uncomfortable. More critically, Lukianoff highlighted an upcoming constitutional showdown: whether computer algorithms enjoy free speech rights. If federal regulators claim the power to dictate what opinions an AI model can generate, that authority could quickly expand to censor human digital speech. (Think of it like this: if you invent a robot that writes opinions, does that robot have freedom of speech like a newspaper writer, or can the mayor pull the plug whenever the machine criticizes city hall?) Hear the full legal debate on Prof G Media.\n\nLaw, Surveillance & Global Politics\n\n• Russian Press Blackout Sparks Viral Bubonic Plague Panic: False rumors of a new plague outbreak in Russia spread across social media feeds over the weekend, causing widespread panic. Because the Russian government ranks 172nd out of 180 countries in world press freedom and routinely jails independent journalists, ordinary citizens had no trustworthy medical reporting to disprove the claims. (Imagine your school bans all teachers from talking, so students start trading scary rumors about ghost stories at lunch. When governments lock up honest reporters, people end up believing every wild story they see on their phones because nobody trusted is left to tell the truth.) Read the media breakdown in Shit You Should Care About.\n\n• Oklahoma Federal Judge Strikes Down Routine Police Flock Camera Searches: A federal judge in Oklahoma ruled that a police officer violated the U.S. Constitution by pulling over a driver based solely on automated license plate camera logs. The officer ran the car's plate through Flock Safety's camera database simply because it carried California plates, using past highway travel to justify searching the vehicle. The judge struck down the tactic as \"indiscriminate mass surveillance\" that directly violates Fourth Amendment protections against unreasonable searches. (Imagine a police officer following you home from school every day just because your bicycle has a sticker from another city. The court ruled that police cannot treat every passing car as a criminal suspect without a specific, real reason.) Review the historic court ruling in 404 Media.\n\n• Brazil’s Online Culture Wars Reveal How Social Apps Protect Right-Wing Leaders: Brazil's right-wing political movement scored huge legislative wins this weekend, forcing current President Lula da Silva into a tough runoff election against former leader Jair Bolsonaro’s son Flavio. Internet researcher Ryan Broderick reported that right-wing candidates stayed wildly popular through massive online communities rather than traditional news. Popular church leaders like Bruno Leonardo—whose YouTube channel commands nearly 80 million subscribers—rack up millions of daily views by asking followers to comment prayers. Meanwhile, easy phone-based loan services left over 80% of Brazilian households in debt, creating economic anxiety that right-wing media channels exploit. (Think of social media algorithms like a giant megaphone that gives the loudest voices free extra batteries. Even if voters elect a new leader, the megaphone keeps replaying the old leader's songs, keeping their political movement alive online forever.) Read the deep-dive report on international digital politics in Garbage Day.\n\nYouth, Cognition & Public Health\n\n• Jonathan Haidt Opens the Tech & Society Lab at NYU to Protect Young Minds: Social psychologist Jonathan Haidt and ten scientists at NYU Stern launched a dedicated laboratory to measure how smartphones and AI bots change developing brains. The lab studies how daily screen use disrupts classroom learning, sleep schedules, and face-to-face friendships, publishing practical research toolkits directly to schools, parents, and lawmakers. Explore their research findings at After Babel.\n\n• Taking a Two-Week Social Media Break Boosts Teen Mental Health Like Therapy: A major review of clinical experiments revealed that teenagers who step away from social media apps for one to three weeks experience rapid improvements in emotional well-being. The boost in mood and reduction in anxiety matched the positive relief young people typically achieve through weeks of professional mental health counseling. (Stepping away from social media notifications for two weeks acted like a mental reset button, clearing away the constant pressure of comparing everyday life to polished highlights online.) Read the complete clinical review on After Babel.\n\nCulture, Media & the Arts\n\n• Levi’s and Japanese Label Sacai Turn Classic Denim into High-Fashion Outerwear: American denim giant Levi’s teamed up with Japanese luxury streetwear brand Sacai to release a four-piece outerwear capsule. Sacai designer Chitose Abe rebuilt standard Levi's pieces from the ground up, adding warm sherpa linings, sleek leather trims, and integrated belt systems to denim jackets and flared jeans. While everyday 501 jeans sell for under $100, the high-fashion reimagining commands prices between $395 for belted trousers and $795 for heavy winter coats. (Think of regular blue jeans like a standard cotton t-shirt you wear to gym class. A high-fashion designer takes that plain shirt, cuts it into sharp angles, adds military-grade buckles, and turns it into a high-end runway statement piece.) Explore the complete collection details in InsideHook.\n\n• Actor Emma D'Arcy Shares an Obsession with Stone Carving and Mk.gee's Raw Guitar: Actor Emma D'Arcy sat down with culture newsletter Perfectly Imperfect to share personal cultural obsessions outside of Hollywood sets. D'Arcy praised indie musician Mk.gee's record Two Star & The Dream Police for channeling raw, nostalgic guitar energy, praised the wilderness reality show Alone for its gritty documentary style, and highlighted a lifelong fascination with historic stone carving tools and gargoyle masonry. Read the full recommendations list on Perfectly Imperfect.\n\n• Gaza Documentary Screening Draws Peaceful Crowds in the Hamptons: Hundreds of filmgoers and local community members assembled outside the Sag Harbor Cinema on eastern Long Island for the sold-out premiere of NAZA, an acclaimed documentary directed by award-winning filmmakers Yuval Abraham and Rachel Szor. Local authorities reported that the peaceful screening and sidewalk demonstrations concluded without incident. Read the local dispatch in Feed Me.\n\n• Tech Reporter Mike Isaac Leaves The New York Times for The Atlantic: Veteran technology correspondent Mike Isaac spent twelve years breaking front-page scoops about Uber, Meta, and startup boardroom battles for The New York Times. This week, Isaac announced a move to The Atlantic as a senior writer to spearhead deep investigative profiles across the tech landscape. Read about the newsroom move in Feed Me.\n\nQuick Hits & Curiosities\n\n• Five Everyday Hacks to Calm Modern Living Anxiety: Health reporter Tom Ward outlines five practical behavioral tools to help adults navigate daily stress and catastrophizing, including walking a completely new route home from work, noting past hardships you successfully overcame, and taking phone-free walks. Read the mental wellness guide in InsideHook.\n\n• YouTube Cracks Down on Automated \"Clipping\" Accounts on Shorts: YouTube introduced new guidelines that reward original videographers while demoting accounts that chop up popular livestreams into thousands of spammy short clips. Read the policy shift on creator algorithms in Garbage Day.\n\n• Viral \"AI Video Game Mashups\" Turn Out to Be Screen-Recording Tricks: Viral clips claiming new artificial intelligence models magically combined Tony Hawk with Kingdom Hearts proved fake, relying on two games running side-by-side rather than real code rewrites. Follow the full technical breakdown in Garbage Day.\n\n• J.Crew Refreshes Rugged Workwear Sub-Brand Wallace & Barnes: Menswear brand J.Crew launched a fresh fall capsule for its long-running heritage line Wallace & Barnes, releasing heavy canvas chore jackets and thick flannel shirts. Check out the new autumn workwear catalog in InsideHook.\n\n• Norway Considers Banning Smart Camera Glasses in Public Places: The Norwegian parliament will debate a temporary ban on Meta's video-recording smart glasses in public parks, beaches, schools, and locker rooms to protect citizen privacy. Check the policy report in 404 Media.\n\n• Scientific Archive arXiv Slows Down Uploads to Fight AI Slop: The research paper hub arXiv announced strict daily submission caps after automated AI writing tools caused academic paper submissions to double over two years. Read the announcement in 404 Media.\n\n• Frustrated Daters File Federal Complaints Against Match Group: Singles submitted formal complaints accusing Tinder and Hinge owner Match Group of manipulating matching algorithms to push lonely users toward $600 annual subscriptions. Review the regulatory report in 404 Media.\n\n• The Wall Street Journal Recruits College Interns Two Years in Advance: The financial daily is already accepting student applications for summer 2027 internships in New York and London, showing how top media companies lock down talent earlier than ever. Find the job notice in Feed Me.\n\n• Bennington College Launches Master's Program for Screenwriters: The Vermont liberal arts college created a graduate degree where students learn to write complete television pilot bibles and feature film scripts from scratch. Read the curriculum details in Feed Me.\n\n• Newsletter Founder Tyler Denk Builds Giant Wellness Bathhouse: The founder of newsletter platform beehiiv opened a massive wellness bathhouse and sauna resort in Latin America as an unexpected hospitality side project. Check out the venue note in Feed Me.\n\n• Brooklyn Shop Salter House Hosts Mary Shelley Literary Nights: A boutique in Brooklyn is gathering neighbors for live podcast recordings and community lectures about Mary Shelley's gothic novel Frankenstein. Explore the community calendar in Feed Me.\n\n• Wall Street Hedge Funds Build $21 Million Private Office Clubs: Investment firms in Midtown Manhattan are spending millions constructing private restaurant floors, espresso bars, and gyms so traders gladly show up in person. Read the commercial real estate trend in Feed Me.",
           "blocks": [
             {
               "type": "paragraph",
@@ -43686,6 +43510,28 @@
               "runs": [
                 {
                   "text": "Today's Numbers",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "$132,000: Luxury watchmaker Vacheron Constantin released an ultra-thin Overseas Perpetual Calendar watch in azure blue with a six-figure price tag. (InsideHook)",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "48%: Nearly half of American adults report feeling more anxious in 2026 than they did in 2025, according to a nationwide mental health survey by the American Psychiatric Association. (InsideHook)",
                   "url": "",
                   "bold": false,
                   "italic": false
@@ -43785,6 +43631,28 @@
               "runs": [
                 {
                   "text": "Quotes of the Day",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "\"You and Anna and so many people around the world have such immense power over these people’s self perception … You guys gave that acceptance into high society to them without having to do any of the legwork … You guys are advertising people.\"",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "— Jeremy O. Harris, playwright, challenging Vanity Fair editor Mark Guiducci on why elite fashion and lifestyle magazines glamorize controversial tech billionaires on their covers, via Deez Links",
                   "url": "",
                   "bold": false,
                   "italic": false
@@ -43935,10 +43803,43 @@
               ]
             },
             {
-              "type": "paragraph",
+              "type": "bulleted_list_item",
               "runs": [
                 {
-                  "text": "Meta Patches Dangerous \"Escape\" Bug in Its Muse AI Assistant Right Before Launch",
+                  "text": "Silicon Valley Pours Millions into Newsrooms to Influence AI Headlines: Tech nonprofits and wealthy benefactors are funding newsrooms to shape how reporters write about artificial intelligence. An AI nonprofit tied to Coefficient Giving just pledged $10 million to sponsor AI journalism, while Vanity Fair put Sam Altman on its cover and New York Magazine partnered with an Effective Altruism group to interview eight former lab employees. Meanwhile, The Atlantic faces internal tension because its chief executive hosts an AI podcast run by business sales staff rather than independent journalists. (Think of this like a star quarterback buying the local sports newspaper: when the players on the field also pay the reporters in the press box, readers have to wonder if anyone will ever write about their bad plays.) Read the media critique in Deez Links.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Meta Patches Dangerous \"Escape\" Bug in Its Muse AI Assistant Right Before Launch: Meta engineers discovered serious security vulnerabilities in their viral AI agent \"Muse\" just weeks before its public rollout. At least one flaw could have allowed an ordinary user to break out of their assigned virtual machine and access Meta's sensitive internal databases. The discovery triggered emergency overtime work across infrastructure teams, reaching the desk of Mark Zuckerberg before engineers deployed a fix. (Think of an AI virtual machine like a locked hotel room: you can move the chairs around inside your room, but you should never be able to pick the lock and walk straight into the manager's master safe.) Read the full investigation in 404 Media.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "OpenAI Product Teams Build \"Disposable Software\" with ChatGPT Sites: OpenAI product staff lead Kath Korevec demonstrated how internal teams use ChatGPT Sites to generate working dashboards connected to Slack, Notion, and team calendars in minutes. Instead of spending months coding permanent software, workers create narrow internal tools designed for single events or seven-day business trips, happily tossing them away when the project wraps up. (In the past, building a software tool felt like pouring concrete for a house—it took months and cost serious money. Today, building with AI feels like popping up a lightweight camping tent: you pitch it in five minutes, use it for the weekend, and pack it away when done.) Listen to the complete workflow walkthrough on Lenny's Newsletter.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Can the Government Kick Reporters Out of the White House and Censor AI Speech?: Speaking on Scott Galloway's podcast, free speech attorney Greg Lukianoff warned that political administrations are increasingly locking out journalists whose questions make them uncomfortable. More critically, Lukianoff highlighted an upcoming constitutional showdown: whether computer algorithms enjoy free speech rights. If federal regulators claim the power to dictate what opinions an AI model can generate, that authority could quickly expand to censor human digital speech. (Think of it like this: if you invent a robot that writes opinions, does that robot have freedom of speech like a newspaper writer, or can the mayor pull the plug whenever the machine criticizes city hall?) Hear the full legal debate on Prof G Media.",
                   "url": "",
                   "bold": false,
                   "italic": false
@@ -43949,7 +43850,7 @@
               "type": "paragraph",
               "runs": [
                 {
-                  "text": "Security engineers scrambled during a multi-team emergency to block users from jumping out of virtual sandboxes into private servers.",
+                  "text": "Law, Surveillance & Global Politics",
                   "url": "",
                   "bold": false,
                   "italic": false
@@ -43957,10 +43858,10 @@
               ]
             },
             {
-              "type": "paragraph",
+              "type": "bulleted_list_item",
               "runs": [
                 {
-                  "text": "Meta engineers discovered serious security vulnerabilities in their viral AI agent \"Muse\" just weeks before its public rollout. At least one flaw could have allowed an ordinary user to break out of their assigned virtual machine and access Meta's sensitive internal databases. The discovery triggered emergency overtime work across infrastructure teams, reaching the desk of Mark Zuckerberg before engineers deployed a fix. (Think of an AI virtual machine like a locked hotel room: you can move the chairs around inside your room, but you should never be able to pick the lock and walk straight into the manager's master safe.) Read the full investigation in 404 Media.",
+                  "text": "Russian Press Blackout Sparks Viral Bubonic Plague Panic: False rumors of a new plague outbreak in Russia spread across social media feeds over the weekend, causing widespread panic. Because the Russian government ranks 172nd out of 180 countries in world press freedom and routinely jails independent journalists, ordinary citizens had no trustworthy medical reporting to disprove the claims. (Imagine your school bans all teachers from talking, so students start trading scary rumors about ghost stories at lunch. When governments lock up honest reporters, people end up believing every wild story they see on their phones because nobody trusted is left to tell the truth.) Read the media breakdown in Shit You Should Care About.",
                   "url": "",
                   "bold": false,
                   "italic": false
@@ -43968,10 +43869,10 @@
               ]
             },
             {
-              "type": "paragraph",
+              "type": "bulleted_list_item",
               "runs": [
                 {
-                  "text": "OpenAI Product Teams Build \"Disposable Software\" with ChatGPT Sites",
+                  "text": "Oklahoma Federal Judge Strikes Down Routine Police Flock Camera Searches: A federal judge in Oklahoma ruled that a police officer violated the U.S. Constitution by pulling over a driver based solely on automated license plate camera logs. The officer ran the car's plate through Flock Safety's camera database simply because it carried California plates, using past highway travel to justify searching the vehicle. The judge struck down the tactic as \"indiscriminate mass surveillance\" that directly violates Fourth Amendment protections against unreasonable searches. (Imagine a police officer following you home from school every day just because your bicycle has a sticker from another city. The court ruled that police cannot treat every passing car as a criminal suspect without a specific, real reason.) Review the historic court ruling in 404 Media.",
                   "url": "",
                   "bold": false,
                   "italic": false
@@ -43979,98 +43880,10 @@
               ]
             },
             {
-              "type": "paragraph",
+              "type": "bulleted_list_item",
               "runs": [
                 {
-                  "text": "Fast development models allow engineers to create custom tools for a single business trip and discard them seven days later.",
-                  "url": "",
-                  "bold": false,
-                  "italic": false
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "runs": [
-                {
-                  "text": "OpenAI product staff lead Kath Korevec demonstrated how internal teams use ChatGPT Sites to generate working dashboards connected to Slack, Notion, and team calendars in minutes. Instead of spending months coding permanent software, workers create narrow internal tools designed for single events or seven-day business trips, happily tossing them away when the project wraps up. (In the past, building a software tool felt like pouring concrete for a house—it took months and cost serious money. Today, building with AI feels like popping up a lightweight camping tent: you pitch it in five minutes, use it for the weekend, and pack it away when done.) Listen to the complete workflow walkthrough on Lenny's Newsletter.",
-                  "url": "",
-                  "bold": false,
-                  "italic": false
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "runs": [
-                {
-                  "text": "Can the Government Kick Reporters Out of the White House and Censor AI Speech?",
-                  "url": "",
-                  "bold": false,
-                  "italic": false
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "runs": [
-                {
-                  "text": "Legal scholars warn that upcoming court battles over autonomous agents will define First Amendment law for decades.",
-                  "url": "",
-                  "bold": false,
-                  "italic": false
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "runs": [
-                {
-                  "text": "Speaking on Scott Galloway's podcast, free speech attorney Greg Lukianoff warned that political administrations are increasingly locking out journalists whose questions make them uncomfortable. More critically, Lukianoff highlighted an upcoming constitutional showdown: whether computer algorithms enjoy free speech rights. If federal regulators claim the power to dictate what opinions an AI model can generate, that authority could quickly expand to censor human digital speech. (Think of it like this: if you invent a robot that writes opinions, does that robot have freedom of speech like a newspaper writer, or can the mayor pull the plug whenever the machine criticizes city hall?) Hear the full legal debate on Prof G Media.",
-                  "url": "",
-                  "bold": false,
-                  "italic": false
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "runs": [
-                {
-                  "text": "Law, Surveillance & Accountability",
-                  "url": "",
-                  "bold": false,
-                  "italic": false
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "runs": [
-                {
-                  "text": "Oklahoma Federal Judge Strikes Down Routine Police Flock Camera Searches",
-                  "url": "",
-                  "bold": false,
-                  "italic": false
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "runs": [
-                {
-                  "text": "A landmark court ruling declares that scanning out-of-state drivers without suspicion amounts to unconstitutional mass surveillance.",
-                  "url": "",
-                  "bold": false,
-                  "italic": false
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "runs": [
-                {
-                  "text": "A federal judge in Oklahoma ruled that a police officer violated the U.S. Constitution by pulling over a driver based solely on automated license plate camera logs. The officer ran the car's plate through Flock Safety's camera database simply because it carried California plates, using past highway travel to justify searching the vehicle. The judge struck down the tactic as \"indiscriminate mass surveillance\" that directly violates Fourth Amendment protections against unreasonable searches. (Imagine a police officer following you home from school every day just because your bicycle has a sticker from another city. The court ruled that police cannot treat every passing car as a criminal suspect without a specific, real reason.) Review the historic court ruling in 404 Media.",
+                  "text": "Brazil’s Online Culture Wars Reveal How Social Apps Protect Right-Wing Leaders: Brazil's right-wing political movement scored huge legislative wins this weekend, forcing current President Lula da Silva into a tough runoff election against former leader Jair Bolsonaro’s son Flavio. Internet researcher Ryan Broderick reported that right-wing candidates stayed wildly popular through massive online communities rather than traditional news. Popular church leaders like Bruno Leonardo—whose YouTube channel commands nearly 80 million subscribers—rack up millions of daily views by asking followers to comment prayers. Meanwhile, easy phone-based loan services left over 80% of Brazilian households in debt, creating economic anxiety that right-wing media channels exploit. (Think of social media algorithms like a giant megaphone that gives the loudest voices free extra batteries. Even if voters elect a new leader, the megaphone keeps replaying the old leader's songs, keeping their political movement alive online forever.) Read the deep-dive report on international digital politics in Garbage Day.",
                   "url": "",
                   "bold": false,
                   "italic": false
@@ -44089,10 +43902,10 @@
               ]
             },
             {
-              "type": "paragraph",
+              "type": "bulleted_list_item",
               "runs": [
                 {
-                  "text": "Jonathan Haidt Opens the Tech & Society Lab at NYU to Protect Young Minds",
+                  "text": "Jonathan Haidt Opens the Tech & Society Lab at NYU to Protect Young Minds: Social psychologist Jonathan Haidt and ten scientists at NYU Stern launched a dedicated laboratory to measure how smartphones and AI bots change developing brains. The lab studies how daily screen use disrupts classroom learning, sleep schedules, and face-to-face friendships, publishing practical research toolkits directly to schools, parents, and lawmakers. Explore their research findings at After Babel.",
                   "url": "",
                   "bold": false,
                   "italic": false
@@ -44100,98 +43913,10 @@
               ]
             },
             {
-              "type": "paragraph",
+              "type": "bulleted_list_item",
               "runs": [
                 {
-                  "text": "Researchers build open scientific tools to track how pocket screens and algorithms alter childhood development.",
-                  "url": "",
-                  "bold": false,
-                  "italic": false
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "runs": [
-                {
-                  "text": "Social psychologist Jonathan Haidt and ten scientists at NYU Stern launched a dedicated laboratory to measure how smartphones and AI bots change developing brains. The lab studies how daily screen use disrupts classroom learning, sleep schedules, and face-to-face friendships, publishing practical research toolkits directly to schools, parents, and lawmakers. Explore their research findings at After Babel.",
-                  "url": "",
-                  "bold": false,
-                  "italic": false
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "runs": [
-                {
-                  "text": "Taking a Two-Week Social Media Break Boosts Teen Mental Health Like Therapy",
-                  "url": "",
-                  "bold": false,
-                  "italic": false
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "runs": [
-                {
-                  "text": "Clinical experiments show that stepping away from notifications delivers immediate drops in sadness and anxiety.",
-                  "url": "",
-                  "bold": false,
-                  "italic": false
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "runs": [
-                {
-                  "text": "Global Politics & Internet Culture",
-                  "url": "",
-                  "bold": false,
-                  "italic": false
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "runs": [
-                {
-                  "text": "Brazil’s Online Culture Wars Reveal How Social Apps Protect Right-Wing Leaders",
-                  "url": "",
-                  "bold": false,
-                  "italic": false
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "runs": [
-                {
-                  "text": "Evangelical social channels and online loan apps help far-right politicians keep power even after losing national elections.",
-                  "url": "",
-                  "bold": false,
-                  "italic": false
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "runs": [
-                {
-                  "text": "Brazil's right-wing political movement scored huge legislative wins this weekend, forcing current President Lula da Silva into a tough runoff election against former leader Jair Bolsonaro’s son Flavio. Internet researcher Ryan Broderick reported that right-wing candidates stayed wildly popular through massive online communities rather than traditional news. Popular church leaders like Bruno Leonardo—whose YouTube channel commands nearly 80 million subscribers—rack up millions of daily views by asking followers to comment prayers. Meanwhile, easy phone-based loan services left over 80% of Brazilian households in debt, creating economic anxiety that right-wing media channels exploit. (Think of social media algorithms like a giant megaphone that gives the loudest voices free extra batteries. Even if voters elect a new leader, the megaphone keeps replaying the old leader's songs, keeping their political movement alive online forever.) Read the deep-dive report on international digital politics in Garbage Day.",
-                  "url": "",
-                  "bold": false,
-                  "italic": false
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "runs": [
-                {
-                  "text": "A major review of clinical experiments revealed that teenagers who step away from social media apps for one to three weeks experience rapid improvements in emotional well-being. The boost in mood and reduction in anxiety matched the positive relief young people typically achieve through weeks of professional mental health counseling. (Stepping away from social media notifications for two weeks acted like a mental reset button, clearing away the constant pressure of comparing everyday life to polished highlights online.) Read the complete clinical review on After Babel.",
+                  "text": "Taking a Two-Week Social Media Break Boosts Teen Mental Health Like Therapy: A major review of clinical experiments revealed that teenagers who step away from social media apps for one to three weeks experience rapid improvements in emotional well-being. The boost in mood and reduction in anxiety matched the positive relief young people typically achieve through weeks of professional mental health counseling. (Stepping away from social media notifications for two weeks acted like a mental reset button, clearing away the constant pressure of comparing everyday life to polished highlights online.) Read the complete clinical review on After Babel.",
                   "url": "",
                   "bold": false,
                   "italic": false
@@ -44210,10 +43935,10 @@
               ]
             },
             {
-              "type": "paragraph",
+              "type": "bulleted_list_item",
               "runs": [
                 {
-                  "text": "Levi’s and Japanese Label Sacai Turn Classic Denim into High-Fashion Outerwear",
+                  "text": "Levi’s and Japanese Label Sacai Turn Classic Denim into High-Fashion Outerwear: American denim giant Levi’s teamed up with Japanese luxury streetwear brand Sacai to release a four-piece outerwear capsule. Sacai designer Chitose Abe rebuilt standard Levi's pieces from the ground up, adding warm sherpa linings, sleek leather trims, and integrated belt systems to denim jackets and flared jeans. While everyday 501 jeans sell for under $100, the high-fashion reimagining commands prices between $395 for belted trousers and $795 for heavy winter coats. (Think of regular blue jeans like a standard cotton t-shirt you wear to gym class. A high-fashion designer takes that plain shirt, cuts it into sharp angles, adds military-grade buckles, and turns it into a high-end runway statement piece.) Explore the complete collection details in InsideHook.",
                   "url": "",
                   "bold": false,
                   "italic": false
@@ -44221,10 +43946,10 @@
               ]
             },
             {
-              "type": "paragraph",
+              "type": "bulleted_list_item",
               "runs": [
                 {
-                  "text": "Chitose Abe rebuilds everyday American trucker jackets with luxury sherpa lining and built-in belts.",
+                  "text": "Actor Emma D'Arcy Shares an Obsession with Stone Carving and Mk.gee's Raw Guitar: Actor Emma D'Arcy sat down with culture newsletter Perfectly Imperfect to share personal cultural obsessions outside of Hollywood sets. D'Arcy praised indie musician Mk.gee's record Two Star & The Dream Police for channeling raw, nostalgic guitar energy, praised the wilderness reality show Alone for its gritty documentary style, and highlighted a lifelong fascination with historic stone carving tools and gargoyle masonry. Read the full recommendations list on Perfectly Imperfect.",
                   "url": "",
                   "bold": false,
                   "italic": false
@@ -44232,10 +43957,10 @@
               ]
             },
             {
-              "type": "paragraph",
+              "type": "bulleted_list_item",
               "runs": [
                 {
-                  "text": "American denim giant Levi’s teamed up with Japanese luxury streetwear brand Sacai to release a four-piece outerwear capsule. Sacai designer Chitose Abe rebuilt standard Levi's pieces from the ground up, adding warm sherpa linings, sleek leather trims, and integrated belt systems to denim jackets and flared jeans. While everyday 501 jeans sell for under $100, the high-fashion reimagining commands prices between $395 for belted trousers and $795 for heavy winter coats. (Think of regular blue jeans like a standard cotton t-shirt you wear to gym class. A high-fashion designer takes that plain shirt, cuts it into sharp angles, adds military-grade buckles, and turns it into a high-end runway statement piece.) Explore the complete collection details in InsideHook.",
+                  "text": "Gaza Documentary Screening Draws Peaceful Crowds in the Hamptons: Hundreds of filmgoers and local community members assembled outside the Sag Harbor Cinema on eastern Long Island for the sold-out premiere of NAZA, an acclaimed documentary directed by award-winning filmmakers Yuval Abraham and Rachel Szor. Local authorities reported that the peaceful screening and sidewalk demonstrations concluded without incident. Read the local dispatch in Feed Me.",
                   "url": "",
                   "bold": false,
                   "italic": false
@@ -44243,98 +43968,10 @@
               ]
             },
             {
-              "type": "paragraph",
+              "type": "bulleted_list_item",
               "runs": [
                 {
-                  "text": "Actor Emma D'Arcy Shares an Obsession with Stone Carving and Mk.gee's Raw Guitar",
-                  "url": "",
-                  "bold": false,
-                  "italic": false
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "runs": [
-                {
-                  "text": "The House of the Dragon star champions tactile craftsmanship, survival television, and messy teenage yearning.",
-                  "url": "",
-                  "bold": false,
-                  "italic": false
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "runs": [
-                {
-                  "text": "Actor Emma D'Arcy sat down with culture newsletter Perfectly Imperfect to share personal cultural obsessions outside of Hollywood sets. D'Arcy praised indie musician Mk.gee's record Two Star & The Dream Police for channeling raw, nostalgic guitar energy, praised the wilderness reality show Alone for its gritty documentary style, and highlighted a lifelong fascination with historic stone carving tools and gargoyle masonry. Read the full recommendations list on Perfectly Imperfect.",
-                  "url": "",
-                  "bold": false,
-                  "italic": false
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "runs": [
-                {
-                  "text": "Gaza Documentary Screening Draws Peaceful Crowds in the Hamptons",
-                  "url": "",
-                  "bold": false,
-                  "italic": false
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "runs": [
-                {
-                  "text": "A sold-out premiere at the Sag Harbor Cinema brings passionate local audiences together without disruption.",
-                  "url": "",
-                  "bold": false,
-                  "italic": false
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "runs": [
-                {
-                  "text": "Hundreds of filmgoers and local community members assembled outside the Sag Harbor Cinema on eastern Long Island for the sold-out premiere of NAZA, an acclaimed documentary directed by award-winning filmmakers Yuval Abraham and Rachel Szor. Local authorities reported that the peaceful screening and sidewalk demonstrations concluded without incident. Read the local dispatch in Feed Me.",
-                  "url": "",
-                  "bold": false,
-                  "italic": false
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "runs": [
-                {
-                  "text": "Tech Reporter Mike Isaac Leaves The New York Times for The Atlantic",
-                  "url": "",
-                  "bold": false,
-                  "italic": false
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "runs": [
-                {
-                  "text": "A leading Silicon Valley investigative scoop-maker transitions to long-form magazine journalism.",
-                  "url": "",
-                  "bold": false,
-                  "italic": false
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "runs": [
-                {
-                  "text": "Veteran technology correspondent Mike Isaac spent twelve years breaking front-page scoops about Uber, Meta, and startup boardroom battles for The New York Times. This week, Isaac announced a move to The Atlantic as a senior writer to spearhead deep investigative profiles across the tech landscape. Read about the newsroom move in Feed Me.",
+                  "text": "Tech Reporter Mike Isaac Leaves The New York Times for The Atlantic: Veteran technology correspondent Mike Isaac spent twelve years breaking front-page scoops about Uber, Meta, and startup boardroom battles for The New York Times. This week, Isaac announced a move to The Atlantic as a senior writer to spearhead deep investigative profiles across the tech landscape. Read about the newsroom move in Feed Me.",
                   "url": "",
                   "bold": false,
                   "italic": false
@@ -44356,6 +43993,17 @@
               "type": "bulleted_list_item",
               "runs": [
                 {
+                  "text": "Five Everyday Hacks to Calm Modern Living Anxiety: Health reporter Tom Ward outlines five practical behavioral tools to help adults navigate daily stress and catastrophizing, including walking a completely new route home from work, noting past hardships you successfully overcame, and taking phone-free walks. Read the mental wellness guide in InsideHook.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
                   "text": "YouTube Cracks Down on Automated \"Clipping\" Accounts on Shorts: YouTube introduced new guidelines that reward original videographers while demoting accounts that chop up popular livestreams into thousands of spammy short clips. Read the policy shift on creator algorithms in Garbage Day.",
                   "url": "",
                   "bold": false,
@@ -44367,7 +44015,640 @@
               "type": "bulleted_list_item",
               "runs": [
                 {
-                  "text": "Viral \"AI Video Game Mashups\" Turn Out to Be Screen-Recording Tricks: Viral clips claiming new artificial intelligence models magically combined Tony Hawk with Kingdom Hearts proved fake, relying on two games running side-by-side rather than real code rewrites. Follow the full technical breakdown in Feed Me.",
+                  "text": "Viral \"AI Video Game Mashups\" Turn Out to Be Screen-Recording Tricks: Viral clips claiming new artificial intelligence models magically combined Tony Hawk with Kingdom Hearts proved fake, relying on two games running side-by-side rather than real code rewrites. Follow the full technical breakdown in Garbage Day.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "J.Crew Refreshes Rugged Workwear Sub-Brand Wallace & Barnes: Menswear brand J.Crew launched a fresh fall capsule for its long-running heritage line Wallace & Barnes, releasing heavy canvas chore jackets and thick flannel shirts. Check out the new autumn workwear catalog in InsideHook.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Norway Considers Banning Smart Camera Glasses in Public Places: The Norwegian parliament will debate a temporary ban on Meta's video-recording smart glasses in public parks, beaches, schools, and locker rooms to protect citizen privacy. Check the policy report in 404 Media.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Scientific Archive arXiv Slows Down Uploads to Fight AI Slop: The research paper hub arXiv announced strict daily submission caps after automated AI writing tools caused academic paper submissions to double over two years. Read the announcement in 404 Media.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Frustrated Daters File Federal Complaints Against Match Group: Singles submitted formal complaints accusing Tinder and Hinge owner Match Group of manipulating matching algorithms to push lonely users toward $600 annual subscriptions. Review the regulatory report in 404 Media.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "The Wall Street Journal Recruits College Interns Two Years in Advance: The financial daily is already accepting student applications for summer 2027 internships in New York and London, showing how top media companies lock down talent earlier than ever. Find the job notice in Feed Me.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Bennington College Launches Master's Program for Screenwriters: The Vermont liberal arts college created a graduate degree where students learn to write complete television pilot bibles and feature film scripts from scratch. Read the curriculum details in Feed Me.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Newsletter Founder Tyler Denk Builds Giant Wellness Bathhouse: The founder of newsletter platform beehiiv opened a massive wellness bathhouse and sauna resort in Latin America as an unexpected hospitality side project. Check out the venue note in Feed Me.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Brooklyn Shop Salter House Hosts Mary Shelley Literary Nights: A boutique in Brooklyn is gathering neighbors for live podcast recordings and community lectures about Mary Shelley's gothic novel Frankenstein. Explore the community calendar in Feed Me.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Wall Street Hedge Funds Build $21 Million Private Office Clubs: Investment firms in Midtown Manhattan are spending millions constructing private restaurant floors, espresso bars, and gyms so traders gladly show up in person. Read the commercial real estate trend in Feed Me.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            }
+          ],
+          "links": []
+        },
+        "full": {
+          "body": "Monday, October 5, 2026\n\nToday's Numbers\n\n• $132,000: Luxury watchmaker Vacheron Constantin released an ultra-thin Overseas Perpetual Calendar watch in azure blue with a six-figure price tag. (InsideHook)\n\n• 48%: Nearly half of American adults report feeling more anxious in 2026 than they did in 2025, according to a nationwide mental health survey by the American Psychiatric Association. (InsideHook)\n\n• $2.5 Billion: Nike plans to slash $2.5 billion in operational expenses and cut jobs as sneaker sales slow down across North America and China. (Feed Me)\n\n• 45,000 Workers: Barclays ordered 45,000 UK bank employees back into physical offices three days a week, but postponed the deadline to 2027 for staff burdened by soaring train fares. (Feed Me)\n\n• $100 Million: Modern artist Jeff Koons placed nine masterpieces from his private collection up for auction, including classic paintings by Picasso and Manet, to raise liquid cash. (Feed Me)\n\n• $12 / Year: Vogue charges only $12 annually for a digital subscription, but fashion lovers expressed anger after parent publisher Condé Nast locked its decades-long runway show archive behind an expensive paywall. (Feed Me)\n\n• $2 per Million Tokens: OpenAI introduced GPT-6.1 Sol as an everyday developer model priced at $2 per million input tokens, offering an 80% price cut compared to flagship Astra models. (Lenny's Newsletter)\n\n• 73 Cents: Total computing cost spent by software developer John Lindquist across 23 complete app development tests using Jev, proving that small AI decision engines make building custom software nearly free. (Lenny's Newsletter)\n\n• 1,009 Drafts: Number of Wikipedia article submissions researchers audited to show how strictly the online encyclopedia rejects corporate pages. (Wikify)\n\n• 6 Hours: Total slow-cooker cooking time for a velvety autumn butternut squash and apple soup topped with mango chutney and crunchy pumpkin seeds. (The New York Times)\n\nQuotes of the Day\n\n\"You and Anna and so many people around the world have such immense power over these people’s self perception … You guys gave that acceptance into high society to them without having to do any of the legwork … You guys are advertising people.\"\n\n— Jeremy O. Harris, playwright, challenging Vanity Fair editor Mark Guiducci on why elite fashion and lifestyle magazines glamorize controversial tech billionaires on their covers, via Deez Links\n\n\"Our great hope with this is that he or one of his press people will call us horrible scumbags.\"\n\n— Kurt Andersen, co-founder of satire magazine Spy, on reviving the publication for 30 days on Substack to reprint vintage investigative roasts of Donald Trump, via Feed Me\n\n\"Neighbors have taken to the water to protest him. Calling themselves 'kayak-tivists,' they form flotillas facing his island home, holding waterproof signs conveying their disappointment. A local newspaper columnist recommended that people in town give him the finger.\"\n\n— The New York Times, reporting on Maine island locals paddling kayaks to protest Supreme Court Chief Justice John Roberts outside his vacation house, via Feed Me\n\n\"Getting to see it on my TV, in Taylor Swift’s hands, with Dakota’s reaction was really cool.\"\n\n— Gabrielle Scelzo, New York baker behind backstage cakes at Saturday Night Live, on watching Taylor Swift present her custom cake to Dakota Johnson on live broadcast, via Feed Me\n\n\"The Face’s inability to get off the ground might just reflect the great divide between corporate publications like Vogue or independent Substacks that are not commercially tied to the industry so they’re able to deliver serious critique.\"\n\n— Artemis Ward, design writer, explaining why legacy fashion magazines struggle to match the editorial freedom of independent newsletters, via Feed Me\n\n\"We believe that the world should accept some bad things happening for the benefits of this technology and people having the agency.\"\n\n— Sam Altman, CEO of OpenAI, discussing societal trade-offs in artificial intelligence development with Politico, via 404 Media\n\n\"In general, my intrigue with any sort of style-forward apparel was largely predicated on what looked good with Nike or Adidas footwear... I was much more enamored with Jordans and Yeezys than anything Kris Van Assche was doing at Dior.\"\n\n— Paolo Sandoval, editor of The Goods, on how 2010s sneaker forums launched a generation of menswear obsession, via InsideHook\n\nArtificial Intelligence & Digital Infrastructure\n\n• Silicon Valley Pours Millions into Newsrooms to Influence AI Headlines: Tech nonprofits and wealthy benefactors are funding newsrooms to shape how reporters write about artificial intelligence. An AI nonprofit tied to Coefficient Giving just pledged $10 million to sponsor AI journalism, while Vanity Fair put Sam Altman on its cover and New York Magazine partnered with an Effective Altruism group to interview eight former lab employees. Meanwhile, The Atlantic faces internal tension because its chief executive hosts an AI podcast run by business sales staff rather than independent journalists. (Think of this like a star quarterback buying the local sports newspaper: when the players on the field also pay the reporters in the press box, readers have to wonder if anyone will ever write about their bad plays.) Read the media critique in Deez Links.\n\n• Meta Patches Dangerous \"Escape\" Bug in Its Muse AI Assistant Right Before Launch: Meta engineers discovered serious security vulnerabilities in their viral AI agent \"Muse\" just weeks before its public rollout. At least one flaw could have allowed an ordinary user to break out of their assigned virtual machine and access Meta's sensitive internal databases. The discovery triggered emergency overtime work across infrastructure teams, reaching the desk of Mark Zuckerberg before engineers deployed a fix. (Think of an AI virtual machine like a locked hotel room: you can move the chairs around inside your room, but you should never be able to pick the lock and walk straight into the manager's master safe.) Read the full investigation in 404 Media.\n\n• OpenAI Product Teams Build \"Disposable Software\" with ChatGPT Sites: OpenAI product staff lead Kath Korevec demonstrated how internal teams use ChatGPT Sites to generate working dashboards connected to Slack, Notion, and team calendars in minutes. Instead of spending months coding permanent software, workers create narrow internal tools designed for single events or seven-day business trips, happily tossing them away when the project wraps up. (In the past, building a software tool felt like pouring concrete for a house—it took months and cost serious money. Today, building with AI feels like popping up a lightweight camping tent: you pitch it in five minutes, use it for the weekend, and pack it away when done.) Listen to the complete workflow walkthrough on Lenny's Newsletter.\n\n• Can the Government Kick Reporters Out of the White House and Censor AI Speech?: Speaking on Scott Galloway's podcast, free speech attorney Greg Lukianoff warned that political administrations are increasingly locking out journalists whose questions make them uncomfortable. More critically, Lukianoff highlighted an upcoming constitutional showdown: whether computer algorithms enjoy free speech rights. If federal regulators claim the power to dictate what opinions an AI model can generate, that authority could quickly expand to censor human digital speech. (Think of it like this: if you invent a robot that writes opinions, does that robot have freedom of speech like a newspaper writer, or can the mayor pull the plug whenever the machine criticizes city hall?) Hear the full legal debate on Prof G Media.\n\nLaw, Surveillance & Global Politics\n\n• Russian Press Blackout Sparks Viral Bubonic Plague Panic: False rumors of a new plague outbreak in Russia spread across social media feeds over the weekend, causing widespread panic. Because the Russian government ranks 172nd out of 180 countries in world press freedom and routinely jails independent journalists, ordinary citizens had no trustworthy medical reporting to disprove the claims. (Imagine your school bans all teachers from talking, so students start trading scary rumors about ghost stories at lunch. When governments lock up honest reporters, people end up believing every wild story they see on their phones because nobody trusted is left to tell the truth.) Read the media breakdown in Shit You Should Care About.\n\n• Oklahoma Federal Judge Strikes Down Routine Police Flock Camera Searches: A federal judge in Oklahoma ruled that a police officer violated the U.S. Constitution by pulling over a driver based solely on automated license plate camera logs. The officer ran the car's plate through Flock Safety's camera database simply because it carried California plates, using past highway travel to justify searching the vehicle. The judge struck down the tactic as \"indiscriminate mass surveillance\" that directly violates Fourth Amendment protections against unreasonable searches. (Imagine a police officer following you home from school every day just because your bicycle has a sticker from another city. The court ruled that police cannot treat every passing car as a criminal suspect without a specific, real reason.) Review the historic court ruling in 404 Media.\n\n• Brazil’s Online Culture Wars Reveal How Social Apps Protect Right-Wing Leaders: Brazil's right-wing political movement scored huge legislative wins this weekend, forcing current President Lula da Silva into a tough runoff election against former leader Jair Bolsonaro’s son Flavio. Internet researcher Ryan Broderick reported that right-wing candidates stayed wildly popular through massive online communities rather than traditional news. Popular church leaders like Bruno Leonardo—whose YouTube channel commands nearly 80 million subscribers—rack up millions of daily views by asking followers to comment prayers. Meanwhile, easy phone-based loan services left over 80% of Brazilian households in debt, creating economic anxiety that right-wing media channels exploit. (Think of social media algorithms like a giant megaphone that gives the loudest voices free extra batteries. Even if voters elect a new leader, the megaphone keeps replaying the old leader's songs, keeping their political movement alive online forever.) Read the deep-dive report on international digital politics in Garbage Day.\n\nYouth, Cognition & Public Health\n\n• Jonathan Haidt Opens the Tech & Society Lab at NYU to Protect Young Minds: Social psychologist Jonathan Haidt and ten scientists at NYU Stern launched a dedicated laboratory to measure how smartphones and AI bots change developing brains. The lab studies how daily screen use disrupts classroom learning, sleep schedules, and face-to-face friendships, publishing practical research toolkits directly to schools, parents, and lawmakers. Explore their research findings at After Babel.\n\n• Taking a Two-Week Social Media Break Boosts Teen Mental Health Like Therapy: A major review of clinical experiments revealed that teenagers who step away from social media apps for one to three weeks experience rapid improvements in emotional well-being. The boost in mood and reduction in anxiety matched the positive relief young people typically achieve through weeks of professional mental health counseling. (Stepping away from social media notifications for two weeks acted like a mental reset button, clearing away the constant pressure of comparing everyday life to polished highlights online.) Read the complete clinical review on After Babel.\n\nCulture, Media & the Arts\n\n• Levi’s and Japanese Label Sacai Turn Classic Denim into High-Fashion Outerwear: American denim giant Levi’s teamed up with Japanese luxury streetwear brand Sacai to release a four-piece outerwear capsule. Sacai designer Chitose Abe rebuilt standard Levi's pieces from the ground up, adding warm sherpa linings, sleek leather trims, and integrated belt systems to denim jackets and flared jeans. While everyday 501 jeans sell for under $100, the high-fashion reimagining commands prices between $395 for belted trousers and $795 for heavy winter coats. (Think of regular blue jeans like a standard cotton t-shirt you wear to gym class. A high-fashion designer takes that plain shirt, cuts it into sharp angles, adds military-grade buckles, and turns it into a high-end runway statement piece.) Explore the complete collection details in InsideHook.\n\n• Actor Emma D'Arcy Shares an Obsession with Stone Carving and Mk.gee's Raw Guitar: Actor Emma D'Arcy sat down with culture newsletter Perfectly Imperfect to share personal cultural obsessions outside of Hollywood sets. D'Arcy praised indie musician Mk.gee's record Two Star & The Dream Police for channeling raw, nostalgic guitar energy, praised the wilderness reality show Alone for its gritty documentary style, and highlighted a lifelong fascination with historic stone carving tools and gargoyle masonry. Read the full recommendations list on Perfectly Imperfect.\n\n• Gaza Documentary Screening Draws Peaceful Crowds in the Hamptons: Hundreds of filmgoers and local community members assembled outside the Sag Harbor Cinema on eastern Long Island for the sold-out premiere of NAZA, an acclaimed documentary directed by award-winning filmmakers Yuval Abraham and Rachel Szor. Local authorities reported that the peaceful screening and sidewalk demonstrations concluded without incident. Read the local dispatch in Feed Me.\n\n• Tech Reporter Mike Isaac Leaves The New York Times for The Atlantic: Veteran technology correspondent Mike Isaac spent twelve years breaking front-page scoops about Uber, Meta, and startup boardroom battles for The New York Times. This week, Isaac announced a move to The Atlantic as a senior writer to spearhead deep investigative profiles across the tech landscape. Read about the newsroom move in Feed Me.\n\nQuick Hits & Curiosities\n\n• Five Everyday Hacks to Calm Modern Living Anxiety: Health reporter Tom Ward outlines five practical behavioral tools to help adults navigate daily stress and catastrophizing, including walking a completely new route home from work, noting past hardships you successfully overcame, and taking phone-free walks. Read the mental wellness guide in InsideHook.\n\n• YouTube Cracks Down on Automated \"Clipping\" Accounts on Shorts: YouTube introduced new guidelines that reward original videographers while demoting accounts that chop up popular livestreams into thousands of spammy short clips. Read the policy shift on creator algorithms in Garbage Day.\n\n• Viral \"AI Video Game Mashups\" Turn Out to Be Screen-Recording Tricks: Viral clips claiming new artificial intelligence models magically combined Tony Hawk with Kingdom Hearts proved fake, relying on two games running side-by-side rather than real code rewrites. Follow the full technical breakdown in Garbage Day.\n\n• J.Crew Refreshes Rugged Workwear Sub-Brand Wallace & Barnes: Menswear brand J.Crew launched a fresh fall capsule for its long-running heritage line Wallace & Barnes, releasing heavy canvas chore jackets and thick flannel shirts. Check out the new autumn workwear catalog in InsideHook.\n\n• Norway Considers Banning Smart Camera Glasses in Public Places: The Norwegian parliament will debate a temporary ban on Meta's video-recording smart glasses in public parks, beaches, schools, and locker rooms to protect citizen privacy. Check the policy report in 404 Media.\n\n• Scientific Archive arXiv Slows Down Uploads to Fight AI Slop: The research paper hub arXiv announced strict daily submission caps after automated AI writing tools caused academic paper submissions to double over two years. Read the announcement in 404 Media.\n\n• Frustrated Daters File Federal Complaints Against Match Group: Singles submitted formal complaints accusing Tinder and Hinge owner Match Group of manipulating matching algorithms to push lonely users toward $600 annual subscriptions. Review the regulatory report in 404 Media.\n\n• The Wall Street Journal Recruits College Interns Two Years in Advance: The financial daily is already accepting student applications for summer 2027 internships in New York and London, showing how top media companies lock down talent earlier than ever. Find the job notice in Feed Me.\n\n• Bennington College Launches Master's Program for Screenwriters: The Vermont liberal arts college created a graduate degree where students learn to write complete television pilot bibles and feature film scripts from scratch. Read the curriculum details in Feed Me.\n\n• Newsletter Founder Tyler Denk Builds Giant Wellness Bathhouse: The founder of newsletter platform beehiiv opened a massive wellness bathhouse and sauna resort in Latin America as an unexpected hospitality side project. Check out the venue note in Feed Me.\n\n• Brooklyn Shop Salter House Hosts Mary Shelley Literary Nights: A boutique in Brooklyn is gathering neighbors for live podcast recordings and community lectures about Mary Shelley's gothic novel Frankenstein. Explore the community calendar in Feed Me.\n\n• Wall Street Hedge Funds Build $21 Million Private Office Clubs: Investment firms in Midtown Manhattan are spending millions constructing private restaurant floors, espresso bars, and gyms so traders gladly show up in person. Read the commercial real estate trend in Feed Me.",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Monday, October 5, 2026",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Today's Numbers",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "$132,000: Luxury watchmaker Vacheron Constantin released an ultra-thin Overseas Perpetual Calendar watch in azure blue with a six-figure price tag. (InsideHook)",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "48%: Nearly half of American adults report feeling more anxious in 2026 than they did in 2025, according to a nationwide mental health survey by the American Psychiatric Association. (InsideHook)",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "$2.5 Billion: Nike plans to slash $2.5 billion in operational expenses and cut jobs as sneaker sales slow down across North America and China. (Feed Me)",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "45,000 Workers: Barclays ordered 45,000 UK bank employees back into physical offices three days a week, but postponed the deadline to 2027 for staff burdened by soaring train fares. (Feed Me)",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "$100 Million: Modern artist Jeff Koons placed nine masterpieces from his private collection up for auction, including classic paintings by Picasso and Manet, to raise liquid cash. (Feed Me)",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "$12 / Year: Vogue charges only $12 annually for a digital subscription, but fashion lovers expressed anger after parent publisher Condé Nast locked its decades-long runway show archive behind an expensive paywall. (Feed Me)",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "$2 per Million Tokens: OpenAI introduced GPT-6.1 Sol as an everyday developer model priced at $2 per million input tokens, offering an 80% price cut compared to flagship Astra models. (Lenny's Newsletter)",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "73 Cents: Total computing cost spent by software developer John Lindquist across 23 complete app development tests using Jev, proving that small AI decision engines make building custom software nearly free. (Lenny's Newsletter)",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "1,009 Drafts: Number of Wikipedia article submissions researchers audited to show how strictly the online encyclopedia rejects corporate pages. (Wikify)",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "6 Hours: Total slow-cooker cooking time for a velvety autumn butternut squash and apple soup topped with mango chutney and crunchy pumpkin seeds. (The New York Times)",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Quotes of the Day",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "\"You and Anna and so many people around the world have such immense power over these people’s self perception … You guys gave that acceptance into high society to them without having to do any of the legwork … You guys are advertising people.\"",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "— Jeremy O. Harris, playwright, challenging Vanity Fair editor Mark Guiducci on why elite fashion and lifestyle magazines glamorize controversial tech billionaires on their covers, via Deez Links",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "\"Our great hope with this is that he or one of his press people will call us horrible scumbags.\"",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "— Kurt Andersen, co-founder of satire magazine Spy, on reviving the publication for 30 days on Substack to reprint vintage investigative roasts of Donald Trump, via Feed Me",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "\"Neighbors have taken to the water to protest him. Calling themselves 'kayak-tivists,' they form flotillas facing his island home, holding waterproof signs conveying their disappointment. A local newspaper columnist recommended that people in town give him the finger.\"",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "— The New York Times, reporting on Maine island locals paddling kayaks to protest Supreme Court Chief Justice John Roberts outside his vacation house, via Feed Me",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "\"Getting to see it on my TV, in Taylor Swift’s hands, with Dakota’s reaction was really cool.\"",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "— Gabrielle Scelzo, New York baker behind backstage cakes at Saturday Night Live, on watching Taylor Swift present her custom cake to Dakota Johnson on live broadcast, via Feed Me",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "\"The Face’s inability to get off the ground might just reflect the great divide between corporate publications like Vogue or independent Substacks that are not commercially tied to the industry so they’re able to deliver serious critique.\"",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "— Artemis Ward, design writer, explaining why legacy fashion magazines struggle to match the editorial freedom of independent newsletters, via Feed Me",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "\"We believe that the world should accept some bad things happening for the benefits of this technology and people having the agency.\"",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "— Sam Altman, CEO of OpenAI, discussing societal trade-offs in artificial intelligence development with Politico, via 404 Media",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "\"In general, my intrigue with any sort of style-forward apparel was largely predicated on what looked good with Nike or Adidas footwear... I was much more enamored with Jordans and Yeezys than anything Kris Van Assche was doing at Dior.\"",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "— Paolo Sandoval, editor of The Goods, on how 2010s sneaker forums launched a generation of menswear obsession, via InsideHook",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Artificial Intelligence & Digital Infrastructure",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Silicon Valley Pours Millions into Newsrooms to Influence AI Headlines: Tech nonprofits and wealthy benefactors are funding newsrooms to shape how reporters write about artificial intelligence. An AI nonprofit tied to Coefficient Giving just pledged $10 million to sponsor AI journalism, while Vanity Fair put Sam Altman on its cover and New York Magazine partnered with an Effective Altruism group to interview eight former lab employees. Meanwhile, The Atlantic faces internal tension because its chief executive hosts an AI podcast run by business sales staff rather than independent journalists. (Think of this like a star quarterback buying the local sports newspaper: when the players on the field also pay the reporters in the press box, readers have to wonder if anyone will ever write about their bad plays.) Read the media critique in Deez Links.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Meta Patches Dangerous \"Escape\" Bug in Its Muse AI Assistant Right Before Launch: Meta engineers discovered serious security vulnerabilities in their viral AI agent \"Muse\" just weeks before its public rollout. At least one flaw could have allowed an ordinary user to break out of their assigned virtual machine and access Meta's sensitive internal databases. The discovery triggered emergency overtime work across infrastructure teams, reaching the desk of Mark Zuckerberg before engineers deployed a fix. (Think of an AI virtual machine like a locked hotel room: you can move the chairs around inside your room, but you should never be able to pick the lock and walk straight into the manager's master safe.) Read the full investigation in 404 Media.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "OpenAI Product Teams Build \"Disposable Software\" with ChatGPT Sites: OpenAI product staff lead Kath Korevec demonstrated how internal teams use ChatGPT Sites to generate working dashboards connected to Slack, Notion, and team calendars in minutes. Instead of spending months coding permanent software, workers create narrow internal tools designed for single events or seven-day business trips, happily tossing them away when the project wraps up. (In the past, building a software tool felt like pouring concrete for a house—it took months and cost serious money. Today, building with AI feels like popping up a lightweight camping tent: you pitch it in five minutes, use it for the weekend, and pack it away when done.) Listen to the complete workflow walkthrough on Lenny's Newsletter.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Can the Government Kick Reporters Out of the White House and Censor AI Speech?: Speaking on Scott Galloway's podcast, free speech attorney Greg Lukianoff warned that political administrations are increasingly locking out journalists whose questions make them uncomfortable. More critically, Lukianoff highlighted an upcoming constitutional showdown: whether computer algorithms enjoy free speech rights. If federal regulators claim the power to dictate what opinions an AI model can generate, that authority could quickly expand to censor human digital speech. (Think of it like this: if you invent a robot that writes opinions, does that robot have freedom of speech like a newspaper writer, or can the mayor pull the plug whenever the machine criticizes city hall?) Hear the full legal debate on Prof G Media.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Law, Surveillance & Global Politics",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Russian Press Blackout Sparks Viral Bubonic Plague Panic: False rumors of a new plague outbreak in Russia spread across social media feeds over the weekend, causing widespread panic. Because the Russian government ranks 172nd out of 180 countries in world press freedom and routinely jails independent journalists, ordinary citizens had no trustworthy medical reporting to disprove the claims. (Imagine your school bans all teachers from talking, so students start trading scary rumors about ghost stories at lunch. When governments lock up honest reporters, people end up believing every wild story they see on their phones because nobody trusted is left to tell the truth.) Read the media breakdown in Shit You Should Care About.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Oklahoma Federal Judge Strikes Down Routine Police Flock Camera Searches: A federal judge in Oklahoma ruled that a police officer violated the U.S. Constitution by pulling over a driver based solely on automated license plate camera logs. The officer ran the car's plate through Flock Safety's camera database simply because it carried California plates, using past highway travel to justify searching the vehicle. The judge struck down the tactic as \"indiscriminate mass surveillance\" that directly violates Fourth Amendment protections against unreasonable searches. (Imagine a police officer following you home from school every day just because your bicycle has a sticker from another city. The court ruled that police cannot treat every passing car as a criminal suspect without a specific, real reason.) Review the historic court ruling in 404 Media.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Brazil’s Online Culture Wars Reveal How Social Apps Protect Right-Wing Leaders: Brazil's right-wing political movement scored huge legislative wins this weekend, forcing current President Lula da Silva into a tough runoff election against former leader Jair Bolsonaro’s son Flavio. Internet researcher Ryan Broderick reported that right-wing candidates stayed wildly popular through massive online communities rather than traditional news. Popular church leaders like Bruno Leonardo—whose YouTube channel commands nearly 80 million subscribers—rack up millions of daily views by asking followers to comment prayers. Meanwhile, easy phone-based loan services left over 80% of Brazilian households in debt, creating economic anxiety that right-wing media channels exploit. (Think of social media algorithms like a giant megaphone that gives the loudest voices free extra batteries. Even if voters elect a new leader, the megaphone keeps replaying the old leader's songs, keeping their political movement alive online forever.) Read the deep-dive report on international digital politics in Garbage Day.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Youth, Cognition & Public Health",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Jonathan Haidt Opens the Tech & Society Lab at NYU to Protect Young Minds: Social psychologist Jonathan Haidt and ten scientists at NYU Stern launched a dedicated laboratory to measure how smartphones and AI bots change developing brains. The lab studies how daily screen use disrupts classroom learning, sleep schedules, and face-to-face friendships, publishing practical research toolkits directly to schools, parents, and lawmakers. Explore their research findings at After Babel.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Taking a Two-Week Social Media Break Boosts Teen Mental Health Like Therapy: A major review of clinical experiments revealed that teenagers who step away from social media apps for one to three weeks experience rapid improvements in emotional well-being. The boost in mood and reduction in anxiety matched the positive relief young people typically achieve through weeks of professional mental health counseling. (Stepping away from social media notifications for two weeks acted like a mental reset button, clearing away the constant pressure of comparing everyday life to polished highlights online.) Read the complete clinical review on After Babel.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Culture, Media & the Arts",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Levi’s and Japanese Label Sacai Turn Classic Denim into High-Fashion Outerwear: American denim giant Levi’s teamed up with Japanese luxury streetwear brand Sacai to release a four-piece outerwear capsule. Sacai designer Chitose Abe rebuilt standard Levi's pieces from the ground up, adding warm sherpa linings, sleek leather trims, and integrated belt systems to denim jackets and flared jeans. While everyday 501 jeans sell for under $100, the high-fashion reimagining commands prices between $395 for belted trousers and $795 for heavy winter coats. (Think of regular blue jeans like a standard cotton t-shirt you wear to gym class. A high-fashion designer takes that plain shirt, cuts it into sharp angles, adds military-grade buckles, and turns it into a high-end runway statement piece.) Explore the complete collection details in InsideHook.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Actor Emma D'Arcy Shares an Obsession with Stone Carving and Mk.gee's Raw Guitar: Actor Emma D'Arcy sat down with culture newsletter Perfectly Imperfect to share personal cultural obsessions outside of Hollywood sets. D'Arcy praised indie musician Mk.gee's record Two Star & The Dream Police for channeling raw, nostalgic guitar energy, praised the wilderness reality show Alone for its gritty documentary style, and highlighted a lifelong fascination with historic stone carving tools and gargoyle masonry. Read the full recommendations list on Perfectly Imperfect.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Gaza Documentary Screening Draws Peaceful Crowds in the Hamptons: Hundreds of filmgoers and local community members assembled outside the Sag Harbor Cinema on eastern Long Island for the sold-out premiere of NAZA, an acclaimed documentary directed by award-winning filmmakers Yuval Abraham and Rachel Szor. Local authorities reported that the peaceful screening and sidewalk demonstrations concluded without incident. Read the local dispatch in Feed Me.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Tech Reporter Mike Isaac Leaves The New York Times for The Atlantic: Veteran technology correspondent Mike Isaac spent twelve years breaking front-page scoops about Uber, Meta, and startup boardroom battles for The New York Times. This week, Isaac announced a move to The Atlantic as a senior writer to spearhead deep investigative profiles across the tech landscape. Read about the newsroom move in Feed Me.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Quick Hits & Curiosities",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Five Everyday Hacks to Calm Modern Living Anxiety: Health reporter Tom Ward outlines five practical behavioral tools to help adults navigate daily stress and catastrophizing, including walking a completely new route home from work, noting past hardships you successfully overcame, and taking phone-free walks. Read the mental wellness guide in InsideHook.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "YouTube Cracks Down on Automated \"Clipping\" Accounts on Shorts: YouTube introduced new guidelines that reward original videographers while demoting accounts that chop up popular livestreams into thousands of spammy short clips. Read the policy shift on creator algorithms in Garbage Day.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Viral \"AI Video Game Mashups\" Turn Out to Be Screen-Recording Tricks: Viral clips claiming new artificial intelligence models magically combined Tony Hawk with Kingdom Hearts proved fake, relying on two games running side-by-side rather than real code rewrites. Follow the full technical breakdown in Garbage Day.",
                   "url": "",
                   "bold": false,
                   "italic": false
