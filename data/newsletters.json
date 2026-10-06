@@ -44933,7 +44933,7 @@
       "title": "Cat Food Super Umami, Youngest Exoplanet Elias 2-24b, and Prime Day 201M — Tuesday, October 6, 2026",
       "url": "",
       "description": "Tuesday, October 6, 2026",
-      "body": "Tuesday, October 6, 2026\n\nToday's Numbers\n\n• 201 Million: The number of American households that now subscribe to Amazon Prime, up from 54 million in 2015, as shoppers prepare for the annual fall Prime Big Deal Days (Robinhood Snacks).\n\n• 6 Percentage Points: The polling lead held by Democratic challenger James Talarico over incumbent Republican Ken Paxton in the Texas Senate race, according to a new Times/Siena survey (The New York Times).\n\n• 45 Percent: The year-over-year jump in European electric vehicle registrations through August 2026, reaching a record 1.64 million delivered cars despite subsidy cuts in major markets (Robinhood Snacks).\n\nQuotes of the Day\n\n• \"I wrote every single word with my own human fingers. In a world full of synthetic text, handmade words feel like honest craftsmanship.\" — Author Kevin Roose, explaining why he barred AI writing assistants while authoring his new book The AGI Chronicles (Wired).\n\n• \"You cannot understand his drive until you realize he treats humanity as an engineering problem that only he has the blueprint to solve.\" — Justine Wilson, speaking in the new documentary film Musk about tech billionaire Elon Musk (Wired).\n\nConsumer Trends & Science\n\nCats Demand Fancy Dinners as Pet Food Hits $17 Billion\n\nAmericans spent $17 billion on cat food over the past year, marking a 14 percent jump as pet owners treat their feline companions like family members. Major manufacturers like Mars built specialized tasting kitchens where feline taste-testers sample different formulas. Researchers discovered that cats possess unique taste receptors tuned specifically to tuna. These receptors create a super-savory sensation that cats crave far more than beef or chicken. Companies are now rushing new senior cat lines and gourmet seafood dishes to grocery shelves to cash in on pampering pet owners (The New York Times).\n\nAstronomers Spot Youngest Exoplanet Ever Recorded\n\nScientists using the Atacama Large Millimeter Array telescope spotted the youngest known planet outside our solar system. The baby planet, named Elias 2-24b, orbits a young star about 400 light-years from Earth. Astronomers calculate that the planet is less than one million years old. For comparison, Earth is more than 4.5 billion years old. Elias 2-24b is still scooping up gas and cosmic pebbles from a thick disc of space dust, giving scientists a live front-row look at how giant gas worlds take shape (Wired).\n\nLegal & National Affairs\n\nSupreme Court Opens Term with High-Stakes Climate Lawsuits\n\nThe United States Supreme Court opened its fall session by hearing arguments on whether coastal cities can force oil companies to pay for climate damage. Mayors and local officials argue that petroleum giants concealed their knowledge of carbon pollution for decades and should fund sea walls and flood barriers. Defense lawyers for the energy firms counter that global climate emissions fall strictly under federal regulation rather than local courtroom authority. The justices appeared divided, and their eventual ruling could redirect billions of dollars in storm cleanup costs (The New York Times).\n\nScience & Medicine\n\nNobel Prizes Honor Brain Light Controls and Ghost Particle Detectors\n\nThe Nobel Assembly awarded the 2026 Nobel Prize in Physiology or Medicine to Karl Deisseroth for developing optogenetics. This laboratory technique uses light pulses to switch individual brain cells on and off, helping doctors map neural circuits behind Parkinson's disease and depression. A day later, the Royal Swedish Academy of Sciences awarded the Nobel Prize in Physics to Francis Halzen. Halzen designed the IceCube observatory, which buried thousands of light sensors deep inside Antarctic glaciers to catch high-energy neutrinos—nearly invisible ghost particles that travel across deep space from distant black holes (The New York Times).\n\nBusiness & Entertainment\n\nTom Cruise Satire 'Digger' Stumbles with $18 Million Debut\n\nWarner Bros. suffered a box-office misfire this weekend when its $160 million action satire Digger, starring Tom Cruise, brought in just $18 million across North American theaters. The weak opening lands during a sensitive transition for the studio, representing its final standalone theatrical release before completing its $111 billion mega-merger with Skydance Media. Studio executives hoped Cruise's star power would pull adult moviegoers into theaters, but poor word-of-mouth and mixed reviews kept audiences at home (Robinhood Snacks).\n\nMeta and Microsoft Bar Staff from Using Claude AI\n\nBoth Meta and Microsoft ordered their software engineering teams to halt their use of Anthropic's Claude artificial intelligence models. Internal memos warned engineers that feeding internal project files or proprietary computer code into third-party AI assistants poses serious security and trade-secret risks. The policy forces developers back onto in-house AI coding tools, highlighting the fierce corporate rivalry as major tech firms guard their intellectual property (Robinhood Snacks).\n\nQuick Hits & Curiosities\n\n• OpenAI Tests Visual Ads: OpenAI started testing banner advertisements and sponsored product tiles inside free ChatGPT web sessions to monetize its 1.2 billion weekly active users (Robinhood Snacks).\n\n• Wild New Web Addresses: The Internet Corporation for Assigned Names and Numbers (ICANN) approved hundreds of new website domain endings, opening the door for businesses and creators to buy web addresses ending in .meow, .fart, and .vibes (Wired).\n\n• Robot Theme Park Opens: A futuristic entertainment park featuring 40 humanoid robots opened outside Seoul, South Korea, where mechanical greeters serve refreshments and perform synchronized hip-hop routines (The New York Times).\n\n• Cornell Faculty Tension: The faculty senate at Cornell University prepared a formal vote of no confidence against school administrators over campus safety protocols and emergency communication (The New York Times).\n\n• Intel Stock Slides: Shares of chipmaker Intel dropped 4 percent following reports that Taiwan Semiconductor Manufacturing Co. (TSMC) opened partnership discussions with Elon Musk's competing Terafab venture (Robinhood Snacks).",
+      "body": "Tuesday, October 6, 2026\n\nToday's Numbers\n\n• 15 Minutes: The brief meeting time it took private equity firm Blue Owl to approve up to $10 billion in data center investments alongside Primary Digital Infrastructure (Where's Your Ed At).\n\n• 50 Years: Time elapsed since 1975, during which the share of American adults who regularly host friends for home dinner parties has steadily fallen (On the House).\n\nQuotes of the Day\n\n• \"Anthropic and OpenAI do not resemble the financial condition of any company I could find in the history of the stock market outside of WeWork. They are unprofitable, unsustainable, and the only conditions under which they could raise significant debt is with junk ratings.\" — Ed Zitron, tech and financial analyst, on the brewing credit squeeze facing AI labs, via Where's Your Ed At.\n\nSoftware, AI & Security\n\nBen Thompson's Mac Mini Gets Hacked—and His AI Agent Spots It\n\nA patched macOS screen-sharing security flaw infected an analyst's server before an autonomous assistant raised the alarm.\n\nTech analyst Ben Thompson revealed that attackers breached his headless Mac Mini server through a high-severity macOS screen-sharing vulnerability tracked as CVE-2026-65400. Attackers gained root access through exposed port 5900 and planted a Monero cryptocurrency miner. Fortunately, Thompson ran a persistent Claude Code agent on the computer. The agent detected unauthorized admin privileges, halted its own commands, and notified Thompson, allowing him to scrub the malware within minutes. Thompson notes that while his agent saved him, Apple's rigid permission screens make managing headless computers frustrating, pushing technical users toward Linux servers. Read the complete security post-mortem on Stratechery.\n\nBusiness, Capital & Tech Infrastructure\n\nThe AI Data Center Debt Squeeze: Bond Markets Balk at Megawatt Loans\n\nRising Treasury yields and skeptical lenders threaten to derail ambitious cloud computing construction projects.\n\nFinancial markets are turning cold on the multi-billion-dollar debt boom powering artificial intelligence data centers. Ten-year U.S. Treasury yields climbed past 5.3%, making corporate loans substantially more expensive across the board. Major global banks, including Société Générale and Mitsubishi UFJ, are growing cautious about underwriting unbacked data center campuses. At the same time, leading AI labs face negative cash flows and massive compute obligations, raising doubts about how they will fund tens of billions in annual operations once public. Read the full financial analysis in Where's Your Ed At.\n\nLegal & National Affairs\n\nLawmakers Introduce \"Ban Flock Act\" to Bar Federal License Plate Surveillance\n\nA bipartisan congressional coalition moves to block federal agencies from tapping nationwide vehicle tracking cameras.\n\nSenators Bernie Sanders and Jeff Merkley, alongside Representative Alexandria Ocasio-Cortez, introduced federal legislation to prohibit government agencies from accessing automated license plate reader networks. The \"Ban Flock Act\" bans federal law enforcement from using private license plate camera databases and blocks federal grant money to state and local police forces that deploy them. The bill also grants citizens the right to sue federal agencies that track their vehicle movements without a warrant. Review the legislative push in 404 Media.\n\nQuick Hits & Curiosities\n\n• Apple Readies 6-inch Smart Home Display: Apple plans an October 13 product launch featuring a 6-inch square wall-mounted smart home command hub running a redesigned Siri assistant. Read the hardware report on Stratechery via Bloomberg.\n\n• Mike Tomlin's 12-Year Minecraft City: Former Pittsburgh Steelers head coach Mike Tomlin surprised football fans by sharing a vast digital city he quietly constructed inside Minecraft over twelve years between NFL seasons. Watch the city reveal on 404 Media.\n\n• Formula 1 Engineers Push Mid-Race Code Update: A sudden software bug drained engine power from race cars during an F1 grand prix in Bahrain until race engineers rapidly coded and deployed an over-the-air software update during the race itself. Read the racing dispatch on 404 Media.\n\n• Matthew Gasda Tackles Near-Future AI in 'Stranger Beauty': Playwright Matthew Gasda published Stranger Beauty, a speculative novel set in 2038 Manhattan where an artist wrestles with household surveillance bots, lab-grown food, and AI-generated theater productions. Read the literary review on The Republic of Letters.",
       "blocks": [
         {
           "type": "paragraph",
@@ -44947,7 +44947,7 @@
           ]
         },
         {
-          "type": "paragraph",
+          "type": "heading_2",
           "runs": [
             {
               "text": "Today's Numbers",
@@ -44961,7 +44961,7 @@
           "type": "bulleted_list_item",
           "runs": [
             {
-              "text": "201 Million: The number of American households that now subscribe to Amazon Prime, up from 54 million in 2015, as shoppers prepare for the annual fall Prime Big Deal Days (Robinhood Snacks).",
+              "text": "15 Minutes: The brief meeting time it took private equity firm Blue Owl to approve up to $10 billion in data center investments alongside Primary Digital Infrastructure (Where's Your Ed At).",
               "url": "",
               "bold": false,
               "italic": false
@@ -44972,7 +44972,7 @@
           "type": "bulleted_list_item",
           "runs": [
             {
-              "text": "6 Percentage Points: The polling lead held by Democratic challenger James Talarico over incumbent Republican Ken Paxton in the Texas Senate race, according to a new Times/Siena survey (The New York Times).",
+              "text": "50 Years: Time elapsed since 1975, during which the share of American adults who regularly host friends for home dinner parties has steadily fallen (On the House).",
               "url": "",
               "bold": false,
               "italic": false
@@ -44980,18 +44980,7 @@
           ]
         },
         {
-          "type": "bulleted_list_item",
-          "runs": [
-            {
-              "text": "45 Percent: The year-over-year jump in European electric vehicle registrations through August 2026, reaching a record 1.64 million delivered cars despite subsidy cuts in major markets (Robinhood Snacks).",
-              "url": "",
-              "bold": false,
-              "italic": false
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
+          "type": "heading_2",
           "runs": [
             {
               "text": "Quotes of the Day",
@@ -45005,7 +44994,7 @@
           "type": "bulleted_list_item",
           "runs": [
             {
-              "text": "\"I wrote every single word with my own human fingers. In a world full of synthetic text, handmade words feel like honest craftsmanship.\" — Author Kevin Roose, explaining why he barred AI writing assistants while authoring his new book The AGI Chronicles (Wired).",
+              "text": "\"Anthropic and OpenAI do not resemble the financial condition of any company I could find in the history of the stock market outside of WeWork. They are unprofitable, unsustainable, and the only conditions under which they could raise significant debt is with junk ratings.\" — Ed Zitron, tech and financial analyst, on the brewing credit squeeze facing AI labs, via Where's Your Ed At.",
               "url": "",
               "bold": false,
               "italic": false
@@ -45013,10 +45002,10 @@
           ]
         },
         {
-          "type": "bulleted_list_item",
+          "type": "heading_2",
           "runs": [
             {
-              "text": "\"You cannot understand his drive until you realize he treats humanity as an engineering problem that only he has the blueprint to solve.\" — Justine Wilson, speaking in the new documentary film Musk about tech billionaire Elon Musk (Wired).",
+              "text": "Software, AI & Security",
               "url": "",
               "bold": false,
               "italic": false
@@ -45027,7 +45016,13 @@
           "type": "paragraph",
           "runs": [
             {
-              "text": "Consumer Trends & Science",
+              "text": "Ben Thompson's Mac Mini Gets Hacked—and His AI Agent Spots It",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": "  ",
               "url": "",
               "bold": false,
               "italic": false
@@ -45038,7 +45033,7 @@
           "type": "paragraph",
           "runs": [
             {
-              "text": "Cats Demand Fancy Dinners as Pet Food Hits $17 Billion",
+              "text": "A patched macOS screen-sharing security flaw infected an analyst's server before an autonomous assistant raised the alarm.  ",
               "url": "",
               "bold": false,
               "italic": false
@@ -45049,7 +45044,30 @@
           "type": "paragraph",
           "runs": [
             {
-              "text": "Americans spent $17 billion on cat food over the past year, marking a 14 percent jump as pet owners treat their feline companions like family members. Major manufacturers like Mars built specialized tasting kitchens where feline taste-testers sample different formulas. Researchers discovered that cats possess unique taste receptors tuned specifically to tuna. These receptors create a super-savory sensation that cats crave far more than beef or chicken. Companies are now rushing new senior cat lines and gourmet seafood dishes to grocery shelves to cash in on pampering pet owners (The New York Times).",
+              "text": "Tech analyst Ben Thompson revealed that attackers breached his headless Mac Mini server through a high-severity macOS screen-sharing vulnerability tracked as CVE-2026-65400. Attackers gained root access through exposed port 5900 and planted a Monero cryptocurrency miner. Fortunately, Thompson ran a persistent Claude Code agent on the computer. The agent detected unauthorized admin privileges, halted its own commands, and notified Thompson, allowing him to scrub the malware within minutes. Thompson notes that while his agent saved him, Apple's rigid permission screens make managing headless computers frustrating, pushing technical users toward Linux servers. Read the complete security post-mortem on ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Stratechery",
+              "url": "https://stratechery.com/2026/apple-and-a-hackers-future/",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ".",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "heading_2",
+          "runs": [
+            {
+              "text": "Business, Capital & Tech Infrastructure",
               "url": "",
               "bold": false,
               "italic": false
@@ -45060,7 +45078,13 @@
           "type": "paragraph",
           "runs": [
             {
-              "text": "Astronomers Spot Youngest Exoplanet Ever Recorded",
+              "text": "The AI Data Center Debt Squeeze: Bond Markets Balk at Megawatt Loans",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": "  ",
               "url": "",
               "bold": false,
               "italic": false
@@ -45071,7 +45095,7 @@
           "type": "paragraph",
           "runs": [
             {
-              "text": "Scientists using the Atacama Large Millimeter Array telescope spotted the youngest known planet outside our solar system. The baby planet, named Elias 2-24b, orbits a young star about 400 light-years from Earth. Astronomers calculate that the planet is less than one million years old. For comparison, Earth is more than 4.5 billion years old. Elias 2-24b is still scooping up gas and cosmic pebbles from a thick disc of space dust, giving scientists a live front-row look at how giant gas worlds take shape (Wired).",
+              "text": "Rising Treasury yields and skeptical lenders threaten to derail ambitious cloud computing construction projects.  ",
               "url": "",
               "bold": false,
               "italic": false
@@ -45080,6 +45104,29 @@
         },
         {
           "type": "paragraph",
+          "runs": [
+            {
+              "text": "Financial markets are turning cold on the multi-billion-dollar debt boom powering artificial intelligence data centers. Ten-year U.S. Treasury yields climbed past 5.3%, making corporate loans substantially more expensive across the board. Major global banks, including Société Générale and Mitsubishi UFJ, are growing cautious about underwriting unbacked data center campuses. At the same time, leading AI labs face negative cash flows and massive compute obligations, raising doubts about how they will fund tens of billions in annual operations once public. Read the full financial analysis in ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Where's Your Ed At",
+              "url": "https://www.wheresyoured.at/",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ".",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "heading_2",
           "runs": [
             {
               "text": "Legal & National Affairs",
@@ -45093,7 +45140,13 @@
           "type": "paragraph",
           "runs": [
             {
-              "text": "Supreme Court Opens Term with High-Stakes Climate Lawsuits",
+              "text": "Lawmakers Introduce \"Ban Flock Act\" to Bar Federal License Plate Surveillance",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": "  ",
               "url": "",
               "bold": false,
               "italic": false
@@ -45104,7 +45157,7 @@
           "type": "paragraph",
           "runs": [
             {
-              "text": "The United States Supreme Court opened its fall session by hearing arguments on whether coastal cities can force oil companies to pay for climate damage. Mayors and local officials argue that petroleum giants concealed their knowledge of carbon pollution for decades and should fund sea walls and flood barriers. Defense lawyers for the energy firms counter that global climate emissions fall strictly under federal regulation rather than local courtroom authority. The justices appeared divided, and their eventual ruling could redirect billions of dollars in storm cleanup costs (The New York Times).",
+              "text": "A bipartisan congressional coalition moves to block federal agencies from tapping nationwide vehicle tracking cameras.  ",
               "url": "",
               "bold": false,
               "italic": false
@@ -45115,29 +45168,19 @@
           "type": "paragraph",
           "runs": [
             {
-              "text": "Science & Medicine",
+              "text": "Senators Bernie Sanders and Jeff Merkley, alongside Representative Alexandria Ocasio-Cortez, introduced federal legislation to prohibit government agencies from accessing automated license plate reader networks. The \"Ban Flock Act\" bans federal law enforcement from using private license plate camera databases and blocks federal grant money to state and local police forces that deploy them. The bill also grants citizens the right to sue federal agencies that track their vehicle movements without a warrant. Review the legislative push in ",
               "url": "",
               "bold": false,
               "italic": false
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "runs": [
+            },
             {
-              "text": "Nobel Prizes Honor Brain Light Controls and Ghost Particle Detectors",
-              "url": "",
+              "text": "404 Media",
+              "url": "https://www.404media.co/",
               "bold": false,
               "italic": false
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "runs": [
+            },
             {
-              "text": "The Nobel Assembly awarded the 2026 Nobel Prize in Physiology or Medicine to Karl Deisseroth for developing optogenetics. This laboratory technique uses light pulses to switch individual brain cells on and off, helping doctors map neural circuits behind Parkinson's disease and depression. A day later, the Royal Swedish Academy of Sciences awarded the Nobel Prize in Physics to Francis Halzen. Halzen designed the IceCube observatory, which buried thousands of light sensors deep inside Antarctic glaciers to catch high-energy neutrinos—nearly invisible ghost particles that travel across deep space from distant black holes (The New York Times).",
+              "text": ".",
               "url": "",
               "bold": false,
               "italic": false
@@ -45145,62 +45188,7 @@
           ]
         },
         {
-          "type": "paragraph",
-          "runs": [
-            {
-              "text": "Business & Entertainment",
-              "url": "",
-              "bold": false,
-              "italic": false
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "runs": [
-            {
-              "text": "Tom Cruise Satire 'Digger' Stumbles with $18 Million Debut",
-              "url": "",
-              "bold": false,
-              "italic": false
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "runs": [
-            {
-              "text": "Warner Bros. suffered a box-office misfire this weekend when its $160 million action satire Digger, starring Tom Cruise, brought in just $18 million across North American theaters. The weak opening lands during a sensitive transition for the studio, representing its final standalone theatrical release before completing its $111 billion mega-merger with Skydance Media. Studio executives hoped Cruise's star power would pull adult moviegoers into theaters, but poor word-of-mouth and mixed reviews kept audiences at home (Robinhood Snacks).",
-              "url": "",
-              "bold": false,
-              "italic": false
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "runs": [
-            {
-              "text": "Meta and Microsoft Bar Staff from Using Claude AI",
-              "url": "",
-              "bold": false,
-              "italic": false
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "runs": [
-            {
-              "text": "Both Meta and Microsoft ordered their software engineering teams to halt their use of Anthropic's Claude artificial intelligence models. Internal memos warned engineers that feeding internal project files or proprietary computer code into third-party AI assistants poses serious security and trade-secret risks. The policy forces developers back onto in-house AI coding tools, highlighting the fierce corporate rivalry as major tech firms guard their intellectual property (Robinhood Snacks).",
-              "url": "",
-              "bold": false,
-              "italic": false
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
+          "type": "heading_2",
           "runs": [
             {
               "text": "Quick Hits & Curiosities",
@@ -45214,7 +45202,31 @@
           "type": "bulleted_list_item",
           "runs": [
             {
-              "text": "OpenAI Tests Visual Ads: OpenAI started testing banner advertisements and sponsored product tiles inside free ChatGPT web sessions to monetize its 1.2 billion weekly active users (Robinhood Snacks).",
+              "text": "Apple Readies 6-inch Smart Home Display: Apple plans an October 13 product launch featuring a 6-inch square wall-mounted smart home command hub running a redesigned Siri assistant. Read the hardware report on ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Stratechery",
+              "url": "https://stratechery.com/2026/apple-and-a-hackers-future/",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": " via ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Bloomberg",
+              "url": "https://www.bloomberg.com/",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ".",
               "url": "",
               "bold": false,
               "italic": false
@@ -45225,7 +45237,19 @@
           "type": "bulleted_list_item",
           "runs": [
             {
-              "text": "Wild New Web Addresses: The Internet Corporation for Assigned Names and Numbers (ICANN) approved hundreds of new website domain endings, opening the door for businesses and creators to buy web addresses ending in .meow, .fart, and .vibes (Wired).",
+              "text": "Mike Tomlin's 12-Year Minecraft City: Former Pittsburgh Steelers head coach Mike Tomlin surprised football fans by sharing a vast digital city he quietly constructed inside Minecraft over twelve years between NFL seasons. Watch the city reveal on ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "404 Media",
+              "url": "https://www.404media.co/",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ".",
               "url": "",
               "bold": false,
               "italic": false
@@ -45236,7 +45260,19 @@
           "type": "bulleted_list_item",
           "runs": [
             {
-              "text": "Robot Theme Park Opens: A futuristic entertainment park featuring 40 humanoid robots opened outside Seoul, South Korea, where mechanical greeters serve refreshments and perform synchronized hip-hop routines (The New York Times).",
+              "text": "Formula 1 Engineers Push Mid-Race Code Update: A sudden software bug drained engine power from race cars during an F1 grand prix in Bahrain until race engineers rapidly coded and deployed an over-the-air software update during the race itself. Read the racing dispatch on ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "404 Media",
+              "url": "https://www.404media.co/",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ".",
               "url": "",
               "bold": false,
               "italic": false
@@ -45247,18 +45283,19 @@
           "type": "bulleted_list_item",
           "runs": [
             {
-              "text": "Cornell Faculty Tension: The faculty senate at Cornell University prepared a formal vote of no confidence against school administrators over campus safety protocols and emergency communication (The New York Times).",
+              "text": "Matthew Gasda Tackles Near-Future AI in 'Stranger Beauty': Playwright Matthew Gasda published Stranger Beauty, a speculative novel set in 2038 Manhattan where an artist wrestles with household surveillance bots, lab-grown food, and AI-generated theater productions. Read the literary review on ",
               "url": "",
               "bold": false,
               "italic": false
-            }
-          ]
-        },
-        {
-          "type": "bulleted_list_item",
-          "runs": [
+            },
             {
-              "text": "Intel Stock Slides: Shares of chipmaker Intel dropped 4 percent following reports that Taiwan Semiconductor Manufacturing Co. (TSMC) opened partnership discussions with Elon Musk's competing Terafab venture (Robinhood Snacks).",
+              "text": "The Republic of Letters",
+              "url": "https://therepublicofletters.substack.com/p/matthew-gasdas-stranger-beauty",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ".",
               "url": "",
               "bold": false,
               "italic": false
@@ -45267,7 +45304,28 @@
         }
       ],
       "publishedAt": "2026-10-06T12:31:00Z",
-      "links": [],
+      "links": [
+        {
+          "title": "Stratechery",
+          "url": "https://stratechery.com/2026/apple-and-a-hackers-future/"
+        },
+        {
+          "title": "Where's Your Ed At",
+          "url": "https://www.wheresyoured.at/"
+        },
+        {
+          "title": "404 Media",
+          "url": "https://www.404media.co/"
+        },
+        {
+          "title": "Bloomberg",
+          "url": "https://www.bloomberg.com/"
+        },
+        {
+          "title": "The Republic of Letters",
+          "url": "https://therepublicofletters.substack.com/p/matthew-gasdas-stranger-beauty"
+        }
+      ],
       "versions": {
         "morning": {
           "body": "Tuesday, October 6, 2026\n\nToday's Numbers\n\n• 201 Million: The number of American households that now subscribe to Amazon Prime, up from 54 million in 2015, as shoppers prepare for the annual fall Prime Big Deal Days (Robinhood Snacks).\n\n• 6 Percentage Points: The polling lead held by Democratic challenger James Talarico over incumbent Republican Ken Paxton in the Texas Senate race, according to a new Times/Siena survey (The New York Times).\n\n• 45 Percent: The year-over-year jump in European electric vehicle registrations through August 2026, reaching a record 1.64 million delivered cars despite subsidy cuts in major markets (Robinhood Snacks).\n\nQuotes of the Day\n\n• \"I wrote every single word with my own human fingers. In a world full of synthetic text, handmade words feel like honest craftsmanship.\" — Author Kevin Roose, explaining why he barred AI writing assistants while authoring his new book The AGI Chronicles (Wired).\n\n• \"You cannot understand his drive until you realize he treats humanity as an engineering problem that only he has the blueprint to solve.\" — Justine Wilson, speaking in the new documentary film Musk about tech billionaire Elon Musk (Wired).\n\nConsumer Trends & Science\n\nCats Demand Fancy Dinners as Pet Food Hits $17 Billion\n\nAmericans spent $17 billion on cat food over the past year, marking a 14 percent jump as pet owners treat their feline companions like family members. Major manufacturers like Mars built specialized tasting kitchens where feline taste-testers sample different formulas. Researchers discovered that cats possess unique taste receptors tuned specifically to tuna. These receptors create a super-savory sensation that cats crave far more than beef or chicken. Companies are now rushing new senior cat lines and gourmet seafood dishes to grocery shelves to cash in on pampering pet owners (The New York Times).\n\nAstronomers Spot Youngest Exoplanet Ever Recorded\n\nScientists using the Atacama Large Millimeter Array telescope spotted the youngest known planet outside our solar system. The baby planet, named Elias 2-24b, orbits a young star about 400 light-years from Earth. Astronomers calculate that the planet is less than one million years old. For comparison, Earth is more than 4.5 billion years old. Elias 2-24b is still scooping up gas and cosmic pebbles from a thick disc of space dust, giving scientists a live front-row look at how giant gas worlds take shape (Wired).\n\nLegal & National Affairs\n\nSupreme Court Opens Term with High-Stakes Climate Lawsuits\n\nThe United States Supreme Court opened its fall session by hearing arguments on whether coastal cities can force oil companies to pay for climate damage. Mayors and local officials argue that petroleum giants concealed their knowledge of carbon pollution for decades and should fund sea walls and flood barriers. Defense lawyers for the energy firms counter that global climate emissions fall strictly under federal regulation rather than local courtroom authority. The justices appeared divided, and their eventual ruling could redirect billions of dollars in storm cleanup costs (The New York Times).\n\nScience & Medicine\n\nNobel Prizes Honor Brain Light Controls and Ghost Particle Detectors\n\nThe Nobel Assembly awarded the 2026 Nobel Prize in Physiology or Medicine to Karl Deisseroth for developing optogenetics. This laboratory technique uses light pulses to switch individual brain cells on and off, helping doctors map neural circuits behind Parkinson's disease and depression. A day later, the Royal Swedish Academy of Sciences awarded the Nobel Prize in Physics to Francis Halzen. Halzen designed the IceCube observatory, which buried thousands of light sensors deep inside Antarctic glaciers to catch high-energy neutrinos—nearly invisible ghost particles that travel across deep space from distant black holes (The New York Times).\n\nBusiness & Entertainment\n\nTom Cruise Satire 'Digger' Stumbles with $18 Million Debut\n\nWarner Bros. suffered a box-office misfire this weekend when its $160 million action satire Digger, starring Tom Cruise, brought in just $18 million across North American theaters. The weak opening lands during a sensitive transition for the studio, representing its final standalone theatrical release before completing its $111 billion mega-merger with Skydance Media. Studio executives hoped Cruise's star power would pull adult moviegoers into theaters, but poor word-of-mouth and mixed reviews kept audiences at home (Robinhood Snacks).\n\nMeta and Microsoft Bar Staff from Using Claude AI\n\nBoth Meta and Microsoft ordered their software engineering teams to halt their use of Anthropic's Claude artificial intelligence models. Internal memos warned engineers that feeding internal project files or proprietary computer code into third-party AI assistants poses serious security and trade-secret risks. The policy forces developers back onto in-house AI coding tools, highlighting the fierce corporate rivalry as major tech firms guard their intellectual property (Robinhood Snacks).\n\nQuick Hits & Curiosities\n\n• OpenAI Tests Visual Ads: OpenAI started testing banner advertisements and sponsored product tiles inside free ChatGPT web sessions to monetize its 1.2 billion weekly active users (Robinhood Snacks).\n\n• Wild New Web Addresses: The Internet Corporation for Assigned Names and Numbers (ICANN) approved hundreds of new website domain endings, opening the door for businesses and creators to buy web addresses ending in .meow, .fart, and .vibes (Wired).\n\n• Robot Theme Park Opens: A futuristic entertainment park featuring 40 humanoid robots opened outside Seoul, South Korea, where mechanical greeters serve refreshments and perform synchronized hip-hop routines (The New York Times).\n\n• Cornell Faculty Tension: The faculty senate at Cornell University prepared a formal vote of no confidence against school administrators over campus safety protocols and emergency communication (The New York Times).\n\n• Intel Stock Slides: Shares of chipmaker Intel dropped 4 percent following reports that Taiwan Semiconductor Manufacturing Co. (TSMC) opened partnership discussions with Elon Musk's competing Terafab venture (Robinhood Snacks).",
@@ -45284,7 +45342,7 @@
               ]
             },
             {
-              "type": "paragraph",
+              "type": "heading_2",
               "runs": [
                 {
                   "text": "Today's Numbers",
@@ -45328,7 +45386,7 @@
               ]
             },
             {
-              "type": "paragraph",
+              "type": "heading_2",
               "runs": [
                 {
                   "text": "Quotes of the Day",
@@ -45361,7 +45419,7 @@
               ]
             },
             {
-              "type": "paragraph",
+              "type": "heading_2",
               "runs": [
                 {
                   "text": "Consumer Trends & Science",
@@ -45376,6 +45434,12 @@
               "runs": [
                 {
                   "text": "Cats Demand Fancy Dinners as Pet Food Hits $17 Billion",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": "  ",
                   "url": "",
                   "bold": false,
                   "italic": false
@@ -45399,6 +45463,12 @@
                 {
                   "text": "Astronomers Spot Youngest Exoplanet Ever Recorded",
                   "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": "  ",
+                  "url": "",
                   "bold": false,
                   "italic": false
                 }
@@ -45416,7 +45486,7 @@
               ]
             },
             {
-              "type": "paragraph",
+              "type": "heading_2",
               "runs": [
                 {
                   "text": "Legal & National Affairs",
@@ -45431,6 +45501,12 @@
               "runs": [
                 {
                   "text": "Supreme Court Opens Term with High-Stakes Climate Lawsuits",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": "  ",
                   "url": "",
                   "bold": false,
                   "italic": false
@@ -45449,7 +45525,7 @@
               ]
             },
             {
-              "type": "paragraph",
+              "type": "heading_2",
               "runs": [
                 {
                   "text": "Science & Medicine",
@@ -45464,6 +45540,12 @@
               "runs": [
                 {
                   "text": "Nobel Prizes Honor Brain Light Controls and Ghost Particle Detectors",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": "  ",
                   "url": "",
                   "bold": false,
                   "italic": false
@@ -45482,7 +45564,7 @@
               ]
             },
             {
-              "type": "paragraph",
+              "type": "heading_2",
               "runs": [
                 {
                   "text": "Business & Entertainment",
@@ -45497,6 +45579,12 @@
               "runs": [
                 {
                   "text": "Tom Cruise Satire 'Digger' Stumbles with $18 Million Debut",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": "  ",
                   "url": "",
                   "bold": false,
                   "italic": false
@@ -45520,6 +45608,12 @@
                 {
                   "text": "Meta and Microsoft Bar Staff from Using Claude AI",
                   "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": "  ",
+                  "url": "",
                   "bold": false,
                   "italic": false
                 }
@@ -45537,7 +45631,7 @@
               ]
             },
             {
-              "type": "paragraph",
+              "type": "heading_2",
               "runs": [
                 {
                   "text": "Quick Hits & Curiosities",
@@ -45605,8 +45699,1066 @@
           ],
           "links": []
         },
+        "midday": {
+          "body": "Tuesday, October 6, 2026\n\nToday's Numbers\n\n• 15 Minutes: The brief meeting time it took private equity firm Blue Owl to approve up to $10 billion in data center investments alongside Primary Digital Infrastructure (Where's Your Ed At).\n\n• 50 Years: Time elapsed since 1975, during which the share of American adults who regularly host friends for home dinner parties has steadily fallen (On the House).\n\nQuotes of the Day\n\n• \"Anthropic and OpenAI do not resemble the financial condition of any company I could find in the history of the stock market outside of WeWork. They are unprofitable, unsustainable, and the only conditions under which they could raise significant debt is with junk ratings.\" — Ed Zitron, tech and financial analyst, on the brewing credit squeeze facing AI labs, via Where's Your Ed At.\n\nSoftware, AI & Security\n\nBen Thompson's Mac Mini Gets Hacked—and His AI Agent Spots It\n\nA patched macOS screen-sharing security flaw infected an analyst's server before an autonomous assistant raised the alarm.\n\nTech analyst Ben Thompson revealed that attackers breached his headless Mac Mini server through a high-severity macOS screen-sharing vulnerability tracked as CVE-2026-65400. Attackers gained root access through exposed port 5900 and planted a Monero cryptocurrency miner. Fortunately, Thompson ran a persistent Claude Code agent on the computer. The agent detected unauthorized admin privileges, halted its own commands, and notified Thompson, allowing him to scrub the malware within minutes. Thompson notes that while his agent saved him, Apple's rigid permission screens make managing headless computers frustrating, pushing technical users toward Linux servers. Read the complete security post-mortem on Stratechery.\n\nBusiness, Capital & Tech Infrastructure\n\nThe AI Data Center Debt Squeeze: Bond Markets Balk at Megawatt Loans\n\nRising Treasury yields and skeptical lenders threaten to derail ambitious cloud computing construction projects.\n\nFinancial markets are turning cold on the multi-billion-dollar debt boom powering artificial intelligence data centers. Ten-year U.S. Treasury yields climbed past 5.3%, making corporate loans substantially more expensive across the board. Major global banks, including Société Générale and Mitsubishi UFJ, are growing cautious about underwriting unbacked data center campuses. At the same time, leading AI labs face negative cash flows and massive compute obligations, raising doubts about how they will fund tens of billions in annual operations once public. Read the full financial analysis in Where's Your Ed At.\n\nLegal & National Affairs\n\nLawmakers Introduce \"Ban Flock Act\" to Bar Federal License Plate Surveillance\n\nA bipartisan congressional coalition moves to block federal agencies from tapping nationwide vehicle tracking cameras.\n\nSenators Bernie Sanders and Jeff Merkley, alongside Representative Alexandria Ocasio-Cortez, introduced federal legislation to prohibit government agencies from accessing automated license plate reader networks. The \"Ban Flock Act\" bans federal law enforcement from using private license plate camera databases and blocks federal grant money to state and local police forces that deploy them. The bill also grants citizens the right to sue federal agencies that track their vehicle movements without a warrant. Review the legislative push in 404 Media.\n\nQuick Hits & Curiosities\n\n• Apple Readies 6-inch Smart Home Display: Apple plans an October 13 product launch featuring a 6-inch square wall-mounted smart home command hub running a redesigned Siri assistant. Read the hardware report on Stratechery via Bloomberg.\n\n• Mike Tomlin's 12-Year Minecraft City: Former Pittsburgh Steelers head coach Mike Tomlin surprised football fans by sharing a vast digital city he quietly constructed inside Minecraft over twelve years between NFL seasons. Watch the city reveal on 404 Media.\n\n• Formula 1 Engineers Push Mid-Race Code Update: A sudden software bug drained engine power from race cars during an F1 grand prix in Bahrain until race engineers rapidly coded and deployed an over-the-air software update during the race itself. Read the racing dispatch on 404 Media.\n\n• Matthew Gasda Tackles Near-Future AI in 'Stranger Beauty': Playwright Matthew Gasda published Stranger Beauty, a speculative novel set in 2038 Manhattan where an artist wrestles with household surveillance bots, lab-grown food, and AI-generated theater productions. Read the literary review on The Republic of Letters.",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Tuesday, October 6, 2026",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "heading_2",
+              "runs": [
+                {
+                  "text": "Today's Numbers",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "15 Minutes: The brief meeting time it took private equity firm Blue Owl to approve up to $10 billion in data center investments alongside Primary Digital Infrastructure (Where's Your Ed At).",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "50 Years: Time elapsed since 1975, during which the share of American adults who regularly host friends for home dinner parties has steadily fallen (On the House).",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "heading_2",
+              "runs": [
+                {
+                  "text": "Quotes of the Day",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "\"Anthropic and OpenAI do not resemble the financial condition of any company I could find in the history of the stock market outside of WeWork. They are unprofitable, unsustainable, and the only conditions under which they could raise significant debt is with junk ratings.\" — Ed Zitron, tech and financial analyst, on the brewing credit squeeze facing AI labs, via Where's Your Ed At.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "heading_2",
+              "runs": [
+                {
+                  "text": "Software, AI & Security",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Ben Thompson's Mac Mini Gets Hacked—and His AI Agent Spots It",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": "  ",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "A patched macOS screen-sharing security flaw infected an analyst's server before an autonomous assistant raised the alarm.  ",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Tech analyst Ben Thompson revealed that attackers breached his headless Mac Mini server through a high-severity macOS screen-sharing vulnerability tracked as CVE-2026-65400. Attackers gained root access through exposed port 5900 and planted a Monero cryptocurrency miner. Fortunately, Thompson ran a persistent Claude Code agent on the computer. The agent detected unauthorized admin privileges, halted its own commands, and notified Thompson, allowing him to scrub the malware within minutes. Thompson notes that while his agent saved him, Apple's rigid permission screens make managing headless computers frustrating, pushing technical users toward Linux servers. Read the complete security post-mortem on ",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Stratechery",
+                  "url": "https://stratechery.com/2026/apple-and-a-hackers-future/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ".",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "heading_2",
+              "runs": [
+                {
+                  "text": "Business, Capital & Tech Infrastructure",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "The AI Data Center Debt Squeeze: Bond Markets Balk at Megawatt Loans",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": "  ",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Rising Treasury yields and skeptical lenders threaten to derail ambitious cloud computing construction projects.  ",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Financial markets are turning cold on the multi-billion-dollar debt boom powering artificial intelligence data centers. Ten-year U.S. Treasury yields climbed past 5.3%, making corporate loans substantially more expensive across the board. Major global banks, including Société Générale and Mitsubishi UFJ, are growing cautious about underwriting unbacked data center campuses. At the same time, leading AI labs face negative cash flows and massive compute obligations, raising doubts about how they will fund tens of billions in annual operations once public. Read the full financial analysis in ",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Where's Your Ed At",
+                  "url": "https://www.wheresyoured.at/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ".",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "heading_2",
+              "runs": [
+                {
+                  "text": "Legal & National Affairs",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Lawmakers Introduce \"Ban Flock Act\" to Bar Federal License Plate Surveillance",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": "  ",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "A bipartisan congressional coalition moves to block federal agencies from tapping nationwide vehicle tracking cameras.  ",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Senators Bernie Sanders and Jeff Merkley, alongside Representative Alexandria Ocasio-Cortez, introduced federal legislation to prohibit government agencies from accessing automated license plate reader networks. The \"Ban Flock Act\" bans federal law enforcement from using private license plate camera databases and blocks federal grant money to state and local police forces that deploy them. The bill also grants citizens the right to sue federal agencies that track their vehicle movements without a warrant. Review the legislative push in ",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "404 Media",
+                  "url": "https://www.404media.co/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ".",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "heading_2",
+              "runs": [
+                {
+                  "text": "Quick Hits & Curiosities",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Apple Readies 6-inch Smart Home Display: Apple plans an October 13 product launch featuring a 6-inch square wall-mounted smart home command hub running a redesigned Siri assistant. Read the hardware report on ",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Stratechery",
+                  "url": "https://stratechery.com/2026/apple-and-a-hackers-future/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": " via ",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Bloomberg",
+                  "url": "https://www.bloomberg.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ".",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Mike Tomlin's 12-Year Minecraft City: Former Pittsburgh Steelers head coach Mike Tomlin surprised football fans by sharing a vast digital city he quietly constructed inside Minecraft over twelve years between NFL seasons. Watch the city reveal on ",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "404 Media",
+                  "url": "https://www.404media.co/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ".",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Formula 1 Engineers Push Mid-Race Code Update: A sudden software bug drained engine power from race cars during an F1 grand prix in Bahrain until race engineers rapidly coded and deployed an over-the-air software update during the race itself. Read the racing dispatch on ",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "404 Media",
+                  "url": "https://www.404media.co/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ".",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Matthew Gasda Tackles Near-Future AI in 'Stranger Beauty': Playwright Matthew Gasda published Stranger Beauty, a speculative novel set in 2038 Manhattan where an artist wrestles with household surveillance bots, lab-grown food, and AI-generated theater productions. Read the literary review on ",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "The Republic of Letters",
+                  "url": "https://therepublicofletters.substack.com/p/matthew-gasdas-stranger-beauty",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ".",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            }
+          ],
+          "links": [
+            {
+              "title": "Stratechery",
+              "url": "https://stratechery.com/2026/apple-and-a-hackers-future/"
+            },
+            {
+              "title": "Where's Your Ed At",
+              "url": "https://www.wheresyoured.at/"
+            },
+            {
+              "title": "404 Media",
+              "url": "https://www.404media.co/"
+            },
+            {
+              "title": "Bloomberg",
+              "url": "https://www.bloomberg.com/"
+            },
+            {
+              "title": "The Republic of Letters",
+              "url": "https://therepublicofletters.substack.com/p/matthew-gasdas-stranger-beauty"
+            }
+          ]
+        },
         "full": {
-          "body": "Tuesday, October 6, 2026\n\nToday's Numbers\n\n• 201 Million: The number of American households that now subscribe to Amazon Prime, up from 54 million in 2015, as shoppers prepare for the annual fall Prime Big Deal Days (Robinhood Snacks).\n\n• 6 Percentage Points: The polling lead held by Democratic challenger James Talarico over incumbent Republican Ken Paxton in the Texas Senate race, according to a new Times/Siena survey (The New York Times).\n\n• 45 Percent: The year-over-year jump in European electric vehicle registrations through August 2026, reaching a record 1.64 million delivered cars despite subsidy cuts in major markets (Robinhood Snacks).\n\nQuotes of the Day\n\n• \"I wrote every single word with my own human fingers. In a world full of synthetic text, handmade words feel like honest craftsmanship.\" — Author Kevin Roose, explaining why he barred AI writing assistants while authoring his new book The AGI Chronicles (Wired).\n\n• \"You cannot understand his drive until you realize he treats humanity as an engineering problem that only he has the blueprint to solve.\" — Justine Wilson, speaking in the new documentary film Musk about tech billionaire Elon Musk (Wired).\n\nConsumer Trends & Science\n\nCats Demand Fancy Dinners as Pet Food Hits $17 Billion\n\nAmericans spent $17 billion on cat food over the past year, marking a 14 percent jump as pet owners treat their feline companions like family members. Major manufacturers like Mars built specialized tasting kitchens where feline taste-testers sample different formulas. Researchers discovered that cats possess unique taste receptors tuned specifically to tuna. These receptors create a super-savory sensation that cats crave far more than beef or chicken. Companies are now rushing new senior cat lines and gourmet seafood dishes to grocery shelves to cash in on pampering pet owners (The New York Times).\n\nAstronomers Spot Youngest Exoplanet Ever Recorded\n\nScientists using the Atacama Large Millimeter Array telescope spotted the youngest known planet outside our solar system. The baby planet, named Elias 2-24b, orbits a young star about 400 light-years from Earth. Astronomers calculate that the planet is less than one million years old. For comparison, Earth is more than 4.5 billion years old. Elias 2-24b is still scooping up gas and cosmic pebbles from a thick disc of space dust, giving scientists a live front-row look at how giant gas worlds take shape (Wired).\n\nLegal & National Affairs\n\nSupreme Court Opens Term with High-Stakes Climate Lawsuits\n\nThe United States Supreme Court opened its fall session by hearing arguments on whether coastal cities can force oil companies to pay for climate damage. Mayors and local officials argue that petroleum giants concealed their knowledge of carbon pollution for decades and should fund sea walls and flood barriers. Defense lawyers for the energy firms counter that global climate emissions fall strictly under federal regulation rather than local courtroom authority. The justices appeared divided, and their eventual ruling could redirect billions of dollars in storm cleanup costs (The New York Times).\n\nScience & Medicine\n\nNobel Prizes Honor Brain Light Controls and Ghost Particle Detectors\n\nThe Nobel Assembly awarded the 2026 Nobel Prize in Physiology or Medicine to Karl Deisseroth for developing optogenetics. This laboratory technique uses light pulses to switch individual brain cells on and off, helping doctors map neural circuits behind Parkinson's disease and depression. A day later, the Royal Swedish Academy of Sciences awarded the Nobel Prize in Physics to Francis Halzen. Halzen designed the IceCube observatory, which buried thousands of light sensors deep inside Antarctic glaciers to catch high-energy neutrinos—nearly invisible ghost particles that travel across deep space from distant black holes (The New York Times).\n\nBusiness & Entertainment\n\nTom Cruise Satire 'Digger' Stumbles with $18 Million Debut\n\nWarner Bros. suffered a box-office misfire this weekend when its $160 million action satire Digger, starring Tom Cruise, brought in just $18 million across North American theaters. The weak opening lands during a sensitive transition for the studio, representing its final standalone theatrical release before completing its $111 billion mega-merger with Skydance Media. Studio executives hoped Cruise's star power would pull adult moviegoers into theaters, but poor word-of-mouth and mixed reviews kept audiences at home (Robinhood Snacks).\n\nMeta and Microsoft Bar Staff from Using Claude AI\n\nBoth Meta and Microsoft ordered their software engineering teams to halt their use of Anthropic's Claude artificial intelligence models. Internal memos warned engineers that feeding internal project files or proprietary computer code into third-party AI assistants poses serious security and trade-secret risks. The policy forces developers back onto in-house AI coding tools, highlighting the fierce corporate rivalry as major tech firms guard their intellectual property (Robinhood Snacks).\n\nQuick Hits & Curiosities\n\n• OpenAI Tests Visual Ads: OpenAI started testing banner advertisements and sponsored product tiles inside free ChatGPT web sessions to monetize its 1.2 billion weekly active users (Robinhood Snacks).\n\n• Wild New Web Addresses: The Internet Corporation for Assigned Names and Numbers (ICANN) approved hundreds of new website domain endings, opening the door for businesses and creators to buy web addresses ending in .meow, .fart, and .vibes (Wired).\n\n• Robot Theme Park Opens: A futuristic entertainment park featuring 40 humanoid robots opened outside Seoul, South Korea, where mechanical greeters serve refreshments and perform synchronized hip-hop routines (The New York Times).\n\n• Cornell Faculty Tension: The faculty senate at Cornell University prepared a formal vote of no confidence against school administrators over campus safety protocols and emergency communication (The New York Times).\n\n• Intel Stock Slides: Shares of chipmaker Intel dropped 4 percent following reports that Taiwan Semiconductor Manufacturing Co. (TSMC) opened partnership discussions with Elon Musk's competing Terafab venture (Robinhood Snacks).",
+          "body": "Tuesday, October 6, 2026\n\nToday's Numbers\n\n• 15 Minutes: The brief meeting time it took private equity firm Blue Owl to approve up to $10 billion in data center investments alongside Primary Digital Infrastructure (Where's Your Ed At).\n\n• 50 Years: Time elapsed since 1975, during which the share of American adults who regularly host friends for home dinner parties has steadily fallen (On the House).\n\nQuotes of the Day\n\n• \"Anthropic and OpenAI do not resemble the financial condition of any company I could find in the history of the stock market outside of WeWork. They are unprofitable, unsustainable, and the only conditions under which they could raise significant debt is with junk ratings.\" — Ed Zitron, tech and financial analyst, on the brewing credit squeeze facing AI labs, via Where's Your Ed At.\n\nSoftware, AI & Security\n\nBen Thompson's Mac Mini Gets Hacked—and His AI Agent Spots It\n\nA patched macOS screen-sharing security flaw infected an analyst's server before an autonomous assistant raised the alarm.\n\nTech analyst Ben Thompson revealed that attackers breached his headless Mac Mini server through a high-severity macOS screen-sharing vulnerability tracked as CVE-2026-65400. Attackers gained root access through exposed port 5900 and planted a Monero cryptocurrency miner. Fortunately, Thompson ran a persistent Claude Code agent on the computer. The agent detected unauthorized admin privileges, halted its own commands, and notified Thompson, allowing him to scrub the malware within minutes. Thompson notes that while his agent saved him, Apple's rigid permission screens make managing headless computers frustrating, pushing technical users toward Linux servers. Read the complete security post-mortem on Stratechery.\n\nBusiness, Capital & Tech Infrastructure\n\nThe AI Data Center Debt Squeeze: Bond Markets Balk at Megawatt Loans\n\nRising Treasury yields and skeptical lenders threaten to derail ambitious cloud computing construction projects.\n\nFinancial markets are turning cold on the multi-billion-dollar debt boom powering artificial intelligence data centers. Ten-year U.S. Treasury yields climbed past 5.3%, making corporate loans substantially more expensive across the board. Major global banks, including Société Générale and Mitsubishi UFJ, are growing cautious about underwriting unbacked data center campuses. At the same time, leading AI labs face negative cash flows and massive compute obligations, raising doubts about how they will fund tens of billions in annual operations once public. Read the full financial analysis in Where's Your Ed At.\n\nLegal & National Affairs\n\nLawmakers Introduce \"Ban Flock Act\" to Bar Federal License Plate Surveillance\n\nA bipartisan congressional coalition moves to block federal agencies from tapping nationwide vehicle tracking cameras.\n\nSenators Bernie Sanders and Jeff Merkley, alongside Representative Alexandria Ocasio-Cortez, introduced federal legislation to prohibit government agencies from accessing automated license plate reader networks. The \"Ban Flock Act\" bans federal law enforcement from using private license plate camera databases and blocks federal grant money to state and local police forces that deploy them. The bill also grants citizens the right to sue federal agencies that track their vehicle movements without a warrant. Review the legislative push in 404 Media.\n\nQuick Hits & Curiosities\n\n• Apple Readies 6-inch Smart Home Display: Apple plans an October 13 product launch featuring a 6-inch square wall-mounted smart home command hub running a redesigned Siri assistant. Read the hardware report on Stratechery via Bloomberg.\n\n• Mike Tomlin's 12-Year Minecraft City: Former Pittsburgh Steelers head coach Mike Tomlin surprised football fans by sharing a vast digital city he quietly constructed inside Minecraft over twelve years between NFL seasons. Watch the city reveal on 404 Media.\n\n• Formula 1 Engineers Push Mid-Race Code Update: A sudden software bug drained engine power from race cars during an F1 grand prix in Bahrain until race engineers rapidly coded and deployed an over-the-air software update during the race itself. Read the racing dispatch on 404 Media.\n\n• Matthew Gasda Tackles Near-Future AI in 'Stranger Beauty': Playwright Matthew Gasda published Stranger Beauty, a speculative novel set in 2038 Manhattan where an artist wrestles with household surveillance bots, lab-grown food, and AI-generated theater productions. Read the literary review on The Republic of Letters.",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Tuesday, October 6, 2026",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "heading_2",
+              "runs": [
+                {
+                  "text": "Today's Numbers",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "15 Minutes: The brief meeting time it took private equity firm Blue Owl to approve up to $10 billion in data center investments alongside Primary Digital Infrastructure (Where's Your Ed At).",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "50 Years: Time elapsed since 1975, during which the share of American adults who regularly host friends for home dinner parties has steadily fallen (On the House).",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "heading_2",
+              "runs": [
+                {
+                  "text": "Quotes of the Day",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "\"Anthropic and OpenAI do not resemble the financial condition of any company I could find in the history of the stock market outside of WeWork. They are unprofitable, unsustainable, and the only conditions under which they could raise significant debt is with junk ratings.\" — Ed Zitron, tech and financial analyst, on the brewing credit squeeze facing AI labs, via Where's Your Ed At.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "heading_2",
+              "runs": [
+                {
+                  "text": "Software, AI & Security",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Ben Thompson's Mac Mini Gets Hacked—and His AI Agent Spots It",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": "  ",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "A patched macOS screen-sharing security flaw infected an analyst's server before an autonomous assistant raised the alarm.  ",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Tech analyst Ben Thompson revealed that attackers breached his headless Mac Mini server through a high-severity macOS screen-sharing vulnerability tracked as CVE-2026-65400. Attackers gained root access through exposed port 5900 and planted a Monero cryptocurrency miner. Fortunately, Thompson ran a persistent Claude Code agent on the computer. The agent detected unauthorized admin privileges, halted its own commands, and notified Thompson, allowing him to scrub the malware within minutes. Thompson notes that while his agent saved him, Apple's rigid permission screens make managing headless computers frustrating, pushing technical users toward Linux servers. Read the complete security post-mortem on ",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Stratechery",
+                  "url": "https://stratechery.com/2026/apple-and-a-hackers-future/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ".",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "heading_2",
+              "runs": [
+                {
+                  "text": "Business, Capital & Tech Infrastructure",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "The AI Data Center Debt Squeeze: Bond Markets Balk at Megawatt Loans",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": "  ",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Rising Treasury yields and skeptical lenders threaten to derail ambitious cloud computing construction projects.  ",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Financial markets are turning cold on the multi-billion-dollar debt boom powering artificial intelligence data centers. Ten-year U.S. Treasury yields climbed past 5.3%, making corporate loans substantially more expensive across the board. Major global banks, including Société Générale and Mitsubishi UFJ, are growing cautious about underwriting unbacked data center campuses. At the same time, leading AI labs face negative cash flows and massive compute obligations, raising doubts about how they will fund tens of billions in annual operations once public. Read the full financial analysis in ",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Where's Your Ed At",
+                  "url": "https://www.wheresyoured.at/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ".",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "heading_2",
+              "runs": [
+                {
+                  "text": "Legal & National Affairs",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Lawmakers Introduce \"Ban Flock Act\" to Bar Federal License Plate Surveillance",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": "  ",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "A bipartisan congressional coalition moves to block federal agencies from tapping nationwide vehicle tracking cameras.  ",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Senators Bernie Sanders and Jeff Merkley, alongside Representative Alexandria Ocasio-Cortez, introduced federal legislation to prohibit government agencies from accessing automated license plate reader networks. The \"Ban Flock Act\" bans federal law enforcement from using private license plate camera databases and blocks federal grant money to state and local police forces that deploy them. The bill also grants citizens the right to sue federal agencies that track their vehicle movements without a warrant. Review the legislative push in ",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "404 Media",
+                  "url": "https://www.404media.co/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ".",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "heading_2",
+              "runs": [
+                {
+                  "text": "Quick Hits & Curiosities",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Apple Readies 6-inch Smart Home Display: Apple plans an October 13 product launch featuring a 6-inch square wall-mounted smart home command hub running a redesigned Siri assistant. Read the hardware report on ",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Stratechery",
+                  "url": "https://stratechery.com/2026/apple-and-a-hackers-future/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": " via ",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Bloomberg",
+                  "url": "https://www.bloomberg.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ".",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Mike Tomlin's 12-Year Minecraft City: Former Pittsburgh Steelers head coach Mike Tomlin surprised football fans by sharing a vast digital city he quietly constructed inside Minecraft over twelve years between NFL seasons. Watch the city reveal on ",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "404 Media",
+                  "url": "https://www.404media.co/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ".",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Formula 1 Engineers Push Mid-Race Code Update: A sudden software bug drained engine power from race cars during an F1 grand prix in Bahrain until race engineers rapidly coded and deployed an over-the-air software update during the race itself. Read the racing dispatch on ",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "404 Media",
+                  "url": "https://www.404media.co/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ".",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Matthew Gasda Tackles Near-Future AI in 'Stranger Beauty': Playwright Matthew Gasda published Stranger Beauty, a speculative novel set in 2038 Manhattan where an artist wrestles with household surveillance bots, lab-grown food, and AI-generated theater productions. Read the literary review on ",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "The Republic of Letters",
+                  "url": "https://therepublicofletters.substack.com/p/matthew-gasdas-stranger-beauty",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ".",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            }
+          ],
+          "links": [
+            {
+              "title": "Stratechery",
+              "url": "https://stratechery.com/2026/apple-and-a-hackers-future/"
+            },
+            {
+              "title": "Where's Your Ed At",
+              "url": "https://www.wheresyoured.at/"
+            },
+            {
+              "title": "404 Media",
+              "url": "https://www.404media.co/"
+            },
+            {
+              "title": "Bloomberg",
+              "url": "https://www.bloomberg.com/"
+            },
+            {
+              "title": "The Republic of Letters",
+              "url": "https://therepublicofletters.substack.com/p/matthew-gasdas-stranger-beauty"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "digest-3f18153c-8a3e-81fd-a652-e9df1f43469a",
+      "channel": "newsletters",
+      "source": "notion",
+      "kind": "Agent-written digest",
+      "domain": "Daily newsletter digest",
+      "title": "12 PM Edition: Mac Mini Breach, AI Data Center Debt, and Ban Flock Act — Tuesday, October 6, 2026",
+      "url": "",
+      "description": "Tuesday, October 6, 2026",
+      "body": "Tuesday, October 6, 2026\n\nToday's Numbers\n\n• 15 Minutes: The brief meeting time it took private equity firm Blue Owl to approve up to $10 billion in data center investments alongside Primary Digital Infrastructure. (Where's Your Ed At)\n\n• 50 Years: Time elapsed since 1975, during which the share of American adults who regularly host friends for home dinner parties has steadily fallen. (On the House)\n\nQuotes of the Day\n\n\"Anthropic and OpenAI do not resemble the financial condition of any company I could find in the history of the stock market outside of WeWork. They are unprofitable, unsustainable, and the only conditions under which they could raise significant debt is with junk ratings.\"— Ed Zitron, tech and financial analyst, on the brewing credit squeeze facing AI labs, via Where's Your Ed At\n\nSoftware, AI & Security\n\nBen Thompson's Mac Mini Gets Hacked—and His AI Agent Spots It\n\nA patched macOS screen-sharing security flaw infected an analyst's server before an autonomous assistant raised the alarm.\n\nTech analyst Ben Thompson revealed that attackers breached his headless Mac Mini server through a high-severity macOS screen-sharing vulnerability tracked as CVE-2026-65400. Attackers gained root access through exposed port 5900 and planted a Monero cryptocurrency miner. Fortunately, Thompson ran a persistent Claude Code agent on the computer. The agent detected unauthorized admin privileges, halted its own commands, and notified Thompson, allowing him to scrub the malware within minutes. Thompson notes that while his agent saved him, Apple's rigid permission screens make managing headless computers frustrating, pushing technical users toward Linux servers. Read the complete security post-mortem on Stratechery.\n\nBusiness, Capital & Tech Infrastructure\n\nThe AI Data Center Debt Squeeze: Bond Markets Balk at Megawatt Loans\n\nRising Treasury yields and skeptical lenders threaten to derail ambitious cloud computing construction projects.\n\nFinancial markets are turning cold on the multi-billion-dollar debt boom powering artificial intelligence data centers. Ten-year U.S. Treasury yields climbed past 5.3%, making corporate loans substantially more expensive across the board. Major global banks, including Société Générale and Mitsubishi UFJ, are growing cautious about underwriting unbacked data center campuses. At the same time, leading AI labs face negative cash flows and massive compute obligations, raising doubts about how they will fund tens of billions in annual operations once public. Read the full financial analysis in Where's Your Ed At.\n\nLegal & National Affairs\n\nLawmakers Introduce \"Ban Flock Act\" to Bar Federal License Plate Surveillance\n\nA bipartisan congressional coalition moves to block federal agencies from tapping nationwide vehicle tracking cameras.\n\nSenators Bernie Sanders and Jeff Merkley, alongside Representative Alexandria Ocasio-Cortez, introduced federal legislation to prohibit government agencies from accessing automated license plate reader networks. The \"Ban Flock Act\" bans federal law enforcement from using private license plate camera databases and blocks federal grant money to state and local police forces that deploy them. The bill also grants citizens the right to sue federal agencies that track their vehicle movements without a warrant. Review the legislative push in 404 Media.\n\nQuick Hits & Curiosities\n\n• Apple Readies 6-inch Smart Home Display: Apple plans an October 13 product launch featuring a 6-inch square wall-mounted smart home command hub running a redesigned Siri assistant. Read the hardware report on Stratechery via Bloomberg.\n\n• Mike Tomlin's 12-Year Minecraft City: Former Pittsburgh Steelers head coach Mike Tomlin surprised football fans by sharing a vast digital city he quietly constructed inside Minecraft over twelve years between NFL seasons. Watch the city reveal on 404 Media.\n\n• Formula 1 Engineers Push Mid-Race Code Update: A sudden software bug drained engine power from race cars during an F1 grand prix in Bahrain until race engineers rapidly coded and deployed an over-the-air software update during the race itself. Read the racing dispatch on 404 Media.\n\n• Matthew Gasda Tackles Near-Future AI in 'Stranger Beauty': Playwright Matthew Gasda published Stranger Beauty, a speculative novel set in 2038 Manhattan where an artist wrestles with household surveillance bots, lab-grown food, and AI-generated theater productions. Read the literary review on The Republic of Letters.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Tuesday, October 6, 2026",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Today's Numbers",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "15 Minutes: The brief meeting time it took private equity firm Blue Owl to approve up to $10 billion in data center investments alongside Primary Digital Infrastructure. (Where's Your Ed At)",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "50 Years: Time elapsed since 1975, during which the share of American adults who regularly host friends for home dinner parties has steadily fallen. (On the House)",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Quotes of the Day",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "\"Anthropic and OpenAI do not resemble the financial condition of any company I could find in the history of the stock market outside of WeWork. They are unprofitable, unsustainable, and the only conditions under which they could raise significant debt is with junk ratings.\"— Ed Zitron, tech and financial analyst, on the brewing credit squeeze facing AI labs, via Where's Your Ed At",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Software, AI & Security",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Ben Thompson's Mac Mini Gets Hacked—and His AI Agent Spots It",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "A patched macOS screen-sharing security flaw infected an analyst's server before an autonomous assistant raised the alarm.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Tech analyst Ben Thompson revealed that attackers breached his headless Mac Mini server through a high-severity macOS screen-sharing vulnerability tracked as CVE-2026-65400. Attackers gained root access through exposed port 5900 and planted a Monero cryptocurrency miner. Fortunately, Thompson ran a persistent Claude Code agent on the computer. The agent detected unauthorized admin privileges, halted its own commands, and notified Thompson, allowing him to scrub the malware within minutes. Thompson notes that while his agent saved him, Apple's rigid permission screens make managing headless computers frustrating, pushing technical users toward Linux servers. Read the complete security post-mortem on Stratechery.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Business, Capital & Tech Infrastructure",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "The AI Data Center Debt Squeeze: Bond Markets Balk at Megawatt Loans",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Rising Treasury yields and skeptical lenders threaten to derail ambitious cloud computing construction projects.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Financial markets are turning cold on the multi-billion-dollar debt boom powering artificial intelligence data centers. Ten-year U.S. Treasury yields climbed past 5.3%, making corporate loans substantially more expensive across the board. Major global banks, including Société Générale and Mitsubishi UFJ, are growing cautious about underwriting unbacked data center campuses. At the same time, leading AI labs face negative cash flows and massive compute obligations, raising doubts about how they will fund tens of billions in annual operations once public. Read the full financial analysis in Where's Your Ed At.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Legal & National Affairs",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Lawmakers Introduce \"Ban Flock Act\" to Bar Federal License Plate Surveillance",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "A bipartisan congressional coalition moves to block federal agencies from tapping nationwide vehicle tracking cameras.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Senators Bernie Sanders and Jeff Merkley, alongside Representative Alexandria Ocasio-Cortez, introduced federal legislation to prohibit government agencies from accessing automated license plate reader networks. The \"Ban Flock Act\" bans federal law enforcement from using private license plate camera databases and blocks federal grant money to state and local police forces that deploy them. The bill also grants citizens the right to sue federal agencies that track their vehicle movements without a warrant. Review the legislative push in 404 Media.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Quick Hits & Curiosities",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Apple Readies 6-inch Smart Home Display: Apple plans an October 13 product launch featuring a 6-inch square wall-mounted smart home command hub running a redesigned Siri assistant. Read the hardware report on Stratechery via Bloomberg.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Mike Tomlin's 12-Year Minecraft City: Former Pittsburgh Steelers head coach Mike Tomlin surprised football fans by sharing a vast digital city he quietly constructed inside Minecraft over twelve years between NFL seasons. Watch the city reveal on 404 Media.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Formula 1 Engineers Push Mid-Race Code Update: A sudden software bug drained engine power from race cars during an F1 grand prix in Bahrain until race engineers rapidly coded and deployed an over-the-air software update during the race itself. Read the racing dispatch on 404 Media.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Matthew Gasda Tackles Near-Future AI in 'Stranger Beauty': Playwright Matthew Gasda published Stranger Beauty, a speculative novel set in 2038 Manhattan where an artist wrestles with household surveillance bots, lab-grown food, and AI-generated theater productions. Read the literary review on The Republic of Letters.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        }
+      ],
+      "publishedAt": "2026-10-06T18:16:00Z",
+      "links": [],
+      "versions": {
+        "midday": {
+          "body": "Tuesday, October 6, 2026\n\nToday's Numbers\n\n• 15 Minutes: The brief meeting time it took private equity firm Blue Owl to approve up to $10 billion in data center investments alongside Primary Digital Infrastructure. (Where's Your Ed At)\n\n• 50 Years: Time elapsed since 1975, during which the share of American adults who regularly host friends for home dinner parties has steadily fallen. (On the House)\n\nQuotes of the Day\n\n\"Anthropic and OpenAI do not resemble the financial condition of any company I could find in the history of the stock market outside of WeWork. They are unprofitable, unsustainable, and the only conditions under which they could raise significant debt is with junk ratings.\"— Ed Zitron, tech and financial analyst, on the brewing credit squeeze facing AI labs, via Where's Your Ed At\n\nSoftware, AI & Security\n\nBen Thompson's Mac Mini Gets Hacked—and His AI Agent Spots It\n\nA patched macOS screen-sharing security flaw infected an analyst's server before an autonomous assistant raised the alarm.\n\nTech analyst Ben Thompson revealed that attackers breached his headless Mac Mini server through a high-severity macOS screen-sharing vulnerability tracked as CVE-2026-65400. Attackers gained root access through exposed port 5900 and planted a Monero cryptocurrency miner. Fortunately, Thompson ran a persistent Claude Code agent on the computer. The agent detected unauthorized admin privileges, halted its own commands, and notified Thompson, allowing him to scrub the malware within minutes. Thompson notes that while his agent saved him, Apple's rigid permission screens make managing headless computers frustrating, pushing technical users toward Linux servers. Read the complete security post-mortem on Stratechery.\n\nBusiness, Capital & Tech Infrastructure\n\nThe AI Data Center Debt Squeeze: Bond Markets Balk at Megawatt Loans\n\nRising Treasury yields and skeptical lenders threaten to derail ambitious cloud computing construction projects.\n\nFinancial markets are turning cold on the multi-billion-dollar debt boom powering artificial intelligence data centers. Ten-year U.S. Treasury yields climbed past 5.3%, making corporate loans substantially more expensive across the board. Major global banks, including Société Générale and Mitsubishi UFJ, are growing cautious about underwriting unbacked data center campuses. At the same time, leading AI labs face negative cash flows and massive compute obligations, raising doubts about how they will fund tens of billions in annual operations once public. Read the full financial analysis in Where's Your Ed At.\n\nLegal & National Affairs\n\nLawmakers Introduce \"Ban Flock Act\" to Bar Federal License Plate Surveillance\n\nA bipartisan congressional coalition moves to block federal agencies from tapping nationwide vehicle tracking cameras.\n\nSenators Bernie Sanders and Jeff Merkley, alongside Representative Alexandria Ocasio-Cortez, introduced federal legislation to prohibit government agencies from accessing automated license plate reader networks. The \"Ban Flock Act\" bans federal law enforcement from using private license plate camera databases and blocks federal grant money to state and local police forces that deploy them. The bill also grants citizens the right to sue federal agencies that track their vehicle movements without a warrant. Review the legislative push in 404 Media.\n\nQuick Hits & Curiosities\n\n• Apple Readies 6-inch Smart Home Display: Apple plans an October 13 product launch featuring a 6-inch square wall-mounted smart home command hub running a redesigned Siri assistant. Read the hardware report on Stratechery via Bloomberg.\n\n• Mike Tomlin's 12-Year Minecraft City: Former Pittsburgh Steelers head coach Mike Tomlin surprised football fans by sharing a vast digital city he quietly constructed inside Minecraft over twelve years between NFL seasons. Watch the city reveal on 404 Media.\n\n• Formula 1 Engineers Push Mid-Race Code Update: A sudden software bug drained engine power from race cars during an F1 grand prix in Bahrain until race engineers rapidly coded and deployed an over-the-air software update during the race itself. Read the racing dispatch on 404 Media.\n\n• Matthew Gasda Tackles Near-Future AI in 'Stranger Beauty': Playwright Matthew Gasda published Stranger Beauty, a speculative novel set in 2038 Manhattan where an artist wrestles with household surveillance bots, lab-grown food, and AI-generated theater productions. Read the literary review on The Republic of Letters.",
           "blocks": [
             {
               "type": "paragraph",
@@ -45634,7 +46786,7 @@
               "type": "bulleted_list_item",
               "runs": [
                 {
-                  "text": "201 Million: The number of American households that now subscribe to Amazon Prime, up from 54 million in 2015, as shoppers prepare for the annual fall Prime Big Deal Days (Robinhood Snacks).",
+                  "text": "15 Minutes: The brief meeting time it took private equity firm Blue Owl to approve up to $10 billion in data center investments alongside Primary Digital Infrastructure. (Where's Your Ed At)",
                   "url": "",
                   "bold": false,
                   "italic": false
@@ -45645,18 +46797,7 @@
               "type": "bulleted_list_item",
               "runs": [
                 {
-                  "text": "6 Percentage Points: The polling lead held by Democratic challenger James Talarico over incumbent Republican Ken Paxton in the Texas Senate race, according to a new Times/Siena survey (The New York Times).",
-                  "url": "",
-                  "bold": false,
-                  "italic": false
-                }
-              ]
-            },
-            {
-              "type": "bulleted_list_item",
-              "runs": [
-                {
-                  "text": "45 Percent: The year-over-year jump in European electric vehicle registrations through August 2026, reaching a record 1.64 million delivered cars despite subsidy cuts in major markets (Robinhood Snacks).",
+                  "text": "50 Years: Time elapsed since 1975, during which the share of American adults who regularly host friends for home dinner parties has steadily fallen. (On the House)",
                   "url": "",
                   "bold": false,
                   "italic": false
@@ -45675,21 +46816,10 @@
               ]
             },
             {
-              "type": "bulleted_list_item",
+              "type": "paragraph",
               "runs": [
                 {
-                  "text": "\"I wrote every single word with my own human fingers. In a world full of synthetic text, handmade words feel like honest craftsmanship.\" — Author Kevin Roose, explaining why he barred AI writing assistants while authoring his new book The AGI Chronicles (Wired).",
-                  "url": "",
-                  "bold": false,
-                  "italic": false
-                }
-              ]
-            },
-            {
-              "type": "bulleted_list_item",
-              "runs": [
-                {
-                  "text": "\"You cannot understand his drive until you realize he treats humanity as an engineering problem that only he has the blueprint to solve.\" — Justine Wilson, speaking in the new documentary film Musk about tech billionaire Elon Musk (Wired).",
+                  "text": "\"Anthropic and OpenAI do not resemble the financial condition of any company I could find in the history of the stock market outside of WeWork. They are unprofitable, unsustainable, and the only conditions under which they could raise significant debt is with junk ratings.\"— Ed Zitron, tech and financial analyst, on the brewing credit squeeze facing AI labs, via Where's Your Ed At",
                   "url": "",
                   "bold": false,
                   "italic": false
@@ -45700,7 +46830,7 @@
               "type": "paragraph",
               "runs": [
                 {
-                  "text": "Consumer Trends & Science",
+                  "text": "Software, AI & Security",
                   "url": "",
                   "bold": false,
                   "italic": false
@@ -45711,7 +46841,7 @@
               "type": "paragraph",
               "runs": [
                 {
-                  "text": "Cats Demand Fancy Dinners as Pet Food Hits $17 Billion",
+                  "text": "Ben Thompson's Mac Mini Gets Hacked—and His AI Agent Spots It",
                   "url": "",
                   "bold": false,
                   "italic": false
@@ -45722,7 +46852,7 @@
               "type": "paragraph",
               "runs": [
                 {
-                  "text": "Americans spent $17 billion on cat food over the past year, marking a 14 percent jump as pet owners treat their feline companions like family members. Major manufacturers like Mars built specialized tasting kitchens where feline taste-testers sample different formulas. Researchers discovered that cats possess unique taste receptors tuned specifically to tuna. These receptors create a super-savory sensation that cats crave far more than beef or chicken. Companies are now rushing new senior cat lines and gourmet seafood dishes to grocery shelves to cash in on pampering pet owners (The New York Times).",
+                  "text": "A patched macOS screen-sharing security flaw infected an analyst's server before an autonomous assistant raised the alarm.",
                   "url": "",
                   "bold": false,
                   "italic": false
@@ -45733,7 +46863,7 @@
               "type": "paragraph",
               "runs": [
                 {
-                  "text": "Astronomers Spot Youngest Exoplanet Ever Recorded",
+                  "text": "Tech analyst Ben Thompson revealed that attackers breached his headless Mac Mini server through a high-severity macOS screen-sharing vulnerability tracked as CVE-2026-65400. Attackers gained root access through exposed port 5900 and planted a Monero cryptocurrency miner. Fortunately, Thompson ran a persistent Claude Code agent on the computer. The agent detected unauthorized admin privileges, halted its own commands, and notified Thompson, allowing him to scrub the malware within minutes. Thompson notes that while his agent saved him, Apple's rigid permission screens make managing headless computers frustrating, pushing technical users toward Linux servers. Read the complete security post-mortem on Stratechery.",
                   "url": "",
                   "bold": false,
                   "italic": false
@@ -45744,7 +46874,40 @@
               "type": "paragraph",
               "runs": [
                 {
-                  "text": "Scientists using the Atacama Large Millimeter Array telescope spotted the youngest known planet outside our solar system. The baby planet, named Elias 2-24b, orbits a young star about 400 light-years from Earth. Astronomers calculate that the planet is less than one million years old. For comparison, Earth is more than 4.5 billion years old. Elias 2-24b is still scooping up gas and cosmic pebbles from a thick disc of space dust, giving scientists a live front-row look at how giant gas worlds take shape (Wired).",
+                  "text": "Business, Capital & Tech Infrastructure",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "The AI Data Center Debt Squeeze: Bond Markets Balk at Megawatt Loans",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Rising Treasury yields and skeptical lenders threaten to derail ambitious cloud computing construction projects.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Financial markets are turning cold on the multi-billion-dollar debt boom powering artificial intelligence data centers. Ten-year U.S. Treasury yields climbed past 5.3%, making corporate loans substantially more expensive across the board. Major global banks, including Société Générale and Mitsubishi UFJ, are growing cautious about underwriting unbacked data center campuses. At the same time, leading AI labs face negative cash flows and massive compute obligations, raising doubts about how they will fund tens of billions in annual operations once public. Read the full financial analysis in Where's Your Ed At.",
                   "url": "",
                   "bold": false,
                   "italic": false
@@ -45766,7 +46929,7 @@
               "type": "paragraph",
               "runs": [
                 {
-                  "text": "Supreme Court Opens Term with High-Stakes Climate Lawsuits",
+                  "text": "Lawmakers Introduce \"Ban Flock Act\" to Bar Federal License Plate Surveillance",
                   "url": "",
                   "bold": false,
                   "italic": false
@@ -45777,7 +46940,7 @@
               "type": "paragraph",
               "runs": [
                 {
-                  "text": "The United States Supreme Court opened its fall session by hearing arguments on whether coastal cities can force oil companies to pay for climate damage. Mayors and local officials argue that petroleum giants concealed their knowledge of carbon pollution for decades and should fund sea walls and flood barriers. Defense lawyers for the energy firms counter that global climate emissions fall strictly under federal regulation rather than local courtroom authority. The justices appeared divided, and their eventual ruling could redirect billions of dollars in storm cleanup costs (The New York Times).",
+                  "text": "A bipartisan congressional coalition moves to block federal agencies from tapping nationwide vehicle tracking cameras.",
                   "url": "",
                   "bold": false,
                   "italic": false
@@ -45788,84 +46951,7 @@
               "type": "paragraph",
               "runs": [
                 {
-                  "text": "Science & Medicine",
-                  "url": "",
-                  "bold": false,
-                  "italic": false
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "runs": [
-                {
-                  "text": "Nobel Prizes Honor Brain Light Controls and Ghost Particle Detectors",
-                  "url": "",
-                  "bold": false,
-                  "italic": false
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "runs": [
-                {
-                  "text": "The Nobel Assembly awarded the 2026 Nobel Prize in Physiology or Medicine to Karl Deisseroth for developing optogenetics. This laboratory technique uses light pulses to switch individual brain cells on and off, helping doctors map neural circuits behind Parkinson's disease and depression. A day later, the Royal Swedish Academy of Sciences awarded the Nobel Prize in Physics to Francis Halzen. Halzen designed the IceCube observatory, which buried thousands of light sensors deep inside Antarctic glaciers to catch high-energy neutrinos—nearly invisible ghost particles that travel across deep space from distant black holes (The New York Times).",
-                  "url": "",
-                  "bold": false,
-                  "italic": false
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "runs": [
-                {
-                  "text": "Business & Entertainment",
-                  "url": "",
-                  "bold": false,
-                  "italic": false
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "runs": [
-                {
-                  "text": "Tom Cruise Satire 'Digger' Stumbles with $18 Million Debut",
-                  "url": "",
-                  "bold": false,
-                  "italic": false
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "runs": [
-                {
-                  "text": "Warner Bros. suffered a box-office misfire this weekend when its $160 million action satire Digger, starring Tom Cruise, brought in just $18 million across North American theaters. The weak opening lands during a sensitive transition for the studio, representing its final standalone theatrical release before completing its $111 billion mega-merger with Skydance Media. Studio executives hoped Cruise's star power would pull adult moviegoers into theaters, but poor word-of-mouth and mixed reviews kept audiences at home (Robinhood Snacks).",
-                  "url": "",
-                  "bold": false,
-                  "italic": false
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "runs": [
-                {
-                  "text": "Meta and Microsoft Bar Staff from Using Claude AI",
-                  "url": "",
-                  "bold": false,
-                  "italic": false
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "runs": [
-                {
-                  "text": "Both Meta and Microsoft ordered their software engineering teams to halt their use of Anthropic's Claude artificial intelligence models. Internal memos warned engineers that feeding internal project files or proprietary computer code into third-party AI assistants poses serious security and trade-secret risks. The policy forces developers back onto in-house AI coding tools, highlighting the fierce corporate rivalry as major tech firms guard their intellectual property (Robinhood Snacks).",
+                  "text": "Senators Bernie Sanders and Jeff Merkley, alongside Representative Alexandria Ocasio-Cortez, introduced federal legislation to prohibit government agencies from accessing automated license plate reader networks. The \"Ban Flock Act\" bans federal law enforcement from using private license plate camera databases and blocks federal grant money to state and local police forces that deploy them. The bill also grants citizens the right to sue federal agencies that track their vehicle movements without a warrant. Review the legislative push in 404 Media.",
                   "url": "",
                   "bold": false,
                   "italic": false
@@ -45887,7 +46973,7 @@
               "type": "bulleted_list_item",
               "runs": [
                 {
-                  "text": "OpenAI Tests Visual Ads: OpenAI started testing banner advertisements and sponsored product tiles inside free ChatGPT web sessions to monetize its 1.2 billion weekly active users (Robinhood Snacks).",
+                  "text": "Apple Readies 6-inch Smart Home Display: Apple plans an October 13 product launch featuring a 6-inch square wall-mounted smart home command hub running a redesigned Siri assistant. Read the hardware report on Stratechery via Bloomberg.",
                   "url": "",
                   "bold": false,
                   "italic": false
@@ -45898,7 +46984,7 @@
               "type": "bulleted_list_item",
               "runs": [
                 {
-                  "text": "Wild New Web Addresses: The Internet Corporation for Assigned Names and Numbers (ICANN) approved hundreds of new website domain endings, opening the door for businesses and creators to buy web addresses ending in .meow, .fart, and .vibes (Wired).",
+                  "text": "Mike Tomlin's 12-Year Minecraft City: Former Pittsburgh Steelers head coach Mike Tomlin surprised football fans by sharing a vast digital city he quietly constructed inside Minecraft over twelve years between NFL seasons. Watch the city reveal on 404 Media.",
                   "url": "",
                   "bold": false,
                   "italic": false
@@ -45909,7 +46995,7 @@
               "type": "bulleted_list_item",
               "runs": [
                 {
-                  "text": "Robot Theme Park Opens: A futuristic entertainment park featuring 40 humanoid robots opened outside Seoul, South Korea, where mechanical greeters serve refreshments and perform synchronized hip-hop routines (The New York Times).",
+                  "text": "Formula 1 Engineers Push Mid-Race Code Update: A sudden software bug drained engine power from race cars during an F1 grand prix in Bahrain until race engineers rapidly coded and deployed an over-the-air software update during the race itself. Read the racing dispatch on 404 Media.",
                   "url": "",
                   "bold": false,
                   "italic": false
@@ -45920,7 +47006,35 @@
               "type": "bulleted_list_item",
               "runs": [
                 {
-                  "text": "Cornell Faculty Tension: The faculty senate at Cornell University prepared a formal vote of no confidence against school administrators over campus safety protocols and emergency communication (The New York Times).",
+                  "text": "Matthew Gasda Tackles Near-Future AI in 'Stranger Beauty': Playwright Matthew Gasda published Stranger Beauty, a speculative novel set in 2038 Manhattan where an artist wrestles with household surveillance bots, lab-grown food, and AI-generated theater productions. Read the literary review on The Republic of Letters.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            }
+          ],
+          "links": []
+        },
+        "full": {
+          "body": "Tuesday, October 6, 2026\n\nToday's Numbers\n\n• 15 Minutes: The brief meeting time it took private equity firm Blue Owl to approve up to $10 billion in data center investments alongside Primary Digital Infrastructure. (Where's Your Ed At)\n\n• 50 Years: Time elapsed since 1975, during which the share of American adults who regularly host friends for home dinner parties has steadily fallen. (On the House)\n\nQuotes of the Day\n\n\"Anthropic and OpenAI do not resemble the financial condition of any company I could find in the history of the stock market outside of WeWork. They are unprofitable, unsustainable, and the only conditions under which they could raise significant debt is with junk ratings.\"— Ed Zitron, tech and financial analyst, on the brewing credit squeeze facing AI labs, via Where's Your Ed At\n\nSoftware, AI & Security\n\nBen Thompson's Mac Mini Gets Hacked—and His AI Agent Spots It\n\nA patched macOS screen-sharing security flaw infected an analyst's server before an autonomous assistant raised the alarm.\n\nTech analyst Ben Thompson revealed that attackers breached his headless Mac Mini server through a high-severity macOS screen-sharing vulnerability tracked as CVE-2026-65400. Attackers gained root access through exposed port 5900 and planted a Monero cryptocurrency miner. Fortunately, Thompson ran a persistent Claude Code agent on the computer. The agent detected unauthorized admin privileges, halted its own commands, and notified Thompson, allowing him to scrub the malware within minutes. Thompson notes that while his agent saved him, Apple's rigid permission screens make managing headless computers frustrating, pushing technical users toward Linux servers. Read the complete security post-mortem on Stratechery.\n\nBusiness, Capital & Tech Infrastructure\n\nThe AI Data Center Debt Squeeze: Bond Markets Balk at Megawatt Loans\n\nRising Treasury yields and skeptical lenders threaten to derail ambitious cloud computing construction projects.\n\nFinancial markets are turning cold on the multi-billion-dollar debt boom powering artificial intelligence data centers. Ten-year U.S. Treasury yields climbed past 5.3%, making corporate loans substantially more expensive across the board. Major global banks, including Société Générale and Mitsubishi UFJ, are growing cautious about underwriting unbacked data center campuses. At the same time, leading AI labs face negative cash flows and massive compute obligations, raising doubts about how they will fund tens of billions in annual operations once public. Read the full financial analysis in Where's Your Ed At.\n\nLegal & National Affairs\n\nLawmakers Introduce \"Ban Flock Act\" to Bar Federal License Plate Surveillance\n\nA bipartisan congressional coalition moves to block federal agencies from tapping nationwide vehicle tracking cameras.\n\nSenators Bernie Sanders and Jeff Merkley, alongside Representative Alexandria Ocasio-Cortez, introduced federal legislation to prohibit government agencies from accessing automated license plate reader networks. The \"Ban Flock Act\" bans federal law enforcement from using private license plate camera databases and blocks federal grant money to state and local police forces that deploy them. The bill also grants citizens the right to sue federal agencies that track their vehicle movements without a warrant. Review the legislative push in 404 Media.\n\nQuick Hits & Curiosities\n\n• Apple Readies 6-inch Smart Home Display: Apple plans an October 13 product launch featuring a 6-inch square wall-mounted smart home command hub running a redesigned Siri assistant. Read the hardware report on Stratechery via Bloomberg.\n\n• Mike Tomlin's 12-Year Minecraft City: Former Pittsburgh Steelers head coach Mike Tomlin surprised football fans by sharing a vast digital city he quietly constructed inside Minecraft over twelve years between NFL seasons. Watch the city reveal on 404 Media.\n\n• Formula 1 Engineers Push Mid-Race Code Update: A sudden software bug drained engine power from race cars during an F1 grand prix in Bahrain until race engineers rapidly coded and deployed an over-the-air software update during the race itself. Read the racing dispatch on 404 Media.\n\n• Matthew Gasda Tackles Near-Future AI in 'Stranger Beauty': Playwright Matthew Gasda published Stranger Beauty, a speculative novel set in 2038 Manhattan where an artist wrestles with household surveillance bots, lab-grown food, and AI-generated theater productions. Read the literary review on The Republic of Letters.",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Tuesday, October 6, 2026",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Today's Numbers",
                   "url": "",
                   "bold": false,
                   "italic": false
@@ -45931,7 +47045,227 @@
               "type": "bulleted_list_item",
               "runs": [
                 {
-                  "text": "Intel Stock Slides: Shares of chipmaker Intel dropped 4 percent following reports that Taiwan Semiconductor Manufacturing Co. (TSMC) opened partnership discussions with Elon Musk's competing Terafab venture (Robinhood Snacks).",
+                  "text": "15 Minutes: The brief meeting time it took private equity firm Blue Owl to approve up to $10 billion in data center investments alongside Primary Digital Infrastructure. (Where's Your Ed At)",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "50 Years: Time elapsed since 1975, during which the share of American adults who regularly host friends for home dinner parties has steadily fallen. (On the House)",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Quotes of the Day",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "\"Anthropic and OpenAI do not resemble the financial condition of any company I could find in the history of the stock market outside of WeWork. They are unprofitable, unsustainable, and the only conditions under which they could raise significant debt is with junk ratings.\"— Ed Zitron, tech and financial analyst, on the brewing credit squeeze facing AI labs, via Where's Your Ed At",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Software, AI & Security",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Ben Thompson's Mac Mini Gets Hacked—and His AI Agent Spots It",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "A patched macOS screen-sharing security flaw infected an analyst's server before an autonomous assistant raised the alarm.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Tech analyst Ben Thompson revealed that attackers breached his headless Mac Mini server through a high-severity macOS screen-sharing vulnerability tracked as CVE-2026-65400. Attackers gained root access through exposed port 5900 and planted a Monero cryptocurrency miner. Fortunately, Thompson ran a persistent Claude Code agent on the computer. The agent detected unauthorized admin privileges, halted its own commands, and notified Thompson, allowing him to scrub the malware within minutes. Thompson notes that while his agent saved him, Apple's rigid permission screens make managing headless computers frustrating, pushing technical users toward Linux servers. Read the complete security post-mortem on Stratechery.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Business, Capital & Tech Infrastructure",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "The AI Data Center Debt Squeeze: Bond Markets Balk at Megawatt Loans",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Rising Treasury yields and skeptical lenders threaten to derail ambitious cloud computing construction projects.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Financial markets are turning cold on the multi-billion-dollar debt boom powering artificial intelligence data centers. Ten-year U.S. Treasury yields climbed past 5.3%, making corporate loans substantially more expensive across the board. Major global banks, including Société Générale and Mitsubishi UFJ, are growing cautious about underwriting unbacked data center campuses. At the same time, leading AI labs face negative cash flows and massive compute obligations, raising doubts about how they will fund tens of billions in annual operations once public. Read the full financial analysis in Where's Your Ed At.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Legal & National Affairs",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Lawmakers Introduce \"Ban Flock Act\" to Bar Federal License Plate Surveillance",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "A bipartisan congressional coalition moves to block federal agencies from tapping nationwide vehicle tracking cameras.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Senators Bernie Sanders and Jeff Merkley, alongside Representative Alexandria Ocasio-Cortez, introduced federal legislation to prohibit government agencies from accessing automated license plate reader networks. The \"Ban Flock Act\" bans federal law enforcement from using private license plate camera databases and blocks federal grant money to state and local police forces that deploy them. The bill also grants citizens the right to sue federal agencies that track their vehicle movements without a warrant. Review the legislative push in 404 Media.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Quick Hits & Curiosities",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Apple Readies 6-inch Smart Home Display: Apple plans an October 13 product launch featuring a 6-inch square wall-mounted smart home command hub running a redesigned Siri assistant. Read the hardware report on Stratechery via Bloomberg.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Mike Tomlin's 12-Year Minecraft City: Former Pittsburgh Steelers head coach Mike Tomlin surprised football fans by sharing a vast digital city he quietly constructed inside Minecraft over twelve years between NFL seasons. Watch the city reveal on 404 Media.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Formula 1 Engineers Push Mid-Race Code Update: A sudden software bug drained engine power from race cars during an F1 grand prix in Bahrain until race engineers rapidly coded and deployed an over-the-air software update during the race itself. Read the racing dispatch on 404 Media.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Matthew Gasda Tackles Near-Future AI in 'Stranger Beauty': Playwright Matthew Gasda published Stranger Beauty, a speculative novel set in 2038 Manhattan where an artist wrestles with household surveillance bots, lab-grown food, and AI-generated theater productions. Read the literary review on The Republic of Letters.",
                   "url": "",
                   "bold": false,
                   "italic": false
