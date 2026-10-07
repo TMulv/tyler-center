@@ -88,6 +88,8 @@
 .transfer-preview-image{background:#fff;border-bottom:1px solid #a6afa0}
 .transfer-preview-image img{display:block;width:100%;height:auto;max-height:420px;object-fit:contain}
 .project-source-link{display:block;text-decoration:none;width:min(610px,100%)}
+.project-companion-link{display:inline-flex;align-items:center;min-height:44px;margin:8px 0 2px;padding:0 12px;border:1px solid var(--red);border-radius:5px;color:var(--red);font-size:13px;text-decoration:none}
+.project-companion-link:hover,.project-companion-link:focus-visible{background:#f8eeeb}
 @media(max-width:760px){.channel-header{padding:12px 16px;min-height:80px}.channel-header .header-description{font-size:13px}.channel-filters{padding:10px 16px;gap:8px}.source-preview .link-preview-copy{padding:13px}.source-preview .link-preview-copy strong{font-size:18px}}
 @media(max-width:760px){
   .channel-header{align-items:center;min-height:68px;padding:10px 16px}

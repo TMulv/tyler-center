@@ -11,7 +11,7 @@ const CHANNEL_GROUPS = [{id:'tyler',title:'Tyler Channels'},{id:'content',title:
 const STARTER_PROJECTS = [{
   id:'tomotomo', title:'TomoTomo', category:'App · iPhone & iPad',
   description:'Read and listen without losing your place. TomoTomo keeps your ebooks and audiobooks in sync, using the files you already own.',
-  url:'https://apps.apple.com/us/app/tomotomo/id6778601579', image:'', created:'2026-09-30'
+  url:'https://apps.apple.com/us/app/tomotomo/id6778601579', websiteUrl:'https://www.tomotomo.site/', image:'', created:'2026-09-30'
 }, {
   id:'domain-3eb8153c8a3e80d89ceec81441ec3b55', title:'Kanye2024.com', category:'Website · Sold',
   description:'Sold the domain. Transfer confirmation below.',
@@ -315,9 +315,10 @@ function navigate(channel) {
 }
 function projectCard(project) {
   const url = safeUrl(project.url);
+  const websiteUrl = safeUrl(project.websiteUrl);
   const attachment = PROJECT_ATTACHMENTS[project.id];
   if (project.projectStatus==='Sold') return `<div class="sold-project"><div class="sold-project-heading"><span class="sold-stamp">SOLD</span><span class="project-status">${esc(project.title)} - first domain purchase and sale i made</span></div>${attachment ? `<a class="preview-link transfer-preview" href="${esc(attachment.image)}" target="_blank" rel="noopener noreferrer" aria-label="Open proof of Kanye2024.com ownership transfer"><div class="link-preview source-preview"><div class="transfer-preview-image"><img src="${esc(attachment.image)}" alt="Namecheap confirms the transfer of Kanye2024.com on December 21, 2016" loading="lazy"></div><div class="link-preview-copy"><small>Namecheap · December 21, 2016</small><strong>${esc(attachment.title)}</strong><p>${esc(attachment.description)}</p><span class="source-preview-open">View proof of transfer ↗</span></div></div></a>` : ''}</div>`;
-  if (url) return `<a class="preview-link project-source-link" href="${esc(url)}" target="_blank" rel="noopener noreferrer" aria-label="Open ${esc(project.title)} on ${isAppStoreProject(project) ? 'the App Store' : esc(domainOf(url))}">${linkPreview({...project,channel:'websites',kind:project.category})}</a>`;
+  if (url) return `<a class="preview-link project-source-link" href="${esc(url)}" target="_blank" rel="noopener noreferrer" aria-label="Open ${esc(project.title)} on ${isAppStoreProject(project) ? 'the App Store' : esc(domainOf(url))}">${linkPreview({...project,channel:'websites',kind:project.category})}</a>${websiteUrl ? `<a class="project-companion-link" href="${esc(websiteUrl)}" target="_blank" rel="noopener noreferrer">Visit ${esc(project.title)} website ↗</a>` : ''}`;
   const image = safeImage(project.image);
   return `<button class="project-card" data-project="${esc(project.id)}" aria-label="View ${esc(project.title)}"><div class="project-preview">${image ? `<img src="${esc(image)}" alt="Preview of ${esc(project.title)}">` : '<div class="project-art">✦</div>'}<span class="preview-badge">${project.builtIn ? 'Original prototype' : 'Website'}</span></div><div class="project-details"><span class="project-category">${esc(project.category)}</span><h3>${esc(project.title)}</h3><p>${esc(project.description)}</p><div class="project-bottom"><span>Concept preview</span><b>Explore ↗</b></div></div></button>`;
 }
@@ -400,8 +401,8 @@ function commentSection(type,id) {
   return globalThis.ReaderComments?.section(type,id) || '<p>Comments are being connected.</p>';
 }
 function showProject(project) {
-  const image=safeImage(project.image),url=project.projectStatus==='Sold'?'':safeUrl(project.url);
-  $('#modalRoot').innerHTML = `<div class="modal-overlay" data-close-modal><div class="modal detail-modal" role="dialog" aria-modal="true" aria-label="${esc(project.title)}"><div class="modal-top"><span class="eyebrow">${esc(project.category)}</span><button class="close-button" data-close-modal aria-label="Close">×</button></div><div class="modal-body"><h2>${esc(project.title)}</h2><p class="modal-description">${esc(project.description)}</p>${project.projectStatus==='Sold'?projectCard(project):image ? `<div class="modal-preview"><img src="${esc(image)}" alt="Preview of ${esc(project.title)}"></div>` : ''}<div class="modal-actions">${url ? `<a class="primary-button" href="${esc(url)}" target="_blank" rel="noopener noreferrer">${isAppStoreProject(project) ? 'View on the App Store' : 'Visit website'} ↗</a>` : project.projectStatus==='Sold'?'':'<span class="empty-note">Original website prototype.</span>'}</div>${commentSection('project',project.id)}</div></div></div>`;
+  const image=safeImage(project.image),url=project.projectStatus==='Sold'?'':safeUrl(project.url),websiteUrl=safeUrl(project.websiteUrl);
+  $('#modalRoot').innerHTML = `<div class="modal-overlay" data-close-modal><div class="modal detail-modal" role="dialog" aria-modal="true" aria-label="${esc(project.title)}"><div class="modal-top"><span class="eyebrow">${esc(project.category)}</span><button class="close-button" data-close-modal aria-label="Close">×</button></div><div class="modal-body"><h2>${esc(project.title)}</h2><p class="modal-description">${esc(project.description)}</p>${project.projectStatus==='Sold'?projectCard(project):image ? `<div class="modal-preview"><img src="${esc(image)}" alt="Preview of ${esc(project.title)}"></div>` : ''}<div class="modal-actions">${url ? `<a class="primary-button" href="${esc(url)}" target="_blank" rel="noopener noreferrer">${isAppStoreProject(project) ? 'View on the App Store' : 'Visit website'} ↗</a>` : project.projectStatus==='Sold'?'':'<span class="empty-note">Original website prototype.</span>'}${websiteUrl ? `<a class="secondary-button" href="${esc(websiteUrl)}" target="_blank" rel="noopener noreferrer">Visit ${esc(project.title)} website ↗</a>` : ''}</div>${commentSection('project',project.id)}</div></div></div>`;
   bindCommentForm();
 }
 function showEntry(entry) {
