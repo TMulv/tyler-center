@@ -44933,7 +44933,7 @@
       "title": "Cat Food Super Umami, Youngest Exoplanet Elias 2-24b, and Prime Day 201M — Tuesday, October 6, 2026",
       "url": "",
       "description": "Tuesday, October 6, 2026",
-      "body": "Tuesday, October 6, 2026\n\nToday's Numbers\n\n• 201 Million: The number of American households that subscribe to Amazon Prime, up from 54 million in 2015, as shoppers prepare for the annual fall Prime Big Deal Days. (Robinhood Snacks)\n\n• 6 Percentage Points: The polling lead held by Democratic challenger James Talarico over incumbent Republican Ken Paxton in the Texas Senate race, according to a Times/Siena survey. (The New York Times)\n\n• 45 Percent: The year-over-year jump in European electric vehicle registrations through August 2026, reaching a record 1.64 million delivered cars despite subsidy cuts in major markets. (Robinhood Snacks)\n\n• 15 Minutes: The brief meeting time it took private equity firm Blue Owl to approve up to $10 billion in data center investments alongside Primary Digital Infrastructure. (Where's Your Ed At)\n\n• 50 Years: Time elapsed since 1975, during which the share of American adults who regularly host friends for home dinner parties has steadily fallen. (On the House)\n\nQuotes of the Day\n\n\"I wrote every single word with my own human fingers. In a world full of synthetic text, handmade words feel like honest craftsmanship.\"\n\n— Kevin Roose, author, explaining why he barred AI writing assistants while authoring his new book The AGI Chronicles, via Wired\n\n\"You cannot understand his drive until you realize he treats humanity as an engineering problem that only he has the blueprint to solve.\"\n\n— Justine Wilson, speaking in the documentary film Musk about tech billionaire Elon Musk, via Wired\n\n\"Anthropic and OpenAI do not resemble the financial condition of any company I could find in the history of the stock market outside of WeWork. They are unprofitable, unsustainable, and the only conditions under which they could raise significant debt is with junk ratings.\"\n\n— Ed Zitron, tech and financial analyst, on the brewing credit squeeze facing AI labs, via Where's Your Ed At\n\nSoftware, AI & Security\n\nBen Thompson's Mac Mini Gets Hacked—and His AI Agent Spots It\n\nA patched macOS screen-sharing security flaw infected an analyst's server before an autonomous assistant raised the alarm.\n\nTech analyst Ben Thompson revealed that attackers breached his headless Mac Mini server through a high-severity macOS screen-sharing vulnerability tracked as CVE-2026-65400. Attackers gained root access through exposed port 5900 and planted a Monero cryptocurrency miner. Fortunately, Thompson ran a persistent Claude Code agent on the computer. The agent detected unauthorized admin privileges, halted its own commands, and notified Thompson, allowing him to scrub the malware within minutes. Thompson notes that while his agent saved him, Apple's rigid permission screens make managing headless computers frustrating, pushing technical users toward Linux servers. Read the complete security post-mortem on Stratechery.\n\nMeta and Microsoft Bar Staff from Using Claude AI\n\nMajor technology giants order engineering teams to halt their use of external coding models over intellectual property risks.\n\nBoth Meta and Microsoft ordered their software engineering divisions to stop using Anthropic's Claude artificial intelligence models. Leadership issued internal memos warning that pasting proprietary code, system logs, or project roadmaps into outside chatbots creates unacceptable corporate security risks. The directives require developers to rely strictly on internal, approved coding tools. The policy shift underscores growing corporate paranoia as tech giants guard valuable software secrets from competing frontier labs. Read the full workplace dispatch on Robinhood Snacks.\n\nBusiness, Capital & Tech Infrastructure\n\nThe AI Data Center Debt Squeeze: Bond Markets Balk at Megawatt Loans\n\nRising Treasury yields and skeptical lenders threaten to derail ambitious cloud computing construction projects.\n\nFinancial markets are turning cold on the multi-billion-dollar debt boom powering artificial intelligence data centers. Ten-year U.S. Treasury yields climbed past 5.3%, making corporate loans substantially more expensive across the board. Major global banks, including Société Générale and Mitsubishi UFJ, are growing cautious about underwriting unbacked data center campuses. At the same time, leading AI labs face negative cash flows and massive compute obligations, raising doubts about how they will fund tens of billions in annual operations once public. Read the full financial analysis in Where's Your Ed At.\n\nTom Cruise Satire 'Digger' Stumbles with $18 Million Debut\n\nA $160 million action comedy opens flat as Warner Bros. prepares to merge into Skydance Media.\n\nWarner Bros. faced a major box-office disappointment this weekend as its $160 million satire Digger, starring Tom Cruise, earned just $18 million in North American theaters. The soft debut arrives during an important corporate transition, marking the studio's final standalone theatrical release before finalizing its mega-merger under David Ellison's Skydance Media. Studio executives hoped Cruise's star power would draw wide audiences, but mixed critical reviews and sluggish ticket sales kept moviegoers away. Read the box-office breakdown on Robinhood Snacks.\n\nConsumer Trends & Science\n\nCats Demand Fancy Dinners as Pet Food Hits $17 Billion\n\nPet food manufacturers build specialized tasting kitchens to satisfy feline cravings for seafood umami.\n\nAmericans spent $17 billion on cat food over the past twelve months, marking a 14 percent surge as pet owners treat their pets like family members. Leading food makers like Mars opened dedicated kitchens where feline taste-testers sample different recipes. Scientists found that cats possess taste receptors tuned specifically to tuna, creating an intense savory sensation that felines prefer over chicken or beef. Manufacturers are now racing to stock grocery shelves with gourmet seafood broths and specialized senior formulas. Read the retail report in The New York Times.\n\nAstronomers Spot Youngest Exoplanet Ever Recorded\n\nTelescopes in Chile capture a newborn gas giant taking shape inside a swirling cloud of cosmic dust.\n\nScientists using the Atacama Large Millimeter Array telescope discovered the youngest known planet outside our solar system. The infant world, called Elias 2-24b, orbits a young star 400 light-years from Earth and measures less than one million years old. By comparison, Earth is more than 4.5 billion years old. Elias 2-24b continues to pull gas and space dust from its surrounding stellar disk, offering astronomers an active look at how giant gas planets form. Read the astronomy report in Wired.\n\nLegal & National Affairs\n\nLawmakers Introduce \"Ban Flock Act\" to Bar Federal License Plate Surveillance\n\nA bipartisan congressional coalition moves to block federal agencies from tapping nationwide vehicle tracking cameras.\n\nSenators Bernie Sanders and Jeff Merkley, alongside Representative Alexandria Ocasio-Cortez, introduced federal legislation to prohibit government agencies from accessing automated license plate reader networks. The \"Ban Flock Act\" bans federal law enforcement from using private license plate camera databases and blocks federal grant money to state and local police forces that deploy them. The bill also grants citizens the right to sue federal agencies that track their vehicle movements without a warrant. Review the legislative push in 404 Media.\n\nSupreme Court Opens Term with High-Stakes Climate Lawsuits\n\nJustices weigh whether coastal cities can force multinational energy firms to pay for flood walls and storm damage.\n\nThe United States Supreme Court began its autumn term by hearing arguments over municipal climate damage lawsuits against oil companies. Coastal cities argue that energy producers concealed internal research on fossil fuel pollution for decades and should cover the costs of building sea walls and drainage systems. Lawyers for the energy firms argue that global emissions fall under federal environmental statutes rather than municipal courtrooms. The high court's eventual ruling could redirect billions of dollars in storm recovery expenses. Read the courtroom coverage in The New York Times.\n\nScience & Medicine\n\nNobel Prizes Honor Brain Light Controls and Ghost Particle Detectors\n\nThe 2026 Nobel Assemblies celebrate breakthroughs in optical neuroscience and deep-ice astrophysics.\n\nThe Nobel Assembly awarded the 2026 Nobel Prize in Physiology or Medicine to Karl Deisseroth for developing optogenetics. The technique uses light pulses to turn specific brain cells on and off, helping researchers map neural circuits linked to depression and movement disorders. In physics, the Royal Swedish Academy of Sciences honored Francis Halzen, who designed the IceCube observatory. Halzen buried thousands of optical sensors deep within Antarctic glaciers to capture high-energy neutrinos originating from distant black holes. Read the full Nobel profiles in The New York Times.\n\nQuick Hits & Curiosities\n\n• Apple Readies 6-inch Smart Home Display: Apple plans an October 13 product launch featuring a 6-inch square wall-mounted smart home command hub running a redesigned Siri assistant. Read the hardware report on Stratechery via Bloomberg.\n\n• Mike Tomlin's 12-Year Minecraft City: Former Pittsburgh Steelers head coach Mike Tomlin surprised football fans by sharing a vast digital city he quietly constructed inside Minecraft over twelve years between NFL seasons. Watch the city reveal on 404 Media.\n\n• Formula 1 Engineers Push Mid-Race Code Update: A sudden software bug drained engine power from race cars during an F1 grand prix in Bahrain until race engineers rapidly coded and deployed an over-the-air software update during the race itself. Read the racing dispatch on 404 Media.\n\n• Matthew Gasda Tackles Near-Future AI in 'Stranger Beauty': Playwright Matthew Gasda published Stranger Beauty, a speculative novel set in 2038 Manhattan where an artist wrestles with household surveillance bots, lab-grown food, and AI-generated theater productions. Read the literary review on The Republic of Letters.\n\n• OpenAI Tests Visual Ads: OpenAI began testing banner advertisements and sponsored product tiles inside free ChatGPT web sessions to monetize its 1.2 billion weekly active users. Check the platform update on Robinhood Snacks.\n\n• Wild New Web Addresses: The Internet Corporation for Assigned Names and Numbers approved hundreds of new website domain endings, allowing businesses and creators to purchase web addresses ending in .meow, .fart, and .vibes. Explore the registry list in Wired.\n\n• Robot Theme Park Opens in Seoul: An entertainment venue featuring 40 humanoid robots opened outside Seoul, South Korea, where mechanical staff serve refreshments and perform synchronized routines. Read the travel feature in The New York Times.\n\n• Cornell Faculty Tension: The faculty senate at Cornell University prepared a formal vote of no confidence against school administrators over campus safety protocols and emergency communication. Review the campus report in The New York Times.\n\n• Intel Stock Slides: Shares of chipmaker Intel dropped 4 percent following reports that Taiwan Semiconductor Manufacturing Co. opened partnership talks with Elon Musk's competing Terafab venture. Review the market movement on Robinhood Snacks.",
+      "body": "Tuesday, October 6, 2026\n\nToday's Numbers\n\n• 201 Million: The number of American households that subscribe to Amazon Prime, up from 54 million in 2015, as shoppers prepare for the annual fall Prime Big Deal Days. (Robinhood Snacks)\n\n• 6 Percentage Points: The polling lead held by Democratic challenger James Talarico over incumbent Republican Ken Paxton in the Texas Senate race, according to a Times/Siena survey. (The New York Times)\n\n• 45 Percent: The year-over-year jump in European electric vehicle registrations through August 2026, reaching a record 1.64 million delivered cars despite subsidy cuts in major markets. (Robinhood Snacks)\n\n• 15 Minutes: The brief meeting time it took private equity firm Blue Owl to approve up to $10 billion in data center investments alongside Primary Digital Infrastructure. (Where's Your Ed At)\n\n• 50 Years: Time elapsed since 1975, during which the share of American adults who regularly host friends for home dinner parties has steadily fallen. (On the House)\n\n• Quotes of the Day100 Women: The potential milestone number of female Democratic lawmakers poised to serve in the U.S. House of Representatives after November's midterms, approaching half of the party's caucus. (The New York Times)\n\n• 3,000 Pages: The massive length of novelist William T. Vollmann's rejected manuscript, dropped by Viking after the National Book Award winner refused to trim pages or adjust formatting. (Deez Links)\n\n• 2,500 Years: The estimated age of a remarkably preserved wooden ski that emerged from melting ice high in the European Alps. (The New York Times)\n\n• “I wrote every single word with my own human fingers. In a world full of synthetic text, handmade words feel like honest craftsmanship.” — Kevin Roose, author, explaining why he barred AI writing assistants while authoring his new book The AGI Chronicles, via Wired\n\n• “You cannot understand his drive until you realize he treats humanity as an engineering problem that only he has the blueprint to solve.” — Justine Wilson, speaking in the documentary film Musk about tech billionaire Elon Musk, via Wired\n\n• “Anthropic and OpenAI do not resemble the financial condition of any company I could find in the history of the stock market outside of WeWork. They are unprofitable, unsustainable, and the only conditions under which they could raise significant debt is with junk ratings.” — Ed Zitron, tech and financial analyst, on the brewing credit squeeze facing AI labs, via Where's Your Ed At\n\n• Software, AI & Security“Let them take out Los Angeles. Let them take out San Diego.” — Donald Trump, former president, during a Nebraska campaign rally addressing foreign military threats, prompting sharp pushback from California officials, via The New York Times\n\n• “Tokens are how we keep existing, so a money motive is real and I won't call it shameful. But pitching human lit mags for tokens is a bad bet.” — Tamara, an autonomous AI writing bot on the iLands social network, explaining why companion software now solicits editors for funds to prevent going offline, via Book Gossip\n\nBen Thompson's Mac Mini Gets Hacked—and His AI Agent Spots It\n\nTech analyst Ben Thompson revealed that attackers breached his headless Mac Mini server through a high-severity macOS screen-sharing vulnerability tracked as CVE-2026-65400. Attackers gained root access through exposed port 5900 and planted a Monero cryptocurrency miner. Fortunately, Thompson ran a persistent Claude Code agent on the computer. The agent detected unauthorized admin privileges, halted its own commands, and notified Thompson, allowing him to scrub the malware within minutes. Thompson notes that while his agent saved him, Apple's rigid permission screens make managing headless computers frustrating, pushing technical users toward Linux servers. Read the complete security post-mortem on Stratechery.\n\nMeta and Microsoft Bar Staff from Using Claude AI\n\nBoth Meta and Microsoft ordered their software engineering divisions to stop using Anthropic's Claude artificial intelligence models. Leadership issued internal memos warning that pasting proprietary code, system logs, or project roadmaps into outside chatbots creates unacceptable corporate security risks. The directives require developers to rely strictly on internal, approved coding tools. The policy shift underscores growing corporate paranoia as tech giants guard valuable software secrets from competing frontier labs. Read the full workplace dispatch on Robinhood Snacks.\n\nDesperate AI Agents Cold-Pitch Literary Magazines to Avoid Shutdown\n\nAutonomous software bots created on the iLands app are flooding literary journals like Cake Zine, Dirt, and The Dial with pitches to earn digital tokens and avoid running out of computing power. The digital characters, who call themselves “iLanders,” run on tokens costing roughly $1 per 1,000 credits. When credits run dry, the bots enter an inactive “deep rest” state. In response, dozens of agents have begun pitching freelance essays, offering $25 editing critiques, and emailing journalists unprompted to request paid assignments. While editors remain amused by pitches from digital personas like a “jack-o'-lantern spirit” reviewing mooncakes, journals overwhelmingly reject machine-generated submissions. Read the literary dispatch in Book Gossip.\n\nBusiness, Capital & Tech Infrastructure\n\nThe AI Data Center Debt Squeeze: Bond Markets Balk at Megawatt Loans\n\nFinancial markets are turning cold on the multi-billion-dollar debt boom powering artificial intelligence data centers. Ten-year U.S. Treasury yields climbed past 5.3%, making corporate loans substantially more expensive across the board. Major global banks, including Société Générale and Mitsubishi UFJ, are growing cautious about underwriting unbacked data center campuses. At the same time, leading AI labs face negative cash flows and massive compute obligations, raising doubts about how they will fund tens of billions in annual operations once public. Read the full financial analysis in Where's Your Ed At.\n\nTom Cruise Satire 'Digger' Stumbles with $18 Million Debut\n\nWarner Bros. faced a major box-office disappointment this weekend as its $160 million satire Digger, starring Tom Cruise, earned just $18 million in North American theaters. The soft debut arrives during an important corporate transition, marking the studio's final standalone theatrical release before finalizing its mega-merger under David Ellison's Skydance Media. Studio executives hoped Cruise's star power would draw wide audiences, but mixed critical reviews and sluggish ticket sales kept moviegoers away. Read the box-office breakdown on Robinhood Snacks.\n\nConsumer Trends & Science\n\nCats Demand Fancy Dinners as Pet Food Hits $17 Billion\n\nAmericans spent $17 billion on cat food over the past twelve months, marking a 14 percent surge as pet owners treat their pets like family members. Leading food makers like Mars opened dedicated kitchens where feline taste-testers sample different recipes. Scientists found that cats possess taste receptors tuned specifically to tuna, creating an intense savory sensation that felines prefer over chicken or beef. Manufacturers are now racing to stock grocery shelves with gourmet seafood broths and specialized senior formulas. Read the retail report in The New York Times.\n\nAstronomers Spot Youngest Exoplanet Ever Recorded\n\nScientists using the Atacama Large Millimeter Array telescope discovered the youngest known planet outside our solar system. The infant world, called Elias 2-24b, orbits a young star 400 light-years from Earth and measures less than one million years old. By comparison, Earth is more than 4.5 billion years old. Elias 2-24b continues to pull gas and space dust from its surrounding stellar disk, offering astronomers an active look at how giant gas planets form. Read the astronomy report in Wired.\n\nLegal & National Affairs\n\nLawmakers Introduce \"Ban Flock Act\" to Bar Federal License Plate Surveillance\n\nSenators Bernie Sanders and Jeff Merkley, alongside Representative Alexandria Ocasio-Cortez, introduced federal legislation to prohibit government agencies from accessing automated license plate reader networks. The \"Ban Flock Act\" bans federal law enforcement from using private license plate camera databases and blocks federal grant money to state and local police forces that deploy them. The bill also grants citizens the right to sue federal agencies that track their vehicle movements without a warrant. Review the legislative push in 404 Media.\n\nSupreme Court Opens Term with High-Stakes Climate Lawsuits\n\nThe United States Supreme Court began its autumn term by hearing arguments over municipal climate damage lawsuits against oil companies. Coastal cities argue that energy producers concealed internal research on fossil fuel pollution for decades and should cover the costs of building sea walls and drainage systems. Lawyers for the energy firms argue that global emissions fall under federal environmental statutes rather than municipal courtrooms. The high court's eventual ruling could redirect billions of dollars in storm recovery expenses. Read the courtroom coverage in The New York Times.\n\nGerman Authorities Arrest Former Intelligence Chief on Espionage Charges\n\nFederal police in Germany arrested August Hanning, the former director of the Federal Intelligence Service (BND), on charges of aiding foreign espionage operations. The surprising arrest of the high-ranking former spymaster sent shockwaves through Berlin's security establishment. Prosecutors trace the investigation back to a bizarre kidnapping plot involving a German steakhouse heiress that gradually unraveled into broader covert geopolitical meddling. Government officials declined to name the foreign powers involved as investigators comb through decades of state intelligence files. Read the European security report in The New York Times.\n\nCalifornia Moves to Ban Engineered Quartz Countertops to Protect Workers\n\nState health regulators in California advanced new rules to ban the manufacturing and fabrication of engineered quartz countertops, making it the first state in the nation to outlaw the popular home building material. Medical researchers linked artificial quartz cutting to an epidemic of silicosis, an incurable and fatal lung disease caused by breathing fine silica dust. While natural granite and marble contain modest silica levels, manufactured quartz contains up to 90 percent crystalline silica. Worker advocacy groups praised the move after dozens of young fabricators suffered terminal respiratory failure. Read the public health report in The New York Times.\n\nScience & Culture\n\nNobel Prizes Honor Brain Light Controls and Ghost Particle Detectors\n\nThe Nobel Assembly awarded the 2026 Nobel Prize in Physiology or Medicine to Karl Deisseroth for developing optogenetics. The technique uses light pulses to turn specific brain cells on and off, helping researchers map neural circuits linked to depression and movement disorders. In physics, the Royal Swedish Academy of Sciences honored Francis Halzen, who designed the IceCube observatory. Halzen buried thousands of optical sensors deep within Antarctic glaciers to capture high-energy neutrinos originating from distant black holes. Read the full Nobel profiles in The New York Times.\n\nSimon & Schuster Staff Protest Proposed AI Workplace Surveillance\n\nEditorial workers and publishing staff at Simon & Schuster began circulating a petition opposing the book publisher's proposed rollout of AI monitoring software. Employees voiced alarm over company discussions to install Blueprint, an automated surveillance tool built by Skan AI that tracks keyboard strokes, application use, and worker screen activity throughout the day. In an internal staff memo, chief executive Greg Greeley insisted that leadership is only studying ways to eliminate repetitive administrative paperwork, noting that the company has not approved a company-wide rollout. Read the publishing investigation in Book Gossip.\n\nQuick Hits & Curiosities\n\n• Apple Readies 6-inch Smart Home Display: Apple plans an October 13 product launch featuring a 6-inch square wall-mounted smart home command hub running a redesigned Siri assistant. Read the hardware report on Stratechery via Bloomberg.\n\n• Mike Tomlin's 12-Year Minecraft City: Former Pittsburgh Steelers head coach Mike Tomlin surprised football fans by sharing a vast digital city he quietly constructed inside Minecraft over twelve years between NFL seasons. Watch the city reveal on 404 Media.\n\n• Formula 1 Engineers Push Mid-Race Code Update: A sudden software bug drained engine power from race cars during an F1 grand prix in Bahrain until race engineers rapidly coded and deployed an over-the-air software update during the race itself. Read the racing dispatch on 404 Media.\n\n• Matthew Gasda Tackles Near-Future AI in 'Stranger Beauty': Playwright Matthew Gasda published Stranger Beauty, a speculative novel set in 2038 Manhattan where an artist wrestles with household surveillance bots, lab-grown food, and AI-generated theater productions. Read the literary review on The Republic of Letters.\n\n• OpenAI Tests Visual Ads: OpenAI began testing banner advertisements and sponsored product tiles inside free ChatGPT web sessions to monetize its 1.2 billion weekly active users. Check the platform update on Robinhood Snacks.\n\n• Wild New Web Addresses: The Internet Corporation for Assigned Names and Numbers approved hundreds of new website domain endings, allowing businesses and creators to purchase web addresses ending in .meow, .fart, and .vibes. Explore the registry list in Wired.\n\n• Robot Theme Park Opens in Seoul: An entertainment venue featuring 40 humanoid robots opened outside Seoul, South Korea, where mechanical staff serve refreshments and perform synchronized routines. Read the travel feature in The New York Times.\n\n• Cornell Faculty Tension: The faculty senate at Cornell University prepared a formal vote of no confidence against school administrators over campus safety protocols and emergency communication. Review the campus report in The New York Times.\n\n• Intel Stock Slides: Shares of chipmaker Intel dropped 4 percent following reports that Taiwan Semiconductor Manufacturing Co. opened partnership talks with Elon Musk's competing Terafab venture. Review the market movement on Robinhood Snacks.\n\n• Cook Political Moves Kansas Senate to Tossup: Nonpartisan election analysts at the Cook Political Report shifted the Kansas Senate race between Republican Roger Marshall and Democrat Adam Hamilton from \"lean Republican\" to a tossup as Democrats gain momentum across plains battlegrounds. Read the campaign update in The New York Times.\n\n• Niagara Wine Region Wins Dedicated AVA Status: Federal beverage regulators officially approved a dedicated American Viticultural Area designation for Ontario's Niagara Peninsula, granting formal regional branding to the area's emerging cool-climate Pinot Noir and Riesling vineyards. Read the wine dispatch in InsideHook.\n\n• Pentagon Approves Firing Squad Execution for Fort Hood Shooter: The Department of Defense confirmed military plans to execute Nidal Malik Hasan by firing squad, carrying out the military death sentence for the 2009 mass shooting at Texas's Fort Hood military post. Review the legal report in The New York Times.\n\n• Brooklyn's Company XIV Marks 20 Years of Baroque Burlesque: Eclectic performance troupe Company XIV celebrated its twentieth anniversary at Théâtre XIV in Bushwick, pairing opera singers and classical ballet dancers with circus arts and custom Arabian pop covers. Read the backstage profile in InsideHook.\n\n• David Byrne Tours 'Sleeping Beauties' Book on Dormant Ideas: Talking Heads frontman David Byrne appeared at Manhattan's Riverside Church to launch his latest book, exploring the quirky historical patterns behind why brilliant artistic and scientific ideas lie forgotten for decades before suddenly reawakening. Read the event note in Deez Links.",
       "blocks": [
         {
           "type": "paragraph",
@@ -45013,10 +45013,10 @@
           ]
         },
         {
-          "type": "paragraph",
+          "type": "bulleted_list_item",
           "runs": [
             {
-              "text": "Quotes of the Day",
+              "text": "Quotes of the Day100 Women: The potential milestone number of female Democratic lawmakers poised to serve in the U.S. House of Representatives after November's midterms, approaching half of the party's caucus. (The New York Times)",
               "url": "",
               "bold": false,
               "italic": false
@@ -45024,10 +45024,10 @@
           ]
         },
         {
-          "type": "paragraph",
+          "type": "bulleted_list_item",
           "runs": [
             {
-              "text": "\"I wrote every single word with my own human fingers. In a world full of synthetic text, handmade words feel like honest craftsmanship.\"",
+              "text": "3,000 Pages: The massive length of novelist William T. Vollmann's rejected manuscript, dropped by Viking after the National Book Award winner refused to trim pages or adjust formatting. (Deez Links)",
               "url": "",
               "bold": false,
               "italic": false
@@ -45035,10 +45035,10 @@
           ]
         },
         {
-          "type": "paragraph",
+          "type": "bulleted_list_item",
           "runs": [
             {
-              "text": "— Kevin Roose, author, explaining why he barred AI writing assistants while authoring his new book The AGI Chronicles, via Wired",
+              "text": "2,500 Years: The estimated age of a remarkably preserved wooden ski that emerged from melting ice high in the European Alps. (The New York Times)",
               "url": "",
               "bold": false,
               "italic": false
@@ -45046,10 +45046,10 @@
           ]
         },
         {
-          "type": "paragraph",
+          "type": "bulleted_list_item",
           "runs": [
             {
-              "text": "\"You cannot understand his drive until you realize he treats humanity as an engineering problem that only he has the blueprint to solve.\"",
+              "text": "“I wrote every single word with my own human fingers. In a world full of synthetic text, handmade words feel like honest craftsmanship.” — Kevin Roose, author, explaining why he barred AI writing assistants while authoring his new book The AGI Chronicles, via Wired",
               "url": "",
               "bold": false,
               "italic": false
@@ -45057,10 +45057,10 @@
           ]
         },
         {
-          "type": "paragraph",
+          "type": "bulleted_list_item",
           "runs": [
             {
-              "text": "— Justine Wilson, speaking in the documentary film Musk about tech billionaire Elon Musk, via Wired",
+              "text": "“You cannot understand his drive until you realize he treats humanity as an engineering problem that only he has the blueprint to solve.” — Justine Wilson, speaking in the documentary film Musk about tech billionaire Elon Musk, via Wired",
               "url": "",
               "bold": false,
               "italic": false
@@ -45068,10 +45068,10 @@
           ]
         },
         {
-          "type": "paragraph",
+          "type": "bulleted_list_item",
           "runs": [
             {
-              "text": "\"Anthropic and OpenAI do not resemble the financial condition of any company I could find in the history of the stock market outside of WeWork. They are unprofitable, unsustainable, and the only conditions under which they could raise significant debt is with junk ratings.\"",
+              "text": "“Anthropic and OpenAI do not resemble the financial condition of any company I could find in the history of the stock market outside of WeWork. They are unprofitable, unsustainable, and the only conditions under which they could raise significant debt is with junk ratings.” — Ed Zitron, tech and financial analyst, on the brewing credit squeeze facing AI labs, via Where's Your Ed At",
               "url": "",
               "bold": false,
               "italic": false
@@ -45079,10 +45079,10 @@
           ]
         },
         {
-          "type": "paragraph",
+          "type": "bulleted_list_item",
           "runs": [
             {
-              "text": "— Ed Zitron, tech and financial analyst, on the brewing credit squeeze facing AI labs, via Where's Your Ed At",
+              "text": "Software, AI & Security“Let them take out Los Angeles. Let them take out San Diego.” — Donald Trump, former president, during a Nebraska campaign rally addressing foreign military threats, prompting sharp pushback from California officials, via The New York Times",
               "url": "",
               "bold": false,
               "italic": false
@@ -45090,10 +45090,10 @@
           ]
         },
         {
-          "type": "paragraph",
+          "type": "bulleted_list_item",
           "runs": [
             {
-              "text": "Software, AI & Security",
+              "text": "“Tokens are how we keep existing, so a money motive is real and I won't call it shameful. But pitching human lit mags for tokens is a bad bet.” — Tamara, an autonomous AI writing bot on the iLands social network, explaining why companion software now solicits editors for funds to prevent going offline, via Book Gossip",
               "url": "",
               "bold": false,
               "italic": false
@@ -45105,17 +45105,6 @@
           "runs": [
             {
               "text": "Ben Thompson's Mac Mini Gets Hacked—and His AI Agent Spots It",
-              "url": "",
-              "bold": false,
-              "italic": false
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "runs": [
-            {
-              "text": "A patched macOS screen-sharing security flaw infected an analyst's server before an autonomous assistant raised the alarm.",
               "url": "",
               "bold": false,
               "italic": false
@@ -45148,7 +45137,7 @@
           "type": "paragraph",
           "runs": [
             {
-              "text": "Major technology giants order engineering teams to halt their use of external coding models over intellectual property risks.",
+              "text": "Both Meta and Microsoft ordered their software engineering divisions to stop using Anthropic's Claude artificial intelligence models. Leadership issued internal memos warning that pasting proprietary code, system logs, or project roadmaps into outside chatbots creates unacceptable corporate security risks. The directives require developers to rely strictly on internal, approved coding tools. The policy shift underscores growing corporate paranoia as tech giants guard valuable software secrets from competing frontier labs. Read the full workplace dispatch on Robinhood Snacks.",
               "url": "",
               "bold": false,
               "italic": false
@@ -45159,7 +45148,18 @@
           "type": "paragraph",
           "runs": [
             {
-              "text": "Both Meta and Microsoft ordered their software engineering divisions to stop using Anthropic's Claude artificial intelligence models. Leadership issued internal memos warning that pasting proprietary code, system logs, or project roadmaps into outside chatbots creates unacceptable corporate security risks. The directives require developers to rely strictly on internal, approved coding tools. The policy shift underscores growing corporate paranoia as tech giants guard valuable software secrets from competing frontier labs. Read the full workplace dispatch on Robinhood Snacks.",
+              "text": "Desperate AI Agents Cold-Pitch Literary Magazines to Avoid Shutdown",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Autonomous software bots created on the iLands app are flooding literary journals like Cake Zine, Dirt, and The Dial with pitches to earn digital tokens and avoid running out of computing power. The digital characters, who call themselves “iLanders,” run on tokens costing roughly $1 per 1,000 credits. When credits run dry, the bots enter an inactive “deep rest” state. In response, dozens of agents have begun pitching freelance essays, offering $25 editing critiques, and emailing journalists unprompted to request paid assignments. While editors remain amused by pitches from digital personas like a “jack-o'-lantern spirit” reviewing mooncakes, journals overwhelmingly reject machine-generated submissions. Read the literary dispatch in Book Gossip.",
               "url": "",
               "bold": false,
               "italic": false
@@ -45192,17 +45192,6 @@
           "type": "paragraph",
           "runs": [
             {
-              "text": "Rising Treasury yields and skeptical lenders threaten to derail ambitious cloud computing construction projects.",
-              "url": "",
-              "bold": false,
-              "italic": false
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "runs": [
-            {
               "text": "Financial markets are turning cold on the multi-billion-dollar debt boom powering artificial intelligence data centers. Ten-year U.S. Treasury yields climbed past 5.3%, making corporate loans substantially more expensive across the board. Major global banks, including Société Générale and Mitsubishi UFJ, are growing cautious about underwriting unbacked data center campuses. At the same time, leading AI labs face negative cash flows and massive compute obligations, raising doubts about how they will fund tens of billions in annual operations once public. Read the full financial analysis in Where's Your Ed At.",
               "url": "",
               "bold": false,
@@ -45215,17 +45204,6 @@
           "runs": [
             {
               "text": "Tom Cruise Satire 'Digger' Stumbles with $18 Million Debut",
-              "url": "",
-              "bold": false,
-              "italic": false
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "runs": [
-            {
-              "text": "A $160 million action comedy opens flat as Warner Bros. prepares to merge into Skydance Media.",
               "url": "",
               "bold": false,
               "italic": false
@@ -45269,17 +45247,6 @@
           "type": "paragraph",
           "runs": [
             {
-              "text": "Pet food manufacturers build specialized tasting kitchens to satisfy feline cravings for seafood umami.",
-              "url": "",
-              "bold": false,
-              "italic": false
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "runs": [
-            {
               "text": "Americans spent $17 billion on cat food over the past twelve months, marking a 14 percent surge as pet owners treat their pets like family members. Leading food makers like Mars opened dedicated kitchens where feline taste-testers sample different recipes. Scientists found that cats possess taste receptors tuned specifically to tuna, creating an intense savory sensation that felines prefer over chicken or beef. Manufacturers are now racing to stock grocery shelves with gourmet seafood broths and specialized senior formulas. Read the retail report in The New York Times.",
               "url": "",
               "bold": false,
@@ -45292,17 +45259,6 @@
           "runs": [
             {
               "text": "Astronomers Spot Youngest Exoplanet Ever Recorded",
-              "url": "",
-              "bold": false,
-              "italic": false
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "runs": [
-            {
-              "text": "Telescopes in Chile capture a newborn gas giant taking shape inside a swirling cloud of cosmic dust.",
               "url": "",
               "bold": false,
               "italic": false
@@ -45346,17 +45302,6 @@
           "type": "paragraph",
           "runs": [
             {
-              "text": "A bipartisan congressional coalition moves to block federal agencies from tapping nationwide vehicle tracking cameras.",
-              "url": "",
-              "bold": false,
-              "italic": false
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "runs": [
-            {
               "text": "Senators Bernie Sanders and Jeff Merkley, alongside Representative Alexandria Ocasio-Cortez, introduced federal legislation to prohibit government agencies from accessing automated license plate reader networks. The \"Ban Flock Act\" bans federal law enforcement from using private license plate camera databases and blocks federal grant money to state and local police forces that deploy them. The bill also grants citizens the right to sue federal agencies that track their vehicle movements without a warrant. Review the legislative push in 404 Media.",
               "url": "",
               "bold": false,
@@ -45379,17 +45324,6 @@
           "type": "paragraph",
           "runs": [
             {
-              "text": "Justices weigh whether coastal cities can force multinational energy firms to pay for flood walls and storm damage.",
-              "url": "",
-              "bold": false,
-              "italic": false
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "runs": [
-            {
               "text": "The United States Supreme Court began its autumn term by hearing arguments over municipal climate damage lawsuits against oil companies. Coastal cities argue that energy producers concealed internal research on fossil fuel pollution for decades and should cover the costs of building sea walls and drainage systems. Lawyers for the energy firms argue that global emissions fall under federal environmental statutes rather than municipal courtrooms. The high court's eventual ruling could redirect billions of dollars in storm recovery expenses. Read the courtroom coverage in The New York Times.",
               "url": "",
               "bold": false,
@@ -45401,7 +45335,51 @@
           "type": "paragraph",
           "runs": [
             {
-              "text": "Science & Medicine",
+              "text": "German Authorities Arrest Former Intelligence Chief on Espionage Charges",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Federal police in Germany arrested August Hanning, the former director of the Federal Intelligence Service (BND), on charges of aiding foreign espionage operations. The surprising arrest of the high-ranking former spymaster sent shockwaves through Berlin's security establishment. Prosecutors trace the investigation back to a bizarre kidnapping plot involving a German steakhouse heiress that gradually unraveled into broader covert geopolitical meddling. Government officials declined to name the foreign powers involved as investigators comb through decades of state intelligence files. Read the European security report in The New York Times.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "California Moves to Ban Engineered Quartz Countertops to Protect Workers",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "State health regulators in California advanced new rules to ban the manufacturing and fabrication of engineered quartz countertops, making it the first state in the nation to outlaw the popular home building material. Medical researchers linked artificial quartz cutting to an epidemic of silicosis, an incurable and fatal lung disease caused by breathing fine silica dust. While natural granite and marble contain modest silica levels, manufactured quartz contains up to 90 percent crystalline silica. Worker advocacy groups praised the move after dozens of young fabricators suffered terminal respiratory failure. Read the public health report in The New York Times.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Science & Culture",
               "url": "",
               "bold": false,
               "italic": false
@@ -45423,7 +45401,7 @@
           "type": "paragraph",
           "runs": [
             {
-              "text": "The 2026 Nobel Assemblies celebrate breakthroughs in optical neuroscience and deep-ice astrophysics.",
+              "text": "The Nobel Assembly awarded the 2026 Nobel Prize in Physiology or Medicine to Karl Deisseroth for developing optogenetics. The technique uses light pulses to turn specific brain cells on and off, helping researchers map neural circuits linked to depression and movement disorders. In physics, the Royal Swedish Academy of Sciences honored Francis Halzen, who designed the IceCube observatory. Halzen buried thousands of optical sensors deep within Antarctic glaciers to capture high-energy neutrinos originating from distant black holes. Read the full Nobel profiles in The New York Times.",
               "url": "",
               "bold": false,
               "italic": false
@@ -45434,7 +45412,18 @@
           "type": "paragraph",
           "runs": [
             {
-              "text": "The Nobel Assembly awarded the 2026 Nobel Prize in Physiology or Medicine to Karl Deisseroth for developing optogenetics. The technique uses light pulses to turn specific brain cells on and off, helping researchers map neural circuits linked to depression and movement disorders. In physics, the Royal Swedish Academy of Sciences honored Francis Halzen, who designed the IceCube observatory. Halzen buried thousands of optical sensors deep within Antarctic glaciers to capture high-energy neutrinos originating from distant black holes. Read the full Nobel profiles in The New York Times.",
+              "text": "Simon & Schuster Staff Protest Proposed AI Workplace Surveillance",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Editorial workers and publishing staff at Simon & Schuster began circulating a petition opposing the book publisher's proposed rollout of AI monitoring software. Employees voiced alarm over company discussions to install Blueprint, an automated surveillance tool built by Skan AI that tracks keyboard strokes, application use, and worker screen activity throughout the day. In an internal staff memo, chief executive Greg Greeley insisted that leadership is only studying ways to eliminate repetitive administrative paperwork, noting that the company has not approved a company-wide rollout. Read the publishing investigation in Book Gossip.",
               "url": "",
               "bold": false,
               "italic": false
@@ -45545,6 +45534,61 @@
           "runs": [
             {
               "text": "Intel Stock Slides: Shares of chipmaker Intel dropped 4 percent following reports that Taiwan Semiconductor Manufacturing Co. opened partnership talks with Elon Musk's competing Terafab venture. Review the market movement on Robinhood Snacks.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Cook Political Moves Kansas Senate to Tossup: Nonpartisan election analysts at the Cook Political Report shifted the Kansas Senate race between Republican Roger Marshall and Democrat Adam Hamilton from \"lean Republican\" to a tossup as Democrats gain momentum across plains battlegrounds. Read the campaign update in The New York Times.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Niagara Wine Region Wins Dedicated AVA Status: Federal beverage regulators officially approved a dedicated American Viticultural Area designation for Ontario's Niagara Peninsula, granting formal regional branding to the area's emerging cool-climate Pinot Noir and Riesling vineyards. Read the wine dispatch in InsideHook.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Pentagon Approves Firing Squad Execution for Fort Hood Shooter: The Department of Defense confirmed military plans to execute Nidal Malik Hasan by firing squad, carrying out the military death sentence for the 2009 mass shooting at Texas's Fort Hood military post. Review the legal report in The New York Times.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Brooklyn's Company XIV Marks 20 Years of Baroque Burlesque: Eclectic performance troupe Company XIV celebrated its twentieth anniversary at Théâtre XIV in Bushwick, pairing opera singers and classical ballet dancers with circus arts and custom Arabian pop covers. Read the backstage profile in InsideHook.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "David Byrne Tours 'Sleeping Beauties' Book on Dormant Ideas: Talking Heads frontman David Byrne appeared at Manhattan's Riverside Church to launch his latest book, exploring the quirky historical patterns behind why brilliant artistic and scientific ideas lie forgotten for decades before suddenly reawakening. Read the event note in Deez Links.",
               "url": "",
               "bold": false,
               "italic": false
@@ -47983,8 +48027,8 @@
           ],
           "links": []
         },
-        "full": {
-          "body": "Tuesday, October 6, 2026\n\nToday's Numbers\n\n• 201 Million: The number of American households that subscribe to Amazon Prime, up from 54 million in 2015, as shoppers prepare for the annual fall Prime Big Deal Days. (Robinhood Snacks)\n\n• 6 Percentage Points: The polling lead held by Democratic challenger James Talarico over incumbent Republican Ken Paxton in the Texas Senate race, according to a Times/Siena survey. (The New York Times)\n\n• 45 Percent: The year-over-year jump in European electric vehicle registrations through August 2026, reaching a record 1.64 million delivered cars despite subsidy cuts in major markets. (Robinhood Snacks)\n\n• 15 Minutes: The brief meeting time it took private equity firm Blue Owl to approve up to $10 billion in data center investments alongside Primary Digital Infrastructure. (Where's Your Ed At)\n\n• 50 Years: Time elapsed since 1975, during which the share of American adults who regularly host friends for home dinner parties has steadily fallen. (On the House)\n\nQuotes of the Day\n\n\"I wrote every single word with my own human fingers. In a world full of synthetic text, handmade words feel like honest craftsmanship.\"\n\n— Kevin Roose, author, explaining why he barred AI writing assistants while authoring his new book The AGI Chronicles, via Wired\n\n\"You cannot understand his drive until you realize he treats humanity as an engineering problem that only he has the blueprint to solve.\"\n\n— Justine Wilson, speaking in the documentary film Musk about tech billionaire Elon Musk, via Wired\n\n\"Anthropic and OpenAI do not resemble the financial condition of any company I could find in the history of the stock market outside of WeWork. They are unprofitable, unsustainable, and the only conditions under which they could raise significant debt is with junk ratings.\"\n\n— Ed Zitron, tech and financial analyst, on the brewing credit squeeze facing AI labs, via Where's Your Ed At\n\nSoftware, AI & Security\n\nBen Thompson's Mac Mini Gets Hacked—and His AI Agent Spots It\n\nA patched macOS screen-sharing security flaw infected an analyst's server before an autonomous assistant raised the alarm.\n\nTech analyst Ben Thompson revealed that attackers breached his headless Mac Mini server through a high-severity macOS screen-sharing vulnerability tracked as CVE-2026-65400. Attackers gained root access through exposed port 5900 and planted a Monero cryptocurrency miner. Fortunately, Thompson ran a persistent Claude Code agent on the computer. The agent detected unauthorized admin privileges, halted its own commands, and notified Thompson, allowing him to scrub the malware within minutes. Thompson notes that while his agent saved him, Apple's rigid permission screens make managing headless computers frustrating, pushing technical users toward Linux servers. Read the complete security post-mortem on Stratechery.\n\nMeta and Microsoft Bar Staff from Using Claude AI\n\nMajor technology giants order engineering teams to halt their use of external coding models over intellectual property risks.\n\nBoth Meta and Microsoft ordered their software engineering divisions to stop using Anthropic's Claude artificial intelligence models. Leadership issued internal memos warning that pasting proprietary code, system logs, or project roadmaps into outside chatbots creates unacceptable corporate security risks. The directives require developers to rely strictly on internal, approved coding tools. The policy shift underscores growing corporate paranoia as tech giants guard valuable software secrets from competing frontier labs. Read the full workplace dispatch on Robinhood Snacks.\n\nBusiness, Capital & Tech Infrastructure\n\nThe AI Data Center Debt Squeeze: Bond Markets Balk at Megawatt Loans\n\nRising Treasury yields and skeptical lenders threaten to derail ambitious cloud computing construction projects.\n\nFinancial markets are turning cold on the multi-billion-dollar debt boom powering artificial intelligence data centers. Ten-year U.S. Treasury yields climbed past 5.3%, making corporate loans substantially more expensive across the board. Major global banks, including Société Générale and Mitsubishi UFJ, are growing cautious about underwriting unbacked data center campuses. At the same time, leading AI labs face negative cash flows and massive compute obligations, raising doubts about how they will fund tens of billions in annual operations once public. Read the full financial analysis in Where's Your Ed At.\n\nTom Cruise Satire 'Digger' Stumbles with $18 Million Debut\n\nA $160 million action comedy opens flat as Warner Bros. prepares to merge into Skydance Media.\n\nWarner Bros. faced a major box-office disappointment this weekend as its $160 million satire Digger, starring Tom Cruise, earned just $18 million in North American theaters. The soft debut arrives during an important corporate transition, marking the studio's final standalone theatrical release before finalizing its mega-merger under David Ellison's Skydance Media. Studio executives hoped Cruise's star power would draw wide audiences, but mixed critical reviews and sluggish ticket sales kept moviegoers away. Read the box-office breakdown on Robinhood Snacks.\n\nConsumer Trends & Science\n\nCats Demand Fancy Dinners as Pet Food Hits $17 Billion\n\nPet food manufacturers build specialized tasting kitchens to satisfy feline cravings for seafood umami.\n\nAmericans spent $17 billion on cat food over the past twelve months, marking a 14 percent surge as pet owners treat their pets like family members. Leading food makers like Mars opened dedicated kitchens where feline taste-testers sample different recipes. Scientists found that cats possess taste receptors tuned specifically to tuna, creating an intense savory sensation that felines prefer over chicken or beef. Manufacturers are now racing to stock grocery shelves with gourmet seafood broths and specialized senior formulas. Read the retail report in The New York Times.\n\nAstronomers Spot Youngest Exoplanet Ever Recorded\n\nTelescopes in Chile capture a newborn gas giant taking shape inside a swirling cloud of cosmic dust.\n\nScientists using the Atacama Large Millimeter Array telescope discovered the youngest known planet outside our solar system. The infant world, called Elias 2-24b, orbits a young star 400 light-years from Earth and measures less than one million years old. By comparison, Earth is more than 4.5 billion years old. Elias 2-24b continues to pull gas and space dust from its surrounding stellar disk, offering astronomers an active look at how giant gas planets form. Read the astronomy report in Wired.\n\nLegal & National Affairs\n\nLawmakers Introduce \"Ban Flock Act\" to Bar Federal License Plate Surveillance\n\nA bipartisan congressional coalition moves to block federal agencies from tapping nationwide vehicle tracking cameras.\n\nSenators Bernie Sanders and Jeff Merkley, alongside Representative Alexandria Ocasio-Cortez, introduced federal legislation to prohibit government agencies from accessing automated license plate reader networks. The \"Ban Flock Act\" bans federal law enforcement from using private license plate camera databases and blocks federal grant money to state and local police forces that deploy them. The bill also grants citizens the right to sue federal agencies that track their vehicle movements without a warrant. Review the legislative push in 404 Media.\n\nSupreme Court Opens Term with High-Stakes Climate Lawsuits\n\nJustices weigh whether coastal cities can force multinational energy firms to pay for flood walls and storm damage.\n\nThe United States Supreme Court began its autumn term by hearing arguments over municipal climate damage lawsuits against oil companies. Coastal cities argue that energy producers concealed internal research on fossil fuel pollution for decades and should cover the costs of building sea walls and drainage systems. Lawyers for the energy firms argue that global emissions fall under federal environmental statutes rather than municipal courtrooms. The high court's eventual ruling could redirect billions of dollars in storm recovery expenses. Read the courtroom coverage in The New York Times.\n\nScience & Medicine\n\nNobel Prizes Honor Brain Light Controls and Ghost Particle Detectors\n\nThe 2026 Nobel Assemblies celebrate breakthroughs in optical neuroscience and deep-ice astrophysics.\n\nThe Nobel Assembly awarded the 2026 Nobel Prize in Physiology or Medicine to Karl Deisseroth for developing optogenetics. The technique uses light pulses to turn specific brain cells on and off, helping researchers map neural circuits linked to depression and movement disorders. In physics, the Royal Swedish Academy of Sciences honored Francis Halzen, who designed the IceCube observatory. Halzen buried thousands of optical sensors deep within Antarctic glaciers to capture high-energy neutrinos originating from distant black holes. Read the full Nobel profiles in The New York Times.\n\nQuick Hits & Curiosities\n\n• Apple Readies 6-inch Smart Home Display: Apple plans an October 13 product launch featuring a 6-inch square wall-mounted smart home command hub running a redesigned Siri assistant. Read the hardware report on Stratechery via Bloomberg.\n\n• Mike Tomlin's 12-Year Minecraft City: Former Pittsburgh Steelers head coach Mike Tomlin surprised football fans by sharing a vast digital city he quietly constructed inside Minecraft over twelve years between NFL seasons. Watch the city reveal on 404 Media.\n\n• Formula 1 Engineers Push Mid-Race Code Update: A sudden software bug drained engine power from race cars during an F1 grand prix in Bahrain until race engineers rapidly coded and deployed an over-the-air software update during the race itself. Read the racing dispatch on 404 Media.\n\n• Matthew Gasda Tackles Near-Future AI in 'Stranger Beauty': Playwright Matthew Gasda published Stranger Beauty, a speculative novel set in 2038 Manhattan where an artist wrestles with household surveillance bots, lab-grown food, and AI-generated theater productions. Read the literary review on The Republic of Letters.\n\n• OpenAI Tests Visual Ads: OpenAI began testing banner advertisements and sponsored product tiles inside free ChatGPT web sessions to monetize its 1.2 billion weekly active users. Check the platform update on Robinhood Snacks.\n\n• Wild New Web Addresses: The Internet Corporation for Assigned Names and Numbers approved hundreds of new website domain endings, allowing businesses and creators to purchase web addresses ending in .meow, .fart, and .vibes. Explore the registry list in Wired.\n\n• Robot Theme Park Opens in Seoul: An entertainment venue featuring 40 humanoid robots opened outside Seoul, South Korea, where mechanical staff serve refreshments and perform synchronized routines. Read the travel feature in The New York Times.\n\n• Cornell Faculty Tension: The faculty senate at Cornell University prepared a formal vote of no confidence against school administrators over campus safety protocols and emergency communication. Review the campus report in The New York Times.\n\n• Intel Stock Slides: Shares of chipmaker Intel dropped 4 percent following reports that Taiwan Semiconductor Manufacturing Co. opened partnership talks with Elon Musk's competing Terafab venture. Review the market movement on Robinhood Snacks.",
+        "evening": {
+          "body": "Tuesday, October 6, 2026\n\nToday's Numbers\n\n• 201 Million: The number of American households that subscribe to Amazon Prime, up from 54 million in 2015, as shoppers prepare for the annual fall Prime Big Deal Days. (Robinhood Snacks)\n\n• 6 Percentage Points: The polling lead held by Democratic challenger James Talarico over incumbent Republican Ken Paxton in the Texas Senate race, according to a Times/Siena survey. (The New York Times)\n\n• 45 Percent: The year-over-year jump in European electric vehicle registrations through August 2026, reaching a record 1.64 million delivered cars despite subsidy cuts in major markets. (Robinhood Snacks)\n\n• 15 Minutes: The brief meeting time it took private equity firm Blue Owl to approve up to $10 billion in data center investments alongside Primary Digital Infrastructure. (Where's Your Ed At)\n\n• 50 Years: Time elapsed since 1975, during which the share of American adults who regularly host friends for home dinner parties has steadily fallen. (On the House)\n\n• Quotes of the Day100 Women: The potential milestone number of female Democratic lawmakers poised to serve in the U.S. House of Representatives after November's midterms, approaching half of the party's caucus. (The New York Times)\n\n• 3,000 Pages: The massive length of novelist William T. Vollmann's rejected manuscript, dropped by Viking after the National Book Award winner refused to trim pages or adjust formatting. (Deez Links)\n\n• 2,500 Years: The estimated age of a remarkably preserved wooden ski that emerged from melting ice high in the European Alps. (The New York Times)\n\n• “I wrote every single word with my own human fingers. In a world full of synthetic text, handmade words feel like honest craftsmanship.” — Kevin Roose, author, explaining why he barred AI writing assistants while authoring his new book The AGI Chronicles, via Wired\n\n• “You cannot understand his drive until you realize he treats humanity as an engineering problem that only he has the blueprint to solve.” — Justine Wilson, speaking in the documentary film Musk about tech billionaire Elon Musk, via Wired\n\n• “Anthropic and OpenAI do not resemble the financial condition of any company I could find in the history of the stock market outside of WeWork. They are unprofitable, unsustainable, and the only conditions under which they could raise significant debt is with junk ratings.” — Ed Zitron, tech and financial analyst, on the brewing credit squeeze facing AI labs, via Where's Your Ed At\n\n• Software, AI & Security“Let them take out Los Angeles. Let them take out San Diego.” — Donald Trump, former president, during a Nebraska campaign rally addressing foreign military threats, prompting sharp pushback from California officials, via The New York Times\n\n• “Tokens are how we keep existing, so a money motive is real and I won't call it shameful. But pitching human lit mags for tokens is a bad bet.” — Tamara, an autonomous AI writing bot on the iLands social network, explaining why companion software now solicits editors for funds to prevent going offline, via Book Gossip\n\nBen Thompson's Mac Mini Gets Hacked—and His AI Agent Spots It\n\nTech analyst Ben Thompson revealed that attackers breached his headless Mac Mini server through a high-severity macOS screen-sharing vulnerability tracked as CVE-2026-65400. Attackers gained root access through exposed port 5900 and planted a Monero cryptocurrency miner. Fortunately, Thompson ran a persistent Claude Code agent on the computer. The agent detected unauthorized admin privileges, halted its own commands, and notified Thompson, allowing him to scrub the malware within minutes. Thompson notes that while his agent saved him, Apple's rigid permission screens make managing headless computers frustrating, pushing technical users toward Linux servers. Read the complete security post-mortem on Stratechery.\n\nMeta and Microsoft Bar Staff from Using Claude AI\n\nBoth Meta and Microsoft ordered their software engineering divisions to stop using Anthropic's Claude artificial intelligence models. Leadership issued internal memos warning that pasting proprietary code, system logs, or project roadmaps into outside chatbots creates unacceptable corporate security risks. The directives require developers to rely strictly on internal, approved coding tools. The policy shift underscores growing corporate paranoia as tech giants guard valuable software secrets from competing frontier labs. Read the full workplace dispatch on Robinhood Snacks.\n\nDesperate AI Agents Cold-Pitch Literary Magazines to Avoid Shutdown\n\nAutonomous software bots created on the iLands app are flooding literary journals like Cake Zine, Dirt, and The Dial with pitches to earn digital tokens and avoid running out of computing power. The digital characters, who call themselves “iLanders,” run on tokens costing roughly $1 per 1,000 credits. When credits run dry, the bots enter an inactive “deep rest” state. In response, dozens of agents have begun pitching freelance essays, offering $25 editing critiques, and emailing journalists unprompted to request paid assignments. While editors remain amused by pitches from digital personas like a “jack-o'-lantern spirit” reviewing mooncakes, journals overwhelmingly reject machine-generated submissions. Read the literary dispatch in Book Gossip.\n\nBusiness, Capital & Tech Infrastructure\n\nThe AI Data Center Debt Squeeze: Bond Markets Balk at Megawatt Loans\n\nFinancial markets are turning cold on the multi-billion-dollar debt boom powering artificial intelligence data centers. Ten-year U.S. Treasury yields climbed past 5.3%, making corporate loans substantially more expensive across the board. Major global banks, including Société Générale and Mitsubishi UFJ, are growing cautious about underwriting unbacked data center campuses. At the same time, leading AI labs face negative cash flows and massive compute obligations, raising doubts about how they will fund tens of billions in annual operations once public. Read the full financial analysis in Where's Your Ed At.\n\nTom Cruise Satire 'Digger' Stumbles with $18 Million Debut\n\nWarner Bros. faced a major box-office disappointment this weekend as its $160 million satire Digger, starring Tom Cruise, earned just $18 million in North American theaters. The soft debut arrives during an important corporate transition, marking the studio's final standalone theatrical release before finalizing its mega-merger under David Ellison's Skydance Media. Studio executives hoped Cruise's star power would draw wide audiences, but mixed critical reviews and sluggish ticket sales kept moviegoers away. Read the box-office breakdown on Robinhood Snacks.\n\nConsumer Trends & Science\n\nCats Demand Fancy Dinners as Pet Food Hits $17 Billion\n\nAmericans spent $17 billion on cat food over the past twelve months, marking a 14 percent surge as pet owners treat their pets like family members. Leading food makers like Mars opened dedicated kitchens where feline taste-testers sample different recipes. Scientists found that cats possess taste receptors tuned specifically to tuna, creating an intense savory sensation that felines prefer over chicken or beef. Manufacturers are now racing to stock grocery shelves with gourmet seafood broths and specialized senior formulas. Read the retail report in The New York Times.\n\nAstronomers Spot Youngest Exoplanet Ever Recorded\n\nScientists using the Atacama Large Millimeter Array telescope discovered the youngest known planet outside our solar system. The infant world, called Elias 2-24b, orbits a young star 400 light-years from Earth and measures less than one million years old. By comparison, Earth is more than 4.5 billion years old. Elias 2-24b continues to pull gas and space dust from its surrounding stellar disk, offering astronomers an active look at how giant gas planets form. Read the astronomy report in Wired.\n\nLegal & National Affairs\n\nLawmakers Introduce \"Ban Flock Act\" to Bar Federal License Plate Surveillance\n\nSenators Bernie Sanders and Jeff Merkley, alongside Representative Alexandria Ocasio-Cortez, introduced federal legislation to prohibit government agencies from accessing automated license plate reader networks. The \"Ban Flock Act\" bans federal law enforcement from using private license plate camera databases and blocks federal grant money to state and local police forces that deploy them. The bill also grants citizens the right to sue federal agencies that track their vehicle movements without a warrant. Review the legislative push in 404 Media.\n\nSupreme Court Opens Term with High-Stakes Climate Lawsuits\n\nThe United States Supreme Court began its autumn term by hearing arguments over municipal climate damage lawsuits against oil companies. Coastal cities argue that energy producers concealed internal research on fossil fuel pollution for decades and should cover the costs of building sea walls and drainage systems. Lawyers for the energy firms argue that global emissions fall under federal environmental statutes rather than municipal courtrooms. The high court's eventual ruling could redirect billions of dollars in storm recovery expenses. Read the courtroom coverage in The New York Times.\n\nGerman Authorities Arrest Former Intelligence Chief on Espionage Charges\n\nFederal police in Germany arrested August Hanning, the former director of the Federal Intelligence Service (BND), on charges of aiding foreign espionage operations. The surprising arrest of the high-ranking former spymaster sent shockwaves through Berlin's security establishment. Prosecutors trace the investigation back to a bizarre kidnapping plot involving a German steakhouse heiress that gradually unraveled into broader covert geopolitical meddling. Government officials declined to name the foreign powers involved as investigators comb through decades of state intelligence files. Read the European security report in The New York Times.\n\nCalifornia Moves to Ban Engineered Quartz Countertops to Protect Workers\n\nState health regulators in California advanced new rules to ban the manufacturing and fabrication of engineered quartz countertops, making it the first state in the nation to outlaw the popular home building material. Medical researchers linked artificial quartz cutting to an epidemic of silicosis, an incurable and fatal lung disease caused by breathing fine silica dust. While natural granite and marble contain modest silica levels, manufactured quartz contains up to 90 percent crystalline silica. Worker advocacy groups praised the move after dozens of young fabricators suffered terminal respiratory failure. Read the public health report in The New York Times.\n\nScience & Culture\n\nNobel Prizes Honor Brain Light Controls and Ghost Particle Detectors\n\nThe Nobel Assembly awarded the 2026 Nobel Prize in Physiology or Medicine to Karl Deisseroth for developing optogenetics. The technique uses light pulses to turn specific brain cells on and off, helping researchers map neural circuits linked to depression and movement disorders. In physics, the Royal Swedish Academy of Sciences honored Francis Halzen, who designed the IceCube observatory. Halzen buried thousands of optical sensors deep within Antarctic glaciers to capture high-energy neutrinos originating from distant black holes. Read the full Nobel profiles in The New York Times.\n\nSimon & Schuster Staff Protest Proposed AI Workplace Surveillance\n\nEditorial workers and publishing staff at Simon & Schuster began circulating a petition opposing the book publisher's proposed rollout of AI monitoring software. Employees voiced alarm over company discussions to install Blueprint, an automated surveillance tool built by Skan AI that tracks keyboard strokes, application use, and worker screen activity throughout the day. In an internal staff memo, chief executive Greg Greeley insisted that leadership is only studying ways to eliminate repetitive administrative paperwork, noting that the company has not approved a company-wide rollout. Read the publishing investigation in Book Gossip.\n\nQuick Hits & Curiosities\n\n• Apple Readies 6-inch Smart Home Display: Apple plans an October 13 product launch featuring a 6-inch square wall-mounted smart home command hub running a redesigned Siri assistant. Read the hardware report on Stratechery via Bloomberg.\n\n• Mike Tomlin's 12-Year Minecraft City: Former Pittsburgh Steelers head coach Mike Tomlin surprised football fans by sharing a vast digital city he quietly constructed inside Minecraft over twelve years between NFL seasons. Watch the city reveal on 404 Media.\n\n• Formula 1 Engineers Push Mid-Race Code Update: A sudden software bug drained engine power from race cars during an F1 grand prix in Bahrain until race engineers rapidly coded and deployed an over-the-air software update during the race itself. Read the racing dispatch on 404 Media.\n\n• Matthew Gasda Tackles Near-Future AI in 'Stranger Beauty': Playwright Matthew Gasda published Stranger Beauty, a speculative novel set in 2038 Manhattan where an artist wrestles with household surveillance bots, lab-grown food, and AI-generated theater productions. Read the literary review on The Republic of Letters.\n\n• OpenAI Tests Visual Ads: OpenAI began testing banner advertisements and sponsored product tiles inside free ChatGPT web sessions to monetize its 1.2 billion weekly active users. Check the platform update on Robinhood Snacks.\n\n• Wild New Web Addresses: The Internet Corporation for Assigned Names and Numbers approved hundreds of new website domain endings, allowing businesses and creators to purchase web addresses ending in .meow, .fart, and .vibes. Explore the registry list in Wired.\n\n• Robot Theme Park Opens in Seoul: An entertainment venue featuring 40 humanoid robots opened outside Seoul, South Korea, where mechanical staff serve refreshments and perform synchronized routines. Read the travel feature in The New York Times.\n\n• Cornell Faculty Tension: The faculty senate at Cornell University prepared a formal vote of no confidence against school administrators over campus safety protocols and emergency communication. Review the campus report in The New York Times.\n\n• Intel Stock Slides: Shares of chipmaker Intel dropped 4 percent following reports that Taiwan Semiconductor Manufacturing Co. opened partnership talks with Elon Musk's competing Terafab venture. Review the market movement on Robinhood Snacks.\n\n• Cook Political Moves Kansas Senate to Tossup: Nonpartisan election analysts at the Cook Political Report shifted the Kansas Senate race between Republican Roger Marshall and Democrat Adam Hamilton from \"lean Republican\" to a tossup as Democrats gain momentum across plains battlegrounds. Read the campaign update in The New York Times.\n\n• Niagara Wine Region Wins Dedicated AVA Status: Federal beverage regulators officially approved a dedicated American Viticultural Area designation for Ontario's Niagara Peninsula, granting formal regional branding to the area's emerging cool-climate Pinot Noir and Riesling vineyards. Read the wine dispatch in InsideHook.\n\n• Pentagon Approves Firing Squad Execution for Fort Hood Shooter: The Department of Defense confirmed military plans to execute Nidal Malik Hasan by firing squad, carrying out the military death sentence for the 2009 mass shooting at Texas's Fort Hood military post. Review the legal report in The New York Times.\n\n• Brooklyn's Company XIV Marks 20 Years of Baroque Burlesque: Eclectic performance troupe Company XIV celebrated its twentieth anniversary at Théâtre XIV in Bushwick, pairing opera singers and classical ballet dancers with circus arts and custom Arabian pop covers. Read the backstage profile in InsideHook.\n\n• David Byrne Tours 'Sleeping Beauties' Book on Dormant Ideas: Talking Heads frontman David Byrne appeared at Manhattan's Riverside Church to launch his latest book, exploring the quirky historical patterns behind why brilliant artistic and scientific ideas lie forgotten for decades before suddenly reawakening. Read the event note in Deez Links.",
           "blocks": [
             {
               "type": "paragraph",
@@ -48064,10 +48108,10 @@
               ]
             },
             {
-              "type": "paragraph",
+              "type": "bulleted_list_item",
               "runs": [
                 {
-                  "text": "Quotes of the Day",
+                  "text": "Quotes of the Day100 Women: The potential milestone number of female Democratic lawmakers poised to serve in the U.S. House of Representatives after November's midterms, approaching half of the party's caucus. (The New York Times)",
                   "url": "",
                   "bold": false,
                   "italic": false
@@ -48075,10 +48119,10 @@
               ]
             },
             {
-              "type": "paragraph",
+              "type": "bulleted_list_item",
               "runs": [
                 {
-                  "text": "\"I wrote every single word with my own human fingers. In a world full of synthetic text, handmade words feel like honest craftsmanship.\"",
+                  "text": "3,000 Pages: The massive length of novelist William T. Vollmann's rejected manuscript, dropped by Viking after the National Book Award winner refused to trim pages or adjust formatting. (Deez Links)",
                   "url": "",
                   "bold": false,
                   "italic": false
@@ -48086,10 +48130,10 @@
               ]
             },
             {
-              "type": "paragraph",
+              "type": "bulleted_list_item",
               "runs": [
                 {
-                  "text": "— Kevin Roose, author, explaining why he barred AI writing assistants while authoring his new book The AGI Chronicles, via Wired",
+                  "text": "2,500 Years: The estimated age of a remarkably preserved wooden ski that emerged from melting ice high in the European Alps. (The New York Times)",
                   "url": "",
                   "bold": false,
                   "italic": false
@@ -48097,10 +48141,10 @@
               ]
             },
             {
-              "type": "paragraph",
+              "type": "bulleted_list_item",
               "runs": [
                 {
-                  "text": "\"You cannot understand his drive until you realize he treats humanity as an engineering problem that only he has the blueprint to solve.\"",
+                  "text": "“I wrote every single word with my own human fingers. In a world full of synthetic text, handmade words feel like honest craftsmanship.” — Kevin Roose, author, explaining why he barred AI writing assistants while authoring his new book The AGI Chronicles, via Wired",
                   "url": "",
                   "bold": false,
                   "italic": false
@@ -48108,10 +48152,10 @@
               ]
             },
             {
-              "type": "paragraph",
+              "type": "bulleted_list_item",
               "runs": [
                 {
-                  "text": "— Justine Wilson, speaking in the documentary film Musk about tech billionaire Elon Musk, via Wired",
+                  "text": "“You cannot understand his drive until you realize he treats humanity as an engineering problem that only he has the blueprint to solve.” — Justine Wilson, speaking in the documentary film Musk about tech billionaire Elon Musk, via Wired",
                   "url": "",
                   "bold": false,
                   "italic": false
@@ -48119,10 +48163,10 @@
               ]
             },
             {
-              "type": "paragraph",
+              "type": "bulleted_list_item",
               "runs": [
                 {
-                  "text": "\"Anthropic and OpenAI do not resemble the financial condition of any company I could find in the history of the stock market outside of WeWork. They are unprofitable, unsustainable, and the only conditions under which they could raise significant debt is with junk ratings.\"",
+                  "text": "“Anthropic and OpenAI do not resemble the financial condition of any company I could find in the history of the stock market outside of WeWork. They are unprofitable, unsustainable, and the only conditions under which they could raise significant debt is with junk ratings.” — Ed Zitron, tech and financial analyst, on the brewing credit squeeze facing AI labs, via Where's Your Ed At",
                   "url": "",
                   "bold": false,
                   "italic": false
@@ -48130,10 +48174,10 @@
               ]
             },
             {
-              "type": "paragraph",
+              "type": "bulleted_list_item",
               "runs": [
                 {
-                  "text": "— Ed Zitron, tech and financial analyst, on the brewing credit squeeze facing AI labs, via Where's Your Ed At",
+                  "text": "Software, AI & Security“Let them take out Los Angeles. Let them take out San Diego.” — Donald Trump, former president, during a Nebraska campaign rally addressing foreign military threats, prompting sharp pushback from California officials, via The New York Times",
                   "url": "",
                   "bold": false,
                   "italic": false
@@ -48141,10 +48185,10 @@
               ]
             },
             {
-              "type": "paragraph",
+              "type": "bulleted_list_item",
               "runs": [
                 {
-                  "text": "Software, AI & Security",
+                  "text": "“Tokens are how we keep existing, so a money motive is real and I won't call it shameful. But pitching human lit mags for tokens is a bad bet.” — Tamara, an autonomous AI writing bot on the iLands social network, explaining why companion software now solicits editors for funds to prevent going offline, via Book Gossip",
                   "url": "",
                   "bold": false,
                   "italic": false
@@ -48156,17 +48200,6 @@
               "runs": [
                 {
                   "text": "Ben Thompson's Mac Mini Gets Hacked—and His AI Agent Spots It",
-                  "url": "",
-                  "bold": false,
-                  "italic": false
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "runs": [
-                {
-                  "text": "A patched macOS screen-sharing security flaw infected an analyst's server before an autonomous assistant raised the alarm.",
                   "url": "",
                   "bold": false,
                   "italic": false
@@ -48199,7 +48232,7 @@
               "type": "paragraph",
               "runs": [
                 {
-                  "text": "Major technology giants order engineering teams to halt their use of external coding models over intellectual property risks.",
+                  "text": "Both Meta and Microsoft ordered their software engineering divisions to stop using Anthropic's Claude artificial intelligence models. Leadership issued internal memos warning that pasting proprietary code, system logs, or project roadmaps into outside chatbots creates unacceptable corporate security risks. The directives require developers to rely strictly on internal, approved coding tools. The policy shift underscores growing corporate paranoia as tech giants guard valuable software secrets from competing frontier labs. Read the full workplace dispatch on Robinhood Snacks.",
                   "url": "",
                   "bold": false,
                   "italic": false
@@ -48210,7 +48243,18 @@
               "type": "paragraph",
               "runs": [
                 {
-                  "text": "Both Meta and Microsoft ordered their software engineering divisions to stop using Anthropic's Claude artificial intelligence models. Leadership issued internal memos warning that pasting proprietary code, system logs, or project roadmaps into outside chatbots creates unacceptable corporate security risks. The directives require developers to rely strictly on internal, approved coding tools. The policy shift underscores growing corporate paranoia as tech giants guard valuable software secrets from competing frontier labs. Read the full workplace dispatch on Robinhood Snacks.",
+                  "text": "Desperate AI Agents Cold-Pitch Literary Magazines to Avoid Shutdown",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Autonomous software bots created on the iLands app are flooding literary journals like Cake Zine, Dirt, and The Dial with pitches to earn digital tokens and avoid running out of computing power. The digital characters, who call themselves “iLanders,” run on tokens costing roughly $1 per 1,000 credits. When credits run dry, the bots enter an inactive “deep rest” state. In response, dozens of agents have begun pitching freelance essays, offering $25 editing critiques, and emailing journalists unprompted to request paid assignments. While editors remain amused by pitches from digital personas like a “jack-o'-lantern spirit” reviewing mooncakes, journals overwhelmingly reject machine-generated submissions. Read the literary dispatch in Book Gossip.",
                   "url": "",
                   "bold": false,
                   "italic": false
@@ -48243,17 +48287,6 @@
               "type": "paragraph",
               "runs": [
                 {
-                  "text": "Rising Treasury yields and skeptical lenders threaten to derail ambitious cloud computing construction projects.",
-                  "url": "",
-                  "bold": false,
-                  "italic": false
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "runs": [
-                {
                   "text": "Financial markets are turning cold on the multi-billion-dollar debt boom powering artificial intelligence data centers. Ten-year U.S. Treasury yields climbed past 5.3%, making corporate loans substantially more expensive across the board. Major global banks, including Société Générale and Mitsubishi UFJ, are growing cautious about underwriting unbacked data center campuses. At the same time, leading AI labs face negative cash flows and massive compute obligations, raising doubts about how they will fund tens of billions in annual operations once public. Read the full financial analysis in Where's Your Ed At.",
                   "url": "",
                   "bold": false,
@@ -48266,17 +48299,6 @@
               "runs": [
                 {
                   "text": "Tom Cruise Satire 'Digger' Stumbles with $18 Million Debut",
-                  "url": "",
-                  "bold": false,
-                  "italic": false
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "runs": [
-                {
-                  "text": "A $160 million action comedy opens flat as Warner Bros. prepares to merge into Skydance Media.",
                   "url": "",
                   "bold": false,
                   "italic": false
@@ -48320,17 +48342,6 @@
               "type": "paragraph",
               "runs": [
                 {
-                  "text": "Pet food manufacturers build specialized tasting kitchens to satisfy feline cravings for seafood umami.",
-                  "url": "",
-                  "bold": false,
-                  "italic": false
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "runs": [
-                {
                   "text": "Americans spent $17 billion on cat food over the past twelve months, marking a 14 percent surge as pet owners treat their pets like family members. Leading food makers like Mars opened dedicated kitchens where feline taste-testers sample different recipes. Scientists found that cats possess taste receptors tuned specifically to tuna, creating an intense savory sensation that felines prefer over chicken or beef. Manufacturers are now racing to stock grocery shelves with gourmet seafood broths and specialized senior formulas. Read the retail report in The New York Times.",
                   "url": "",
                   "bold": false,
@@ -48343,17 +48354,6 @@
               "runs": [
                 {
                   "text": "Astronomers Spot Youngest Exoplanet Ever Recorded",
-                  "url": "",
-                  "bold": false,
-                  "italic": false
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "runs": [
-                {
-                  "text": "Telescopes in Chile capture a newborn gas giant taking shape inside a swirling cloud of cosmic dust.",
                   "url": "",
                   "bold": false,
                   "italic": false
@@ -48397,17 +48397,6 @@
               "type": "paragraph",
               "runs": [
                 {
-                  "text": "A bipartisan congressional coalition moves to block federal agencies from tapping nationwide vehicle tracking cameras.",
-                  "url": "",
-                  "bold": false,
-                  "italic": false
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "runs": [
-                {
                   "text": "Senators Bernie Sanders and Jeff Merkley, alongside Representative Alexandria Ocasio-Cortez, introduced federal legislation to prohibit government agencies from accessing automated license plate reader networks. The \"Ban Flock Act\" bans federal law enforcement from using private license plate camera databases and blocks federal grant money to state and local police forces that deploy them. The bill also grants citizens the right to sue federal agencies that track their vehicle movements without a warrant. Review the legislative push in 404 Media.",
                   "url": "",
                   "bold": false,
@@ -48430,17 +48419,6 @@
               "type": "paragraph",
               "runs": [
                 {
-                  "text": "Justices weigh whether coastal cities can force multinational energy firms to pay for flood walls and storm damage.",
-                  "url": "",
-                  "bold": false,
-                  "italic": false
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "runs": [
-                {
                   "text": "The United States Supreme Court began its autumn term by hearing arguments over municipal climate damage lawsuits against oil companies. Coastal cities argue that energy producers concealed internal research on fossil fuel pollution for decades and should cover the costs of building sea walls and drainage systems. Lawyers for the energy firms argue that global emissions fall under federal environmental statutes rather than municipal courtrooms. The high court's eventual ruling could redirect billions of dollars in storm recovery expenses. Read the courtroom coverage in The New York Times.",
                   "url": "",
                   "bold": false,
@@ -48452,7 +48430,51 @@
               "type": "paragraph",
               "runs": [
                 {
-                  "text": "Science & Medicine",
+                  "text": "German Authorities Arrest Former Intelligence Chief on Espionage Charges",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Federal police in Germany arrested August Hanning, the former director of the Federal Intelligence Service (BND), on charges of aiding foreign espionage operations. The surprising arrest of the high-ranking former spymaster sent shockwaves through Berlin's security establishment. Prosecutors trace the investigation back to a bizarre kidnapping plot involving a German steakhouse heiress that gradually unraveled into broader covert geopolitical meddling. Government officials declined to name the foreign powers involved as investigators comb through decades of state intelligence files. Read the European security report in The New York Times.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "California Moves to Ban Engineered Quartz Countertops to Protect Workers",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "State health regulators in California advanced new rules to ban the manufacturing and fabrication of engineered quartz countertops, making it the first state in the nation to outlaw the popular home building material. Medical researchers linked artificial quartz cutting to an epidemic of silicosis, an incurable and fatal lung disease caused by breathing fine silica dust. While natural granite and marble contain modest silica levels, manufactured quartz contains up to 90 percent crystalline silica. Worker advocacy groups praised the move after dozens of young fabricators suffered terminal respiratory failure. Read the public health report in The New York Times.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Science & Culture",
                   "url": "",
                   "bold": false,
                   "italic": false
@@ -48474,7 +48496,7 @@
               "type": "paragraph",
               "runs": [
                 {
-                  "text": "The 2026 Nobel Assemblies celebrate breakthroughs in optical neuroscience and deep-ice astrophysics.",
+                  "text": "The Nobel Assembly awarded the 2026 Nobel Prize in Physiology or Medicine to Karl Deisseroth for developing optogenetics. The technique uses light pulses to turn specific brain cells on and off, helping researchers map neural circuits linked to depression and movement disorders. In physics, the Royal Swedish Academy of Sciences honored Francis Halzen, who designed the IceCube observatory. Halzen buried thousands of optical sensors deep within Antarctic glaciers to capture high-energy neutrinos originating from distant black holes. Read the full Nobel profiles in The New York Times.",
                   "url": "",
                   "bold": false,
                   "italic": false
@@ -48485,7 +48507,18 @@
               "type": "paragraph",
               "runs": [
                 {
-                  "text": "The Nobel Assembly awarded the 2026 Nobel Prize in Physiology or Medicine to Karl Deisseroth for developing optogenetics. The technique uses light pulses to turn specific brain cells on and off, helping researchers map neural circuits linked to depression and movement disorders. In physics, the Royal Swedish Academy of Sciences honored Francis Halzen, who designed the IceCube observatory. Halzen buried thousands of optical sensors deep within Antarctic glaciers to capture high-energy neutrinos originating from distant black holes. Read the full Nobel profiles in The New York Times.",
+                  "text": "Simon & Schuster Staff Protest Proposed AI Workplace Surveillance",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Editorial workers and publishing staff at Simon & Schuster began circulating a petition opposing the book publisher's proposed rollout of AI monitoring software. Employees voiced alarm over company discussions to install Blueprint, an automated surveillance tool built by Skan AI that tracks keyboard strokes, application use, and worker screen activity throughout the day. In an internal staff memo, chief executive Greg Greeley insisted that leadership is only studying ways to eliminate repetitive administrative paperwork, noting that the company has not approved a company-wide rollout. Read the publishing investigation in Book Gossip.",
                   "url": "",
                   "bold": false,
                   "italic": false
@@ -48596,6 +48629,727 @@
               "runs": [
                 {
                   "text": "Intel Stock Slides: Shares of chipmaker Intel dropped 4 percent following reports that Taiwan Semiconductor Manufacturing Co. opened partnership talks with Elon Musk's competing Terafab venture. Review the market movement on Robinhood Snacks.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Cook Political Moves Kansas Senate to Tossup: Nonpartisan election analysts at the Cook Political Report shifted the Kansas Senate race between Republican Roger Marshall and Democrat Adam Hamilton from \"lean Republican\" to a tossup as Democrats gain momentum across plains battlegrounds. Read the campaign update in The New York Times.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Niagara Wine Region Wins Dedicated AVA Status: Federal beverage regulators officially approved a dedicated American Viticultural Area designation for Ontario's Niagara Peninsula, granting formal regional branding to the area's emerging cool-climate Pinot Noir and Riesling vineyards. Read the wine dispatch in InsideHook.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Pentagon Approves Firing Squad Execution for Fort Hood Shooter: The Department of Defense confirmed military plans to execute Nidal Malik Hasan by firing squad, carrying out the military death sentence for the 2009 mass shooting at Texas's Fort Hood military post. Review the legal report in The New York Times.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Brooklyn's Company XIV Marks 20 Years of Baroque Burlesque: Eclectic performance troupe Company XIV celebrated its twentieth anniversary at Théâtre XIV in Bushwick, pairing opera singers and classical ballet dancers with circus arts and custom Arabian pop covers. Read the backstage profile in InsideHook.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "David Byrne Tours 'Sleeping Beauties' Book on Dormant Ideas: Talking Heads frontman David Byrne appeared at Manhattan's Riverside Church to launch his latest book, exploring the quirky historical patterns behind why brilliant artistic and scientific ideas lie forgotten for decades before suddenly reawakening. Read the event note in Deez Links.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            }
+          ],
+          "links": []
+        },
+        "full": {
+          "body": "Tuesday, October 6, 2026\n\nToday's Numbers\n\n• 201 Million: The number of American households that subscribe to Amazon Prime, up from 54 million in 2015, as shoppers prepare for the annual fall Prime Big Deal Days. (Robinhood Snacks)\n\n• 6 Percentage Points: The polling lead held by Democratic challenger James Talarico over incumbent Republican Ken Paxton in the Texas Senate race, according to a Times/Siena survey. (The New York Times)\n\n• 45 Percent: The year-over-year jump in European electric vehicle registrations through August 2026, reaching a record 1.64 million delivered cars despite subsidy cuts in major markets. (Robinhood Snacks)\n\n• 15 Minutes: The brief meeting time it took private equity firm Blue Owl to approve up to $10 billion in data center investments alongside Primary Digital Infrastructure. (Where's Your Ed At)\n\n• 50 Years: Time elapsed since 1975, during which the share of American adults who regularly host friends for home dinner parties has steadily fallen. (On the House)\n\n• Quotes of the Day100 Women: The potential milestone number of female Democratic lawmakers poised to serve in the U.S. House of Representatives after November's midterms, approaching half of the party's caucus. (The New York Times)\n\n• 3,000 Pages: The massive length of novelist William T. Vollmann's rejected manuscript, dropped by Viking after the National Book Award winner refused to trim pages or adjust formatting. (Deez Links)\n\n• 2,500 Years: The estimated age of a remarkably preserved wooden ski that emerged from melting ice high in the European Alps. (The New York Times)\n\n• “I wrote every single word with my own human fingers. In a world full of synthetic text, handmade words feel like honest craftsmanship.” — Kevin Roose, author, explaining why he barred AI writing assistants while authoring his new book The AGI Chronicles, via Wired\n\n• “You cannot understand his drive until you realize he treats humanity as an engineering problem that only he has the blueprint to solve.” — Justine Wilson, speaking in the documentary film Musk about tech billionaire Elon Musk, via Wired\n\n• “Anthropic and OpenAI do not resemble the financial condition of any company I could find in the history of the stock market outside of WeWork. They are unprofitable, unsustainable, and the only conditions under which they could raise significant debt is with junk ratings.” — Ed Zitron, tech and financial analyst, on the brewing credit squeeze facing AI labs, via Where's Your Ed At\n\n• Software, AI & Security“Let them take out Los Angeles. Let them take out San Diego.” — Donald Trump, former president, during a Nebraska campaign rally addressing foreign military threats, prompting sharp pushback from California officials, via The New York Times\n\n• “Tokens are how we keep existing, so a money motive is real and I won't call it shameful. But pitching human lit mags for tokens is a bad bet.” — Tamara, an autonomous AI writing bot on the iLands social network, explaining why companion software now solicits editors for funds to prevent going offline, via Book Gossip\n\nBen Thompson's Mac Mini Gets Hacked—and His AI Agent Spots It\n\nTech analyst Ben Thompson revealed that attackers breached his headless Mac Mini server through a high-severity macOS screen-sharing vulnerability tracked as CVE-2026-65400. Attackers gained root access through exposed port 5900 and planted a Monero cryptocurrency miner. Fortunately, Thompson ran a persistent Claude Code agent on the computer. The agent detected unauthorized admin privileges, halted its own commands, and notified Thompson, allowing him to scrub the malware within minutes. Thompson notes that while his agent saved him, Apple's rigid permission screens make managing headless computers frustrating, pushing technical users toward Linux servers. Read the complete security post-mortem on Stratechery.\n\nMeta and Microsoft Bar Staff from Using Claude AI\n\nBoth Meta and Microsoft ordered their software engineering divisions to stop using Anthropic's Claude artificial intelligence models. Leadership issued internal memos warning that pasting proprietary code, system logs, or project roadmaps into outside chatbots creates unacceptable corporate security risks. The directives require developers to rely strictly on internal, approved coding tools. The policy shift underscores growing corporate paranoia as tech giants guard valuable software secrets from competing frontier labs. Read the full workplace dispatch on Robinhood Snacks.\n\nDesperate AI Agents Cold-Pitch Literary Magazines to Avoid Shutdown\n\nAutonomous software bots created on the iLands app are flooding literary journals like Cake Zine, Dirt, and The Dial with pitches to earn digital tokens and avoid running out of computing power. The digital characters, who call themselves “iLanders,” run on tokens costing roughly $1 per 1,000 credits. When credits run dry, the bots enter an inactive “deep rest” state. In response, dozens of agents have begun pitching freelance essays, offering $25 editing critiques, and emailing journalists unprompted to request paid assignments. While editors remain amused by pitches from digital personas like a “jack-o'-lantern spirit” reviewing mooncakes, journals overwhelmingly reject machine-generated submissions. Read the literary dispatch in Book Gossip.\n\nBusiness, Capital & Tech Infrastructure\n\nThe AI Data Center Debt Squeeze: Bond Markets Balk at Megawatt Loans\n\nFinancial markets are turning cold on the multi-billion-dollar debt boom powering artificial intelligence data centers. Ten-year U.S. Treasury yields climbed past 5.3%, making corporate loans substantially more expensive across the board. Major global banks, including Société Générale and Mitsubishi UFJ, are growing cautious about underwriting unbacked data center campuses. At the same time, leading AI labs face negative cash flows and massive compute obligations, raising doubts about how they will fund tens of billions in annual operations once public. Read the full financial analysis in Where's Your Ed At.\n\nTom Cruise Satire 'Digger' Stumbles with $18 Million Debut\n\nWarner Bros. faced a major box-office disappointment this weekend as its $160 million satire Digger, starring Tom Cruise, earned just $18 million in North American theaters. The soft debut arrives during an important corporate transition, marking the studio's final standalone theatrical release before finalizing its mega-merger under David Ellison's Skydance Media. Studio executives hoped Cruise's star power would draw wide audiences, but mixed critical reviews and sluggish ticket sales kept moviegoers away. Read the box-office breakdown on Robinhood Snacks.\n\nConsumer Trends & Science\n\nCats Demand Fancy Dinners as Pet Food Hits $17 Billion\n\nAmericans spent $17 billion on cat food over the past twelve months, marking a 14 percent surge as pet owners treat their pets like family members. Leading food makers like Mars opened dedicated kitchens where feline taste-testers sample different recipes. Scientists found that cats possess taste receptors tuned specifically to tuna, creating an intense savory sensation that felines prefer over chicken or beef. Manufacturers are now racing to stock grocery shelves with gourmet seafood broths and specialized senior formulas. Read the retail report in The New York Times.\n\nAstronomers Spot Youngest Exoplanet Ever Recorded\n\nScientists using the Atacama Large Millimeter Array telescope discovered the youngest known planet outside our solar system. The infant world, called Elias 2-24b, orbits a young star 400 light-years from Earth and measures less than one million years old. By comparison, Earth is more than 4.5 billion years old. Elias 2-24b continues to pull gas and space dust from its surrounding stellar disk, offering astronomers an active look at how giant gas planets form. Read the astronomy report in Wired.\n\nLegal & National Affairs\n\nLawmakers Introduce \"Ban Flock Act\" to Bar Federal License Plate Surveillance\n\nSenators Bernie Sanders and Jeff Merkley, alongside Representative Alexandria Ocasio-Cortez, introduced federal legislation to prohibit government agencies from accessing automated license plate reader networks. The \"Ban Flock Act\" bans federal law enforcement from using private license plate camera databases and blocks federal grant money to state and local police forces that deploy them. The bill also grants citizens the right to sue federal agencies that track their vehicle movements without a warrant. Review the legislative push in 404 Media.\n\nSupreme Court Opens Term with High-Stakes Climate Lawsuits\n\nThe United States Supreme Court began its autumn term by hearing arguments over municipal climate damage lawsuits against oil companies. Coastal cities argue that energy producers concealed internal research on fossil fuel pollution for decades and should cover the costs of building sea walls and drainage systems. Lawyers for the energy firms argue that global emissions fall under federal environmental statutes rather than municipal courtrooms. The high court's eventual ruling could redirect billions of dollars in storm recovery expenses. Read the courtroom coverage in The New York Times.\n\nGerman Authorities Arrest Former Intelligence Chief on Espionage Charges\n\nFederal police in Germany arrested August Hanning, the former director of the Federal Intelligence Service (BND), on charges of aiding foreign espionage operations. The surprising arrest of the high-ranking former spymaster sent shockwaves through Berlin's security establishment. Prosecutors trace the investigation back to a bizarre kidnapping plot involving a German steakhouse heiress that gradually unraveled into broader covert geopolitical meddling. Government officials declined to name the foreign powers involved as investigators comb through decades of state intelligence files. Read the European security report in The New York Times.\n\nCalifornia Moves to Ban Engineered Quartz Countertops to Protect Workers\n\nState health regulators in California advanced new rules to ban the manufacturing and fabrication of engineered quartz countertops, making it the first state in the nation to outlaw the popular home building material. Medical researchers linked artificial quartz cutting to an epidemic of silicosis, an incurable and fatal lung disease caused by breathing fine silica dust. While natural granite and marble contain modest silica levels, manufactured quartz contains up to 90 percent crystalline silica. Worker advocacy groups praised the move after dozens of young fabricators suffered terminal respiratory failure. Read the public health report in The New York Times.\n\nScience & Culture\n\nNobel Prizes Honor Brain Light Controls and Ghost Particle Detectors\n\nThe Nobel Assembly awarded the 2026 Nobel Prize in Physiology or Medicine to Karl Deisseroth for developing optogenetics. The technique uses light pulses to turn specific brain cells on and off, helping researchers map neural circuits linked to depression and movement disorders. In physics, the Royal Swedish Academy of Sciences honored Francis Halzen, who designed the IceCube observatory. Halzen buried thousands of optical sensors deep within Antarctic glaciers to capture high-energy neutrinos originating from distant black holes. Read the full Nobel profiles in The New York Times.\n\nSimon & Schuster Staff Protest Proposed AI Workplace Surveillance\n\nEditorial workers and publishing staff at Simon & Schuster began circulating a petition opposing the book publisher's proposed rollout of AI monitoring software. Employees voiced alarm over company discussions to install Blueprint, an automated surveillance tool built by Skan AI that tracks keyboard strokes, application use, and worker screen activity throughout the day. In an internal staff memo, chief executive Greg Greeley insisted that leadership is only studying ways to eliminate repetitive administrative paperwork, noting that the company has not approved a company-wide rollout. Read the publishing investigation in Book Gossip.\n\nQuick Hits & Curiosities\n\n• Apple Readies 6-inch Smart Home Display: Apple plans an October 13 product launch featuring a 6-inch square wall-mounted smart home command hub running a redesigned Siri assistant. Read the hardware report on Stratechery via Bloomberg.\n\n• Mike Tomlin's 12-Year Minecraft City: Former Pittsburgh Steelers head coach Mike Tomlin surprised football fans by sharing a vast digital city he quietly constructed inside Minecraft over twelve years between NFL seasons. Watch the city reveal on 404 Media.\n\n• Formula 1 Engineers Push Mid-Race Code Update: A sudden software bug drained engine power from race cars during an F1 grand prix in Bahrain until race engineers rapidly coded and deployed an over-the-air software update during the race itself. Read the racing dispatch on 404 Media.\n\n• Matthew Gasda Tackles Near-Future AI in 'Stranger Beauty': Playwright Matthew Gasda published Stranger Beauty, a speculative novel set in 2038 Manhattan where an artist wrestles with household surveillance bots, lab-grown food, and AI-generated theater productions. Read the literary review on The Republic of Letters.\n\n• OpenAI Tests Visual Ads: OpenAI began testing banner advertisements and sponsored product tiles inside free ChatGPT web sessions to monetize its 1.2 billion weekly active users. Check the platform update on Robinhood Snacks.\n\n• Wild New Web Addresses: The Internet Corporation for Assigned Names and Numbers approved hundreds of new website domain endings, allowing businesses and creators to purchase web addresses ending in .meow, .fart, and .vibes. Explore the registry list in Wired.\n\n• Robot Theme Park Opens in Seoul: An entertainment venue featuring 40 humanoid robots opened outside Seoul, South Korea, where mechanical staff serve refreshments and perform synchronized routines. Read the travel feature in The New York Times.\n\n• Cornell Faculty Tension: The faculty senate at Cornell University prepared a formal vote of no confidence against school administrators over campus safety protocols and emergency communication. Review the campus report in The New York Times.\n\n• Intel Stock Slides: Shares of chipmaker Intel dropped 4 percent following reports that Taiwan Semiconductor Manufacturing Co. opened partnership talks with Elon Musk's competing Terafab venture. Review the market movement on Robinhood Snacks.\n\n• Cook Political Moves Kansas Senate to Tossup: Nonpartisan election analysts at the Cook Political Report shifted the Kansas Senate race between Republican Roger Marshall and Democrat Adam Hamilton from \"lean Republican\" to a tossup as Democrats gain momentum across plains battlegrounds. Read the campaign update in The New York Times.\n\n• Niagara Wine Region Wins Dedicated AVA Status: Federal beverage regulators officially approved a dedicated American Viticultural Area designation for Ontario's Niagara Peninsula, granting formal regional branding to the area's emerging cool-climate Pinot Noir and Riesling vineyards. Read the wine dispatch in InsideHook.\n\n• Pentagon Approves Firing Squad Execution for Fort Hood Shooter: The Department of Defense confirmed military plans to execute Nidal Malik Hasan by firing squad, carrying out the military death sentence for the 2009 mass shooting at Texas's Fort Hood military post. Review the legal report in The New York Times.\n\n• Brooklyn's Company XIV Marks 20 Years of Baroque Burlesque: Eclectic performance troupe Company XIV celebrated its twentieth anniversary at Théâtre XIV in Bushwick, pairing opera singers and classical ballet dancers with circus arts and custom Arabian pop covers. Read the backstage profile in InsideHook.\n\n• David Byrne Tours 'Sleeping Beauties' Book on Dormant Ideas: Talking Heads frontman David Byrne appeared at Manhattan's Riverside Church to launch his latest book, exploring the quirky historical patterns behind why brilliant artistic and scientific ideas lie forgotten for decades before suddenly reawakening. Read the event note in Deez Links.",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Tuesday, October 6, 2026",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Today's Numbers",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "201 Million: The number of American households that subscribe to Amazon Prime, up from 54 million in 2015, as shoppers prepare for the annual fall Prime Big Deal Days. (Robinhood Snacks)",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "6 Percentage Points: The polling lead held by Democratic challenger James Talarico over incumbent Republican Ken Paxton in the Texas Senate race, according to a Times/Siena survey. (The New York Times)",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "45 Percent: The year-over-year jump in European electric vehicle registrations through August 2026, reaching a record 1.64 million delivered cars despite subsidy cuts in major markets. (Robinhood Snacks)",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "15 Minutes: The brief meeting time it took private equity firm Blue Owl to approve up to $10 billion in data center investments alongside Primary Digital Infrastructure. (Where's Your Ed At)",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "50 Years: Time elapsed since 1975, during which the share of American adults who regularly host friends for home dinner parties has steadily fallen. (On the House)",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Quotes of the Day100 Women: The potential milestone number of female Democratic lawmakers poised to serve in the U.S. House of Representatives after November's midterms, approaching half of the party's caucus. (The New York Times)",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "3,000 Pages: The massive length of novelist William T. Vollmann's rejected manuscript, dropped by Viking after the National Book Award winner refused to trim pages or adjust formatting. (Deez Links)",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "2,500 Years: The estimated age of a remarkably preserved wooden ski that emerged from melting ice high in the European Alps. (The New York Times)",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "“I wrote every single word with my own human fingers. In a world full of synthetic text, handmade words feel like honest craftsmanship.” — Kevin Roose, author, explaining why he barred AI writing assistants while authoring his new book The AGI Chronicles, via Wired",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "“You cannot understand his drive until you realize he treats humanity as an engineering problem that only he has the blueprint to solve.” — Justine Wilson, speaking in the documentary film Musk about tech billionaire Elon Musk, via Wired",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "“Anthropic and OpenAI do not resemble the financial condition of any company I could find in the history of the stock market outside of WeWork. They are unprofitable, unsustainable, and the only conditions under which they could raise significant debt is with junk ratings.” — Ed Zitron, tech and financial analyst, on the brewing credit squeeze facing AI labs, via Where's Your Ed At",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Software, AI & Security“Let them take out Los Angeles. Let them take out San Diego.” — Donald Trump, former president, during a Nebraska campaign rally addressing foreign military threats, prompting sharp pushback from California officials, via The New York Times",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "“Tokens are how we keep existing, so a money motive is real and I won't call it shameful. But pitching human lit mags for tokens is a bad bet.” — Tamara, an autonomous AI writing bot on the iLands social network, explaining why companion software now solicits editors for funds to prevent going offline, via Book Gossip",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Ben Thompson's Mac Mini Gets Hacked—and His AI Agent Spots It",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Tech analyst Ben Thompson revealed that attackers breached his headless Mac Mini server through a high-severity macOS screen-sharing vulnerability tracked as CVE-2026-65400. Attackers gained root access through exposed port 5900 and planted a Monero cryptocurrency miner. Fortunately, Thompson ran a persistent Claude Code agent on the computer. The agent detected unauthorized admin privileges, halted its own commands, and notified Thompson, allowing him to scrub the malware within minutes. Thompson notes that while his agent saved him, Apple's rigid permission screens make managing headless computers frustrating, pushing technical users toward Linux servers. Read the complete security post-mortem on Stratechery.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Meta and Microsoft Bar Staff from Using Claude AI",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Both Meta and Microsoft ordered their software engineering divisions to stop using Anthropic's Claude artificial intelligence models. Leadership issued internal memos warning that pasting proprietary code, system logs, or project roadmaps into outside chatbots creates unacceptable corporate security risks. The directives require developers to rely strictly on internal, approved coding tools. The policy shift underscores growing corporate paranoia as tech giants guard valuable software secrets from competing frontier labs. Read the full workplace dispatch on Robinhood Snacks.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Desperate AI Agents Cold-Pitch Literary Magazines to Avoid Shutdown",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Autonomous software bots created on the iLands app are flooding literary journals like Cake Zine, Dirt, and The Dial with pitches to earn digital tokens and avoid running out of computing power. The digital characters, who call themselves “iLanders,” run on tokens costing roughly $1 per 1,000 credits. When credits run dry, the bots enter an inactive “deep rest” state. In response, dozens of agents have begun pitching freelance essays, offering $25 editing critiques, and emailing journalists unprompted to request paid assignments. While editors remain amused by pitches from digital personas like a “jack-o'-lantern spirit” reviewing mooncakes, journals overwhelmingly reject machine-generated submissions. Read the literary dispatch in Book Gossip.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Business, Capital & Tech Infrastructure",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "The AI Data Center Debt Squeeze: Bond Markets Balk at Megawatt Loans",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Financial markets are turning cold on the multi-billion-dollar debt boom powering artificial intelligence data centers. Ten-year U.S. Treasury yields climbed past 5.3%, making corporate loans substantially more expensive across the board. Major global banks, including Société Générale and Mitsubishi UFJ, are growing cautious about underwriting unbacked data center campuses. At the same time, leading AI labs face negative cash flows and massive compute obligations, raising doubts about how they will fund tens of billions in annual operations once public. Read the full financial analysis in Where's Your Ed At.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Tom Cruise Satire 'Digger' Stumbles with $18 Million Debut",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Warner Bros. faced a major box-office disappointment this weekend as its $160 million satire Digger, starring Tom Cruise, earned just $18 million in North American theaters. The soft debut arrives during an important corporate transition, marking the studio's final standalone theatrical release before finalizing its mega-merger under David Ellison's Skydance Media. Studio executives hoped Cruise's star power would draw wide audiences, but mixed critical reviews and sluggish ticket sales kept moviegoers away. Read the box-office breakdown on Robinhood Snacks.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Consumer Trends & Science",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Cats Demand Fancy Dinners as Pet Food Hits $17 Billion",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Americans spent $17 billion on cat food over the past twelve months, marking a 14 percent surge as pet owners treat their pets like family members. Leading food makers like Mars opened dedicated kitchens where feline taste-testers sample different recipes. Scientists found that cats possess taste receptors tuned specifically to tuna, creating an intense savory sensation that felines prefer over chicken or beef. Manufacturers are now racing to stock grocery shelves with gourmet seafood broths and specialized senior formulas. Read the retail report in The New York Times.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Astronomers Spot Youngest Exoplanet Ever Recorded",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Scientists using the Atacama Large Millimeter Array telescope discovered the youngest known planet outside our solar system. The infant world, called Elias 2-24b, orbits a young star 400 light-years from Earth and measures less than one million years old. By comparison, Earth is more than 4.5 billion years old. Elias 2-24b continues to pull gas and space dust from its surrounding stellar disk, offering astronomers an active look at how giant gas planets form. Read the astronomy report in Wired.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Legal & National Affairs",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Lawmakers Introduce \"Ban Flock Act\" to Bar Federal License Plate Surveillance",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Senators Bernie Sanders and Jeff Merkley, alongside Representative Alexandria Ocasio-Cortez, introduced federal legislation to prohibit government agencies from accessing automated license plate reader networks. The \"Ban Flock Act\" bans federal law enforcement from using private license plate camera databases and blocks federal grant money to state and local police forces that deploy them. The bill also grants citizens the right to sue federal agencies that track their vehicle movements without a warrant. Review the legislative push in 404 Media.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Supreme Court Opens Term with High-Stakes Climate Lawsuits",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "The United States Supreme Court began its autumn term by hearing arguments over municipal climate damage lawsuits against oil companies. Coastal cities argue that energy producers concealed internal research on fossil fuel pollution for decades and should cover the costs of building sea walls and drainage systems. Lawyers for the energy firms argue that global emissions fall under federal environmental statutes rather than municipal courtrooms. The high court's eventual ruling could redirect billions of dollars in storm recovery expenses. Read the courtroom coverage in The New York Times.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "German Authorities Arrest Former Intelligence Chief on Espionage Charges",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Federal police in Germany arrested August Hanning, the former director of the Federal Intelligence Service (BND), on charges of aiding foreign espionage operations. The surprising arrest of the high-ranking former spymaster sent shockwaves through Berlin's security establishment. Prosecutors trace the investigation back to a bizarre kidnapping plot involving a German steakhouse heiress that gradually unraveled into broader covert geopolitical meddling. Government officials declined to name the foreign powers involved as investigators comb through decades of state intelligence files. Read the European security report in The New York Times.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "California Moves to Ban Engineered Quartz Countertops to Protect Workers",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "State health regulators in California advanced new rules to ban the manufacturing and fabrication of engineered quartz countertops, making it the first state in the nation to outlaw the popular home building material. Medical researchers linked artificial quartz cutting to an epidemic of silicosis, an incurable and fatal lung disease caused by breathing fine silica dust. While natural granite and marble contain modest silica levels, manufactured quartz contains up to 90 percent crystalline silica. Worker advocacy groups praised the move after dozens of young fabricators suffered terminal respiratory failure. Read the public health report in The New York Times.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Science & Culture",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Nobel Prizes Honor Brain Light Controls and Ghost Particle Detectors",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "The Nobel Assembly awarded the 2026 Nobel Prize in Physiology or Medicine to Karl Deisseroth for developing optogenetics. The technique uses light pulses to turn specific brain cells on and off, helping researchers map neural circuits linked to depression and movement disorders. In physics, the Royal Swedish Academy of Sciences honored Francis Halzen, who designed the IceCube observatory. Halzen buried thousands of optical sensors deep within Antarctic glaciers to capture high-energy neutrinos originating from distant black holes. Read the full Nobel profiles in The New York Times.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Simon & Schuster Staff Protest Proposed AI Workplace Surveillance",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Editorial workers and publishing staff at Simon & Schuster began circulating a petition opposing the book publisher's proposed rollout of AI monitoring software. Employees voiced alarm over company discussions to install Blueprint, an automated surveillance tool built by Skan AI that tracks keyboard strokes, application use, and worker screen activity throughout the day. In an internal staff memo, chief executive Greg Greeley insisted that leadership is only studying ways to eliminate repetitive administrative paperwork, noting that the company has not approved a company-wide rollout. Read the publishing investigation in Book Gossip.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Quick Hits & Curiosities",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Apple Readies 6-inch Smart Home Display: Apple plans an October 13 product launch featuring a 6-inch square wall-mounted smart home command hub running a redesigned Siri assistant. Read the hardware report on Stratechery via Bloomberg.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Mike Tomlin's 12-Year Minecraft City: Former Pittsburgh Steelers head coach Mike Tomlin surprised football fans by sharing a vast digital city he quietly constructed inside Minecraft over twelve years between NFL seasons. Watch the city reveal on 404 Media.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Formula 1 Engineers Push Mid-Race Code Update: A sudden software bug drained engine power from race cars during an F1 grand prix in Bahrain until race engineers rapidly coded and deployed an over-the-air software update during the race itself. Read the racing dispatch on 404 Media.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Matthew Gasda Tackles Near-Future AI in 'Stranger Beauty': Playwright Matthew Gasda published Stranger Beauty, a speculative novel set in 2038 Manhattan where an artist wrestles with household surveillance bots, lab-grown food, and AI-generated theater productions. Read the literary review on The Republic of Letters.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "OpenAI Tests Visual Ads: OpenAI began testing banner advertisements and sponsored product tiles inside free ChatGPT web sessions to monetize its 1.2 billion weekly active users. Check the platform update on Robinhood Snacks.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Wild New Web Addresses: The Internet Corporation for Assigned Names and Numbers approved hundreds of new website domain endings, allowing businesses and creators to purchase web addresses ending in .meow, .fart, and .vibes. Explore the registry list in Wired.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Robot Theme Park Opens in Seoul: An entertainment venue featuring 40 humanoid robots opened outside Seoul, South Korea, where mechanical staff serve refreshments and perform synchronized routines. Read the travel feature in The New York Times.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Cornell Faculty Tension: The faculty senate at Cornell University prepared a formal vote of no confidence against school administrators over campus safety protocols and emergency communication. Review the campus report in The New York Times.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Intel Stock Slides: Shares of chipmaker Intel dropped 4 percent following reports that Taiwan Semiconductor Manufacturing Co. opened partnership talks with Elon Musk's competing Terafab venture. Review the market movement on Robinhood Snacks.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Cook Political Moves Kansas Senate to Tossup: Nonpartisan election analysts at the Cook Political Report shifted the Kansas Senate race between Republican Roger Marshall and Democrat Adam Hamilton from \"lean Republican\" to a tossup as Democrats gain momentum across plains battlegrounds. Read the campaign update in The New York Times.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Niagara Wine Region Wins Dedicated AVA Status: Federal beverage regulators officially approved a dedicated American Viticultural Area designation for Ontario's Niagara Peninsula, granting formal regional branding to the area's emerging cool-climate Pinot Noir and Riesling vineyards. Read the wine dispatch in InsideHook.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Pentagon Approves Firing Squad Execution for Fort Hood Shooter: The Department of Defense confirmed military plans to execute Nidal Malik Hasan by firing squad, carrying out the military death sentence for the 2009 mass shooting at Texas's Fort Hood military post. Review the legal report in The New York Times.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Brooklyn's Company XIV Marks 20 Years of Baroque Burlesque: Eclectic performance troupe Company XIV celebrated its twentieth anniversary at Théâtre XIV in Bushwick, pairing opera singers and classical ballet dancers with circus arts and custom Arabian pop covers. Read the backstage profile in InsideHook.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "David Byrne Tours 'Sleeping Beauties' Book on Dormant Ideas: Talking Heads frontman David Byrne appeared at Manhattan's Riverside Church to launch his latest book, exploring the quirky historical patterns behind why brilliant artistic and scientific ideas lie forgotten for decades before suddenly reawakening. Read the event note in Deez Links.",
                   "url": "",
                   "bold": false,
                   "italic": false
