@@ -55197,6 +55197,1290 @@
           ]
         },
         "midday": {
+          "body": "Wednesday, October 7, 2026\n\nToday's Numbers\n\n• 20,000 Copies: Sales tally for August Lamm's expanded analog zine You Don't Need a Smartphone as the former influencer leads sold-out \"downgrading\" events across New York. (After School)\n\n• 1,500 Students: The cohort of high schoolers surveyed in a new cognitive study finding that heavy short-form video consumption erodes teenagers' ability to connect present effort with future rewards. (After School via The Wall Street Journal)\n\n• 105 Million: Monthly active visitors on Amazon's Twitch streaming platform, where the company is launching live QVC-style shopping carousels to capture Gen Z buyers. (After School)\n\nQuotes of the Day\n\n• \"If agents are going to become computer users, why do their computers need to look anything like ours?\" — Joanna Stern, technology columnist, examining why autonomous artificial intelligence agents run on headless cloud Linux virtual machines rather than human desktop screens, via The New Things\n\n• \"I haven't really located the source of the malaise.\" — Anonymous 26-year-old attendee, carrying two smartphones at a sold-out New York digital downgrading workshop while comparing mobile phone use to chemical dependency, via After School\n\nSoftware, AI & Security\n\nWestern AI Startups Challenge Chinese Open-Source Dominance with 'Beam' and 'Le Chonk'\n\nNvidia-backed Reflection AI and French AI lab Mistral release open-weights models as enterprise pilots expire.\n\nNvidia-backed Reflection AI and French artificial intelligence lab Mistral released new open-weights language models designed to counter Chinese open-source AI market share. With enterprise IT budgets facing intense end-of-year reviews as introductory $1 pilot deals expire, corporate software buyers in heavily regulated industries and government agencies are seeking Western open-source models that bypass both Chinese models and costly proprietary cloud APIs. Read the venture analysis on Semafor.\n\nAI Agents Take Over Linux Virtual Machines in the Cloud\n\nAutonomous assistants leave behind physical desktop monitors to live inside headless server racks.\n\nTech columnist Joanna Stern investigated the backend infrastructure powering autonomous artificial intelligence assistants like OpenAI's Dot and Meta's Muse. Rather than operating on physical computers or human desktop interfaces, these agents run around the clock inside isolated cloud Linux virtual machines. Because AI software does not rely on visual monitors or mouse clicks, engineers are questioning whether computer operating systems built for autonomous agents should abandon human-centered desktop metaphors entirely. Read the technical analysis in The New Things.\n\nCulture & Consumer Trends\n\nThe Luddite Influencer of New York: Ditching the Smartphone for a 2002 Nokia\n\nFormer digital creator August Lamm leads sold-out workshops teaching young adults to embrace analog devices.\n\nFormer social media influencer August Lamm, who once commanded 200,000 digital followers, traded her iPhone for a vintage 2002 Nokia phone, pawned her laptop, and published You Don't Need a Smartphone. Her sold-out \"downgrading\" workshops in Manhattan draw crowds of young professionals desperate to break smartphone addiction and reclaim mental focus from algorithmic feeds. Read the cultural report in After School via The New York Times.\n\nAmazon Turns Twitch into a QVC Live-Shopping Hub for Gen Z\n\nInteractive retail carousels arrive on gaming livestreams ahead of fall discount holidays.\n\nAhead of Prime Day, Amazon introduced live shopping streams to Twitch, testing interactive product carousels for blenders and apparel. With over 70 percent of Twitch's 105 million monthly visitors between ages 18 and 34, Amazon is pushing to catch up with social shopping competitors like TikTok Shop and Whatnot as younger generations embrace live e-commerce. Read the retail dispatch in After School.\n\nQuick Hits & Curiosities\n\n• Headphones Blamed for Gen Z Disconnection: Essayist Sam Matthews Boehmer argues that constant earbud use is eroding youth social interaction and contemplation, leaving young adults unable to tolerate quiet reflection without background audio. Read the cultural critique in After School via The Telegraph.\n\n• Beauty Brands Redesign Packaging as TikTok Scripts: Cosmetic brands like Athena Club and Dyson are reformulating product packaging and tools so labels double as spoken scripts for creator \"Get Ready With Me\" videos. Explore the marketing shift in After School via The Business of Fashion.\n\n• Tom Morello Co-Writes Rock Tracks with 15-Year-Old Son: Rage Against the Machine guitarist Tom Morello shared that his 15-year-old son Roman contributed guitar riffs to five songs on his upcoming solo album following a shared summer dive into classic rock. Read the music profile in After School via Vulture.\n\n• Ramp Expense Data Shows Accelerating AI Provider Churn: Corporate spend management provider Ramp reported that businesses are switching AI model vendors at record rates as enterprise software teams re-evaluate high inference bills. Review the spend data in Semafor.",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Wednesday, October 7, 2026",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "heading_2",
+              "runs": [
+                {
+                  "text": "Today's Numbers",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "20,000 Copies",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": Sales tally for August Lamm's expanded analog zine ",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "You Don't Need a Smartphone",
+                  "url": "",
+                  "bold": false,
+                  "italic": true
+                },
+                {
+                  "text": " as the former influencer leads sold-out \"downgrading\" events across New York. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "After School",
+                  "url": "https://afterschool.substack.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "1,500 Students",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": The cohort of high schoolers surveyed in a new cognitive study finding that heavy short-form video consumption erodes teenagers' ability to connect present effort with future rewards. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "After School",
+                  "url": "https://afterschool.substack.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": " via ",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "The Wall Street Journal",
+                  "url": "https://www.wsj.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "105 Million",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": Monthly active visitors on Amazon's Twitch streaming platform, where the company is launching live QVC-style shopping carousels to capture Gen Z buyers. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "After School",
+                  "url": "https://afterschool.substack.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "heading_2",
+              "runs": [
+                {
+                  "text": "Quotes of the Day",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "\"If agents are going to become computer users, why do their computers need to look anything like ours?\"",
+                  "url": "",
+                  "bold": false,
+                  "italic": true
+                },
+                {
+                  "text": " — ",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Joanna Stern",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ", technology columnist, examining why autonomous artificial intelligence agents run on headless cloud Linux virtual machines rather than human desktop screens, via ",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "The New Things",
+                  "url": "https://www.wsj.com/",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "\"I haven't really located the source of the malaise.\"",
+                  "url": "",
+                  "bold": false,
+                  "italic": true
+                },
+                {
+                  "text": " — ",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Anonymous 26-year-old attendee",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ", carrying two smartphones at a sold-out New York digital downgrading workshop while comparing mobile phone use to chemical dependency, via ",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "After School",
+                  "url": "https://afterschool.substack.com/",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "heading_2",
+              "runs": [
+                {
+                  "text": "Software, AI & Security",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Western AI Startups Challenge Chinese Open-Source Dominance with 'Beam' and 'Le Chonk'",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": "  ",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Nvidia-backed Reflection AI and French AI lab Mistral release open-weights models as enterprise pilots expire.  ",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Nvidia-backed Reflection AI and French artificial intelligence lab Mistral released new open-weights language models designed to counter Chinese open-source AI market share. With enterprise IT budgets facing intense end-of-year reviews as introductory $1 pilot deals expire, corporate software buyers in heavily regulated industries and government agencies are seeking Western open-source models that bypass both Chinese models and costly proprietary cloud APIs. Read the venture analysis on ",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Semafor",
+                  "url": "https://semafor.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ".",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "AI Agents Take Over Linux Virtual Machines in the Cloud",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": "  ",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Autonomous assistants leave behind physical desktop monitors to live inside headless server racks.  ",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Tech columnist Joanna Stern investigated the backend infrastructure powering autonomous artificial intelligence assistants like OpenAI's Dot and Meta's Muse. Rather than operating on physical computers or human desktop interfaces, these agents run around the clock inside isolated cloud Linux virtual machines. Because AI software does not rely on visual monitors or mouse clicks, engineers are questioning whether computer operating systems built for autonomous agents should abandon human-centered desktop metaphors entirely. Read the technical analysis in ",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "The New Things",
+                  "url": "https://www.wsj.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ".",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "heading_2",
+              "runs": [
+                {
+                  "text": "Culture & Consumer Trends",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "The Luddite Influencer of New York: Ditching the Smartphone for a 2002 Nokia",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": "  ",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Former digital creator August Lamm leads sold-out workshops teaching young adults to embrace analog devices.  ",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Former social media influencer August Lamm, who once commanded 200,000 digital followers, traded her iPhone for a vintage 2002 Nokia phone, pawned her laptop, and published ",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "You Don't Need a Smartphone",
+                  "url": "",
+                  "bold": false,
+                  "italic": true
+                },
+                {
+                  "text": ". Her sold-out \"downgrading\" workshops in Manhattan draw crowds of young professionals desperate to break smartphone addiction and reclaim mental focus from algorithmic feeds. Read the cultural report in ",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "After School",
+                  "url": "https://afterschool.substack.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": " via ",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "The New York Times",
+                  "url": "https://www.nytimes.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ".",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Amazon Turns Twitch into a QVC Live-Shopping Hub for Gen Z",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": "  ",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Interactive retail carousels arrive on gaming livestreams ahead of fall discount holidays.  ",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Ahead of Prime Day, Amazon introduced live shopping streams to Twitch, testing interactive product carousels for blenders and apparel. With over 70 percent of Twitch's 105 million monthly visitors between ages 18 and 34, Amazon is pushing to catch up with social shopping competitors like TikTok Shop and Whatnot as younger generations embrace live e-commerce. Read the retail dispatch in ",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "After School",
+                  "url": "https://afterschool.substack.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ".",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "heading_2",
+              "runs": [
+                {
+                  "text": "Quick Hits & Curiosities",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Headphones Blamed for Gen Z Disconnection",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": Essayist Sam Matthews Boehmer argues that constant earbud use is eroding youth social interaction and contemplation, leaving young adults unable to tolerate quiet reflection without background audio. Read the cultural critique in ",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "After School",
+                  "url": "https://afterschool.substack.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": " via ",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "The Telegraph",
+                  "url": "https://www.telegraph.co.uk/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ".",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Beauty Brands Redesign Packaging as TikTok Scripts",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": Cosmetic brands like Athena Club and Dyson are reformulating product packaging and tools so labels double as spoken scripts for creator \"Get Ready With Me\" videos. Explore the marketing shift in ",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "After School",
+                  "url": "https://afterschool.substack.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": " via ",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "The Business of Fashion",
+                  "url": "https://www.businessoffashion.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ".",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Tom Morello Co-Writes Rock Tracks with 15-Year-Old Son",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": Rage Against the Machine guitarist Tom Morello shared that his 15-year-old son Roman contributed guitar riffs to five songs on his upcoming solo album following a shared summer dive into classic rock. Read the music profile in ",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "After School",
+                  "url": "https://afterschool.substack.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": " via ",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Vulture",
+                  "url": "https://www.vulture.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ".",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Ramp Expense Data Shows Accelerating AI Provider Churn",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": Corporate spend management provider Ramp reported that businesses are switching AI model vendors at record rates as enterprise software teams re-evaluate high inference bills. Review the spend data in ",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Semafor",
+                  "url": "https://semafor.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ".",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            }
+          ],
+          "links": [
+            {
+              "title": "After School",
+              "url": "https://afterschool.substack.com/"
+            },
+            {
+              "title": "The New Things",
+              "url": "https://www.wsj.com/"
+            },
+            {
+              "title": "Semafor",
+              "url": "https://semafor.com/"
+            },
+            {
+              "title": "The New York Times",
+              "url": "https://www.nytimes.com/"
+            },
+            {
+              "title": "The Telegraph",
+              "url": "https://www.telegraph.co.uk/"
+            },
+            {
+              "title": "The Business of Fashion",
+              "url": "https://www.businessoffashion.com/"
+            },
+            {
+              "title": "Vulture",
+              "url": "https://www.vulture.com/"
+            }
+          ]
+        },
+        "afternoon": {
+          "body": "Wednesday, October 7, 2026\n\nToday's Numbers\n\n• $4 Trillion: Total national debt carried by France—amounting to roughly 120 percent of its annual economic output—triggering nationwide school blockades and investor anxiety over a $100 billion annual debt-servicing tab. (The New York Times)\n\n• $40 Billion: The massive new debt load SpaceX is reportedly taking on to purchase cutting-edge Nvidia AI processors, leaving the space rocket and satellite giant carrying five times more leverage than Alphabet relative to profits. (Semafor)\n\n• 3,806 Vehicles: Electric cars delivered by Lucid Motors in the third quarter, falling well short of Wall Street targets of 4,700 and forcing the automaker to cut factory shifts to shrink inventory. (Robinhood Snacks)\n\n• 250,000 Demonstrators: The minimum number of students, teachers, and union workers who marched across 40 French cities protesting school understaffing, crumbling classrooms, and government austerity budgets. (The New York Times)\n\n• $35,820 (£27,100): The record-setting auction price paid for a premier working sheepdog, highlighting how sheep farmers regularly pay more for top-pedigree border collies than new automobiles. (Semafor)\n\n• 20,000 Copies: Sales tally for August Lamm's expanded analog zine You Don't Need a Smartphone as the former influencer leads sold-out \"downgrading\" events across New York. (After School)\n\n• 1,500 Students: The cohort of high schoolers surveyed in a new cognitive study finding that heavy short-form video consumption erodes teenagers' ability to connect present effort with future rewards. (After School via The Wall Street Journal)\n\n• 105 Million: Monthly active visitors on Amazon's Twitch streaming platform, where the company is launching live QVC-style shopping carousels to capture Gen Z buyers. (After School)\n\nQuotes of the Day\n\n• \"Mark Zuckerberg and Satya Nadella aren't slaphappy consumers who can be sobered up by higher rates. They are self-styled great men of history in an existential race and won't stop spending until their shareholders make them.\" — Liz Hoffman, business editor, analyzing the relentless AI infrastructure capital expenditure boom across Silicon Valley, via Semafor\n\n• \"Leaders should be prepared to call out Russia and be candid with their citizens about these dangers, the nature of the struggle and how Russian threats are best addressed.\" — Lawrence Freedman, emeritus professor of war studies at King's College London, on escalating European security tensions, via The New York Times\n\n• \"We're not tone-deaf to our customers.\" — General Motors executive, confirming that the automaker is introducing more hybrid vehicle options to its U.S. consumer lineup as drivers shy away from pure battery EVs, via Robinhood Snacks\n\n• \"If agents are going to become computer users, why do their computers need to look anything like ours?\" — Joanna Stern, technology columnist, examining why autonomous artificial intelligence agents run on headless cloud Linux virtual machines rather than human desktop screens, via The New Things\n\n• \"I haven't really located the source of the malaise.\" — Anonymous 26-year-old attendee, carrying two smartphones at a sold-out New York digital downgrading workshop while comparing mobile phone use to chemical dependency, via After School\n\nBusiness, Capital & Tech Infrastructure\n\nSpaceX Embarks on $40 Billion Debt Binge to Fund Nvidia AI Chip Purchases\n\nElon Musk's SpaceX is reportedly raising $40 billion in corporate debt to purchase specialized Nvidia artificial intelligence processors. While revenue from Starlink satellites helps support SpaceX's expensive rocket operations, the company carries five times more debt than Alphabet and three times more than Meta relative to profits. Because SpaceX went public in June with a BBB credit rating, issuing new equity or securing cheap bonds has become more challenging, pushing the company toward specialized private credit lenders like Apollo to finance its mounting AI computing commitments. Read the complete corporate finance analysis on Semafor.Elon Musk's aerospace giant takes on heavy corporate debt to compete in the frontier AI infrastructure race.\n\nPrivate Credit Giants Face Investor Lawsuits Over Inflated Asset Valuations\n\nMajor private credit managers, including Blue Owl, FS KKR, and Ares, are facing lawsuits from pension funds and institutional investors accusing the firms of inflating fund asset valuations. The complaints allege that the asset managers used payment-in-kind arrangements—which let distressed corporate borrowers delay cash interest payments—to paper over bad debts and artificially inflate performance fees. The legal challenges coincide with increased regulatory scrutiny, as the Securities and Exchange Commission and Federal Reserve audit commercial bank exposure to private credit markets. Read the investigative report on Semafor.Pension funds sue leading non-bank lenders over deferred interest payments and steep management fees.\n\nGlobal Affairs & Geopolitics\n\nFrance Plunges into Financial and Social Crisis as Debt Reaches $4 Trillion\n\nCascading student strikes, port blockades, and soaring bond yields rattle Paris ahead of spring elections.\n\nFrance is confronting an escalating wave of social unrest and financial instability as public demonstrations expand across more than 40 cities. High school and university students launched school blockades over crumbling infrastructure and understaffed classrooms, drawing support from striking labor unions and mariners protesting surging fuel costs. The unrest comes as France's national debt approaches 120 percent of gross domestic product, requiring nearly $100 billion next year just to service interest payments. Financial markets fear the spending cuts proposed by President Emmanuel Macron will deepen political gridlock ahead of next spring's presidential contest. Read the full Paris dispatch in The New York Times.\n\nChina's Alternative Interbank Payment Network Surges to Record Volume\n\nChina's cross-border interbank payment system, known as CIPS, logged record daily transaction volume in August as international companies increasingly settle trade without touching the U.S. dollar. While new data from the Atlantic Council confirms that the greenback still underpins the vast majority of global foreign-exchange reserves and commercial transactions, the number of direct participants in CIPS has more than doubled since Western allies froze Russian central bank assets. Developing economies are increasingly tapping Beijing's central-bank currency swap lines to bypass American financial jurisdiction. Review the global currency analysis in Semafor.Beijing's cross-border financial rail expands as sanctioned global firms seek workarounds to U.S. dollar dominance.\n\nCulture & Consumer Trends\n\nThe Luddite Influencer of New York: Ditching the Smartphone for a 2002 Nokia\n\nFormer social media influencer August Lamm, who once commanded 200,000 digital followers, traded her iPhone for a vintage 2002 Nokia phone, pawned her laptop, and published You Don't Need a Smartphone. Her sold-out \"downgrading\" workshops in Manhattan draw crowds of young professionals desperate to break smartphone addiction and reclaim mental focus from algorithmic feeds. Read the cultural report in After School via The New York Times.Former digital creator August Lamm leads sold-out workshops teaching young adults to embrace analog devices.\n\nAmazon Turns Twitch into a QVC Live-Shopping Hub for Gen Z\n\nAhead of Prime Day, Amazon introduced live shopping streams to Twitch, testing interactive product carousels for blenders and apparel. With over 70 percent of Twitch's 105 million monthly visitors between ages 18 and 34, Amazon is pushing to catch up with social shopping competitors like TikTok Shop and Whatnot as younger generations embrace live e-commerce. Read the retail dispatch in After School.Interactive retail carousels arrive on gaming livestreams ahead of fall discount holidays.\n\nAutomotive & Mobility\n\nLucid Motors Cuts Production Shifts as Unsold Electric Cars Pile Up\n\nAmerican electric vehicle manufacturer Lucid Motors delivered only 3,806 luxury sedans in the third quarter, missing Wall Street expectations of 4,700 vehicles. Manufacturing output dropped 38 percent from the prior quarter to 2,954 vehicles as the company actively dialed back assembly lines. New chief executive Silvio Napoli, who took the helm in June, eliminated a second production shift at the company's Arizona plant to clear excess inventory and target $1.4 billion in annual cash-flow improvements. While competitors Tesla and Rivian beat delivery estimates, legacy automakers like General Motors and Toyota are pivoting toward hybrids to satisfy cautious consumers. Read the automotive breakdown on Robinhood Snacks.The luxury EV maker misses quarterly delivery estimates, forcing factory cutbacks to stem cash burn.\n\nSoftware, AI & Security\n\nWestern AI Startups Challenge Chinese Open-Source Dominance with 'Beam' and 'Le Chonk'\n\nDavid Robinson, the computer scientist responsible for drafting OpenAI's internal risk assessment and safety protocols, resigned from the artificial intelligence laboratory over governance and safety concerns. Speaking on The Ezra Klein Show, Robinson explained that commercial competition and investor expectations are overriding deliberate safety testing, echoing broader whistleblower warnings across the industry. The high-profile departure comes as federal lawmakers debate new statutory risk-reporting rules for frontier AI developers. Listen to the interview on The New York Times.Nvidia-backed Reflection AI and French AI lab Mistral release open-weights models as enterprise pilots expire.\n\nNvidia-backed Reflection AI and French artificial intelligence lab Mistral released new open-weights language models designed to counter Chinese open-source AI market share. With enterprise IT budgets facing intense end-of-year reviews as introductory $1 pilot deals expire, corporate software buyers in heavily regulated industries and government agencies are seeking Western open-source models that bypass both Chinese models and costly proprietary cloud APIs. Read the venture analysis on Semafor.\n\nAI Agents Take Over Linux Virtual Machines in the Cloud\n\nAutonomous assistants leave behind physical desktop monitors to live inside headless server racks.\n\nTech columnist Joanna Stern investigated the backend infrastructure powering autonomous artificial intelligence assistants like OpenAI's Dot and Meta's Muse. Rather than operating on physical computers or human desktop interfaces, these agents run around the clock inside isolated cloud Linux virtual machines. Because AI software does not rely on visual monitors or mouse clicks, engineers are questioning whether computer operating systems built for autonomous agents should abandon human-centered desktop metaphors entirely. Read the technical analysis in The New Things.\n\nOpenAI Safety Architect David Robinson Resigns Over Guardrail Concerns\n\nThe author of the startup's safety protocols departs, warning about internal pressure to ship frontier models prematurely.\n\nGoogle Secures 20-Year Nuclear Power Agreement with Constellation Energy\n\nGoogle signed a landmark 20-year clean energy agreement with Constellation Energy to procure baseline nuclear power for its artificial intelligence data centers. The long-term pact mirrors recent agreements struck by Microsoft and NextEra Energy as tech giants confront strained regional electrical grids. With frontier computing clusters requiring gigawatts of continuous power, hyperscalers are increasingly purchasing entire reactor outputs to keep server campuses online without relying on fossil fuel peaker plants. Read the energy brief on Robinhood Snacks.Hyperscale tech firms turn to dedicated nuclear reactors to provide round-the-clock electricity for AI clusters.\n\nQuick Hits & Curiosities\n\n• DeepSeek Targets $12 Billion Valuation in Tencent-Backed Round: Chinese artificial intelligence startup DeepSeek opened talks to raise new growth capital with financial backing from tech giant Tencent to expand its open-weights model development. Read the venture report on Robinhood Snacks.\n\n• Skydance Media Credit Rating Downgraded by Fitch: Credit agency Fitch downgraded the corporate debt of David Ellison's Skydance Media following its blockbuster merger with Paramount and Warner Bros., citing heavy debt loads and soft theatrical box office receipts. Read the credit notice on Robinhood Snacks.\n\n• Lionel Messi Plays Final Match for Argentina: Global soccer superstar Lionel Messi played his final international contest for the Argentina national team, concluding a legendary twenty-year international career featuring two Copa América trophies and the 2022 World Cup. Read the sports tribute in The New York Times.\n\n• U.S. Trade Deficit Hits 17-Month High: Federal commerce statistics revealed that the United States trade deficit expanded to its widest margin in 17 months as strong consumer demand for imported goods outweighed export gains. Check the economic indicator in The New York Times.\n\n• GEICO Gecko Celebrates 27-Year Advertising Legacy: Robinhood Snacks highlighted the 1999 debut of GEICO's iconic animated mascot, which originally appeared pleading with television audiences to stop calling him for car insurance. Explore the brand profile on Robinhood Snacks.\n\n• Headphones Blamed for Gen Z Disconnection: Essayist Sam Matthews Boehmer argues that constant earbud use is eroding youth social interaction and contemplation, leaving young adults unable to tolerate quiet reflection without background audio. Read the cultural critique in After School via The Telegraph.\n\n• Beauty Brands Redesign Packaging as TikTok Scripts: Cosmetic brands like Athena Club and Dyson are reformulating product packaging and tools so labels double as spoken scripts for creator \"Get Ready With Me\" videos. Explore the marketing shift in After School via The Business of Fashion.\n\n• Tom Morello Co-Writes Rock Tracks with 15-Year-Old Son: Rage Against the Machine guitarist Tom Morello shared that his 15-year-old son Roman contributed guitar riffs to five songs on his upcoming solo album following a shared summer dive into classic rock. Read the music profile in After School via Vulture.\n\n• Ramp Expense Data Shows Accelerating AI Provider Churn: Corporate spend management provider Ramp reported that businesses are switching AI model vendors at record rates as enterprise software teams re-evaluate high inference bills. Review the spend data in Semafor.",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Wednesday, October 7, 2026",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Today's Numbers",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "$4 Trillion: Total national debt carried by France—amounting to roughly 120 percent of its annual economic output—triggering nationwide school blockades and investor anxiety over a $100 billion annual debt-servicing tab. (The New York Times)",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "$40 Billion: The massive new debt load SpaceX is reportedly taking on to purchase cutting-edge Nvidia AI processors, leaving the space rocket and satellite giant carrying five times more leverage than Alphabet relative to profits. (Semafor)",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "3,806 Vehicles: Electric cars delivered by Lucid Motors in the third quarter, falling well short of Wall Street targets of 4,700 and forcing the automaker to cut factory shifts to shrink inventory. (Robinhood Snacks)",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "250,000 Demonstrators: The minimum number of students, teachers, and union workers who marched across 40 French cities protesting school understaffing, crumbling classrooms, and government austerity budgets. (The New York Times)",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "$35,820 (£27,100): The record-setting auction price paid for a premier working sheepdog, highlighting how sheep farmers regularly pay more for top-pedigree border collies than new automobiles. (Semafor)",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "20,000 Copies: Sales tally for August Lamm's expanded analog zine You Don't Need a Smartphone as the former influencer leads sold-out \"downgrading\" events across New York. (After School)",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "1,500 Students: The cohort of high schoolers surveyed in a new cognitive study finding that heavy short-form video consumption erodes teenagers' ability to connect present effort with future rewards. (After School via The Wall Street Journal)",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "105 Million: Monthly active visitors on Amazon's Twitch streaming platform, where the company is launching live QVC-style shopping carousels to capture Gen Z buyers. (After School)",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Quotes of the Day",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "\"Mark Zuckerberg and Satya Nadella aren't slaphappy consumers who can be sobered up by higher rates. They are self-styled great men of history in an existential race and won't stop spending until their shareholders make them.\" — Liz Hoffman, business editor, analyzing the relentless AI infrastructure capital expenditure boom across Silicon Valley, via Semafor",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "\"Leaders should be prepared to call out Russia and be candid with their citizens about these dangers, the nature of the struggle and how Russian threats are best addressed.\" — Lawrence Freedman, emeritus professor of war studies at King's College London, on escalating European security tensions, via The New York Times",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "\"We're not tone-deaf to our customers.\" — General Motors executive, confirming that the automaker is introducing more hybrid vehicle options to its U.S. consumer lineup as drivers shy away from pure battery EVs, via Robinhood Snacks",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "\"If agents are going to become computer users, why do their computers need to look anything like ours?\" — Joanna Stern, technology columnist, examining why autonomous artificial intelligence agents run on headless cloud Linux virtual machines rather than human desktop screens, via The New Things",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "\"I haven't really located the source of the malaise.\" — Anonymous 26-year-old attendee, carrying two smartphones at a sold-out New York digital downgrading workshop while comparing mobile phone use to chemical dependency, via After School",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Business, Capital & Tech Infrastructure",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "SpaceX Embarks on $40 Billion Debt Binge to Fund Nvidia AI Chip Purchases",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Elon Musk's SpaceX is reportedly raising $40 billion in corporate debt to purchase specialized Nvidia artificial intelligence processors. While revenue from Starlink satellites helps support SpaceX's expensive rocket operations, the company carries five times more debt than Alphabet and three times more than Meta relative to profits. Because SpaceX went public in June with a BBB credit rating, issuing new equity or securing cheap bonds has become more challenging, pushing the company toward specialized private credit lenders like Apollo to finance its mounting AI computing commitments. Read the complete corporate finance analysis on Semafor.Elon Musk's aerospace giant takes on heavy corporate debt to compete in the frontier AI infrastructure race.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Private Credit Giants Face Investor Lawsuits Over Inflated Asset Valuations",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Major private credit managers, including Blue Owl, FS KKR, and Ares, are facing lawsuits from pension funds and institutional investors accusing the firms of inflating fund asset valuations. The complaints allege that the asset managers used payment-in-kind arrangements—which let distressed corporate borrowers delay cash interest payments—to paper over bad debts and artificially inflate performance fees. The legal challenges coincide with increased regulatory scrutiny, as the Securities and Exchange Commission and Federal Reserve audit commercial bank exposure to private credit markets. Read the investigative report on Semafor.Pension funds sue leading non-bank lenders over deferred interest payments and steep management fees.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Global Affairs & Geopolitics",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "France Plunges into Financial and Social Crisis as Debt Reaches $4 Trillion",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Cascading student strikes, port blockades, and soaring bond yields rattle Paris ahead of spring elections.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "France is confronting an escalating wave of social unrest and financial instability as public demonstrations expand across more than 40 cities. High school and university students launched school blockades over crumbling infrastructure and understaffed classrooms, drawing support from striking labor unions and mariners protesting surging fuel costs. The unrest comes as France's national debt approaches 120 percent of gross domestic product, requiring nearly $100 billion next year just to service interest payments. Financial markets fear the spending cuts proposed by President Emmanuel Macron will deepen political gridlock ahead of next spring's presidential contest. Read the full Paris dispatch in The New York Times.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "China's Alternative Interbank Payment Network Surges to Record Volume",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "China's cross-border interbank payment system, known as CIPS, logged record daily transaction volume in August as international companies increasingly settle trade without touching the U.S. dollar. While new data from the Atlantic Council confirms that the greenback still underpins the vast majority of global foreign-exchange reserves and commercial transactions, the number of direct participants in CIPS has more than doubled since Western allies froze Russian central bank assets. Developing economies are increasingly tapping Beijing's central-bank currency swap lines to bypass American financial jurisdiction. Review the global currency analysis in Semafor.Beijing's cross-border financial rail expands as sanctioned global firms seek workarounds to U.S. dollar dominance.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Culture & Consumer Trends",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "The Luddite Influencer of New York: Ditching the Smartphone for a 2002 Nokia",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Former social media influencer August Lamm, who once commanded 200,000 digital followers, traded her iPhone for a vintage 2002 Nokia phone, pawned her laptop, and published You Don't Need a Smartphone. Her sold-out \"downgrading\" workshops in Manhattan draw crowds of young professionals desperate to break smartphone addiction and reclaim mental focus from algorithmic feeds. Read the cultural report in After School via The New York Times.Former digital creator August Lamm leads sold-out workshops teaching young adults to embrace analog devices.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Amazon Turns Twitch into a QVC Live-Shopping Hub for Gen Z",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Ahead of Prime Day, Amazon introduced live shopping streams to Twitch, testing interactive product carousels for blenders and apparel. With over 70 percent of Twitch's 105 million monthly visitors between ages 18 and 34, Amazon is pushing to catch up with social shopping competitors like TikTok Shop and Whatnot as younger generations embrace live e-commerce. Read the retail dispatch in After School.Interactive retail carousels arrive on gaming livestreams ahead of fall discount holidays.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Automotive & Mobility",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Lucid Motors Cuts Production Shifts as Unsold Electric Cars Pile Up",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "American electric vehicle manufacturer Lucid Motors delivered only 3,806 luxury sedans in the third quarter, missing Wall Street expectations of 4,700 vehicles. Manufacturing output dropped 38 percent from the prior quarter to 2,954 vehicles as the company actively dialed back assembly lines. New chief executive Silvio Napoli, who took the helm in June, eliminated a second production shift at the company's Arizona plant to clear excess inventory and target $1.4 billion in annual cash-flow improvements. While competitors Tesla and Rivian beat delivery estimates, legacy automakers like General Motors and Toyota are pivoting toward hybrids to satisfy cautious consumers. Read the automotive breakdown on Robinhood Snacks.The luxury EV maker misses quarterly delivery estimates, forcing factory cutbacks to stem cash burn.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Software, AI & Security",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Western AI Startups Challenge Chinese Open-Source Dominance with 'Beam' and 'Le Chonk'",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "David Robinson, the computer scientist responsible for drafting OpenAI's internal risk assessment and safety protocols, resigned from the artificial intelligence laboratory over governance and safety concerns. Speaking on The Ezra Klein Show, Robinson explained that commercial competition and investor expectations are overriding deliberate safety testing, echoing broader whistleblower warnings across the industry. The high-profile departure comes as federal lawmakers debate new statutory risk-reporting rules for frontier AI developers. Listen to the interview on The New York Times.Nvidia-backed Reflection AI and French AI lab Mistral release open-weights models as enterprise pilots expire.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Nvidia-backed Reflection AI and French artificial intelligence lab Mistral released new open-weights language models designed to counter Chinese open-source AI market share. With enterprise IT budgets facing intense end-of-year reviews as introductory $1 pilot deals expire, corporate software buyers in heavily regulated industries and government agencies are seeking Western open-source models that bypass both Chinese models and costly proprietary cloud APIs. Read the venture analysis on Semafor.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "AI Agents Take Over Linux Virtual Machines in the Cloud",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Autonomous assistants leave behind physical desktop monitors to live inside headless server racks.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Tech columnist Joanna Stern investigated the backend infrastructure powering autonomous artificial intelligence assistants like OpenAI's Dot and Meta's Muse. Rather than operating on physical computers or human desktop interfaces, these agents run around the clock inside isolated cloud Linux virtual machines. Because AI software does not rely on visual monitors or mouse clicks, engineers are questioning whether computer operating systems built for autonomous agents should abandon human-centered desktop metaphors entirely. Read the technical analysis in The New Things.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "OpenAI Safety Architect David Robinson Resigns Over Guardrail Concerns",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "The author of the startup's safety protocols departs, warning about internal pressure to ship frontier models prematurely.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Google Secures 20-Year Nuclear Power Agreement with Constellation Energy",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Google signed a landmark 20-year clean energy agreement with Constellation Energy to procure baseline nuclear power for its artificial intelligence data centers. The long-term pact mirrors recent agreements struck by Microsoft and NextEra Energy as tech giants confront strained regional electrical grids. With frontier computing clusters requiring gigawatts of continuous power, hyperscalers are increasingly purchasing entire reactor outputs to keep server campuses online without relying on fossil fuel peaker plants. Read the energy brief on Robinhood Snacks.Hyperscale tech firms turn to dedicated nuclear reactors to provide round-the-clock electricity for AI clusters.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Quick Hits & Curiosities",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "DeepSeek Targets $12 Billion Valuation in Tencent-Backed Round: Chinese artificial intelligence startup DeepSeek opened talks to raise new growth capital with financial backing from tech giant Tencent to expand its open-weights model development. Read the venture report on Robinhood Snacks.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Skydance Media Credit Rating Downgraded by Fitch: Credit agency Fitch downgraded the corporate debt of David Ellison's Skydance Media following its blockbuster merger with Paramount and Warner Bros., citing heavy debt loads and soft theatrical box office receipts. Read the credit notice on Robinhood Snacks.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Lionel Messi Plays Final Match for Argentina: Global soccer superstar Lionel Messi played his final international contest for the Argentina national team, concluding a legendary twenty-year international career featuring two Copa América trophies and the 2022 World Cup. Read the sports tribute in The New York Times.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "U.S. Trade Deficit Hits 17-Month High: Federal commerce statistics revealed that the United States trade deficit expanded to its widest margin in 17 months as strong consumer demand for imported goods outweighed export gains. Check the economic indicator in The New York Times.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "GEICO Gecko Celebrates 27-Year Advertising Legacy: Robinhood Snacks highlighted the 1999 debut of GEICO's iconic animated mascot, which originally appeared pleading with television audiences to stop calling him for car insurance. Explore the brand profile on Robinhood Snacks.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Headphones Blamed for Gen Z Disconnection: Essayist Sam Matthews Boehmer argues that constant earbud use is eroding youth social interaction and contemplation, leaving young adults unable to tolerate quiet reflection without background audio. Read the cultural critique in After School via The Telegraph.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Beauty Brands Redesign Packaging as TikTok Scripts: Cosmetic brands like Athena Club and Dyson are reformulating product packaging and tools so labels double as spoken scripts for creator \"Get Ready With Me\" videos. Explore the marketing shift in After School via The Business of Fashion.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Tom Morello Co-Writes Rock Tracks with 15-Year-Old Son: Rage Against the Machine guitarist Tom Morello shared that his 15-year-old son Roman contributed guitar riffs to five songs on his upcoming solo album following a shared summer dive into classic rock. Read the music profile in After School via Vulture.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Ramp Expense Data Shows Accelerating AI Provider Churn: Corporate spend management provider Ramp reported that businesses are switching AI model vendors at record rates as enterprise software teams re-evaluate high inference bills. Review the spend data in Semafor.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            }
+          ],
+          "links": []
+        },
+        "evening": {
           "body": "Wednesday, October 7, 2026\n\nToday's Numbers\n\n• $4 Trillion: Total national debt carried by France—amounting to roughly 120 percent of its annual economic output—triggering nationwide school blockades and investor anxiety over a $100 billion annual debt-servicing tab. (The New York Times)\n\n• $40 Billion: The massive new debt load SpaceX is reportedly taking on to purchase cutting-edge Nvidia AI processors, leaving the space rocket and satellite giant carrying five times more leverage than Alphabet relative to profits. (Semafor)\n\n• 3,806 Vehicles: Electric cars delivered by Lucid Motors in the third quarter, falling well short of Wall Street targets of 4,700 and forcing the automaker to cut factory shifts to shrink inventory. (Robinhood Snacks)\n\n• 250,000 Demonstrators: The minimum number of students, teachers, and union workers who marched across 40 French cities protesting school understaffing, crumbling classrooms, and government austerity budgets. (The New York Times)\n\n• $35,820 (£27,100): The record-setting auction price paid for a premier working sheepdog, highlighting how sheep farmers regularly pay more for top-pedigree border collies than new automobiles. (Semafor)\n\n• 20,000 Copies: Sales tally for August Lamm's expanded analog zine You Don't Need a Smartphone as the former influencer leads sold-out \"downgrading\" events across New York. (After School)\n\n• 1,500 Students: The cohort of high schoolers surveyed in a new cognitive study finding that heavy short-form video consumption erodes teenagers' ability to connect present effort with future rewards. (After School via The Wall Street Journal)\n\n• 105 Million: Monthly active visitors on Amazon's Twitch streaming platform, where the company is launching live QVC-style shopping carousels to capture Gen Z buyers. (After School)\n\nQuotes of the Day\n\n• \"Mark Zuckerberg and Satya Nadella aren't slaphappy consumers who can be sobered up by higher rates. They are self-styled great men of history in an existential race and won't stop spending until their shareholders make them.\" — Liz Hoffman, business editor, analyzing the relentless AI infrastructure capital expenditure boom across Silicon Valley, via Semafor\n\n• \"Leaders should be prepared to call out Russia and be candid with their citizens about these dangers, the nature of the struggle and how Russian threats are best addressed.\" — Lawrence Freedman, emeritus professor of war studies at King's College London, on escalating European security tensions, via The New York Times\n\n• \"We're not tone-deaf to our customers.\" — General Motors executive, confirming that the automaker is introducing more hybrid vehicle options to its U.S. consumer lineup as drivers shy away from pure battery EVs, via Robinhood Snacks\n\n• \"If agents are going to become computer users, why do their computers need to look anything like ours?\" — Joanna Stern, technology columnist, examining why autonomous artificial intelligence agents run on headless cloud Linux virtual machines rather than human desktop screens, via The New Things\n\n• \"I haven't really located the source of the malaise.\" — Anonymous 26-year-old attendee, carrying two smartphones at a sold-out New York digital downgrading workshop while comparing mobile phone use to chemical dependency, via After School\n\nBusiness, Capital & Tech Infrastructure\n\nSpaceX Embarks on $40 Billion Debt Binge to Fund Nvidia AI Chip Purchases\n\nElon Musk's SpaceX is reportedly raising $40 billion in corporate debt to purchase specialized Nvidia artificial intelligence processors. While revenue from Starlink satellites helps support SpaceX's expensive rocket operations, the company carries five times more debt than Alphabet and three times more than Meta relative to profits. Because SpaceX went public in June with a BBB credit rating, issuing new equity or securing cheap bonds has become more challenging, pushing the company toward specialized private credit lenders like Apollo to finance its mounting AI computing commitments. Read the complete corporate finance analysis on Semafor.Elon Musk's aerospace giant takes on heavy corporate debt to compete in the frontier AI infrastructure race.\n\nPrivate Credit Giants Face Investor Lawsuits Over Inflated Asset Valuations\n\nMajor private credit managers, including Blue Owl, FS KKR, and Ares, are facing lawsuits from pension funds and institutional investors accusing the firms of inflating fund asset valuations. The complaints allege that the asset managers used payment-in-kind arrangements—which let distressed corporate borrowers delay cash interest payments—to paper over bad debts and artificially inflate performance fees. The legal challenges coincide with increased regulatory scrutiny, as the Securities and Exchange Commission and Federal Reserve audit commercial bank exposure to private credit markets. Read the investigative report on Semafor.Pension funds sue leading non-bank lenders over deferred interest payments and steep management fees.\n\nGlobal Affairs & Geopolitics\n\nFrance Plunges into Financial and Social Crisis as Debt Reaches $4 Trillion\n\nCascading student strikes, port blockades, and soaring bond yields rattle Paris ahead of spring elections.\n\nFrance is confronting an escalating wave of social unrest and financial instability as public demonstrations expand across more than 40 cities. High school and university students launched school blockades over crumbling infrastructure and understaffed classrooms, drawing support from striking labor unions and mariners protesting surging fuel costs. The unrest comes as France's national debt approaches 120 percent of gross domestic product, requiring nearly $100 billion next year just to service interest payments. Financial markets fear the spending cuts proposed by President Emmanuel Macron will deepen political gridlock ahead of next spring's presidential contest. Read the full Paris dispatch in The New York Times.\n\nChina's Alternative Interbank Payment Network Surges to Record Volume\n\nChina's cross-border interbank payment system, known as CIPS, logged record daily transaction volume in August as international companies increasingly settle trade without touching the U.S. dollar. While new data from the Atlantic Council confirms that the greenback still underpins the vast majority of global foreign-exchange reserves and commercial transactions, the number of direct participants in CIPS has more than doubled since Western allies froze Russian central bank assets. Developing economies are increasingly tapping Beijing's central-bank currency swap lines to bypass American financial jurisdiction. Review the global currency analysis in Semafor.Beijing's cross-border financial rail expands as sanctioned global firms seek workarounds to U.S. dollar dominance.\n\nCulture & Consumer Trends\n\nThe Luddite Influencer of New York: Ditching the Smartphone for a 2002 Nokia\n\nFormer social media influencer August Lamm, who once commanded 200,000 digital followers, traded her iPhone for a vintage 2002 Nokia phone, pawned her laptop, and published You Don't Need a Smartphone. Her sold-out \"downgrading\" workshops in Manhattan draw crowds of young professionals desperate to break smartphone addiction and reclaim mental focus from algorithmic feeds. Read the cultural report in After School via The New York Times.Former digital creator August Lamm leads sold-out workshops teaching young adults to embrace analog devices.\n\nAmazon Turns Twitch into a QVC Live-Shopping Hub for Gen Z\n\nAhead of Prime Day, Amazon introduced live shopping streams to Twitch, testing interactive product carousels for blenders and apparel. With over 70 percent of Twitch's 105 million monthly visitors between ages 18 and 34, Amazon is pushing to catch up with social shopping competitors like TikTok Shop and Whatnot as younger generations embrace live e-commerce. Read the retail dispatch in After School.Interactive retail carousels arrive on gaming livestreams ahead of fall discount holidays.\n\nAutomotive & Mobility\n\nLucid Motors Cuts Production Shifts as Unsold Electric Cars Pile Up\n\nAmerican electric vehicle manufacturer Lucid Motors delivered only 3,806 luxury sedans in the third quarter, missing Wall Street expectations of 4,700 vehicles. Manufacturing output dropped 38 percent from the prior quarter to 2,954 vehicles as the company actively dialed back assembly lines. New chief executive Silvio Napoli, who took the helm in June, eliminated a second production shift at the company's Arizona plant to clear excess inventory and target $1.4 billion in annual cash-flow improvements. While competitors Tesla and Rivian beat delivery estimates, legacy automakers like General Motors and Toyota are pivoting toward hybrids to satisfy cautious consumers. Read the automotive breakdown on Robinhood Snacks.The luxury EV maker misses quarterly delivery estimates, forcing factory cutbacks to stem cash burn.\n\nSoftware, AI & Security\n\nWestern AI Startups Challenge Chinese Open-Source Dominance with 'Beam' and 'Le Chonk'\n\nDavid Robinson, the computer scientist responsible for drafting OpenAI's internal risk assessment and safety protocols, resigned from the artificial intelligence laboratory over governance and safety concerns. Speaking on The Ezra Klein Show, Robinson explained that commercial competition and investor expectations are overriding deliberate safety testing, echoing broader whistleblower warnings across the industry. The high-profile departure comes as federal lawmakers debate new statutory risk-reporting rules for frontier AI developers. Listen to the interview on The New York Times.Nvidia-backed Reflection AI and French AI lab Mistral release open-weights models as enterprise pilots expire.\n\nNvidia-backed Reflection AI and French artificial intelligence lab Mistral released new open-weights language models designed to counter Chinese open-source AI market share. With enterprise IT budgets facing intense end-of-year reviews as introductory $1 pilot deals expire, corporate software buyers in heavily regulated industries and government agencies are seeking Western open-source models that bypass both Chinese models and costly proprietary cloud APIs. Read the venture analysis on Semafor.\n\nAI Agents Take Over Linux Virtual Machines in the Cloud\n\nAutonomous assistants leave behind physical desktop monitors to live inside headless server racks.\n\nTech columnist Joanna Stern investigated the backend infrastructure powering autonomous artificial intelligence assistants like OpenAI's Dot and Meta's Muse. Rather than operating on physical computers or human desktop interfaces, these agents run around the clock inside isolated cloud Linux virtual machines. Because AI software does not rely on visual monitors or mouse clicks, engineers are questioning whether computer operating systems built for autonomous agents should abandon human-centered desktop metaphors entirely. Read the technical analysis in The New Things.\n\nOpenAI Safety Architect David Robinson Resigns Over Guardrail Concerns\n\nThe author of the startup's safety protocols departs, warning about internal pressure to ship frontier models prematurely.\n\nGoogle Secures 20-Year Nuclear Power Agreement with Constellation Energy\n\nGoogle signed a landmark 20-year clean energy agreement with Constellation Energy to procure baseline nuclear power for its artificial intelligence data centers. The long-term pact mirrors recent agreements struck by Microsoft and NextEra Energy as tech giants confront strained regional electrical grids. With frontier computing clusters requiring gigawatts of continuous power, hyperscalers are increasingly purchasing entire reactor outputs to keep server campuses online without relying on fossil fuel peaker plants. Read the energy brief on Robinhood Snacks.Hyperscale tech firms turn to dedicated nuclear reactors to provide round-the-clock electricity for AI clusters.\n\nQuick Hits & Curiosities\n\n• DeepSeek Targets $12 Billion Valuation in Tencent-Backed Round: Chinese artificial intelligence startup DeepSeek opened talks to raise new growth capital with financial backing from tech giant Tencent to expand its open-weights model development. Read the venture report on Robinhood Snacks.\n\n• Skydance Media Credit Rating Downgraded by Fitch: Credit agency Fitch downgraded the corporate debt of David Ellison's Skydance Media following its blockbuster merger with Paramount and Warner Bros., citing heavy debt loads and soft theatrical box office receipts. Read the credit notice on Robinhood Snacks.\n\n• Lionel Messi Plays Final Match for Argentina: Global soccer superstar Lionel Messi played his final international contest for the Argentina national team, concluding a legendary twenty-year international career featuring two Copa América trophies and the 2022 World Cup. Read the sports tribute in The New York Times.\n\n• U.S. Trade Deficit Hits 17-Month High: Federal commerce statistics revealed that the United States trade deficit expanded to its widest margin in 17 months as strong consumer demand for imported goods outweighed export gains. Check the economic indicator in The New York Times.\n\n• GEICO Gecko Celebrates 27-Year Advertising Legacy: Robinhood Snacks highlighted the 1999 debut of GEICO's iconic animated mascot, which originally appeared pleading with television audiences to stop calling him for car insurance. Explore the brand profile on Robinhood Snacks.\n\n• Headphones Blamed for Gen Z Disconnection: Essayist Sam Matthews Boehmer argues that constant earbud use is eroding youth social interaction and contemplation, leaving young adults unable to tolerate quiet reflection without background audio. Read the cultural critique in After School via The Telegraph.\n\n• Beauty Brands Redesign Packaging as TikTok Scripts: Cosmetic brands like Athena Club and Dyson are reformulating product packaging and tools so labels double as spoken scripts for creator \"Get Ready With Me\" videos. Explore the marketing shift in After School via The Business of Fashion.\n\n• Tom Morello Co-Writes Rock Tracks with 15-Year-Old Son: Rage Against the Machine guitarist Tom Morello shared that his 15-year-old son Roman contributed guitar riffs to five songs on his upcoming solo album following a shared summer dive into classic rock. Read the music profile in After School via Vulture.\n\n• Ramp Expense Data Shows Accelerating AI Provider Churn: Corporate spend management provider Ramp reported that businesses are switching AI model vendors at record rates as enterprise software teams re-evaluate high inference bills. Review the spend data in Semafor.",
           "blocks": [
             {
