@@ -57725,6 +57725,4024 @@
           "links": []
         }
       }
+    },
+    {
+      "id": "digest-3f38153c-8a3e-811a-b713-f9de25c1b7e3",
+      "channel": "newsletters",
+      "source": "notion",
+      "kind": "Agent-written digest",
+      "domain": "Daily newsletter digest",
+      "title": "Toggle format test (delete me)",
+      "url": "",
+      "description": "8am edition",
+      "body": "8am edition\n\nTest toggle content line 1.\n\nTest toggle content line 2.\n\nRegular paragraph.",
+      "blocks": [
+        {
+          "type": "quote",
+          "runs": [
+            {
+              "text": "8am edition",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "quote",
+          "runs": [
+            {
+              "text": "Test toggle content line 1.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "quote",
+          "runs": [
+            {
+              "text": "Test toggle content line 2.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Regular paragraph.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        }
+      ],
+      "publishedAt": "2026-10-08T14:10:00Z",
+      "links": []
+    },
+    {
+      "id": "digest-3f38153c-8a3e-8104-af99-eebb280ee299",
+      "channel": "newsletters",
+      "source": "notion",
+      "kind": "Agent-written digest",
+      "domain": "Daily newsletter digest",
+      "title": "Google's Unreleased Gemini Argon 4 Crushes AI Benchmarks, Ex-CIA Officer Stole $194M in Gold Bars, $30 Painting Sells for $1.3M — Thursday, October 8, 2026",
+      "url": "",
+      "description": "Thursday, October 8, 2026: Midday Edition",
+      "body": "Thursday, October 8, 2026: Midday Edition\n\nToday's Numbers\n\n• 194: the age of Jonathan, the world's oldest living land animal. Scientists just sequenced the genome of the 194-year-old tortoise and found unique gene variants in most aging pathways, including DNA repair. Sorry, longevity influencers: you probably can't copy him.\n\n• 91: pounds of meth in Melissa Kyle's car. A federal judge ruled the Flock license plate search that led to the bust was an unconstitutional warrantless search, so all of it gets thrown out. Now 404 Media has the bodycam footage.\n\n• 250,000: the crowd that watched Ginette Reno and Celine Dion sing \"Un peu plus haut, un peu plus loin\" for Quebec's 400th anniversary in 2008. Designer Ruby Thelot's pick of the day.\n\n• 60: the battles the Duke of Wellington fought across India, Iberia, and Waterloo without losing a major one. His secret, per The Daily General: he was the better guesser.\n\n• 6: meters underground, where Open Ground nightclub sits in a converted WWII bunker in Wuppertal, Germany. DJ Yu Su called it possibly the best club night of her 2026.\n\n• 2,680,135: holes drilled into wood paneling at Klymax, the Bali club DJ Harvey built with Potato Head. The perforations diffuse sound across the dancefloor.\n\n• 500: the sweet spot crowd at Klymax. Big enough for the room to lose itself together, small enough that the DJ doesn't have to play the easy hits.\n\n• 100: decibels, the level Open Ground's main room rarely crossed. Quieter than almost any club Yu Su has played, yet full of textural detail.\n\n• 2013: the year the Black Vault filed the FOIA request that just surfaced the CIA's internal talking points on the Bin Laden raid. A decade-plus wait for paperwork.\n\nQuotes of the Day\n\n• \"All the business of war, and indeed all the business of life, is to endeavour to find out what you don't know by what you do; that's what I called guessing what was at the other side of the hill.\" (Duke of Wellington, via The Daily General)\n\n• \"Nothing in that room asks you to brace.\" (DJ Yu Su, on Open Ground nightclub, via Why Is This Interesting?)\n\n• \"Feed art in one end, and happy people come out the other.\" (DJ Harvey, on his Bali club Klymax, via Why Is This Interesting?)\n\n• \"A club sells a feeling it can never serve directly.\" (Colin Nagy, Why Is This Interesting?)\n\nSurveillance & Power\n\n404 Media got the bodycam footage from the Flock search a judge ruled unconstitutional. Last week a federal judge said the license plate reader search of Melissa Kyle was \"indiscriminate mass surveillance\" and tossed the evidence, including 91 pounds of meth. Now you can watch the stop yourself. The footage shows a Tulsa County deputy driving 60 mph with one hand on the wheel and the other on his laptop, running Flock before he'd even finished pulling her over. Reading about a ruling is one thing. Seeing the search is another. (404 Media)\n\nICE has been investigating hundreds of nonprofits that help people register to vote. Democracy Docket reports the agency dug into voter-registration groups looking for noncitizen voting, which investigators almost never actually find. The read from 404 Media: ICE is buying tools and data access under the pretense of \"voter fraud,\" a label it then uses to justify mass actions. Investigating hundreds of groups that get people to vote is a strange use of resources. (Democracy Docket, via 404 Media)\n\nThe AI Economy\n\nHarvard researchers found AI coding assistants boost productivity, but the gains don't reach the bottom line. The study looked at coding assistants and agents and concluded that \"productivity gains do not fully pass through to changes in software output or employment.\" For agents specifically, more time goes to reviewing code, and there is more code to review. The machines write faster. Humans still have to read it all. (404 Media)\n\nMcDonald's is being sued for allegedly using AI to set menu prices. The federal lawsuit claims the chain built an \"information-sharing pricing platform\" that draws on millions of daily transactions to set prices across thousands of US restaurants, amounting to \"algorithmic price-fixing aimed at customers who are already stretched thin.\" It started because Michael Thomas, an Illinois man, noticed his usual Quarter Pounder with cheese, fries, and Coke cost different amounts at different locations near his home. McDonald's says the suit is full of inaccuracies. (Associated Press, via 404 Media)\n\nSomeone built a tool that links a sex toy to Claude Code. The pitch, per 404 Media: \"feel\" every action \"deeply with your body.\" It is presumably vibe-coded. It is certainly a way to burn through your entire enterprise token budget. The future is here and it is extremely online. (404 Media)\n\nHow We Live\n\nThe Duke of Wellington never lost a major battle because he was the better guesser. That's the argument in The Daily General today. Wellington rode the ground himself, studied his opponents' habits, hid his forces on reverse slopes, and constantly revised his picture of what the other commander intended. His method had three parts: squeeze everything out of the visible evidence, model the mind across from you, and keep score of your guesses afterward. Most people fail at both ends, the piece argues. They stall until it's too late, or they leap too far on pure instinct. Good guessing isn't a gift. It's bookkeeping. (The Daily General)\n\nThe best nightclub in the world right now might sit in a WWII bunker in Wuppertal. DJ Yu Su played Open Ground, a club six meters underground in a converted German bunker, and called it \"possibly the best club experience i've had in 2026.\" What struck her wasn't the music. It was the hospitality: no queue at the door, always room to dance, seating built into the building, minimal lighting, little ledges for your drink everywhere. Nothing makes you compete. Her summary: \"Nothing in that room asks you to brace.\" The piece pairs it with Klymax in Bali, the club DJ Harvey designed with Potato Head, where 2,680,135 holes in wood paneling diffuse the sound and the sprung floor saves your joints. The shared lesson: a club sells a feeling it can never serve directly, and it only arrives after a hundred small decisions about bodies, sound, sightlines, queues, and toilets. (Why Is This Interesting?)\n\nAt the movies, the despair is the point. Sean Fennessey's Projections notes that a wave of new films seems to be channeling the fear, anger, and hopelessness people feel about the government, technology, and a destabilized society. The piece itself sits behind a paywall, but the observation stands on its own as a zeitgeist read. Cinema is holding up a mirror, and the mirror looks tired. (Projections)\n\nThe Good Stuff\n\nRuby Thelot wants you to watch two Quebec legends sing to 250,000 people. The designer and NYU professor's Perfectly Imperfect recs include Ginette Reno and Celine Dion performing \"Un peu plus haut, un peu plus loin\" at Quebec's 400th anniversary in 2008. He also swears by chalkboards (he keeps two, one in the office and one in the bedroom, and sketches most ideas on them) and by the short films of Zarina Nares, who he calls an absolute genius. Asked for the best Haitian food in NYC, he had answers. (Perfectly Imperfect)\n\nMeet Jonathan, the 194-year-old tortoise who might know the secret to not dying. Scientists have sequenced the genome of the world's oldest living land animal, an Aldabra giant tortoise born before the Civil War. They found unique gene variants in most aging pathways, including DNA repair. The research took years and hit plenty of complications along the way. (404 Media)\n\nTonight\n\nThe Drift is throwing a party tonight and you're invited. The magazine celebrates the release of Issue Eighteen at 7 p.m. at Tavern 29 on East 29th Street in Manhattan, with readings from contributors including Lora Kelley, Hanson O'Haver, Saliha Bayrak, Seamus Malekafzali, Chidima Anekwe, Henri Lipton, Ismail Ibrahim, Lily Felsenthal, Ben Purkert, Lev Xue, and Rosanna Young Oh. Print subscribers get in free. Everyone else pays $20 for an issue, which doubles as the ticket. (The Drift)\n\nThe Drift is also co-sponsoring Jewish Currents Live on October 11 in Brooklyn. The lineup includes a live Know Your Enemy on neocons and the politics of Jewish reaction, a panel on the Palestinian national movement after the destruction of Gaza, and a session asking whether the left can wield power, with Kai Wright, Hasan Piker, Bhaskar Sunkara, and Keeanga-Yamahtta Taylor. In person and streaming everywhere. (The Drift)\n\nQuick Hits & Curiosities\n\n• The Black Vault's FOIA wizards finally got the CIA's internal talking points on how the government planned to talk about the Bin Laden raid. They filed the request in 2013. (404 Media)\n\n• Miss your Commodore 64? Someone recreated its font from photos of the machine's classic keycaps. (404 Media)\n\n• Wellington's third rule of guessing: keep score afterward. \"The general who keeps a ledger improves; the one who doesn't is simply lucky until the luck runs out.\" (The Daily General)\n\n• Open Ground's drifting hallways hit two things humans love in a space: mystery (something around the corner) and legibility (confidence you'll find your way back). (Why Is This Interesting?)",
+      "blocks": [
+        {
+          "type": "heading_1",
+          "runs": [
+            {
+              "text": "Thursday, October 8, 2026: Midday Edition",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Today's Numbers",
+              "url": "",
+              "bold": true,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "194",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": ": the age of Jonathan, the world's oldest living land animal. Scientists just sequenced the genome of the 194-year-old tortoise and found unique gene variants in most aging pathways, including DNA repair. Sorry, longevity influencers: you probably can't copy him.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "91",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": ": pounds of meth in Melissa Kyle's car. A federal judge ruled the Flock license plate search that led to the bust was an unconstitutional warrantless search, so all of it gets thrown out. Now 404 Media has the bodycam footage.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "250,000",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": ": the crowd that watched Ginette Reno and Celine Dion sing \"Un peu plus haut, un peu plus loin\" for Quebec's 400th anniversary in 2008. Designer Ruby Thelot's pick of the day.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "60",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": ": the battles the Duke of Wellington fought across India, Iberia, and Waterloo without losing a major one. His secret, per The Daily General: he was the better guesser.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "6",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": ": meters underground, where Open Ground nightclub sits in a converted WWII bunker in Wuppertal, Germany. DJ Yu Su called it possibly the best club night of her 2026.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "2,680,135",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": ": holes drilled into wood paneling at Klymax, the Bali club DJ Harvey built with Potato Head. The perforations diffuse sound across the dancefloor.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "500",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": ": the sweet spot crowd at Klymax. Big enough for the room to lose itself together, small enough that the DJ doesn't have to play the easy hits.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "100",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": ": decibels, the level Open Ground's main room rarely crossed. Quieter than almost any club Yu Su has played, yet full of textural detail.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "2013",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": ": the year the Black Vault filed the FOIA request that just surfaced the CIA's internal talking points on the Bin Laden raid. A decade-plus wait for paperwork.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Quotes of the Day",
+              "url": "",
+              "bold": true,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "\"All the business of war, and indeed all the business of life, is to endeavour to find out what you don't know by what you do; that's what I called guessing what was at the other side of the hill.\" (Duke of Wellington, via The Daily General)",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "\"Nothing in that room asks you to brace.\" (DJ Yu Su, on Open Ground nightclub, via Why Is This Interesting?)",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "\"Feed art in one end, and happy people come out the other.\" (DJ Harvey, on his Bali club Klymax, via Why Is This Interesting?)",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "\"A club sells a feeling it can never serve directly.\" (Colin Nagy, Why Is This Interesting?)",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Surveillance & Power",
+              "url": "",
+              "bold": true,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "404 Media got the bodycam footage from the Flock search a judge ruled unconstitutional.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " Last week a federal judge said the license plate reader search of Melissa Kyle was \"indiscriminate mass surveillance\" and tossed the evidence, including 91 pounds of meth. Now you can watch the stop yourself. The footage shows a Tulsa County deputy driving 60 mph with one hand on the wheel and the other on his laptop, running Flock before he'd even finished pulling her over. Reading about a ruling is one thing. Seeing the search is another. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "404 Media",
+              "url": "https://www.404media.co/r/c33c57e5?m=f198361c-d0c1-41bf-86df-5431cede6034",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "ICE has been investigating hundreds of nonprofits that help people register to vote.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " Democracy Docket reports the agency dug into voter-registration groups looking for noncitizen voting, which investigators almost never actually find. The read from 404 Media: ICE is buying tools and data access under the pretense of \"voter fraud,\" a label it then uses to justify mass actions. Investigating hundreds of groups that get people to vote is a strange use of resources. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Democracy Docket, via 404 Media",
+              "url": "https://www.404media.co/r/fc2a4725?m=f198361c-d0c1-41bf-86df-5431cede6034",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "The AI Economy",
+              "url": "",
+              "bold": true,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Harvard researchers found AI coding assistants boost productivity, but the gains don't reach the bottom line.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " The study looked at coding assistants and agents and concluded that \"productivity gains do not fully pass through to changes in software output or employment.\" For agents specifically, more time goes to reviewing code, and there is more code to review. The machines write faster. Humans still have to read it all. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "404 Media",
+              "url": "https://www.404media.co/r/42b3cb67?m=f198361c-d0c1-41bf-86df-5431cede6034",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "McDonald's is being sued for allegedly using AI to set menu prices.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " The federal lawsuit claims the chain built an \"information-sharing pricing platform\" that draws on millions of daily transactions to set prices across thousands of US restaurants, amounting to \"algorithmic price-fixing aimed at customers who are already stretched thin.\" It started because Michael Thomas, an Illinois man, noticed his usual Quarter Pounder with cheese, fries, and Coke cost different amounts at different locations near his home. McDonald's says the suit is full of inaccuracies. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Associated Press, via 404 Media",
+              "url": "https://www.404media.co/r/31968c16?m=f198361c-d0c1-41bf-86df-5431cede6034",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Someone built a tool that links a sex toy to Claude Code.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " The pitch, per 404 Media: \"feel\" every action \"deeply with your body.\" It is presumably vibe-coded. It is certainly a way to burn through your entire enterprise token budget. The future is here and it is extremely online. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "404 Media",
+              "url": "https://www.404media.co/r/a3f77d8e?m=f198361c-d0c1-41bf-86df-5431cede6034",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "How We Live",
+              "url": "",
+              "bold": true,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "The Duke of Wellington never lost a major battle because he was the better guesser.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " That's the argument in The Daily General today. Wellington rode the ground himself, studied his opponents' habits, hid his forces on reverse slopes, and constantly revised his picture of what the other commander intended. His method had three parts: squeeze everything out of the visible evidence, model the mind across from you, and keep score of your guesses afterward. Most people fail at both ends, the piece argues. They stall until it's too late, or they leap too far on pure instinct. Good guessing isn't a gift. It's bookkeeping. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "The Daily General",
+              "url": "https://thedailygeneral.substack.com/",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "The best nightclub in the world right now might sit in a WWII bunker in Wuppertal.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " DJ Yu Su played Open Ground, a club six meters underground in a converted German bunker, and called it \"possibly the best club experience i've had in 2026.\" What struck her wasn't the music. It was the hospitality: no queue at the door, always room to dance, seating built into the building, minimal lighting, little ledges for your drink everywhere. Nothing makes you compete. Her summary: \"Nothing in that room asks you to brace.\" The piece pairs it with Klymax in Bali, the club DJ Harvey designed with Potato Head, where 2,680,135 holes in wood paneling diffuse the sound and the sprung floor saves your joints. The shared lesson: a club sells a feeling it can never serve directly, and it only arrives after a hundred small decisions about bodies, sound, sightlines, queues, and toilets. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Why Is This Interesting?",
+              "url": "https://whyisthisinteresting.substack.com/",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "At the movies, the despair is the point.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " Sean Fennessey's Projections notes that a wave of new films seems to be channeling the fear, anger, and hopelessness people feel about the government, technology, and a destabilized society. The piece itself sits behind a paywall, but the observation stands on its own as a zeitgeist read. Cinema is holding up a mirror, and the mirror looks tired. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Projections",
+              "url": "https://seanfennessey.substack.com/",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "The Good Stuff",
+              "url": "",
+              "bold": true,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Ruby Thelot wants you to watch two Quebec legends sing to 250,000 people.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " The designer and NYU professor's Perfectly Imperfect recs include Ginette Reno and Celine Dion performing \"Un peu plus haut, un peu plus loin\" at Quebec's 400th anniversary in 2008. He also swears by chalkboards (he keeps two, one in the office and one in the bedroom, and sketches most ideas on them) and by the short films of Zarina Nares, who he calls an absolute genius. Asked for the best Haitian food in NYC, he had answers. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Perfectly Imperfect",
+              "url": "https://www.pi.fyi/p/ruby-thelot",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Meet Jonathan, the 194-year-old tortoise who might know the secret to not dying.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " Scientists have sequenced the genome of the world's oldest living land animal, an Aldabra giant tortoise born before the Civil War. They found unique gene variants in most aging pathways, including DNA repair. The research took years and hit plenty of complications along the way. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "404 Media",
+              "url": "https://www.404media.co/r/1bb104ff?m=f198361c-d0c1-41bf-86df-5431cede6034",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Tonight",
+              "url": "",
+              "bold": true,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "The Drift is throwing a party tonight and you're invited.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " The magazine celebrates the release of Issue Eighteen at 7 p.m. at Tavern 29 on East 29th Street in Manhattan, with readings from contributors including Lora Kelley, Hanson O'Haver, Saliha Bayrak, Seamus Malekafzali, Chidima Anekwe, Henri Lipton, Ismail Ibrahim, Lily Felsenthal, Ben Purkert, Lev Xue, and Rosanna Young Oh. Print subscribers get in free. Everyone else pays $20 for an issue, which doubles as the ticket. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "The Drift",
+              "url": "https://newsletter.thedriftmag.com/",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "The Drift is also co-sponsoring Jewish Currents Live on October 11 in Brooklyn.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " The lineup includes a live Know Your Enemy on neocons and the politics of Jewish reaction, a panel on the Palestinian national movement after the destruction of Gaza, and a session asking whether the left can wield power, with Kai Wright, Hasan Piker, Bhaskar Sunkara, and Keeanga-Yamahtta Taylor. In person and streaming everywhere. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "The Drift",
+              "url": "https://newsletter.thedriftmag.com/",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Quick Hits & Curiosities",
+              "url": "",
+              "bold": true,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "The Black Vault's FOIA wizards finally got the CIA's internal talking points on how the government planned to talk about the Bin Laden raid. They filed the request in 2013. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "404 Media",
+              "url": "https://www.404media.co/r/4e926b55?m=f198361c-d0c1-41bf-86df-5431cede6034",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Miss your Commodore 64? Someone recreated its font from photos of the machine's classic keycaps. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "404 Media",
+              "url": "https://www.404media.co/r/db7b1387?m=f198361c-d0c1-41bf-86df-5431cede6034",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Wellington's third rule of guessing: keep score afterward. \"The general who keeps a ledger improves; the one who doesn't is simply lucky until the luck runs out.\" (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "The Daily General",
+              "url": "https://thedailygeneral.substack.com/",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Open Ground's drifting hallways hit two things humans love in a space: mystery (something around the corner) and legibility (confidence you'll find your way back). (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Why Is This Interesting?",
+              "url": "https://whyisthisinteresting.substack.com/",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        }
+      ],
+      "publishedAt": "2026-10-08T14:31:00Z",
+      "links": [
+        {
+          "title": "404 Media",
+          "url": "https://www.404media.co/r/c33c57e5?m=f198361c-d0c1-41bf-86df-5431cede6034"
+        },
+        {
+          "title": "Democracy Docket, via 404 Media",
+          "url": "https://www.404media.co/r/fc2a4725?m=f198361c-d0c1-41bf-86df-5431cede6034"
+        },
+        {
+          "title": "404 Media",
+          "url": "https://www.404media.co/r/42b3cb67?m=f198361c-d0c1-41bf-86df-5431cede6034"
+        },
+        {
+          "title": "Associated Press, via 404 Media",
+          "url": "https://www.404media.co/r/31968c16?m=f198361c-d0c1-41bf-86df-5431cede6034"
+        },
+        {
+          "title": "404 Media",
+          "url": "https://www.404media.co/r/a3f77d8e?m=f198361c-d0c1-41bf-86df-5431cede6034"
+        },
+        {
+          "title": "The Daily General",
+          "url": "https://thedailygeneral.substack.com/"
+        },
+        {
+          "title": "Why Is This Interesting?",
+          "url": "https://whyisthisinteresting.substack.com/"
+        },
+        {
+          "title": "Projections",
+          "url": "https://seanfennessey.substack.com/"
+        },
+        {
+          "title": "Perfectly Imperfect",
+          "url": "https://www.pi.fyi/p/ruby-thelot"
+        },
+        {
+          "title": "404 Media",
+          "url": "https://www.404media.co/r/1bb104ff?m=f198361c-d0c1-41bf-86df-5431cede6034"
+        },
+        {
+          "title": "The Drift",
+          "url": "https://newsletter.thedriftmag.com/"
+        },
+        {
+          "title": "404 Media",
+          "url": "https://www.404media.co/r/4e926b55?m=f198361c-d0c1-41bf-86df-5431cede6034"
+        },
+        {
+          "title": "404 Media",
+          "url": "https://www.404media.co/r/db7b1387?m=f198361c-d0c1-41bf-86df-5431cede6034"
+        }
+      ],
+      "versions": {
+        "morning": {
+          "body": "Thursday, October 8, 2026 — Morning Edition\n\nToday's Numbers\n\n• $194 million: the amount a former CIA officer admitted to stealing, including 298 gold bars worth about $46 million\n\n• $1.3 million: what a $30 estate sale painting just sold for at auction\n\n• 70 million: Trump Accounts auto-enrolled for kids since July; only about 8 million have been claimed\n\n• 17%: Americans who approve of Trump's handling of the cost of living, per AP-NORC\n\n• 41 of 62: Republican candidates in competitive races who have broken with Trump or downplayed the connection, per Reuters\n\n• $105: oil topped this level on fresh Middle East fears\n\n• 19.6% vs 6.7%: Google's unreleased Gemini Argon 4 vs Claude Fable on a legal skills benchmark\n\n• 15%: Argon 4's hallucination rate, vs 45% for GPT-6 Astra and 59% for Opus 5.5\n\n• $600: what an 18-year-old allegedly paid an undercover FBI agent for an AK-47 in a Mall of America terror plot\n\n• 350,000: Palestinians relying on one man's Telegram channel to navigate West Bank checkpoints\n\n• $250: what Michael and Susan Dell pledged per child to 25 million kids' Trump Accounts\n\n• 45 days: the expected length of ICE's reported \"Operation Safe California\" surge\n\n• 26 years: how much older autocrats are than their median citizen, up from 19 in 1960\n\n• 21% and 20%: the Rams' and Bills' odds to reach the Super Bowl\n\nQuotes of the Day\n\n• \"It's not that the Chinese have not replicated TSMC. They have not replicated ASML. That's the limiting factor.\" — Elon Musk, on the true chokepoint in chips\n\n• \"If you're not worried, you're living in a cave.\" — Sen. Jim Justice, on the GOP's midterm mood\n\n• \"In a few decades, as biotechnology continues to develop, human organs will continue to be transplanted and people will become younger and perhaps even achieve immortality.\" — Vladimir Putin, caught on a hot mic with Xi Jinping\n\n• \"Public shareholders are going to benefit from the rise in this stock.\" — Blue Owl co-CEO Marc Lipschultz, after shares fell 70%\n\n• \"All we really are determining is: are Microsoft and Amazon going to pay their bills?\" — Lipschultz, brushing off AI bubble fears\n\n• \"They have life; they've seen the world.\" — Matthieu Blazy, on why his couture show was half models over 40\n\nAI & The Machines\n\nGoogle's Gemini Argon 4 is crushing benchmarks and you can't use it yet. DeepMind gave it to select testers last week and the numbers turned heads. It scored 19.6% on Harvey's Legal Agent Benchmark vs 6.7% for Claude Fable. It beat its nearest rival by nearly 10 points on Zapier's AutomationBench, which tests everyday business tasks like CRM, bookkeeping, and onboarding. Its hallucination rate came in at 15%, far below GPT-6 Astra (45%) and Opus 5.5 (59%). On LMArena it is now neck and neck with Claude, which has dominated the rankings all year. The bigger point: Google is building AI for its millions of business users, not for coders, and it might be working. (TechCrunch, Google's blog)\n\nChatGPT is getting a visual makeover. OpenAI is rolling out an \"Intelligent UI\" for all users that generates interactive elements inside chatbot answers. More show, less tell. (WIRED)\n\nThree engineers put GPT, Claude, and Grok in charge of a real Toyota Corolla. The mission: drive to In-N-Out. Only one of them made it. (WIRED)\n\nA startup wants to make water from air using data centers' waste heat. Atoco's new machines use specialized materials to harvest water from some of the driest air on Earth, with no electricity needed. (WIRED)\n\nThe big hacks won't come from AI labs. They'll come from criminals with a few hundred thousand dollars in GPUs. Meta's former security chief Alex Stamos sketched the scenario: America's 4,000-plus community banks \"do not run their own software security team.\" Drop-ship the GPUs through an Emirati address to Russia, where cooling is easy (\"you open up the window, right?\"), and go. JPMorgan might survive an AI agent swarm. Your local bank won't. (Semafor)\n\nMoney & Power\n\nBlue Owl's co-CEOs say the market has them all wrong. After redemptions fed a backlash against private credit and the stock fell 70%, Marc Lipschultz and Doug Ostrover made a rare joint appearance on Semafor's Compound Interest podcast. They dismissed the idea of a management buyout (\"we went public for a reason and that reason stands\") and promised \"fantastic results\" over the next 18 months. (Semafor)\n\nThe global bond selloff is structural, not just about France. Borrowing costs are rising for governments everywhere, even ones with slim deficits. Mark Burgess, who chairs the investment committee of an Australian retirement giant, called it \"a very structural break inside the most important market in the world.\" The AI twist: hyperscalers are financing decades-long buildouts to match, with Meta selling 30- and 40-year bonds and Google issuing a rare century bond. \"The long end of the yield curve is a dangerous place right now.\" (Semafor)\n\nASML went from expecting flat growth to chasing a backlog out to 2028, \"maybe beyond.\" CEO Christophe Fouquet told the Hello Tomorrow summit that six months ago the chip equipment giant saw a flat 2026 and 2027. Now AI demand has flipped the picture. Given ASML's place in the supply chain, that's about as strong a demand signal as exists. (Fireside Alpha)\n\nThe friendly activist wants Mattel to sell itself. Ariel Investments' John Rogers, a longtime consigliere to CEOs from Obama to Howard Schultz, wrote an activist-tinged letter urging Mattel to find a buyer. With another activist in the mix, holders of more than 9% of shares are pushing for a sale. Authentic Brands, owner of Reebok and Nine West, has expressed interest. (Semafor)\n\nThe Trump administration is investigating Wells Fargo for trying to increase Black homeownership. The efforts date to 2022 and came in response to Biden-era pressure on big lenders. The letter to CEO Charlie Scharf is a warning about how today's corporate positioning gets punished when the political pendulum swings. Democrats could take a chamber next month and run the same play in reverse. (Semafor)\n\nA $30 estate sale painting just sold for $1.3 million. A Michigan treasure hunter bought a painting of shells at a local physician's estate sale. It turned out to be Gertrude Abercrombie's 1951 \"Alderman Merriam's Shells,\" which the artist had traded to the doctor in exchange for medical services. (Numlock)\n\nThe Midterms & Washington\n\nNate Silver took AOC first in his 2028 Democratic primary draft. On Still Counting EP5, Silver argued the left's fortunes are rising and 2028 matters because it is the first open nomination in both parties since 2012 without Trump on the ballot. Each party gets a rare chance to redefine itself. (Silver Bulletin)\n\nRepublicans are approaching November like passengers who just saw the captain put on a parachute. AP-NORC found just 17% of Americans approve of Trump's handling of the cost of living. A Reuters review of 62 competitive congressional races found 41 GOP candidates, roughly two-thirds, have broken with Trump on issues or deemphasized their ties. Trump told voters to treat the midterms like he's on the ballot. The candidates are acting like he isn't. (Counterpoint)\n\nWIRED's midterms to watch: data centers, Musk money, and the AI lobby. The 2026 midterms are \"the most WIRED elections yet.\" Also in the issue: an interactive where you get to spend Elon Musk's money yourself. (WIRED)\n\nEvery kid in America now has a Trump Account. Almost nobody has claimed theirs. At a White House event, Trump marked the auto-enrollment of all 70 million kids under 18 with Social Security numbers. The Dells pledged $250 each to 25 million children. But a parent still has to claim the account to get the one-time $1,000 federal deposit, and only about 8 million, roughly 10%, have been claimed. The money stays locked until 18, then can be used for a home or college. (Morning Briefing)\n\nICE is reportedly running a secret 45-day surge across California. \"Operation Safe California\" began near San Diego and is expected to push through Los Angeles to San Francisco by November. Officers were told to arrest every unauthorized immigrant they encounter, not just those with records. One source texted \"management want numbers.\" Officers are on mandatory six-day weeks with time off canceled. DHS won't confirm or deny. (Morning Briefing)\n\nLaw & Disorder\n\nA former CIA officer admitted to stealing nearly $194 million. David J. Rush, 49, a senior executive with top-secret clearance, fabricated classified programs to divert the money. The FBI recovered 298 gold bars (about $46 million), $2 million in cash, and more than 30 luxury watches, plus Florida mansions bought with $145 million in wire transfers. He also admitted leaking details of a US clandestine source to a foreign official. He had lied about his education and military record to join the agency in 2009. He faces up to 20 years. (Morning Briefing)\n\nThe FBI says it stopped an ISIS-inspired shooting plot at the Mall of America. Sheikhdoon Abdullahi Mohamud, 18, allegedly paid $600 to an undercover agent for an AK-47-style rifle (inoperable) and four magazines with live ammo. Prosecutors say he pledged allegiance to ISIS on video and named October 24, when a Hmong arts celebration would draw \"a lot of people.\" The case started in late 2024 when he talked about joining al Shabaab in Somalia, then allegedly decided he couldn't afford the trip, \"so i will do attack here.\" (Morning Briefing)\n\nA Nigerian national found exposed near a Pennsylvania park said he was handing out flyers for a Democrat. Chimaobim Adedayo Igbojekwe told police he was waiting to canvass for congressional candidate Janelle Stelson, who is running against Rep. Scott Perry. He pleaded guilty to disorderly conduct and ICE took him into custody October 1. He had overstayed his visa since November 2019. Her campaign says it never heard of him, though materials in his car linked him to canvassing. (Morning Briefing)\n\nThe Culture\n\nFashion loves a wrinkle. Laurel Pantin came back from Paris Fashion Week obsessed with imperfection: wrinkles pressed into the clothes at Celine, charmingly undone styling at Polo, and runways where a quarter of the models were 40 or older. Her read is that it's bigger than a trend. It's a backlash against AI polish, a new premium on \"evidence of the hand.\" The polish is awful, she writes, and it's subconsciously making everyone want something tactile and a little messed up. (Earl Earl)\n\nWhat if dictators never died? Jerusalem Demsas went into the longevity science and came out surprised: autopsies of 40 centenarians found every single death attributable to disease, which means curing disease could theoretically keep bodies going for centuries. Then the hot mic: Xi musing that \"you are still a child at 70,\" Putin dreaming of endless organ transplants and immortality. Autocrats already skew 26 years older than their citizens, up from 19 in 1960, because they never leave. Imagine if they never had to. (The Argument)\n\nMen are more loyal to their barbers than their romantic partners. The stat comes from a dumb survey, but InsideHook's editor says the core truth holds. He's had two barbers in his life; the current one has cut his hair every six weeks for eight years. In an era of faceless transactions, the barber chair might be one of the last \"old world\" male relationships, and men losing friends as they age are clinging to it. (InsideHook)\n\nYour balance peaks at 30. Eyes closed, 28. A Japanese study found that's when it starts slipping, earlier than you'd think. The good news: it's trainable, and a new fitness toy might help. (InsideHook)\n\nThe University of Arizona just paused nearly all frat activity. Almost half the school's fraternities are facing unspecified misconduct allegations. The Dean of Students called the number and severity of cases \"egregious.\" (Pirate Wires)\n\nNYC Mayor Mamdani spent the October 7 anniversary talking about Gaza. On the third anniversary of the Hamas attacks, Mamdani condemned \"the Israeli government's devastating, ongoing genocide in Gaza\" and US funding of it, with a brief nod to the actual victims. Pirate Wires' response: bro just fix the schools. (Pirate Wires)\n\nThe rationalists are fighting about dueling. Scott Alexander admitted his debate challenge to Steven Pinker wasn't about truth-seeking. He wanted to battle him publicly, \"as duels were no longer legal,\" because Pinker had insulted him by disagreeing. Pirate Wires wonders: if you truly believed the world was ending, would you spend this much energy on your ego? Maybe \"the world is ending\" just became an identity. (Pirate Wires)\n\nQuick Hits & Curiosities\n\n• Chip City Cookies is closing all locations, including Hoboken and Montclair. (Hoboken Girl)\n\n• Timex just redesigned the Ironman. The Retroware Digital keeps the alarm and chronograph, goes full retro-future, and sizes up to 46mm. (Cool Supply)\n\n• The new James Bond game is actually worth finishing. \"First Light\" nails the gadgets, the sneaking, and the sarcastic backtalk, with stealth plus the occasional full Rambo moment. (Cool Supply)\n\n• The Supreme Court declined the Post-it note inventor's case. Alan Amron says he came up with the sticky note in 1973 and 3M stole it. Three decades of lawsuits end here. (Semafor)\n\n• Tristan Harris's Center for Humane Technology is laying off most staff and going \"founder-led\" after years of internal tension over direction. (WIRED)\n\n• The Social Reckoning, Sorkin's Facebook sequel, \"attempts to shame a ruling class that has proved itself shameless.\" (WIRED)\n\n• A Tennessee woman survived two lethal injections, per Eddie Huang's podcast. Somehow that sentence needed no embellishment. (Canal Street Dreams)\n\n• Prediction markets give Jay-Z a 47% chance of playing the Super Bowl halftime show. (Sherwood)\n\n• Inside Warren Buffett's YouTube rabbit hole: Glenn Close clips, 1950s commercials, and Uzbekistan's version of America's Got Talent. The algorithm gets us all. (Sherwood)\n\n• Plum Sykes ranked coffee table books. Most are brand catalogues with no point of view. The exception worth buying before it sells out: Simon Upton's \"A-Z Interiors.\" (Plum Sykes)\n\n• This weekend in Hoboken and Jersey City: 100+ events including RENT the musical, a women's wellness fair, autumn yoga in the park, and an artisan market with adoptable dogs. (Hoboken Girl)",
+          "blocks": [
+            {
+              "type": "heading_1",
+              "runs": [
+                {
+                  "text": "Thursday, October 8, 2026 — Morning Edition",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Today's Numbers",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "$194 million",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": the amount a former CIA officer admitted to stealing, including 298 gold bars worth about $46 million",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "$1.3 million",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": what a $30 estate sale painting just sold for at auction",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "70 million",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": Trump Accounts auto-enrolled for kids since July; only about 8 million have been claimed",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "17%",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": Americans who approve of Trump's handling of the cost of living, per AP-NORC",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "41 of 62",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": Republican candidates in competitive races who have broken with Trump or downplayed the connection, per Reuters",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "$105",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": oil topped this level on fresh Middle East fears",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "19.6% vs 6.7%",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": Google's unreleased Gemini Argon 4 vs Claude Fable on a legal skills benchmark",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "15%",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": Argon 4's hallucination rate, vs 45% for GPT-6 Astra and 59% for Opus 5.5",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "$600",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": what an 18-year-old allegedly paid an undercover FBI agent for an AK-47 in a Mall of America terror plot",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "350,000",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": Palestinians relying on one man's Telegram channel to navigate West Bank checkpoints",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "$250",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": what Michael and Susan Dell pledged per child to 25 million kids' Trump Accounts",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "45 days",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": the expected length of ICE's reported \"Operation Safe California\" surge",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "26 years",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": how much older autocrats are than their median citizen, up from 19 in 1960",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "21% and 20%",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": the Rams' and Bills' odds to reach the Super Bowl",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Quotes of the Day",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "\"It's not that the Chinese have not replicated TSMC. They have not replicated ASML. That's the limiting factor.\" — Elon Musk, on the true chokepoint in chips",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "\"If you're not worried, you're living in a cave.\" — Sen. Jim Justice, on the GOP's midterm mood",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "\"In a few decades, as biotechnology continues to develop, human organs will continue to be transplanted and people will become younger and perhaps even achieve immortality.\" — Vladimir Putin, caught on a hot mic with Xi Jinping",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "\"Public shareholders are going to benefit from the rise in this stock.\" — Blue Owl co-CEO Marc Lipschultz, after shares fell 70%",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "\"All we really are determining is: are Microsoft and Amazon going to pay their bills?\" — Lipschultz, brushing off AI bubble fears",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "\"They have life; they've seen the world.\" — Matthieu Blazy, on why his couture show was half models over 40",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "AI & The Machines",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Google's Gemini Argon 4 is crushing benchmarks and you can't use it yet.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " DeepMind gave it to select testers last week and the numbers turned heads. It scored 19.6% on Harvey's Legal Agent Benchmark vs 6.7% for Claude Fable. It beat its nearest rival by nearly 10 points on Zapier's AutomationBench, which tests everyday business tasks like CRM, bookkeeping, and onboarding. Its hallucination rate came in at 15%, far below GPT-6 Astra (45%) and Opus 5.5 (59%). On LMArena it is now neck and neck with Claude, which has dominated the rankings all year. The bigger point: Google is building AI for its millions of business users, not for coders, and it might be working. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "TechCrunch",
+                  "url": "https://techcrunch.com/2026/09/30/google-releases-gemini-4-argon-called-its-most-powerful-model-yet/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ", ",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Google's blog",
+                  "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "ChatGPT is getting a visual makeover.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " OpenAI is rolling out an \"Intelligent UI\" for all users that generates interactive elements inside chatbot answers. More show, less tell. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "WIRED",
+                  "url": "https://www.wired.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Three engineers put GPT, Claude, and Grok in charge of a real Toyota Corolla.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " The mission: drive to In-N-Out. Only one of them made it. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "WIRED",
+                  "url": "https://www.wired.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "A startup wants to make water from air using data centers' waste heat.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " Atoco's new machines use specialized materials to harvest water from some of the driest air on Earth, with no electricity needed. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "WIRED",
+                  "url": "https://www.wired.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "The big hacks won't come from AI labs. They'll come from criminals with a few hundred thousand dollars in GPUs.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " Meta's former security chief Alex Stamos sketched the scenario: America's 4,000-plus community banks \"do not run their own software security team.\" Drop-ship the GPUs through an Emirati address to Russia, where cooling is easy (\"you open up the window, right?\"), and go. JPMorgan might survive an AI agent swarm. Your local bank won't. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Semafor",
+                  "url": "https://www.semafor.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Money & Power",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Blue Owl's co-CEOs say the market has them all wrong.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " After redemptions fed a backlash against private credit and the stock fell 70%, Marc Lipschultz and Doug Ostrover made a rare joint appearance on Semafor's Compound Interest podcast. They dismissed the idea of a management buyout (\"we went public for a reason and that reason stands\") and promised \"fantastic results\" over the next 18 months. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Semafor",
+                  "url": "https://www.semafor.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "The global bond selloff is structural, not just about France.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " Borrowing costs are rising for governments everywhere, even ones with slim deficits. Mark Burgess, who chairs the investment committee of an Australian retirement giant, called it \"a very structural break inside the most important market in the world.\" The AI twist: hyperscalers are financing decades-long buildouts to match, with Meta selling 30- and 40-year bonds and Google issuing a rare century bond. \"The long end of the yield curve is a dangerous place right now.\" (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Semafor",
+                  "url": "https://www.semafor.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "ASML went from expecting flat growth to chasing a backlog out to 2028, \"maybe beyond.\"",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " CEO Christophe Fouquet told the Hello Tomorrow summit that six months ago the chip equipment giant saw a flat 2026 and 2027. Now AI demand has flipped the picture. Given ASML's place in the supply chain, that's about as strong a demand signal as exists. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Fireside Alpha",
+                  "url": "https://firesidealpha.substack.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "The friendly activist wants Mattel to sell itself.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " Ariel Investments' John Rogers, a longtime consigliere to CEOs from Obama to Howard Schultz, wrote an activist-tinged letter urging Mattel to find a buyer. With another activist in the mix, holders of more than 9% of shares are pushing for a sale. Authentic Brands, owner of Reebok and Nine West, has expressed interest. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Semafor",
+                  "url": "https://www.semafor.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "The Trump administration is investigating Wells Fargo for trying to increase Black homeownership.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " The efforts date to 2022 and came in response to Biden-era pressure on big lenders. The letter to CEO Charlie Scharf is a warning about how today's corporate positioning gets punished when the political pendulum swings. Democrats could take a chamber next month and run the same play in reverse. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Semafor",
+                  "url": "https://www.semafor.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "A $30 estate sale painting just sold for $1.3 million.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " A Michigan treasure hunter bought a painting of shells at a local physician's estate sale. It turned out to be Gertrude Abercrombie's 1951 \"Alderman Merriam's Shells,\" which the artist had traded to the doctor in exchange for medical services. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Numlock",
+                  "url": "https://www.numlock.news/p/numlock-news-october-5-2026-paariaa",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "The Midterms & Washington",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Nate Silver took AOC first in his 2028 Democratic primary draft.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " On Still Counting EP5, Silver argued the left's fortunes are rising and 2028 matters because it is the first open nomination in both parties since 2012 without Trump on the ballot. Each party gets a rare chance to redefine itself. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Silver Bulletin",
+                  "url": "https://silverbulletin.substack.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Republicans are approaching November like passengers who just saw the captain put on a parachute.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " AP-NORC found just 17% of Americans approve of Trump's handling of the cost of living. A Reuters review of 62 competitive congressional races found 41 GOP candidates, roughly two-thirds, have broken with Trump on issues or deemphasized their ties. Trump told voters to treat the midterms like he's on the ballot. The candidates are acting like he isn't. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Counterpoint",
+                  "url": "https://counterpoint.substack.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "WIRED's midterms to watch: data centers, Musk money, and the AI lobby.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " The 2026 midterms are \"the most WIRED elections yet.\" Also in the issue: an interactive where you get to spend Elon Musk's money yourself. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "WIRED",
+                  "url": "https://www.wired.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Every kid in America now has a Trump Account. Almost nobody has claimed theirs.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " At a White House event, Trump marked the auto-enrollment of all 70 million kids under 18 with Social Security numbers. The Dells pledged $250 each to 25 million children. But a parent still has to claim the account to get the one-time $1,000 federal deposit, and only about 8 million, roughly 10%, have been claimed. The money stays locked until 18, then can be used for a home or college. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Morning Briefing",
+                  "url": "https://substack.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "ICE is reportedly running a secret 45-day surge across California.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " \"Operation Safe California\" began near San Diego and is expected to push through Los Angeles to San Francisco by November. Officers were told to arrest every unauthorized immigrant they encounter, not just those with records. One source texted \"management want numbers.\" Officers are on mandatory six-day weeks with time off canceled. DHS won't confirm or deny. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Morning Briefing",
+                  "url": "https://substack.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Law & Disorder",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "A former CIA officer admitted to stealing nearly $194 million.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " David J. Rush, 49, a senior executive with top-secret clearance, fabricated classified programs to divert the money. The FBI recovered 298 gold bars (about $46 million), $2 million in cash, and more than 30 luxury watches, plus Florida mansions bought with $145 million in wire transfers. He also admitted leaking details of a US clandestine source to a foreign official. He had lied about his education and military record to join the agency in 2009. He faces up to 20 years. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Morning Briefing",
+                  "url": "https://substack.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "The FBI says it stopped an ISIS-inspired shooting plot at the Mall of America.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " Sheikhdoon Abdullahi Mohamud, 18, allegedly paid $600 to an undercover agent for an AK-47-style rifle (inoperable) and four magazines with live ammo. Prosecutors say he pledged allegiance to ISIS on video and named October 24, when a Hmong arts celebration would draw \"a lot of people.\" The case started in late 2024 when he talked about joining al Shabaab in Somalia, then allegedly decided he couldn't afford the trip, \"so i will do attack here.\" (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Morning Briefing",
+                  "url": "https://substack.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "A Nigerian national found exposed near a Pennsylvania park said he was handing out flyers for a Democrat.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " Chimaobim Adedayo Igbojekwe told police he was waiting to canvass for congressional candidate Janelle Stelson, who is running against Rep. Scott Perry. He pleaded guilty to disorderly conduct and ICE took him into custody October 1. He had overstayed his visa since November 2019. Her campaign says it never heard of him, though materials in his car linked him to canvassing. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Morning Briefing",
+                  "url": "https://substack.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "The Culture",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Fashion loves a wrinkle.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " Laurel Pantin came back from Paris Fashion Week obsessed with imperfection: wrinkles pressed into the clothes at Celine, charmingly undone styling at Polo, and runways where a quarter of the models were 40 or older. Her read is that it's bigger than a trend. It's a backlash against AI polish, a new premium on \"evidence of the hand.\" The polish is awful, she writes, and it's subconsciously making everyone want something tactile and a little messed up. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Earl Earl",
+                  "url": "https://laurelpantin.substack.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "What if dictators never died?",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " Jerusalem Demsas went into the longevity science and came out surprised: autopsies of 40 centenarians found every single death attributable to disease, which means curing disease could theoretically keep bodies going for centuries. Then the hot mic: Xi musing that \"you are still a child at 70,\" Putin dreaming of endless organ transplants and immortality. Autocrats already skew 26 years older than their citizens, up from 19 in 1960, because they never leave. Imagine if they never had to. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "The Argument",
+                  "url": "https://substack.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Men are more loyal to their barbers than their romantic partners.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " The stat comes from a dumb survey, but InsideHook's editor says the core truth holds. He's had two barbers in his life; the current one has cut his hair every six weeks for eight years. In an era of faceless transactions, the barber chair might be one of the last \"old world\" male relationships, and men losing friends as they age are clinging to it. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "InsideHook",
+                  "url": "https://www.insidehook.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Your balance peaks at 30. Eyes closed, 28.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " A Japanese study found that's when it starts slipping, earlier than you'd think. The good news: it's trainable, and a new fitness toy might help. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "InsideHook",
+                  "url": "https://www.insidehook.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "The University of Arizona just paused nearly all frat activity.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " Almost half the school's fraternities are facing unspecified misconduct allegations. The Dean of Students called the number and severity of cases \"egregious.\" (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Pirate Wires",
+                  "url": "https://piratewires.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "NYC Mayor Mamdani spent the October 7 anniversary talking about Gaza.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " On the third anniversary of the Hamas attacks, Mamdani condemned \"the Israeli government's devastating, ongoing genocide in Gaza\" and US funding of it, with a brief nod to the actual victims. Pirate Wires' response: bro just fix the schools. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Pirate Wires",
+                  "url": "https://piratewires.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "The rationalists are fighting about dueling.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " Scott Alexander admitted his debate challenge to Steven Pinker wasn't about truth-seeking. He wanted to battle him publicly, \"as duels were no longer legal,\" because Pinker had insulted him by disagreeing. Pirate Wires wonders: if you truly believed the world was ending, would you spend this much energy on your ego? Maybe \"the world is ending\" just became an identity. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Pirate Wires",
+                  "url": "https://piratewires.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Quick Hits & Curiosities",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Chip City Cookies is closing all locations",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ", including Hoboken and Montclair. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Hoboken Girl",
+                  "url": "https://www.hobokengirl.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Timex just redesigned the Ironman.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " The Retroware Digital keeps the alarm and chronograph, goes full retro-future, and sizes up to 46mm. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Cool Supply",
+                  "url": "https://www.cool-supply.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "The new James Bond game is actually worth finishing.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " \"First Light\" nails the gadgets, the sneaking, and the sarcastic backtalk, with stealth plus the occasional full Rambo moment. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Cool Supply",
+                  "url": "https://www.cool-supply.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "The Supreme Court declined the Post-it note inventor's case.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " Alan Amron says he came up with the sticky note in 1973 and 3M stole it. Three decades of lawsuits end here. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Semafor",
+                  "url": "https://www.semafor.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Tristan Harris's Center for Humane Technology is laying off most staff",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " and going \"founder-led\" after years of internal tension over direction. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "WIRED",
+                  "url": "https://www.wired.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "The Social Reckoning, Sorkin's Facebook sequel, \"attempts to shame a ruling class that has proved itself shameless.\"",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "WIRED",
+                  "url": "https://www.wired.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "A Tennessee woman survived two lethal injections",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ", per Eddie Huang's podcast. Somehow that sentence needed no embellishment. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Canal Street Dreams",
+                  "url": "https://basedfob.substack.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Prediction markets give Jay-Z a 47% chance",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " of playing the Super Bowl halftime show. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Sherwood",
+                  "url": "https://sherwood.news/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Inside Warren Buffett's YouTube rabbit hole:",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " Glenn Close clips, 1950s commercials, and Uzbekistan's version of America's Got Talent. The algorithm gets us all. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Sherwood",
+                  "url": "https://sherwood.news/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Plum Sykes ranked coffee table books.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " Most are brand catalogues with no point of view. The exception worth buying before it sells out: Simon Upton's \"A-Z Interiors.\" (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Plum Sykes",
+                  "url": "https://plumsykes.substack.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "This weekend in Hoboken and Jersey City:",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " 100+ events including RENT the musical, a women's wellness fair, autumn yoga in the park, and an artisan market with adoptable dogs. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Hoboken Girl",
+                  "url": "https://www.hobokengirl.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            }
+          ],
+          "links": [
+            {
+              "title": "TechCrunch",
+              "url": "https://techcrunch.com/2026/09/30/google-releases-gemini-4-argon-called-its-most-powerful-model-yet/"
+            },
+            {
+              "title": "Google's blog",
+              "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/"
+            },
+            {
+              "title": "WIRED",
+              "url": "https://www.wired.com/"
+            },
+            {
+              "title": "Semafor",
+              "url": "https://www.semafor.com/"
+            },
+            {
+              "title": "Fireside Alpha",
+              "url": "https://firesidealpha.substack.com/"
+            },
+            {
+              "title": "Numlock",
+              "url": "https://www.numlock.news/p/numlock-news-october-5-2026-paariaa"
+            },
+            {
+              "title": "Silver Bulletin",
+              "url": "https://silverbulletin.substack.com/"
+            },
+            {
+              "title": "Counterpoint",
+              "url": "https://counterpoint.substack.com/"
+            },
+            {
+              "title": "The Argument",
+              "url": "https://substack.com/"
+            },
+            {
+              "title": "Earl Earl",
+              "url": "https://laurelpantin.substack.com/"
+            },
+            {
+              "title": "InsideHook",
+              "url": "https://www.insidehook.com/"
+            },
+            {
+              "title": "Pirate Wires",
+              "url": "https://piratewires.com/"
+            },
+            {
+              "title": "Hoboken Girl",
+              "url": "https://www.hobokengirl.com/"
+            },
+            {
+              "title": "Cool Supply",
+              "url": "https://www.cool-supply.com/"
+            },
+            {
+              "title": "Canal Street Dreams",
+              "url": "https://basedfob.substack.com/"
+            },
+            {
+              "title": "Sherwood",
+              "url": "https://sherwood.news/"
+            },
+            {
+              "title": "Plum Sykes",
+              "url": "https://plumsykes.substack.com/"
+            }
+          ]
+        },
+        "midday": {
+          "body": "Thursday, October 8, 2026: Midday Edition\n\nToday's Numbers\n\n• 194: the age of Jonathan, the world's oldest living land animal. Scientists just sequenced the genome of the 194-year-old tortoise and found unique gene variants in most aging pathways, including DNA repair. Sorry, longevity influencers: you probably can't copy him.\n\n• 91: pounds of meth in Melissa Kyle's car. A federal judge ruled the Flock license plate search that led to the bust was an unconstitutional warrantless search, so all of it gets thrown out. Now 404 Media has the bodycam footage.\n\n• 250,000: the crowd that watched Ginette Reno and Celine Dion sing \"Un peu plus haut, un peu plus loin\" for Quebec's 400th anniversary in 2008. Designer Ruby Thelot's pick of the day.\n\n• 60: the battles the Duke of Wellington fought across India, Iberia, and Waterloo without losing a major one. His secret, per The Daily General: he was the better guesser.\n\n• 6: meters underground, where Open Ground nightclub sits in a converted WWII bunker in Wuppertal, Germany. DJ Yu Su called it possibly the best club night of her 2026.\n\n• 2,680,135: holes drilled into wood paneling at Klymax, the Bali club DJ Harvey built with Potato Head. The perforations diffuse sound across the dancefloor.\n\n• 500: the sweet spot crowd at Klymax. Big enough for the room to lose itself together, small enough that the DJ doesn't have to play the easy hits.\n\n• 100: decibels, the level Open Ground's main room rarely crossed. Quieter than almost any club Yu Su has played, yet full of textural detail.\n\n• 2013: the year the Black Vault filed the FOIA request that just surfaced the CIA's internal talking points on the Bin Laden raid. A decade-plus wait for paperwork.\n\nQuotes of the Day\n\n• \"All the business of war, and indeed all the business of life, is to endeavour to find out what you don't know by what you do; that's what I called guessing what was at the other side of the hill.\" (Duke of Wellington, via The Daily General)\n\n• \"Nothing in that room asks you to brace.\" (DJ Yu Su, on Open Ground nightclub, via Why Is This Interesting?)\n\n• \"Feed art in one end, and happy people come out the other.\" (DJ Harvey, on his Bali club Klymax, via Why Is This Interesting?)\n\n• \"A club sells a feeling it can never serve directly.\" (Colin Nagy, Why Is This Interesting?)\n\nSurveillance & Power\n\n404 Media got the bodycam footage from the Flock search a judge ruled unconstitutional. Last week a federal judge said the license plate reader search of Melissa Kyle was \"indiscriminate mass surveillance\" and tossed the evidence, including 91 pounds of meth. Now you can watch the stop yourself. The footage shows a Tulsa County deputy driving 60 mph with one hand on the wheel and the other on his laptop, running Flock before he'd even finished pulling her over. Reading about a ruling is one thing. Seeing the search is another. (404 Media)\n\nICE has been investigating hundreds of nonprofits that help people register to vote. Democracy Docket reports the agency dug into voter-registration groups looking for noncitizen voting, which investigators almost never actually find. The read from 404 Media: ICE is buying tools and data access under the pretense of \"voter fraud,\" a label it then uses to justify mass actions. Investigating hundreds of groups that get people to vote is a strange use of resources. (Democracy Docket, via 404 Media)\n\nThe AI Economy\n\nHarvard researchers found AI coding assistants boost productivity, but the gains don't reach the bottom line. The study looked at coding assistants and agents and concluded that \"productivity gains do not fully pass through to changes in software output or employment.\" For agents specifically, more time goes to reviewing code, and there is more code to review. The machines write faster. Humans still have to read it all. (404 Media)\n\nMcDonald's is being sued for allegedly using AI to set menu prices. The federal lawsuit claims the chain built an \"information-sharing pricing platform\" that draws on millions of daily transactions to set prices across thousands of US restaurants, amounting to \"algorithmic price-fixing aimed at customers who are already stretched thin.\" It started because Michael Thomas, an Illinois man, noticed his usual Quarter Pounder with cheese, fries, and Coke cost different amounts at different locations near his home. McDonald's says the suit is full of inaccuracies. (Associated Press, via 404 Media)\n\nSomeone built a tool that links a sex toy to Claude Code. The pitch, per 404 Media: \"feel\" every action \"deeply with your body.\" It is presumably vibe-coded. It is certainly a way to burn through your entire enterprise token budget. The future is here and it is extremely online. (404 Media)\n\nHow We Live\n\nThe Duke of Wellington never lost a major battle because he was the better guesser. That's the argument in The Daily General today. Wellington rode the ground himself, studied his opponents' habits, hid his forces on reverse slopes, and constantly revised his picture of what the other commander intended. His method had three parts: squeeze everything out of the visible evidence, model the mind across from you, and keep score of your guesses afterward. Most people fail at both ends, the piece argues. They stall until it's too late, or they leap too far on pure instinct. Good guessing isn't a gift. It's bookkeeping. (The Daily General)\n\nThe best nightclub in the world right now might sit in a WWII bunker in Wuppertal. DJ Yu Su played Open Ground, a club six meters underground in a converted German bunker, and called it \"possibly the best club experience i've had in 2026.\" What struck her wasn't the music. It was the hospitality: no queue at the door, always room to dance, seating built into the building, minimal lighting, little ledges for your drink everywhere. Nothing makes you compete. Her summary: \"Nothing in that room asks you to brace.\" The piece pairs it with Klymax in Bali, the club DJ Harvey designed with Potato Head, where 2,680,135 holes in wood paneling diffuse the sound and the sprung floor saves your joints. The shared lesson: a club sells a feeling it can never serve directly, and it only arrives after a hundred small decisions about bodies, sound, sightlines, queues, and toilets. (Why Is This Interesting?)\n\nAt the movies, the despair is the point. Sean Fennessey's Projections notes that a wave of new films seems to be channeling the fear, anger, and hopelessness people feel about the government, technology, and a destabilized society. The piece itself sits behind a paywall, but the observation stands on its own as a zeitgeist read. Cinema is holding up a mirror, and the mirror looks tired. (Projections)\n\nThe Good Stuff\n\nRuby Thelot wants you to watch two Quebec legends sing to 250,000 people. The designer and NYU professor's Perfectly Imperfect recs include Ginette Reno and Celine Dion performing \"Un peu plus haut, un peu plus loin\" at Quebec's 400th anniversary in 2008. He also swears by chalkboards (he keeps two, one in the office and one in the bedroom, and sketches most ideas on them) and by the short films of Zarina Nares, who he calls an absolute genius. Asked for the best Haitian food in NYC, he had answers. (Perfectly Imperfect)\n\nMeet Jonathan, the 194-year-old tortoise who might know the secret to not dying. Scientists have sequenced the genome of the world's oldest living land animal, an Aldabra giant tortoise born before the Civil War. They found unique gene variants in most aging pathways, including DNA repair. The research took years and hit plenty of complications along the way. (404 Media)\n\nTonight\n\nThe Drift is throwing a party tonight and you're invited. The magazine celebrates the release of Issue Eighteen at 7 p.m. at Tavern 29 on East 29th Street in Manhattan, with readings from contributors including Lora Kelley, Hanson O'Haver, Saliha Bayrak, Seamus Malekafzali, Chidima Anekwe, Henri Lipton, Ismail Ibrahim, Lily Felsenthal, Ben Purkert, Lev Xue, and Rosanna Young Oh. Print subscribers get in free. Everyone else pays $20 for an issue, which doubles as the ticket. (The Drift)\n\nThe Drift is also co-sponsoring Jewish Currents Live on October 11 in Brooklyn. The lineup includes a live Know Your Enemy on neocons and the politics of Jewish reaction, a panel on the Palestinian national movement after the destruction of Gaza, and a session asking whether the left can wield power, with Kai Wright, Hasan Piker, Bhaskar Sunkara, and Keeanga-Yamahtta Taylor. In person and streaming everywhere. (The Drift)\n\nQuick Hits & Curiosities\n\n• The Black Vault's FOIA wizards finally got the CIA's internal talking points on how the government planned to talk about the Bin Laden raid. They filed the request in 2013. (404 Media)\n\n• Miss your Commodore 64? Someone recreated its font from photos of the machine's classic keycaps. (404 Media)\n\n• Wellington's third rule of guessing: keep score afterward. \"The general who keeps a ledger improves; the one who doesn't is simply lucky until the luck runs out.\" (The Daily General)\n\n• Open Ground's drifting hallways hit two things humans love in a space: mystery (something around the corner) and legibility (confidence you'll find your way back). (Why Is This Interesting?)",
+          "blocks": [
+            {
+              "type": "heading_1",
+              "runs": [
+                {
+                  "text": "Thursday, October 8, 2026: Midday Edition",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Today's Numbers",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "194",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": the age of Jonathan, the world's oldest living land animal. Scientists just sequenced the genome of the 194-year-old tortoise and found unique gene variants in most aging pathways, including DNA repair. Sorry, longevity influencers: you probably can't copy him.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "91",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": pounds of meth in Melissa Kyle's car. A federal judge ruled the Flock license plate search that led to the bust was an unconstitutional warrantless search, so all of it gets thrown out. Now 404 Media has the bodycam footage.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "250,000",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": the crowd that watched Ginette Reno and Celine Dion sing \"Un peu plus haut, un peu plus loin\" for Quebec's 400th anniversary in 2008. Designer Ruby Thelot's pick of the day.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "60",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": the battles the Duke of Wellington fought across India, Iberia, and Waterloo without losing a major one. His secret, per The Daily General: he was the better guesser.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "6",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": meters underground, where Open Ground nightclub sits in a converted WWII bunker in Wuppertal, Germany. DJ Yu Su called it possibly the best club night of her 2026.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "2,680,135",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": holes drilled into wood paneling at Klymax, the Bali club DJ Harvey built with Potato Head. The perforations diffuse sound across the dancefloor.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "500",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": the sweet spot crowd at Klymax. Big enough for the room to lose itself together, small enough that the DJ doesn't have to play the easy hits.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "100",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": decibels, the level Open Ground's main room rarely crossed. Quieter than almost any club Yu Su has played, yet full of textural detail.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "2013",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": the year the Black Vault filed the FOIA request that just surfaced the CIA's internal talking points on the Bin Laden raid. A decade-plus wait for paperwork.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Quotes of the Day",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "\"All the business of war, and indeed all the business of life, is to endeavour to find out what you don't know by what you do; that's what I called guessing what was at the other side of the hill.\" (Duke of Wellington, via The Daily General)",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "\"Nothing in that room asks you to brace.\" (DJ Yu Su, on Open Ground nightclub, via Why Is This Interesting?)",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "\"Feed art in one end, and happy people come out the other.\" (DJ Harvey, on his Bali club Klymax, via Why Is This Interesting?)",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "\"A club sells a feeling it can never serve directly.\" (Colin Nagy, Why Is This Interesting?)",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Surveillance & Power",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "404 Media got the bodycam footage from the Flock search a judge ruled unconstitutional.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " Last week a federal judge said the license plate reader search of Melissa Kyle was \"indiscriminate mass surveillance\" and tossed the evidence, including 91 pounds of meth. Now you can watch the stop yourself. The footage shows a Tulsa County deputy driving 60 mph with one hand on the wheel and the other on his laptop, running Flock before he'd even finished pulling her over. Reading about a ruling is one thing. Seeing the search is another. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "404 Media",
+                  "url": "https://www.404media.co/r/c33c57e5?m=f198361c-d0c1-41bf-86df-5431cede6034",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "ICE has been investigating hundreds of nonprofits that help people register to vote.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " Democracy Docket reports the agency dug into voter-registration groups looking for noncitizen voting, which investigators almost never actually find. The read from 404 Media: ICE is buying tools and data access under the pretense of \"voter fraud,\" a label it then uses to justify mass actions. Investigating hundreds of groups that get people to vote is a strange use of resources. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Democracy Docket, via 404 Media",
+                  "url": "https://www.404media.co/r/fc2a4725?m=f198361c-d0c1-41bf-86df-5431cede6034",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "The AI Economy",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Harvard researchers found AI coding assistants boost productivity, but the gains don't reach the bottom line.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " The study looked at coding assistants and agents and concluded that \"productivity gains do not fully pass through to changes in software output or employment.\" For agents specifically, more time goes to reviewing code, and there is more code to review. The machines write faster. Humans still have to read it all. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "404 Media",
+                  "url": "https://www.404media.co/r/42b3cb67?m=f198361c-d0c1-41bf-86df-5431cede6034",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "McDonald's is being sued for allegedly using AI to set menu prices.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " The federal lawsuit claims the chain built an \"information-sharing pricing platform\" that draws on millions of daily transactions to set prices across thousands of US restaurants, amounting to \"algorithmic price-fixing aimed at customers who are already stretched thin.\" It started because Michael Thomas, an Illinois man, noticed his usual Quarter Pounder with cheese, fries, and Coke cost different amounts at different locations near his home. McDonald's says the suit is full of inaccuracies. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Associated Press, via 404 Media",
+                  "url": "https://www.404media.co/r/31968c16?m=f198361c-d0c1-41bf-86df-5431cede6034",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Someone built a tool that links a sex toy to Claude Code.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " The pitch, per 404 Media: \"feel\" every action \"deeply with your body.\" It is presumably vibe-coded. It is certainly a way to burn through your entire enterprise token budget. The future is here and it is extremely online. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "404 Media",
+                  "url": "https://www.404media.co/r/a3f77d8e?m=f198361c-d0c1-41bf-86df-5431cede6034",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "How We Live",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "The Duke of Wellington never lost a major battle because he was the better guesser.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " That's the argument in The Daily General today. Wellington rode the ground himself, studied his opponents' habits, hid his forces on reverse slopes, and constantly revised his picture of what the other commander intended. His method had three parts: squeeze everything out of the visible evidence, model the mind across from you, and keep score of your guesses afterward. Most people fail at both ends, the piece argues. They stall until it's too late, or they leap too far on pure instinct. Good guessing isn't a gift. It's bookkeeping. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "The Daily General",
+                  "url": "https://thedailygeneral.substack.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "The best nightclub in the world right now might sit in a WWII bunker in Wuppertal.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " DJ Yu Su played Open Ground, a club six meters underground in a converted German bunker, and called it \"possibly the best club experience i've had in 2026.\" What struck her wasn't the music. It was the hospitality: no queue at the door, always room to dance, seating built into the building, minimal lighting, little ledges for your drink everywhere. Nothing makes you compete. Her summary: \"Nothing in that room asks you to brace.\" The piece pairs it with Klymax in Bali, the club DJ Harvey designed with Potato Head, where 2,680,135 holes in wood paneling diffuse the sound and the sprung floor saves your joints. The shared lesson: a club sells a feeling it can never serve directly, and it only arrives after a hundred small decisions about bodies, sound, sightlines, queues, and toilets. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Why Is This Interesting?",
+                  "url": "https://whyisthisinteresting.substack.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "At the movies, the despair is the point.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " Sean Fennessey's Projections notes that a wave of new films seems to be channeling the fear, anger, and hopelessness people feel about the government, technology, and a destabilized society. The piece itself sits behind a paywall, but the observation stands on its own as a zeitgeist read. Cinema is holding up a mirror, and the mirror looks tired. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Projections",
+                  "url": "https://seanfennessey.substack.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "The Good Stuff",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Ruby Thelot wants you to watch two Quebec legends sing to 250,000 people.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " The designer and NYU professor's Perfectly Imperfect recs include Ginette Reno and Celine Dion performing \"Un peu plus haut, un peu plus loin\" at Quebec's 400th anniversary in 2008. He also swears by chalkboards (he keeps two, one in the office and one in the bedroom, and sketches most ideas on them) and by the short films of Zarina Nares, who he calls an absolute genius. Asked for the best Haitian food in NYC, he had answers. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Perfectly Imperfect",
+                  "url": "https://www.pi.fyi/p/ruby-thelot",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Meet Jonathan, the 194-year-old tortoise who might know the secret to not dying.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " Scientists have sequenced the genome of the world's oldest living land animal, an Aldabra giant tortoise born before the Civil War. They found unique gene variants in most aging pathways, including DNA repair. The research took years and hit plenty of complications along the way. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "404 Media",
+                  "url": "https://www.404media.co/r/1bb104ff?m=f198361c-d0c1-41bf-86df-5431cede6034",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Tonight",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "The Drift is throwing a party tonight and you're invited.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " The magazine celebrates the release of Issue Eighteen at 7 p.m. at Tavern 29 on East 29th Street in Manhattan, with readings from contributors including Lora Kelley, Hanson O'Haver, Saliha Bayrak, Seamus Malekafzali, Chidima Anekwe, Henri Lipton, Ismail Ibrahim, Lily Felsenthal, Ben Purkert, Lev Xue, and Rosanna Young Oh. Print subscribers get in free. Everyone else pays $20 for an issue, which doubles as the ticket. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "The Drift",
+                  "url": "https://newsletter.thedriftmag.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "The Drift is also co-sponsoring Jewish Currents Live on October 11 in Brooklyn.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " The lineup includes a live Know Your Enemy on neocons and the politics of Jewish reaction, a panel on the Palestinian national movement after the destruction of Gaza, and a session asking whether the left can wield power, with Kai Wright, Hasan Piker, Bhaskar Sunkara, and Keeanga-Yamahtta Taylor. In person and streaming everywhere. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "The Drift",
+                  "url": "https://newsletter.thedriftmag.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Quick Hits & Curiosities",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "The Black Vault's FOIA wizards finally got the CIA's internal talking points on how the government planned to talk about the Bin Laden raid. They filed the request in 2013. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "404 Media",
+                  "url": "https://www.404media.co/r/4e926b55?m=f198361c-d0c1-41bf-86df-5431cede6034",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Miss your Commodore 64? Someone recreated its font from photos of the machine's classic keycaps. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "404 Media",
+                  "url": "https://www.404media.co/r/db7b1387?m=f198361c-d0c1-41bf-86df-5431cede6034",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Wellington's third rule of guessing: keep score afterward. \"The general who keeps a ledger improves; the one who doesn't is simply lucky until the luck runs out.\" (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "The Daily General",
+                  "url": "https://thedailygeneral.substack.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Open Ground's drifting hallways hit two things humans love in a space: mystery (something around the corner) and legibility (confidence you'll find your way back). (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Why Is This Interesting?",
+                  "url": "https://whyisthisinteresting.substack.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            }
+          ],
+          "links": [
+            {
+              "title": "404 Media",
+              "url": "https://www.404media.co/r/c33c57e5?m=f198361c-d0c1-41bf-86df-5431cede6034"
+            },
+            {
+              "title": "Democracy Docket, via 404 Media",
+              "url": "https://www.404media.co/r/fc2a4725?m=f198361c-d0c1-41bf-86df-5431cede6034"
+            },
+            {
+              "title": "404 Media",
+              "url": "https://www.404media.co/r/42b3cb67?m=f198361c-d0c1-41bf-86df-5431cede6034"
+            },
+            {
+              "title": "Associated Press, via 404 Media",
+              "url": "https://www.404media.co/r/31968c16?m=f198361c-d0c1-41bf-86df-5431cede6034"
+            },
+            {
+              "title": "404 Media",
+              "url": "https://www.404media.co/r/a3f77d8e?m=f198361c-d0c1-41bf-86df-5431cede6034"
+            },
+            {
+              "title": "The Daily General",
+              "url": "https://thedailygeneral.substack.com/"
+            },
+            {
+              "title": "Why Is This Interesting?",
+              "url": "https://whyisthisinteresting.substack.com/"
+            },
+            {
+              "title": "Projections",
+              "url": "https://seanfennessey.substack.com/"
+            },
+            {
+              "title": "Perfectly Imperfect",
+              "url": "https://www.pi.fyi/p/ruby-thelot"
+            },
+            {
+              "title": "404 Media",
+              "url": "https://www.404media.co/r/1bb104ff?m=f198361c-d0c1-41bf-86df-5431cede6034"
+            },
+            {
+              "title": "The Drift",
+              "url": "https://newsletter.thedriftmag.com/"
+            },
+            {
+              "title": "404 Media",
+              "url": "https://www.404media.co/r/4e926b55?m=f198361c-d0c1-41bf-86df-5431cede6034"
+            },
+            {
+              "title": "404 Media",
+              "url": "https://www.404media.co/r/db7b1387?m=f198361c-d0c1-41bf-86df-5431cede6034"
+            }
+          ]
+        },
+        "full": {
+          "body": "Thursday, October 8, 2026: Midday Edition\n\nToday's Numbers\n\n• 194: the age of Jonathan, the world's oldest living land animal. Scientists just sequenced the genome of the 194-year-old tortoise and found unique gene variants in most aging pathways, including DNA repair. Sorry, longevity influencers: you probably can't copy him.\n\n• 91: pounds of meth in Melissa Kyle's car. A federal judge ruled the Flock license plate search that led to the bust was an unconstitutional warrantless search, so all of it gets thrown out. Now 404 Media has the bodycam footage.\n\n• 250,000: the crowd that watched Ginette Reno and Celine Dion sing \"Un peu plus haut, un peu plus loin\" for Quebec's 400th anniversary in 2008. Designer Ruby Thelot's pick of the day.\n\n• 60: the battles the Duke of Wellington fought across India, Iberia, and Waterloo without losing a major one. His secret, per The Daily General: he was the better guesser.\n\n• 6: meters underground, where Open Ground nightclub sits in a converted WWII bunker in Wuppertal, Germany. DJ Yu Su called it possibly the best club night of her 2026.\n\n• 2,680,135: holes drilled into wood paneling at Klymax, the Bali club DJ Harvey built with Potato Head. The perforations diffuse sound across the dancefloor.\n\n• 500: the sweet spot crowd at Klymax. Big enough for the room to lose itself together, small enough that the DJ doesn't have to play the easy hits.\n\n• 100: decibels, the level Open Ground's main room rarely crossed. Quieter than almost any club Yu Su has played, yet full of textural detail.\n\n• 2013: the year the Black Vault filed the FOIA request that just surfaced the CIA's internal talking points on the Bin Laden raid. A decade-plus wait for paperwork.\n\nQuotes of the Day\n\n• \"All the business of war, and indeed all the business of life, is to endeavour to find out what you don't know by what you do; that's what I called guessing what was at the other side of the hill.\" (Duke of Wellington, via The Daily General)\n\n• \"Nothing in that room asks you to brace.\" (DJ Yu Su, on Open Ground nightclub, via Why Is This Interesting?)\n\n• \"Feed art in one end, and happy people come out the other.\" (DJ Harvey, on his Bali club Klymax, via Why Is This Interesting?)\n\n• \"A club sells a feeling it can never serve directly.\" (Colin Nagy, Why Is This Interesting?)\n\nSurveillance & Power\n\n404 Media got the bodycam footage from the Flock search a judge ruled unconstitutional. Last week a federal judge said the license plate reader search of Melissa Kyle was \"indiscriminate mass surveillance\" and tossed the evidence, including 91 pounds of meth. Now you can watch the stop yourself. The footage shows a Tulsa County deputy driving 60 mph with one hand on the wheel and the other on his laptop, running Flock before he'd even finished pulling her over. Reading about a ruling is one thing. Seeing the search is another. (404 Media)\n\nICE has been investigating hundreds of nonprofits that help people register to vote. Democracy Docket reports the agency dug into voter-registration groups looking for noncitizen voting, which investigators almost never actually find. The read from 404 Media: ICE is buying tools and data access under the pretense of \"voter fraud,\" a label it then uses to justify mass actions. Investigating hundreds of groups that get people to vote is a strange use of resources. (Democracy Docket, via 404 Media)\n\nThe AI Economy\n\nHarvard researchers found AI coding assistants boost productivity, but the gains don't reach the bottom line. The study looked at coding assistants and agents and concluded that \"productivity gains do not fully pass through to changes in software output or employment.\" For agents specifically, more time goes to reviewing code, and there is more code to review. The machines write faster. Humans still have to read it all. (404 Media)\n\nMcDonald's is being sued for allegedly using AI to set menu prices. The federal lawsuit claims the chain built an \"information-sharing pricing platform\" that draws on millions of daily transactions to set prices across thousands of US restaurants, amounting to \"algorithmic price-fixing aimed at customers who are already stretched thin.\" It started because Michael Thomas, an Illinois man, noticed his usual Quarter Pounder with cheese, fries, and Coke cost different amounts at different locations near his home. McDonald's says the suit is full of inaccuracies. (Associated Press, via 404 Media)\n\nSomeone built a tool that links a sex toy to Claude Code. The pitch, per 404 Media: \"feel\" every action \"deeply with your body.\" It is presumably vibe-coded. It is certainly a way to burn through your entire enterprise token budget. The future is here and it is extremely online. (404 Media)\n\nHow We Live\n\nThe Duke of Wellington never lost a major battle because he was the better guesser. That's the argument in The Daily General today. Wellington rode the ground himself, studied his opponents' habits, hid his forces on reverse slopes, and constantly revised his picture of what the other commander intended. His method had three parts: squeeze everything out of the visible evidence, model the mind across from you, and keep score of your guesses afterward. Most people fail at both ends, the piece argues. They stall until it's too late, or they leap too far on pure instinct. Good guessing isn't a gift. It's bookkeeping. (The Daily General)\n\nThe best nightclub in the world right now might sit in a WWII bunker in Wuppertal. DJ Yu Su played Open Ground, a club six meters underground in a converted German bunker, and called it \"possibly the best club experience i've had in 2026.\" What struck her wasn't the music. It was the hospitality: no queue at the door, always room to dance, seating built into the building, minimal lighting, little ledges for your drink everywhere. Nothing makes you compete. Her summary: \"Nothing in that room asks you to brace.\" The piece pairs it with Klymax in Bali, the club DJ Harvey designed with Potato Head, where 2,680,135 holes in wood paneling diffuse the sound and the sprung floor saves your joints. The shared lesson: a club sells a feeling it can never serve directly, and it only arrives after a hundred small decisions about bodies, sound, sightlines, queues, and toilets. (Why Is This Interesting?)\n\nAt the movies, the despair is the point. Sean Fennessey's Projections notes that a wave of new films seems to be channeling the fear, anger, and hopelessness people feel about the government, technology, and a destabilized society. The piece itself sits behind a paywall, but the observation stands on its own as a zeitgeist read. Cinema is holding up a mirror, and the mirror looks tired. (Projections)\n\nThe Good Stuff\n\nRuby Thelot wants you to watch two Quebec legends sing to 250,000 people. The designer and NYU professor's Perfectly Imperfect recs include Ginette Reno and Celine Dion performing \"Un peu plus haut, un peu plus loin\" at Quebec's 400th anniversary in 2008. He also swears by chalkboards (he keeps two, one in the office and one in the bedroom, and sketches most ideas on them) and by the short films of Zarina Nares, who he calls an absolute genius. Asked for the best Haitian food in NYC, he had answers. (Perfectly Imperfect)\n\nMeet Jonathan, the 194-year-old tortoise who might know the secret to not dying. Scientists have sequenced the genome of the world's oldest living land animal, an Aldabra giant tortoise born before the Civil War. They found unique gene variants in most aging pathways, including DNA repair. The research took years and hit plenty of complications along the way. (404 Media)\n\nTonight\n\nThe Drift is throwing a party tonight and you're invited. The magazine celebrates the release of Issue Eighteen at 7 p.m. at Tavern 29 on East 29th Street in Manhattan, with readings from contributors including Lora Kelley, Hanson O'Haver, Saliha Bayrak, Seamus Malekafzali, Chidima Anekwe, Henri Lipton, Ismail Ibrahim, Lily Felsenthal, Ben Purkert, Lev Xue, and Rosanna Young Oh. Print subscribers get in free. Everyone else pays $20 for an issue, which doubles as the ticket. (The Drift)\n\nThe Drift is also co-sponsoring Jewish Currents Live on October 11 in Brooklyn. The lineup includes a live Know Your Enemy on neocons and the politics of Jewish reaction, a panel on the Palestinian national movement after the destruction of Gaza, and a session asking whether the left can wield power, with Kai Wright, Hasan Piker, Bhaskar Sunkara, and Keeanga-Yamahtta Taylor. In person and streaming everywhere. (The Drift)\n\nQuick Hits & Curiosities\n\n• The Black Vault's FOIA wizards finally got the CIA's internal talking points on how the government planned to talk about the Bin Laden raid. They filed the request in 2013. (404 Media)\n\n• Miss your Commodore 64? Someone recreated its font from photos of the machine's classic keycaps. (404 Media)\n\n• Wellington's third rule of guessing: keep score afterward. \"The general who keeps a ledger improves; the one who doesn't is simply lucky until the luck runs out.\" (The Daily General)\n\n• Open Ground's drifting hallways hit two things humans love in a space: mystery (something around the corner) and legibility (confidence you'll find your way back). (Why Is This Interesting?)",
+          "blocks": [
+            {
+              "type": "heading_1",
+              "runs": [
+                {
+                  "text": "Thursday, October 8, 2026: Midday Edition",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Today's Numbers",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "194",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": the age of Jonathan, the world's oldest living land animal. Scientists just sequenced the genome of the 194-year-old tortoise and found unique gene variants in most aging pathways, including DNA repair. Sorry, longevity influencers: you probably can't copy him.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "91",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": pounds of meth in Melissa Kyle's car. A federal judge ruled the Flock license plate search that led to the bust was an unconstitutional warrantless search, so all of it gets thrown out. Now 404 Media has the bodycam footage.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "250,000",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": the crowd that watched Ginette Reno and Celine Dion sing \"Un peu plus haut, un peu plus loin\" for Quebec's 400th anniversary in 2008. Designer Ruby Thelot's pick of the day.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "60",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": the battles the Duke of Wellington fought across India, Iberia, and Waterloo without losing a major one. His secret, per The Daily General: he was the better guesser.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "6",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": meters underground, where Open Ground nightclub sits in a converted WWII bunker in Wuppertal, Germany. DJ Yu Su called it possibly the best club night of her 2026.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "2,680,135",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": holes drilled into wood paneling at Klymax, the Bali club DJ Harvey built with Potato Head. The perforations diffuse sound across the dancefloor.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "500",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": the sweet spot crowd at Klymax. Big enough for the room to lose itself together, small enough that the DJ doesn't have to play the easy hits.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "100",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": decibels, the level Open Ground's main room rarely crossed. Quieter than almost any club Yu Su has played, yet full of textural detail.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "2013",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": the year the Black Vault filed the FOIA request that just surfaced the CIA's internal talking points on the Bin Laden raid. A decade-plus wait for paperwork.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Quotes of the Day",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "\"All the business of war, and indeed all the business of life, is to endeavour to find out what you don't know by what you do; that's what I called guessing what was at the other side of the hill.\" (Duke of Wellington, via The Daily General)",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "\"Nothing in that room asks you to brace.\" (DJ Yu Su, on Open Ground nightclub, via Why Is This Interesting?)",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "\"Feed art in one end, and happy people come out the other.\" (DJ Harvey, on his Bali club Klymax, via Why Is This Interesting?)",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "\"A club sells a feeling it can never serve directly.\" (Colin Nagy, Why Is This Interesting?)",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Surveillance & Power",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "404 Media got the bodycam footage from the Flock search a judge ruled unconstitutional.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " Last week a federal judge said the license plate reader search of Melissa Kyle was \"indiscriminate mass surveillance\" and tossed the evidence, including 91 pounds of meth. Now you can watch the stop yourself. The footage shows a Tulsa County deputy driving 60 mph with one hand on the wheel and the other on his laptop, running Flock before he'd even finished pulling her over. Reading about a ruling is one thing. Seeing the search is another. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "404 Media",
+                  "url": "https://www.404media.co/r/c33c57e5?m=f198361c-d0c1-41bf-86df-5431cede6034",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "ICE has been investigating hundreds of nonprofits that help people register to vote.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " Democracy Docket reports the agency dug into voter-registration groups looking for noncitizen voting, which investigators almost never actually find. The read from 404 Media: ICE is buying tools and data access under the pretense of \"voter fraud,\" a label it then uses to justify mass actions. Investigating hundreds of groups that get people to vote is a strange use of resources. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Democracy Docket, via 404 Media",
+                  "url": "https://www.404media.co/r/fc2a4725?m=f198361c-d0c1-41bf-86df-5431cede6034",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "The AI Economy",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Harvard researchers found AI coding assistants boost productivity, but the gains don't reach the bottom line.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " The study looked at coding assistants and agents and concluded that \"productivity gains do not fully pass through to changes in software output or employment.\" For agents specifically, more time goes to reviewing code, and there is more code to review. The machines write faster. Humans still have to read it all. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "404 Media",
+                  "url": "https://www.404media.co/r/42b3cb67?m=f198361c-d0c1-41bf-86df-5431cede6034",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "McDonald's is being sued for allegedly using AI to set menu prices.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " The federal lawsuit claims the chain built an \"information-sharing pricing platform\" that draws on millions of daily transactions to set prices across thousands of US restaurants, amounting to \"algorithmic price-fixing aimed at customers who are already stretched thin.\" It started because Michael Thomas, an Illinois man, noticed his usual Quarter Pounder with cheese, fries, and Coke cost different amounts at different locations near his home. McDonald's says the suit is full of inaccuracies. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Associated Press, via 404 Media",
+                  "url": "https://www.404media.co/r/31968c16?m=f198361c-d0c1-41bf-86df-5431cede6034",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Someone built a tool that links a sex toy to Claude Code.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " The pitch, per 404 Media: \"feel\" every action \"deeply with your body.\" It is presumably vibe-coded. It is certainly a way to burn through your entire enterprise token budget. The future is here and it is extremely online. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "404 Media",
+                  "url": "https://www.404media.co/r/a3f77d8e?m=f198361c-d0c1-41bf-86df-5431cede6034",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "How We Live",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "The Duke of Wellington never lost a major battle because he was the better guesser.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " That's the argument in The Daily General today. Wellington rode the ground himself, studied his opponents' habits, hid his forces on reverse slopes, and constantly revised his picture of what the other commander intended. His method had three parts: squeeze everything out of the visible evidence, model the mind across from you, and keep score of your guesses afterward. Most people fail at both ends, the piece argues. They stall until it's too late, or they leap too far on pure instinct. Good guessing isn't a gift. It's bookkeeping. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "The Daily General",
+                  "url": "https://thedailygeneral.substack.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "The best nightclub in the world right now might sit in a WWII bunker in Wuppertal.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " DJ Yu Su played Open Ground, a club six meters underground in a converted German bunker, and called it \"possibly the best club experience i've had in 2026.\" What struck her wasn't the music. It was the hospitality: no queue at the door, always room to dance, seating built into the building, minimal lighting, little ledges for your drink everywhere. Nothing makes you compete. Her summary: \"Nothing in that room asks you to brace.\" The piece pairs it with Klymax in Bali, the club DJ Harvey designed with Potato Head, where 2,680,135 holes in wood paneling diffuse the sound and the sprung floor saves your joints. The shared lesson: a club sells a feeling it can never serve directly, and it only arrives after a hundred small decisions about bodies, sound, sightlines, queues, and toilets. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Why Is This Interesting?",
+                  "url": "https://whyisthisinteresting.substack.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "At the movies, the despair is the point.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " Sean Fennessey's Projections notes that a wave of new films seems to be channeling the fear, anger, and hopelessness people feel about the government, technology, and a destabilized society. The piece itself sits behind a paywall, but the observation stands on its own as a zeitgeist read. Cinema is holding up a mirror, and the mirror looks tired. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Projections",
+                  "url": "https://seanfennessey.substack.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "The Good Stuff",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Ruby Thelot wants you to watch two Quebec legends sing to 250,000 people.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " The designer and NYU professor's Perfectly Imperfect recs include Ginette Reno and Celine Dion performing \"Un peu plus haut, un peu plus loin\" at Quebec's 400th anniversary in 2008. He also swears by chalkboards (he keeps two, one in the office and one in the bedroom, and sketches most ideas on them) and by the short films of Zarina Nares, who he calls an absolute genius. Asked for the best Haitian food in NYC, he had answers. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Perfectly Imperfect",
+                  "url": "https://www.pi.fyi/p/ruby-thelot",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Meet Jonathan, the 194-year-old tortoise who might know the secret to not dying.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " Scientists have sequenced the genome of the world's oldest living land animal, an Aldabra giant tortoise born before the Civil War. They found unique gene variants in most aging pathways, including DNA repair. The research took years and hit plenty of complications along the way. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "404 Media",
+                  "url": "https://www.404media.co/r/1bb104ff?m=f198361c-d0c1-41bf-86df-5431cede6034",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Tonight",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "The Drift is throwing a party tonight and you're invited.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " The magazine celebrates the release of Issue Eighteen at 7 p.m. at Tavern 29 on East 29th Street in Manhattan, with readings from contributors including Lora Kelley, Hanson O'Haver, Saliha Bayrak, Seamus Malekafzali, Chidima Anekwe, Henri Lipton, Ismail Ibrahim, Lily Felsenthal, Ben Purkert, Lev Xue, and Rosanna Young Oh. Print subscribers get in free. Everyone else pays $20 for an issue, which doubles as the ticket. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "The Drift",
+                  "url": "https://newsletter.thedriftmag.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "The Drift is also co-sponsoring Jewish Currents Live on October 11 in Brooklyn.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " The lineup includes a live Know Your Enemy on neocons and the politics of Jewish reaction, a panel on the Palestinian national movement after the destruction of Gaza, and a session asking whether the left can wield power, with Kai Wright, Hasan Piker, Bhaskar Sunkara, and Keeanga-Yamahtta Taylor. In person and streaming everywhere. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "The Drift",
+                  "url": "https://newsletter.thedriftmag.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Quick Hits & Curiosities",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "The Black Vault's FOIA wizards finally got the CIA's internal talking points on how the government planned to talk about the Bin Laden raid. They filed the request in 2013. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "404 Media",
+                  "url": "https://www.404media.co/r/4e926b55?m=f198361c-d0c1-41bf-86df-5431cede6034",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Miss your Commodore 64? Someone recreated its font from photos of the machine's classic keycaps. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "404 Media",
+                  "url": "https://www.404media.co/r/db7b1387?m=f198361c-d0c1-41bf-86df-5431cede6034",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Wellington's third rule of guessing: keep score afterward. \"The general who keeps a ledger improves; the one who doesn't is simply lucky until the luck runs out.\" (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "The Daily General",
+                  "url": "https://thedailygeneral.substack.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Open Ground's drifting hallways hit two things humans love in a space: mystery (something around the corner) and legibility (confidence you'll find your way back). (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Why Is This Interesting?",
+                  "url": "https://whyisthisinteresting.substack.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            }
+          ],
+          "links": [
+            {
+              "title": "404 Media",
+              "url": "https://www.404media.co/r/c33c57e5?m=f198361c-d0c1-41bf-86df-5431cede6034"
+            },
+            {
+              "title": "Democracy Docket, via 404 Media",
+              "url": "https://www.404media.co/r/fc2a4725?m=f198361c-d0c1-41bf-86df-5431cede6034"
+            },
+            {
+              "title": "404 Media",
+              "url": "https://www.404media.co/r/42b3cb67?m=f198361c-d0c1-41bf-86df-5431cede6034"
+            },
+            {
+              "title": "Associated Press, via 404 Media",
+              "url": "https://www.404media.co/r/31968c16?m=f198361c-d0c1-41bf-86df-5431cede6034"
+            },
+            {
+              "title": "404 Media",
+              "url": "https://www.404media.co/r/a3f77d8e?m=f198361c-d0c1-41bf-86df-5431cede6034"
+            },
+            {
+              "title": "The Daily General",
+              "url": "https://thedailygeneral.substack.com/"
+            },
+            {
+              "title": "Why Is This Interesting?",
+              "url": "https://whyisthisinteresting.substack.com/"
+            },
+            {
+              "title": "Projections",
+              "url": "https://seanfennessey.substack.com/"
+            },
+            {
+              "title": "Perfectly Imperfect",
+              "url": "https://www.pi.fyi/p/ruby-thelot"
+            },
+            {
+              "title": "404 Media",
+              "url": "https://www.404media.co/r/1bb104ff?m=f198361c-d0c1-41bf-86df-5431cede6034"
+            },
+            {
+              "title": "The Drift",
+              "url": "https://newsletter.thedriftmag.com/"
+            },
+            {
+              "title": "404 Media",
+              "url": "https://www.404media.co/r/4e926b55?m=f198361c-d0c1-41bf-86df-5431cede6034"
+            },
+            {
+              "title": "404 Media",
+              "url": "https://www.404media.co/r/db7b1387?m=f198361c-d0c1-41bf-86df-5431cede6034"
+            }
+          ]
+        }
+      }
     }
   ]
 }
