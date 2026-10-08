@@ -285,11 +285,31 @@
       "id": "watchlater-8c361584d61d4aeca7fe2f356e2417e6",
       "channel": "watch",
       "source": "notion",
-      "title": "terrifying youtube video",
+      "title": "An OpenAI Engineer and His Friends Debate the Future | The New Yorker Documentary",
       "url": "https://youtu.be/UZ2duRYykkk?is=pB3GIxyiKd_yrXjA",
       "mediaType": "YouTube",
       "readingStatus": "Finished",
       "publishedAt": "2026-10-04T02:15:00Z"
+    },
+    {
+      "id": "watchlater-06c876d25ce5466b9a31d3f28d121ef9",
+      "channel": "watch",
+      "source": "notion",
+      "title": "Ghost in the Machine",
+      "url": "https://www.youtube.com/watch?v=dLQzVLtvdv8",
+      "mediaType": "Documentaries",
+      "readingStatus": "Want to see",
+      "publishedAt": "2026-10-08T13:31:00Z"
+    },
+    {
+      "id": "watchlater-2c8d7b24a51d4c8f8af58eff57ada18b",
+      "channel": "watch",
+      "source": "notion",
+      "title": "#158 The Case of the Missing Hit",
+      "url": "https://open.spotify.com/episode/0CaOGo6xSN51B2aLAQa1kU",
+      "mediaType": "Podcasts",
+      "readingStatus": "Want to listen",
+      "publishedAt": "2026-10-08T14:42:00Z"
     }
   ]
 }

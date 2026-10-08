@@ -873,6 +873,15 @@
       "url": "https://www.nytimes.com/2026/10/06/well/cancer-prevention-exercise-treatment.html?unlocked_article_code=1.GlE.2Nho.4BP7eD9GbtPm&smid=nytcore-ios-share",
       "publishedAt": "2026-10-06T21:42:00Z",
       "readingStatus": "To Read"
+    },
+    {
+      "id": "readlater-5aa6e4f6d3f6421e825ec3b7e9a181c4",
+      "channel": "articles",
+      "source": "notion",
+      "title": "Why were Victorian elites so effective?",
+      "url": "https://worksinprogress.co/issue/the-seven-vices-of-highly-effective-victorians/",
+      "publishedAt": "2026-10-08T14:47:00Z",
+      "readingStatus": "To Read"
     }
   ]
 }

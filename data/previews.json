@@ -764,7 +764,7 @@
       "image": "https://spectrum.ieee.org/media-library/image.jpg?id=67857174&width=1200&height=600&coordinates=0%2C50%2C0%2C50",
       "icon": "https://assets.rebelmouse.io/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy8yNjU5NjY0OS9vcmlnaW4ucG5nIiwiZXhwaXJlc19hdCI6MTg0ODgxODUwNn0.1LlzHtxZSVXyzapxWjeSrRIRu5qo3CeB8FaWpd2tl_o/img.png?width=48&height=48",
       "domain": "spectrum.ieee.org",
-      "checkedAt": "2026-10-01T09:06:49.427624+00:00",
+      "checkedAt": "2026-10-08T14:59:21.802667+00:00",
       "available": true
     },
     "https://en.wikipedia.org/wiki/Bicameral_mentality": {
@@ -812,6 +812,16 @@
     "https://www.nytimes.com/2026/10/06/well/cancer-prevention-exercise-treatment.html?unlocked_article_code=1.GlE.2Nho.4BP7eD9GbtPm&smid=nytcore-ios-share": {
       "checkedAt": "2026-10-07T06:18:19.914130+00:00",
       "available": false
+    },
+    "https://worksinprogress.co/issue/the-seven-vices-of-highly-effective-victorians/": {
+      "title": "Why were Victorian elites so effective? - Works in Progress Magazine",
+      "description": "The biggest empire the world has ever seen was run by a small elite who partied all night, drank liters of port, and stayed in bed until the afternoon.",
+      "site": "",
+      "image": "https://worksinprogress.co/wip-image/uploads/2026/10/victorian_vices_feature_image_03-scaled.jpg",
+      "icon": "https://worksinprogress.co/images/favicon.ico",
+      "domain": "worksinprogress.co",
+      "checkedAt": "2026-10-08T14:59:21.802667+00:00",
+      "available": true
     }
   }
 }
