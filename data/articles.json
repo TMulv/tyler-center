@@ -882,6 +882,33 @@
       "url": "https://worksinprogress.co/issue/the-seven-vices-of-highly-effective-victorians/",
       "publishedAt": "2026-10-08T14:47:00Z",
       "readingStatus": "To Read"
+    },
+    {
+      "id": "readlater-1503df26f25d4128a005909deb4613e1",
+      "channel": "articles",
+      "source": "notion",
+      "title": "Deceptive Patterns — deceptive.design",
+      "url": "https://deceptive.design/",
+      "publishedAt": "2026-10-09T13:25:00Z",
+      "readingStatus": "To Read"
+    },
+    {
+      "id": "readlater-a134e0d61021453197b9b2aa8d25aa0c",
+      "channel": "articles",
+      "source": "notion",
+      "title": "Dark Patterns Won — Ron Bronson",
+      "url": "https://blog.ronbronson.com/dark-patterns-won",
+      "publishedAt": "2026-10-09T13:25:00Z",
+      "readingStatus": "To Read"
+    },
+    {
+      "id": "readlater-be64e4bc566241f09e144b2fddaca172",
+      "channel": "articles",
+      "source": "notion",
+      "title": "The people holding up the internet — sheets.works",
+      "url": "https://sheets.works/data-viz/holding-up-the-internet",
+      "publishedAt": "2026-10-09T13:26:00Z",
+      "readingStatus": "To Read"
     }
   ]
 }

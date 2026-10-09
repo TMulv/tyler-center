@@ -822,6 +822,36 @@
       "domain": "worksinprogress.co",
       "checkedAt": "2026-10-08T14:59:21.802667+00:00",
       "available": true
+    },
+    "https://deceptive.design/": {
+      "title": "Deceptive Patterns — spreading awareness since 2010",
+      "description": "Deceptive patterns (aka “dark patterns”) are tricks used in websites and apps that make you do things you didn’t mean to. Browse the types, the laws, the enforcement cases, the hall of shame and the reading list.",
+      "site": "Deceptive Patterns",
+      "image": "https://deceptive.design/og/index.png",
+      "icon": "https://deceptive.design/ds/images/favicon.png",
+      "domain": "deceptive.design",
+      "checkedAt": "2026-10-09T13:31:42.540553+00:00",
+      "available": true
+    },
+    "https://blog.ronbronson.com/dark-patterns-won": {
+      "title": "Dark Patterns Won - Ron Bronson",
+      "description": "Many moons ago, I used to post a lot on Twitter about so-called deceptive design/dark patterns that proliferate consumer UIs. There were sites",
+      "site": "",
+      "image": "",
+      "icon": "https://cdn.blot.im/blog_525283417188438e988410368203ddef/_avatars/a04a4ea5-69ca-4555-aaec-cdb5aa0e4989.png",
+      "domain": "blog.ronbronson.com",
+      "checkedAt": "2026-10-09T13:31:42.540553+00:00",
+      "available": true
+    },
+    "https://sheets.works/data-viz/holding-up-the-internet": {
+      "title": "The people holding up the internet",
+      "description": "Four billion phones ask one text file what time it is. One lecturer keeps it in his spare time. We counted the rest.",
+      "site": "",
+      "image": "https://sheets.works/og-holding-up-the-internet.png",
+      "icon": "",
+      "domain": "sheets.works",
+      "checkedAt": "2026-10-09T13:31:42.540553+00:00",
+      "available": true
     }
   }
 }
