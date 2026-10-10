@@ -852,6 +852,16 @@
       "domain": "sheets.works",
       "checkedAt": "2026-10-09T13:31:42.540553+00:00",
       "available": true
+    },
+    "https://jessewaites.com/blog/post/i-pointed-ai-at-400-years-of-archives/": {
+      "title": "I Pointed AI at 400 Years of Historical Archives. It Found a Forgotten Meteorite, Lost Rhinos, and Unrecorded Volcanic Eruptions.",
+      "description": "How I used AI to investigate millions of historical records and surfaced a forgotten meteorite report, three lost rhinos, and unrecorded volcano eruptions.",
+      "site": "Jesse Waites",
+      "image": "https://jessewaites.com/meteorite.jpg",
+      "icon": "https://jessewaites.com/favicon.svg",
+      "domain": "jessewaites.com",
+      "checkedAt": "2026-10-10T00:13:07.001751+00:00",
+      "available": true
     }
   }
 }

@@ -909,6 +909,15 @@
       "url": "https://sheets.works/data-viz/holding-up-the-internet",
       "publishedAt": "2026-10-09T13:26:00Z",
       "readingStatus": "To Read"
+    },
+    {
+      "id": "readlater-3f48153c8a3e815cbe63ed5894e720cf",
+      "channel": "articles",
+      "source": "notion",
+      "title": "I Pointed AI at 400 Years of Historical Archives. It Found a Forgotten Meteorite, Lost Rhinos, and Unrecorded Volcanic Eruptions. - Jesse Waites",
+      "url": "https://jessewaites.com/blog/post/i-pointed-ai-at-400-years-of-archives/",
+      "publishedAt": "2026-10-09T23:49:00Z",
+      "readingStatus": "Not marked"
     }
   ]
 }
