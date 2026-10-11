@@ -70854,14 +70854,14 @@
       "domain": "Daily newsletter digest",
       "title": "Guilfoyle's $100k Amex Ask, a 10-Billion-Light-Year Signal, and GTA Radio DJs - Saturday, October 10, 2026",
       "url": "",
-      "description": "Saturday, October 10, 2026 - Afternoon Edition",
-      "body": "Saturday, October 10, 2026 - Afternoon Edition\n\nToday's Numbers\n\n• 10,000: the mercenaries Xenophon marched home from deep inside Persia in 401 BC, after their generals were executed in a staggering betrayal. His takeaway: shared hardship is the one leadership signal you cannot fake.\n\n• 25: years since Apple launched the iPod on October 23, 2001, a little more than a month after 9/11. The verdict from WIRED: the perfect gadget, chiefly because it never connected to the internet.\n\nQuotes of the Day\n\n• \"Your move, OpenAI!\" (Steven Levy, WIRED Backchannel, on Elon Musk renaming SpaceX's XAI division to XSI)\n\nThe Zeitgeist\n\nBackchannel readers call Trump's \"superintelligence\" edict an exercise in power. That is the verdict from last week's poll on the presidential decree that artificial intelligence shall henceforth be called superintelligence. It reads less like tech policy and more like a loyalty test for Silicon Valley's chief executives, and the early returns suggest it is working. (WIRED)",
+      "description": "Saturday, October 10, 2026 - Evening Edition",
+      "body": "Saturday, October 10, 2026 - Evening Edition\n\nToday's Numbers\n\n• $399: the price of Nothing's Headphone (1) Pro, the transparent-tech brand's priciest wireless cans yet. They keep the see-through earcups and add a triple-driver system, a 10-mic noise-canceling rig, and a \"Flat\" switch that turns off the EQ for a neutral studio sound. The target is clear: Apple, Sony, and Bose flagships.\n\n• $595: the price of the Levi's x Sacai Blouson Jacket, the headliner of the denim giant's third team-up with Japanese designer Chitose Abe. Sherpa, leather, and selvedge denim woven on a shuttle loom make it the brand's most premium collab yet. The drop also includes wide-leg and flare pants with leather belt adjusters.\n\nStyle & Gear\n\nWallace & Barnes is back and firing again. J.Crew relaunched its cult workwear imprint last year, and the new fall capsule is its strongest collection in a decade, according to InsideHook. Think hardwearing staples built for real life, not just the heritage cosplay shelf. If the workwear revival needed a standard-bearer, this might be it. (InsideHook)\n\nFall jacket season is a group project. InsideHook's new guide rounds up five jackets worth wearing this fall, from the Barbour x J.Crew waxed cotton barn jacket to an archival Beams x REI expedition parka with 650-fill down and a Gore-Tex shell. Our Legacy x Stüssy shows up with a leather fireman jacket for the bold. The throughline: updated cuts, bold silhouettes, and colors that are not shy. (InsideHook)\n\nQuick Hits & Curiosities\n\n• Prime Day is officially over, but the deals are not: Amazon savings on Apple, Gap, and Our Place are still live for late shoppers. (InsideHook)\n\n• This week's best deals include a 46%-off Mountain Hardwear Ghost Whisperer puffer, a rare Paraboot markdown at Huckberry, and $110 off handmade Persol sunglasses. (InsideHook)\n\n• Huckberry's own banger sale rolls on as the Prime Day alternative, with serious savings on Flint and Tinder and Rhodes Footwear. (InsideHook)\n\n• InsideHook hard launched a new style newsletter called Protagonist this week. Editor Paolo Sandoval is off Monday for the holiday, so expect him back in your inbox Tuesday. (InsideHook)",
       "blocks": [
         {
           "type": "heading_1",
           "runs": [
             {
-              "text": "Saturday, October 10, 2026 - Afternoon Edition",
+              "text": "Saturday, October 10, 2026 - Evening Edition",
               "url": "",
               "bold": false,
               "italic": false
@@ -70883,13 +70883,13 @@
           "type": "bulleted_list_item",
           "runs": [
             {
-              "text": "10,000",
-              "url": "https://thedailygeneral.substack.com/",
+              "text": "$399",
+              "url": "https://www.gearpatrol.com/briefings/today-in-gear/today-in-gear-september-29-2026/",
               "bold": true,
               "italic": false
             },
             {
-              "text": ": the mercenaries Xenophon marched home from deep inside Persia in 401 BC, after their generals were executed in a staggering betrayal. His takeaway: shared hardship is the one leadership signal you cannot fake.",
+              "text": ": the price of Nothing's Headphone (1) Pro, the transparent-tech brand's priciest wireless cans yet. They keep the see-through earcups and add a triple-driver system, a 10-mic noise-canceling rig, and a \"Flat\" switch that turns off the EQ for a neutral studio sound. The target is clear: Apple, Sony, and Bose flagships.",
               "url": "",
               "bold": false,
               "italic": false
@@ -70900,13 +70900,13 @@
           "type": "bulleted_list_item",
           "runs": [
             {
-              "text": "25",
-              "url": "https://www.wired.com/",
+              "text": "$595",
+              "url": "https://www.insidehook.com/style-news/new-menswear-releases-10-05-26",
               "bold": true,
               "italic": false
             },
             {
-              "text": ": years since Apple launched the iPod on October 23, 2001, a little more than a month after 9/11. The verdict from WIRED: the perfect gadget, chiefly because it never connected to the internet.",
+              "text": ": the price of the Levi's x Sacai Blouson Jacket, the headliner of the denim giant's third team-up with Japanese designer Chitose Abe. Sherpa, leather, and selvedge denim woven on a shuttle loom make it the brand's most premium collab yet. The drop also includes wide-leg and flare pants with leather belt adjusters.",
               "url": "",
               "bold": false,
               "italic": false
@@ -70917,7 +70917,76 @@
           "type": "paragraph",
           "runs": [
             {
-              "text": "Quotes of the Day",
+              "text": "Style & Gear",
+              "url": "",
+              "bold": true,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Wallace & Barnes is back and firing again.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " J.Crew relaunched its cult workwear imprint last year, and the new fall capsule is its strongest collection in a decade, according to InsideHook. Think hardwearing staples built for real life, not just the heritage cosplay shelf. If the workwear revival needed a standard-bearer, this might be it. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "InsideHook",
+              "url": "https://www.insidehook.com/style/jcrew-wallace-and-barnes-relaunch",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Fall jacket season is a group project.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " InsideHook's new guide rounds up five jackets worth wearing this fall, from the Barbour x J.Crew waxed cotton barn jacket to an archival Beams x REI expedition parka with 650-fill down and a Gore-Tex shell. Our Legacy x Stüssy shows up with a leather fireman jacket for the bold. The throughline: updated cuts, bold silhouettes, and colors that are not shy. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "InsideHook",
+              "url": "https://www.insidehook.com/style-guides/fall-jacket-releases-2026",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Quick Hits & Curiosities",
               "url": "",
               "bold": true,
               "italic": false
@@ -70928,7 +70997,19 @@
           "type": "bulleted_list_item",
           "runs": [
             {
-              "text": "\"Your move, OpenAI!\" (Steven Levy, WIRED Backchannel, on Elon Musk renaming SpaceX's XAI division to XSI)",
+              "text": "Prime Day is officially over, but the deals are not: Amazon savings on Apple, Gap, and Our Place are still live for late shoppers. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "InsideHook",
+              "url": "https://www.insidehook.com/style/amazon-prime-day-deals",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
               "url": "",
               "bold": false,
               "italic": false
@@ -70936,34 +71017,63 @@
           ]
         },
         {
-          "type": "paragraph",
+          "type": "bulleted_list_item",
           "runs": [
             {
-              "text": "The Zeitgeist",
-              "url": "",
-              "bold": true,
-              "italic": false
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "runs": [
-            {
-              "text": "Backchannel readers call Trump's \"superintelligence\" edict an exercise in power.",
-              "url": "",
-              "bold": true,
-              "italic": false
-            },
-            {
-              "text": " That is the verdict from last week's poll on the presidential decree that artificial intelligence shall henceforth be called superintelligence. It reads less like tech policy and more like a loyalty test for Silicon Valley's chief executives, and the early returns suggest it is working. (",
+              "text": "This week's best deals include a 46%-off Mountain Hardwear Ghost Whisperer puffer, a rare Paraboot markdown at Huckberry, and $110 off handmade Persol sunglasses. (",
               "url": "",
               "bold": false,
               "italic": false
             },
             {
-              "text": "WIRED",
-              "url": "https://www.wired.com/",
+              "text": "InsideHook",
+              "url": "https://www.insidehook.com/gear/best-deals-week-10-09-26",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Huckberry's own banger sale rolls on as the Prime Day alternative, with serious savings on Flint and Tinder and Rhodes Footwear. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "InsideHook",
+              "url": "https://www.insidehook.com/gear/best-deals-week-10-09-26",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "InsideHook hard launched a new style newsletter called Protagonist this week. Editor Paolo Sandoval is off Monday for the holiday, so expect him back in your inbox Tuesday. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "InsideHook",
+              "url": "https://www.insidehook.com/",
               "bold": false,
               "italic": false
             },
@@ -70979,12 +71089,32 @@
       "publishedAt": "2026-10-10T13:48:00Z",
       "links": [
         {
-          "title": "10,000",
-          "url": "https://thedailygeneral.substack.com/"
+          "title": "$399",
+          "url": "https://www.gearpatrol.com/briefings/today-in-gear/today-in-gear-september-29-2026/"
         },
         {
-          "title": "WIRED",
-          "url": "https://www.wired.com/"
+          "title": "$595",
+          "url": "https://www.insidehook.com/style-news/new-menswear-releases-10-05-26"
+        },
+        {
+          "title": "InsideHook",
+          "url": "https://www.insidehook.com/style/jcrew-wallace-and-barnes-relaunch"
+        },
+        {
+          "title": "InsideHook",
+          "url": "https://www.insidehook.com/style-guides/fall-jacket-releases-2026"
+        },
+        {
+          "title": "InsideHook",
+          "url": "https://www.insidehook.com/style/amazon-prime-day-deals"
+        },
+        {
+          "title": "InsideHook",
+          "url": "https://www.insidehook.com/gear/best-deals-week-10-09-26"
+        },
+        {
+          "title": "InsideHook",
+          "url": "https://www.insidehook.com/"
         }
       ],
       "versions": {
@@ -72999,14 +73129,14 @@
             }
           ]
         },
-        "full": {
-          "body": "Saturday, October 10, 2026 - Afternoon Edition\n\nToday's Numbers\n\n• 10,000: the mercenaries Xenophon marched home from deep inside Persia in 401 BC, after their generals were executed in a staggering betrayal. His takeaway: shared hardship is the one leadership signal you cannot fake.\n\n• 25: years since Apple launched the iPod on October 23, 2001, a little more than a month after 9/11. The verdict from WIRED: the perfect gadget, chiefly because it never connected to the internet.\n\nQuotes of the Day\n\n• \"Your move, OpenAI!\" (Steven Levy, WIRED Backchannel, on Elon Musk renaming SpaceX's XAI division to XSI)\n\nThe Zeitgeist\n\nBackchannel readers call Trump's \"superintelligence\" edict an exercise in power. That is the verdict from last week's poll on the presidential decree that artificial intelligence shall henceforth be called superintelligence. It reads less like tech policy and more like a loyalty test for Silicon Valley's chief executives, and the early returns suggest it is working. (WIRED)",
+        "evening": {
+          "body": "Saturday, October 10, 2026 - Evening Edition\n\nToday's Numbers\n\n• $399: the price of Nothing's Headphone (1) Pro, the transparent-tech brand's priciest wireless cans yet. They keep the see-through earcups and add a triple-driver system, a 10-mic noise-canceling rig, and a \"Flat\" switch that turns off the EQ for a neutral studio sound. The target is clear: Apple, Sony, and Bose flagships.\n\n• $595: the price of the Levi's x Sacai Blouson Jacket, the headliner of the denim giant's third team-up with Japanese designer Chitose Abe. Sherpa, leather, and selvedge denim woven on a shuttle loom make it the brand's most premium collab yet. The drop also includes wide-leg and flare pants with leather belt adjusters.\n\nStyle & Gear\n\nWallace & Barnes is back and firing again. J.Crew relaunched its cult workwear imprint last year, and the new fall capsule is its strongest collection in a decade, according to InsideHook. Think hardwearing staples built for real life, not just the heritage cosplay shelf. If the workwear revival needed a standard-bearer, this might be it. (InsideHook)\n\nFall jacket season is a group project. InsideHook's new guide rounds up five jackets worth wearing this fall, from the Barbour x J.Crew waxed cotton barn jacket to an archival Beams x REI expedition parka with 650-fill down and a Gore-Tex shell. Our Legacy x Stüssy shows up with a leather fireman jacket for the bold. The throughline: updated cuts, bold silhouettes, and colors that are not shy. (InsideHook)\n\nQuick Hits & Curiosities\n\n• Prime Day is officially over, but the deals are not: Amazon savings on Apple, Gap, and Our Place are still live for late shoppers. (InsideHook)\n\n• This week's best deals include a 46%-off Mountain Hardwear Ghost Whisperer puffer, a rare Paraboot markdown at Huckberry, and $110 off handmade Persol sunglasses. (InsideHook)\n\n• Huckberry's own banger sale rolls on as the Prime Day alternative, with serious savings on Flint and Tinder and Rhodes Footwear. (InsideHook)\n\n• InsideHook hard launched a new style newsletter called Protagonist this week. Editor Paolo Sandoval is off Monday for the holiday, so expect him back in your inbox Tuesday. (InsideHook)",
           "blocks": [
             {
               "type": "heading_1",
               "runs": [
                 {
-                  "text": "Saturday, October 10, 2026 - Afternoon Edition",
+                  "text": "Saturday, October 10, 2026 - Evening Edition",
                   "url": "",
                   "bold": false,
                   "italic": false
@@ -73028,13 +73158,13 @@
               "type": "bulleted_list_item",
               "runs": [
                 {
-                  "text": "10,000",
-                  "url": "https://thedailygeneral.substack.com/",
+                  "text": "$399",
+                  "url": "https://www.gearpatrol.com/briefings/today-in-gear/today-in-gear-september-29-2026/",
                   "bold": true,
                   "italic": false
                 },
                 {
-                  "text": ": the mercenaries Xenophon marched home from deep inside Persia in 401 BC, after their generals were executed in a staggering betrayal. His takeaway: shared hardship is the one leadership signal you cannot fake.",
+                  "text": ": the price of Nothing's Headphone (1) Pro, the transparent-tech brand's priciest wireless cans yet. They keep the see-through earcups and add a triple-driver system, a 10-mic noise-canceling rig, and a \"Flat\" switch that turns off the EQ for a neutral studio sound. The target is clear: Apple, Sony, and Bose flagships.",
                   "url": "",
                   "bold": false,
                   "italic": false
@@ -73045,13 +73175,13 @@
               "type": "bulleted_list_item",
               "runs": [
                 {
-                  "text": "25",
-                  "url": "https://www.wired.com/",
+                  "text": "$595",
+                  "url": "https://www.insidehook.com/style-news/new-menswear-releases-10-05-26",
                   "bold": true,
                   "italic": false
                 },
                 {
-                  "text": ": years since Apple launched the iPod on October 23, 2001, a little more than a month after 9/11. The verdict from WIRED: the perfect gadget, chiefly because it never connected to the internet.",
+                  "text": ": the price of the Levi's x Sacai Blouson Jacket, the headliner of the denim giant's third team-up with Japanese designer Chitose Abe. Sherpa, leather, and selvedge denim woven on a shuttle loom make it the brand's most premium collab yet. The drop also includes wide-leg and flare pants with leather belt adjusters.",
                   "url": "",
                   "bold": false,
                   "italic": false
@@ -73062,7 +73192,76 @@
               "type": "paragraph",
               "runs": [
                 {
-                  "text": "Quotes of the Day",
+                  "text": "Style & Gear",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Wallace & Barnes is back and firing again.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " J.Crew relaunched its cult workwear imprint last year, and the new fall capsule is its strongest collection in a decade, according to InsideHook. Think hardwearing staples built for real life, not just the heritage cosplay shelf. If the workwear revival needed a standard-bearer, this might be it. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "InsideHook",
+                  "url": "https://www.insidehook.com/style/jcrew-wallace-and-barnes-relaunch",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Fall jacket season is a group project.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " InsideHook's new guide rounds up five jackets worth wearing this fall, from the Barbour x J.Crew waxed cotton barn jacket to an archival Beams x REI expedition parka with 650-fill down and a Gore-Tex shell. Our Legacy x Stüssy shows up with a leather fireman jacket for the bold. The throughline: updated cuts, bold silhouettes, and colors that are not shy. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "InsideHook",
+                  "url": "https://www.insidehook.com/style-guides/fall-jacket-releases-2026",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Quick Hits & Curiosities",
                   "url": "",
                   "bold": true,
                   "italic": false
@@ -73073,7 +73272,19 @@
               "type": "bulleted_list_item",
               "runs": [
                 {
-                  "text": "\"Your move, OpenAI!\" (Steven Levy, WIRED Backchannel, on Elon Musk renaming SpaceX's XAI division to XSI)",
+                  "text": "Prime Day is officially over, but the deals are not: Amazon savings on Apple, Gap, and Our Place are still live for late shoppers. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "InsideHook",
+                  "url": "https://www.insidehook.com/style/amazon-prime-day-deals",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
                   "url": "",
                   "bold": false,
                   "italic": false
@@ -73081,34 +73292,63 @@
               ]
             },
             {
-              "type": "paragraph",
+              "type": "bulleted_list_item",
               "runs": [
                 {
-                  "text": "The Zeitgeist",
-                  "url": "",
-                  "bold": true,
-                  "italic": false
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "runs": [
-                {
-                  "text": "Backchannel readers call Trump's \"superintelligence\" edict an exercise in power.",
-                  "url": "",
-                  "bold": true,
-                  "italic": false
-                },
-                {
-                  "text": " That is the verdict from last week's poll on the presidential decree that artificial intelligence shall henceforth be called superintelligence. It reads less like tech policy and more like a loyalty test for Silicon Valley's chief executives, and the early returns suggest it is working. (",
+                  "text": "This week's best deals include a 46%-off Mountain Hardwear Ghost Whisperer puffer, a rare Paraboot markdown at Huckberry, and $110 off handmade Persol sunglasses. (",
                   "url": "",
                   "bold": false,
                   "italic": false
                 },
                 {
-                  "text": "WIRED",
-                  "url": "https://www.wired.com/",
+                  "text": "InsideHook",
+                  "url": "https://www.insidehook.com/gear/best-deals-week-10-09-26",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Huckberry's own banger sale rolls on as the Prime Day alternative, with serious savings on Flint and Tinder and Rhodes Footwear. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "InsideHook",
+                  "url": "https://www.insidehook.com/gear/best-deals-week-10-09-26",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "InsideHook hard launched a new style newsletter called Protagonist this week. Editor Paolo Sandoval is off Monday for the holiday, so expect him back in your inbox Tuesday. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "InsideHook",
+                  "url": "https://www.insidehook.com/",
                   "bold": false,
                   "italic": false
                 },
@@ -73123,12 +73363,295 @@
           ],
           "links": [
             {
-              "title": "10,000",
-              "url": "https://thedailygeneral.substack.com/"
+              "title": "$399",
+              "url": "https://www.gearpatrol.com/briefings/today-in-gear/today-in-gear-september-29-2026/"
             },
             {
-              "title": "WIRED",
-              "url": "https://www.wired.com/"
+              "title": "$595",
+              "url": "https://www.insidehook.com/style-news/new-menswear-releases-10-05-26"
+            },
+            {
+              "title": "InsideHook",
+              "url": "https://www.insidehook.com/style/jcrew-wallace-and-barnes-relaunch"
+            },
+            {
+              "title": "InsideHook",
+              "url": "https://www.insidehook.com/style-guides/fall-jacket-releases-2026"
+            },
+            {
+              "title": "InsideHook",
+              "url": "https://www.insidehook.com/style/amazon-prime-day-deals"
+            },
+            {
+              "title": "InsideHook",
+              "url": "https://www.insidehook.com/gear/best-deals-week-10-09-26"
+            },
+            {
+              "title": "InsideHook",
+              "url": "https://www.insidehook.com/"
+            }
+          ]
+        },
+        "full": {
+          "body": "Saturday, October 10, 2026 - Evening Edition\n\nToday's Numbers\n\n• $399: the price of Nothing's Headphone (1) Pro, the transparent-tech brand's priciest wireless cans yet. They keep the see-through earcups and add a triple-driver system, a 10-mic noise-canceling rig, and a \"Flat\" switch that turns off the EQ for a neutral studio sound. The target is clear: Apple, Sony, and Bose flagships.\n\n• $595: the price of the Levi's x Sacai Blouson Jacket, the headliner of the denim giant's third team-up with Japanese designer Chitose Abe. Sherpa, leather, and selvedge denim woven on a shuttle loom make it the brand's most premium collab yet. The drop also includes wide-leg and flare pants with leather belt adjusters.\n\nStyle & Gear\n\nWallace & Barnes is back and firing again. J.Crew relaunched its cult workwear imprint last year, and the new fall capsule is its strongest collection in a decade, according to InsideHook. Think hardwearing staples built for real life, not just the heritage cosplay shelf. If the workwear revival needed a standard-bearer, this might be it. (InsideHook)\n\nFall jacket season is a group project. InsideHook's new guide rounds up five jackets worth wearing this fall, from the Barbour x J.Crew waxed cotton barn jacket to an archival Beams x REI expedition parka with 650-fill down and a Gore-Tex shell. Our Legacy x Stüssy shows up with a leather fireman jacket for the bold. The throughline: updated cuts, bold silhouettes, and colors that are not shy. (InsideHook)\n\nQuick Hits & Curiosities\n\n• Prime Day is officially over, but the deals are not: Amazon savings on Apple, Gap, and Our Place are still live for late shoppers. (InsideHook)\n\n• This week's best deals include a 46%-off Mountain Hardwear Ghost Whisperer puffer, a rare Paraboot markdown at Huckberry, and $110 off handmade Persol sunglasses. (InsideHook)\n\n• Huckberry's own banger sale rolls on as the Prime Day alternative, with serious savings on Flint and Tinder and Rhodes Footwear. (InsideHook)\n\n• InsideHook hard launched a new style newsletter called Protagonist this week. Editor Paolo Sandoval is off Monday for the holiday, so expect him back in your inbox Tuesday. (InsideHook)",
+          "blocks": [
+            {
+              "type": "heading_1",
+              "runs": [
+                {
+                  "text": "Saturday, October 10, 2026 - Evening Edition",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Today's Numbers",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "$399",
+                  "url": "https://www.gearpatrol.com/briefings/today-in-gear/today-in-gear-september-29-2026/",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": the price of Nothing's Headphone (1) Pro, the transparent-tech brand's priciest wireless cans yet. They keep the see-through earcups and add a triple-driver system, a 10-mic noise-canceling rig, and a \"Flat\" switch that turns off the EQ for a neutral studio sound. The target is clear: Apple, Sony, and Bose flagships.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "$595",
+                  "url": "https://www.insidehook.com/style-news/new-menswear-releases-10-05-26",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": the price of the Levi's x Sacai Blouson Jacket, the headliner of the denim giant's third team-up with Japanese designer Chitose Abe. Sherpa, leather, and selvedge denim woven on a shuttle loom make it the brand's most premium collab yet. The drop also includes wide-leg and flare pants with leather belt adjusters.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Style & Gear",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Wallace & Barnes is back and firing again.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " J.Crew relaunched its cult workwear imprint last year, and the new fall capsule is its strongest collection in a decade, according to InsideHook. Think hardwearing staples built for real life, not just the heritage cosplay shelf. If the workwear revival needed a standard-bearer, this might be it. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "InsideHook",
+                  "url": "https://www.insidehook.com/style/jcrew-wallace-and-barnes-relaunch",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Fall jacket season is a group project.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " InsideHook's new guide rounds up five jackets worth wearing this fall, from the Barbour x J.Crew waxed cotton barn jacket to an archival Beams x REI expedition parka with 650-fill down and a Gore-Tex shell. Our Legacy x Stüssy shows up with a leather fireman jacket for the bold. The throughline: updated cuts, bold silhouettes, and colors that are not shy. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "InsideHook",
+                  "url": "https://www.insidehook.com/style-guides/fall-jacket-releases-2026",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Quick Hits & Curiosities",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Prime Day is officially over, but the deals are not: Amazon savings on Apple, Gap, and Our Place are still live for late shoppers. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "InsideHook",
+                  "url": "https://www.insidehook.com/style/amazon-prime-day-deals",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "This week's best deals include a 46%-off Mountain Hardwear Ghost Whisperer puffer, a rare Paraboot markdown at Huckberry, and $110 off handmade Persol sunglasses. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "InsideHook",
+                  "url": "https://www.insidehook.com/gear/best-deals-week-10-09-26",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Huckberry's own banger sale rolls on as the Prime Day alternative, with serious savings on Flint and Tinder and Rhodes Footwear. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "InsideHook",
+                  "url": "https://www.insidehook.com/gear/best-deals-week-10-09-26",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "InsideHook hard launched a new style newsletter called Protagonist this week. Editor Paolo Sandoval is off Monday for the holiday, so expect him back in your inbox Tuesday. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "InsideHook",
+                  "url": "https://www.insidehook.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            }
+          ],
+          "links": [
+            {
+              "title": "$399",
+              "url": "https://www.gearpatrol.com/briefings/today-in-gear/today-in-gear-september-29-2026/"
+            },
+            {
+              "title": "$595",
+              "url": "https://www.insidehook.com/style-news/new-menswear-releases-10-05-26"
+            },
+            {
+              "title": "InsideHook",
+              "url": "https://www.insidehook.com/style/jcrew-wallace-and-barnes-relaunch"
+            },
+            {
+              "title": "InsideHook",
+              "url": "https://www.insidehook.com/style-guides/fall-jacket-releases-2026"
+            },
+            {
+              "title": "InsideHook",
+              "url": "https://www.insidehook.com/style/amazon-prime-day-deals"
+            },
+            {
+              "title": "InsideHook",
+              "url": "https://www.insidehook.com/gear/best-deals-week-10-09-26"
+            },
+            {
+              "title": "InsideHook",
+              "url": "https://www.insidehook.com/"
             }
           ]
         }
