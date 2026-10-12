@@ -143,7 +143,7 @@ class SyncTests(unittest.TestCase):
         self.assertEqual(records[0]['url'], '')
         self.assertEqual(records[0]['blocks'][0]['runs'][0]['text'], 'Highlights.')
 
-    def test_cumulative_snapshots_stay_one_email_with_latest_full_view(self):
+    def test_cumulative_snapshots_stay_one_email_with_combined_full_view(self):
         page = {'id': 'edition', 'created_time': '2026-10-01T14:05:00Z',
                 'properties': {'Name': {'type': 'title', 'title': [
                     {'plain_text': 'A Daily Digest — Thursday, October 1, 2026'}]}}}
@@ -173,9 +173,23 @@ class SyncTests(unittest.TestCase):
         record = records[0]
         self.assertEqual(record['id'], 'digest-edition')
         self.assertIn('Latest evening text.', record['body'])
-        self.assertEqual(record['versions']['full'], record['versions']['evening'])
+        full = record['versions']['full']
+        full_body = full['body']
+        for text in ('Latest morning text.', 'Latest midday text.',
+                     'Latest afternoon text.', 'Latest evening text.'):
+            self.assertIn(text, full_body)
+        self.assertLess(full_body.index('Latest morning text.'),
+                        full_body.index('Latest midday text.'))
+        self.assertLess(full_body.index('Latest midday text.'),
+                        full_body.index('Latest afternoon text.'))
+        self.assertLess(full_body.index('Latest afternoon text.'),
+                        full_body.index('Latest evening text.'))
+        self.assertNotIn('Stale noon draft.', full_body)
         self.assertNotIn('Stale noon draft.', record['versions']['midday']['body'])
         self.assertNotIn('Latest evening text.', record['versions']['morning']['body'])
+        self.assertEqual(len(full['blocks']), sum(
+            len(record['versions'][stage]['blocks'])
+            for stage in ('morning', 'midday', 'afternoon', 'evening')))
         self.assertEqual(record['publishedAt'], '2026-10-01T14:05:00Z')
 
 
