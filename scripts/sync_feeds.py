@@ -376,7 +376,26 @@ def collect_digests(api):
             current = versions[latest]
             lines = current['body'].split('\n\n')
             body, blocks, source_links = current['body'], current['blocks'], current['links']
-            versions['full'] = current
+            ordered = [stage for stage in snapshot_order if stage in versions]
+            if len(ordered) > 1:
+                # The "All" view is the complete edition: every stage so far
+                # today stacked in chronological order. Each stage keeps its
+                # own edition heading, so the breaks between editions stay
+                # visible (numbers and quotes per edition).
+                seen_urls = set()
+                full_links = []
+                for stage in ordered:
+                    for link in versions[stage]['links']:
+                        if link['url'] not in seen_urls:
+                            seen_urls.add(link['url'])
+                            full_links.append(link)
+                versions['full'] = {
+                    'body': '\n\n'.join(versions[stage]['body'] for stage in ordered),
+                    'blocks': [block for stage in ordered for block in versions[stage]['blocks']],
+                    'links': full_links,
+                }
+            else:
+                versions['full'] = current
         else:
             links, blocks = {}, []
             lines = digest_blocks(api, page['id'], links, blocks=blocks, items=top)
