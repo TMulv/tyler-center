@@ -862,6 +862,36 @@
       "domain": "jessewaites.com",
       "checkedAt": "2026-10-10T00:13:07.001751+00:00",
       "available": true
+    },
+    "https://jverzani.github.io/CalculusWithJuliaNotes.jl/": {
+      "title": "Calculus with Julia",
+      "description": "",
+      "site": "",
+      "image": "",
+      "icon": "",
+      "domain": "jverzani.github.io",
+      "checkedAt": "2026-10-12T16:31:56.622154+00:00",
+      "available": true
+    },
+    "https://pixelatron.com/blog/the-making-of-super-mario-64-full-giles-goddard-interview-ngc/": {
+      "title": "The Making Of Super Mario 64 – full Giles Goddard interview (NGC) – pixelatron",
+      "description": "",
+      "site": "",
+      "image": "",
+      "icon": "",
+      "domain": "pixelatron.com",
+      "checkedAt": "2026-10-12T16:31:56.622154+00:00",
+      "available": true
+    },
+    "https://www.ways-of-seeing.com/ch1": {
+      "title": "Chapter 1 of Ways of Seeing by John Berger",
+      "description": "In chapter 1 of Ways of Seeing, Berger, borrowing from the ideas of Walter Benjamin, argues that our ability to reproduce art on a mass scale has fundamentally altered how we encounter it in the world.",
+      "site": "",
+      "image": "",
+      "icon": "https://www.ways-of-seeing.com/images/favicon2.png",
+      "domain": "www.ways-of-seeing.com",
+      "checkedAt": "2026-10-12T16:31:56.622154+00:00",
+      "available": true
     }
   }
 }

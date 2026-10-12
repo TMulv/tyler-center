@@ -918,6 +918,33 @@
       "url": "https://jessewaites.com/blog/post/i-pointed-ai-at-400-years-of-archives/",
       "publishedAt": "2026-10-09T23:49:00Z",
       "readingStatus": "Not marked"
+    },
+    {
+      "id": "readlater-782367294af44fb997c88cabfc885fd6",
+      "channel": "articles",
+      "source": "notion",
+      "title": "Calculus with Julia — John Verzani",
+      "url": "https://jverzani.github.io/CalculusWithJuliaNotes.jl/",
+      "publishedAt": "2026-10-12T13:29:00Z",
+      "readingStatus": "To Read"
+    },
+    {
+      "id": "readlater-6a935b63ec394538babdf68608d381dd",
+      "channel": "articles",
+      "source": "notion",
+      "title": "The Making Of Super Mario 64: full Giles Goddard interview (NGC) — pixelatron",
+      "url": "https://pixelatron.com/blog/the-making-of-super-mario-64-full-giles-goddard-interview-ngc/",
+      "publishedAt": "2026-10-12T13:31:00Z",
+      "readingStatus": "To Read"
+    },
+    {
+      "id": "readlater-66928c653d454634b5e84f1eef098dbb",
+      "channel": "articles",
+      "source": "notion",
+      "title": "Ways of Seeing, Chapter 1 — John Berger (ways-of-seeing.com)",
+      "url": "https://www.ways-of-seeing.com/ch1",
+      "publishedAt": "2026-10-12T13:57:00Z",
+      "readingStatus": "To Read"
     }
   ]
 }

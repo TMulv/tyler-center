@@ -310,6 +310,16 @@
       "mediaType": "Podcasts",
       "readingStatus": "Want to listen",
       "publishedAt": "2026-10-08T14:42:00Z"
+    },
+    {
+      "id": "watchlater-5af16838209e4eff99b599fbdf1315bc",
+      "channel": "watch",
+      "source": "notion",
+      "title": "Stanford CS146S: How always-on agents work",
+      "url": "https://www.youtube.com/watch?v=L1OBRtfPS34",
+      "mediaType": "YouTube",
+      "readingStatus": "Want to see",
+      "publishedAt": "2026-10-12T14:23:00Z"
     }
   ]
 }
