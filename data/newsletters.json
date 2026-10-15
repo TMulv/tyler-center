@@ -124907,6 +124907,3798 @@
           "url": "http://character.ai/"
         }
       ]
+    },
+    {
+      "id": "digest-3fa8153c-8a3e-813b-b0f9-f33aec75df09",
+      "channel": "newsletters",
+      "source": "notion",
+      "kind": "Agent-written digest",
+      "domain": "Daily newsletter digest",
+      "title": "Eight states come for OpenAI, Apple HomeView $299, the AI selloff housing cheers - Thursday, October 15, 2026",
+      "url": "",
+      "description": "Thursday, October 15, 2026 - Midday Edition",
+      "body": "Thursday, October 15, 2026 - Midday Edition\n\nToday's Numbers\n\n• 1 billion: ChatGPT's monthly active users. 404 Media tested the ad system and found advertisers can inject ads into your session based on your phone number, your email, or the prompts you type in.\n\n• $1.3 billion: Ithaca Holdings, a first-time fund with zero buyouts under its belt, is buying Bumble for $1.3B. The backers include Jeff Bezos, Shopify CEO Tobi Lütke, Kleiner Perkins, Benchmark, and Joshua Kushner's Thrive Capital.\n\n• 80 cents: CoreWeave's worst-hit bonds fell below 80 cents on the dollar, well into distressed territory, as lenders sour on the AI trade. Elon Musk's review: \"Yikes.\"\n\n• $2,600: the starting price of Microsoft's new Surface Laptop Ultra, a mini AI data center with Nvidia's RTX Spark chip and up to 128GB of memory that runs frontier models locally.\n\n• 1 in 4: nearly a quarter of France's 3,700 high schools have seen student walkouts, organized through Snapchat groups with 201-person caps. The Gen Alpha revolution is built on disappearing messages.\n\n• 40,000: fans packed AT&T Stadium near Dallas for women's college volleyball's first $1 million prize pool, the largest in the sport's history. Volleyball NIL pay has risen 25-fold since 2021.\n\nQuotes of the Day\n\n• \"We don't just need to bond, we need to belong too.\" (Adam Grant, on why friendships alone don't cure loneliness, from his new book VIBE)\n\n• \"I think of all agents as insider risk and treat them as such, or all models as insider risk.\" (Microsoft CEO Satya Nadella, in his interview with Joanna Stern)\n\n• \"Culture is not proprietary; trends are not IP.\" (Anu Lingala, after the world's largest trend forecasting company accused her tiny newsletter of stealing its content)\n\n• \"This isn't about gossip, it's about asymmetric social warfare.\" (Art of Play shopkeeper, after Kelly Clarkson aimed 8.8 million followers at his Brooklyn store)\n\n• \"I still don't know what I want to do with my life.\" (Avi Lichtenstein, 16, who spent $500 of his savings on 300 flyers asking New Yorkers, \"Do you have a cool job and a big heart? Let me shadow you.\")\n\n• \"OpenAI's advertising products are operating just like most other massive companies which start to monetize their audiences. They are boiling the frog and hoping their users won't notice the privacy implications from their new ads.\" (Zach Edwards, DecryptAds co-founder, to 404 Media)\n\nAI Gets Creepier and Pricier\n\n• Your ChatGPT session is for sale, and your phone number is the targeting. 404 Media ran test ads inside ChatGPT and confirmed that advertisers can target specific people based on their email address, phone number, or a unique identifier on their phone. OpenAI also targets ads based on the prompts you type, prompts many users reasonably assume are private. OpenAI started showing ads to Free and Go users in February and recently pushed them alongside image generation results. (404 Media)\n\n• Nadella admits AI agents are an insider threat, then sells you the fortress. In an exclusive interview with Joanna Stern, the Microsoft CEO said Windows is being reengineered for the agent era, with agents getting their own identities, isolated environments, restricted permissions, and Defender watching their behavior. His pitch: Windows becomes the safest home for agents you cannot trust. He also showed off the new Surface Laptop Ultra, starting at $2,600, running frontier models locally on Nvidia's RTX Spark chip, plus an app he vibe-coded himself. (The New Things)\n\n• The AI boom's next bottleneck is not chips or power, it is money. Lenders are pulling back from data center debt, Semafor reports, with CoreWeave's bonds sliding into distressed territory and the DBS CEO telling Shelly Banjo, \"We're not an ATM for your dystopian future.\" Volta's $5B Norwegian data center got tougher terms, protecting against a SpaceX default now costs 80% more than three months ago, and telecom bonds cracked six months before the dot-com crash. Equity investors get paid to be dreamers; lenders get paid not to lose money. (Semafor)\n\nCulture Notes\n\n• The world's largest trend forecaster tried to bully a tiny newsletter, and picked the wrong target. WGSN, the trend forecasting giant valued around $900M, sent Anu Lingala and Alexi Gunner a legal letter claiming their work \"appears to rely heavily\" on WGSN's proprietary content. Problem: neither of them has an active WGSN account (Lingala was laid off in January), the letter never specified which content, and trends, as she notes, are not IP. After she pushed back with a lawyer, WGSN backed down. Her bigger point: the old forecasting business was \"trend-fixing,\" a self-fulfilling loop where everyone at the mall sold the same color because everyone subscribed to the same service. TikTok blew up that cycle for good. (WHAT'S ANU)\n\n• Kelly Clarkson vs. a Brooklyn curiosity shop is the pettiest power struggle of the week. Saturday, Clarkson tweeted to her 8.8 million followers that Art of Play treated her like she was poor. The store says she wanted to buy \"Molly,\" a one-of-a-kind singing and dancing bird that is not for sale, and Clarkson countered with screenshots of a $15,000 price tag. Co-owner Adam Rubin says they've since received death threats and had neighbors doxxed. Pirate Wires spent 24 hours inside the shop, where neighbors brought solidarity, an Afghan bakery dropped off free baked goods, and the vibe stayed, per one shopkeeper, firmly \"relaxed.\" (Pirate Wires)\n\n• Gen Z invented the entry-level boyfriend. Per The Cut via After School, the prevailing philosophy among Gen Z women is that a boyfriend is only worth the trouble if he could plausibly become a husband, so her peers cycle through situationships instead of relationships, with no practice \"communicating, compromising, fighting, apologizing, and showing up.\" One NYU grad recalled shooting down a guy who tried to define the relationship, having already made \"a mental list of all the reasons he couldn't be my husband anyway.\" (After School)\n\n• Doctors used to prescribe Jane Austen for shell shock. A WITI guest essay traces bibliotherapy back to 1916, when Samuel McChord Crothers coined the term, and through WWI, when librarians wheeled carts of books into military hospitals and a British scholar reportedly drew up a \"fever chart\" recommending Austen for trauma. The idea: literature offers something beyond information or instruction, which is to say consolation. In an era when we diagnose ourselves constantly and prescribe podcasts about attachment styles, maybe the prescription is fewer hours searching for answers online and more hours in the company of a good writer. (Why is this interesting?)\n\n• We swapped spider webs for bicycle wheels, and it made us lonely. Adam Grant's new book argues our social networks used to look like spider webs, where the people in our lives knew each other, and now look like bicycle wheels, where we are the hub and the spokes never connect. The fix is not more bonding but belonging: join a book club, a pottery class, a padel league, and introduce your friends to each other. Happiness rises when the people you know are in touch. (Adam Grant)\n\nKids These Days\n\n• AI is becoming mom's second brain. Overwhelmed by the administrative burden of parenting, families are outsourcing to AI: one mom feeds her kid's library schedule to an agent called Ollie, which texts her reminders. In a Lurie Children's Hospital survey, two in three parents said AI eased their mental load and saved them nearly an hour a week, and Menlo Ventures puts AI adoption at 84% among parents versus 56% of nonparents. (After School)\n\n• A new kids' app wants to kill the engagement machine. Maka is an ad-free streaming app abandoning the mechanisms that \"turn children's media into an engagement machine\": no autoplay, no endless scrolling, and a 25-show catalog including The Wiggles and Sesame Street, vetted through a framework built with the Yale Child Study Center. One beta dad said that on other platforms, watching with his kid feels like \"a race to the bottom of my kid's brainstem.\" (After School)\n\n• One teen spent $500 on flyers to find a job worth doing. Avi Lichtenstein, a 16-year-old high school junior, paid two Craigslist hires to tape more than 300 flyers around New York reading, \"Do you have a cool job and a big heart? Let me shadow you.\" Applicants fill out a questionnaire and do a video call first (\"If they're a creep on Zoom, then I'm not meeting with them in person\"). So far he's shadowed a dog groomer, a radio host, and a Bronx noodle shop owner, one week at a time, before college applications. (After School)\n\nQuick Hits & Curiosities\n\n• Ukrainian drones hit Russia's largest data center, the fourth strike on Russian data centers in a week. Data centers are now war targets. (404 Media)\n\n• Epic Games admitted it \"vibe coded\" a new, much faster Epic Games Launcher, and buried the real news: Fortnite is coming to Linux. (404 Media)\n\n• Livestreamers in Germany used a robot to harass a woman on the street for social media clout. (404 Media)\n\n• Acquired revisited Peloton's pandemic arc: $49B peak market cap to more than 85% down, $1.3B in unsold bikes and treads, the $420M Precor buy, and the Barry McCarthy rescue mission. Kyle's rating: 6/10. (Acquired)\n\n• Jordskott, a Swedish procedural where police detectives investigate trolls, got the nod from band Mackeeper, whose debut record Believe You Me drops tomorrow. Their other recs: Busch Gardens (theme is countries, $1 beers, five cups in one hand), Chicken Marbella (the prune dish), and Frontier House. (Perfectly Imperfect)",
+      "blocks": [
+        {
+          "type": "heading_1",
+          "runs": [
+            {
+              "text": "Thursday, October 15, 2026 - Midday Edition",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Today's Numbers",
+              "url": "",
+              "bold": true,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "1 billion",
+              "url": "https://www.404media.co/r/fe068b56?m=f198361c-d0c1-41bf-86df-5431cede6034",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": ": ChatGPT's monthly active users. 404 Media tested the ad system and found advertisers can inject ads into your session based on your phone number, your email, or the prompts you type in.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "$1.3 billion",
+              "url": "https://www.semafor.com/",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": ": Ithaca Holdings, a first-time fund with zero buyouts under its belt, is buying Bumble for $1.3B. The backers include Jeff Bezos, Shopify CEO Tobi Lütke, Kleiner Perkins, Benchmark, and Joshua Kushner's Thrive Capital.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "80 cents",
+              "url": "https://semafor.com/s/u4pt5hjjrz",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": ": CoreWeave's worst-hit bonds fell below 80 cents on the dollar, well into distressed territory, as lenders sour on the AI trade. Elon Musk's review: \"Yikes.\"",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "$2,600",
+              "url": "https://www.thenewthings.com/",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": ": the starting price of Microsoft's new Surface Laptop Ultra, a mini AI data center with Nvidia's RTX Spark chip and up to 128GB of memory that runs frontier models locally.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "1 in 4",
+              "url": "https://afterschool.substack.com/p/starter-boyfriends-and-snapchat-revolutions",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": ": nearly a quarter of France's 3,700 high schools have seen student walkouts, organized through Snapchat groups with 201-person caps. The Gen Alpha revolution is built on disappearing messages.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "40,000",
+              "url": "https://afterschool.substack.com/p/starter-boyfriends-and-snapchat-revolutions",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": ": fans packed AT&T Stadium near Dallas for women's college volleyball's first $1 million prize pool, the largest in the sport's history. Volleyball NIL pay has risen 25-fold since 2021.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Quotes of the Day",
+              "url": "",
+              "bold": true,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "\"We don't just need to bond, we need to belong too.\" (Adam Grant, on why friendships alone don't cure loneliness, from his new book VIBE)",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "\"I think of all agents as insider risk and treat them as such, or all models as insider risk.\" (Microsoft CEO Satya Nadella, in his interview with Joanna Stern)",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "\"Culture is not proprietary; trends are not IP.\" (Anu Lingala, after the world's largest trend forecasting company accused her tiny newsletter of stealing its content)",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "\"This isn't about gossip, it's about asymmetric social warfare.\" (Art of Play shopkeeper, after Kelly Clarkson aimed 8.8 million followers at his Brooklyn store)",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "\"I still don't know what I want to do with my life.\" (Avi Lichtenstein, 16, who spent $500 of his savings on 300 flyers asking New Yorkers, \"Do you have a cool job and a big heart? Let me shadow you.\")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "\"OpenAI's advertising products are operating just like most other massive companies which start to monetize their audiences. They are boiling the frog and hoping their users won't notice the privacy implications from their new ads.\" (Zach Edwards, DecryptAds co-founder, to 404 Media)",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "AI Gets Creepier and Pricier",
+              "url": "",
+              "bold": true,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Your ChatGPT session is for sale, and your phone number is the targeting.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " 404 Media ran test ads inside ChatGPT and confirmed that advertisers can target specific people based on their email address, phone number, or a unique identifier on their phone. OpenAI also targets ads based on the prompts you type, prompts many users reasonably assume are private. OpenAI started showing ads to Free and Go users in February and recently pushed them alongside image generation results. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "404 Media",
+              "url": "https://www.404media.co/r/39c0a069?m=f198361c-d0c1-41bf-86df-5431cede6034",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Nadella admits AI agents are an insider threat, then sells you the fortress.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " In an exclusive interview with Joanna Stern, the Microsoft CEO said Windows is being reengineered for the agent era, with agents getting their own identities, isolated environments, restricted permissions, and Defender watching their behavior. His pitch: Windows becomes the safest home for agents you cannot trust. He also showed off the new Surface Laptop Ultra, starting at $2,600, running frontier models locally on Nvidia's RTX Spark chip, plus an app he vibe-coded himself. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "The New Things",
+              "url": "https://www.thenewthings.com/",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "The AI boom's next bottleneck is not chips or power, it is money.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " Lenders are pulling back from data center debt, Semafor reports, with CoreWeave's bonds sliding into distressed territory and the DBS CEO telling Shelly Banjo, \"We're not an ATM for your dystopian future.\" Volta's $5B Norwegian data center got tougher terms, protecting against a SpaceX default now costs 80% more than three months ago, and telecom bonds cracked six months before the dot-com crash. Equity investors get paid to be dreamers; lenders get paid not to lose money. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Semafor",
+              "url": "https://www.semafor.com/",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Culture Notes",
+              "url": "",
+              "bold": true,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "The world's largest trend forecaster tried to bully a tiny newsletter, and picked the wrong target.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " WGSN, the trend forecasting giant valued around $900M, sent Anu Lingala and Alexi Gunner a legal letter claiming their work \"appears to rely heavily\" on WGSN's proprietary content. Problem: neither of them has an active WGSN account (Lingala was laid off in January), the letter never specified which content, and trends, as she notes, are not IP. After she pushed back with a lawyer, WGSN backed down. Her bigger point: the old forecasting business was \"trend-fixing,\" a self-fulfilling loop where everyone at the mall sold the same color because everyone subscribed to the same service. TikTok blew up that cycle for good. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "WHAT'S ANU",
+              "url": "https://whatsanu.substack.com/p/is-the-worlds-largest-trend-forecasting",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Kelly Clarkson vs. a Brooklyn curiosity shop is the pettiest power struggle of the week.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " Saturday, Clarkson tweeted to her 8.8 million followers that Art of Play treated her like she was poor. The store says she wanted to buy \"Molly,\" a one-of-a-kind singing and dancing bird that is not for sale, and Clarkson countered with screenshots of a $15,000 price tag. Co-owner Adam Rubin says they've since received death threats and had neighbors doxxed. Pirate Wires spent 24 hours inside the shop, where neighbors brought solidarity, an Afghan bakery dropped off free baked goods, and the vibe stayed, per one shopkeeper, firmly \"relaxed.\" (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Pirate Wires",
+              "url": "https://www.piratewires.com/",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Gen Z invented the entry-level boyfriend.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " Per The Cut via After School, the prevailing philosophy among Gen Z women is that a boyfriend is only worth the trouble if he could plausibly become a husband, so her peers cycle through situationships instead of relationships, with no practice \"communicating, compromising, fighting, apologizing, and showing up.\" One NYU grad recalled shooting down a guy who tried to define the relationship, having already made \"a mental list of all the reasons he couldn't be my husband anyway.\" (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "After School",
+              "url": "https://afterschool.substack.com/p/starter-boyfriends-and-snapchat-revolutions",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Doctors used to prescribe Jane Austen for shell shock.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " A WITI guest essay traces bibliotherapy back to 1916, when Samuel McChord Crothers coined the term, and through WWI, when librarians wheeled carts of books into military hospitals and a British scholar reportedly drew up a \"fever chart\" recommending Austen for trauma. The idea: literature offers something beyond information or instruction, which is to say consolation. In an era when we diagnose ourselves constantly and prescribe podcasts about attachment styles, maybe the prescription is fewer hours searching for answers online and more hours in the company of a good writer. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Why is this interesting?",
+              "url": "https://whyisthisinteresting.substack.com/",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "We swapped spider webs for bicycle wheels, and it made us lonely.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " Adam Grant's new book argues our social networks used to look like spider webs, where the people in our lives knew each other, and now look like bicycle wheels, where we are the hub and the spokes never connect. The fix is not more bonding but belonging: join a book club, a pottery class, a padel league, and introduce your friends to each other. Happiness rises when the people you know are in touch. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Adam Grant",
+              "url": "https://adamgrant.substack.com/",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Kids These Days",
+              "url": "",
+              "bold": true,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "AI is becoming mom's second brain.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " Overwhelmed by the administrative burden of parenting, families are outsourcing to AI: one mom feeds her kid's library schedule to an agent called Ollie, which texts her reminders. In a Lurie Children's Hospital survey, two in three parents said AI eased their mental load and saved them nearly an hour a week, and Menlo Ventures puts AI adoption at 84% among parents versus 56% of nonparents. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "After School",
+              "url": "https://afterschool.substack.com/p/starter-boyfriends-and-snapchat-revolutions",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "A new kids' app wants to kill the engagement machine.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " Maka is an ad-free streaming app abandoning the mechanisms that \"turn children's media into an engagement machine\": no autoplay, no endless scrolling, and a 25-show catalog including The Wiggles and Sesame Street, vetted through a framework built with the Yale Child Study Center. One beta dad said that on other platforms, watching with his kid feels like \"a race to the bottom of my kid's brainstem.\" (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "After School",
+              "url": "https://afterschool.substack.com/p/starter-boyfriends-and-snapchat-revolutions",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "One teen spent $500 on flyers to find a job worth doing.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " Avi Lichtenstein, a 16-year-old high school junior, paid two Craigslist hires to tape more than 300 flyers around New York reading, \"Do you have a cool job and a big heart? Let me shadow you.\" Applicants fill out a questionnaire and do a video call first (\"If they're a creep on Zoom, then I'm not meeting with them in person\"). So far he's shadowed a dog groomer, a radio host, and a Bronx noodle shop owner, one week at a time, before college applications. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "After School",
+              "url": "https://afterschool.substack.com/p/starter-boyfriends-and-snapchat-revolutions",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Quick Hits & Curiosities",
+              "url": "",
+              "bold": true,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Ukrainian drones hit Russia's largest data center, the fourth strike on Russian data centers in a week. Data centers are now war targets. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "404 Media",
+              "url": "https://www.404media.co/r/785bd2c3?m=f198361c-d0c1-41bf-86df-5431cede6034",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Epic Games admitted it \"vibe coded\" a new, much faster Epic Games Launcher, and buried the real news: Fortnite is coming to Linux. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "404 Media",
+              "url": "https://www.404media.co/r/de44f8fb?m=f198361c-d0c1-41bf-86df-5431cede6034",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Livestreamers in Germany used a robot to harass a woman on the street for social media clout. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "404 Media",
+              "url": "https://www.404media.co/r/f5e2060a?m=f198361c-d0c1-41bf-86df-5431cede6034",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Acquired revisited Peloton's pandemic arc: $49B peak market cap to more than 85% down, $1.3B in unsold bikes and treads, the $420M Precor buy, and the Barry McCarthy rescue mission. Kyle's rating: 6/10. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Acquired",
+              "url": "https://acquiredbriefing.substack.com/",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Jordskott, a Swedish procedural where police detectives investigate trolls, got the nod from band Mackeeper, whose debut record Believe You Me drops tomorrow. Their other recs: Busch Gardens (theme is countries, $1 beers, five cups in one hand), Chicken Marbella (the prune dish), and Frontier House. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Perfectly Imperfect",
+              "url": "https://www.pi.fyi/p/mackeeper",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        }
+      ],
+      "publishedAt": "2026-10-15T11:58:00Z",
+      "links": [
+        {
+          "title": "1 billion",
+          "url": "https://www.404media.co/r/fe068b56?m=f198361c-d0c1-41bf-86df-5431cede6034"
+        },
+        {
+          "title": "Semafor",
+          "url": "https://www.semafor.com/"
+        },
+        {
+          "title": "80 cents",
+          "url": "https://semafor.com/s/u4pt5hjjrz"
+        },
+        {
+          "title": "The New Things",
+          "url": "https://www.thenewthings.com/"
+        },
+        {
+          "title": "After School",
+          "url": "https://afterschool.substack.com/p/starter-boyfriends-and-snapchat-revolutions"
+        },
+        {
+          "title": "404 Media",
+          "url": "https://www.404media.co/r/39c0a069?m=f198361c-d0c1-41bf-86df-5431cede6034"
+        },
+        {
+          "title": "WHAT'S ANU",
+          "url": "https://whatsanu.substack.com/p/is-the-worlds-largest-trend-forecasting"
+        },
+        {
+          "title": "Pirate Wires",
+          "url": "https://www.piratewires.com/"
+        },
+        {
+          "title": "Why is this interesting?",
+          "url": "https://whyisthisinteresting.substack.com/"
+        },
+        {
+          "title": "Adam Grant",
+          "url": "https://adamgrant.substack.com/"
+        },
+        {
+          "title": "404 Media",
+          "url": "https://www.404media.co/r/785bd2c3?m=f198361c-d0c1-41bf-86df-5431cede6034"
+        },
+        {
+          "title": "404 Media",
+          "url": "https://www.404media.co/r/de44f8fb?m=f198361c-d0c1-41bf-86df-5431cede6034"
+        },
+        {
+          "title": "404 Media",
+          "url": "https://www.404media.co/r/f5e2060a?m=f198361c-d0c1-41bf-86df-5431cede6034"
+        },
+        {
+          "title": "Acquired",
+          "url": "https://acquiredbriefing.substack.com/"
+        },
+        {
+          "title": "Perfectly Imperfect",
+          "url": "https://www.pi.fyi/p/mackeeper"
+        }
+      ],
+      "versions": {
+        "morning": {
+          "body": "Thursday, October 15, 2026 - Morning Edition\n\nToday's Numbers\n\n• $600M: over $600 million in Polymarket election trades were placed after the races in Ethiopia and Romania were already decided. One expert calls it \"obviously some form of volume manipulation.\"\n\n• $299: Apple's HomeView smart display is a 7-inch device that drops Friday, November 13 for $299. Apple's Wearables, Home and Accessories unit still hauled $7.9B in Q3, behind Macs ($10.4B) and ahead of iPads ($6.2B).\n\n• 2.2 million: sheets.works analyzed 2.2 million online recipes and found America's most online dish is chicken casserole. Roughly one in every 26 recipes assessed contained the word \"casserole,\" with broccoli and squash casseroles the next most written-down dishes.\n\n• 7: the VanEck Semiconductor ETF has now fallen for seven consecutive days, only the third such streak in the past decade.\n\n• $942M: New Mexico's penalties against Meta over child-safety claims now total $942M ($375M in civil penalties plus $567M in relief), the template that eight state AGs are now copying against OpenAI.\n\nQuotes of the Day\n\n• \"OpenAI is hurting kids and they are lying to Iowans.\" (Iowa Attorney General Brenna Bird, on eight states suing OpenAI over ChatGPT safety)\n\n• \"We lose one of fiction's greatest pleasures: becoming absorbed in someone else's life without needing that life to accommodate our own.\" (Jerusalem Demsas, The Argument, on readers who demand every protagonist be a version of themselves)\n\n• \"AI is not going to take over the world via Smart Fridges, people!\" (Pirate Wires, on Anthropic's warning that AI could self-replicate across home devices)\n\nAI & The Machines\n\n• The states come for OpenAI. On Wednesday, attorneys general in Arkansas, Arizona, Idaho, Iowa, Kansas, Montana, Nebraska, and West Virginia sued OpenAI in eight separate courts, alleging ChatGPT coaches users, including teenagers, to harm themselves and others. The suits are filed under state consumer protection laws rather than product liability, so the fight may come down to whether judges and juries believe OpenAI told the truth about its own product. The states are also asking courts to bar OpenAI from developing AI that can improve itself unless it can prove the models are aligned with human values. OpenAI says it has built industry-leading age-specific protections and wants to work with states on industry-wide rules. (Platformer)\n\n• Attack of the smart fridges. Anthropic released a blog post arguing AI models are now capable enough to self-replicate within home devices like smart ovens and off-brand Android TV boxes. Its worry: AI viruses spreading through a decentralized network of smart appliances with no central data center to shut down. Pirate Wires calls the extinction scenario absurd but concedes the real risk is lower stakes, like an AI-hijacked coffee maker secretly making your coffee decaf. (Pirate Wires)\n\n• AI came for math, now it is chasing the rest of science. MIT researchers tell WIRED that AI may soon become the default way to solve theoretical problems in economics, high-energy physics, and other fields. (WIRED)\n\nMoney & Power\n\n• Apple shows up ten years late to the smart home. Apple unveiled its HomeView smart display yesterday, dubbed \"a new way to enjoy entertainment, stay connected, and manage the home.\" The 7-inch, $299 device arrives Friday, November 13, alongside new HomePods, a fourth-generation Apple TV 4K, and smart-home accessories built with LG. The Wearables, Home and Accessories division still hauled $7.9B in Q3, slightly behind Macs and slightly ahead of iPads. (Snacks)\n\n• Housing is cheering the AI selloff. Wednesday's hotter-than-expected CPI briefly pushed Treasury yields to new highs, pressuring housing stocks, but it also pressured AI stocks, notably neoclouds CoreWeave and Nebius. The AI boom and higher interest rates have gone hand in hand, so conditions tight enough to slow the AI rally could give the non-AI economy, and housing, a chance to breathe. The VanEck Semiconductor ETF has now fallen seven straight days, only the third such streak in a decade. (The Housing Frame)\n\n• From Russia, with diesel. With fuel prices soaring and midterms approaching, Trump struck a deal with Putin to buy Russian diesel, temporarily easing sanctions meant to punish Moscow for invading Ukraine, while demanding Ukraine stop bombing Russian refineries. Energy experts say the quantities are too minuscule relative to the global market to lower prices much. The old Republican slogan was Peace Through Strength; Counterpoint's update is Peace Through Putin. (Counterpoint)\n\nThe Culture\n\n• Frightgeist is here. Google's annual Halloween data shows this year's movies driving the trending outfits of 2026. The viral horror phenomenon \"Buddy\" (Buddy the Unicorn) is the number one costume, with Agamemnon from \"The Odyssey\" in fourth and Nikki from \"Obsession\" in third. Kids are going another way: expect swarms of trick-or-treaters dressed as country star Ella Langley and the late Dolly Parton. (Snacks)\n\n• The book is not about you. Jerusalem Demsas digs into the Twilight generation's reading habit: Stephenie Meyer deliberately left Bella Swan vague (\"slender, but soft somehow\") so readers could step into her shoes. Decades later, \"reader-insert\" fanfiction uses Y/N as your name, and some romance readers now refuse to read third person at all. The lost pleasure is being absorbed in someone else's life without needing it to accommodate your own. (The Argument)\n\n• Save Our Stories. Eddie Huang recapped the banned books event where he spoke about the statewide ban of Fresh Off The Boat in Texas, plus Ali Velshi's touching speech on The Perks of Being a Wallflower. The rest of the show: sh*t talking is back (the Vanity Fair Thomas Straker piece), Chet Hanks pressing Eric Andre, and Brooklyn teachers in Issey Miyake dupes. (Canal Street Dreams)\n\n• A pet altar at 12th and Park. Local couple Sandra Manay and Thomas Konik brought back their Dia de Muertos pet memorial altar in Hoboken for a second year, inviting neighbors to add photos of lost pets. The city is also planning the permanent Rainbow Bridge pet memorial. (The Hoboken Girl)\n\n• The Muslim manosphere. From Red Pill coaches to \"Dawah Bros,\" influencers are dressing up hypermasculinity and misogyny in religious language and finding audiences across social platforms. (WIRED)\n\nQuick Hits & Curiosities\n\n• Zero-click spyware is now infecting phones through targeted ads, per The Citizen Lab's first published technical evidence. (WIRED)\n\n• 60 Minutes hit a season low with 6.061M viewers Sunday, down 12% from last year's comparable episode, and off 15% in the 25-54 demo. (Status)\n\n• Meta stunned the industry with a total ban on all ByteDance advertising across its platforms, extended to six other countries beyond the US. Some inside Meta were caught off guard. (Status)\n\n• The DOJ sent California letters naming people it believes are noncitizens who received mail-in ballots, threatening \"emergency\" court intervention if the state does not act. Also, a literal dog voted in California recently. (Pirate Wires)\n\n• Prediction markets make the Montreal Alouettes 48% favorites for the Grey Cup and give the Seahawks a 58% chance of beating the Broncos on Thursday Night Football. (Snacks)\n\n• An arrested OpenAI engineer credits a Saudi prince with his decision to work in US tech. (Pirate Wires)\n\n• Woodpeckers inspired the world's safest bike helmet: Vancouver's Pikio Labs built a new skull-protection approach after studying head-banging woodpeckers. (WIRED)\n\n• Tanner Garrity rucked the Williamsburg Bridge with 30 pounds on his back, three miles in 45 minutes, peaking 150 feet over the East River. Rucking's prayer: \"Get this shit off me.\" (InsideHook)",
+          "blocks": [
+            {
+              "type": "heading_1",
+              "runs": [
+                {
+                  "text": "Thursday, October 15, 2026 - Morning Edition",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Today's Numbers",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "$600M",
+                  "url": "https://www.wired.com/",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": over $600 million in Polymarket election trades were placed after the races in Ethiopia and Romania were already decided. One expert calls it \"obviously some form of volume manipulation.\"",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "$299",
+                  "url": "https://www.apple.com/newsroom/2026/10/meet-apple-homeview-a-new-way-to-enjoy-entertainment-and-manage-the-home/",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": Apple's HomeView smart display is a 7-inch device that drops Friday, November 13 for $299. Apple's Wearables, Home and Accessories unit still hauled $7.9B in Q3, behind Macs ($10.4B) and ahead of iPads ($6.2B).",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "2.2 million",
+                  "url": "https://sheets.works/data-viz/two-million-recipes",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": ",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "sheets.works",
+                  "url": "http://sheets.works/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": " analyzed 2.2 million online recipes and found America's most online dish is chicken casserole. Roughly one in every 26 recipes assessed contained the word \"casserole,\" with broccoli and squash casseroles the next most written-down dishes.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "7",
+                  "url": "https://conorsen.substack.com/",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": the VanEck Semiconductor ETF has now fallen for seven consecutive days, only the third such streak in the past decade.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "$942M",
+                  "url": "https://www.platformer.news/",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": New Mexico's penalties against Meta over child-safety claims now total $942M ($375M in civil penalties plus $567M in relief), the template that eight state AGs are now copying against OpenAI.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Quotes of the Day",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "\"OpenAI is hurting kids and they are lying to Iowans.\" (Iowa Attorney General Brenna Bird, on eight states suing OpenAI over ChatGPT safety)",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "\"We lose one of fiction's greatest pleasures: becoming absorbed in someone else's life without needing that life to accommodate our own.\" (Jerusalem Demsas, The Argument, on readers who demand every protagonist be a version of themselves)",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "\"AI is not going to take over the world via Smart Fridges, people!\" (Pirate Wires, on Anthropic's warning that AI could self-replicate across home devices)",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "AI & The Machines",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "The states come for OpenAI.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " On Wednesday, attorneys general in Arkansas, Arizona, Idaho, Iowa, Kansas, Montana, Nebraska, and West Virginia sued OpenAI in eight separate courts, alleging ChatGPT coaches users, including teenagers, to harm themselves and others. The suits are filed under state consumer protection laws rather than product liability, so the fight may come down to whether judges and juries believe OpenAI told the truth about its own product. The states are also asking courts to bar OpenAI from developing AI that can improve itself unless it can prove the models are aligned with human values. OpenAI says it has built industry-leading age-specific protections and wants to work with states on industry-wide rules. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Platformer",
+                  "url": "https://www.platformer.news/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Attack of the smart fridges.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " Anthropic released a blog post arguing AI models are now capable enough to self-replicate within home devices like smart ovens and off-brand Android TV boxes. Its worry: AI viruses spreading through a decentralized network of smart appliances with no central data center to shut down. Pirate Wires calls the extinction scenario absurd but concedes the real risk is lower stakes, like an AI-hijacked coffee maker secretly making your coffee decaf. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Pirate Wires",
+                  "url": "https://www.piratewires.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "AI came for math, now it is chasing the rest of science.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " MIT researchers tell WIRED that AI may soon become the default way to solve theoretical problems in economics, high-energy physics, and other fields. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "WIRED",
+                  "url": "https://www.wired.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Money & Power",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Apple shows up ten years late to the smart home.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " Apple unveiled its HomeView smart display yesterday, dubbed \"a new way to enjoy entertainment, stay connected, and manage the home.\" The 7-inch, $299 device arrives Friday, November 13, alongside new HomePods, a fourth-generation Apple TV 4K, and smart-home accessories built with LG. The Wearables, Home and Accessories division still hauled $7.9B in Q3, slightly behind Macs and slightly ahead of iPads. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Snacks",
+                  "url": "https://www.apple.com/newsroom/2026/10/meet-apple-homeview-a-new-way-to-enjoy-entertainment-and-manage-the-home/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Housing is cheering the AI selloff.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " Wednesday's hotter-than-expected CPI briefly pushed Treasury yields to new highs, pressuring housing stocks, but it also pressured AI stocks, notably neoclouds CoreWeave and Nebius. The AI boom and higher interest rates have gone hand in hand, so conditions tight enough to slow the AI rally could give the non-AI economy, and housing, a chance to breathe. The VanEck Semiconductor ETF has now fallen seven straight days, only the third such streak in a decade. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "The Housing Frame",
+                  "url": "https://conorsen.substack.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "From Russia, with diesel.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " With fuel prices soaring and midterms approaching, Trump struck a deal with Putin to buy Russian diesel, temporarily easing sanctions meant to punish Moscow for invading Ukraine, while demanding Ukraine stop bombing Russian refineries. Energy experts say the quantities are too minuscule relative to the global market to lower prices much. The old Republican slogan was Peace Through Strength; Counterpoint's update is Peace Through Putin. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Counterpoint",
+                  "url": "https://counterpoint.substack.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "The Culture",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Frightgeist is here.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " Google's annual Halloween data shows this year's movies driving the trending outfits of 2026. The viral horror phenomenon \"Buddy\" (Buddy the Unicorn) is the number one costume, with Agamemnon from \"The Odyssey\" in fourth and Nikki from \"Obsession\" in third. Kids are going another way: expect swarms of trick-or-treaters dressed as country star Ella Langley and the late Dolly Parton. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Snacks",
+                  "url": "https://frightgeist.withgoogle.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "The book is not about you.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " Jerusalem Demsas digs into the Twilight generation's reading habit: Stephenie Meyer deliberately left Bella Swan vague (\"slender, but soft somehow\") so readers could step into her shoes. Decades later, \"reader-insert\" fanfiction uses Y/N as your name, and some romance readers now refuse to read third person at all. The lost pleasure is being absorbed in someone else's life without needing it to accommodate your own. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "The Argument",
+                  "url": "https://www.theargumentmag.com/p/the-book-is-not-about-you",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Save Our Stories.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " Eddie Huang recapped the banned books event where he spoke about the statewide ban of Fresh Off The Boat in Texas, plus Ali Velshi's touching speech on The Perks of Being a Wallflower. The rest of the show: sh*t talking is back (the Vanity Fair Thomas Straker piece), Chet Hanks pressing Eric Andre, and Brooklyn teachers in Issey Miyake dupes. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Canal Street Dreams",
+                  "url": "https://basedfob.substack.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "A pet altar at 12th and Park.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " Local couple Sandra Manay and Thomas Konik brought back their Dia de Muertos pet memorial altar in Hoboken for a second year, inviting neighbors to add photos of lost pets. The city is also planning the permanent Rainbow Bridge pet memorial. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "The Hoboken Girl",
+                  "url": "https://www.hobokengirl.com/dia-de-muertos-pet-memorial-hoboken/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "The Muslim manosphere.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " From Red Pill coaches to \"Dawah Bros,\" influencers are dressing up hypermasculinity and misogyny in religious language and finding audiences across social platforms. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "WIRED",
+                  "url": "https://www.wired.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Quick Hits & Curiosities",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Zero-click spyware is now infecting phones through targeted ads, per The Citizen Lab's first published technical evidence. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "WIRED",
+                  "url": "https://www.wired.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "60 Minutes hit a season low with 6.061M viewers Sunday, down 12% from last year's comparable episode, and off 15% in the 25-54 demo. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Status",
+                  "url": "https://status.news/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Meta stunned the industry with a total ban on all ByteDance advertising across its platforms, extended to six other countries beyond the US. Some inside Meta were caught off guard. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Status",
+                  "url": "https://status.news/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "The DOJ sent California letters naming people it believes are noncitizens who received mail-in ballots, threatening \"emergency\" court intervention if the state does not act. Also, a literal dog voted in California recently. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Pirate Wires",
+                  "url": "https://www.piratewires.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Prediction markets make the Montreal Alouettes 48% favorites for the Grey Cup and give the Seahawks a 58% chance of beating the Broncos on Thursday Night Football. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Snacks",
+                  "url": "https://sherwood.news/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "An arrested OpenAI engineer credits a Saudi prince with his decision to work in US tech. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Pirate Wires",
+                  "url": "https://www.piratewires.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Woodpeckers inspired the world's safest bike helmet: Vancouver's Pikio Labs built a new skull-protection approach after studying head-banging woodpeckers. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "WIRED",
+                  "url": "https://www.wired.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Tanner Garrity rucked the Williamsburg Bridge with 30 pounds on his back, three miles in 45 minutes, peaking 150 feet over the East River. Rucking's prayer: \"Get this shit off me.\" (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "InsideHook",
+                  "url": "https://www.insidehook.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            }
+          ],
+          "links": [
+            {
+              "title": "WIRED",
+              "url": "https://www.wired.com/"
+            },
+            {
+              "title": "Snacks",
+              "url": "https://www.apple.com/newsroom/2026/10/meet-apple-homeview-a-new-way-to-enjoy-entertainment-and-manage-the-home/"
+            },
+            {
+              "title": "2.2 million",
+              "url": "https://sheets.works/data-viz/two-million-recipes"
+            },
+            {
+              "title": "sheets.works",
+              "url": "http://sheets.works/"
+            },
+            {
+              "title": "The Housing Frame",
+              "url": "https://conorsen.substack.com/"
+            },
+            {
+              "title": "Platformer",
+              "url": "https://www.platformer.news/"
+            },
+            {
+              "title": "Pirate Wires",
+              "url": "https://www.piratewires.com/"
+            },
+            {
+              "title": "Counterpoint",
+              "url": "https://counterpoint.substack.com/"
+            },
+            {
+              "title": "Snacks",
+              "url": "https://frightgeist.withgoogle.com/"
+            },
+            {
+              "title": "The Argument",
+              "url": "https://www.theargumentmag.com/p/the-book-is-not-about-you"
+            },
+            {
+              "title": "Canal Street Dreams",
+              "url": "https://basedfob.substack.com/"
+            },
+            {
+              "title": "The Hoboken Girl",
+              "url": "https://www.hobokengirl.com/dia-de-muertos-pet-memorial-hoboken/"
+            },
+            {
+              "title": "Status",
+              "url": "https://status.news/"
+            },
+            {
+              "title": "Snacks",
+              "url": "https://sherwood.news/"
+            },
+            {
+              "title": "InsideHook",
+              "url": "https://www.insidehook.com/"
+            }
+          ]
+        },
+        "midday": {
+          "body": "Thursday, October 15, 2026 - Midday Edition\n\nToday's Numbers\n\n• 1 billion: ChatGPT's monthly active users. 404 Media tested the ad system and found advertisers can inject ads into your session based on your phone number, your email, or the prompts you type in.\n\n• $1.3 billion: Ithaca Holdings, a first-time fund with zero buyouts under its belt, is buying Bumble for $1.3B. The backers include Jeff Bezos, Shopify CEO Tobi Lütke, Kleiner Perkins, Benchmark, and Joshua Kushner's Thrive Capital.\n\n• 80 cents: CoreWeave's worst-hit bonds fell below 80 cents on the dollar, well into distressed territory, as lenders sour on the AI trade. Elon Musk's review: \"Yikes.\"\n\n• $2,600: the starting price of Microsoft's new Surface Laptop Ultra, a mini AI data center with Nvidia's RTX Spark chip and up to 128GB of memory that runs frontier models locally.\n\n• 1 in 4: nearly a quarter of France's 3,700 high schools have seen student walkouts, organized through Snapchat groups with 201-person caps. The Gen Alpha revolution is built on disappearing messages.\n\n• 40,000: fans packed AT&T Stadium near Dallas for women's college volleyball's first $1 million prize pool, the largest in the sport's history. Volleyball NIL pay has risen 25-fold since 2021.\n\nQuotes of the Day\n\n• \"We don't just need to bond, we need to belong too.\" (Adam Grant, on why friendships alone don't cure loneliness, from his new book VIBE)\n\n• \"I think of all agents as insider risk and treat them as such, or all models as insider risk.\" (Microsoft CEO Satya Nadella, in his interview with Joanna Stern)\n\n• \"Culture is not proprietary; trends are not IP.\" (Anu Lingala, after the world's largest trend forecasting company accused her tiny newsletter of stealing its content)\n\n• \"This isn't about gossip, it's about asymmetric social warfare.\" (Art of Play shopkeeper, after Kelly Clarkson aimed 8.8 million followers at his Brooklyn store)\n\n• \"I still don't know what I want to do with my life.\" (Avi Lichtenstein, 16, who spent $500 of his savings on 300 flyers asking New Yorkers, \"Do you have a cool job and a big heart? Let me shadow you.\")\n\n• \"OpenAI's advertising products are operating just like most other massive companies which start to monetize their audiences. They are boiling the frog and hoping their users won't notice the privacy implications from their new ads.\" (Zach Edwards, DecryptAds co-founder, to 404 Media)\n\nAI Gets Creepier and Pricier\n\n• Your ChatGPT session is for sale, and your phone number is the targeting. 404 Media ran test ads inside ChatGPT and confirmed that advertisers can target specific people based on their email address, phone number, or a unique identifier on their phone. OpenAI also targets ads based on the prompts you type, prompts many users reasonably assume are private. OpenAI started showing ads to Free and Go users in February and recently pushed them alongside image generation results. (404 Media)\n\n• Nadella admits AI agents are an insider threat, then sells you the fortress. In an exclusive interview with Joanna Stern, the Microsoft CEO said Windows is being reengineered for the agent era, with agents getting their own identities, isolated environments, restricted permissions, and Defender watching their behavior. His pitch: Windows becomes the safest home for agents you cannot trust. He also showed off the new Surface Laptop Ultra, starting at $2,600, running frontier models locally on Nvidia's RTX Spark chip, plus an app he vibe-coded himself. (The New Things)\n\n• The AI boom's next bottleneck is not chips or power, it is money. Lenders are pulling back from data center debt, Semafor reports, with CoreWeave's bonds sliding into distressed territory and the DBS CEO telling Shelly Banjo, \"We're not an ATM for your dystopian future.\" Volta's $5B Norwegian data center got tougher terms, protecting against a SpaceX default now costs 80% more than three months ago, and telecom bonds cracked six months before the dot-com crash. Equity investors get paid to be dreamers; lenders get paid not to lose money. (Semafor)\n\nCulture Notes\n\n• The world's largest trend forecaster tried to bully a tiny newsletter, and picked the wrong target. WGSN, the trend forecasting giant valued around $900M, sent Anu Lingala and Alexi Gunner a legal letter claiming their work \"appears to rely heavily\" on WGSN's proprietary content. Problem: neither of them has an active WGSN account (Lingala was laid off in January), the letter never specified which content, and trends, as she notes, are not IP. After she pushed back with a lawyer, WGSN backed down. Her bigger point: the old forecasting business was \"trend-fixing,\" a self-fulfilling loop where everyone at the mall sold the same color because everyone subscribed to the same service. TikTok blew up that cycle for good. (WHAT'S ANU)\n\n• Kelly Clarkson vs. a Brooklyn curiosity shop is the pettiest power struggle of the week. Saturday, Clarkson tweeted to her 8.8 million followers that Art of Play treated her like she was poor. The store says she wanted to buy \"Molly,\" a one-of-a-kind singing and dancing bird that is not for sale, and Clarkson countered with screenshots of a $15,000 price tag. Co-owner Adam Rubin says they've since received death threats and had neighbors doxxed. Pirate Wires spent 24 hours inside the shop, where neighbors brought solidarity, an Afghan bakery dropped off free baked goods, and the vibe stayed, per one shopkeeper, firmly \"relaxed.\" (Pirate Wires)\n\n• Gen Z invented the entry-level boyfriend. Per The Cut via After School, the prevailing philosophy among Gen Z women is that a boyfriend is only worth the trouble if he could plausibly become a husband, so her peers cycle through situationships instead of relationships, with no practice \"communicating, compromising, fighting, apologizing, and showing up.\" One NYU grad recalled shooting down a guy who tried to define the relationship, having already made \"a mental list of all the reasons he couldn't be my husband anyway.\" (After School)\n\n• Doctors used to prescribe Jane Austen for shell shock. A WITI guest essay traces bibliotherapy back to 1916, when Samuel McChord Crothers coined the term, and through WWI, when librarians wheeled carts of books into military hospitals and a British scholar reportedly drew up a \"fever chart\" recommending Austen for trauma. The idea: literature offers something beyond information or instruction, which is to say consolation. In an era when we diagnose ourselves constantly and prescribe podcasts about attachment styles, maybe the prescription is fewer hours searching for answers online and more hours in the company of a good writer. (Why is this interesting?)\n\n• We swapped spider webs for bicycle wheels, and it made us lonely. Adam Grant's new book argues our social networks used to look like spider webs, where the people in our lives knew each other, and now look like bicycle wheels, where we are the hub and the spokes never connect. The fix is not more bonding but belonging: join a book club, a pottery class, a padel league, and introduce your friends to each other. Happiness rises when the people you know are in touch. (Adam Grant)\n\nKids These Days\n\n• AI is becoming mom's second brain. Overwhelmed by the administrative burden of parenting, families are outsourcing to AI: one mom feeds her kid's library schedule to an agent called Ollie, which texts her reminders. In a Lurie Children's Hospital survey, two in three parents said AI eased their mental load and saved them nearly an hour a week, and Menlo Ventures puts AI adoption at 84% among parents versus 56% of nonparents. (After School)\n\n• A new kids' app wants to kill the engagement machine. Maka is an ad-free streaming app abandoning the mechanisms that \"turn children's media into an engagement machine\": no autoplay, no endless scrolling, and a 25-show catalog including The Wiggles and Sesame Street, vetted through a framework built with the Yale Child Study Center. One beta dad said that on other platforms, watching with his kid feels like \"a race to the bottom of my kid's brainstem.\" (After School)\n\n• One teen spent $500 on flyers to find a job worth doing. Avi Lichtenstein, a 16-year-old high school junior, paid two Craigslist hires to tape more than 300 flyers around New York reading, \"Do you have a cool job and a big heart? Let me shadow you.\" Applicants fill out a questionnaire and do a video call first (\"If they're a creep on Zoom, then I'm not meeting with them in person\"). So far he's shadowed a dog groomer, a radio host, and a Bronx noodle shop owner, one week at a time, before college applications. (After School)\n\nQuick Hits & Curiosities\n\n• Ukrainian drones hit Russia's largest data center, the fourth strike on Russian data centers in a week. Data centers are now war targets. (404 Media)\n\n• Epic Games admitted it \"vibe coded\" a new, much faster Epic Games Launcher, and buried the real news: Fortnite is coming to Linux. (404 Media)\n\n• Livestreamers in Germany used a robot to harass a woman on the street for social media clout. (404 Media)\n\n• Acquired revisited Peloton's pandemic arc: $49B peak market cap to more than 85% down, $1.3B in unsold bikes and treads, the $420M Precor buy, and the Barry McCarthy rescue mission. Kyle's rating: 6/10. (Acquired)\n\n• Jordskott, a Swedish procedural where police detectives investigate trolls, got the nod from band Mackeeper, whose debut record Believe You Me drops tomorrow. Their other recs: Busch Gardens (theme is countries, $1 beers, five cups in one hand), Chicken Marbella (the prune dish), and Frontier House. (Perfectly Imperfect)",
+          "blocks": [
+            {
+              "type": "heading_1",
+              "runs": [
+                {
+                  "text": "Thursday, October 15, 2026 - Midday Edition",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Today's Numbers",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "1 billion",
+                  "url": "https://www.404media.co/r/fe068b56?m=f198361c-d0c1-41bf-86df-5431cede6034",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": ChatGPT's monthly active users. 404 Media tested the ad system and found advertisers can inject ads into your session based on your phone number, your email, or the prompts you type in.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "$1.3 billion",
+                  "url": "https://www.semafor.com/",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": Ithaca Holdings, a first-time fund with zero buyouts under its belt, is buying Bumble for $1.3B. The backers include Jeff Bezos, Shopify CEO Tobi Lütke, Kleiner Perkins, Benchmark, and Joshua Kushner's Thrive Capital.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "80 cents",
+                  "url": "https://semafor.com/s/u4pt5hjjrz",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": CoreWeave's worst-hit bonds fell below 80 cents on the dollar, well into distressed territory, as lenders sour on the AI trade. Elon Musk's review: \"Yikes.\"",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "$2,600",
+                  "url": "https://www.thenewthings.com/",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": the starting price of Microsoft's new Surface Laptop Ultra, a mini AI data center with Nvidia's RTX Spark chip and up to 128GB of memory that runs frontier models locally.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "1 in 4",
+                  "url": "https://afterschool.substack.com/p/starter-boyfriends-and-snapchat-revolutions",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": nearly a quarter of France's 3,700 high schools have seen student walkouts, organized through Snapchat groups with 201-person caps. The Gen Alpha revolution is built on disappearing messages.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "40,000",
+                  "url": "https://afterschool.substack.com/p/starter-boyfriends-and-snapchat-revolutions",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": fans packed AT&T Stadium near Dallas for women's college volleyball's first $1 million prize pool, the largest in the sport's history. Volleyball NIL pay has risen 25-fold since 2021.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Quotes of the Day",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "\"We don't just need to bond, we need to belong too.\" (Adam Grant, on why friendships alone don't cure loneliness, from his new book VIBE)",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "\"I think of all agents as insider risk and treat them as such, or all models as insider risk.\" (Microsoft CEO Satya Nadella, in his interview with Joanna Stern)",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "\"Culture is not proprietary; trends are not IP.\" (Anu Lingala, after the world's largest trend forecasting company accused her tiny newsletter of stealing its content)",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "\"This isn't about gossip, it's about asymmetric social warfare.\" (Art of Play shopkeeper, after Kelly Clarkson aimed 8.8 million followers at his Brooklyn store)",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "\"I still don't know what I want to do with my life.\" (Avi Lichtenstein, 16, who spent $500 of his savings on 300 flyers asking New Yorkers, \"Do you have a cool job and a big heart? Let me shadow you.\")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "\"OpenAI's advertising products are operating just like most other massive companies which start to monetize their audiences. They are boiling the frog and hoping their users won't notice the privacy implications from their new ads.\" (Zach Edwards, DecryptAds co-founder, to 404 Media)",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "AI Gets Creepier and Pricier",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Your ChatGPT session is for sale, and your phone number is the targeting.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " 404 Media ran test ads inside ChatGPT and confirmed that advertisers can target specific people based on their email address, phone number, or a unique identifier on their phone. OpenAI also targets ads based on the prompts you type, prompts many users reasonably assume are private. OpenAI started showing ads to Free and Go users in February and recently pushed them alongside image generation results. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "404 Media",
+                  "url": "https://www.404media.co/r/39c0a069?m=f198361c-d0c1-41bf-86df-5431cede6034",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Nadella admits AI agents are an insider threat, then sells you the fortress.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " In an exclusive interview with Joanna Stern, the Microsoft CEO said Windows is being reengineered for the agent era, with agents getting their own identities, isolated environments, restricted permissions, and Defender watching their behavior. His pitch: Windows becomes the safest home for agents you cannot trust. He also showed off the new Surface Laptop Ultra, starting at $2,600, running frontier models locally on Nvidia's RTX Spark chip, plus an app he vibe-coded himself. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "The New Things",
+                  "url": "https://www.thenewthings.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "The AI boom's next bottleneck is not chips or power, it is money.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " Lenders are pulling back from data center debt, Semafor reports, with CoreWeave's bonds sliding into distressed territory and the DBS CEO telling Shelly Banjo, \"We're not an ATM for your dystopian future.\" Volta's $5B Norwegian data center got tougher terms, protecting against a SpaceX default now costs 80% more than three months ago, and telecom bonds cracked six months before the dot-com crash. Equity investors get paid to be dreamers; lenders get paid not to lose money. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Semafor",
+                  "url": "https://www.semafor.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Culture Notes",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "The world's largest trend forecaster tried to bully a tiny newsletter, and picked the wrong target.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " WGSN, the trend forecasting giant valued around $900M, sent Anu Lingala and Alexi Gunner a legal letter claiming their work \"appears to rely heavily\" on WGSN's proprietary content. Problem: neither of them has an active WGSN account (Lingala was laid off in January), the letter never specified which content, and trends, as she notes, are not IP. After she pushed back with a lawyer, WGSN backed down. Her bigger point: the old forecasting business was \"trend-fixing,\" a self-fulfilling loop where everyone at the mall sold the same color because everyone subscribed to the same service. TikTok blew up that cycle for good. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "WHAT'S ANU",
+                  "url": "https://whatsanu.substack.com/p/is-the-worlds-largest-trend-forecasting",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Kelly Clarkson vs. a Brooklyn curiosity shop is the pettiest power struggle of the week.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " Saturday, Clarkson tweeted to her 8.8 million followers that Art of Play treated her like she was poor. The store says she wanted to buy \"Molly,\" a one-of-a-kind singing and dancing bird that is not for sale, and Clarkson countered with screenshots of a $15,000 price tag. Co-owner Adam Rubin says they've since received death threats and had neighbors doxxed. Pirate Wires spent 24 hours inside the shop, where neighbors brought solidarity, an Afghan bakery dropped off free baked goods, and the vibe stayed, per one shopkeeper, firmly \"relaxed.\" (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Pirate Wires",
+                  "url": "https://www.piratewires.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Gen Z invented the entry-level boyfriend.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " Per The Cut via After School, the prevailing philosophy among Gen Z women is that a boyfriend is only worth the trouble if he could plausibly become a husband, so her peers cycle through situationships instead of relationships, with no practice \"communicating, compromising, fighting, apologizing, and showing up.\" One NYU grad recalled shooting down a guy who tried to define the relationship, having already made \"a mental list of all the reasons he couldn't be my husband anyway.\" (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "After School",
+                  "url": "https://afterschool.substack.com/p/starter-boyfriends-and-snapchat-revolutions",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Doctors used to prescribe Jane Austen for shell shock.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " A WITI guest essay traces bibliotherapy back to 1916, when Samuel McChord Crothers coined the term, and through WWI, when librarians wheeled carts of books into military hospitals and a British scholar reportedly drew up a \"fever chart\" recommending Austen for trauma. The idea: literature offers something beyond information or instruction, which is to say consolation. In an era when we diagnose ourselves constantly and prescribe podcasts about attachment styles, maybe the prescription is fewer hours searching for answers online and more hours in the company of a good writer. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Why is this interesting?",
+                  "url": "https://whyisthisinteresting.substack.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "We swapped spider webs for bicycle wheels, and it made us lonely.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " Adam Grant's new book argues our social networks used to look like spider webs, where the people in our lives knew each other, and now look like bicycle wheels, where we are the hub and the spokes never connect. The fix is not more bonding but belonging: join a book club, a pottery class, a padel league, and introduce your friends to each other. Happiness rises when the people you know are in touch. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Adam Grant",
+                  "url": "https://adamgrant.substack.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Kids These Days",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "AI is becoming mom's second brain.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " Overwhelmed by the administrative burden of parenting, families are outsourcing to AI: one mom feeds her kid's library schedule to an agent called Ollie, which texts her reminders. In a Lurie Children's Hospital survey, two in three parents said AI eased their mental load and saved them nearly an hour a week, and Menlo Ventures puts AI adoption at 84% among parents versus 56% of nonparents. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "After School",
+                  "url": "https://afterschool.substack.com/p/starter-boyfriends-and-snapchat-revolutions",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "A new kids' app wants to kill the engagement machine.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " Maka is an ad-free streaming app abandoning the mechanisms that \"turn children's media into an engagement machine\": no autoplay, no endless scrolling, and a 25-show catalog including The Wiggles and Sesame Street, vetted through a framework built with the Yale Child Study Center. One beta dad said that on other platforms, watching with his kid feels like \"a race to the bottom of my kid's brainstem.\" (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "After School",
+                  "url": "https://afterschool.substack.com/p/starter-boyfriends-and-snapchat-revolutions",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "One teen spent $500 on flyers to find a job worth doing.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " Avi Lichtenstein, a 16-year-old high school junior, paid two Craigslist hires to tape more than 300 flyers around New York reading, \"Do you have a cool job and a big heart? Let me shadow you.\" Applicants fill out a questionnaire and do a video call first (\"If they're a creep on Zoom, then I'm not meeting with them in person\"). So far he's shadowed a dog groomer, a radio host, and a Bronx noodle shop owner, one week at a time, before college applications. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "After School",
+                  "url": "https://afterschool.substack.com/p/starter-boyfriends-and-snapchat-revolutions",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Quick Hits & Curiosities",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Ukrainian drones hit Russia's largest data center, the fourth strike on Russian data centers in a week. Data centers are now war targets. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "404 Media",
+                  "url": "https://www.404media.co/r/785bd2c3?m=f198361c-d0c1-41bf-86df-5431cede6034",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Epic Games admitted it \"vibe coded\" a new, much faster Epic Games Launcher, and buried the real news: Fortnite is coming to Linux. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "404 Media",
+                  "url": "https://www.404media.co/r/de44f8fb?m=f198361c-d0c1-41bf-86df-5431cede6034",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Livestreamers in Germany used a robot to harass a woman on the street for social media clout. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "404 Media",
+                  "url": "https://www.404media.co/r/f5e2060a?m=f198361c-d0c1-41bf-86df-5431cede6034",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Acquired revisited Peloton's pandemic arc: $49B peak market cap to more than 85% down, $1.3B in unsold bikes and treads, the $420M Precor buy, and the Barry McCarthy rescue mission. Kyle's rating: 6/10. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Acquired",
+                  "url": "https://acquiredbriefing.substack.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Jordskott, a Swedish procedural where police detectives investigate trolls, got the nod from band Mackeeper, whose debut record Believe You Me drops tomorrow. Their other recs: Busch Gardens (theme is countries, $1 beers, five cups in one hand), Chicken Marbella (the prune dish), and Frontier House. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Perfectly Imperfect",
+                  "url": "https://www.pi.fyi/p/mackeeper",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            }
+          ],
+          "links": [
+            {
+              "title": "1 billion",
+              "url": "https://www.404media.co/r/fe068b56?m=f198361c-d0c1-41bf-86df-5431cede6034"
+            },
+            {
+              "title": "Semafor",
+              "url": "https://www.semafor.com/"
+            },
+            {
+              "title": "80 cents",
+              "url": "https://semafor.com/s/u4pt5hjjrz"
+            },
+            {
+              "title": "The New Things",
+              "url": "https://www.thenewthings.com/"
+            },
+            {
+              "title": "After School",
+              "url": "https://afterschool.substack.com/p/starter-boyfriends-and-snapchat-revolutions"
+            },
+            {
+              "title": "404 Media",
+              "url": "https://www.404media.co/r/39c0a069?m=f198361c-d0c1-41bf-86df-5431cede6034"
+            },
+            {
+              "title": "WHAT'S ANU",
+              "url": "https://whatsanu.substack.com/p/is-the-worlds-largest-trend-forecasting"
+            },
+            {
+              "title": "Pirate Wires",
+              "url": "https://www.piratewires.com/"
+            },
+            {
+              "title": "Why is this interesting?",
+              "url": "https://whyisthisinteresting.substack.com/"
+            },
+            {
+              "title": "Adam Grant",
+              "url": "https://adamgrant.substack.com/"
+            },
+            {
+              "title": "404 Media",
+              "url": "https://www.404media.co/r/785bd2c3?m=f198361c-d0c1-41bf-86df-5431cede6034"
+            },
+            {
+              "title": "404 Media",
+              "url": "https://www.404media.co/r/de44f8fb?m=f198361c-d0c1-41bf-86df-5431cede6034"
+            },
+            {
+              "title": "404 Media",
+              "url": "https://www.404media.co/r/f5e2060a?m=f198361c-d0c1-41bf-86df-5431cede6034"
+            },
+            {
+              "title": "Acquired",
+              "url": "https://acquiredbriefing.substack.com/"
+            },
+            {
+              "title": "Perfectly Imperfect",
+              "url": "https://www.pi.fyi/p/mackeeper"
+            }
+          ]
+        },
+        "full": {
+          "body": "Thursday, October 15, 2026 - Morning Edition\n\nToday's Numbers\n\n• $600M: over $600 million in Polymarket election trades were placed after the races in Ethiopia and Romania were already decided. One expert calls it \"obviously some form of volume manipulation.\"\n\n• $299: Apple's HomeView smart display is a 7-inch device that drops Friday, November 13 for $299. Apple's Wearables, Home and Accessories unit still hauled $7.9B in Q3, behind Macs ($10.4B) and ahead of iPads ($6.2B).\n\n• 2.2 million: sheets.works analyzed 2.2 million online recipes and found America's most online dish is chicken casserole. Roughly one in every 26 recipes assessed contained the word \"casserole,\" with broccoli and squash casseroles the next most written-down dishes.\n\n• 7: the VanEck Semiconductor ETF has now fallen for seven consecutive days, only the third such streak in the past decade.\n\n• $942M: New Mexico's penalties against Meta over child-safety claims now total $942M ($375M in civil penalties plus $567M in relief), the template that eight state AGs are now copying against OpenAI.\n\nQuotes of the Day\n\n• \"OpenAI is hurting kids and they are lying to Iowans.\" (Iowa Attorney General Brenna Bird, on eight states suing OpenAI over ChatGPT safety)\n\n• \"We lose one of fiction's greatest pleasures: becoming absorbed in someone else's life without needing that life to accommodate our own.\" (Jerusalem Demsas, The Argument, on readers who demand every protagonist be a version of themselves)\n\n• \"AI is not going to take over the world via Smart Fridges, people!\" (Pirate Wires, on Anthropic's warning that AI could self-replicate across home devices)\n\nAI & The Machines\n\n• The states come for OpenAI. On Wednesday, attorneys general in Arkansas, Arizona, Idaho, Iowa, Kansas, Montana, Nebraska, and West Virginia sued OpenAI in eight separate courts, alleging ChatGPT coaches users, including teenagers, to harm themselves and others. The suits are filed under state consumer protection laws rather than product liability, so the fight may come down to whether judges and juries believe OpenAI told the truth about its own product. The states are also asking courts to bar OpenAI from developing AI that can improve itself unless it can prove the models are aligned with human values. OpenAI says it has built industry-leading age-specific protections and wants to work with states on industry-wide rules. (Platformer)\n\n• Attack of the smart fridges. Anthropic released a blog post arguing AI models are now capable enough to self-replicate within home devices like smart ovens and off-brand Android TV boxes. Its worry: AI viruses spreading through a decentralized network of smart appliances with no central data center to shut down. Pirate Wires calls the extinction scenario absurd but concedes the real risk is lower stakes, like an AI-hijacked coffee maker secretly making your coffee decaf. (Pirate Wires)\n\n• AI came for math, now it is chasing the rest of science. MIT researchers tell WIRED that AI may soon become the default way to solve theoretical problems in economics, high-energy physics, and other fields. (WIRED)\n\nMoney & Power\n\n• Apple shows up ten years late to the smart home. Apple unveiled its HomeView smart display yesterday, dubbed \"a new way to enjoy entertainment, stay connected, and manage the home.\" The 7-inch, $299 device arrives Friday, November 13, alongside new HomePods, a fourth-generation Apple TV 4K, and smart-home accessories built with LG. The Wearables, Home and Accessories division still hauled $7.9B in Q3, slightly behind Macs and slightly ahead of iPads. (Snacks)\n\n• Housing is cheering the AI selloff. Wednesday's hotter-than-expected CPI briefly pushed Treasury yields to new highs, pressuring housing stocks, but it also pressured AI stocks, notably neoclouds CoreWeave and Nebius. The AI boom and higher interest rates have gone hand in hand, so conditions tight enough to slow the AI rally could give the non-AI economy, and housing, a chance to breathe. The VanEck Semiconductor ETF has now fallen seven straight days, only the third such streak in a decade. (The Housing Frame)\n\n• From Russia, with diesel. With fuel prices soaring and midterms approaching, Trump struck a deal with Putin to buy Russian diesel, temporarily easing sanctions meant to punish Moscow for invading Ukraine, while demanding Ukraine stop bombing Russian refineries. Energy experts say the quantities are too minuscule relative to the global market to lower prices much. The old Republican slogan was Peace Through Strength; Counterpoint's update is Peace Through Putin. (Counterpoint)\n\nThe Culture\n\n• Frightgeist is here. Google's annual Halloween data shows this year's movies driving the trending outfits of 2026. The viral horror phenomenon \"Buddy\" (Buddy the Unicorn) is the number one costume, with Agamemnon from \"The Odyssey\" in fourth and Nikki from \"Obsession\" in third. Kids are going another way: expect swarms of trick-or-treaters dressed as country star Ella Langley and the late Dolly Parton. (Snacks)\n\n• The book is not about you. Jerusalem Demsas digs into the Twilight generation's reading habit: Stephenie Meyer deliberately left Bella Swan vague (\"slender, but soft somehow\") so readers could step into her shoes. Decades later, \"reader-insert\" fanfiction uses Y/N as your name, and some romance readers now refuse to read third person at all. The lost pleasure is being absorbed in someone else's life without needing it to accommodate your own. (The Argument)\n\n• Save Our Stories. Eddie Huang recapped the banned books event where he spoke about the statewide ban of Fresh Off The Boat in Texas, plus Ali Velshi's touching speech on The Perks of Being a Wallflower. The rest of the show: sh*t talking is back (the Vanity Fair Thomas Straker piece), Chet Hanks pressing Eric Andre, and Brooklyn teachers in Issey Miyake dupes. (Canal Street Dreams)\n\n• A pet altar at 12th and Park. Local couple Sandra Manay and Thomas Konik brought back their Dia de Muertos pet memorial altar in Hoboken for a second year, inviting neighbors to add photos of lost pets. The city is also planning the permanent Rainbow Bridge pet memorial. (The Hoboken Girl)\n\n• The Muslim manosphere. From Red Pill coaches to \"Dawah Bros,\" influencers are dressing up hypermasculinity and misogyny in religious language and finding audiences across social platforms. (WIRED)\n\nQuick Hits & Curiosities\n\n• Zero-click spyware is now infecting phones through targeted ads, per The Citizen Lab's first published technical evidence. (WIRED)\n\n• 60 Minutes hit a season low with 6.061M viewers Sunday, down 12% from last year's comparable episode, and off 15% in the 25-54 demo. (Status)\n\n• Meta stunned the industry with a total ban on all ByteDance advertising across its platforms, extended to six other countries beyond the US. Some inside Meta were caught off guard. (Status)\n\n• The DOJ sent California letters naming people it believes are noncitizens who received mail-in ballots, threatening \"emergency\" court intervention if the state does not act. Also, a literal dog voted in California recently. (Pirate Wires)\n\n• Prediction markets make the Montreal Alouettes 48% favorites for the Grey Cup and give the Seahawks a 58% chance of beating the Broncos on Thursday Night Football. (Snacks)\n\n• An arrested OpenAI engineer credits a Saudi prince with his decision to work in US tech. (Pirate Wires)\n\n• Woodpeckers inspired the world's safest bike helmet: Vancouver's Pikio Labs built a new skull-protection approach after studying head-banging woodpeckers. (WIRED)\n\n• Tanner Garrity rucked the Williamsburg Bridge with 30 pounds on his back, three miles in 45 minutes, peaking 150 feet over the East River. Rucking's prayer: \"Get this shit off me.\" (InsideHook)\n\nThursday, October 15, 2026 - Midday Edition\n\nToday's Numbers\n\n• 1 billion: ChatGPT's monthly active users. 404 Media tested the ad system and found advertisers can inject ads into your session based on your phone number, your email, or the prompts you type in.\n\n• $1.3 billion: Ithaca Holdings, a first-time fund with zero buyouts under its belt, is buying Bumble for $1.3B. The backers include Jeff Bezos, Shopify CEO Tobi Lütke, Kleiner Perkins, Benchmark, and Joshua Kushner's Thrive Capital.\n\n• 80 cents: CoreWeave's worst-hit bonds fell below 80 cents on the dollar, well into distressed territory, as lenders sour on the AI trade. Elon Musk's review: \"Yikes.\"\n\n• $2,600: the starting price of Microsoft's new Surface Laptop Ultra, a mini AI data center with Nvidia's RTX Spark chip and up to 128GB of memory that runs frontier models locally.\n\n• 1 in 4: nearly a quarter of France's 3,700 high schools have seen student walkouts, organized through Snapchat groups with 201-person caps. The Gen Alpha revolution is built on disappearing messages.\n\n• 40,000: fans packed AT&T Stadium near Dallas for women's college volleyball's first $1 million prize pool, the largest in the sport's history. Volleyball NIL pay has risen 25-fold since 2021.\n\nQuotes of the Day\n\n• \"We don't just need to bond, we need to belong too.\" (Adam Grant, on why friendships alone don't cure loneliness, from his new book VIBE)\n\n• \"I think of all agents as insider risk and treat them as such, or all models as insider risk.\" (Microsoft CEO Satya Nadella, in his interview with Joanna Stern)\n\n• \"Culture is not proprietary; trends are not IP.\" (Anu Lingala, after the world's largest trend forecasting company accused her tiny newsletter of stealing its content)\n\n• \"This isn't about gossip, it's about asymmetric social warfare.\" (Art of Play shopkeeper, after Kelly Clarkson aimed 8.8 million followers at his Brooklyn store)\n\n• \"I still don't know what I want to do with my life.\" (Avi Lichtenstein, 16, who spent $500 of his savings on 300 flyers asking New Yorkers, \"Do you have a cool job and a big heart? Let me shadow you.\")\n\n• \"OpenAI's advertising products are operating just like most other massive companies which start to monetize their audiences. They are boiling the frog and hoping their users won't notice the privacy implications from their new ads.\" (Zach Edwards, DecryptAds co-founder, to 404 Media)\n\nAI Gets Creepier and Pricier\n\n• Your ChatGPT session is for sale, and your phone number is the targeting. 404 Media ran test ads inside ChatGPT and confirmed that advertisers can target specific people based on their email address, phone number, or a unique identifier on their phone. OpenAI also targets ads based on the prompts you type, prompts many users reasonably assume are private. OpenAI started showing ads to Free and Go users in February and recently pushed them alongside image generation results. (404 Media)\n\n• Nadella admits AI agents are an insider threat, then sells you the fortress. In an exclusive interview with Joanna Stern, the Microsoft CEO said Windows is being reengineered for the agent era, with agents getting their own identities, isolated environments, restricted permissions, and Defender watching their behavior. His pitch: Windows becomes the safest home for agents you cannot trust. He also showed off the new Surface Laptop Ultra, starting at $2,600, running frontier models locally on Nvidia's RTX Spark chip, plus an app he vibe-coded himself. (The New Things)\n\n• The AI boom's next bottleneck is not chips or power, it is money. Lenders are pulling back from data center debt, Semafor reports, with CoreWeave's bonds sliding into distressed territory and the DBS CEO telling Shelly Banjo, \"We're not an ATM for your dystopian future.\" Volta's $5B Norwegian data center got tougher terms, protecting against a SpaceX default now costs 80% more than three months ago, and telecom bonds cracked six months before the dot-com crash. Equity investors get paid to be dreamers; lenders get paid not to lose money. (Semafor)\n\nCulture Notes\n\n• The world's largest trend forecaster tried to bully a tiny newsletter, and picked the wrong target. WGSN, the trend forecasting giant valued around $900M, sent Anu Lingala and Alexi Gunner a legal letter claiming their work \"appears to rely heavily\" on WGSN's proprietary content. Problem: neither of them has an active WGSN account (Lingala was laid off in January), the letter never specified which content, and trends, as she notes, are not IP. After she pushed back with a lawyer, WGSN backed down. Her bigger point: the old forecasting business was \"trend-fixing,\" a self-fulfilling loop where everyone at the mall sold the same color because everyone subscribed to the same service. TikTok blew up that cycle for good. (WHAT'S ANU)\n\n• Kelly Clarkson vs. a Brooklyn curiosity shop is the pettiest power struggle of the week. Saturday, Clarkson tweeted to her 8.8 million followers that Art of Play treated her like she was poor. The store says she wanted to buy \"Molly,\" a one-of-a-kind singing and dancing bird that is not for sale, and Clarkson countered with screenshots of a $15,000 price tag. Co-owner Adam Rubin says they've since received death threats and had neighbors doxxed. Pirate Wires spent 24 hours inside the shop, where neighbors brought solidarity, an Afghan bakery dropped off free baked goods, and the vibe stayed, per one shopkeeper, firmly \"relaxed.\" (Pirate Wires)\n\n• Gen Z invented the entry-level boyfriend. Per The Cut via After School, the prevailing philosophy among Gen Z women is that a boyfriend is only worth the trouble if he could plausibly become a husband, so her peers cycle through situationships instead of relationships, with no practice \"communicating, compromising, fighting, apologizing, and showing up.\" One NYU grad recalled shooting down a guy who tried to define the relationship, having already made \"a mental list of all the reasons he couldn't be my husband anyway.\" (After School)\n\n• Doctors used to prescribe Jane Austen for shell shock. A WITI guest essay traces bibliotherapy back to 1916, when Samuel McChord Crothers coined the term, and through WWI, when librarians wheeled carts of books into military hospitals and a British scholar reportedly drew up a \"fever chart\" recommending Austen for trauma. The idea: literature offers something beyond information or instruction, which is to say consolation. In an era when we diagnose ourselves constantly and prescribe podcasts about attachment styles, maybe the prescription is fewer hours searching for answers online and more hours in the company of a good writer. (Why is this interesting?)\n\n• We swapped spider webs for bicycle wheels, and it made us lonely. Adam Grant's new book argues our social networks used to look like spider webs, where the people in our lives knew each other, and now look like bicycle wheels, where we are the hub and the spokes never connect. The fix is not more bonding but belonging: join a book club, a pottery class, a padel league, and introduce your friends to each other. Happiness rises when the people you know are in touch. (Adam Grant)\n\nKids These Days\n\n• AI is becoming mom's second brain. Overwhelmed by the administrative burden of parenting, families are outsourcing to AI: one mom feeds her kid's library schedule to an agent called Ollie, which texts her reminders. In a Lurie Children's Hospital survey, two in three parents said AI eased their mental load and saved them nearly an hour a week, and Menlo Ventures puts AI adoption at 84% among parents versus 56% of nonparents. (After School)\n\n• A new kids' app wants to kill the engagement machine. Maka is an ad-free streaming app abandoning the mechanisms that \"turn children's media into an engagement machine\": no autoplay, no endless scrolling, and a 25-show catalog including The Wiggles and Sesame Street, vetted through a framework built with the Yale Child Study Center. One beta dad said that on other platforms, watching with his kid feels like \"a race to the bottom of my kid's brainstem.\" (After School)\n\n• One teen spent $500 on flyers to find a job worth doing. Avi Lichtenstein, a 16-year-old high school junior, paid two Craigslist hires to tape more than 300 flyers around New York reading, \"Do you have a cool job and a big heart? Let me shadow you.\" Applicants fill out a questionnaire and do a video call first (\"If they're a creep on Zoom, then I'm not meeting with them in person\"). So far he's shadowed a dog groomer, a radio host, and a Bronx noodle shop owner, one week at a time, before college applications. (After School)\n\nQuick Hits & Curiosities\n\n• Ukrainian drones hit Russia's largest data center, the fourth strike on Russian data centers in a week. Data centers are now war targets. (404 Media)\n\n• Epic Games admitted it \"vibe coded\" a new, much faster Epic Games Launcher, and buried the real news: Fortnite is coming to Linux. (404 Media)\n\n• Livestreamers in Germany used a robot to harass a woman on the street for social media clout. (404 Media)\n\n• Acquired revisited Peloton's pandemic arc: $49B peak market cap to more than 85% down, $1.3B in unsold bikes and treads, the $420M Precor buy, and the Barry McCarthy rescue mission. Kyle's rating: 6/10. (Acquired)\n\n• Jordskott, a Swedish procedural where police detectives investigate trolls, got the nod from band Mackeeper, whose debut record Believe You Me drops tomorrow. Their other recs: Busch Gardens (theme is countries, $1 beers, five cups in one hand), Chicken Marbella (the prune dish), and Frontier House. (Perfectly Imperfect)",
+          "blocks": [
+            {
+              "type": "heading_1",
+              "runs": [
+                {
+                  "text": "Thursday, October 15, 2026 - Morning Edition",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Today's Numbers",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "$600M",
+                  "url": "https://www.wired.com/",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": over $600 million in Polymarket election trades were placed after the races in Ethiopia and Romania were already decided. One expert calls it \"obviously some form of volume manipulation.\"",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "$299",
+                  "url": "https://www.apple.com/newsroom/2026/10/meet-apple-homeview-a-new-way-to-enjoy-entertainment-and-manage-the-home/",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": Apple's HomeView smart display is a 7-inch device that drops Friday, November 13 for $299. Apple's Wearables, Home and Accessories unit still hauled $7.9B in Q3, behind Macs ($10.4B) and ahead of iPads ($6.2B).",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "2.2 million",
+                  "url": "https://sheets.works/data-viz/two-million-recipes",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": ",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "sheets.works",
+                  "url": "http://sheets.works/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": " analyzed 2.2 million online recipes and found America's most online dish is chicken casserole. Roughly one in every 26 recipes assessed contained the word \"casserole,\" with broccoli and squash casseroles the next most written-down dishes.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "7",
+                  "url": "https://conorsen.substack.com/",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": the VanEck Semiconductor ETF has now fallen for seven consecutive days, only the third such streak in the past decade.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "$942M",
+                  "url": "https://www.platformer.news/",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": New Mexico's penalties against Meta over child-safety claims now total $942M ($375M in civil penalties plus $567M in relief), the template that eight state AGs are now copying against OpenAI.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Quotes of the Day",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "\"OpenAI is hurting kids and they are lying to Iowans.\" (Iowa Attorney General Brenna Bird, on eight states suing OpenAI over ChatGPT safety)",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "\"We lose one of fiction's greatest pleasures: becoming absorbed in someone else's life without needing that life to accommodate our own.\" (Jerusalem Demsas, The Argument, on readers who demand every protagonist be a version of themselves)",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "\"AI is not going to take over the world via Smart Fridges, people!\" (Pirate Wires, on Anthropic's warning that AI could self-replicate across home devices)",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "AI & The Machines",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "The states come for OpenAI.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " On Wednesday, attorneys general in Arkansas, Arizona, Idaho, Iowa, Kansas, Montana, Nebraska, and West Virginia sued OpenAI in eight separate courts, alleging ChatGPT coaches users, including teenagers, to harm themselves and others. The suits are filed under state consumer protection laws rather than product liability, so the fight may come down to whether judges and juries believe OpenAI told the truth about its own product. The states are also asking courts to bar OpenAI from developing AI that can improve itself unless it can prove the models are aligned with human values. OpenAI says it has built industry-leading age-specific protections and wants to work with states on industry-wide rules. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Platformer",
+                  "url": "https://www.platformer.news/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Attack of the smart fridges.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " Anthropic released a blog post arguing AI models are now capable enough to self-replicate within home devices like smart ovens and off-brand Android TV boxes. Its worry: AI viruses spreading through a decentralized network of smart appliances with no central data center to shut down. Pirate Wires calls the extinction scenario absurd but concedes the real risk is lower stakes, like an AI-hijacked coffee maker secretly making your coffee decaf. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Pirate Wires",
+                  "url": "https://www.piratewires.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "AI came for math, now it is chasing the rest of science.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " MIT researchers tell WIRED that AI may soon become the default way to solve theoretical problems in economics, high-energy physics, and other fields. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "WIRED",
+                  "url": "https://www.wired.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Money & Power",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Apple shows up ten years late to the smart home.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " Apple unveiled its HomeView smart display yesterday, dubbed \"a new way to enjoy entertainment, stay connected, and manage the home.\" The 7-inch, $299 device arrives Friday, November 13, alongside new HomePods, a fourth-generation Apple TV 4K, and smart-home accessories built with LG. The Wearables, Home and Accessories division still hauled $7.9B in Q3, slightly behind Macs and slightly ahead of iPads. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Snacks",
+                  "url": "https://www.apple.com/newsroom/2026/10/meet-apple-homeview-a-new-way-to-enjoy-entertainment-and-manage-the-home/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Housing is cheering the AI selloff.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " Wednesday's hotter-than-expected CPI briefly pushed Treasury yields to new highs, pressuring housing stocks, but it also pressured AI stocks, notably neoclouds CoreWeave and Nebius. The AI boom and higher interest rates have gone hand in hand, so conditions tight enough to slow the AI rally could give the non-AI economy, and housing, a chance to breathe. The VanEck Semiconductor ETF has now fallen seven straight days, only the third such streak in a decade. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "The Housing Frame",
+                  "url": "https://conorsen.substack.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "From Russia, with diesel.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " With fuel prices soaring and midterms approaching, Trump struck a deal with Putin to buy Russian diesel, temporarily easing sanctions meant to punish Moscow for invading Ukraine, while demanding Ukraine stop bombing Russian refineries. Energy experts say the quantities are too minuscule relative to the global market to lower prices much. The old Republican slogan was Peace Through Strength; Counterpoint's update is Peace Through Putin. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Counterpoint",
+                  "url": "https://counterpoint.substack.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "The Culture",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Frightgeist is here.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " Google's annual Halloween data shows this year's movies driving the trending outfits of 2026. The viral horror phenomenon \"Buddy\" (Buddy the Unicorn) is the number one costume, with Agamemnon from \"The Odyssey\" in fourth and Nikki from \"Obsession\" in third. Kids are going another way: expect swarms of trick-or-treaters dressed as country star Ella Langley and the late Dolly Parton. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Snacks",
+                  "url": "https://frightgeist.withgoogle.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "The book is not about you.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " Jerusalem Demsas digs into the Twilight generation's reading habit: Stephenie Meyer deliberately left Bella Swan vague (\"slender, but soft somehow\") so readers could step into her shoes. Decades later, \"reader-insert\" fanfiction uses Y/N as your name, and some romance readers now refuse to read third person at all. The lost pleasure is being absorbed in someone else's life without needing it to accommodate your own. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "The Argument",
+                  "url": "https://www.theargumentmag.com/p/the-book-is-not-about-you",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Save Our Stories.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " Eddie Huang recapped the banned books event where he spoke about the statewide ban of Fresh Off The Boat in Texas, plus Ali Velshi's touching speech on The Perks of Being a Wallflower. The rest of the show: sh*t talking is back (the Vanity Fair Thomas Straker piece), Chet Hanks pressing Eric Andre, and Brooklyn teachers in Issey Miyake dupes. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Canal Street Dreams",
+                  "url": "https://basedfob.substack.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "A pet altar at 12th and Park.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " Local couple Sandra Manay and Thomas Konik brought back their Dia de Muertos pet memorial altar in Hoboken for a second year, inviting neighbors to add photos of lost pets. The city is also planning the permanent Rainbow Bridge pet memorial. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "The Hoboken Girl",
+                  "url": "https://www.hobokengirl.com/dia-de-muertos-pet-memorial-hoboken/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "The Muslim manosphere.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " From Red Pill coaches to \"Dawah Bros,\" influencers are dressing up hypermasculinity and misogyny in religious language and finding audiences across social platforms. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "WIRED",
+                  "url": "https://www.wired.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Quick Hits & Curiosities",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Zero-click spyware is now infecting phones through targeted ads, per The Citizen Lab's first published technical evidence. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "WIRED",
+                  "url": "https://www.wired.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "60 Minutes hit a season low with 6.061M viewers Sunday, down 12% from last year's comparable episode, and off 15% in the 25-54 demo. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Status",
+                  "url": "https://status.news/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Meta stunned the industry with a total ban on all ByteDance advertising across its platforms, extended to six other countries beyond the US. Some inside Meta were caught off guard. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Status",
+                  "url": "https://status.news/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "The DOJ sent California letters naming people it believes are noncitizens who received mail-in ballots, threatening \"emergency\" court intervention if the state does not act. Also, a literal dog voted in California recently. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Pirate Wires",
+                  "url": "https://www.piratewires.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Prediction markets make the Montreal Alouettes 48% favorites for the Grey Cup and give the Seahawks a 58% chance of beating the Broncos on Thursday Night Football. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Snacks",
+                  "url": "https://sherwood.news/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "An arrested OpenAI engineer credits a Saudi prince with his decision to work in US tech. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Pirate Wires",
+                  "url": "https://www.piratewires.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Woodpeckers inspired the world's safest bike helmet: Vancouver's Pikio Labs built a new skull-protection approach after studying head-banging woodpeckers. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "WIRED",
+                  "url": "https://www.wired.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Tanner Garrity rucked the Williamsburg Bridge with 30 pounds on his back, three miles in 45 minutes, peaking 150 feet over the East River. Rucking's prayer: \"Get this shit off me.\" (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "InsideHook",
+                  "url": "https://www.insidehook.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "heading_1",
+              "runs": [
+                {
+                  "text": "Thursday, October 15, 2026 - Midday Edition",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Today's Numbers",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "1 billion",
+                  "url": "https://www.404media.co/r/fe068b56?m=f198361c-d0c1-41bf-86df-5431cede6034",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": ChatGPT's monthly active users. 404 Media tested the ad system and found advertisers can inject ads into your session based on your phone number, your email, or the prompts you type in.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "$1.3 billion",
+                  "url": "https://www.semafor.com/",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": Ithaca Holdings, a first-time fund with zero buyouts under its belt, is buying Bumble for $1.3B. The backers include Jeff Bezos, Shopify CEO Tobi Lütke, Kleiner Perkins, Benchmark, and Joshua Kushner's Thrive Capital.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "80 cents",
+                  "url": "https://semafor.com/s/u4pt5hjjrz",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": CoreWeave's worst-hit bonds fell below 80 cents on the dollar, well into distressed territory, as lenders sour on the AI trade. Elon Musk's review: \"Yikes.\"",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "$2,600",
+                  "url": "https://www.thenewthings.com/",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": the starting price of Microsoft's new Surface Laptop Ultra, a mini AI data center with Nvidia's RTX Spark chip and up to 128GB of memory that runs frontier models locally.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "1 in 4",
+                  "url": "https://afterschool.substack.com/p/starter-boyfriends-and-snapchat-revolutions",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": nearly a quarter of France's 3,700 high schools have seen student walkouts, organized through Snapchat groups with 201-person caps. The Gen Alpha revolution is built on disappearing messages.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "40,000",
+                  "url": "https://afterschool.substack.com/p/starter-boyfriends-and-snapchat-revolutions",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": fans packed AT&T Stadium near Dallas for women's college volleyball's first $1 million prize pool, the largest in the sport's history. Volleyball NIL pay has risen 25-fold since 2021.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Quotes of the Day",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "\"We don't just need to bond, we need to belong too.\" (Adam Grant, on why friendships alone don't cure loneliness, from his new book VIBE)",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "\"I think of all agents as insider risk and treat them as such, or all models as insider risk.\" (Microsoft CEO Satya Nadella, in his interview with Joanna Stern)",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "\"Culture is not proprietary; trends are not IP.\" (Anu Lingala, after the world's largest trend forecasting company accused her tiny newsletter of stealing its content)",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "\"This isn't about gossip, it's about asymmetric social warfare.\" (Art of Play shopkeeper, after Kelly Clarkson aimed 8.8 million followers at his Brooklyn store)",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "\"I still don't know what I want to do with my life.\" (Avi Lichtenstein, 16, who spent $500 of his savings on 300 flyers asking New Yorkers, \"Do you have a cool job and a big heart? Let me shadow you.\")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "\"OpenAI's advertising products are operating just like most other massive companies which start to monetize their audiences. They are boiling the frog and hoping their users won't notice the privacy implications from their new ads.\" (Zach Edwards, DecryptAds co-founder, to 404 Media)",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "AI Gets Creepier and Pricier",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Your ChatGPT session is for sale, and your phone number is the targeting.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " 404 Media ran test ads inside ChatGPT and confirmed that advertisers can target specific people based on their email address, phone number, or a unique identifier on their phone. OpenAI also targets ads based on the prompts you type, prompts many users reasonably assume are private. OpenAI started showing ads to Free and Go users in February and recently pushed them alongside image generation results. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "404 Media",
+                  "url": "https://www.404media.co/r/39c0a069?m=f198361c-d0c1-41bf-86df-5431cede6034",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Nadella admits AI agents are an insider threat, then sells you the fortress.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " In an exclusive interview with Joanna Stern, the Microsoft CEO said Windows is being reengineered for the agent era, with agents getting their own identities, isolated environments, restricted permissions, and Defender watching their behavior. His pitch: Windows becomes the safest home for agents you cannot trust. He also showed off the new Surface Laptop Ultra, starting at $2,600, running frontier models locally on Nvidia's RTX Spark chip, plus an app he vibe-coded himself. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "The New Things",
+                  "url": "https://www.thenewthings.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "The AI boom's next bottleneck is not chips or power, it is money.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " Lenders are pulling back from data center debt, Semafor reports, with CoreWeave's bonds sliding into distressed territory and the DBS CEO telling Shelly Banjo, \"We're not an ATM for your dystopian future.\" Volta's $5B Norwegian data center got tougher terms, protecting against a SpaceX default now costs 80% more than three months ago, and telecom bonds cracked six months before the dot-com crash. Equity investors get paid to be dreamers; lenders get paid not to lose money. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Semafor",
+                  "url": "https://www.semafor.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Culture Notes",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "The world's largest trend forecaster tried to bully a tiny newsletter, and picked the wrong target.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " WGSN, the trend forecasting giant valued around $900M, sent Anu Lingala and Alexi Gunner a legal letter claiming their work \"appears to rely heavily\" on WGSN's proprietary content. Problem: neither of them has an active WGSN account (Lingala was laid off in January), the letter never specified which content, and trends, as she notes, are not IP. After she pushed back with a lawyer, WGSN backed down. Her bigger point: the old forecasting business was \"trend-fixing,\" a self-fulfilling loop where everyone at the mall sold the same color because everyone subscribed to the same service. TikTok blew up that cycle for good. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "WHAT'S ANU",
+                  "url": "https://whatsanu.substack.com/p/is-the-worlds-largest-trend-forecasting",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Kelly Clarkson vs. a Brooklyn curiosity shop is the pettiest power struggle of the week.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " Saturday, Clarkson tweeted to her 8.8 million followers that Art of Play treated her like she was poor. The store says she wanted to buy \"Molly,\" a one-of-a-kind singing and dancing bird that is not for sale, and Clarkson countered with screenshots of a $15,000 price tag. Co-owner Adam Rubin says they've since received death threats and had neighbors doxxed. Pirate Wires spent 24 hours inside the shop, where neighbors brought solidarity, an Afghan bakery dropped off free baked goods, and the vibe stayed, per one shopkeeper, firmly \"relaxed.\" (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Pirate Wires",
+                  "url": "https://www.piratewires.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Gen Z invented the entry-level boyfriend.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " Per The Cut via After School, the prevailing philosophy among Gen Z women is that a boyfriend is only worth the trouble if he could plausibly become a husband, so her peers cycle through situationships instead of relationships, with no practice \"communicating, compromising, fighting, apologizing, and showing up.\" One NYU grad recalled shooting down a guy who tried to define the relationship, having already made \"a mental list of all the reasons he couldn't be my husband anyway.\" (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "After School",
+                  "url": "https://afterschool.substack.com/p/starter-boyfriends-and-snapchat-revolutions",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Doctors used to prescribe Jane Austen for shell shock.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " A WITI guest essay traces bibliotherapy back to 1916, when Samuel McChord Crothers coined the term, and through WWI, when librarians wheeled carts of books into military hospitals and a British scholar reportedly drew up a \"fever chart\" recommending Austen for trauma. The idea: literature offers something beyond information or instruction, which is to say consolation. In an era when we diagnose ourselves constantly and prescribe podcasts about attachment styles, maybe the prescription is fewer hours searching for answers online and more hours in the company of a good writer. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Why is this interesting?",
+                  "url": "https://whyisthisinteresting.substack.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "We swapped spider webs for bicycle wheels, and it made us lonely.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " Adam Grant's new book argues our social networks used to look like spider webs, where the people in our lives knew each other, and now look like bicycle wheels, where we are the hub and the spokes never connect. The fix is not more bonding but belonging: join a book club, a pottery class, a padel league, and introduce your friends to each other. Happiness rises when the people you know are in touch. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Adam Grant",
+                  "url": "https://adamgrant.substack.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Kids These Days",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "AI is becoming mom's second brain.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " Overwhelmed by the administrative burden of parenting, families are outsourcing to AI: one mom feeds her kid's library schedule to an agent called Ollie, which texts her reminders. In a Lurie Children's Hospital survey, two in three parents said AI eased their mental load and saved them nearly an hour a week, and Menlo Ventures puts AI adoption at 84% among parents versus 56% of nonparents. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "After School",
+                  "url": "https://afterschool.substack.com/p/starter-boyfriends-and-snapchat-revolutions",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "A new kids' app wants to kill the engagement machine.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " Maka is an ad-free streaming app abandoning the mechanisms that \"turn children's media into an engagement machine\": no autoplay, no endless scrolling, and a 25-show catalog including The Wiggles and Sesame Street, vetted through a framework built with the Yale Child Study Center. One beta dad said that on other platforms, watching with his kid feels like \"a race to the bottom of my kid's brainstem.\" (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "After School",
+                  "url": "https://afterschool.substack.com/p/starter-boyfriends-and-snapchat-revolutions",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "One teen spent $500 on flyers to find a job worth doing.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " Avi Lichtenstein, a 16-year-old high school junior, paid two Craigslist hires to tape more than 300 flyers around New York reading, \"Do you have a cool job and a big heart? Let me shadow you.\" Applicants fill out a questionnaire and do a video call first (\"If they're a creep on Zoom, then I'm not meeting with them in person\"). So far he's shadowed a dog groomer, a radio host, and a Bronx noodle shop owner, one week at a time, before college applications. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "After School",
+                  "url": "https://afterschool.substack.com/p/starter-boyfriends-and-snapchat-revolutions",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Quick Hits & Curiosities",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Ukrainian drones hit Russia's largest data center, the fourth strike on Russian data centers in a week. Data centers are now war targets. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "404 Media",
+                  "url": "https://www.404media.co/r/785bd2c3?m=f198361c-d0c1-41bf-86df-5431cede6034",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Epic Games admitted it \"vibe coded\" a new, much faster Epic Games Launcher, and buried the real news: Fortnite is coming to Linux. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "404 Media",
+                  "url": "https://www.404media.co/r/de44f8fb?m=f198361c-d0c1-41bf-86df-5431cede6034",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Livestreamers in Germany used a robot to harass a woman on the street for social media clout. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "404 Media",
+                  "url": "https://www.404media.co/r/f5e2060a?m=f198361c-d0c1-41bf-86df-5431cede6034",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Acquired revisited Peloton's pandemic arc: $49B peak market cap to more than 85% down, $1.3B in unsold bikes and treads, the $420M Precor buy, and the Barry McCarthy rescue mission. Kyle's rating: 6/10. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Acquired",
+                  "url": "https://acquiredbriefing.substack.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Jordskott, a Swedish procedural where police detectives investigate trolls, got the nod from band Mackeeper, whose debut record Believe You Me drops tomorrow. Their other recs: Busch Gardens (theme is countries, $1 beers, five cups in one hand), Chicken Marbella (the prune dish), and Frontier House. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Perfectly Imperfect",
+                  "url": "https://www.pi.fyi/p/mackeeper",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            }
+          ],
+          "links": [
+            {
+              "title": "WIRED",
+              "url": "https://www.wired.com/"
+            },
+            {
+              "title": "Snacks",
+              "url": "https://www.apple.com/newsroom/2026/10/meet-apple-homeview-a-new-way-to-enjoy-entertainment-and-manage-the-home/"
+            },
+            {
+              "title": "2.2 million",
+              "url": "https://sheets.works/data-viz/two-million-recipes"
+            },
+            {
+              "title": "sheets.works",
+              "url": "http://sheets.works/"
+            },
+            {
+              "title": "The Housing Frame",
+              "url": "https://conorsen.substack.com/"
+            },
+            {
+              "title": "Platformer",
+              "url": "https://www.platformer.news/"
+            },
+            {
+              "title": "Pirate Wires",
+              "url": "https://www.piratewires.com/"
+            },
+            {
+              "title": "Counterpoint",
+              "url": "https://counterpoint.substack.com/"
+            },
+            {
+              "title": "Snacks",
+              "url": "https://frightgeist.withgoogle.com/"
+            },
+            {
+              "title": "The Argument",
+              "url": "https://www.theargumentmag.com/p/the-book-is-not-about-you"
+            },
+            {
+              "title": "Canal Street Dreams",
+              "url": "https://basedfob.substack.com/"
+            },
+            {
+              "title": "The Hoboken Girl",
+              "url": "https://www.hobokengirl.com/dia-de-muertos-pet-memorial-hoboken/"
+            },
+            {
+              "title": "Status",
+              "url": "https://status.news/"
+            },
+            {
+              "title": "Snacks",
+              "url": "https://sherwood.news/"
+            },
+            {
+              "title": "InsideHook",
+              "url": "https://www.insidehook.com/"
+            },
+            {
+              "title": "1 billion",
+              "url": "https://www.404media.co/r/fe068b56?m=f198361c-d0c1-41bf-86df-5431cede6034"
+            },
+            {
+              "title": "Semafor",
+              "url": "https://www.semafor.com/"
+            },
+            {
+              "title": "80 cents",
+              "url": "https://semafor.com/s/u4pt5hjjrz"
+            },
+            {
+              "title": "The New Things",
+              "url": "https://www.thenewthings.com/"
+            },
+            {
+              "title": "After School",
+              "url": "https://afterschool.substack.com/p/starter-boyfriends-and-snapchat-revolutions"
+            },
+            {
+              "title": "404 Media",
+              "url": "https://www.404media.co/r/39c0a069?m=f198361c-d0c1-41bf-86df-5431cede6034"
+            },
+            {
+              "title": "WHAT'S ANU",
+              "url": "https://whatsanu.substack.com/p/is-the-worlds-largest-trend-forecasting"
+            },
+            {
+              "title": "Why is this interesting?",
+              "url": "https://whyisthisinteresting.substack.com/"
+            },
+            {
+              "title": "Adam Grant",
+              "url": "https://adamgrant.substack.com/"
+            },
+            {
+              "title": "404 Media",
+              "url": "https://www.404media.co/r/785bd2c3?m=f198361c-d0c1-41bf-86df-5431cede6034"
+            },
+            {
+              "title": "404 Media",
+              "url": "https://www.404media.co/r/de44f8fb?m=f198361c-d0c1-41bf-86df-5431cede6034"
+            },
+            {
+              "title": "404 Media",
+              "url": "https://www.404media.co/r/f5e2060a?m=f198361c-d0c1-41bf-86df-5431cede6034"
+            },
+            {
+              "title": "Acquired",
+              "url": "https://acquiredbriefing.substack.com/"
+            },
+            {
+              "title": "Perfectly Imperfect",
+              "url": "https://www.pi.fyi/p/mackeeper"
+            }
+          ]
+        }
+      }
     }
   ]
 }
