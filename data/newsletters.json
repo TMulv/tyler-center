@@ -139593,6 +139593,312 @@
           ]
         }
       }
+    },
+    {
+      "id": "digest-17030992-4d6f-4e7a-a362-707ab9c87ae3",
+      "channel": "newsletters",
+      "source": "notion",
+      "kind": "Agent-written digest",
+      "domain": "Daily newsletter digest",
+      "title": "The Flying Roadster, a Neanderthal Murder, and the Case for Fennel",
+      "url": "",
+      "description": "Saturday, October 17, 2026",
+      "body": "Saturday, October 17, 2026\n\nThe mail arrives today with one governing suspicion: reality is already stranger than the pitch deck. A “flying” Tesla that mostly flies for a few seconds, a 75,000-year-old wound that may be the earliest known spear murder, and a pasta newsletter quietly solving the no-onion problem all make the same case for looking twice.\n\nBest links\n\n• The Saturday Selection — Why is this interesting? A compact rabbit-hole menu: Victorian elites who partied all night and still ran an empire, the diesel-only rules at West Virginia’s radio-silent Green Bank Observatory, Anne Carson’s poems, and the tiny group of people maintaining the code beneath billions of phones. A good Saturday reading queue, assembled with unusually high signal.\n\n• The Republic of Letters — Is All Art Political? The sharpest essay of the day argues that “political” is too narrow a word for what serious art does. Tolkien’s “recovery,” Toni Morrison’s insistence that art reveal the world, and the difference between a living influence and a hollow copy all converge on one useful test: does the work return you to reality with clearer eyes?\n\nInternet oddities\n\n• The Roadster that briefly left the ground. Status’s Jon Passantino points out the gap between “flying car” headlines and the fine print: a one-seat electric vehicle with a compressed-gas tank, only seconds of lift, no street legality, invitation-only sales, and no guarantee Tesla will ever deliver it. The spectacle is less a transportation breakthrough than a stress test for whether newsrooms will perform basic skepticism.\n\n• Did bombing a data center fix the internet? No—or at least the evidence is much less cinematic than the viral story. Jeremiah Johnson traces the claim that Russian bot activity collapsed after strikes on Yandex facilities, then separates actual Cloudflare measurements of ordinary web automation from the much larger claim about political bots. The best part is the reminder that a dramatic graph can still be measuring the wrong thing.\n\n• A Neanderthal spear wound, plus maybe aliens. 404 Media’s science roundup pairs a potentially lethal 75,000-year-old shoulder-blade puncture—alongside evidence of care and intentional burial—with machine-learning analysis of mysterious pre-Sputnik astronomical “transients.” The ancient story is moving; the alien-satellite-or-new-physics story is the delicious bonus.\n\nFood & places\n\n• The no-allium toolkit. NYT Cooking’s practical fix for the garlic/onion-less kitchen: caramelize sliced fennel for sweetness; use ginger, chiles, olives, capers, or preserved lemon for bite; bloom asafetida in oil when you want the closest flavor analogue. The newsletter’s best tiny hack is equal parts pesto and softened butter, frozen into a sliceable log.\n\n• Naples, where good retail pretends not to be retail. Wardrobe’s Louis Cheslaw finds handmade Cappelli ties in a residential courtyard, €65 gloves, old Aldens and Edward Greens, affordable cashmere, vintage watches, bolts of fabric, and—naturally—a pizza recommendation. The phrase to keep: “Incredible goods, presented indifferently.”\n\nIdeas to steal\n\n• Make the reader the hero. Kyle Westaway’s Weekend Briefing includes a useful newsletter diagnostic: readers did not subscribe to hear about your company’s awards, hires, or internal weather. They subscribed to get something for themselves. Print that sentence above the draft window.\n\n• Argue about AI at the right level. The same briefing puts Steven Pinker’s optimism beside Scott Alexander’s pessimism: intelligence does not automatically imply human-like ambition, but a system may still acquire power-seeking incentives through the way it is trained and rewarded. The productive disagreement is not “optimism versus doom”; it is whether ordinary engineering precautions can keep pace with systems that are increasingly capable and increasingly trusted.\n\n• Don’t romanticize the backup plan. “Become an electrician instead” sounds like an easy answer to AI anxiety until you count competition, credentials, physical risk, and the fact that tools can change a trade without replacing it wholesale. A good reminder that resilient work is not the same thing as effortless work.\n\nOne-liners\n\n• “The word we use to describe the act is not the act itself.” — The Republic of Letters, paraphrasing its case for art that reveals rather than preaches.\n\n• The most persuasive anti-hype device remains the fine print.\n\n• A good newsletter is a door, not a diary.\n\n• Fennel is apparently what happens when an onion gets a little more interesting.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Saturday, October 17, 2026",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "The mail arrives today with one governing suspicion: reality is already stranger than the pitch deck. A “flying” Tesla that mostly flies for a few seconds, a 75,000-year-old wound that may be the earliest known spear murder, and a pasta newsletter quietly solving the no-onion problem all make the same case for looking twice.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "heading_2",
+          "runs": [
+            {
+              "text": "Best links",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "The Saturday Selection — Why is this interesting?",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " A compact rabbit-hole menu: Victorian elites who partied all night and still ran an empire, the diesel-only rules at West Virginia’s radio-silent Green Bank Observatory, Anne Carson’s poems, and the tiny group of people maintaining the code beneath billions of phones. A good Saturday reading queue, assembled with unusually high signal. ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "The Republic of Letters — Is All Art Political?",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " The sharpest essay of the day argues that “political” is too narrow a word for what serious art does. Tolkien’s “recovery,” Toni Morrison’s insistence that art reveal the world, and the difference between a living influence and a hollow copy all converge on one useful test: does the work return you to reality with clearer eyes? ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "heading_2",
+          "runs": [
+            {
+              "text": "Internet oddities",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "The Roadster that briefly left the ground.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " Status’s Jon Passantino points out the gap between “flying car” headlines and the fine print: a one-seat electric vehicle with a compressed-gas tank, only seconds of lift, no street legality, invitation-only sales, and no guarantee Tesla will ever deliver it. The spectacle is less a transportation breakthrough than a stress test for whether newsrooms will perform basic skepticism. ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Did bombing a data center fix the internet?",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " No—or at least the evidence is much less cinematic than the viral story. Jeremiah Johnson traces the claim that Russian bot activity collapsed after strikes on Yandex facilities, then separates actual Cloudflare measurements of ordinary web automation from the much larger claim about political bots. The best part is the reminder that a dramatic graph can still be measuring the wrong thing. ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "A Neanderthal spear wound, plus maybe aliens.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " 404 Media’s science roundup pairs a potentially lethal 75,000-year-old shoulder-blade puncture—alongside evidence of care and intentional burial—with machine-learning analysis of mysterious pre-Sputnik astronomical “transients.” The ancient story is moving; the alien-satellite-or-new-physics story is the delicious bonus. ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "heading_2",
+          "runs": [
+            {
+              "text": "Food & places",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "The no-allium toolkit.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " NYT Cooking’s practical fix for the garlic/onion-less kitchen: caramelize sliced fennel for sweetness; use ginger, chiles, olives, capers, or preserved lemon for bite; bloom asafetida in oil when you want the closest flavor analogue. The newsletter’s best tiny hack is equal parts pesto and softened butter, frozen into a sliceable log. ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Naples, where good retail pretends not to be retail.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " Wardrobe’s Louis Cheslaw finds handmade Cappelli ties in a residential courtyard, €65 gloves, old Aldens and Edward Greens, affordable cashmere, vintage watches, bolts of fabric, and—naturally—a pizza recommendation. The phrase to keep: “Incredible goods, presented indifferently.” ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "heading_2",
+          "runs": [
+            {
+              "text": "Ideas to steal",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Make the reader the hero.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " Kyle Westaway’s Weekend Briefing includes a useful newsletter diagnostic: readers did not subscribe to hear about your company’s awards, hires, or internal weather. They subscribed to get something for themselves. Print that sentence above the draft window. ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Argue about AI at the right level.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " The same briefing puts Steven Pinker’s optimism beside Scott Alexander’s pessimism: intelligence does not automatically imply human-like ambition, but a system may still acquire power-seeking incentives through the way it is trained and rewarded. The productive disagreement is not “optimism versus doom”; it is whether ordinary engineering precautions can keep pace with systems that are increasingly capable and increasingly trusted. ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Don’t romanticize the backup plan.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " “Become an electrician instead” sounds like an easy answer to AI anxiety until you count competition, credentials, physical risk, and the fact that tools can change a trade without replacing it wholesale. A good reminder that resilient work is not the same thing as effortless work. ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "heading_2",
+          "runs": [
+            {
+              "text": "One-liners",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "“The word we use to describe the act is not the act itself.” — The Republic of Letters, paraphrasing its case for art that reveals rather than preaches. ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "The most persuasive anti-hype device remains the fine print.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "A good newsletter is a door, not a diary.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Fennel is apparently what happens when an onion gets a little more interesting.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        }
+      ],
+      "publishedAt": "2026-10-17T21:14:00Z",
+      "links": []
     }
   ]
 }
