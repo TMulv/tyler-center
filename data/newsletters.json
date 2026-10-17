@@ -136391,6 +136391,1172 @@
           "url": "http://character.ai/"
         }
       ]
+    },
+    {
+      "id": "digest-3fc8153c-8a3e-819e-a82d-ddc8db8d92eb",
+      "channel": "newsletters",
+      "source": "notion",
+      "kind": "Agent-written digest",
+      "domain": "Daily newsletter digest",
+      "title": "Zero-click spyware in your ads, Elizabeth Holmes meets Nathan Fielder, gasoline up 9.1% - Saturday, October 17, 2026",
+      "url": "",
+      "description": "Saturday, October 17, 2026 - Morning Edition",
+      "body": "Saturday, October 17, 2026 - Morning Edition\n\nToday's Numbers\n\n• 9.1%: the one-month jump in gasoline prices in September, pushing yearly inflation to 3.7 percent while the White House kept cheering the economy.\n\n• 5: days White House press secretary Katie Zacharia lasted before getting the boot, which still beats the Scaramucci benchmark of 11 days.\n\n• $100,000: the American Express bill Kimberly Guilfoyle allegedly asked a wealthy Trump donor to pay off, offering to use her political connections to help with his legal and tax problems, per The Wall Street Journal.\n\nQuotes of the Day\n\n• \"When your neighbor's house is on fire, buy gasoline from the arsonist and tell the homeowner to stop spraying water.\" (Counterpoint, on the Trump administration's diesel deal with Russia)\n\n• \"Our social personality is a creation of the minds of others.\" (Marcel Proust, quoted in David Roberts' essay on rereading Mrs. Dalloway)\n\n• \"People have become dangerously enmeshed with chatbots.\" (Steven Levy, reporting Sherry Turkle's warning in WIRED)\n\nAI & The Machines\n\nThe Wikipedians who thought AI would come and go were wrong. In the age of AI Overviews, Wikipedia usage is declining, but the real loss may be bigger than traffic. Richard Cooke argues the damage is existential: a world that stops consulting the encyclopedia loses a shared reference point, not just pageviews. (WIRED)\n\nThe ads are watching back, and now they bite. Citizen Lab has released the first hard technical evidence of mercenary spyware spreading through targeted online ads. An Israeli ad firm allegedly turned the programmatic ad stack into delivery infrastructure, with confirmed infections on at least 45 Al Jazeera devices and tainted impressions reaching networks tied to NATO, the United Nations, and government agencies across Europe. Victims saw nothing; some may never have seen an ad at all. Google and industry bodies have since cut the firm off, but the machinery that made it possible is still running. (WIRED)\n\nThe Culture\n\nElizabeth Holmes meets her match in Nathan Fielder. Sean Monahan reviews You Can See Everything, Fielder's three-hour documentary built from a month inside Holmes' home before she reported to federal prison. The film turns recursive: Amanda Seyfried, who played Holmes in The Dropout, re-performs scenes Fielder reconstructed from his own notes, and nobody can agree on what actually happened. Holmes' husband, armed with power of attorney and posting under her name on X, demanded a cut of the profits, then dropped it. Monahan's read: intent is unknowable, the media sells partial truths just like the fraudsters do, and the whole thing is a portrait of an era that scans instead of reads. It arrives with a techlash film wave that also includes Sorkin's Social Network follow-up, Guadagnino's OpenAI drama, and a Gibney Musk documentary, alongside the data-center backlash and the OpenAI and Anthropic IPOs. (8Ball)\n\nQuick Hits & Curiosities\n\n• The team behind Godzilla Minus Zero built their kaiju roars by parking speakers on top of an outdoor dam and blasting them; passing bystanders were not prepared. (WIRED)\n\n• Researchers gave tiny rescue drones cat-like whiskers so they can feel their way through the dark, borrowing the trick from nocturnal animals. (WIRED)\n\n• Gen Z rediscovered HBO's Girls, the show that once stood in for everything wrong with white millennial women, and gave it a second life. (WIRED)",
+      "blocks": [
+        {
+          "type": "heading_1",
+          "runs": [
+            {
+              "text": "Saturday, October 17, 2026 - Morning Edition",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Today's Numbers",
+              "url": "",
+              "bold": true,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "9.1%",
+              "url": "https://counterpoint.substack.com/p/saturday-bonus-cartoons-7b7",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": ": the one-month jump in gasoline prices in September, pushing yearly inflation to 3.7 percent while the White House kept cheering the economy.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "5",
+              "url": "https://counterpoint.substack.com/p/saturday-bonus-cartoons-7b7",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": ": days White House press secretary Katie Zacharia lasted before getting the boot, which still beats the Scaramucci benchmark of 11 days.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "$100,000",
+              "url": "https://counterpoint.substack.com/p/saturday-bonus-cartoons-7b7",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": ": the American Express bill Kimberly Guilfoyle allegedly asked a wealthy Trump donor to pay off, offering to use her political connections to help with his legal and tax problems, per The Wall Street Journal.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Quotes of the Day",
+              "url": "",
+              "bold": true,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "\"When your neighbor's house is on fire, buy gasoline from the arsonist and tell the homeowner to stop spraying water.\" (Counterpoint, on the Trump administration's diesel deal with Russia)",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "\"Our social personality is a creation of the minds of others.\" (Marcel Proust, quoted in David Roberts' essay on rereading Mrs. Dalloway)",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "\"People have become dangerously enmeshed with chatbots.\" (Steven Levy, reporting Sherry Turkle's warning in WIRED)",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "AI & The Machines",
+              "url": "",
+              "bold": true,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "The Wikipedians who thought AI would come and go were wrong.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " In the age of AI Overviews, Wikipedia usage is declining, but the real loss may be bigger than traffic. Richard Cooke argues the damage is existential: a world that stops consulting the encyclopedia loses a shared reference point, not just pageviews. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "WIRED",
+              "url": "https://www.wired.com/",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "The ads are watching back, and now they bite.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " Citizen Lab has released the first hard technical evidence of mercenary spyware spreading through targeted online ads. An Israeli ad firm allegedly turned the programmatic ad stack into delivery infrastructure, with confirmed infections on at least 45 Al Jazeera devices and tainted impressions reaching networks tied to NATO, the United Nations, and government agencies across Europe. Victims saw nothing; some may never have seen an ad at all. Google and industry bodies have since cut the firm off, but the machinery that made it possible is still running. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "WIRED",
+              "url": "https://www.wired.com/",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "The Culture",
+              "url": "",
+              "bold": true,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Elizabeth Holmes meets her match in Nathan Fielder.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " Sean Monahan reviews ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "You Can See Everything",
+              "url": "",
+              "bold": false,
+              "italic": true
+            },
+            {
+              "text": ", Fielder's three-hour documentary built from a month inside Holmes' home before she reported to federal prison. The film turns recursive: Amanda Seyfried, who played Holmes in ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "The Dropout",
+              "url": "",
+              "bold": false,
+              "italic": true
+            },
+            {
+              "text": ", re-performs scenes Fielder reconstructed from his own notes, and nobody can agree on what actually happened. Holmes' husband, armed with power of attorney and posting under her name on X, demanded a cut of the profits, then dropped it. Monahan's read: intent is unknowable, the media sells partial truths just like the fraudsters do, and the whole thing is a portrait of an era that scans instead of reads. It arrives with a techlash film wave that also includes Sorkin's ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Social Network",
+              "url": "",
+              "bold": false,
+              "italic": true
+            },
+            {
+              "text": " follow-up, Guadagnino's OpenAI drama, and a Gibney Musk documentary, alongside the data-center backlash and the OpenAI and Anthropic IPOs. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "8Ball",
+              "url": "https://www.8ball.report/p/what-do-i-know-about-elizabeth-holmes",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Quick Hits & Curiosities",
+              "url": "",
+              "bold": true,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "The team behind ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Godzilla Minus Zero",
+              "url": "",
+              "bold": false,
+              "italic": true
+            },
+            {
+              "text": " built their kaiju roars by parking speakers on top of an outdoor dam and blasting them; passing bystanders were not prepared. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "WIRED",
+              "url": "https://www.wired.com/",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Researchers gave tiny rescue drones cat-like whiskers so they can feel their way through the dark, borrowing the trick from nocturnal animals. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "WIRED",
+              "url": "https://www.wired.com/",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Gen Z rediscovered HBO's ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Girls",
+              "url": "",
+              "bold": false,
+              "italic": true
+            },
+            {
+              "text": ", the show that once stood in for everything wrong with white millennial women, and gave it a second life. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "WIRED",
+              "url": "https://www.wired.com/",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        }
+      ],
+      "publishedAt": "2026-10-17T11:58:00Z",
+      "links": [
+        {
+          "title": "$100,000",
+          "url": "https://counterpoint.substack.com/p/saturday-bonus-cartoons-7b7"
+        },
+        {
+          "title": "WIRED",
+          "url": "https://www.wired.com/"
+        },
+        {
+          "title": "8Ball",
+          "url": "https://www.8ball.report/p/what-do-i-know-about-elizabeth-holmes"
+        }
+      ],
+      "versions": {
+        "morning": {
+          "body": "Saturday, October 17, 2026 - Morning Edition\n\nToday's Numbers\n\n• 9.1%: the one-month jump in gasoline prices in September, pushing yearly inflation to 3.7 percent while the White House kept cheering the economy.\n\n• 5: days White House press secretary Katie Zacharia lasted before getting the boot, which still beats the Scaramucci benchmark of 11 days.\n\n• $100,000: the American Express bill Kimberly Guilfoyle allegedly asked a wealthy Trump donor to pay off, offering to use her political connections to help with his legal and tax problems, per The Wall Street Journal.\n\nQuotes of the Day\n\n• \"When your neighbor's house is on fire, buy gasoline from the arsonist and tell the homeowner to stop spraying water.\" (Counterpoint, on the Trump administration's diesel deal with Russia)\n\n• \"Our social personality is a creation of the minds of others.\" (Marcel Proust, quoted in David Roberts' essay on rereading Mrs. Dalloway)\n\n• \"People have become dangerously enmeshed with chatbots.\" (Steven Levy, reporting Sherry Turkle's warning in WIRED)\n\nAI & The Machines\n\nThe Wikipedians who thought AI would come and go were wrong. In the age of AI Overviews, Wikipedia usage is declining, but the real loss may be bigger than traffic. Richard Cooke argues the damage is existential: a world that stops consulting the encyclopedia loses a shared reference point, not just pageviews. (WIRED)\n\nThe ads are watching back, and now they bite. Citizen Lab has released the first hard technical evidence of mercenary spyware spreading through targeted online ads. An Israeli ad firm allegedly turned the programmatic ad stack into delivery infrastructure, with confirmed infections on at least 45 Al Jazeera devices and tainted impressions reaching networks tied to NATO, the United Nations, and government agencies across Europe. Victims saw nothing; some may never have seen an ad at all. Google and industry bodies have since cut the firm off, but the machinery that made it possible is still running. (WIRED)\n\nThe Culture\n\nElizabeth Holmes meets her match in Nathan Fielder. Sean Monahan reviews You Can See Everything, Fielder's three-hour documentary built from a month inside Holmes' home before she reported to federal prison. The film turns recursive: Amanda Seyfried, who played Holmes in The Dropout, re-performs scenes Fielder reconstructed from his own notes, and nobody can agree on what actually happened. Holmes' husband, armed with power of attorney and posting under her name on X, demanded a cut of the profits, then dropped it. Monahan's read: intent is unknowable, the media sells partial truths just like the fraudsters do, and the whole thing is a portrait of an era that scans instead of reads. It arrives with a techlash film wave that also includes Sorkin's Social Network follow-up, Guadagnino's OpenAI drama, and a Gibney Musk documentary, alongside the data-center backlash and the OpenAI and Anthropic IPOs. (8Ball)\n\nQuick Hits & Curiosities\n\n• The team behind Godzilla Minus Zero built their kaiju roars by parking speakers on top of an outdoor dam and blasting them; passing bystanders were not prepared. (WIRED)\n\n• Researchers gave tiny rescue drones cat-like whiskers so they can feel their way through the dark, borrowing the trick from nocturnal animals. (WIRED)\n\n• Gen Z rediscovered HBO's Girls, the show that once stood in for everything wrong with white millennial women, and gave it a second life. (WIRED)",
+          "blocks": [
+            {
+              "type": "heading_1",
+              "runs": [
+                {
+                  "text": "Saturday, October 17, 2026 - Morning Edition",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Today's Numbers",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "9.1%",
+                  "url": "https://counterpoint.substack.com/p/saturday-bonus-cartoons-7b7",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": the one-month jump in gasoline prices in September, pushing yearly inflation to 3.7 percent while the White House kept cheering the economy.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "5",
+                  "url": "https://counterpoint.substack.com/p/saturday-bonus-cartoons-7b7",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": days White House press secretary Katie Zacharia lasted before getting the boot, which still beats the Scaramucci benchmark of 11 days.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "$100,000",
+                  "url": "https://counterpoint.substack.com/p/saturday-bonus-cartoons-7b7",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": the American Express bill Kimberly Guilfoyle allegedly asked a wealthy Trump donor to pay off, offering to use her political connections to help with his legal and tax problems, per The Wall Street Journal.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Quotes of the Day",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "\"When your neighbor's house is on fire, buy gasoline from the arsonist and tell the homeowner to stop spraying water.\" (Counterpoint, on the Trump administration's diesel deal with Russia)",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "\"Our social personality is a creation of the minds of others.\" (Marcel Proust, quoted in David Roberts' essay on rereading Mrs. Dalloway)",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "\"People have become dangerously enmeshed with chatbots.\" (Steven Levy, reporting Sherry Turkle's warning in WIRED)",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "AI & The Machines",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "The Wikipedians who thought AI would come and go were wrong.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " In the age of AI Overviews, Wikipedia usage is declining, but the real loss may be bigger than traffic. Richard Cooke argues the damage is existential: a world that stops consulting the encyclopedia loses a shared reference point, not just pageviews. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "WIRED",
+                  "url": "https://www.wired.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "The ads are watching back, and now they bite.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " Citizen Lab has released the first hard technical evidence of mercenary spyware spreading through targeted online ads. An Israeli ad firm allegedly turned the programmatic ad stack into delivery infrastructure, with confirmed infections on at least 45 Al Jazeera devices and tainted impressions reaching networks tied to NATO, the United Nations, and government agencies across Europe. Victims saw nothing; some may never have seen an ad at all. Google and industry bodies have since cut the firm off, but the machinery that made it possible is still running. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "WIRED",
+                  "url": "https://www.wired.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "The Culture",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Elizabeth Holmes meets her match in Nathan Fielder.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " Sean Monahan reviews ",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "You Can See Everything",
+                  "url": "",
+                  "bold": false,
+                  "italic": true
+                },
+                {
+                  "text": ", Fielder's three-hour documentary built from a month inside Holmes' home before she reported to federal prison. The film turns recursive: Amanda Seyfried, who played Holmes in ",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "The Dropout",
+                  "url": "",
+                  "bold": false,
+                  "italic": true
+                },
+                {
+                  "text": ", re-performs scenes Fielder reconstructed from his own notes, and nobody can agree on what actually happened. Holmes' husband, armed with power of attorney and posting under her name on X, demanded a cut of the profits, then dropped it. Monahan's read: intent is unknowable, the media sells partial truths just like the fraudsters do, and the whole thing is a portrait of an era that scans instead of reads. It arrives with a techlash film wave that also includes Sorkin's ",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Social Network",
+                  "url": "",
+                  "bold": false,
+                  "italic": true
+                },
+                {
+                  "text": " follow-up, Guadagnino's OpenAI drama, and a Gibney Musk documentary, alongside the data-center backlash and the OpenAI and Anthropic IPOs. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "8Ball",
+                  "url": "https://www.8ball.report/p/what-do-i-know-about-elizabeth-holmes",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Quick Hits & Curiosities",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "The team behind ",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Godzilla Minus Zero",
+                  "url": "",
+                  "bold": false,
+                  "italic": true
+                },
+                {
+                  "text": " built their kaiju roars by parking speakers on top of an outdoor dam and blasting them; passing bystanders were not prepared. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "WIRED",
+                  "url": "https://www.wired.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Researchers gave tiny rescue drones cat-like whiskers so they can feel their way through the dark, borrowing the trick from nocturnal animals. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "WIRED",
+                  "url": "https://www.wired.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Gen Z rediscovered HBO's ",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Girls",
+                  "url": "",
+                  "bold": false,
+                  "italic": true
+                },
+                {
+                  "text": ", the show that once stood in for everything wrong with white millennial women, and gave it a second life. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "WIRED",
+                  "url": "https://www.wired.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            }
+          ],
+          "links": [
+            {
+              "title": "$100,000",
+              "url": "https://counterpoint.substack.com/p/saturday-bonus-cartoons-7b7"
+            },
+            {
+              "title": "WIRED",
+              "url": "https://www.wired.com/"
+            },
+            {
+              "title": "8Ball",
+              "url": "https://www.8ball.report/p/what-do-i-know-about-elizabeth-holmes"
+            }
+          ]
+        },
+        "full": {
+          "body": "Saturday, October 17, 2026 - Morning Edition\n\nToday's Numbers\n\n• 9.1%: the one-month jump in gasoline prices in September, pushing yearly inflation to 3.7 percent while the White House kept cheering the economy.\n\n• 5: days White House press secretary Katie Zacharia lasted before getting the boot, which still beats the Scaramucci benchmark of 11 days.\n\n• $100,000: the American Express bill Kimberly Guilfoyle allegedly asked a wealthy Trump donor to pay off, offering to use her political connections to help with his legal and tax problems, per The Wall Street Journal.\n\nQuotes of the Day\n\n• \"When your neighbor's house is on fire, buy gasoline from the arsonist and tell the homeowner to stop spraying water.\" (Counterpoint, on the Trump administration's diesel deal with Russia)\n\n• \"Our social personality is a creation of the minds of others.\" (Marcel Proust, quoted in David Roberts' essay on rereading Mrs. Dalloway)\n\n• \"People have become dangerously enmeshed with chatbots.\" (Steven Levy, reporting Sherry Turkle's warning in WIRED)\n\nAI & The Machines\n\nThe Wikipedians who thought AI would come and go were wrong. In the age of AI Overviews, Wikipedia usage is declining, but the real loss may be bigger than traffic. Richard Cooke argues the damage is existential: a world that stops consulting the encyclopedia loses a shared reference point, not just pageviews. (WIRED)\n\nThe ads are watching back, and now they bite. Citizen Lab has released the first hard technical evidence of mercenary spyware spreading through targeted online ads. An Israeli ad firm allegedly turned the programmatic ad stack into delivery infrastructure, with confirmed infections on at least 45 Al Jazeera devices and tainted impressions reaching networks tied to NATO, the United Nations, and government agencies across Europe. Victims saw nothing; some may never have seen an ad at all. Google and industry bodies have since cut the firm off, but the machinery that made it possible is still running. (WIRED)\n\nThe Culture\n\nElizabeth Holmes meets her match in Nathan Fielder. Sean Monahan reviews You Can See Everything, Fielder's three-hour documentary built from a month inside Holmes' home before she reported to federal prison. The film turns recursive: Amanda Seyfried, who played Holmes in The Dropout, re-performs scenes Fielder reconstructed from his own notes, and nobody can agree on what actually happened. Holmes' husband, armed with power of attorney and posting under her name on X, demanded a cut of the profits, then dropped it. Monahan's read: intent is unknowable, the media sells partial truths just like the fraudsters do, and the whole thing is a portrait of an era that scans instead of reads. It arrives with a techlash film wave that also includes Sorkin's Social Network follow-up, Guadagnino's OpenAI drama, and a Gibney Musk documentary, alongside the data-center backlash and the OpenAI and Anthropic IPOs. (8Ball)\n\nQuick Hits & Curiosities\n\n• The team behind Godzilla Minus Zero built their kaiju roars by parking speakers on top of an outdoor dam and blasting them; passing bystanders were not prepared. (WIRED)\n\n• Researchers gave tiny rescue drones cat-like whiskers so they can feel their way through the dark, borrowing the trick from nocturnal animals. (WIRED)\n\n• Gen Z rediscovered HBO's Girls, the show that once stood in for everything wrong with white millennial women, and gave it a second life. (WIRED)",
+          "blocks": [
+            {
+              "type": "heading_1",
+              "runs": [
+                {
+                  "text": "Saturday, October 17, 2026 - Morning Edition",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Today's Numbers",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "9.1%",
+                  "url": "https://counterpoint.substack.com/p/saturday-bonus-cartoons-7b7",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": the one-month jump in gasoline prices in September, pushing yearly inflation to 3.7 percent while the White House kept cheering the economy.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "5",
+                  "url": "https://counterpoint.substack.com/p/saturday-bonus-cartoons-7b7",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": days White House press secretary Katie Zacharia lasted before getting the boot, which still beats the Scaramucci benchmark of 11 days.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "$100,000",
+                  "url": "https://counterpoint.substack.com/p/saturday-bonus-cartoons-7b7",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": the American Express bill Kimberly Guilfoyle allegedly asked a wealthy Trump donor to pay off, offering to use her political connections to help with his legal and tax problems, per The Wall Street Journal.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Quotes of the Day",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "\"When your neighbor's house is on fire, buy gasoline from the arsonist and tell the homeowner to stop spraying water.\" (Counterpoint, on the Trump administration's diesel deal with Russia)",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "\"Our social personality is a creation of the minds of others.\" (Marcel Proust, quoted in David Roberts' essay on rereading Mrs. Dalloway)",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "\"People have become dangerously enmeshed with chatbots.\" (Steven Levy, reporting Sherry Turkle's warning in WIRED)",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "AI & The Machines",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "The Wikipedians who thought AI would come and go were wrong.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " In the age of AI Overviews, Wikipedia usage is declining, but the real loss may be bigger than traffic. Richard Cooke argues the damage is existential: a world that stops consulting the encyclopedia loses a shared reference point, not just pageviews. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "WIRED",
+                  "url": "https://www.wired.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "The ads are watching back, and now they bite.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " Citizen Lab has released the first hard technical evidence of mercenary spyware spreading through targeted online ads. An Israeli ad firm allegedly turned the programmatic ad stack into delivery infrastructure, with confirmed infections on at least 45 Al Jazeera devices and tainted impressions reaching networks tied to NATO, the United Nations, and government agencies across Europe. Victims saw nothing; some may never have seen an ad at all. Google and industry bodies have since cut the firm off, but the machinery that made it possible is still running. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "WIRED",
+                  "url": "https://www.wired.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "The Culture",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Elizabeth Holmes meets her match in Nathan Fielder.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " Sean Monahan reviews ",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "You Can See Everything",
+                  "url": "",
+                  "bold": false,
+                  "italic": true
+                },
+                {
+                  "text": ", Fielder's three-hour documentary built from a month inside Holmes' home before she reported to federal prison. The film turns recursive: Amanda Seyfried, who played Holmes in ",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "The Dropout",
+                  "url": "",
+                  "bold": false,
+                  "italic": true
+                },
+                {
+                  "text": ", re-performs scenes Fielder reconstructed from his own notes, and nobody can agree on what actually happened. Holmes' husband, armed with power of attorney and posting under her name on X, demanded a cut of the profits, then dropped it. Monahan's read: intent is unknowable, the media sells partial truths just like the fraudsters do, and the whole thing is a portrait of an era that scans instead of reads. It arrives with a techlash film wave that also includes Sorkin's ",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Social Network",
+                  "url": "",
+                  "bold": false,
+                  "italic": true
+                },
+                {
+                  "text": " follow-up, Guadagnino's OpenAI drama, and a Gibney Musk documentary, alongside the data-center backlash and the OpenAI and Anthropic IPOs. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "8Ball",
+                  "url": "https://www.8ball.report/p/what-do-i-know-about-elizabeth-holmes",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Quick Hits & Curiosities",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "The team behind ",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Godzilla Minus Zero",
+                  "url": "",
+                  "bold": false,
+                  "italic": true
+                },
+                {
+                  "text": " built their kaiju roars by parking speakers on top of an outdoor dam and blasting them; passing bystanders were not prepared. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "WIRED",
+                  "url": "https://www.wired.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Researchers gave tiny rescue drones cat-like whiskers so they can feel their way through the dark, borrowing the trick from nocturnal animals. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "WIRED",
+                  "url": "https://www.wired.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Gen Z rediscovered HBO's ",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Girls",
+                  "url": "",
+                  "bold": false,
+                  "italic": true
+                },
+                {
+                  "text": ", the show that once stood in for everything wrong with white millennial women, and gave it a second life. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "WIRED",
+                  "url": "https://www.wired.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            }
+          ],
+          "links": [
+            {
+              "title": "$100,000",
+              "url": "https://counterpoint.substack.com/p/saturday-bonus-cartoons-7b7"
+            },
+            {
+              "title": "WIRED",
+              "url": "https://www.wired.com/"
+            },
+            {
+              "title": "8Ball",
+              "url": "https://www.8ball.report/p/what-do-i-know-about-elizabeth-holmes"
+            }
+          ]
+        }
+      }
     }
   ]
 }
