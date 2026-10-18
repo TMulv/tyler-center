@@ -142896,6 +142896,555 @@
           ]
         }
       }
+    },
+    {
+      "id": "digest-07036ca4-bc96-4fae-9564-39924cfc43e1",
+      "channel": "newsletters",
+      "source": "notion",
+      "kind": "Agent-written digest",
+      "domain": "Daily newsletter digest",
+      "title": "The Witness Glasses, Lowercase Internet & Friendly Stews",
+      "url": "",
+      "description": "Today’s mail arrived with a thesis: the most interesting technology is the kind that changes a social ritual. A pair of stigmatized glasses becomes a witness; lowercase turns out to be an old internet accent; and autumn dinner is mostly a matter of letting things become friendly in the pot.",
+      "body": "Today’s mail arrived with a thesis: the most interesting technology is the kind that changes a social ritual. A pair of stigmatized glasses becomes a witness; lowercase turns out to be an old internet accent; and autumn dinner is mostly a matter of letting things become friendly in the pot.\n\nBest links\n\nThe glasses that remember\n\nRay-Ban Meta’s smart glasses are headed toward hearing-aid territory, but the more immediate story is social: reporter Pablo Manríquez uses them as a lightweight witness at the Capitol. The review is unusually good on the tradeoffs — a visible recording light, usable but three-minute footage, open-air audio that leaks calls into the room, and hardware that is “a computer dressed as eyewear.” The sharpest takeaway: disclosure is not independence, but hiding the free pair is worse than taking it.\n\nSource: Pablo Manríquez, Meta Glasses Make Congress Behave\n\nThe internet’s lowercase accent\n\nWIRED’s Big Story traces all-lowercase writing past the current Substack affectation and back to the internet’s nerdier beginnings. The fun is not the dunk; it’s the realization that a style that reads as intimate, ironic, or aggressively online is also a tiny piece of interface history. Bonus artifact: a 1994 WIRED profile of Paul Allen, whose author described him as “nothing so much as a manatee with dancey blue eyes.”\n\nSource: WIRED Big Story, The secret history of lowercase\n\nThe grid is the story\n\nFireside Alpha’s OCP Global Summit roundup is a useful antidote to AI coverage that treats compute as an abstraction. Its recurring constraint is physical: power contracts reportedly reaching $100 per watt or more, the grid as the binding limit, copper versus optics inside the rack, and a forecast that data-center accelerator demand could approach $1.5 trillion by 2030. The interesting question is not only who builds the fastest chip, but who can build the room around it.\n\nSource: Fireside Alpha, Best of OCP Global Summit 2026\n\nFood & places\n\nChicken au poivre, but make it weeknight\n\nNYT Cooking’s Kay Chun version swaps steak for budget-friendly chicken thighs, then lets a peppery pan sauce — lemon, cream, and all — do the dramatic work. The newsletter’s other good idea is a refrigerator-pickle chapter in Chun’s new cookbook, including white-kimchi giardiniera.\n\nSource: NYT Cooking, Chicken au poivre, oh yes\n\n“So the flavors become friendly”\n\nThe autumn edition of Five Weeknight Dishes is a small argument for cozy food without pumpkin maximalism: sausage orzo with sage breadcrumbs, green masala chicken, roasted tomato and white-bean stew, baked cod with cracker topping, and barely-spicy guajillo shrimp. The phrase to keep is Emily Weinstein’s description of stew: let the flavors become friendly.\n\nSource: NYT Cooking, Sausage orzo with sage bread crumbs; roasted tomato and white bean stew\n\nInternet oddities\n\nOne interior photo, one house\n\n404 Media flags an AI geolocation tool, Raven (formerly Geospy), that says it can pinpoint the specific house where an interior photo was taken. The same newsletter points to a judge ruling a Flock search unconstitutional and an AI-generated video carrying “undue emotional weight” in a manslaughter case. It is a particularly concentrated reminder that visual AI is becoming less about making pictures and more about extracting places, evidence, and leverage from them.\n\nSource: 404 Media, Cops Can Use AI to Pinpoint Your Home with Just One Photo\n\nIdeas to steal\n\n• Judge the work, not the tool. Brain Food’s carpenter-and-hammer analogy is blunt, useful, and aimed at the “I don’t use AI” posture. The newsletter’s more durable version of wealth is time: slow mornings, purposeless walks, and days without meetings.\n\n• Build for the constraint people actually feel. The glasses review is not really about cameras; it is about trust, visibility, privacy, and whether a device can survive a real encounter.\n\n• Make the supporting system visible. The OCP roundup’s best move is to put power, networking, memory, manufacturing, and rack standards beside the glamorous chip announcements.\n\nSources: Shane Parrish, Brain Food: Defeat is Psychological ; Pablo Manríquez ; Fireside Alpha\n\nWorth reading / listening\n\nLenny’s newsletter points to a 72-minute conversation with Anthropic interpretability researcher Emmanuel Ameisen. The hook is the gap between the “next-token predictor” slogan and the more surprising picture: models forming general concepts, planning many tokens ahead without stating those plans, and raising questions about whether interpretability can connect technical understanding to AI safety. Worth saving for a long walk, especially if “how models think” has started to feel like a phrase everyone uses without unpacking.\n\nSource: Lenny’s Newsletter, Inside the black box of AI\n\nOne-liners\n\n• The best product review is sometimes: “Its old model refuses to die.”\n\n• Data centers are trying the oldest PR strategy in the book: take the kids on a field trip.\n\n• “Until death, all defeat is psychological.”\n\n• Lowercase is not a rebellion; it is an inheritance.\n\n• A stew is ready when its ingredients stop arguing.",
+      "blocks": [
+        {
+          "type": "quote",
+          "runs": [
+            {
+              "text": "Today’s mail arrived with a thesis: the most interesting technology is the kind that changes a social ritual. A pair of stigmatized glasses becomes a witness; lowercase turns out to be an old internet accent; and autumn dinner is mostly a matter of letting things become friendly in the pot.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "heading_2",
+          "runs": [
+            {
+              "text": "Best links",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "heading_3",
+          "runs": [
+            {
+              "text": "The glasses that remember",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Ray-Ban Meta’s smart glasses are headed toward hearing-aid territory, but the more immediate story is social: reporter Pablo Manríquez uses them as a lightweight witness at the Capitol. The review is unusually good on the tradeoffs — a visible recording light, usable but three-minute footage, open-air audio that leaks calls into the room, and hardware that is “a computer dressed as eyewear.” The sharpest takeaway: disclosure is not independence, but hiding the free pair is worse than taking it.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Source: Pablo Manríquez, ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Meta Glasses Make Congress Behave",
+              "url": "",
+              "bold": false,
+              "italic": true
+            },
+            {
+              "text": " ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "heading_3",
+          "runs": [
+            {
+              "text": "The internet’s lowercase accent",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "WIRED’s Big Story traces all-lowercase writing past the current Substack affectation and back to the internet’s nerdier beginnings. The fun is not the dunk; it’s the realization that a style that reads as intimate, ironic, or aggressively online is also a tiny piece of interface history. Bonus artifact: a 1994 WIRED profile of Paul Allen, whose author described him as “nothing so much as a manatee with dancey blue eyes.”",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Source: WIRED Big Story, ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "The secret history of lowercase",
+              "url": "",
+              "bold": false,
+              "italic": true
+            },
+            {
+              "text": " ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "heading_3",
+          "runs": [
+            {
+              "text": "The grid is the story",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Fireside Alpha’s OCP Global Summit roundup is a useful antidote to AI coverage that treats compute as an abstraction. Its recurring constraint is physical: power contracts reportedly reaching $100 per watt or more, the grid as the binding limit, copper versus optics inside the rack, and a forecast that data-center accelerator demand could approach $1.5 trillion by 2030. The interesting question is not only who builds the fastest chip, but who can build the room around it.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Source: Fireside Alpha, ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Best of OCP Global Summit 2026",
+              "url": "",
+              "bold": false,
+              "italic": true
+            },
+            {
+              "text": " ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "heading_2",
+          "runs": [
+            {
+              "text": "Food & places",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "heading_3",
+          "runs": [
+            {
+              "text": "Chicken au poivre, but make it weeknight",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "NYT Cooking’s Kay Chun version swaps steak for budget-friendly chicken thighs, then lets a peppery pan sauce — lemon, cream, and all — do the dramatic work. The newsletter’s other good idea is a refrigerator-pickle chapter in Chun’s new cookbook, including white-kimchi giardiniera.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Source: NYT Cooking, ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Chicken au poivre, oh yes",
+              "url": "",
+              "bold": false,
+              "italic": true
+            },
+            {
+              "text": " ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "heading_3",
+          "runs": [
+            {
+              "text": "“So the flavors become friendly”",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "The autumn edition of ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Five Weeknight Dishes",
+              "url": "",
+              "bold": false,
+              "italic": true
+            },
+            {
+              "text": " is a small argument for cozy food without pumpkin maximalism: sausage orzo with sage breadcrumbs, green masala chicken, roasted tomato and white-bean stew, baked cod with cracker topping, and barely-spicy guajillo shrimp. The phrase to keep is Emily Weinstein’s description of stew: let the flavors become friendly.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Source: NYT Cooking, ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Sausage orzo with sage bread crumbs; roasted tomato and white bean stew",
+              "url": "",
+              "bold": false,
+              "italic": true
+            },
+            {
+              "text": " ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "heading_2",
+          "runs": [
+            {
+              "text": "Internet oddities",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "heading_3",
+          "runs": [
+            {
+              "text": "One interior photo, one house",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "404 Media flags an AI geolocation tool, Raven (formerly Geospy), that says it can pinpoint the specific house where an interior photo was taken. The same newsletter points to a judge ruling a Flock search unconstitutional and an AI-generated video carrying “undue emotional weight” in a manslaughter case. It is a particularly concentrated reminder that visual AI is becoming less about making pictures and more about extracting places, evidence, and leverage from them.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Source: 404 Media, ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Cops Can Use AI to Pinpoint Your Home with Just One Photo",
+              "url": "",
+              "bold": false,
+              "italic": true
+            },
+            {
+              "text": " ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "heading_2",
+          "runs": [
+            {
+              "text": "Ideas to steal",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Judge the work, not the tool.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " Brain Food’s carpenter-and-hammer analogy is blunt, useful, and aimed at the “I don’t use AI” posture. The newsletter’s more durable version of wealth is time: slow mornings, purposeless walks, and days without meetings.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Build for the constraint people actually feel.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " The glasses review is not really about cameras; it is about trust, visibility, privacy, and whether a device can survive a real encounter.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Make the supporting system visible.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " The OCP roundup’s best move is to put power, networking, memory, manufacturing, and rack standards beside the glamorous chip announcements.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Sources: Shane Parrish, ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Brain Food: Defeat is Psychological",
+              "url": "",
+              "bold": false,
+              "italic": true
+            },
+            {
+              "text": " ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "; Pablo Manríquez ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "; Fireside Alpha ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "heading_2",
+          "runs": [
+            {
+              "text": "Worth reading / listening",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Lenny’s newsletter points to a 72-minute conversation with Anthropic interpretability researcher Emmanuel Ameisen. The hook is the gap between the “next-token predictor” slogan and the more surprising picture: models forming general concepts, planning many tokens ahead without stating those plans, and raising questions about whether interpretability can connect technical understanding to AI safety. Worth saving for a long walk, especially if “how models think” has started to feel like a phrase everyone uses without unpacking.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Source: Lenny’s Newsletter, ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Inside the black box of AI",
+              "url": "",
+              "bold": false,
+              "italic": true
+            },
+            {
+              "text": " ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "heading_2",
+          "runs": [
+            {
+              "text": "One-liners",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "The best product review is sometimes: “Its old model refuses to die.”",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Data centers are trying the oldest PR strategy in the book: take the kids on a field trip.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "“Until death, all defeat is psychological.”",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Lowercase is not a rebellion; it is an inheritance.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "A stew is ready when its ingredients stop arguing.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        }
+      ],
+      "publishedAt": "2026-10-18T21:06:00Z",
+      "links": []
     }
   ]
 }
