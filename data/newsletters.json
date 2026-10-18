@@ -140123,14 +140123,14 @@
       "domain": "Daily newsletter digest",
       "title": "OpenAI worker accused of using a chatbot to plant a recording device, AI can now pinpoint your house from one interior photo, Chicago cops helped spy on anti-ICE activists - Sunday, October 18, 2026",
       "url": "",
-      "description": "Sunday, October 18, 2026 - Midday Edition",
-      "body": "Sunday, October 18, 2026 - Midday Edition\n\nToday's Numbers\n\n• 131: suspected gang members ICE arrested between October 4 and 10, including 22 tied to MS-13 and 13 to Tren de Aragua. DHS says ICE has made 12,018 gang-related arrests since Trump returned to office.\n\n• 3: minutes a Ray-Ban Meta recording lasts before it cuts off and has to be restarted by hand, a real constraint for a reporter trying to document a hard encounter.\n\n• 1,600: words in Tiffany Ng's new WIRED essay on the secret history of lowercase, which argues the internet was practically born in lowercase and every all-lowercase text joins a long, nerdy tradition.\n\n• 28: arrests in Ghana and Nigeria in the FBI's Operation Blackout against scam compounds, which also disrupted 3.7 million scam-linked accounts and located more than 120 trafficked workers.\n\nQuotes of the Day\n\n• \"For a successful technology, reality must take precedence over public relations, for nature cannot be fooled.\" (Richard Feynman, 1986, quoted in Pablo Manriquez's Meta glasses piece)\n\n• \"The gadget half of America calls a creep tool is about to become a medical device the other half may need.\" (Pablo Manriquez, on the FDA clearing Meta glasses as hearing aids)\n\n• \"Models are 'grown,' not built.\" (Emmanuel Ameisen, Anthropic interpretability researcher, on Lenny's Podcast)\n\n• \"If I ever break up with @Kara Swisher, I'm gonna do it the Elon way.\" (Scott Galloway, in a Substack note)\n\nSurveillance Chic\n\n• Meta's creepiest gadget just became a hearing aid. The FDA cleared Meta's Hearing Enhancement software this summer, turning Ray-Ban Meta glasses into an over-the-counter, self-fitting hearing aid for mild-to-moderate hearing loss, due in the U.S. later this year. Manriquez wears his $400 Gen 2 Wayfarers to the Capitol anyway and figured they had become a paperweight when Gen 3 launched last month. They hadn't. (Migrant Insider)\n\n• People behave better when they think they're on the record. A green light blinks on the frame while the camera rolls, and Manriquez finds people remember encounters more accurately once they know they might be documented. Anyone with a personal or professional beef steers clear of his line of sight. He wears the non-prescription pair as a witness, which mattered when the White House accused him of doxxing an ICE agent he had actually just named for on-duty conduct. (Migrant Insider)\n\nInside the Machine\n\n• AI models plan ahead without telling you. Anthropic interpretability researcher Emmanuel Ameisen tells Lenny's Podcast that large language models form general representations of concepts and plan many tokens ahead without stating those plans explicitly. His research has surfaced structure inside models that resembles the human split between conscious and unconscious processing. The episode's case: the \"next-token predictor\" framing undersells how models actually think, and closing that gap matters for AI safety. (Lenny's Newsletter)\n\nFrance in Flames\n\n• Rioters burned a 143-year-old city hall to the ground. Saturday's cost-of-living protests drew about 550,000 marchers nationwide, with the CGT union claiming 800,000, and turned into France's worst unrest in years: 400 arrests and 60 officers injured, two of them hospitalized unconscious. In Limoges, around 50 masked people torched police cars outside the 1883 City Hall, forced their way inside, and set the ground floor ablaze. The landmark bell tower collapsed, and the prefect called the building \"largely lost.\" (NLDR Media)\n\nBodies & Machines\n\n• An anti-aging cream that turns back the clock on skin. After four weeks of using the cream, trial participants lowered the biological age of their skin by about two years on average, WIRED's Emily Mullin reports. The trial is early and small, but it is the kind of result that launches a thousand serums. (WIRED)\n\nQuick Hits & Curiosities\n\n• A 1994 WIRED classic resurfaces: Paul Allen, \"the accidental zillionaire,\" whom tech writer Paulina Borsook once described as resembling \"a manatee with dancey blue eyes.\" (WIRED)\n\n• Designer Jessica Hische caught a wave of hate for creating the squiggly \"M\" logo for Meta's new Muse AI agent, then defended taking the paycheck in Zoe Schiffer's Model Behavior newsletter. (WIRED)",
+      "description": "Sunday, October 18, 2026 - Afternoon Edition",
+      "body": "Sunday, October 18, 2026 - Afternoon Edition\n\nToday's Numbers\n\n• $1.5 trillion: AMD's Lisa Su says the data center AI accelerator market reaches close to that by 2030, with the CPU market topping $200 billion.\n\n• 250 gigawatts: Arista's Andy Bechtolsheim projects that much data center power gets built worldwide in the next 10 years, with 150 of it in the US alone.\n\n• $100 a watt: Credo's Bill Brennan says power contracts are being written at this level or higher.\n\n• 120%: LightCounting's 2026 market growth forecast. The last time growth topped 100% was 2000.\n\n• 7.2x: SemiAnalysis's Dylan Patel says early Rubin hardware gets that many GB300 tokens per megawatt at 150 tokens per second.\n\nQuotes of the Day\n\n• \"a declining market will happen at some point, though he doesn't know when, and he would rather see a moderate recalibration now, the sooner the better\" (Vlad Kozlov of LightCounting, on the AI infrastructure boom)\n\n• \"retire the rule of copper where you can, optics if you must\" (Bill Brennan, Credo CEO, on the copper vs optics debate)\n\nThe Power Crunch\n\nMeta's Hyperion data center is five gigawatts on one site. Santosh Janardhan dropped that number as part of a clear theme across the summit: the grid is becoming the binding constraint on AI growth. NVIDIA's Ian Buck pushed back with a fix, saying better power management could add 40% to the world's GPUs today, which is capacity we already own but can't use efficiently. (Fireside Alpha)\n\nThe Memory Wall\n\nSome chip players are skipping HBM entirely. d-Matrix's Sid Sheth says his company uses no HBM at all, sidestepping the industry's scarcest and priciest component. SK hynix is going the opposite direction with HBF, which gives up about half of HBM's bandwidth in exchange for much higher capacity, with cube samples arriving in early 2028. (Fireside Alpha)\n\nCopper vs Optics\n\nThe networking fight inside the rack is getting real. NVIDIA's Gilad Shainer says the company still wants copper within a rack, betting that short distances keep favoring copper. Ian Buck previewed Vera Rubin Ultra, 576 GPUs linked over NVLink with co-packaged optics, while LightCounting expects CPO and NPO to make up 75% of 3.2T ports. (Fireside Alpha)\n\nQuick Hits & Curiosities\n\n• AMD's Lisa Su also puts the CPU market topping $200 billion, with CPUs staging a comeback as agentic compute grows. (Fireside Alpha)",
       "blocks": [
         {
           "type": "heading_1",
           "runs": [
             {
-              "text": "Sunday, October 18, 2026 - Midday Edition",
+              "text": "Sunday, October 18, 2026 - Afternoon Edition",
               "url": "",
               "bold": false,
               "italic": false
@@ -140152,13 +140152,13 @@
           "type": "bulleted_list_item",
           "runs": [
             {
-              "text": "131",
-              "url": "https://thejefferymead.substack.com/p/morning-briefing-october-18-2026",
+              "text": "$1.5 trillion",
+              "url": "https://firesidealpha.substack.com/p/fireside-minutes-best-of-ocp-global",
               "bold": true,
               "italic": false
             },
             {
-              "text": ": suspected gang members ICE arrested between October 4 and 10, including 22 tied to MS-13 and 13 to Tren de Aragua. DHS says ICE has made 12,018 gang-related arrests since Trump returned to office.",
+              "text": ": AMD's Lisa Su says the data center AI accelerator market reaches close to that by 2030, with the CPU market topping $200 billion.",
               "url": "",
               "bold": false,
               "italic": false
@@ -140169,13 +140169,13 @@
           "type": "bulleted_list_item",
           "runs": [
             {
-              "text": "3",
-              "url": "https://pabloreports.com/p/meta-glasses-make-congress-behave",
+              "text": "250 gigawatts",
+              "url": "https://firesidealpha.substack.com/p/fireside-minutes-best-of-ocp-global",
               "bold": true,
               "italic": false
             },
             {
-              "text": ": minutes a Ray-Ban Meta recording lasts before it cuts off and has to be restarted by hand, a real constraint for a reporter trying to document a hard encounter.",
+              "text": ": Arista's Andy Bechtolsheim projects that much data center power gets built worldwide in the next 10 years, with 150 of it in the US alone.",
               "url": "",
               "bold": false,
               "italic": false
@@ -140186,13 +140186,13 @@
           "type": "bulleted_list_item",
           "runs": [
             {
-              "text": "1,600",
-              "url": "https://www.wired.com/story/the-case-for-lowercase/",
+              "text": "$100 a watt",
+              "url": "https://firesidealpha.substack.com/p/fireside-minutes-best-of-ocp-global",
               "bold": true,
               "italic": false
             },
             {
-              "text": ": words in Tiffany Ng's new WIRED essay on the secret history of lowercase, which argues the internet was practically born in lowercase and every all-lowercase text joins a long, nerdy tradition.",
+              "text": ": Credo's Bill Brennan says power contracts are being written at this level or higher.",
               "url": "",
               "bold": false,
               "italic": false
@@ -140203,13 +140203,30 @@
           "type": "bulleted_list_item",
           "runs": [
             {
-              "text": "28",
-              "url": "https://thejefferymead.substack.com/p/morning-briefing-october-18-2026",
+              "text": "120%",
+              "url": "https://firesidealpha.substack.com/p/fireside-minutes-best-of-ocp-global",
               "bold": true,
               "italic": false
             },
             {
-              "text": ": arrests in Ghana and Nigeria in the FBI's Operation Blackout against scam compounds, which also disrupted 3.7 million scam-linked accounts and located more than 120 trafficked workers.",
+              "text": ": LightCounting's 2026 market growth forecast. The last time growth topped 100% was 2000.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "7.2x",
+              "url": "https://firesidealpha.substack.com/p/fireside-minutes-best-of-ocp-global",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": ": SemiAnalysis's Dylan Patel says early Rubin hardware gets that many GB300 tokens per megawatt at 150 tokens per second.",
               "url": "",
               "bold": false,
               "italic": false
@@ -140231,7 +140248,7 @@
           "type": "bulleted_list_item",
           "runs": [
             {
-              "text": "\"For a successful technology, reality must take precedence over public relations, for nature cannot be fooled.\" (Richard Feynman, 1986, quoted in Pablo Manriquez's Meta glasses piece)",
+              "text": "\"a declining market will happen at some point, though he doesn't know when, and he would rather see a moderate recalibration now, the sooner the better\" (Vlad Kozlov of LightCounting, on the AI infrastructure boom)",
               "url": "",
               "bold": false,
               "italic": false
@@ -140242,29 +140259,7 @@
           "type": "bulleted_list_item",
           "runs": [
             {
-              "text": "\"The gadget half of America calls a creep tool is about to become a medical device the other half may need.\" (Pablo Manriquez, on the FDA clearing Meta glasses as hearing aids)",
-              "url": "",
-              "bold": false,
-              "italic": false
-            }
-          ]
-        },
-        {
-          "type": "bulleted_list_item",
-          "runs": [
-            {
-              "text": "\"Models are 'grown,' not built.\" (Emmanuel Ameisen, Anthropic interpretability researcher, on Lenny's Podcast)",
-              "url": "",
-              "bold": false,
-              "italic": false
-            }
-          ]
-        },
-        {
-          "type": "bulleted_list_item",
-          "runs": [
-            {
-              "text": "\"If I ever break up with @Kara Swisher, I'm gonna do it the Elon way.\" (Scott Galloway, in a Substack note)",
+              "text": "\"retire the rule of copper where you can, optics if you must\" (Bill Brennan, Credo CEO, on the copper vs optics debate)",
               "url": "",
               "bold": false,
               "italic": false
@@ -140275,7 +140270,7 @@
           "type": "paragraph",
           "runs": [
             {
-              "text": "Surveillance Chic",
+              "text": "The Power Crunch",
               "url": "",
               "bold": true,
               "italic": false
@@ -140283,52 +140278,23 @@
           ]
         },
         {
-          "type": "bulleted_list_item",
+          "type": "paragraph",
           "runs": [
             {
-              "text": "Meta's creepiest gadget just became a hearing aid.",
+              "text": "Meta's Hyperion data center is five gigawatts on one site.",
               "url": "",
               "bold": true,
               "italic": false
             },
             {
-              "text": " The FDA cleared Meta's Hearing Enhancement software this summer, turning Ray-Ban Meta glasses into an over-the-counter, self-fitting hearing aid for mild-to-moderate hearing loss, due in the U.S. later this year. Manriquez wears his $400 Gen 2 Wayfarers to the Capitol anyway and figured they had become a paperweight when Gen 3 launched last month. They hadn't. (",
+              "text": " Santosh Janardhan dropped that number as part of a clear theme across the summit: the grid is becoming the binding constraint on AI growth. NVIDIA's Ian Buck pushed back with a fix, saying better power management could add 40% to the world's GPUs today, which is capacity we already own but can't use efficiently. (",
               "url": "",
               "bold": false,
               "italic": false
             },
             {
-              "text": "Migrant Insider",
-              "url": "https://pabloreports.com/p/meta-glasses-make-congress-behave",
-              "bold": false,
-              "italic": false
-            },
-            {
-              "text": ")",
-              "url": "",
-              "bold": false,
-              "italic": false
-            }
-          ]
-        },
-        {
-          "type": "bulleted_list_item",
-          "runs": [
-            {
-              "text": "People behave better when they think they're on the record.",
-              "url": "",
-              "bold": true,
-              "italic": false
-            },
-            {
-              "text": " A green light blinks on the frame while the camera rolls, and Manriquez finds people remember encounters more accurately once they know they might be documented. Anyone with a personal or professional beef steers clear of his line of sight. He wears the non-prescription pair as a witness, which mattered when the White House accused him of doxxing an ICE agent he had actually just named for on-duty conduct. (",
-              "url": "",
-              "bold": false,
-              "italic": false
-            },
-            {
-              "text": "Migrant Insider",
-              "url": "https://pabloreports.com/p/meta-glasses-make-congress-behave",
+              "text": "Fireside Alpha",
+              "url": "https://firesidealpha.substack.com/p/fireside-minutes-best-of-ocp-global",
               "bold": false,
               "italic": false
             },
@@ -140344,7 +140310,7 @@
           "type": "paragraph",
           "runs": [
             {
-              "text": "Inside the Machine",
+              "text": "The Memory Wall",
               "url": "",
               "bold": true,
               "italic": false
@@ -140352,23 +140318,23 @@
           ]
         },
         {
-          "type": "bulleted_list_item",
+          "type": "paragraph",
           "runs": [
             {
-              "text": "AI models plan ahead without telling you.",
+              "text": "Some chip players are skipping HBM entirely.",
               "url": "",
               "bold": true,
               "italic": false
             },
             {
-              "text": " Anthropic interpretability researcher Emmanuel Ameisen tells Lenny's Podcast that large language models form general representations of concepts and plan many tokens ahead without stating those plans explicitly. His research has surfaced structure inside models that resembles the human split between conscious and unconscious processing. The episode's case: the \"next-token predictor\" framing undersells how models actually think, and closing that gap matters for AI safety. (",
+              "text": " d-Matrix's Sid Sheth says his company uses no HBM at all, sidestepping the industry's scarcest and priciest component. SK hynix is going the opposite direction with HBF, which gives up about half of HBM's bandwidth in exchange for much higher capacity, with cube samples arriving in early 2028. (",
               "url": "",
               "bold": false,
               "italic": false
             },
             {
-              "text": "Lenny's Newsletter",
-              "url": "https://www.lennysnewsletter.com/p/a-mind-expanding-conversation-on",
+              "text": "Fireside Alpha",
+              "url": "https://firesidealpha.substack.com/p/fireside-minutes-best-of-ocp-global",
               "bold": false,
               "italic": false
             },
@@ -140384,38 +140350,9 @@
           "type": "paragraph",
           "runs": [
             {
-              "text": "France in Flames",
+              "text": "Copper vs Optics",
               "url": "",
               "bold": true,
-              "italic": false
-            }
-          ]
-        },
-        {
-          "type": "bulleted_list_item",
-          "runs": [
-            {
-              "text": "Rioters burned a 143-year-old city hall to the ground.",
-              "url": "",
-              "bold": true,
-              "italic": false
-            },
-            {
-              "text": " Saturday's cost-of-living protests drew about 550,000 marchers nationwide, with the CGT union claiming 800,000, and turned into France's worst unrest in years: 400 arrests and 60 officers injured, two of them hospitalized unconscious. In Limoges, around 50 masked people torched police cars outside the 1883 City Hall, forced their way inside, and set the ground floor ablaze. The landmark bell tower collapsed, and the prefect called the building \"largely lost.\" (",
-              "url": "",
-              "bold": false,
-              "italic": false
-            },
-            {
-              "text": "NLDR Media",
-              "url": "https://thejefferymead.substack.com/p/morning-briefing-october-18-2026",
-              "bold": false,
-              "italic": false
-            },
-            {
-              "text": ")",
-              "url": "",
-              "bold": false,
               "italic": false
             }
           ]
@@ -140424,31 +140361,20 @@
           "type": "paragraph",
           "runs": [
             {
-              "text": "Bodies & Machines",
-              "url": "",
-              "bold": true,
-              "italic": false
-            }
-          ]
-        },
-        {
-          "type": "bulleted_list_item",
-          "runs": [
-            {
-              "text": "An anti-aging cream that turns back the clock on skin.",
+              "text": "The networking fight inside the rack is getting real.",
               "url": "",
               "bold": true,
               "italic": false
             },
             {
-              "text": " After four weeks of using the cream, trial participants lowered the biological age of their skin by about two years on average, WIRED's Emily Mullin reports. The trial is early and small, but it is the kind of result that launches a thousand serums. (",
+              "text": " NVIDIA's Gilad Shainer says the company still wants copper within a rack, betting that short distances keep favoring copper. Ian Buck previewed Vera Rubin Ultra, 576 GPUs linked over NVLink with co-packaged optics, while LightCounting expects CPO and NPO to make up 75% of 3.2T ports. (",
               "url": "",
               "bold": false,
               "italic": false
             },
             {
-              "text": "WIRED",
-              "url": "https://www.wired.com/story/new-anti-aging-drug-trial-for-skin",
+              "text": "Fireside Alpha",
+              "url": "https://firesidealpha.substack.com/p/fireside-minutes-best-of-ocp-global",
               "bold": false,
               "italic": false
             },
@@ -140475,37 +140401,14 @@
           "type": "bulleted_list_item",
           "runs": [
             {
-              "text": "A 1994 WIRED classic resurfaces: Paul Allen, \"the accidental zillionaire,\" whom tech writer Paulina Borsook once described as resembling \"a manatee with dancey blue eyes.\" (",
+              "text": "AMD's Lisa Su also puts the CPU market topping $200 billion, with CPUs staging a comeback as agentic compute grows. (",
               "url": "",
               "bold": false,
               "italic": false
             },
             {
-              "text": "WIRED",
-              "url": "https://www.wired.com/1994/08/allen-2",
-              "bold": false,
-              "italic": false
-            },
-            {
-              "text": ")",
-              "url": "",
-              "bold": false,
-              "italic": false
-            }
-          ]
-        },
-        {
-          "type": "bulleted_list_item",
-          "runs": [
-            {
-              "text": "Designer Jessica Hische caught a wave of hate for creating the squiggly \"M\" logo for Meta's new Muse AI agent, then defended taking the paycheck in Zoe Schiffer's Model Behavior newsletter. (",
-              "url": "",
-              "bold": false,
-              "italic": false
-            },
-            {
-              "text": "WIRED",
-              "url": "https://www.wired.com/story/she-designed-metas-new-ai-logo-then-came-the-hate/",
+              "text": "Fireside Alpha",
+              "url": "https://firesidealpha.substack.com/p/fireside-minutes-best-of-ocp-global",
               "bold": false,
               "italic": false
             },
@@ -140521,32 +140424,8 @@
       "publishedAt": "2026-10-18T11:59:00Z",
       "links": [
         {
-          "title": "NLDR Media",
-          "url": "https://thejefferymead.substack.com/p/morning-briefing-october-18-2026"
-        },
-        {
-          "title": "Migrant Insider",
-          "url": "https://pabloreports.com/p/meta-glasses-make-congress-behave"
-        },
-        {
-          "title": "1,600",
-          "url": "https://www.wired.com/story/the-case-for-lowercase/"
-        },
-        {
-          "title": "Lenny's Newsletter",
-          "url": "https://www.lennysnewsletter.com/p/a-mind-expanding-conversation-on"
-        },
-        {
-          "title": "WIRED",
-          "url": "https://www.wired.com/story/new-anti-aging-drug-trial-for-skin"
-        },
-        {
-          "title": "WIRED",
-          "url": "https://www.wired.com/1994/08/allen-2"
-        },
-        {
-          "title": "WIRED",
-          "url": "https://www.wired.com/story/she-designed-metas-new-ai-logo-then-came-the-hate/"
+          "title": "Fireside Alpha",
+          "url": "https://firesidealpha.substack.com/p/fireside-minutes-best-of-ocp-global"
         }
       ],
       "versions": {
@@ -141485,8 +141364,313 @@
             }
           ]
         },
+        "afternoon": {
+          "body": "Sunday, October 18, 2026 - Afternoon Edition\n\nToday's Numbers\n\n• $1.5 trillion: AMD's Lisa Su says the data center AI accelerator market reaches close to that by 2030, with the CPU market topping $200 billion.\n\n• 250 gigawatts: Arista's Andy Bechtolsheim projects that much data center power gets built worldwide in the next 10 years, with 150 of it in the US alone.\n\n• $100 a watt: Credo's Bill Brennan says power contracts are being written at this level or higher.\n\n• 120%: LightCounting's 2026 market growth forecast. The last time growth topped 100% was 2000.\n\n• 7.2x: SemiAnalysis's Dylan Patel says early Rubin hardware gets that many GB300 tokens per megawatt at 150 tokens per second.\n\nQuotes of the Day\n\n• \"a declining market will happen at some point, though he doesn't know when, and he would rather see a moderate recalibration now, the sooner the better\" (Vlad Kozlov of LightCounting, on the AI infrastructure boom)\n\n• \"retire the rule of copper where you can, optics if you must\" (Bill Brennan, Credo CEO, on the copper vs optics debate)\n\nThe Power Crunch\n\nMeta's Hyperion data center is five gigawatts on one site. Santosh Janardhan dropped that number as part of a clear theme across the summit: the grid is becoming the binding constraint on AI growth. NVIDIA's Ian Buck pushed back with a fix, saying better power management could add 40% to the world's GPUs today, which is capacity we already own but can't use efficiently. (Fireside Alpha)\n\nThe Memory Wall\n\nSome chip players are skipping HBM entirely. d-Matrix's Sid Sheth says his company uses no HBM at all, sidestepping the industry's scarcest and priciest component. SK hynix is going the opposite direction with HBF, which gives up about half of HBM's bandwidth in exchange for much higher capacity, with cube samples arriving in early 2028. (Fireside Alpha)\n\nCopper vs Optics\n\nThe networking fight inside the rack is getting real. NVIDIA's Gilad Shainer says the company still wants copper within a rack, betting that short distances keep favoring copper. Ian Buck previewed Vera Rubin Ultra, 576 GPUs linked over NVLink with co-packaged optics, while LightCounting expects CPO and NPO to make up 75% of 3.2T ports. (Fireside Alpha)\n\nQuick Hits & Curiosities\n\n• AMD's Lisa Su also puts the CPU market topping $200 billion, with CPUs staging a comeback as agentic compute grows. (Fireside Alpha)",
+          "blocks": [
+            {
+              "type": "heading_1",
+              "runs": [
+                {
+                  "text": "Sunday, October 18, 2026 - Afternoon Edition",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Today's Numbers",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "$1.5 trillion",
+                  "url": "https://firesidealpha.substack.com/p/fireside-minutes-best-of-ocp-global",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": AMD's Lisa Su says the data center AI accelerator market reaches close to that by 2030, with the CPU market topping $200 billion.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "250 gigawatts",
+                  "url": "https://firesidealpha.substack.com/p/fireside-minutes-best-of-ocp-global",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": Arista's Andy Bechtolsheim projects that much data center power gets built worldwide in the next 10 years, with 150 of it in the US alone.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "$100 a watt",
+                  "url": "https://firesidealpha.substack.com/p/fireside-minutes-best-of-ocp-global",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": Credo's Bill Brennan says power contracts are being written at this level or higher.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "120%",
+                  "url": "https://firesidealpha.substack.com/p/fireside-minutes-best-of-ocp-global",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": LightCounting's 2026 market growth forecast. The last time growth topped 100% was 2000.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "7.2x",
+                  "url": "https://firesidealpha.substack.com/p/fireside-minutes-best-of-ocp-global",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": SemiAnalysis's Dylan Patel says early Rubin hardware gets that many GB300 tokens per megawatt at 150 tokens per second.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Quotes of the Day",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "\"a declining market will happen at some point, though he doesn't know when, and he would rather see a moderate recalibration now, the sooner the better\" (Vlad Kozlov of LightCounting, on the AI infrastructure boom)",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "\"retire the rule of copper where you can, optics if you must\" (Bill Brennan, Credo CEO, on the copper vs optics debate)",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "The Power Crunch",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Meta's Hyperion data center is five gigawatts on one site.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " Santosh Janardhan dropped that number as part of a clear theme across the summit: the grid is becoming the binding constraint on AI growth. NVIDIA's Ian Buck pushed back with a fix, saying better power management could add 40% to the world's GPUs today, which is capacity we already own but can't use efficiently. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Fireside Alpha",
+                  "url": "https://firesidealpha.substack.com/p/fireside-minutes-best-of-ocp-global",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "The Memory Wall",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Some chip players are skipping HBM entirely.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " d-Matrix's Sid Sheth says his company uses no HBM at all, sidestepping the industry's scarcest and priciest component. SK hynix is going the opposite direction with HBF, which gives up about half of HBM's bandwidth in exchange for much higher capacity, with cube samples arriving in early 2028. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Fireside Alpha",
+                  "url": "https://firesidealpha.substack.com/p/fireside-minutes-best-of-ocp-global",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Copper vs Optics",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "The networking fight inside the rack is getting real.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " NVIDIA's Gilad Shainer says the company still wants copper within a rack, betting that short distances keep favoring copper. Ian Buck previewed Vera Rubin Ultra, 576 GPUs linked over NVLink with co-packaged optics, while LightCounting expects CPO and NPO to make up 75% of 3.2T ports. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Fireside Alpha",
+                  "url": "https://firesidealpha.substack.com/p/fireside-minutes-best-of-ocp-global",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Quick Hits & Curiosities",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "AMD's Lisa Su also puts the CPU market topping $200 billion, with CPUs staging a comeback as agentic compute grows. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Fireside Alpha",
+                  "url": "https://firesidealpha.substack.com/p/fireside-minutes-best-of-ocp-global",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            }
+          ],
+          "links": [
+            {
+              "title": "Fireside Alpha",
+              "url": "https://firesidealpha.substack.com/p/fireside-minutes-best-of-ocp-global"
+            }
+          ]
+        },
         "full": {
-          "body": "Sunday, October 18, 2026 - Morning Edition\n\nToday's Numbers\n\n• 75,000 years: how long ago a Neanderthal lived whose shoulder blade carries a spear puncture wound, possibly the earliest known spear murder in Earth's history. (404 Media)\n\n• 230 mph: the top speed Tesla claims for its new Roadster 2, with an aerodynamics trick that makes the car \"fly.\" Turns out it both sucks and blows. (WIRED)\n\n• 1 million: the number of people Shane Parrish says his Brain Food newsletter reaches every week. (Farnam Street)\n\nQuotes of the Day\n\n• \"Until death, all defeat is psychological.\" (Marcus Aurelius, Roman emperor, quoted in Brain Food)\n\n• \"A carpenter who refuses a hammer doesn't make the house any better. He has only made his work slower and harder.\" (Shane Parrish, on people who refuse to use AI, in Brain Food)\n\n• \"Don't act like the person you used to be. Act like the person you want to become.\" (Ryan Serhant, founder of SERHANT. and star of Netflix's Owning Manhattan, in Brain Food)\n\n• \"My whole life has been spent trying to teach people that intense concentration for hour after hour can bring out in people resources they didn't know they had.\" (Edwin Land, Polaroid founder, quoted in Brain Food)\n\nAI & The Machines\n\n• An OpenAI employee allegedly asked a chatbot for help planting a secret recording device at the office. Chatbot prompts reveal the engineer's alleged efforts to set up a covert listening device days before one was actually found in a meeting room. There is something darkly funny about someone at an AI company using AI to plan their office bugging scheme, and also something not funny at all. (WIRED)\n\n• Police can now use AI to find which house you live in from a single photo taken inside it. Raven, the geolocation tool formerly known as Geospy, now says it can pinpoint a specific house based on just one interior photo. 404 Media's Joseph Cox dug into how cops are using the tool, and what it means now that your floorboards are as identifying as your face. (404 Media)\n\nSurveillance & The State\n\n• Chicago-area cops helped federal agents spy on Minnesota anti-ICE activists. Despite Illinois' sanctuary laws, local police in and around Chicago helped ICE investigative agents track activists engaged in First Amendment-protected activity. Federal immigration enforcement, with a local assist, across state lines. (WIRED)\n\n• A judge ruled one particular Flock camera search unconstitutional. Automated license plate readers now blanket American roads, and the courts are starting to draw lines around how police can use them. 404 Media got the footage of the search in question. (404 Media)\n\nMoney & Power\n\n• A short-lived White House press secretary got linked to an AI rare-earths mining startup, and it is even weirder than it sounds. Katie Zacharia was listed as an adviser to a Kristi Noem-linked company aiming to use AI for mining, though both she and the company insist she never worked there. It reads like a parody of the revolving door, except everyone says it never happened. (WIRED)\n\nThe Culture\n\n• Data centers have a new PR plan: your kid's field trip. Facing backlash over power and water use, industry-friendly groups are deploying creative, time-tested strategies to woo the youth. Nothing sells a gigawatt of compute like a school bus full of ten-year-olds. (WIRED)\n\nQuick Hits & Curiosities\n\n• Ryan Serhant told The Knowledge Project about a prospective client who didn't reply for five years, and why he kept following up anyway. Host Shane Parrish says he got more texts about this episode than any recent one. (Farnam Street)\n\n• Two years after Liam Payne's death, Luce of \"shit you should care about\" reposted her raw essay on grieving someone you loved at a distance. Her line: a loss is a loss, and no one can tell you differently. (shit you should care about)\n\n• Brain Food's tiny thought of the week: we spend time chasing money, then spend money chasing time, and most of what you want when you finally have money is cheap. (Farnam Street)\n\nSunday, October 18, 2026 - Midday Edition\n\nToday's Numbers\n\n• 131: suspected gang members ICE arrested between October 4 and 10, including 22 tied to MS-13 and 13 to Tren de Aragua. DHS says ICE has made 12,018 gang-related arrests since Trump returned to office.\n\n• 3: minutes a Ray-Ban Meta recording lasts before it cuts off and has to be restarted by hand, a real constraint for a reporter trying to document a hard encounter.\n\n• 1,600: words in Tiffany Ng's new WIRED essay on the secret history of lowercase, which argues the internet was practically born in lowercase and every all-lowercase text joins a long, nerdy tradition.\n\n• 28: arrests in Ghana and Nigeria in the FBI's Operation Blackout against scam compounds, which also disrupted 3.7 million scam-linked accounts and located more than 120 trafficked workers.\n\nQuotes of the Day\n\n• \"For a successful technology, reality must take precedence over public relations, for nature cannot be fooled.\" (Richard Feynman, 1986, quoted in Pablo Manriquez's Meta glasses piece)\n\n• \"The gadget half of America calls a creep tool is about to become a medical device the other half may need.\" (Pablo Manriquez, on the FDA clearing Meta glasses as hearing aids)\n\n• \"Models are 'grown,' not built.\" (Emmanuel Ameisen, Anthropic interpretability researcher, on Lenny's Podcast)\n\n• \"If I ever break up with @Kara Swisher, I'm gonna do it the Elon way.\" (Scott Galloway, in a Substack note)\n\nSurveillance Chic\n\n• Meta's creepiest gadget just became a hearing aid. The FDA cleared Meta's Hearing Enhancement software this summer, turning Ray-Ban Meta glasses into an over-the-counter, self-fitting hearing aid for mild-to-moderate hearing loss, due in the U.S. later this year. Manriquez wears his $400 Gen 2 Wayfarers to the Capitol anyway and figured they had become a paperweight when Gen 3 launched last month. They hadn't. (Migrant Insider)\n\n• People behave better when they think they're on the record. A green light blinks on the frame while the camera rolls, and Manriquez finds people remember encounters more accurately once they know they might be documented. Anyone with a personal or professional beef steers clear of his line of sight. He wears the non-prescription pair as a witness, which mattered when the White House accused him of doxxing an ICE agent he had actually just named for on-duty conduct. (Migrant Insider)\n\nInside the Machine\n\n• AI models plan ahead without telling you. Anthropic interpretability researcher Emmanuel Ameisen tells Lenny's Podcast that large language models form general representations of concepts and plan many tokens ahead without stating those plans explicitly. His research has surfaced structure inside models that resembles the human split between conscious and unconscious processing. The episode's case: the \"next-token predictor\" framing undersells how models actually think, and closing that gap matters for AI safety. (Lenny's Newsletter)\n\nFrance in Flames\n\n• Rioters burned a 143-year-old city hall to the ground. Saturday's cost-of-living protests drew about 550,000 marchers nationwide, with the CGT union claiming 800,000, and turned into France's worst unrest in years: 400 arrests and 60 officers injured, two of them hospitalized unconscious. In Limoges, around 50 masked people torched police cars outside the 1883 City Hall, forced their way inside, and set the ground floor ablaze. The landmark bell tower collapsed, and the prefect called the building \"largely lost.\" (NLDR Media)\n\nBodies & Machines\n\n• An anti-aging cream that turns back the clock on skin. After four weeks of using the cream, trial participants lowered the biological age of their skin by about two years on average, WIRED's Emily Mullin reports. The trial is early and small, but it is the kind of result that launches a thousand serums. (WIRED)\n\nQuick Hits & Curiosities\n\n• A 1994 WIRED classic resurfaces: Paul Allen, \"the accidental zillionaire,\" whom tech writer Paulina Borsook once described as resembling \"a manatee with dancey blue eyes.\" (WIRED)\n\n• Designer Jessica Hische caught a wave of hate for creating the squiggly \"M\" logo for Meta's new Muse AI agent, then defended taking the paycheck in Zoe Schiffer's Model Behavior newsletter. (WIRED)",
+          "body": "Sunday, October 18, 2026 - Morning Edition\n\nToday's Numbers\n\n• 75,000 years: how long ago a Neanderthal lived whose shoulder blade carries a spear puncture wound, possibly the earliest known spear murder in Earth's history. (404 Media)\n\n• 230 mph: the top speed Tesla claims for its new Roadster 2, with an aerodynamics trick that makes the car \"fly.\" Turns out it both sucks and blows. (WIRED)\n\n• 1 million: the number of people Shane Parrish says his Brain Food newsletter reaches every week. (Farnam Street)\n\nQuotes of the Day\n\n• \"Until death, all defeat is psychological.\" (Marcus Aurelius, Roman emperor, quoted in Brain Food)\n\n• \"A carpenter who refuses a hammer doesn't make the house any better. He has only made his work slower and harder.\" (Shane Parrish, on people who refuse to use AI, in Brain Food)\n\n• \"Don't act like the person you used to be. Act like the person you want to become.\" (Ryan Serhant, founder of SERHANT. and star of Netflix's Owning Manhattan, in Brain Food)\n\n• \"My whole life has been spent trying to teach people that intense concentration for hour after hour can bring out in people resources they didn't know they had.\" (Edwin Land, Polaroid founder, quoted in Brain Food)\n\nAI & The Machines\n\n• An OpenAI employee allegedly asked a chatbot for help planting a secret recording device at the office. Chatbot prompts reveal the engineer's alleged efforts to set up a covert listening device days before one was actually found in a meeting room. There is something darkly funny about someone at an AI company using AI to plan their office bugging scheme, and also something not funny at all. (WIRED)\n\n• Police can now use AI to find which house you live in from a single photo taken inside it. Raven, the geolocation tool formerly known as Geospy, now says it can pinpoint a specific house based on just one interior photo. 404 Media's Joseph Cox dug into how cops are using the tool, and what it means now that your floorboards are as identifying as your face. (404 Media)\n\nSurveillance & The State\n\n• Chicago-area cops helped federal agents spy on Minnesota anti-ICE activists. Despite Illinois' sanctuary laws, local police in and around Chicago helped ICE investigative agents track activists engaged in First Amendment-protected activity. Federal immigration enforcement, with a local assist, across state lines. (WIRED)\n\n• A judge ruled one particular Flock camera search unconstitutional. Automated license plate readers now blanket American roads, and the courts are starting to draw lines around how police can use them. 404 Media got the footage of the search in question. (404 Media)\n\nMoney & Power\n\n• A short-lived White House press secretary got linked to an AI rare-earths mining startup, and it is even weirder than it sounds. Katie Zacharia was listed as an adviser to a Kristi Noem-linked company aiming to use AI for mining, though both she and the company insist she never worked there. It reads like a parody of the revolving door, except everyone says it never happened. (WIRED)\n\nThe Culture\n\n• Data centers have a new PR plan: your kid's field trip. Facing backlash over power and water use, industry-friendly groups are deploying creative, time-tested strategies to woo the youth. Nothing sells a gigawatt of compute like a school bus full of ten-year-olds. (WIRED)\n\nQuick Hits & Curiosities\n\n• Ryan Serhant told The Knowledge Project about a prospective client who didn't reply for five years, and why he kept following up anyway. Host Shane Parrish says he got more texts about this episode than any recent one. (Farnam Street)\n\n• Two years after Liam Payne's death, Luce of \"shit you should care about\" reposted her raw essay on grieving someone you loved at a distance. Her line: a loss is a loss, and no one can tell you differently. (shit you should care about)\n\n• Brain Food's tiny thought of the week: we spend time chasing money, then spend money chasing time, and most of what you want when you finally have money is cheap. (Farnam Street)\n\nSunday, October 18, 2026 - Midday Edition\n\nToday's Numbers\n\n• 131: suspected gang members ICE arrested between October 4 and 10, including 22 tied to MS-13 and 13 to Tren de Aragua. DHS says ICE has made 12,018 gang-related arrests since Trump returned to office.\n\n• 3: minutes a Ray-Ban Meta recording lasts before it cuts off and has to be restarted by hand, a real constraint for a reporter trying to document a hard encounter.\n\n• 1,600: words in Tiffany Ng's new WIRED essay on the secret history of lowercase, which argues the internet was practically born in lowercase and every all-lowercase text joins a long, nerdy tradition.\n\n• 28: arrests in Ghana and Nigeria in the FBI's Operation Blackout against scam compounds, which also disrupted 3.7 million scam-linked accounts and located more than 120 trafficked workers.\n\nQuotes of the Day\n\n• \"For a successful technology, reality must take precedence over public relations, for nature cannot be fooled.\" (Richard Feynman, 1986, quoted in Pablo Manriquez's Meta glasses piece)\n\n• \"The gadget half of America calls a creep tool is about to become a medical device the other half may need.\" (Pablo Manriquez, on the FDA clearing Meta glasses as hearing aids)\n\n• \"Models are 'grown,' not built.\" (Emmanuel Ameisen, Anthropic interpretability researcher, on Lenny's Podcast)\n\n• \"If I ever break up with @Kara Swisher, I'm gonna do it the Elon way.\" (Scott Galloway, in a Substack note)\n\nSurveillance Chic\n\n• Meta's creepiest gadget just became a hearing aid. The FDA cleared Meta's Hearing Enhancement software this summer, turning Ray-Ban Meta glasses into an over-the-counter, self-fitting hearing aid for mild-to-moderate hearing loss, due in the U.S. later this year. Manriquez wears his $400 Gen 2 Wayfarers to the Capitol anyway and figured they had become a paperweight when Gen 3 launched last month. They hadn't. (Migrant Insider)\n\n• People behave better when they think they're on the record. A green light blinks on the frame while the camera rolls, and Manriquez finds people remember encounters more accurately once they know they might be documented. Anyone with a personal or professional beef steers clear of his line of sight. He wears the non-prescription pair as a witness, which mattered when the White House accused him of doxxing an ICE agent he had actually just named for on-duty conduct. (Migrant Insider)\n\nInside the Machine\n\n• AI models plan ahead without telling you. Anthropic interpretability researcher Emmanuel Ameisen tells Lenny's Podcast that large language models form general representations of concepts and plan many tokens ahead without stating those plans explicitly. His research has surfaced structure inside models that resembles the human split between conscious and unconscious processing. The episode's case: the \"next-token predictor\" framing undersells how models actually think, and closing that gap matters for AI safety. (Lenny's Newsletter)\n\nFrance in Flames\n\n• Rioters burned a 143-year-old city hall to the ground. Saturday's cost-of-living protests drew about 550,000 marchers nationwide, with the CGT union claiming 800,000, and turned into France's worst unrest in years: 400 arrests and 60 officers injured, two of them hospitalized unconscious. In Limoges, around 50 masked people torched police cars outside the 1883 City Hall, forced their way inside, and set the ground floor ablaze. The landmark bell tower collapsed, and the prefect called the building \"largely lost.\" (NLDR Media)\n\nBodies & Machines\n\n• An anti-aging cream that turns back the clock on skin. After four weeks of using the cream, trial participants lowered the biological age of their skin by about two years on average, WIRED's Emily Mullin reports. The trial is early and small, but it is the kind of result that launches a thousand serums. (WIRED)\n\nQuick Hits & Curiosities\n\n• A 1994 WIRED classic resurfaces: Paul Allen, \"the accidental zillionaire,\" whom tech writer Paulina Borsook once described as resembling \"a manatee with dancey blue eyes.\" (WIRED)\n\n• Designer Jessica Hische caught a wave of hate for creating the squiggly \"M\" logo for Meta's new Muse AI agent, then defended taking the paycheck in Zoe Schiffer's Model Behavior newsletter. (WIRED)\n\nSunday, October 18, 2026 - Afternoon Edition\n\nToday's Numbers\n\n• $1.5 trillion: AMD's Lisa Su says the data center AI accelerator market reaches close to that by 2030, with the CPU market topping $200 billion.\n\n• 250 gigawatts: Arista's Andy Bechtolsheim projects that much data center power gets built worldwide in the next 10 years, with 150 of it in the US alone.\n\n• $100 a watt: Credo's Bill Brennan says power contracts are being written at this level or higher.\n\n• 120%: LightCounting's 2026 market growth forecast. The last time growth topped 100% was 2000.\n\n• 7.2x: SemiAnalysis's Dylan Patel says early Rubin hardware gets that many GB300 tokens per megawatt at 150 tokens per second.\n\nQuotes of the Day\n\n• \"a declining market will happen at some point, though he doesn't know when, and he would rather see a moderate recalibration now, the sooner the better\" (Vlad Kozlov of LightCounting, on the AI infrastructure boom)\n\n• \"retire the rule of copper where you can, optics if you must\" (Bill Brennan, Credo CEO, on the copper vs optics debate)\n\nThe Power Crunch\n\nMeta's Hyperion data center is five gigawatts on one site. Santosh Janardhan dropped that number as part of a clear theme across the summit: the grid is becoming the binding constraint on AI growth. NVIDIA's Ian Buck pushed back with a fix, saying better power management could add 40% to the world's GPUs today, which is capacity we already own but can't use efficiently. (Fireside Alpha)\n\nThe Memory Wall\n\nSome chip players are skipping HBM entirely. d-Matrix's Sid Sheth says his company uses no HBM at all, sidestepping the industry's scarcest and priciest component. SK hynix is going the opposite direction with HBF, which gives up about half of HBM's bandwidth in exchange for much higher capacity, with cube samples arriving in early 2028. (Fireside Alpha)\n\nCopper vs Optics\n\nThe networking fight inside the rack is getting real. NVIDIA's Gilad Shainer says the company still wants copper within a rack, betting that short distances keep favoring copper. Ian Buck previewed Vera Rubin Ultra, 576 GPUs linked over NVLink with co-packaged optics, while LightCounting expects CPO and NPO to make up 75% of 3.2T ports. (Fireside Alpha)\n\nQuick Hits & Curiosities\n\n• AMD's Lisa Su also puts the CPU market topping $200 billion, with CPUs staging a comeback as agentic compute grows. (Fireside Alpha)",
           "blocks": [
             {
               "type": "heading_1",
@@ -142340,6 +142524,300 @@
                   "italic": false
                 }
               ]
+            },
+            {
+              "type": "heading_1",
+              "runs": [
+                {
+                  "text": "Sunday, October 18, 2026 - Afternoon Edition",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Today's Numbers",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "$1.5 trillion",
+                  "url": "https://firesidealpha.substack.com/p/fireside-minutes-best-of-ocp-global",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": AMD's Lisa Su says the data center AI accelerator market reaches close to that by 2030, with the CPU market topping $200 billion.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "250 gigawatts",
+                  "url": "https://firesidealpha.substack.com/p/fireside-minutes-best-of-ocp-global",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": Arista's Andy Bechtolsheim projects that much data center power gets built worldwide in the next 10 years, with 150 of it in the US alone.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "$100 a watt",
+                  "url": "https://firesidealpha.substack.com/p/fireside-minutes-best-of-ocp-global",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": Credo's Bill Brennan says power contracts are being written at this level or higher.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "120%",
+                  "url": "https://firesidealpha.substack.com/p/fireside-minutes-best-of-ocp-global",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": LightCounting's 2026 market growth forecast. The last time growth topped 100% was 2000.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "7.2x",
+                  "url": "https://firesidealpha.substack.com/p/fireside-minutes-best-of-ocp-global",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": SemiAnalysis's Dylan Patel says early Rubin hardware gets that many GB300 tokens per megawatt at 150 tokens per second.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Quotes of the Day",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "\"a declining market will happen at some point, though he doesn't know when, and he would rather see a moderate recalibration now, the sooner the better\" (Vlad Kozlov of LightCounting, on the AI infrastructure boom)",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "\"retire the rule of copper where you can, optics if you must\" (Bill Brennan, Credo CEO, on the copper vs optics debate)",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "The Power Crunch",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Meta's Hyperion data center is five gigawatts on one site.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " Santosh Janardhan dropped that number as part of a clear theme across the summit: the grid is becoming the binding constraint on AI growth. NVIDIA's Ian Buck pushed back with a fix, saying better power management could add 40% to the world's GPUs today, which is capacity we already own but can't use efficiently. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Fireside Alpha",
+                  "url": "https://firesidealpha.substack.com/p/fireside-minutes-best-of-ocp-global",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "The Memory Wall",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Some chip players are skipping HBM entirely.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " d-Matrix's Sid Sheth says his company uses no HBM at all, sidestepping the industry's scarcest and priciest component. SK hynix is going the opposite direction with HBF, which gives up about half of HBM's bandwidth in exchange for much higher capacity, with cube samples arriving in early 2028. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Fireside Alpha",
+                  "url": "https://firesidealpha.substack.com/p/fireside-minutes-best-of-ocp-global",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Copper vs Optics",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "The networking fight inside the rack is getting real.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " NVIDIA's Gilad Shainer says the company still wants copper within a rack, betting that short distances keep favoring copper. Ian Buck previewed Vera Rubin Ultra, 576 GPUs linked over NVLink with co-packaged optics, while LightCounting expects CPO and NPO to make up 75% of 3.2T ports. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Fireside Alpha",
+                  "url": "https://firesidealpha.substack.com/p/fireside-minutes-best-of-ocp-global",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Quick Hits & Curiosities",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "AMD's Lisa Su also puts the CPU market topping $200 billion, with CPUs staging a comeback as agentic compute grows. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Fireside Alpha",
+                  "url": "https://firesidealpha.substack.com/p/fireside-minutes-best-of-ocp-global",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
             }
           ],
           "links": [
@@ -142410,6 +142888,10 @@
             {
               "title": "WIRED",
               "url": "https://www.wired.com/story/she-designed-metas-new-ai-logo-then-came-the-hate/"
+            },
+            {
+              "title": "Fireside Alpha",
+              "url": "https://firesidealpha.substack.com/p/fireside-minutes-best-of-ocp-global"
             }
           ]
         }
