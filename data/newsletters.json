@@ -153375,6 +153375,619 @@
           ]
         }
       }
+    },
+    {
+      "id": "digest-15e86651-73c7-4d8a-b178-027f96bbe7e8",
+      "channel": "newsletters",
+      "source": "notion",
+      "kind": "Agent-written digest",
+      "domain": "Daily newsletter digest",
+      "title": "The AI Bubble, the Playstacean, and a Chili for the End Times",
+      "url": "",
+      "description": "The day’s mail offered a very 2026 collision: AI infrastructure straining under its own weight, ordinary people resurrecting locked-down gadgets with AI, a mechanical crustacean disguised as a PlayStation, and a white chicken chili that solves dinner with pantry staples. Plus: Olodum’s drums outlast",
+      "body": "The day’s mail offered a very 2026 collision: AI infrastructure straining under its own weight, ordinary people resurrecting locked-down gadgets with AI, a mechanical crustacean disguised as a PlayStation, and a white chicken chili that solves dinner with pantry staples. Plus: Olodum’s drums outlasting the pop stars who borrowed them.\n\nFront page\n\n• The AI story has split in two. Ethan Mollick says the tools have leapt from four-minute tasks to work measured in hours—and perhaps weeks—while Ed Zitron argues the financial scaffolding underneath the boom requires near-perfect, perpetual growth. Same exponential; radically different mood. One Useful Thing · Where’s Your Ed At\n\nBest links\n\n• AI as repair kit, not magic wand. 404 Media’s “Reverse Engineer Anything” dispatch describes people using AI to strip ads from TVs, revive bricked hardware, turn a picture frame into a calendar, and rebuild software they never had source code for. It is simultaneously liberation, plagiarism, and a maintenance nightmare. 404 Media\n\n• A playlist with a thesis. The New York Times assembled eight songs named for actresses, from “Bette Davis Eyes” and “Drew Barrymore” to “Lee Remick,” two “Clara Bow”s, Frances Farmer, and Adéla’s “Nicole Kidman.” The best mini-argument: stars fade, but the supporting cast can keep the song alive. The Amplifier\n\n• The percussion that keeps returning. “Why is this interesting?” traces the drumming on Paul Simon’s “The Obvious Child” back to Olodum, the Brazilian activist collective also featured in Michael Jackson’s “They Don’t Care About Us.” Jackson and Simon recede; Olodum keeps playing the streets of Salvador and even made the 2014 World Cup opening ceremony. Why is this interesting?\n\nWorth reading\n\n• The risk of an AI detector deciding who sounds human. Book Gossip examines accusations that an award-winning Zimbabwean writer used AI, and the concern that imperfect detection tools can reproduce racial and linguistic bias—especially when the person under suspicion is an emerging writer of color. The issue also recommends You Don’t Need a Smartphone and Yiyun Li’s Music Against the Night. Book Gossip\n\n• The novel as a diagram of the machine. The Republic of Letters makes Tom McCarthy’s The Rhyl Poster sound like a bureaucratic fever dream: a protagonist who is less a self than a node in law, language, war, and files. The sharpest idea is that the post-systems novel should not recreate an incomprehensible network; it should reveal it through the institutions that give its invisible mass a shape. The Republic of Letters\n\nFood & places\n\n• Tonight’s move: white chicken chili that gets its body by mashing some of the white beans instead of reaching immediately for cream cheese. Rotisserie chicken, canned chiles, seeded jalapeños, tortilla chips, avocado, pickled jalapeños: a modular dinner with a heat dial. NYT Cooking\n\n• Luxury is now a banana-bread category. Feed Me reports on Gone Bananas Bread beside Rockefeller Center, whose ingredient list answers “Not telling you!” and whose calorie count is simply “It’s better you don’t know.” The same issue’s more practical flight luxury: a Delta One suite with a purse hook, glasses hook, wireless charging, side sauces, and a dessert cart with dairy-free sorbet and Amarena cherries. Feed Me\n\nInternet oddities\n\n• The Playstacean: an orange PlayStation 1 with legs and claws attached. Today in Tabs also serves up an exquisite-corpse “Frankenmodel,” a Wendy’s emo record, a programming language designed to be adversarial to LLMs, and a correction for a theory about Russian bot traffic that turns out not to have been true. The newsletter’s real gift is treating all of these as one coherent ecology. Today in Tabs\n\n• The soda cold war gets a new front. KFC has switched from Pepsi to Coke in the U.S.; the issue notes Pepsi’s U.S. carbonated-soft-drink share has fallen from above 13% in the early 2000s to a little over 8%, while Dr Pepper has overtaken it. Also: Dr Pepper is older than both Coke and Pepsi. Snacks\n\nIdeas to steal\n\n• Use the “conjurer” model. Mollick’s useful term for the agentic era: summon agents, assign them work, evaluate what comes back. The upside is leverage; the danger is losing track of how the answer was made. His own test was a set of charts, layouts, images, research, and citations produced from a few sentences of direction.\n\n• Design for the tiny relief. Delta’s purse hook and glasses hook are a good product lesson: a minor piece of hardware can communicate more care than a grand promise. The same goes for pre-ordering a meal up to 18 hours before departure—or skipping breakfast for coffee and a croissant.\n\n• Let the supporting cast become the story. Olodum, Lee in East of Eden, the workers who maintain “luxury” households, and the anonymous people rebuilding abandoned devices all make today’s mail more interesting than its marquee names.\n\nOne-liners\n\n• “Ball hog” is apparently the deep-fried zoomer equivalent of the millennial hypebeast aesthetic. — Today in Tabs\n\n• A $5 million fortune is nearly 18 feet of stacked hundred-dollar bills; Elon Musk’s is 543 miles. — 404 Media\n\n• The most unsettling AI metric today: a model can be superhuman at math and still be a bad long-form writer. — One Useful Thing\n\n• Sad-dish protocol: gelato with a splash of booze on top. — Feed Me\n\nCompiled from today’s Gmail messages labeled Newsletters, October 20, 2026.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "The day’s mail offered a very 2026 collision: AI infrastructure straining under its own weight, ordinary people resurrecting locked-down gadgets with AI, a mechanical crustacean disguised as a PlayStation, and a white chicken chili that solves dinner with pantry staples. Plus: Olodum’s drums outlasting the pop stars who borrowed them.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "heading_2",
+          "runs": [
+            {
+              "text": "Front page",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "The AI story has split in two.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " Ethan Mollick says the tools have leapt from four-minute tasks to work measured in hours—and perhaps weeks—while Ed Zitron argues the financial scaffolding underneath the boom requires near-perfect, perpetual growth. Same exponential; radically different mood. ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "One Useful Thing",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": " · ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Where’s Your Ed At",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": " ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": " ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "heading_2",
+          "runs": [
+            {
+              "text": "Best links",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "AI as repair kit, not magic wand.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " 404 Media’s “Reverse Engineer Anything” dispatch describes people using AI to strip ads from TVs, revive bricked hardware, turn a picture frame into a calendar, and rebuild software they never had source code for. It is simultaneously liberation, plagiarism, and a maintenance nightmare. ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "404 Media",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": " ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "A playlist with a thesis.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " The New York Times assembled eight songs named for actresses, from “Bette Davis Eyes” and “Drew Barrymore” to “Lee Remick,” two “Clara Bow”s, Frances Farmer, and Adéla’s “Nicole Kidman.” The best mini-argument: stars fade, but the supporting cast can keep the song alive. ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "The Amplifier",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": " ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "The percussion that keeps returning.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " “Why is this interesting?” traces the drumming on Paul Simon’s “The Obvious Child” back to Olodum, the Brazilian activist collective also featured in Michael Jackson’s “They Don’t Care About Us.” Jackson and Simon recede; Olodum keeps playing the streets of Salvador and even made the 2014 World Cup opening ceremony. ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Why is this interesting?",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": " ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "heading_2",
+          "runs": [
+            {
+              "text": "Worth reading",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "The risk of an AI detector deciding who sounds human.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " Book Gossip examines accusations that an award-winning Zimbabwean writer used AI, and the concern that imperfect detection tools can reproduce racial and linguistic bias—especially when the person under suspicion is an emerging writer of color. The issue also recommends ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "You Don’t Need a Smartphone",
+              "url": "",
+              "bold": false,
+              "italic": true
+            },
+            {
+              "text": " and Yiyun Li’s ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Music Against the Night",
+              "url": "",
+              "bold": false,
+              "italic": true
+            },
+            {
+              "text": ". ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Book Gossip",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": " ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "The novel as a diagram of the machine.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " The Republic of Letters makes Tom McCarthy’s ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "The Rhyl Poster",
+              "url": "",
+              "bold": false,
+              "italic": true
+            },
+            {
+              "text": " sound like a bureaucratic fever dream: a protagonist who is less a self than a node in law, language, war, and files. The sharpest idea is that the post-systems novel should not recreate an incomprehensible network; it should reveal it through the institutions that give its invisible mass a shape. ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "The Republic of Letters",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": " ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "heading_2",
+          "runs": [
+            {
+              "text": "Food & places",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Tonight’s move:",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " white chicken chili that gets its body by mashing some of the white beans instead of reaching immediately for cream cheese. Rotisserie chicken, canned chiles, seeded jalapeños, tortilla chips, avocado, pickled jalapeños: a modular dinner with a heat dial. ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "NYT Cooking",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": " ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Luxury is now a banana-bread category.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " Feed Me reports on Gone Bananas Bread beside Rockefeller Center, whose ingredient list answers “Not telling you!” and whose calorie count is simply “It’s better you don’t know.” The same issue’s more practical flight luxury: a Delta One suite with a purse hook, glasses hook, wireless charging, side sauces, and a dessert cart with dairy-free sorbet and Amarena cherries. ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Feed Me",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": " ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "heading_2",
+          "runs": [
+            {
+              "text": "Internet oddities",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "The Playstacean:",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " an orange PlayStation 1 with legs and claws attached. Today in Tabs also serves up an exquisite-corpse “Frankenmodel,” a Wendy’s emo record, a programming language designed to be adversarial to LLMs, and a correction for a theory about Russian bot traffic that turns out not to have been true. The newsletter’s real gift is treating all of these as one coherent ecology. ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Today in Tabs",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": " ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "The soda cold war gets a new front.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " KFC has switched from Pepsi to Coke in the U.S.; the issue notes Pepsi’s U.S. carbonated-soft-drink share has fallen from above 13% in the early 2000s to a little over 8%, while Dr Pepper has overtaken it. Also: Dr Pepper is older than both Coke and Pepsi. ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Snacks",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": " ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "heading_2",
+          "runs": [
+            {
+              "text": "Ideas to steal",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Use the “conjurer” model.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " Mollick’s useful term for the agentic era: summon agents, assign them work, evaluate what comes back. The upside is leverage; the danger is losing track of how the answer was made. His own test was a set of charts, layouts, images, research, and citations produced from a few sentences of direction.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Design for the tiny relief.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " Delta’s purse hook and glasses hook are a good product lesson: a minor piece of hardware can communicate more care than a grand promise. The same goes for pre-ordering a meal up to 18 hours before departure—or skipping breakfast for coffee and a croissant.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Let the supporting cast become the story.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " Olodum, Lee in ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "East of Eden",
+              "url": "",
+              "bold": false,
+              "italic": true
+            },
+            {
+              "text": ", the workers who maintain “luxury” households, and the anonymous people rebuilding abandoned devices all make today’s mail more interesting than its marquee names.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "heading_2",
+          "runs": [
+            {
+              "text": "One-liners",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "“Ball hog” is apparently the deep-fried zoomer equivalent of the millennial hypebeast aesthetic. — ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Today in Tabs",
+              "url": "",
+              "bold": false,
+              "italic": true
+            },
+            {
+              "text": " ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "A $5 million fortune is nearly 18 feet of stacked hundred-dollar bills; Elon Musk’s is 543 miles. — ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "404 Media",
+              "url": "",
+              "bold": false,
+              "italic": true
+            },
+            {
+              "text": " ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "The most unsettling AI metric today: a model can be superhuman at math and still be a bad long-form writer. — ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "One Useful Thing",
+              "url": "",
+              "bold": false,
+              "italic": true
+            },
+            {
+              "text": " ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Sad-dish protocol: gelato with a splash of booze on top. — ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Feed Me",
+              "url": "",
+              "bold": false,
+              "italic": true
+            },
+            {
+              "text": " ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Compiled from today’s Gmail messages labeled Newsletters, October 20, 2026.",
+              "url": "",
+              "bold": false,
+              "italic": true
+            }
+          ]
+        }
+      ],
+      "publishedAt": "2026-10-20T21:05:00Z",
+      "links": []
     }
   ]
 }
