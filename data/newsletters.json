@@ -159210,6 +159210,421 @@
           ]
         }
       }
+    },
+    {
+      "id": "digest-1520e0b2-1255-4d7a-bbac-f1f00815da60",
+      "channel": "newsletters",
+      "source": "notion",
+      "kind": "Agent-written digest",
+      "domain": "Daily newsletter digest",
+      "title": "The Chicken App, the Chestnut Grove, and the Curry Brick",
+      "url": "",
+      "description": "Today's mail assembled a strange triptych: AI needs a fast-food giveaway to prove its popularity, data-center builders are doing town-by-town diplomacy, and the best dinner idea is ground-beef curry from boxed roux.",
+      "body": "Today's mail assembled a strange triptych: AI needs a fast-food giveaway to prove its popularity, data-center builders are doing town-by-town diplomacy, and the best dinner idea is ground-beef curry from boxed roux.\n\nBest links\n\n• AI's popularity test is a free slider. Garbage Day noticed Meta's Muse briefly lost the iOS App Store top spot to Dave's Hot Chicken, whose free-slider promotion drove downloads. Muse is still vastly larger, but the episode makes a sharp point: for a platform company with billions of existing users, the appearance of AI momentum may matter almost as much as durable use. The newsletter cites roughly 30% seven-day retention and 20% two-week retention for Muse, versus mid-teens rates for several rival assistants.\n\n• The data-center fight is becoming intensely local. Pirate Wires followed 29-year-old Strata founder David Meyer into Saguache County, Colorado, where about 60 residents packed a room to hear a pitch for smaller, supposedly more responsible facilities—and then spent two hours explaining why they were unconvinced. 404 Media finds a parallel fight in West Virginia, where a proposed 2,250-acre Nscale campus would sit near an endangered American chestnut grove. AI infrastructure has entered its small-town-meeting era.\n\n• Recursive self-improvement leaves the lab notebook. WIRED's Will Knight profiles Recursive, whose open-weight Flint coding model was developed with an in-house “Eureka Machine” that reportedly automated much of the model pipeline—training methods, architecture work, and chip-specific optimization included. The interesting question is not just whether Flint benchmarks well; it is whether a small research team can use AI to compress the entire route from idea to model.\n\nWorth reading\n\n• A tradition worth rescuing. The Republic of Letters runs Elisabeth Becker's defense of a German-Jewish universalist tradition built around argument, solidarity across difference, peace, beauty, and “real utopias.” Her cast—Walter Benjamin, Hannah Arendt, Albert Einstein, Max Liebermann, and Mascha Kaléko—turns “home” into something that can exist between people, places, and texts rather than inside a single nation.\n\n• The field trip industrial complex. After School spots a new data-center PR strategy: picture books, coloring pages, “International Data Center Day,” and even school kits. In the same dispatch, an analysis of school-issued YouTube histories found that more than 95% of 17,000-plus videos watched during school hours were not educational by conventional standards. The newsletter's best phrase is “screenagers”—parents now policing the feeds of their TikTok-absorbed elders.\n\n• The $2,000 iPhone as a glimpse, not a verdict. Joanna Stern's New Things review put the folding iPhone Duo through 32,000 hinge cycles. Her verdict: beautiful, surprisingly durable, genuinely flexible—and buggy, maddening, full of first-generation compromises, and very expensive. It sounds less like a recommendation than a dispatch from the future.\n\nFood & places\n\n• Dinner answer: Japanese ground-beef curry, one skillet, 50 minutes. Potatoes, carrots, peas, and store-bought curry roux do the heavy lifting; serve it over rice, udon, lo mein, or beside a breaded pork cutlet.\n\n• The anti-gadget kitchen. InsideHook's Kendra Vaculin argues for a short, durable kit: a tri-ply stainless skillet, one sharp 8-inch chef's knife, a Dutch oven, and two properly sized cutting boards. The useful principle is less “buy these brands” than “buy fewer things that can survive decades.”\n\n• The drink of the moment may be an entire orange. Feed Me reports that Vera Wang and Kris Jenner both favor a glass with ice, vodka, a whole sliced orange, and a splash of tonic. Elsewhere in the issue: a retro portrait studio in Greenpoint, a new grocery-and-CPG podcast called Eye Level, and a warning that “dark nutrition” has taken raw buffalo brains and raw-milk ice cream mainstream-adjacent.\n\nInternet oddities\n\n• J Mascis recommends a life assembled from tiny enthusiasms: soy-free eggs, a real Superfuzz pedal, cowboy shirts that everyone insists are jackets, Hi Records 45s, and homemade yogurt. It is a perfect anti-algorithmic shopping list: specific, slightly cranky, and impossible to optimize.\n\n• Patch PHP; distrust the polished page. 404 Media also flags major PHP vulnerabilities, 333 infected Tor exit nodes, AI-generated “lawyers” targeting immigrants on TikTok, and a Republican congressional candidate who accidentally left an AI prompt visible on his campaign site. The web remains a place where the strangest detail is usually the most important one.\n\nIdeas to steal\n\n• Make the infrastructure argument human-sized. If you are selling something enormous, show up in the room where 60 people are folding chairs—and listen for two hours.\n\n• Build the useful version of a media niche. Feed Me's Eye Level is aimed at people who want the machinery behind grocery and CPG: shelf negotiations, buyer behavior, distribution, acquisition costs, and what actually makes a product defensible.\n\n• Prefer the tool that changes the way you work. One great knife, one good pan, one pot that can braise, bake, simmer, and serve.\n\nOne-liners\n\n“The appearance of success is what’s really important.” — Garbage Day on Muse\n\n“Social nonconformism is the sine qua non of intellectual achievement.” — Hannah Arendt, quoted in The Republic of Letters\n\n“It makes me happy to look at it.” — J Mascis on his Superfuzz pedal\n\n“You don’t need a ton of stuff, just a handful of nice things that work well and make you look like you know your way around a braise (which is hot).” — Kendra Vaculin\n\n“The band is always the same, and awesome. they just parade in different singers who are also all awesome.” — J Mascis on Hi Records 45s",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Today's mail assembled a strange triptych: AI needs a fast-food giveaway to prove its popularity, data-center builders are doing town-by-town diplomacy, and the best dinner idea is ground-beef curry from boxed roux.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "heading_2",
+          "runs": [
+            {
+              "text": "Best links",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "AI's popularity test is a free slider.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " Garbage Day noticed Meta's Muse briefly lost the iOS App Store top spot to Dave's Hot Chicken, whose free-slider promotion drove downloads. Muse is still vastly larger, but the episode makes a sharp point: for a platform company with billions of existing users, the appearance of AI momentum may matter almost as much as durable use. The newsletter cites roughly 30% seven-day retention and 20% two-week retention for Muse, versus mid-teens rates for several rival assistants. ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "The data-center fight is becoming intensely local.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " Pirate Wires followed 29-year-old Strata founder David Meyer into Saguache County, Colorado, where about 60 residents packed a room to hear a pitch for smaller, supposedly more responsible facilities—and then spent two hours explaining why they were unconvinced. 404 Media finds a parallel fight in West Virginia, where a proposed 2,250-acre Nscale campus would sit near an endangered American chestnut grove. AI infrastructure has entered its small-town-meeting era. ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": " ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Recursive self-improvement leaves the lab notebook.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " WIRED's Will Knight profiles Recursive, whose open-weight Flint coding model was developed with an in-house “Eureka Machine” that reportedly automated much of the model pipeline—training methods, architecture work, and chip-specific optimization included. The interesting question is not just whether Flint benchmarks well; it is whether a small research team can use AI to compress the entire route from idea to model. ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "heading_2",
+          "runs": [
+            {
+              "text": "Worth reading",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "A tradition worth rescuing.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " The Republic of Letters runs Elisabeth Becker's defense of a German-Jewish universalist tradition built around argument, solidarity across difference, peace, beauty, and “real utopias.” Her cast—Walter Benjamin, Hannah Arendt, Albert Einstein, Max Liebermann, and Mascha Kaléko—turns “home” into something that can exist between people, places, and texts rather than inside a single nation. ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "The field trip industrial complex.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " After School spots a new data-center PR strategy: picture books, coloring pages, “International Data Center Day,” and even school kits. In the same dispatch, an analysis of school-issued YouTube histories found that more than 95% of 17,000-plus videos watched during school hours were not educational by conventional standards. The newsletter's best phrase is “screenagers”—parents now policing the feeds of their TikTok-absorbed elders. ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "The $2,000 iPhone as a glimpse, not a verdict.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " Joanna Stern's New Things review put the folding iPhone Duo through 32,000 hinge cycles. Her verdict: beautiful, surprisingly durable, genuinely flexible—and buggy, maddening, full of first-generation compromises, and very expensive. It sounds less like a recommendation than a dispatch from the future. ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "heading_2",
+          "runs": [
+            {
+              "text": "Food & places",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Dinner answer:",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " Japanese ground-beef curry, one skillet, 50 minutes. Potatoes, carrots, peas, and store-bought curry roux do the heavy lifting; serve it over rice, udon, lo mein, or beside a breaded pork cutlet. ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "The anti-gadget kitchen.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " InsideHook's Kendra Vaculin argues for a short, durable kit: a tri-ply stainless skillet, one sharp 8-inch chef's knife, a Dutch oven, and two properly sized cutting boards. The useful principle is less “buy these brands” than “buy fewer things that can survive decades.” ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "The drink of the moment may be an entire orange.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " Feed Me reports that Vera Wang and Kris Jenner both favor a glass with ice, vodka, a whole sliced orange, and a splash of tonic. Elsewhere in the issue: a retro portrait studio in Greenpoint, a new grocery-and-CPG podcast called ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Eye Level",
+              "url": "",
+              "bold": false,
+              "italic": true
+            },
+            {
+              "text": ", and a warning that “dark nutrition” has taken raw buffalo brains and raw-milk ice cream mainstream-adjacent. ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "heading_2",
+          "runs": [
+            {
+              "text": "Internet oddities",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "J Mascis recommends a life assembled from tiny enthusiasms:",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " soy-free eggs, a real Superfuzz pedal, cowboy shirts that everyone insists are jackets, Hi Records 45s, and homemade yogurt. It is a perfect anti-algorithmic shopping list: specific, slightly cranky, and impossible to optimize. ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Patch PHP; distrust the polished page.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " 404 Media also flags major PHP vulnerabilities, 333 infected Tor exit nodes, AI-generated “lawyers” targeting immigrants on TikTok, and a Republican congressional candidate who accidentally left an AI prompt visible on his campaign site. The web remains a place where the strangest detail is usually the most important one. ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "heading_2",
+          "runs": [
+            {
+              "text": "Ideas to steal",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Make the infrastructure argument human-sized.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " If you are selling something enormous, show up in the room where 60 people are folding chairs—and listen for two hours.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Build the useful version of a media niche.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " Feed Me's ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Eye Level",
+              "url": "",
+              "bold": false,
+              "italic": true
+            },
+            {
+              "text": " is aimed at people who want the machinery behind grocery and CPG: shelf negotiations, buyer behavior, distribution, acquisition costs, and what actually makes a product defensible.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Prefer the tool that changes the way you work.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " One great knife, one good pan, one pot that can braise, bake, simmer, and serve.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "heading_2",
+          "runs": [
+            {
+              "text": "One-liners",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "quote",
+          "runs": [
+            {
+              "text": "“The appearance of success is what’s really important.” — Garbage Day on Muse",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "quote",
+          "runs": [
+            {
+              "text": "“Social nonconformism is the sine qua non of intellectual achievement.” — Hannah Arendt, quoted in The Republic of Letters",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "quote",
+          "runs": [
+            {
+              "text": "“It makes me happy to look at it.” — J Mascis on his Superfuzz pedal",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "quote",
+          "runs": [
+            {
+              "text": "“You don’t need a ton of stuff, just a handful of nice things that work well and make you look like you know your way around a braise (which is hot).” — Kendra Vaculin",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "quote",
+          "runs": [
+            {
+              "text": "“The band is always the same, and awesome. they just parade in different singers who are also all awesome.” — J Mascis on Hi Records 45s",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        }
+      ],
+      "publishedAt": "2026-10-21T21:02:00Z",
+      "links": []
     }
   ]
 }
