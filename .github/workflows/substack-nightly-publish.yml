@@ -1,0 +1,68 @@
+# Tyler.Center nightly Substack publish
+# Add this file to the repo at: .github/workflows/substack-nightly-publish.yml
+# Then add two repository secrets (Settings > Secrets and variables > Actions):
+#   SUBSTACK_EMAIL     - the login email for tylercenter.substack.com
+#   SUBSTACK_PASSWORD  - the login password
+#
+# How it works: the nightly job commits substack-queue/latest.md (+ title.txt,
+# subtitle.txt) to the repo. That commit triggers this workflow, which builds
+# the post through Substack's own backend API with full formatting (headings,
+# bold, links, quotes, native footnotes) and publishes it to Everyone by
+# email and Substack app. No browser paste involved.
+
+name: Substack nightly publish
+
+on:
+  push:
+    paths:
+      - 'substack-queue/latest.md'
+  workflow_dispatch:
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install publisher
+        run: pip install 'python-substack==0.10.0'
+
+      - name: Publish to Substack
+        env:
+          SUBSTACK_EMAIL: ${{ secrets.SUBSTACK_EMAIL }}
+          SUBSTACK_PASSWORD: ${{ secrets.SUBSTACK_PASSWORD }}
+        run: |
+          python - <<'EOF'
+          import os
+          from substack import Api
+
+          with open('substack-queue/title.txt') as f:
+              title = f.read().strip()
+          with open('substack-queue/subtitle.txt') as f:
+              subtitle = f.read().strip()
+          with open('substack-queue/latest.md') as f:
+              markdown = f.read()
+          assert title and markdown, 'missing title or article body'
+
+          api = Api(email=os.environ['SUBSTACK_EMAIL'],
+                    password=os.environ['SUBSTACK_PASSWORD'],
+                    publication_url='https://tylercenter.substack.com')
+          print('authenticated, user_id =', api.get_user_id())
+
+          result = api.create_draft_from_markdown(
+              title=title,
+              markdown=markdown,
+              subtitle=subtitle,
+              audience='everyone',
+              publish=True,
+              send=True,
+              share_automatically=False,
+          )
+          print('published:', result.get('post_url', result))
+          EOF
