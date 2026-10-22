@@ -750,11 +750,11 @@
       "image": "https://cdn.prod.website-files.com/66bbb684f0a6bfda78a042b4/6ab178c0749e13b3e7e3e28c_Monthly%20Index%201%20Large.jpeg",
       "icon": "https://cdn.prod.website-files.com/66ba279e03c8e2713df59ea5/66eebcd144f29b78be4fc398_Zip%20Favicon.png",
       "domain": "zip.com",
-      "checkedAt": "2026-10-15T17:16:11.423309+00:00",
+      "checkedAt": "2026-10-22T17:29:28.167138+00:00",
       "available": true
     },
     "https://www.nytimes.com/2026/09/29/us/politics/evan-gershkovich-interview.html?smid=nytcore-ios-share": {
-      "checkedAt": "2026-10-15T17:16:11.423309+00:00",
+      "checkedAt": "2026-10-22T17:29:28.167138+00:00",
       "available": false
     },
     "https://spectrum.ieee.org/bloomberg-terminal": {
@@ -764,7 +764,7 @@
       "image": "https://spectrum.ieee.org/media-library/image.jpg?id=67857174&width=1200&height=600&coordinates=0%2C50%2C0%2C50",
       "icon": "https://assets.rebelmouse.io/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy8yNjU5NjY0OS9vcmlnaW4ucG5nIiwiZXhwaXJlc19hdCI6MTg0ODgxODUwNn0.1LlzHtxZSVXyzapxWjeSrRIRu5qo3CeB8FaWpd2tl_o/img.png?width=48&height=48",
       "domain": "spectrum.ieee.org",
-      "checkedAt": "2026-10-15T17:16:11.423309+00:00",
+      "checkedAt": "2026-10-22T17:29:28.167138+00:00",
       "available": true
     },
     "https://en.wikipedia.org/wiki/Bicameral_mentality": {
@@ -818,9 +818,9 @@
       "description": "The biggest empire the world has ever seen was run by a small elite who partied all night, drank liters of port, and stayed in bed until the afternoon.",
       "site": "",
       "image": "https://worksinprogress.co/wip-image/uploads/2026/10/victorian_vices_feature_image_03-scaled.jpg",
-      "icon": "https://worksinprogress.co/images/favicon.ico",
+      "icon": "https://worksinprogress.co/favicon.svg",
       "domain": "worksinprogress.co",
-      "checkedAt": "2026-10-15T17:16:11.423309+00:00",
+      "checkedAt": "2026-10-22T17:29:28.167138+00:00",
       "available": true
     },
     "https://deceptive.design/": {
