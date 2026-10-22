@@ -159141,6 +159141,2243 @@
       ],
       "publishedAt": "2026-10-21T21:02:00Z",
       "links": []
+    },
+    {
+      "id": "digest-4018153c-8a3e-81b5-b951-cb5f5ce659e0",
+      "channel": "newsletters",
+      "source": "notion",
+      "kind": "Agent-written digest",
+      "domain": "Daily newsletter digest",
+      "title": "Anthropic's $16.3B S-1 leak, GTA VI's $1B sick-out, Ghost of Uncle Joe's returns - Thursday, October 22, 2026",
+      "url": "",
+      "description": "Thursday, October 22, 2026 - Morning Edition",
+      "body": "Thursday, October 22, 2026 - Morning Edition\n\nToday's Numbers\n\n• $16.3 billion: Anthropic's revenue for the first half of 2026, up from $1.1 billion a year earlier. The Wall Street Journal got hold of a draft S-1 for the AI company's Wall Street debut, which could value it around $2 trillion. The same filing shows an $80 billion net loss and $450 billion in locked-in cloud computing deals it cannot back out of.\n\n• $1 billion: the predicted hit to U.S. GDP on the day GTA VI drops next month, as more than a million Americans are forecast to call out sick to play. Economists are actually modeling this.\n\n• 7.5%: how much wearing a necktie can reduce blood flow to the brain, according to a 2018 study.\n\n• $60,000: the bet a restaurant group near Dodger Stadium placed on Kalshi that the Dodgers would not advance. The trade doubled in value after Milwaukee swept LA, filling the revenue hole left by the missing World Series crowds.\n\n• 300,000: seasonal and full-time workers Amazon says it will hire for the holidays, its biggest holiday hiring surge yet.\n\nQuotes of the Day\n\n• \"My conscious brain is really bad at playing goalie. I have to let my unconscious brain do the work because it reacts a lot quicker. Today was unconscious. Like, don't think about anything. If you asked me how I made a save, I'd be like 'I have no idea.'\" (Devin Cooley, Calgary Flames goalkeeper, after a 34-save game)\n\n• \"If you went looking for the Democratic Party's weakest point, you might start with education, income, or race. But I'd give you a different answer: religion.\" (Lakshya Jain, The Argument, on polling that shows religion as the left's biggest electoral problem)\n\n• \"It's the political equivalent of blaming your neighbor for a kitchen fire in Paris because you don't like his lawn signs.\" (Counterpoint, on Trump blaming Democrats for France's cost-of-living protests)\n\n• \"Put down the bottle, ladies. The republic won't survive.\" (Pirate Wires, on politicians openly discussing jailing their rivals' staffers)\n\nAI & The Machines\n\nHugging Face built an AI that speaks the language of DNA. The new open-source biology model can chat about genetic changes and help researchers understand how those changes affect gene activity and health. Think of it as a translator for the language of life, aimed at working scientists. (WIRED)\n\nHackers beat the patch on the internet-melting PHP bugs. Amazon Web Services logged attempts to exploit the PHP2Shell vulnerabilities four days before the fixes were released. The bugs are now being broadly exploited across the internet. (WIRED)\n\nMoney & Power\n\nCBS's Election Night coverage will be sponsored by DraftKings. Executives at CBS's owned-and-operated stations learned their election coverage now carries sports-gambling branding straight through Election Night. The deal stirred angst and irritation at the sales team that sold it. The line between the news desk and the betting window keeps getting thinner. (Status)\n\nMeta's ad business is slowing in Europe now that users can pick less-personalized ads. An earnings briefing revealed ad revenue has softened since the EU introduced the Less-Personalized Ads model at the start of the year. Given the choice, people are choosing fewer creepy ads. (WIRED)\n\nHealth & Habits\n\nHims wants to put every dude on testosterone. The telehealth giant plans to offer testosterone replacement therapy, its first prescription of a controlled substance. Unlike its other meds, this one requires a video call with a physician first, and it is being offered to cisgender men only. (WIRED)\n\nThe Culture\n\nMoviegoing has quietly become a wellness activity. InsideHook's Tanner Garrity saw four films in four days (Naza, Primetime, You Can See Everything, and the Palme d'Or winner Fjord), each in a packed theater, and came out convinced that communal moviegoing is old-school social connection worth protecting. Nobody checks their phone. Nobody spoils the ending. (InsideHook)\n\nSan Francisco's \"hot girl bubble\" might be an economic warning sign. Multiple sources tell Pirate Wires that gorgeous women are flocking to the city, many of them effectively paid by cash-flush companies to woo business prospects. When venture money starts hiring baddies again, it is usually a bubble tell. (Pirate Wires)\n\nAround Hoboken\n\nThe Ghost of Uncle Joe's is back this weekend. One of Jersey City's biggest Halloween traditions returns to Harsimus Cemetery on Friday and Saturday, with local musicians dressing as famous artists and playing tribute sets. This year's lineup includes Pink Floyd, KISS, Prince, Christina Aguilera, Dolly Parton, Fleetwood Mac, and Green Day, with proceeds benefiting the historic cemetery. (The Hoboken Girl)\n\nQuick Hits & Curiosities\n\n• Airbnb hosts are furious they can no longer make guests do their chores. Guests, meanwhile, are celebrating. (WIRED)\n\n• Hoboken was just named the most walkable city in the U.S. in a new ranking. (The Hoboken Girl)\n\n• Lisa's Deli in Hoboken is under new ownership and will reopen soon. (The Hoboken Girl)\n\n• Hoboken Pizza Fest returns on 11/14, with the participating spots announced. (The Hoboken Girl)\n\n• After 90 years, Journal Square's iconic Boulevard Drinks is moving to a new location. (The Hoboken Girl)\n\n• Meta was hit with a $25 billion penalty in a New Mexico case. (Status)\n\n• Trump barred CNN from Air Force One, again. (Status)\n\n• The White House threatened POLITICO over its staff stories. (Status)\n\n• The yield on 10-year French government bonds hit 5% as borrowing costs spiked amid mass unrest. (Snacks)",
+      "blocks": [
+        {
+          "type": "heading_1",
+          "runs": [
+            {
+              "text": "Thursday, October 22, 2026 - Morning Edition",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Today's Numbers",
+              "url": "",
+              "bold": true,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "$16.3 billion",
+              "url": "https://www.wsj.com/tech/ai/anthropic-revenue-growth-ipo-accaf0f1",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": ": Anthropic's revenue for the first half of 2026, up from $1.1 billion a year earlier. The Wall Street Journal got hold of a draft S-1 for the AI company's Wall Street debut, which could value it around $2 trillion. The same filing shows an $80 billion net loss and $450 billion in locked-in cloud computing deals it cannot back out of.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "$1 billion",
+              "url": "https://piratewires.com/",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": ": the predicted hit to U.S. GDP on the day GTA VI drops next month, as more than a million Americans are forecast to call out sick to play. Economists are actually modeling this.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "7.5%",
+              "url": "https://sherwood.news/",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": ": how much wearing a necktie can reduce blood flow to the brain, according to a 2018 study.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "$60,000",
+              "url": "https://fortune.com/2026/10/19/prediction-markets-insurance-risk-management-kalshi-dodgers-world-series/",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": ": the bet a restaurant group near Dodger Stadium placed on Kalshi that the Dodgers would not advance. The trade doubled in value after Milwaukee swept LA, filling the revenue hole left by the missing World Series crowds.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "300,000",
+              "url": "https://www.aboutamazon.com/news/workplace/amazon-holiday-jobs-2026-seasonal-hiring-healthcare",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": ": seasonal and full-time workers Amazon says it will hire for the holidays, its biggest holiday hiring surge yet.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Quotes of the Day",
+              "url": "",
+              "bold": true,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "\"My conscious brain is really bad at playing goalie. I have to let my unconscious brain do the work because it reacts a lot quicker. Today was unconscious. Like, don't think about anything. If you asked me how I made a save, I'd be like 'I have no idea.'\" (Devin Cooley, Calgary Flames goalkeeper, after a 34-save game)",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "\"If you went looking for the Democratic Party's weakest point, you might start with education, income, or race. But I'd give you a different answer: religion.\" (Lakshya Jain, The Argument, on polling that shows religion as the left's biggest electoral problem)",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "\"It's the political equivalent of blaming your neighbor for a kitchen fire in Paris because you don't like his lawn signs.\" (Counterpoint, on Trump blaming Democrats for France's cost-of-living protests)",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "\"Put down the bottle, ladies. The republic won't survive.\" (Pirate Wires, on politicians openly discussing jailing their rivals' staffers)",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "AI & The Machines",
+              "url": "",
+              "bold": true,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Hugging Face built an AI that speaks the language of DNA.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " The new open-source biology model can chat about genetic changes and help researchers understand how those changes affect gene activity and health. Think of it as a translator for the language of life, aimed at working scientists. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "WIRED",
+              "url": "https://www.wired.com/story/hugging-face-new-ai-biology-model-chat-with-dna/",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Hackers beat the patch on the internet-melting PHP bugs.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " Amazon Web Services logged attempts to exploit the PHP2Shell vulnerabilities four days before the fixes were released. The bugs are now being broadly exploited across the internet. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "WIRED",
+              "url": "https://www.wired.com/story/hackers-exploited-the-php-vulnerabilities-days-before-they-were-patched/",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Money & Power",
+              "url": "",
+              "bold": true,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "CBS's Election Night coverage will be sponsored by DraftKings.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " Executives at CBS's owned-and-operated stations learned their election coverage now carries sports-gambling branding straight through Election Night. The deal stirred angst and irritation at the sales team that sold it. The line between the news desk and the betting window keeps getting thinner. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Status",
+              "url": "https://status.news/",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Meta's ad business is slowing in Europe now that users can pick less-personalized ads.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " An earnings briefing revealed ad revenue has softened since the EU introduced the Less-Personalized Ads model at the start of the year. Given the choice, people are choosing fewer creepy ads. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "WIRED",
+              "url": "https://www.wired.com/story/metas-ad-sales-suffering-now-europeans-can-pick-less-personalization/",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Health & Habits",
+              "url": "",
+              "bold": true,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Hims wants to put every dude on testosterone.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " The telehealth giant plans to offer testosterone replacement therapy, its first prescription of a controlled substance. Unlike its other meds, this one requires a video call with a physician first, and it is being offered to cisgender men only. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "WIRED",
+              "url": "https://www.wired.com/story/telehealth-giant-hims-testosterone-therapy/",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "The Culture",
+              "url": "",
+              "bold": true,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Moviegoing has quietly become a wellness activity.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " InsideHook's Tanner Garrity saw four films in four days (Naza, Primetime, You Can See Everything, and the Palme d'Or winner Fjord), each in a packed theater, and came out convinced that communal moviegoing is old-school social connection worth protecting. Nobody checks their phone. Nobody spoils the ending. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "InsideHook",
+              "url": "https://www.insidehook.com/",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "San Francisco's \"hot girl bubble\" might be an economic warning sign.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " Multiple sources tell Pirate Wires that gorgeous women are flocking to the city, many of them effectively paid by cash-flush companies to woo business prospects. When venture money starts hiring baddies again, it is usually a bubble tell. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Pirate Wires",
+              "url": "https://piratewires.com/",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Around Hoboken",
+              "url": "",
+              "bold": true,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "The Ghost of Uncle Joe's is back this weekend.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " One of Jersey City's biggest Halloween traditions returns to Harsimus Cemetery on Friday and Saturday, with local musicians dressing as famous artists and playing tribute sets. This year's lineup includes Pink Floyd, KISS, Prince, Christina Aguilera, Dolly Parton, Fleetwood Mac, and Green Day, with proceeds benefiting the historic cemetery. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "The Hoboken Girl",
+              "url": "https://www.hobokengirl.com/ghost-uncle-joes-jersey-city-2026/",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Quick Hits & Curiosities",
+              "url": "",
+              "bold": true,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Airbnb hosts are furious they can no longer make guests do their chores. Guests, meanwhile, are celebrating. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "WIRED",
+              "url": "https://www.wired.com/story/airbnb-hosts-are-furious-they-can-no-longer-make-guests-do-their-chores/",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Hoboken was just named the most walkable city in the U.S. in a new ranking. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "The Hoboken Girl",
+              "url": "https://www.hobokengirl.com/hoboken-most-walkable-city-us-2026/",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Lisa's Deli in Hoboken is under new ownership and will reopen soon. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "The Hoboken Girl",
+              "url": "https://www.hobokengirl.com/lisas-deli-hoboken-october-2026/",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Hoboken Pizza Fest returns on 11/14, with the participating spots announced. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "The Hoboken Girl",
+              "url": "https://www.hobokengirl.com/hoboken-pizza-fest-2026/",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "After 90 years, Journal Square's iconic Boulevard Drinks is moving to a new location. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "The Hoboken Girl",
+              "url": "https://www.hobokengirl.com/boulevard-drinks-new-location-jersey-city/",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Meta was hit with a $25 billion penalty in a New Mexico case. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Status",
+              "url": "https://status.news/",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Trump barred CNN from Air Force One, again. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Status",
+              "url": "https://status.news/",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "The White House threatened POLITICO over its staff stories. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Status",
+              "url": "https://status.news/",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "The yield on 10-year French government bonds hit 5% as borrowing costs spiked amid mass unrest. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Snacks",
+              "url": "https://sherwood.news/",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        }
+      ],
+      "publishedAt": "2026-10-22T11:59:00Z",
+      "links": [
+        {
+          "title": "$16.3 billion",
+          "url": "https://www.wsj.com/tech/ai/anthropic-revenue-growth-ipo-accaf0f1"
+        },
+        {
+          "title": "Pirate Wires",
+          "url": "https://piratewires.com/"
+        },
+        {
+          "title": "Snacks",
+          "url": "https://sherwood.news/"
+        },
+        {
+          "title": "$60,000",
+          "url": "https://fortune.com/2026/10/19/prediction-markets-insurance-risk-management-kalshi-dodgers-world-series/"
+        },
+        {
+          "title": "300,000",
+          "url": "https://www.aboutamazon.com/news/workplace/amazon-holiday-jobs-2026-seasonal-hiring-healthcare"
+        },
+        {
+          "title": "WIRED",
+          "url": "https://www.wired.com/story/hugging-face-new-ai-biology-model-chat-with-dna/"
+        },
+        {
+          "title": "WIRED",
+          "url": "https://www.wired.com/story/hackers-exploited-the-php-vulnerabilities-days-before-they-were-patched/"
+        },
+        {
+          "title": "Status",
+          "url": "https://status.news/"
+        },
+        {
+          "title": "WIRED",
+          "url": "https://www.wired.com/story/metas-ad-sales-suffering-now-europeans-can-pick-less-personalization/"
+        },
+        {
+          "title": "WIRED",
+          "url": "https://www.wired.com/story/telehealth-giant-hims-testosterone-therapy/"
+        },
+        {
+          "title": "InsideHook",
+          "url": "https://www.insidehook.com/"
+        },
+        {
+          "title": "The Hoboken Girl",
+          "url": "https://www.hobokengirl.com/ghost-uncle-joes-jersey-city-2026/"
+        },
+        {
+          "title": "WIRED",
+          "url": "https://www.wired.com/story/airbnb-hosts-are-furious-they-can-no-longer-make-guests-do-their-chores/"
+        },
+        {
+          "title": "The Hoboken Girl",
+          "url": "https://www.hobokengirl.com/hoboken-most-walkable-city-us-2026/"
+        },
+        {
+          "title": "The Hoboken Girl",
+          "url": "https://www.hobokengirl.com/lisas-deli-hoboken-october-2026/"
+        },
+        {
+          "title": "The Hoboken Girl",
+          "url": "https://www.hobokengirl.com/hoboken-pizza-fest-2026/"
+        },
+        {
+          "title": "The Hoboken Girl",
+          "url": "https://www.hobokengirl.com/boulevard-drinks-new-location-jersey-city/"
+        }
+      ],
+      "versions": {
+        "morning": {
+          "body": "Thursday, October 22, 2026 - Morning Edition\n\nToday's Numbers\n\n• $16.3 billion: Anthropic's revenue for the first half of 2026, up from $1.1 billion a year earlier. The Wall Street Journal got hold of a draft S-1 for the AI company's Wall Street debut, which could value it around $2 trillion. The same filing shows an $80 billion net loss and $450 billion in locked-in cloud computing deals it cannot back out of.\n\n• $1 billion: the predicted hit to U.S. GDP on the day GTA VI drops next month, as more than a million Americans are forecast to call out sick to play. Economists are actually modeling this.\n\n• 7.5%: how much wearing a necktie can reduce blood flow to the brain, according to a 2018 study.\n\n• $60,000: the bet a restaurant group near Dodger Stadium placed on Kalshi that the Dodgers would not advance. The trade doubled in value after Milwaukee swept LA, filling the revenue hole left by the missing World Series crowds.\n\n• 300,000: seasonal and full-time workers Amazon says it will hire for the holidays, its biggest holiday hiring surge yet.\n\nQuotes of the Day\n\n• \"My conscious brain is really bad at playing goalie. I have to let my unconscious brain do the work because it reacts a lot quicker. Today was unconscious. Like, don't think about anything. If you asked me how I made a save, I'd be like 'I have no idea.'\" (Devin Cooley, Calgary Flames goalkeeper, after a 34-save game)\n\n• \"If you went looking for the Democratic Party's weakest point, you might start with education, income, or race. But I'd give you a different answer: religion.\" (Lakshya Jain, The Argument, on polling that shows religion as the left's biggest electoral problem)\n\n• \"It's the political equivalent of blaming your neighbor for a kitchen fire in Paris because you don't like his lawn signs.\" (Counterpoint, on Trump blaming Democrats for France's cost-of-living protests)\n\n• \"Put down the bottle, ladies. The republic won't survive.\" (Pirate Wires, on politicians openly discussing jailing their rivals' staffers)\n\nAI & The Machines\n\nHugging Face built an AI that speaks the language of DNA. The new open-source biology model can chat about genetic changes and help researchers understand how those changes affect gene activity and health. Think of it as a translator for the language of life, aimed at working scientists. (WIRED)\n\nHackers beat the patch on the internet-melting PHP bugs. Amazon Web Services logged attempts to exploit the PHP2Shell vulnerabilities four days before the fixes were released. The bugs are now being broadly exploited across the internet. (WIRED)\n\nMoney & Power\n\nCBS's Election Night coverage will be sponsored by DraftKings. Executives at CBS's owned-and-operated stations learned their election coverage now carries sports-gambling branding straight through Election Night. The deal stirred angst and irritation at the sales team that sold it. The line between the news desk and the betting window keeps getting thinner. (Status)\n\nMeta's ad business is slowing in Europe now that users can pick less-personalized ads. An earnings briefing revealed ad revenue has softened since the EU introduced the Less-Personalized Ads model at the start of the year. Given the choice, people are choosing fewer creepy ads. (WIRED)\n\nHealth & Habits\n\nHims wants to put every dude on testosterone. The telehealth giant plans to offer testosterone replacement therapy, its first prescription of a controlled substance. Unlike its other meds, this one requires a video call with a physician first, and it is being offered to cisgender men only. (WIRED)\n\nThe Culture\n\nMoviegoing has quietly become a wellness activity. InsideHook's Tanner Garrity saw four films in four days (Naza, Primetime, You Can See Everything, and the Palme d'Or winner Fjord), each in a packed theater, and came out convinced that communal moviegoing is old-school social connection worth protecting. Nobody checks their phone. Nobody spoils the ending. (InsideHook)\n\nSan Francisco's \"hot girl bubble\" might be an economic warning sign. Multiple sources tell Pirate Wires that gorgeous women are flocking to the city, many of them effectively paid by cash-flush companies to woo business prospects. When venture money starts hiring baddies again, it is usually a bubble tell. (Pirate Wires)\n\nAround Hoboken\n\nThe Ghost of Uncle Joe's is back this weekend. One of Jersey City's biggest Halloween traditions returns to Harsimus Cemetery on Friday and Saturday, with local musicians dressing as famous artists and playing tribute sets. This year's lineup includes Pink Floyd, KISS, Prince, Christina Aguilera, Dolly Parton, Fleetwood Mac, and Green Day, with proceeds benefiting the historic cemetery. (The Hoboken Girl)\n\nQuick Hits & Curiosities\n\n• Airbnb hosts are furious they can no longer make guests do their chores. Guests, meanwhile, are celebrating. (WIRED)\n\n• Hoboken was just named the most walkable city in the U.S. in a new ranking. (The Hoboken Girl)\n\n• Lisa's Deli in Hoboken is under new ownership and will reopen soon. (The Hoboken Girl)\n\n• Hoboken Pizza Fest returns on 11/14, with the participating spots announced. (The Hoboken Girl)\n\n• After 90 years, Journal Square's iconic Boulevard Drinks is moving to a new location. (The Hoboken Girl)\n\n• Meta was hit with a $25 billion penalty in a New Mexico case. (Status)\n\n• Trump barred CNN from Air Force One, again. (Status)\n\n• The White House threatened POLITICO over its staff stories. (Status)\n\n• The yield on 10-year French government bonds hit 5% as borrowing costs spiked amid mass unrest. (Snacks)",
+          "blocks": [
+            {
+              "type": "heading_1",
+              "runs": [
+                {
+                  "text": "Thursday, October 22, 2026 - Morning Edition",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Today's Numbers",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "$16.3 billion",
+                  "url": "https://www.wsj.com/tech/ai/anthropic-revenue-growth-ipo-accaf0f1",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": Anthropic's revenue for the first half of 2026, up from $1.1 billion a year earlier. The Wall Street Journal got hold of a draft S-1 for the AI company's Wall Street debut, which could value it around $2 trillion. The same filing shows an $80 billion net loss and $450 billion in locked-in cloud computing deals it cannot back out of.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "$1 billion",
+                  "url": "https://piratewires.com/",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": the predicted hit to U.S. GDP on the day GTA VI drops next month, as more than a million Americans are forecast to call out sick to play. Economists are actually modeling this.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "7.5%",
+                  "url": "https://sherwood.news/",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": how much wearing a necktie can reduce blood flow to the brain, according to a 2018 study.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "$60,000",
+                  "url": "https://fortune.com/2026/10/19/prediction-markets-insurance-risk-management-kalshi-dodgers-world-series/",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": the bet a restaurant group near Dodger Stadium placed on Kalshi that the Dodgers would not advance. The trade doubled in value after Milwaukee swept LA, filling the revenue hole left by the missing World Series crowds.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "300,000",
+                  "url": "https://www.aboutamazon.com/news/workplace/amazon-holiday-jobs-2026-seasonal-hiring-healthcare",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": seasonal and full-time workers Amazon says it will hire for the holidays, its biggest holiday hiring surge yet.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Quotes of the Day",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "\"My conscious brain is really bad at playing goalie. I have to let my unconscious brain do the work because it reacts a lot quicker. Today was unconscious. Like, don't think about anything. If you asked me how I made a save, I'd be like 'I have no idea.'\" (Devin Cooley, Calgary Flames goalkeeper, after a 34-save game)",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "\"If you went looking for the Democratic Party's weakest point, you might start with education, income, or race. But I'd give you a different answer: religion.\" (Lakshya Jain, The Argument, on polling that shows religion as the left's biggest electoral problem)",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "\"It's the political equivalent of blaming your neighbor for a kitchen fire in Paris because you don't like his lawn signs.\" (Counterpoint, on Trump blaming Democrats for France's cost-of-living protests)",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "\"Put down the bottle, ladies. The republic won't survive.\" (Pirate Wires, on politicians openly discussing jailing their rivals' staffers)",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "AI & The Machines",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Hugging Face built an AI that speaks the language of DNA.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " The new open-source biology model can chat about genetic changes and help researchers understand how those changes affect gene activity and health. Think of it as a translator for the language of life, aimed at working scientists. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "WIRED",
+                  "url": "https://www.wired.com/story/hugging-face-new-ai-biology-model-chat-with-dna/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Hackers beat the patch on the internet-melting PHP bugs.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " Amazon Web Services logged attempts to exploit the PHP2Shell vulnerabilities four days before the fixes were released. The bugs are now being broadly exploited across the internet. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "WIRED",
+                  "url": "https://www.wired.com/story/hackers-exploited-the-php-vulnerabilities-days-before-they-were-patched/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Money & Power",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "CBS's Election Night coverage will be sponsored by DraftKings.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " Executives at CBS's owned-and-operated stations learned their election coverage now carries sports-gambling branding straight through Election Night. The deal stirred angst and irritation at the sales team that sold it. The line between the news desk and the betting window keeps getting thinner. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Status",
+                  "url": "https://status.news/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Meta's ad business is slowing in Europe now that users can pick less-personalized ads.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " An earnings briefing revealed ad revenue has softened since the EU introduced the Less-Personalized Ads model at the start of the year. Given the choice, people are choosing fewer creepy ads. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "WIRED",
+                  "url": "https://www.wired.com/story/metas-ad-sales-suffering-now-europeans-can-pick-less-personalization/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Health & Habits",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Hims wants to put every dude on testosterone.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " The telehealth giant plans to offer testosterone replacement therapy, its first prescription of a controlled substance. Unlike its other meds, this one requires a video call with a physician first, and it is being offered to cisgender men only. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "WIRED",
+                  "url": "https://www.wired.com/story/telehealth-giant-hims-testosterone-therapy/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "The Culture",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Moviegoing has quietly become a wellness activity.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " InsideHook's Tanner Garrity saw four films in four days (Naza, Primetime, You Can See Everything, and the Palme d'Or winner Fjord), each in a packed theater, and came out convinced that communal moviegoing is old-school social connection worth protecting. Nobody checks their phone. Nobody spoils the ending. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "InsideHook",
+                  "url": "https://www.insidehook.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "San Francisco's \"hot girl bubble\" might be an economic warning sign.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " Multiple sources tell Pirate Wires that gorgeous women are flocking to the city, many of them effectively paid by cash-flush companies to woo business prospects. When venture money starts hiring baddies again, it is usually a bubble tell. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Pirate Wires",
+                  "url": "https://piratewires.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Around Hoboken",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "The Ghost of Uncle Joe's is back this weekend.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " One of Jersey City's biggest Halloween traditions returns to Harsimus Cemetery on Friday and Saturday, with local musicians dressing as famous artists and playing tribute sets. This year's lineup includes Pink Floyd, KISS, Prince, Christina Aguilera, Dolly Parton, Fleetwood Mac, and Green Day, with proceeds benefiting the historic cemetery. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "The Hoboken Girl",
+                  "url": "https://www.hobokengirl.com/ghost-uncle-joes-jersey-city-2026/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Quick Hits & Curiosities",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Airbnb hosts are furious they can no longer make guests do their chores. Guests, meanwhile, are celebrating. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "WIRED",
+                  "url": "https://www.wired.com/story/airbnb-hosts-are-furious-they-can-no-longer-make-guests-do-their-chores/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Hoboken was just named the most walkable city in the U.S. in a new ranking. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "The Hoboken Girl",
+                  "url": "https://www.hobokengirl.com/hoboken-most-walkable-city-us-2026/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Lisa's Deli in Hoboken is under new ownership and will reopen soon. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "The Hoboken Girl",
+                  "url": "https://www.hobokengirl.com/lisas-deli-hoboken-october-2026/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Hoboken Pizza Fest returns on 11/14, with the participating spots announced. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "The Hoboken Girl",
+                  "url": "https://www.hobokengirl.com/hoboken-pizza-fest-2026/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "After 90 years, Journal Square's iconic Boulevard Drinks is moving to a new location. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "The Hoboken Girl",
+                  "url": "https://www.hobokengirl.com/boulevard-drinks-new-location-jersey-city/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Meta was hit with a $25 billion penalty in a New Mexico case. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Status",
+                  "url": "https://status.news/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Trump barred CNN from Air Force One, again. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Status",
+                  "url": "https://status.news/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "The White House threatened POLITICO over its staff stories. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Status",
+                  "url": "https://status.news/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "The yield on 10-year French government bonds hit 5% as borrowing costs spiked amid mass unrest. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Snacks",
+                  "url": "https://sherwood.news/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            }
+          ],
+          "links": [
+            {
+              "title": "$16.3 billion",
+              "url": "https://www.wsj.com/tech/ai/anthropic-revenue-growth-ipo-accaf0f1"
+            },
+            {
+              "title": "Pirate Wires",
+              "url": "https://piratewires.com/"
+            },
+            {
+              "title": "Snacks",
+              "url": "https://sherwood.news/"
+            },
+            {
+              "title": "$60,000",
+              "url": "https://fortune.com/2026/10/19/prediction-markets-insurance-risk-management-kalshi-dodgers-world-series/"
+            },
+            {
+              "title": "300,000",
+              "url": "https://www.aboutamazon.com/news/workplace/amazon-holiday-jobs-2026-seasonal-hiring-healthcare"
+            },
+            {
+              "title": "WIRED",
+              "url": "https://www.wired.com/story/hugging-face-new-ai-biology-model-chat-with-dna/"
+            },
+            {
+              "title": "WIRED",
+              "url": "https://www.wired.com/story/hackers-exploited-the-php-vulnerabilities-days-before-they-were-patched/"
+            },
+            {
+              "title": "Status",
+              "url": "https://status.news/"
+            },
+            {
+              "title": "WIRED",
+              "url": "https://www.wired.com/story/metas-ad-sales-suffering-now-europeans-can-pick-less-personalization/"
+            },
+            {
+              "title": "WIRED",
+              "url": "https://www.wired.com/story/telehealth-giant-hims-testosterone-therapy/"
+            },
+            {
+              "title": "InsideHook",
+              "url": "https://www.insidehook.com/"
+            },
+            {
+              "title": "The Hoboken Girl",
+              "url": "https://www.hobokengirl.com/ghost-uncle-joes-jersey-city-2026/"
+            },
+            {
+              "title": "WIRED",
+              "url": "https://www.wired.com/story/airbnb-hosts-are-furious-they-can-no-longer-make-guests-do-their-chores/"
+            },
+            {
+              "title": "The Hoboken Girl",
+              "url": "https://www.hobokengirl.com/hoboken-most-walkable-city-us-2026/"
+            },
+            {
+              "title": "The Hoboken Girl",
+              "url": "https://www.hobokengirl.com/lisas-deli-hoboken-october-2026/"
+            },
+            {
+              "title": "The Hoboken Girl",
+              "url": "https://www.hobokengirl.com/hoboken-pizza-fest-2026/"
+            },
+            {
+              "title": "The Hoboken Girl",
+              "url": "https://www.hobokengirl.com/boulevard-drinks-new-location-jersey-city/"
+            }
+          ]
+        },
+        "full": {
+          "body": "Thursday, October 22, 2026 - Morning Edition\n\nToday's Numbers\n\n• $16.3 billion: Anthropic's revenue for the first half of 2026, up from $1.1 billion a year earlier. The Wall Street Journal got hold of a draft S-1 for the AI company's Wall Street debut, which could value it around $2 trillion. The same filing shows an $80 billion net loss and $450 billion in locked-in cloud computing deals it cannot back out of.\n\n• $1 billion: the predicted hit to U.S. GDP on the day GTA VI drops next month, as more than a million Americans are forecast to call out sick to play. Economists are actually modeling this.\n\n• 7.5%: how much wearing a necktie can reduce blood flow to the brain, according to a 2018 study.\n\n• $60,000: the bet a restaurant group near Dodger Stadium placed on Kalshi that the Dodgers would not advance. The trade doubled in value after Milwaukee swept LA, filling the revenue hole left by the missing World Series crowds.\n\n• 300,000: seasonal and full-time workers Amazon says it will hire for the holidays, its biggest holiday hiring surge yet.\n\nQuotes of the Day\n\n• \"My conscious brain is really bad at playing goalie. I have to let my unconscious brain do the work because it reacts a lot quicker. Today was unconscious. Like, don't think about anything. If you asked me how I made a save, I'd be like 'I have no idea.'\" (Devin Cooley, Calgary Flames goalkeeper, after a 34-save game)\n\n• \"If you went looking for the Democratic Party's weakest point, you might start with education, income, or race. But I'd give you a different answer: religion.\" (Lakshya Jain, The Argument, on polling that shows religion as the left's biggest electoral problem)\n\n• \"It's the political equivalent of blaming your neighbor for a kitchen fire in Paris because you don't like his lawn signs.\" (Counterpoint, on Trump blaming Democrats for France's cost-of-living protests)\n\n• \"Put down the bottle, ladies. The republic won't survive.\" (Pirate Wires, on politicians openly discussing jailing their rivals' staffers)\n\nAI & The Machines\n\nHugging Face built an AI that speaks the language of DNA. The new open-source biology model can chat about genetic changes and help researchers understand how those changes affect gene activity and health. Think of it as a translator for the language of life, aimed at working scientists. (WIRED)\n\nHackers beat the patch on the internet-melting PHP bugs. Amazon Web Services logged attempts to exploit the PHP2Shell vulnerabilities four days before the fixes were released. The bugs are now being broadly exploited across the internet. (WIRED)\n\nMoney & Power\n\nCBS's Election Night coverage will be sponsored by DraftKings. Executives at CBS's owned-and-operated stations learned their election coverage now carries sports-gambling branding straight through Election Night. The deal stirred angst and irritation at the sales team that sold it. The line between the news desk and the betting window keeps getting thinner. (Status)\n\nMeta's ad business is slowing in Europe now that users can pick less-personalized ads. An earnings briefing revealed ad revenue has softened since the EU introduced the Less-Personalized Ads model at the start of the year. Given the choice, people are choosing fewer creepy ads. (WIRED)\n\nHealth & Habits\n\nHims wants to put every dude on testosterone. The telehealth giant plans to offer testosterone replacement therapy, its first prescription of a controlled substance. Unlike its other meds, this one requires a video call with a physician first, and it is being offered to cisgender men only. (WIRED)\n\nThe Culture\n\nMoviegoing has quietly become a wellness activity. InsideHook's Tanner Garrity saw four films in four days (Naza, Primetime, You Can See Everything, and the Palme d'Or winner Fjord), each in a packed theater, and came out convinced that communal moviegoing is old-school social connection worth protecting. Nobody checks their phone. Nobody spoils the ending. (InsideHook)\n\nSan Francisco's \"hot girl bubble\" might be an economic warning sign. Multiple sources tell Pirate Wires that gorgeous women are flocking to the city, many of them effectively paid by cash-flush companies to woo business prospects. When venture money starts hiring baddies again, it is usually a bubble tell. (Pirate Wires)\n\nAround Hoboken\n\nThe Ghost of Uncle Joe's is back this weekend. One of Jersey City's biggest Halloween traditions returns to Harsimus Cemetery on Friday and Saturday, with local musicians dressing as famous artists and playing tribute sets. This year's lineup includes Pink Floyd, KISS, Prince, Christina Aguilera, Dolly Parton, Fleetwood Mac, and Green Day, with proceeds benefiting the historic cemetery. (The Hoboken Girl)\n\nQuick Hits & Curiosities\n\n• Airbnb hosts are furious they can no longer make guests do their chores. Guests, meanwhile, are celebrating. (WIRED)\n\n• Hoboken was just named the most walkable city in the U.S. in a new ranking. (The Hoboken Girl)\n\n• Lisa's Deli in Hoboken is under new ownership and will reopen soon. (The Hoboken Girl)\n\n• Hoboken Pizza Fest returns on 11/14, with the participating spots announced. (The Hoboken Girl)\n\n• After 90 years, Journal Square's iconic Boulevard Drinks is moving to a new location. (The Hoboken Girl)\n\n• Meta was hit with a $25 billion penalty in a New Mexico case. (Status)\n\n• Trump barred CNN from Air Force One, again. (Status)\n\n• The White House threatened POLITICO over its staff stories. (Status)\n\n• The yield on 10-year French government bonds hit 5% as borrowing costs spiked amid mass unrest. (Snacks)",
+          "blocks": [
+            {
+              "type": "heading_1",
+              "runs": [
+                {
+                  "text": "Thursday, October 22, 2026 - Morning Edition",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Today's Numbers",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "$16.3 billion",
+                  "url": "https://www.wsj.com/tech/ai/anthropic-revenue-growth-ipo-accaf0f1",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": Anthropic's revenue for the first half of 2026, up from $1.1 billion a year earlier. The Wall Street Journal got hold of a draft S-1 for the AI company's Wall Street debut, which could value it around $2 trillion. The same filing shows an $80 billion net loss and $450 billion in locked-in cloud computing deals it cannot back out of.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "$1 billion",
+                  "url": "https://piratewires.com/",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": the predicted hit to U.S. GDP on the day GTA VI drops next month, as more than a million Americans are forecast to call out sick to play. Economists are actually modeling this.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "7.5%",
+                  "url": "https://sherwood.news/",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": how much wearing a necktie can reduce blood flow to the brain, according to a 2018 study.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "$60,000",
+                  "url": "https://fortune.com/2026/10/19/prediction-markets-insurance-risk-management-kalshi-dodgers-world-series/",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": the bet a restaurant group near Dodger Stadium placed on Kalshi that the Dodgers would not advance. The trade doubled in value after Milwaukee swept LA, filling the revenue hole left by the missing World Series crowds.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "300,000",
+                  "url": "https://www.aboutamazon.com/news/workplace/amazon-holiday-jobs-2026-seasonal-hiring-healthcare",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": seasonal and full-time workers Amazon says it will hire for the holidays, its biggest holiday hiring surge yet.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Quotes of the Day",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "\"My conscious brain is really bad at playing goalie. I have to let my unconscious brain do the work because it reacts a lot quicker. Today was unconscious. Like, don't think about anything. If you asked me how I made a save, I'd be like 'I have no idea.'\" (Devin Cooley, Calgary Flames goalkeeper, after a 34-save game)",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "\"If you went looking for the Democratic Party's weakest point, you might start with education, income, or race. But I'd give you a different answer: religion.\" (Lakshya Jain, The Argument, on polling that shows religion as the left's biggest electoral problem)",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "\"It's the political equivalent of blaming your neighbor for a kitchen fire in Paris because you don't like his lawn signs.\" (Counterpoint, on Trump blaming Democrats for France's cost-of-living protests)",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "\"Put down the bottle, ladies. The republic won't survive.\" (Pirate Wires, on politicians openly discussing jailing their rivals' staffers)",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "AI & The Machines",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Hugging Face built an AI that speaks the language of DNA.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " The new open-source biology model can chat about genetic changes and help researchers understand how those changes affect gene activity and health. Think of it as a translator for the language of life, aimed at working scientists. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "WIRED",
+                  "url": "https://www.wired.com/story/hugging-face-new-ai-biology-model-chat-with-dna/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Hackers beat the patch on the internet-melting PHP bugs.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " Amazon Web Services logged attempts to exploit the PHP2Shell vulnerabilities four days before the fixes were released. The bugs are now being broadly exploited across the internet. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "WIRED",
+                  "url": "https://www.wired.com/story/hackers-exploited-the-php-vulnerabilities-days-before-they-were-patched/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Money & Power",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "CBS's Election Night coverage will be sponsored by DraftKings.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " Executives at CBS's owned-and-operated stations learned their election coverage now carries sports-gambling branding straight through Election Night. The deal stirred angst and irritation at the sales team that sold it. The line between the news desk and the betting window keeps getting thinner. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Status",
+                  "url": "https://status.news/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Meta's ad business is slowing in Europe now that users can pick less-personalized ads.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " An earnings briefing revealed ad revenue has softened since the EU introduced the Less-Personalized Ads model at the start of the year. Given the choice, people are choosing fewer creepy ads. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "WIRED",
+                  "url": "https://www.wired.com/story/metas-ad-sales-suffering-now-europeans-can-pick-less-personalization/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Health & Habits",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Hims wants to put every dude on testosterone.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " The telehealth giant plans to offer testosterone replacement therapy, its first prescription of a controlled substance. Unlike its other meds, this one requires a video call with a physician first, and it is being offered to cisgender men only. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "WIRED",
+                  "url": "https://www.wired.com/story/telehealth-giant-hims-testosterone-therapy/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "The Culture",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Moviegoing has quietly become a wellness activity.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " InsideHook's Tanner Garrity saw four films in four days (Naza, Primetime, You Can See Everything, and the Palme d'Or winner Fjord), each in a packed theater, and came out convinced that communal moviegoing is old-school social connection worth protecting. Nobody checks their phone. Nobody spoils the ending. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "InsideHook",
+                  "url": "https://www.insidehook.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "San Francisco's \"hot girl bubble\" might be an economic warning sign.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " Multiple sources tell Pirate Wires that gorgeous women are flocking to the city, many of them effectively paid by cash-flush companies to woo business prospects. When venture money starts hiring baddies again, it is usually a bubble tell. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Pirate Wires",
+                  "url": "https://piratewires.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Around Hoboken",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "The Ghost of Uncle Joe's is back this weekend.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " One of Jersey City's biggest Halloween traditions returns to Harsimus Cemetery on Friday and Saturday, with local musicians dressing as famous artists and playing tribute sets. This year's lineup includes Pink Floyd, KISS, Prince, Christina Aguilera, Dolly Parton, Fleetwood Mac, and Green Day, with proceeds benefiting the historic cemetery. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "The Hoboken Girl",
+                  "url": "https://www.hobokengirl.com/ghost-uncle-joes-jersey-city-2026/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Quick Hits & Curiosities",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Airbnb hosts are furious they can no longer make guests do their chores. Guests, meanwhile, are celebrating. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "WIRED",
+                  "url": "https://www.wired.com/story/airbnb-hosts-are-furious-they-can-no-longer-make-guests-do-their-chores/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Hoboken was just named the most walkable city in the U.S. in a new ranking. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "The Hoboken Girl",
+                  "url": "https://www.hobokengirl.com/hoboken-most-walkable-city-us-2026/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Lisa's Deli in Hoboken is under new ownership and will reopen soon. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "The Hoboken Girl",
+                  "url": "https://www.hobokengirl.com/lisas-deli-hoboken-october-2026/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Hoboken Pizza Fest returns on 11/14, with the participating spots announced. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "The Hoboken Girl",
+                  "url": "https://www.hobokengirl.com/hoboken-pizza-fest-2026/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "After 90 years, Journal Square's iconic Boulevard Drinks is moving to a new location. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "The Hoboken Girl",
+                  "url": "https://www.hobokengirl.com/boulevard-drinks-new-location-jersey-city/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Meta was hit with a $25 billion penalty in a New Mexico case. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Status",
+                  "url": "https://status.news/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Trump barred CNN from Air Force One, again. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Status",
+                  "url": "https://status.news/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "The White House threatened POLITICO over its staff stories. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Status",
+                  "url": "https://status.news/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "The yield on 10-year French government bonds hit 5% as borrowing costs spiked amid mass unrest. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Snacks",
+                  "url": "https://sherwood.news/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            }
+          ],
+          "links": [
+            {
+              "title": "$16.3 billion",
+              "url": "https://www.wsj.com/tech/ai/anthropic-revenue-growth-ipo-accaf0f1"
+            },
+            {
+              "title": "Pirate Wires",
+              "url": "https://piratewires.com/"
+            },
+            {
+              "title": "Snacks",
+              "url": "https://sherwood.news/"
+            },
+            {
+              "title": "$60,000",
+              "url": "https://fortune.com/2026/10/19/prediction-markets-insurance-risk-management-kalshi-dodgers-world-series/"
+            },
+            {
+              "title": "300,000",
+              "url": "https://www.aboutamazon.com/news/workplace/amazon-holiday-jobs-2026-seasonal-hiring-healthcare"
+            },
+            {
+              "title": "WIRED",
+              "url": "https://www.wired.com/story/hugging-face-new-ai-biology-model-chat-with-dna/"
+            },
+            {
+              "title": "WIRED",
+              "url": "https://www.wired.com/story/hackers-exploited-the-php-vulnerabilities-days-before-they-were-patched/"
+            },
+            {
+              "title": "Status",
+              "url": "https://status.news/"
+            },
+            {
+              "title": "WIRED",
+              "url": "https://www.wired.com/story/metas-ad-sales-suffering-now-europeans-can-pick-less-personalization/"
+            },
+            {
+              "title": "WIRED",
+              "url": "https://www.wired.com/story/telehealth-giant-hims-testosterone-therapy/"
+            },
+            {
+              "title": "InsideHook",
+              "url": "https://www.insidehook.com/"
+            },
+            {
+              "title": "The Hoboken Girl",
+              "url": "https://www.hobokengirl.com/ghost-uncle-joes-jersey-city-2026/"
+            },
+            {
+              "title": "WIRED",
+              "url": "https://www.wired.com/story/airbnb-hosts-are-furious-they-can-no-longer-make-guests-do-their-chores/"
+            },
+            {
+              "title": "The Hoboken Girl",
+              "url": "https://www.hobokengirl.com/hoboken-most-walkable-city-us-2026/"
+            },
+            {
+              "title": "The Hoboken Girl",
+              "url": "https://www.hobokengirl.com/lisas-deli-hoboken-october-2026/"
+            },
+            {
+              "title": "The Hoboken Girl",
+              "url": "https://www.hobokengirl.com/hoboken-pizza-fest-2026/"
+            },
+            {
+              "title": "The Hoboken Girl",
+              "url": "https://www.hobokengirl.com/boulevard-drinks-new-location-jersey-city/"
+            }
+          ]
+        }
+      }
     }
   ]
 }
