@@ -945,6 +945,42 @@
       "url": "https://www.ways-of-seeing.com/ch1",
       "publishedAt": "2026-10-12T13:57:00Z",
       "readingStatus": "To Read"
+    },
+    {
+      "id": "readlater-c1b4335b410d42ab8a4ca7bc7c98c14a",
+      "channel": "articles",
+      "source": "notion",
+      "title": "Roadkill, Meat Cereal and Raw Chicken: Inside the World of ‘Dark Nutrition’",
+      "url": "https://www.nytimes.com/2026/10/21/magazine/dark-nutrition-raw-meat-diet.html",
+      "publishedAt": "2026-10-22T15:07:00Z",
+      "readingStatus": "To Read"
+    },
+    {
+      "id": "readlater-4418321fe1a7476e8e27d513b7f6f375",
+      "channel": "articles",
+      "source": "notion",
+      "title": "The unknown painter behind Manhattan’s Gilded Age interiors",
+      "url": "https://engelsbergideas.com/notebook/the-unknown-painter-behind-manhattans-gilded-age-interiors/",
+      "publishedAt": "2026-10-22T15:26:00Z",
+      "readingStatus": "To Read"
+    },
+    {
+      "id": "readlater-6d235e1e676c4d81932f60081118a28f",
+      "channel": "articles",
+      "source": "notion",
+      "title": "What is Gridifcation",
+      "url": "https://musicalform.substack.com/p/what-is-gridifcation",
+      "publishedAt": "2026-10-22T15:27:00Z",
+      "readingStatus": "To Read"
+    },
+    {
+      "id": "readlater-4018153c8a3e808e8dc5e89c95048cb0",
+      "channel": "articles",
+      "source": "notion",
+      "title": "The Gospel according to Peter (Thiel)",
+      "url": "https://www.theverge.com/tech/1014252/peter-thiel-antichrist-lectures-analysis",
+      "publishedAt": "2026-10-22T15:50:00Z",
+      "readingStatus": "To Read"
     }
   ]
 }
