@@ -164703,6 +164703,583 @@
           ]
         }
       }
+    },
+    {
+      "id": "digest-cda914b0-192a-4f0f-8437-40d1af5131b0",
+      "channel": "newsletters",
+      "source": "notion",
+      "kind": "Agent-written digest",
+      "domain": "Daily newsletter digest",
+      "title": "The Century, the Soup Swap, and the 996 Line",
+      "url": "",
+      "description": "Front page",
+      "body": "Front page\n\nToday’s mail had a theme: the good life is less about maximal output than deliberate texture. Toyota is bringing an ultra-discreet chauffeur’s car to America; an AI operator is drawing a hard line against 996; a soup newsletter turns pantry inventory into a social event; and a Cash App identity-theft story reads like Kafka with push notifications.\n\nBest links\n\n• Luxury’s quietest flex: Toyota’s Century—Japan’s hand-finished, V12-era symbol of conservative power—is coming to the U.S. in 2028 through a deliberately tiny Lexus dealer network. The pitch is not spectacle; it is the absence of friction. Why is this interesting? calls it “exporting restraint at a serious premium.”\n\n• A better way to pick a ballot: shit you should care about surfaced On The Fence, a Massey University questionnaire that lets first-time voters compare their views with political parties’ answers without pretending to tell them what to think. Useful civic UX: orient, don’t dictate.\n\n• A city in close-up: Feed Me recommends Metro, Sarah Koenig’s new New York Times podcast, whose first episode follows the person who polishes Grand Central’s railings, doors, and ticket windows. The city, reduced to one job and one voice.\n\nWorth reading\n\n• George Saunders, in the Ohio uncanny valley: “Appeasement, Ohio” opens with eggs, Civil War buttons, a Dell, and a fake Gettysburg archaeology headline featuring a palm tree. The excerpt’s joke is simple and lethal: every argument arrives wearing the costume of evidence. New Yorker Substack also includes an interview about the story.\n\n• The human cost of being impersonated: 404 Media follows Amanda Smith, arrested after a scammer opened a Cash App in her name and used it to receive stolen money. The bureaucratic nightmare is that Cash App refuses to explain the account because she cannot prove she owns it.\n\n• The anti-996 manifesto: Elena Verna’s essay, cross-posted by Lenny’s Newsletter, argues that extreme hours are not ambition; they are a company borrowing against employees’ future health, relationships, and capacity. Her practical tool is the five-year regret test: when work and life collide, which choice will you regret more later?\n\nFood & places\n\n• The soup bucket list: NYT Cooking’s The Veggie starts with a pantry inventory—black beans, lentils, chickpeas, one lonely can of coconut milk—and builds outward into charred cabbage and lentil soup, curried coconut and red lentil soup, tomato-and-bean soups, and a borscht learned from Ebon Moss-Bachrach’s Ukrainian mother-in-law. This is recipe planning as domestic archaeology.\n\n• Steal this gathering: a soup swap is a cookie swap with more heft: everyone makes one soup, then trades portions and leaves with several dinners. The kind of potluck that improves the week instead of merely occupying an evening.\n\n• A sauce company grows up: Alison Roman renamed “A Very Good Tomato Sauce” to Roman’s, kept the sauce, redesigned the labels, and opened wholesale distribution. A neat little lesson in knowing when a cheeky placeholder name has done its job.\n\nInternet oddities\n\n• Survival and chill: After School found an audience of indoor workers watching people build snow caves, cook in Alaskan blizzards, and sit around virtual campfires. The genre is an antidote to the manosphere—and to synthetic internet sludge—because the appeal is slow, physical, and “unequivocally real.”\n\n• The comment-to-link economy: Feed Me describes the now-common ritual where an apartment, recipe, or outfit is hidden behind “comment HOME.” The newsletter’s counter-move: search the listings yourself, save three minutes of performative engagement, and discover the kitchen is comically small.\n\nIdeas to steal\n\n• Make boundaries legible. Don’t hide family time behind a mysterious “focus block”; say what it is. People cannot respect a boundary they cannot see.\n\n• Use the five-year regret test. Work is excellent at manufacturing urgency. Family, health, and the rest of life are less noisy—and easier to postpone forever.\n\n• Design for texture. A Century, a soup swap, a handwritten civic questionnaire, a trail camera: the memorable things in today’s mail all replace frictionless scale with a little more craft, locality, or reality.\n\nOne-liners\n\n• “996 is not a competitive advantage.” — Elena Verna, via Lenny’s Newsletter.\n\n• AI may eliminate a lot of work while eliminating very little working.\n\n• The Century’s real luxury is making the passenger feel that nothing required effort.\n\n• “Things that are unequivocally real” is a pretty good editorial brief for the next year of the internet.",
+      "blocks": [
+        {
+          "type": "heading_2",
+          "runs": [
+            {
+              "text": "Front page",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Today’s mail had a theme: the good life is less about maximal output than deliberate texture. Toyota is bringing an ultra-discreet chauffeur’s car to America; an AI operator is drawing a hard line against 996; a soup newsletter turns pantry inventory into a social event; and a Cash App identity-theft story reads like Kafka with push notifications.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "heading_2",
+          "runs": [
+            {
+              "text": "Best links",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Luxury’s quietest flex:",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " Toyota’s Century—Japan’s hand-finished, V12-era symbol of conservative power—is coming to the U.S. in 2028 through a deliberately tiny Lexus dealer network. The pitch is not spectacle; it is the absence of friction. ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Why is this interesting?",
+              "url": "",
+              "bold": false,
+              "italic": true
+            },
+            {
+              "text": " calls it “exporting restraint at a serious premium.” ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "A better way to pick a ballot:",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "shit you should care about",
+              "url": "",
+              "bold": false,
+              "italic": true
+            },
+            {
+              "text": " surfaced ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "On The Fence",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": ", a Massey University questionnaire that lets first-time voters compare their views with political parties’ answers without pretending to tell them what to think. Useful civic UX: orient, don’t dictate. ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "A city in close-up:",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Feed Me",
+              "url": "",
+              "bold": false,
+              "italic": true
+            },
+            {
+              "text": " recommends ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Metro",
+              "url": "",
+              "bold": false,
+              "italic": true
+            },
+            {
+              "text": ", Sarah Koenig’s new New York Times podcast, whose first episode follows the person who polishes Grand Central’s railings, doors, and ticket windows. The city, reduced to one job and one voice. ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "heading_2",
+          "runs": [
+            {
+              "text": "Worth reading",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "George Saunders, in the Ohio uncanny valley:",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " “Appeasement, Ohio” opens with eggs, Civil War buttons, a Dell, and a fake Gettysburg archaeology headline featuring a palm tree. The excerpt’s joke is simple and lethal: every argument arrives wearing the costume of evidence. ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "New Yorker Substack",
+              "url": "",
+              "bold": false,
+              "italic": true
+            },
+            {
+              "text": " also includes an interview about the story. ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "The human cost of being impersonated:",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "404 Media",
+              "url": "",
+              "bold": false,
+              "italic": true
+            },
+            {
+              "text": " follows Amanda Smith, arrested after a scammer opened a Cash App in her name and used it to receive stolen money. The bureaucratic nightmare is that Cash App refuses to explain the account because she cannot prove she owns it. ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "The anti-996 manifesto:",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " Elena Verna’s essay, cross-posted by ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Lenny’s Newsletter",
+              "url": "",
+              "bold": false,
+              "italic": true
+            },
+            {
+              "text": ", argues that extreme hours are not ambition; they are a company borrowing against employees’ future health, relationships, and capacity. Her practical tool is the ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "five-year regret test",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": ": when work and life collide, which choice will you regret more later? ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "heading_2",
+          "runs": [
+            {
+              "text": "Food & places",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "The soup bucket list:",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " NYT Cooking’s ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "The Veggie",
+              "url": "",
+              "bold": false,
+              "italic": true
+            },
+            {
+              "text": " starts with a pantry inventory—black beans, lentils, chickpeas, one lonely can of coconut milk—and builds outward into charred cabbage and lentil soup, curried coconut and red lentil soup, tomato-and-bean soups, and a borscht learned from Ebon Moss-Bachrach’s Ukrainian mother-in-law. This is recipe planning as domestic archaeology. ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Steal this gathering:",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " a ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "soup swap",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " is a cookie swap with more heft: everyone makes one soup, then trades portions and leaves with several dinners. The kind of potluck that improves the week instead of merely occupying an evening. ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "A sauce company grows up:",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " Alison Roman renamed “A Very Good Tomato Sauce” to ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Roman’s",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": ", kept the sauce, redesigned the labels, and opened wholesale distribution. A neat little lesson in knowing when a cheeky placeholder name has done its job. ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "heading_2",
+          "runs": [
+            {
+              "text": "Internet oddities",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Survival and chill:",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "After School",
+              "url": "",
+              "bold": false,
+              "italic": true
+            },
+            {
+              "text": " found an audience of indoor workers watching people build snow caves, cook in Alaskan blizzards, and sit around virtual campfires. The genre is an antidote to the manosphere—and to synthetic internet sludge—because the appeal is slow, physical, and “unequivocally real.” ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "The comment-to-link economy:",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Feed Me",
+              "url": "",
+              "bold": false,
+              "italic": true
+            },
+            {
+              "text": " describes the now-common ritual where an apartment, recipe, or outfit is hidden behind “comment HOME.” The newsletter’s counter-move: search the listings yourself, save three minutes of performative engagement, and discover the kitchen is comically small. ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "heading_2",
+          "runs": [
+            {
+              "text": "Ideas to steal",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "numbered_list_item",
+          "runs": [
+            {
+              "text": "Make boundaries legible.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " Don’t hide family time behind a mysterious “focus block”; say what it is. People cannot respect a boundary they cannot see.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "numbered_list_item",
+          "runs": [
+            {
+              "text": "Use the five-year regret test.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " Work is excellent at manufacturing urgency. Family, health, and the rest of life are less noisy—and easier to postpone forever.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "numbered_list_item",
+          "runs": [
+            {
+              "text": "Design for texture.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " A Century, a soup swap, a handwritten civic questionnaire, a trail camera: the memorable things in today’s mail all replace frictionless scale with a little more craft, locality, or reality.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "heading_2",
+          "runs": [
+            {
+              "text": "One-liners",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "“996 is not a competitive advantage.” — Elena Verna, via ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Lenny’s Newsletter",
+              "url": "",
+              "bold": false,
+              "italic": true
+            },
+            {
+              "text": ". ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "AI may eliminate a lot of work while eliminating very little ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "working",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": ". ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "The Century’s real luxury is making the passenger feel that nothing required effort. ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "“Things that are unequivocally real” is a pretty good editorial brief for the next year of the internet. ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        }
+      ],
+      "publishedAt": "2026-10-22T21:02:00Z",
+      "links": []
     }
   ]
 }
