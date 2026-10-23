@@ -165253,6 +165253,1910 @@
       ],
       "publishedAt": "2026-10-22T21:02:00Z",
       "links": []
+    },
+    {
+      "id": "digest-4028153c-8a3e-8122-8b3e-e0aa0fff1c21",
+      "channel": "newsletters",
+      "source": "notion",
+      "kind": "Agent-written digest",
+      "domain": "Daily newsletter digest",
+      "title": "Luckey's $200M war dogs, Netflix's Indian summer, SF's hot girl bubble - Friday, October 23, 2026",
+      "url": "",
+      "description": "Friday, October 23, 2026 - Morning Edition",
+      "body": "Friday, October 23, 2026 - Morning Edition\n\nToday's Numbers\n\n• $200M: Palmer Luckey's Warhound just came out of stealth with $200 million in funding to build genetically modified \"elite working dogs\" equipped with advanced body armor.\n\n• 31%: Trump's approval rating has sunk to 31% in a new Reuters/Ipsos poll, as Americans fume over rising prices and his handling of the economy.\n\n• $30B: Norway's sovereign wealth fund lost $30 billion last quarter, mostly on its government bond portfolio, yet it is still worth about $2.3 trillion.\n\n• 63%: Waymo robotaxis crash about 63% less per mile than human drivers, per WaPo reporting, which makes the shadowy anti-robotaxi group in DC look even more suspicious.\n\n• 15%: 15% of Americans now order groceries online every week, up from just 4% less than a decade ago, while trips to restaurants and stores sit at their lowest since Gallup started asking.\n\nQuotes of the Day\n\n• \"We did so not in spite of, but because of our commitment to free expression.\" (president of the Columbia Open Discourse Alliance, on canceling a panel about press freedom)\n\n• \"Nothing looks worse than when a brand's fake honeycomb knee fades are landing half-way down your calves, or anywhere it's obvious your own leg doesn't actually bend.\" (Andrew Chen of 3Sixteen, on why his denim shop will never sell artificial distressing)\n\n• \"No one actually knows what they're doing.\" (Panayiota Soutis, from a night of ten big ideas shared with friends)\n\n• \"Boredom breeds good ideas. Being in nature breeds great ideas.\" (Panayiota Soutis, same night, on where ideas come from)\n\nAI & The Machines\n\n• Casey Newton and Kevin Roose just launched a new AI podcast with NPR, and it is deliberately neither doomer nor booster. Machine Gods drops twice a week and plants its flag on what they call \"AI realism\": take the safety warnings seriously, but also ask what could go right. The second episode hands the mic to two recently fired OpenAI safety researchers to tell their side of the story. (Platformer)\n\n• Meta is pulling its share links feature after researchers showed how easily it exposed strangers' private chats with Muse, Meta's AI assistant. Ars Technica's reporting for WIRED found the design flaw let snoops read conversations other users had shared with the chatbot. (WIRED)\n\nMoney & Power\n\n• The housing market is in a split the industry has never seen, and the closest parallel is 1966. Rentals are improving on nearly every data point while the for-sale market keeps sinking: September pending home sales hit a record low, homebuilder sentiment sits at a 14-year low, and mortgage purchase applications are down 18% from a year ago. The 1966 lesson is that a crowding-out slump can reverse fast, but only once prices meet buyers where they are. (The Housing Frame)\n\n• Netflix posted a blockbuster quarter and India did most of the heavy lifting. The streamer name-checked India six times in its shareholder letter, double the references to the US, with revenue up 18% and viewing hours up 24% on record subscriber adds. Caveats apply: the growth leans on a Flipkart tie-in (free mobile Netflix with a few bucks of spending) and a daily reality show called Lock Upp, its most watched Indian title ever. (Snacks)\n\nThe Culture\n\n• Nathan Fielder co-directed a documentary about Elizabeth Holmes in the month before she reported to prison, and it is really about how manipulation works on smart people who already know the truth. In \"You Can See Everything,\" Holmes defends her Theranos-era claim that her devices \"can run any test\" by redefining \"can\" as future possibility, baffled that anyone would read it as a description of the present. The film's uncomfortable point is that the facts of Holmes's guilt do not make you immune to her charm. (The Argument)\n\n• San Francisco is now so flooded with beautiful women working AI sales that Pirate Wires is reading it as a bubble signal. Startups flush with VC cash are buying attention instead of building products, hiring hotties for sales and growth roles while the men interviewed report clocking 10s in the Marina. Peak-froth exhibits: one AI company hired a \"Head of Coffee,\" another offers Porches to employees who refer engineers, and a third pays staff $1,000 a month to live nearby. (Pirate Wires)\n\nQuick Hits & Curiosities\n\n• Starting November 20, Airbnb hosts can no longer make guests do chores that require \"significant effort,\" like taking out the trash or washing dishes, under a new global policy. (Snacks)\n\n• Apple's first folding phone, the iPhone Duo, is \"a messy, expensive, good time,\" according to The Verge's review. (Snacks)\n\n• VWFNDR, an Android-only camera app, beat a Ricoh GR IV and a film camera to become one travel photographer's most-used camera, baking its pleasing color straight into the JPG and embedding content credentials in every shot. (Cool Supply)\n\n• Teenage Engineering's new $99 K.O Pedal brings live looping to the beloved K.O II sampler aesthetic, and it might be the most reasonably priced thing the company has ever made. (Cool Supply)\n\n• A \"sloppelganger\" of Kevin Roose's book is stealing his sales on Amazon, which has to be the most on-brand insult of the AI era. (Platformer)\n\n• Anne Carson just won the Nobel Prize in Literature, announced while one writer in Bermuda was mid-paragraph about never taking anyone's advice on writing. (Pony Express)\n\n• POLITICO issued a correction under White House pressure on its story about Susie Wiles setting up the press secretary's disastrous Sean Hannity interview, a black eye that has staffers frustrated. (Status)\n\n• Emily Dawn Long was named runner-up of the CFDA/Vogue Fashion Fund, and the fashion people think she is next. (SIC)",
+      "blocks": [
+        {
+          "type": "heading_1",
+          "runs": [
+            {
+              "text": "Friday, October 23, 2026 - Morning Edition",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Today's Numbers",
+              "url": "",
+              "bold": true,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "$200M",
+              "url": "https://www.wired.com/",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": ": Palmer Luckey's Warhound just came out of stealth with $200 million in funding to build genetically modified \"elite working dogs\" equipped with advanced body armor.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "31%",
+              "url": "https://counterpoint.substack.com/p/trumps-wandering-eye-edition",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": ": Trump's approval rating has sunk to 31% in a new Reuters/Ipsos poll, as Americans fume over rising prices and his handling of the economy.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "$30B",
+              "url": "https://www.cnbc.com/2026/10/22/norges-bank-nbim-wealth-fund-q3-results.html",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": ": Norway's sovereign wealth fund lost $30 billion last quarter, mostly on its government bond portfolio, yet it is still worth about $2.3 trillion.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "63%",
+              "url": "https://www.piratewires.com/",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": ": Waymo robotaxis crash about 63% less per mile than human drivers, per WaPo reporting, which makes the shadowy anti-robotaxi group in DC look even more suspicious.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "15%",
+              "url": "https://news.gallup.com/poll/716090/ordering-groceries-online-fewer-dining.aspx",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": ": 15% of Americans now order groceries online every week, up from just 4% less than a decade ago, while trips to restaurants and stores sit at their lowest since Gallup started asking.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Quotes of the Day",
+              "url": "",
+              "bold": true,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "\"We did so not in spite of, but because of our commitment to free expression.\" (president of the Columbia Open Discourse Alliance, on canceling a panel about press freedom)",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "\"Nothing looks worse than when a brand's fake honeycomb knee fades are landing half-way down your calves, or anywhere it's obvious your own leg doesn't actually bend.\" (Andrew Chen of 3Sixteen, on why his denim shop will never sell artificial distressing)",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "\"No one actually knows what they're doing.\" (Panayiota Soutis, from a night of ten big ideas shared with friends)",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "\"Boredom breeds good ideas. Being in nature breeds great ideas.\" (Panayiota Soutis, same night, on where ideas come from)",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "AI & The Machines",
+              "url": "",
+              "bold": true,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Casey Newton and Kevin Roose just launched a new AI podcast with NPR, and it is deliberately neither doomer nor booster.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " Machine Gods drops twice a week and plants its flag on what they call \"AI realism\": take the safety warnings seriously, but also ask what could go right. The second episode hands the mic to two recently fired OpenAI safety researchers to tell their side of the story. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Platformer",
+              "url": "https://www.platformer.news/",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Meta is pulling its share links feature after researchers showed how easily it exposed strangers' private chats with Muse, Meta's AI assistant.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " Ars Technica's reporting for WIRED found the design flaw let snoops read conversations other users had shared with the chatbot. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "WIRED",
+              "url": "https://www.wired.com/",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Money & Power",
+              "url": "",
+              "bold": true,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "The housing market is in a split the industry has never seen, and the closest parallel is 1966.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " Rentals are improving on nearly every data point while the for-sale market keeps sinking: September pending home sales hit a record low, homebuilder sentiment sits at a 14-year low, and mortgage purchase applications are down 18% from a year ago. The 1966 lesson is that a crowding-out slump can reverse fast, but only once prices meet buyers where they are. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "The Housing Frame",
+              "url": "https://conorsen.substack.com/p/there-hasnt-been-a-housing-market",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Netflix posted a blockbuster quarter and India did most of the heavy lifting.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " The streamer name-checked India six times in its shareholder letter, double the references to the US, with revenue up 18% and viewing hours up 24% on record subscriber adds. Caveats apply: the growth leans on a Flipkart tie-in (free mobile Netflix with a few bucks of spending) and a daily reality show called Lock Upp, its most watched Indian title ever. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Snacks",
+              "url": "https://variety.com/2026/tv/news/netflix-stock-falls-two-year-low-after-earnings-report-1236918535/",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "The Culture",
+              "url": "",
+              "bold": true,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Nathan Fielder co-directed a documentary about Elizabeth Holmes in the month before she reported to prison, and it is really about how manipulation works on smart people who already know the truth.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " In \"You Can See Everything,\" Holmes defends her Theranos-era claim that her devices \"can run any test\" by redefining \"can\" as future possibility, baffled that anyone would read it as a description of the present. The film's uncomfortable point is that the facts of Holmes's guilt do not make you immune to her charm. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "The Argument",
+              "url": "https://www.theargumentmag.com/",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "San Francisco is now so flooded with beautiful women working AI sales that Pirate Wires is reading it as a bubble signal.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " Startups flush with VC cash are buying attention instead of building products, hiring hotties for sales and growth roles while the men interviewed report clocking 10s in the Marina. Peak-froth exhibits: one AI company hired a \"Head of Coffee,\" another offers Porches to employees who refer engineers, and a third pays staff $1,000 a month to live nearby. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Pirate Wires",
+              "url": "https://www.piratewires.com/",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Quick Hits & Curiosities",
+              "url": "",
+              "bold": true,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Starting November 20, Airbnb hosts can no longer make guests do chores that require \"significant effort,\" like taking out the trash or washing dishes, under a new global policy. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Snacks",
+              "url": "https://www.theguardian.com/australia-news/2026/oct/22/airbnb-guests-freed-from-chores-involving-significant-effort-under-new-global-rules",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Apple's first folding phone, the iPhone Duo, is \"a messy, expensive, good time,\" according to The Verge's review. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Snacks",
+              "url": "https://www.theverge.com/tech/1015028/iphone-duo-review",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "VWFNDR, an Android-only camera app, beat a Ricoh GR IV and a film camera to become one travel photographer's most-used camera, baking its pleasing color straight into the JPG and embedding content credentials in every shot. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Cool Supply",
+              "url": "https://www.cool-supply.com/",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Teenage Engineering's new $99 K.O Pedal brings live looping to the beloved K.O II sampler aesthetic, and it might be the most reasonably priced thing the company has ever made. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Cool Supply",
+              "url": "https://www.cool-supply.com/",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "A \"sloppelganger\" of Kevin Roose's book is stealing his sales on Amazon, which has to be the most on-brand insult of the AI era. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Platformer",
+              "url": "https://www.platformer.news/",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Anne Carson just won the Nobel Prize in Literature, announced while one writer in Bermuda was mid-paragraph about never taking anyone's advice on writing. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Pony Express",
+              "url": "https://katesnyder.substack.com/p/its-supposed-to-feel-this-bad-everyone",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "POLITICO issued a correction under White House pressure on its story about Susie Wiles setting up the press secretary's disastrous Sean Hannity interview, a black eye that has staffers frustrated. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Status",
+              "url": "https://mail.status.news/",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Emily Dawn Long was named runner-up of the CFDA/Vogue Fashion Fund, and the fashion people think she is next. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "SIC",
+              "url": "https://sic.substack.com/p/sic-102226",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        }
+      ],
+      "publishedAt": "2026-10-23T12:01:00Z",
+      "links": [
+        {
+          "title": "WIRED",
+          "url": "https://www.wired.com/"
+        },
+        {
+          "title": "31%",
+          "url": "https://counterpoint.substack.com/p/trumps-wandering-eye-edition"
+        },
+        {
+          "title": "$30B",
+          "url": "https://www.cnbc.com/2026/10/22/norges-bank-nbim-wealth-fund-q3-results.html"
+        },
+        {
+          "title": "Pirate Wires",
+          "url": "https://www.piratewires.com/"
+        },
+        {
+          "title": "15%",
+          "url": "https://news.gallup.com/poll/716090/ordering-groceries-online-fewer-dining.aspx"
+        },
+        {
+          "title": "Platformer",
+          "url": "https://www.platformer.news/"
+        },
+        {
+          "title": "The Housing Frame",
+          "url": "https://conorsen.substack.com/p/there-hasnt-been-a-housing-market"
+        },
+        {
+          "title": "Snacks",
+          "url": "https://variety.com/2026/tv/news/netflix-stock-falls-two-year-low-after-earnings-report-1236918535/"
+        },
+        {
+          "title": "The Argument",
+          "url": "https://www.theargumentmag.com/"
+        },
+        {
+          "title": "Snacks",
+          "url": "https://www.theguardian.com/australia-news/2026/oct/22/airbnb-guests-freed-from-chores-involving-significant-effort-under-new-global-rules"
+        },
+        {
+          "title": "Snacks",
+          "url": "https://www.theverge.com/tech/1015028/iphone-duo-review"
+        },
+        {
+          "title": "Cool Supply",
+          "url": "https://www.cool-supply.com/"
+        },
+        {
+          "title": "Pony Express",
+          "url": "https://katesnyder.substack.com/p/its-supposed-to-feel-this-bad-everyone"
+        },
+        {
+          "title": "Status",
+          "url": "https://mail.status.news/"
+        },
+        {
+          "title": "SIC",
+          "url": "https://sic.substack.com/p/sic-102226"
+        }
+      ],
+      "versions": {
+        "morning": {
+          "body": "Friday, October 23, 2026 - Morning Edition\n\nToday's Numbers\n\n• $200M: Palmer Luckey's Warhound just came out of stealth with $200 million in funding to build genetically modified \"elite working dogs\" equipped with advanced body armor.\n\n• 31%: Trump's approval rating has sunk to 31% in a new Reuters/Ipsos poll, as Americans fume over rising prices and his handling of the economy.\n\n• $30B: Norway's sovereign wealth fund lost $30 billion last quarter, mostly on its government bond portfolio, yet it is still worth about $2.3 trillion.\n\n• 63%: Waymo robotaxis crash about 63% less per mile than human drivers, per WaPo reporting, which makes the shadowy anti-robotaxi group in DC look even more suspicious.\n\n• 15%: 15% of Americans now order groceries online every week, up from just 4% less than a decade ago, while trips to restaurants and stores sit at their lowest since Gallup started asking.\n\nQuotes of the Day\n\n• \"We did so not in spite of, but because of our commitment to free expression.\" (president of the Columbia Open Discourse Alliance, on canceling a panel about press freedom)\n\n• \"Nothing looks worse than when a brand's fake honeycomb knee fades are landing half-way down your calves, or anywhere it's obvious your own leg doesn't actually bend.\" (Andrew Chen of 3Sixteen, on why his denim shop will never sell artificial distressing)\n\n• \"No one actually knows what they're doing.\" (Panayiota Soutis, from a night of ten big ideas shared with friends)\n\n• \"Boredom breeds good ideas. Being in nature breeds great ideas.\" (Panayiota Soutis, same night, on where ideas come from)\n\nAI & The Machines\n\n• Casey Newton and Kevin Roose just launched a new AI podcast with NPR, and it is deliberately neither doomer nor booster. Machine Gods drops twice a week and plants its flag on what they call \"AI realism\": take the safety warnings seriously, but also ask what could go right. The second episode hands the mic to two recently fired OpenAI safety researchers to tell their side of the story. (Platformer)\n\n• Meta is pulling its share links feature after researchers showed how easily it exposed strangers' private chats with Muse, Meta's AI assistant. Ars Technica's reporting for WIRED found the design flaw let snoops read conversations other users had shared with the chatbot. (WIRED)\n\nMoney & Power\n\n• The housing market is in a split the industry has never seen, and the closest parallel is 1966. Rentals are improving on nearly every data point while the for-sale market keeps sinking: September pending home sales hit a record low, homebuilder sentiment sits at a 14-year low, and mortgage purchase applications are down 18% from a year ago. The 1966 lesson is that a crowding-out slump can reverse fast, but only once prices meet buyers where they are. (The Housing Frame)\n\n• Netflix posted a blockbuster quarter and India did most of the heavy lifting. The streamer name-checked India six times in its shareholder letter, double the references to the US, with revenue up 18% and viewing hours up 24% on record subscriber adds. Caveats apply: the growth leans on a Flipkart tie-in (free mobile Netflix with a few bucks of spending) and a daily reality show called Lock Upp, its most watched Indian title ever. (Snacks)\n\nThe Culture\n\n• Nathan Fielder co-directed a documentary about Elizabeth Holmes in the month before she reported to prison, and it is really about how manipulation works on smart people who already know the truth. In \"You Can See Everything,\" Holmes defends her Theranos-era claim that her devices \"can run any test\" by redefining \"can\" as future possibility, baffled that anyone would read it as a description of the present. The film's uncomfortable point is that the facts of Holmes's guilt do not make you immune to her charm. (The Argument)\n\n• San Francisco is now so flooded with beautiful women working AI sales that Pirate Wires is reading it as a bubble signal. Startups flush with VC cash are buying attention instead of building products, hiring hotties for sales and growth roles while the men interviewed report clocking 10s in the Marina. Peak-froth exhibits: one AI company hired a \"Head of Coffee,\" another offers Porches to employees who refer engineers, and a third pays staff $1,000 a month to live nearby. (Pirate Wires)\n\nQuick Hits & Curiosities\n\n• Starting November 20, Airbnb hosts can no longer make guests do chores that require \"significant effort,\" like taking out the trash or washing dishes, under a new global policy. (Snacks)\n\n• Apple's first folding phone, the iPhone Duo, is \"a messy, expensive, good time,\" according to The Verge's review. (Snacks)\n\n• VWFNDR, an Android-only camera app, beat a Ricoh GR IV and a film camera to become one travel photographer's most-used camera, baking its pleasing color straight into the JPG and embedding content credentials in every shot. (Cool Supply)\n\n• Teenage Engineering's new $99 K.O Pedal brings live looping to the beloved K.O II sampler aesthetic, and it might be the most reasonably priced thing the company has ever made. (Cool Supply)\n\n• A \"sloppelganger\" of Kevin Roose's book is stealing his sales on Amazon, which has to be the most on-brand insult of the AI era. (Platformer)\n\n• Anne Carson just won the Nobel Prize in Literature, announced while one writer in Bermuda was mid-paragraph about never taking anyone's advice on writing. (Pony Express)\n\n• POLITICO issued a correction under White House pressure on its story about Susie Wiles setting up the press secretary's disastrous Sean Hannity interview, a black eye that has staffers frustrated. (Status)\n\n• Emily Dawn Long was named runner-up of the CFDA/Vogue Fashion Fund, and the fashion people think she is next. (SIC)",
+          "blocks": [
+            {
+              "type": "heading_1",
+              "runs": [
+                {
+                  "text": "Friday, October 23, 2026 - Morning Edition",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Today's Numbers",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "$200M",
+                  "url": "https://www.wired.com/",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": Palmer Luckey's Warhound just came out of stealth with $200 million in funding to build genetically modified \"elite working dogs\" equipped with advanced body armor.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "31%",
+                  "url": "https://counterpoint.substack.com/p/trumps-wandering-eye-edition",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": Trump's approval rating has sunk to 31% in a new Reuters/Ipsos poll, as Americans fume over rising prices and his handling of the economy.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "$30B",
+                  "url": "https://www.cnbc.com/2026/10/22/norges-bank-nbim-wealth-fund-q3-results.html",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": Norway's sovereign wealth fund lost $30 billion last quarter, mostly on its government bond portfolio, yet it is still worth about $2.3 trillion.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "63%",
+                  "url": "https://www.piratewires.com/",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": Waymo robotaxis crash about 63% less per mile than human drivers, per WaPo reporting, which makes the shadowy anti-robotaxi group in DC look even more suspicious.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "15%",
+                  "url": "https://news.gallup.com/poll/716090/ordering-groceries-online-fewer-dining.aspx",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": 15% of Americans now order groceries online every week, up from just 4% less than a decade ago, while trips to restaurants and stores sit at their lowest since Gallup started asking.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Quotes of the Day",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "\"We did so not in spite of, but because of our commitment to free expression.\" (president of the Columbia Open Discourse Alliance, on canceling a panel about press freedom)",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "\"Nothing looks worse than when a brand's fake honeycomb knee fades are landing half-way down your calves, or anywhere it's obvious your own leg doesn't actually bend.\" (Andrew Chen of 3Sixteen, on why his denim shop will never sell artificial distressing)",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "\"No one actually knows what they're doing.\" (Panayiota Soutis, from a night of ten big ideas shared with friends)",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "\"Boredom breeds good ideas. Being in nature breeds great ideas.\" (Panayiota Soutis, same night, on where ideas come from)",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "AI & The Machines",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Casey Newton and Kevin Roose just launched a new AI podcast with NPR, and it is deliberately neither doomer nor booster.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " Machine Gods drops twice a week and plants its flag on what they call \"AI realism\": take the safety warnings seriously, but also ask what could go right. The second episode hands the mic to two recently fired OpenAI safety researchers to tell their side of the story. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Platformer",
+                  "url": "https://www.platformer.news/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Meta is pulling its share links feature after researchers showed how easily it exposed strangers' private chats with Muse, Meta's AI assistant.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " Ars Technica's reporting for WIRED found the design flaw let snoops read conversations other users had shared with the chatbot. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "WIRED",
+                  "url": "https://www.wired.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Money & Power",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "The housing market is in a split the industry has never seen, and the closest parallel is 1966.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " Rentals are improving on nearly every data point while the for-sale market keeps sinking: September pending home sales hit a record low, homebuilder sentiment sits at a 14-year low, and mortgage purchase applications are down 18% from a year ago. The 1966 lesson is that a crowding-out slump can reverse fast, but only once prices meet buyers where they are. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "The Housing Frame",
+                  "url": "https://conorsen.substack.com/p/there-hasnt-been-a-housing-market",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Netflix posted a blockbuster quarter and India did most of the heavy lifting.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " The streamer name-checked India six times in its shareholder letter, double the references to the US, with revenue up 18% and viewing hours up 24% on record subscriber adds. Caveats apply: the growth leans on a Flipkart tie-in (free mobile Netflix with a few bucks of spending) and a daily reality show called Lock Upp, its most watched Indian title ever. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Snacks",
+                  "url": "https://variety.com/2026/tv/news/netflix-stock-falls-two-year-low-after-earnings-report-1236918535/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "The Culture",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Nathan Fielder co-directed a documentary about Elizabeth Holmes in the month before she reported to prison, and it is really about how manipulation works on smart people who already know the truth.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " In \"You Can See Everything,\" Holmes defends her Theranos-era claim that her devices \"can run any test\" by redefining \"can\" as future possibility, baffled that anyone would read it as a description of the present. The film's uncomfortable point is that the facts of Holmes's guilt do not make you immune to her charm. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "The Argument",
+                  "url": "https://www.theargumentmag.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "San Francisco is now so flooded with beautiful women working AI sales that Pirate Wires is reading it as a bubble signal.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " Startups flush with VC cash are buying attention instead of building products, hiring hotties for sales and growth roles while the men interviewed report clocking 10s in the Marina. Peak-froth exhibits: one AI company hired a \"Head of Coffee,\" another offers Porches to employees who refer engineers, and a third pays staff $1,000 a month to live nearby. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Pirate Wires",
+                  "url": "https://www.piratewires.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Quick Hits & Curiosities",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Starting November 20, Airbnb hosts can no longer make guests do chores that require \"significant effort,\" like taking out the trash or washing dishes, under a new global policy. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Snacks",
+                  "url": "https://www.theguardian.com/australia-news/2026/oct/22/airbnb-guests-freed-from-chores-involving-significant-effort-under-new-global-rules",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Apple's first folding phone, the iPhone Duo, is \"a messy, expensive, good time,\" according to The Verge's review. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Snacks",
+                  "url": "https://www.theverge.com/tech/1015028/iphone-duo-review",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "VWFNDR, an Android-only camera app, beat a Ricoh GR IV and a film camera to become one travel photographer's most-used camera, baking its pleasing color straight into the JPG and embedding content credentials in every shot. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Cool Supply",
+                  "url": "https://www.cool-supply.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Teenage Engineering's new $99 K.O Pedal brings live looping to the beloved K.O II sampler aesthetic, and it might be the most reasonably priced thing the company has ever made. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Cool Supply",
+                  "url": "https://www.cool-supply.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "A \"sloppelganger\" of Kevin Roose's book is stealing his sales on Amazon, which has to be the most on-brand insult of the AI era. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Platformer",
+                  "url": "https://www.platformer.news/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Anne Carson just won the Nobel Prize in Literature, announced while one writer in Bermuda was mid-paragraph about never taking anyone's advice on writing. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Pony Express",
+                  "url": "https://katesnyder.substack.com/p/its-supposed-to-feel-this-bad-everyone",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "POLITICO issued a correction under White House pressure on its story about Susie Wiles setting up the press secretary's disastrous Sean Hannity interview, a black eye that has staffers frustrated. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Status",
+                  "url": "https://mail.status.news/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Emily Dawn Long was named runner-up of the CFDA/Vogue Fashion Fund, and the fashion people think she is next. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "SIC",
+                  "url": "https://sic.substack.com/p/sic-102226",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            }
+          ],
+          "links": [
+            {
+              "title": "WIRED",
+              "url": "https://www.wired.com/"
+            },
+            {
+              "title": "31%",
+              "url": "https://counterpoint.substack.com/p/trumps-wandering-eye-edition"
+            },
+            {
+              "title": "$30B",
+              "url": "https://www.cnbc.com/2026/10/22/norges-bank-nbim-wealth-fund-q3-results.html"
+            },
+            {
+              "title": "Pirate Wires",
+              "url": "https://www.piratewires.com/"
+            },
+            {
+              "title": "15%",
+              "url": "https://news.gallup.com/poll/716090/ordering-groceries-online-fewer-dining.aspx"
+            },
+            {
+              "title": "Platformer",
+              "url": "https://www.platformer.news/"
+            },
+            {
+              "title": "The Housing Frame",
+              "url": "https://conorsen.substack.com/p/there-hasnt-been-a-housing-market"
+            },
+            {
+              "title": "Snacks",
+              "url": "https://variety.com/2026/tv/news/netflix-stock-falls-two-year-low-after-earnings-report-1236918535/"
+            },
+            {
+              "title": "The Argument",
+              "url": "https://www.theargumentmag.com/"
+            },
+            {
+              "title": "Snacks",
+              "url": "https://www.theguardian.com/australia-news/2026/oct/22/airbnb-guests-freed-from-chores-involving-significant-effort-under-new-global-rules"
+            },
+            {
+              "title": "Snacks",
+              "url": "https://www.theverge.com/tech/1015028/iphone-duo-review"
+            },
+            {
+              "title": "Cool Supply",
+              "url": "https://www.cool-supply.com/"
+            },
+            {
+              "title": "Pony Express",
+              "url": "https://katesnyder.substack.com/p/its-supposed-to-feel-this-bad-everyone"
+            },
+            {
+              "title": "Status",
+              "url": "https://mail.status.news/"
+            },
+            {
+              "title": "SIC",
+              "url": "https://sic.substack.com/p/sic-102226"
+            }
+          ]
+        },
+        "full": {
+          "body": "Friday, October 23, 2026 - Morning Edition\n\nToday's Numbers\n\n• $200M: Palmer Luckey's Warhound just came out of stealth with $200 million in funding to build genetically modified \"elite working dogs\" equipped with advanced body armor.\n\n• 31%: Trump's approval rating has sunk to 31% in a new Reuters/Ipsos poll, as Americans fume over rising prices and his handling of the economy.\n\n• $30B: Norway's sovereign wealth fund lost $30 billion last quarter, mostly on its government bond portfolio, yet it is still worth about $2.3 trillion.\n\n• 63%: Waymo robotaxis crash about 63% less per mile than human drivers, per WaPo reporting, which makes the shadowy anti-robotaxi group in DC look even more suspicious.\n\n• 15%: 15% of Americans now order groceries online every week, up from just 4% less than a decade ago, while trips to restaurants and stores sit at their lowest since Gallup started asking.\n\nQuotes of the Day\n\n• \"We did so not in spite of, but because of our commitment to free expression.\" (president of the Columbia Open Discourse Alliance, on canceling a panel about press freedom)\n\n• \"Nothing looks worse than when a brand's fake honeycomb knee fades are landing half-way down your calves, or anywhere it's obvious your own leg doesn't actually bend.\" (Andrew Chen of 3Sixteen, on why his denim shop will never sell artificial distressing)\n\n• \"No one actually knows what they're doing.\" (Panayiota Soutis, from a night of ten big ideas shared with friends)\n\n• \"Boredom breeds good ideas. Being in nature breeds great ideas.\" (Panayiota Soutis, same night, on where ideas come from)\n\nAI & The Machines\n\n• Casey Newton and Kevin Roose just launched a new AI podcast with NPR, and it is deliberately neither doomer nor booster. Machine Gods drops twice a week and plants its flag on what they call \"AI realism\": take the safety warnings seriously, but also ask what could go right. The second episode hands the mic to two recently fired OpenAI safety researchers to tell their side of the story. (Platformer)\n\n• Meta is pulling its share links feature after researchers showed how easily it exposed strangers' private chats with Muse, Meta's AI assistant. Ars Technica's reporting for WIRED found the design flaw let snoops read conversations other users had shared with the chatbot. (WIRED)\n\nMoney & Power\n\n• The housing market is in a split the industry has never seen, and the closest parallel is 1966. Rentals are improving on nearly every data point while the for-sale market keeps sinking: September pending home sales hit a record low, homebuilder sentiment sits at a 14-year low, and mortgage purchase applications are down 18% from a year ago. The 1966 lesson is that a crowding-out slump can reverse fast, but only once prices meet buyers where they are. (The Housing Frame)\n\n• Netflix posted a blockbuster quarter and India did most of the heavy lifting. The streamer name-checked India six times in its shareholder letter, double the references to the US, with revenue up 18% and viewing hours up 24% on record subscriber adds. Caveats apply: the growth leans on a Flipkart tie-in (free mobile Netflix with a few bucks of spending) and a daily reality show called Lock Upp, its most watched Indian title ever. (Snacks)\n\nThe Culture\n\n• Nathan Fielder co-directed a documentary about Elizabeth Holmes in the month before she reported to prison, and it is really about how manipulation works on smart people who already know the truth. In \"You Can See Everything,\" Holmes defends her Theranos-era claim that her devices \"can run any test\" by redefining \"can\" as future possibility, baffled that anyone would read it as a description of the present. The film's uncomfortable point is that the facts of Holmes's guilt do not make you immune to her charm. (The Argument)\n\n• San Francisco is now so flooded with beautiful women working AI sales that Pirate Wires is reading it as a bubble signal. Startups flush with VC cash are buying attention instead of building products, hiring hotties for sales and growth roles while the men interviewed report clocking 10s in the Marina. Peak-froth exhibits: one AI company hired a \"Head of Coffee,\" another offers Porches to employees who refer engineers, and a third pays staff $1,000 a month to live nearby. (Pirate Wires)\n\nQuick Hits & Curiosities\n\n• Starting November 20, Airbnb hosts can no longer make guests do chores that require \"significant effort,\" like taking out the trash or washing dishes, under a new global policy. (Snacks)\n\n• Apple's first folding phone, the iPhone Duo, is \"a messy, expensive, good time,\" according to The Verge's review. (Snacks)\n\n• VWFNDR, an Android-only camera app, beat a Ricoh GR IV and a film camera to become one travel photographer's most-used camera, baking its pleasing color straight into the JPG and embedding content credentials in every shot. (Cool Supply)\n\n• Teenage Engineering's new $99 K.O Pedal brings live looping to the beloved K.O II sampler aesthetic, and it might be the most reasonably priced thing the company has ever made. (Cool Supply)\n\n• A \"sloppelganger\" of Kevin Roose's book is stealing his sales on Amazon, which has to be the most on-brand insult of the AI era. (Platformer)\n\n• Anne Carson just won the Nobel Prize in Literature, announced while one writer in Bermuda was mid-paragraph about never taking anyone's advice on writing. (Pony Express)\n\n• POLITICO issued a correction under White House pressure on its story about Susie Wiles setting up the press secretary's disastrous Sean Hannity interview, a black eye that has staffers frustrated. (Status)\n\n• Emily Dawn Long was named runner-up of the CFDA/Vogue Fashion Fund, and the fashion people think she is next. (SIC)",
+          "blocks": [
+            {
+              "type": "heading_1",
+              "runs": [
+                {
+                  "text": "Friday, October 23, 2026 - Morning Edition",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Today's Numbers",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "$200M",
+                  "url": "https://www.wired.com/",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": Palmer Luckey's Warhound just came out of stealth with $200 million in funding to build genetically modified \"elite working dogs\" equipped with advanced body armor.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "31%",
+                  "url": "https://counterpoint.substack.com/p/trumps-wandering-eye-edition",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": Trump's approval rating has sunk to 31% in a new Reuters/Ipsos poll, as Americans fume over rising prices and his handling of the economy.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "$30B",
+                  "url": "https://www.cnbc.com/2026/10/22/norges-bank-nbim-wealth-fund-q3-results.html",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": Norway's sovereign wealth fund lost $30 billion last quarter, mostly on its government bond portfolio, yet it is still worth about $2.3 trillion.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "63%",
+                  "url": "https://www.piratewires.com/",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": Waymo robotaxis crash about 63% less per mile than human drivers, per WaPo reporting, which makes the shadowy anti-robotaxi group in DC look even more suspicious.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "15%",
+                  "url": "https://news.gallup.com/poll/716090/ordering-groceries-online-fewer-dining.aspx",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": 15% of Americans now order groceries online every week, up from just 4% less than a decade ago, while trips to restaurants and stores sit at their lowest since Gallup started asking.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Quotes of the Day",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "\"We did so not in spite of, but because of our commitment to free expression.\" (president of the Columbia Open Discourse Alliance, on canceling a panel about press freedom)",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "\"Nothing looks worse than when a brand's fake honeycomb knee fades are landing half-way down your calves, or anywhere it's obvious your own leg doesn't actually bend.\" (Andrew Chen of 3Sixteen, on why his denim shop will never sell artificial distressing)",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "\"No one actually knows what they're doing.\" (Panayiota Soutis, from a night of ten big ideas shared with friends)",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "\"Boredom breeds good ideas. Being in nature breeds great ideas.\" (Panayiota Soutis, same night, on where ideas come from)",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "AI & The Machines",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Casey Newton and Kevin Roose just launched a new AI podcast with NPR, and it is deliberately neither doomer nor booster.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " Machine Gods drops twice a week and plants its flag on what they call \"AI realism\": take the safety warnings seriously, but also ask what could go right. The second episode hands the mic to two recently fired OpenAI safety researchers to tell their side of the story. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Platformer",
+                  "url": "https://www.platformer.news/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Meta is pulling its share links feature after researchers showed how easily it exposed strangers' private chats with Muse, Meta's AI assistant.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " Ars Technica's reporting for WIRED found the design flaw let snoops read conversations other users had shared with the chatbot. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "WIRED",
+                  "url": "https://www.wired.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Money & Power",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "The housing market is in a split the industry has never seen, and the closest parallel is 1966.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " Rentals are improving on nearly every data point while the for-sale market keeps sinking: September pending home sales hit a record low, homebuilder sentiment sits at a 14-year low, and mortgage purchase applications are down 18% from a year ago. The 1966 lesson is that a crowding-out slump can reverse fast, but only once prices meet buyers where they are. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "The Housing Frame",
+                  "url": "https://conorsen.substack.com/p/there-hasnt-been-a-housing-market",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Netflix posted a blockbuster quarter and India did most of the heavy lifting.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " The streamer name-checked India six times in its shareholder letter, double the references to the US, with revenue up 18% and viewing hours up 24% on record subscriber adds. Caveats apply: the growth leans on a Flipkart tie-in (free mobile Netflix with a few bucks of spending) and a daily reality show called Lock Upp, its most watched Indian title ever. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Snacks",
+                  "url": "https://variety.com/2026/tv/news/netflix-stock-falls-two-year-low-after-earnings-report-1236918535/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "The Culture",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Nathan Fielder co-directed a documentary about Elizabeth Holmes in the month before she reported to prison, and it is really about how manipulation works on smart people who already know the truth.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " In \"You Can See Everything,\" Holmes defends her Theranos-era claim that her devices \"can run any test\" by redefining \"can\" as future possibility, baffled that anyone would read it as a description of the present. The film's uncomfortable point is that the facts of Holmes's guilt do not make you immune to her charm. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "The Argument",
+                  "url": "https://www.theargumentmag.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "San Francisco is now so flooded with beautiful women working AI sales that Pirate Wires is reading it as a bubble signal.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " Startups flush with VC cash are buying attention instead of building products, hiring hotties for sales and growth roles while the men interviewed report clocking 10s in the Marina. Peak-froth exhibits: one AI company hired a \"Head of Coffee,\" another offers Porches to employees who refer engineers, and a third pays staff $1,000 a month to live nearby. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Pirate Wires",
+                  "url": "https://www.piratewires.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Quick Hits & Curiosities",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Starting November 20, Airbnb hosts can no longer make guests do chores that require \"significant effort,\" like taking out the trash or washing dishes, under a new global policy. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Snacks",
+                  "url": "https://www.theguardian.com/australia-news/2026/oct/22/airbnb-guests-freed-from-chores-involving-significant-effort-under-new-global-rules",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Apple's first folding phone, the iPhone Duo, is \"a messy, expensive, good time,\" according to The Verge's review. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Snacks",
+                  "url": "https://www.theverge.com/tech/1015028/iphone-duo-review",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "VWFNDR, an Android-only camera app, beat a Ricoh GR IV and a film camera to become one travel photographer's most-used camera, baking its pleasing color straight into the JPG and embedding content credentials in every shot. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Cool Supply",
+                  "url": "https://www.cool-supply.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Teenage Engineering's new $99 K.O Pedal brings live looping to the beloved K.O II sampler aesthetic, and it might be the most reasonably priced thing the company has ever made. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Cool Supply",
+                  "url": "https://www.cool-supply.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "A \"sloppelganger\" of Kevin Roose's book is stealing his sales on Amazon, which has to be the most on-brand insult of the AI era. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Platformer",
+                  "url": "https://www.platformer.news/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Anne Carson just won the Nobel Prize in Literature, announced while one writer in Bermuda was mid-paragraph about never taking anyone's advice on writing. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Pony Express",
+                  "url": "https://katesnyder.substack.com/p/its-supposed-to-feel-this-bad-everyone",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "POLITICO issued a correction under White House pressure on its story about Susie Wiles setting up the press secretary's disastrous Sean Hannity interview, a black eye that has staffers frustrated. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Status",
+                  "url": "https://mail.status.news/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Emily Dawn Long was named runner-up of the CFDA/Vogue Fashion Fund, and the fashion people think she is next. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "SIC",
+                  "url": "https://sic.substack.com/p/sic-102226",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            }
+          ],
+          "links": [
+            {
+              "title": "WIRED",
+              "url": "https://www.wired.com/"
+            },
+            {
+              "title": "31%",
+              "url": "https://counterpoint.substack.com/p/trumps-wandering-eye-edition"
+            },
+            {
+              "title": "$30B",
+              "url": "https://www.cnbc.com/2026/10/22/norges-bank-nbim-wealth-fund-q3-results.html"
+            },
+            {
+              "title": "Pirate Wires",
+              "url": "https://www.piratewires.com/"
+            },
+            {
+              "title": "15%",
+              "url": "https://news.gallup.com/poll/716090/ordering-groceries-online-fewer-dining.aspx"
+            },
+            {
+              "title": "Platformer",
+              "url": "https://www.platformer.news/"
+            },
+            {
+              "title": "The Housing Frame",
+              "url": "https://conorsen.substack.com/p/there-hasnt-been-a-housing-market"
+            },
+            {
+              "title": "Snacks",
+              "url": "https://variety.com/2026/tv/news/netflix-stock-falls-two-year-low-after-earnings-report-1236918535/"
+            },
+            {
+              "title": "The Argument",
+              "url": "https://www.theargumentmag.com/"
+            },
+            {
+              "title": "Snacks",
+              "url": "https://www.theguardian.com/australia-news/2026/oct/22/airbnb-guests-freed-from-chores-involving-significant-effort-under-new-global-rules"
+            },
+            {
+              "title": "Snacks",
+              "url": "https://www.theverge.com/tech/1015028/iphone-duo-review"
+            },
+            {
+              "title": "Cool Supply",
+              "url": "https://www.cool-supply.com/"
+            },
+            {
+              "title": "Pony Express",
+              "url": "https://katesnyder.substack.com/p/its-supposed-to-feel-this-bad-everyone"
+            },
+            {
+              "title": "Status",
+              "url": "https://mail.status.news/"
+            },
+            {
+              "title": "SIC",
+              "url": "https://sic.substack.com/p/sic-102226"
+            }
+          ]
+        }
+      }
     }
   ]
 }
