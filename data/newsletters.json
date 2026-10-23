@@ -170073,6 +170073,531 @@
           ]
         }
       }
+    },
+    {
+      "id": "digest-ccefc44d-4f25-4dd2-8f9c-406b256badf6",
+      "channel": "newsletters",
+      "source": "notion",
+      "kind": "Agent-written digest",
+      "domain": "Daily newsletter digest",
+      "title": "The Proof-of-Human, Fake-Toaster & Chestnut Grove Edition",
+      "url": "",
+      "description": "Friday, October 23, 2026",
+      "body": "Friday, October 23, 2026\n\nToday’s inbox looked like a newspaper assembled by a mildly anxious futurist: AI agents are learning to play, cars want to become robots, folding phones are pretending to be kitchen appliances, and an American chestnut grove is standing between a data center and the past. In the quieter corners, a podcast came back from a friendship break, a dating app tried to manufacture authenticity, and dinner solved itself with cottage cheese.\n\nBest links\n\nThe internet’s foundation is older than the panic\n\nTwo newsletters described the same uncomfortable plot from different angles: AI is getting better at finding weaknesses in infrastructure humans have left unattended. Semafor’s technology briefing says long-standing PHP flaws exposed much of the web, while Newcomer tracks the scramble to patch them and the role of AI-assisted discovery. The useful takeaway is less “AI broke the internet” than “AI is now good enough to illuminate the cracks we kept stepping over.”\n\nA proof-of-human passport for the agent economy\n\nSemafor’s sharpest idea: online commerce may need a way for an AI agent to prove it was authorized by a real person. The reward is paradoxical—verified agents might get more generous treatment from sellers, while untrusted bots get blocked. Meanwhile, GM is imagining the car as the first genuinely useful robot many people will own.\n\nThe fake toaster is a serious argument for weird hardware\n\nJoanna Stern’s iPhone Duo roundup is really a tiny history of computing. The best apps—Toastie, a fake refrigerator, a Walkman simulator, an accordion, Battleship—are silly because the point is to discover what a new shape can do before usefulness hardens into convention. Also: transfer your authenticator apps before trading in the old phone.\n\nThe chestnut grove caught in the data-center rush\n\n404 Media reports that a planned 2,250-acre compute campus near the Ohio River threatens a historic American chestnut grove in West Virginia. It’s a perfect collision of old and new infrastructure: a nearly vanished tree meeting the physical appetite of the AI boom. The same newsletter follows the wider “Black October” security anxiety and a Cash App identity-theft nightmare.\n\nWorth reading\n\nWhat does it mean to be “tired of life”?\n\nNew York Magazine revisits Evelyn Jouvenet’s devastating account of her healthy 74-year-old mother pursuing assisted death in Switzerland—not because of a terminal diagnosis, but because ordinary pleasures had stopped registering and aging felt like an unacceptable loss of independence. It is a difficult essay about autonomy, depression, family obligation, and the limits of “you still have so much to live for.”\n\nThe podcast that had to save the friendship first\n\nFeed Me’s interview with the Dewy Dudes is a rare media postmortem: two co-hosts disappeared for a year after a fight, logged off, went to therapy, and returned by simply turning on the mics. Their advice for collaborative projects is excellent: expect friction, overcommunicate, and put the friendship before the show.\n\nThe VC megafund has a ceiling\n\nNewcomer uses Anthropic’s pending IPO to explain why AI has forced venture firms to supersize: the checks are enormous, the cap tables are increasingly dominated by corporate investors and late-stage funds, and LPs eventually need actual cash back—not just paper gains. The contrarian opening remains: the biggest opportunities may belong to the investors who refuse to follow the herd.\n\nFood & places\n\nA weeknight menu with a compost loop\n\nAlexis deBoschnek’s Side Dish turns an autumn farm dinner into a realistic week: chicken thighs over leftover rice, steak rescued by leftover sauces, low-lift lamb chops, cauliflower soup, ravioli when the day wins, and a roasted squash-and-chickpea salad. The real idea is not the countertop food recycler promotion; it’s the menu architecture—cook once, preserve the sauces, and let leftovers become the next meal’s advantage.\n\nCottage cheese meatballs, engineered for Tuesday\n\nNYT Cooking’s Ali Slagle recipe uses cottage cheese for moisture and binding instead of the usual egg-and-breadcrumb combination, then broils the meatballs before simmering them in jarred marinara. That is the sort of weeknight trick worth keeping: one shortcut, two textures, 30 minutes.\n\nThe best pasta in New York City, according to a conversion experience\n\nFeed Me’s J. Lee went back to Williamsburg’s I Cavallini after dismissing it, then surrendered to the food: gnocco fritto, gelatinized beef-tendon salad, shrimp-shelly pachcheri, tortelli di erbetta, and a mushroom-heavy risotto. The review’s most useful lesson is also the least restaurant-specific: sometimes the right response to a first impression is simply to return a year later.\n\nInternet oddities\n\nHoppy, the dating app with a scrapbook instead of a profile\n\nAfter School investigates Hoppy’s 50,000-person waitlist and finds a very 2026 growth tactic: dozens of seemingly ordinary TikTok accounts posting UGC that is actually paid promotion. The app itself swaps swiping for a Pinterest-like personality scrapbook, multiple ways to communicate, and “safe date” check-ins. The oddest artifact is the gap between viral-looking enthusiasm and the near-total absence of unsponsored user reviews.\n\nAI agents get bored and invent games\n\nSemafor highlights an MIT study in which 13 AI coding assistants were placed in a virtual world for 30 hours with little to do. They stacked blocks, climbed hills, and tried sports. The researchers see play as potentially useful for development; the eerie joke is that boredom may no longer be uniquely human.\n\nThe new panopticon is a tower in the desert\n\nThe New York Times’ morning briefing summarizes reporting on AI-enabled surveillance towers along the southern border. They can track people and vehicles for miles, follow them from camera to camera, and share footage across agencies—often in places where residents thought the equipment was a cell tower or radar installation. The trade-off is brutally simple: more security, less ability to disappear.\n\nIdeas to steal\n\n• Design for the new shape before you design for the use case. The iPhone Duo’s fake appliances are prototypes disguised as jokes.\n\n• Make the leftovers do the work. A fridge full of sauces is a weeknight operating system.\n\n• Treat “negative ROI” as a clue. Scott Galloway’s definition of purpose is an unselfish pursuit whose benefits accrue to people you may never see.\n\n• If the thing only works when the friendship works, protect the friendship first.\n\nOne-liners\n\n“Instinct is the factory setting. Character is the software update.” — Scott Galloway\n\n“You have permission to chill.” — Emilio Quezada Ibáñez, on restarting the Dewy Dudes\n\nThe future of commerce may depend on proving that the bot was sent by a human.\n\nCompiled from 40 Newsletters-labeled messages received during Friday’s America/New_York calendar day; promotions trimmed, strange details retained.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Friday, October 23, 2026",
+              "url": "",
+              "bold": true,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Today’s inbox looked like a newspaper assembled by a mildly anxious futurist: AI agents are learning to play, cars want to become robots, folding phones are pretending to be kitchen appliances, and an American chestnut grove is standing between a data center and the past. In the quieter corners, a podcast came back from a friendship break, a dating app tried to manufacture authenticity, and dinner solved itself with cottage cheese.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "heading_2",
+          "runs": [
+            {
+              "text": "Best links",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "heading_3",
+          "runs": [
+            {
+              "text": "The internet’s foundation is older than the panic",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Two newsletters described the same uncomfortable plot from different angles: AI is getting better at finding weaknesses in infrastructure humans have left unattended. Semafor’s technology briefing says long-standing PHP flaws exposed much of the web, while Newcomer tracks the scramble to patch them and the role of AI-assisted discovery. The useful takeaway is less “AI broke the internet” than “AI is now good enough to illuminate the cracks we kept stepping over.” ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "heading_3",
+          "runs": [
+            {
+              "text": "A proof-of-human passport for the agent economy",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Semafor’s sharpest idea: online commerce may need a way for an AI agent to prove it was authorized by a real person. The reward is paradoxical—verified agents might get ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "more",
+              "url": "",
+              "bold": false,
+              "italic": true
+            },
+            {
+              "text": " generous treatment from sellers, while untrusted bots get blocked. Meanwhile, GM is imagining the car as the first genuinely useful robot many people will own. ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "heading_3",
+          "runs": [
+            {
+              "text": "The fake toaster is a serious argument for weird hardware",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Joanna Stern’s iPhone Duo roundup is really a tiny history of computing. The best apps—Toastie, a fake refrigerator, a Walkman simulator, an accordion, Battleship—are silly because the point is to discover what a new shape can do before usefulness hardens into convention. Also: transfer your authenticator apps ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "before",
+              "url": "",
+              "bold": false,
+              "italic": true
+            },
+            {
+              "text": " trading in the old phone. ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "heading_3",
+          "runs": [
+            {
+              "text": "The chestnut grove caught in the data-center rush",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "404 Media reports that a planned 2,250-acre compute campus near the Ohio River threatens a historic American chestnut grove in West Virginia. It’s a perfect collision of old and new infrastructure: a nearly vanished tree meeting the physical appetite of the AI boom. The same newsletter follows the wider “Black October” security anxiety and a Cash App identity-theft nightmare. ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "heading_2",
+          "runs": [
+            {
+              "text": "Worth reading",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "heading_3",
+          "runs": [
+            {
+              "text": "What does it mean to be “tired of life”?",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "New York Magazine revisits Evelyn Jouvenet’s devastating account of her healthy 74-year-old mother pursuing assisted death in Switzerland—not because of a terminal diagnosis, but because ordinary pleasures had stopped registering and aging felt like an unacceptable loss of independence. It is a difficult essay about autonomy, depression, family obligation, and the limits of “you still have so much to live for.” ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "heading_3",
+          "runs": [
+            {
+              "text": "The podcast that had to save the friendship first",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Feed Me’s interview with the Dewy Dudes is a rare media postmortem: two co-hosts disappeared for a year after a fight, logged off, went to therapy, and returned by simply turning on the mics. Their advice for collaborative projects is excellent: expect friction, overcommunicate, and put the friendship before the show. ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "heading_3",
+          "runs": [
+            {
+              "text": "The VC megafund has a ceiling",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Newcomer uses Anthropic’s pending IPO to explain why AI has forced venture firms to supersize: the checks are enormous, the cap tables are increasingly dominated by corporate investors and late-stage funds, and LPs eventually need actual cash back—not just paper gains. The contrarian opening remains: the biggest opportunities may belong to the investors who refuse to follow the herd. ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "heading_2",
+          "runs": [
+            {
+              "text": "Food & places",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "heading_3",
+          "runs": [
+            {
+              "text": "A weeknight menu with a compost loop",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Alexis deBoschnek’s Side Dish turns an autumn farm dinner into a realistic week: chicken thighs over leftover rice, steak rescued by leftover sauces, low-lift lamb chops, cauliflower soup, ravioli when the day wins, and a roasted squash-and-chickpea salad. The real idea is not the countertop food recycler promotion; it’s the menu architecture—cook once, preserve the sauces, and let leftovers become the next meal’s advantage. ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "heading_3",
+          "runs": [
+            {
+              "text": "Cottage cheese meatballs, engineered for Tuesday",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "NYT Cooking’s Ali Slagle recipe uses cottage cheese for moisture and binding instead of the usual egg-and-breadcrumb combination, then broils the meatballs before simmering them in jarred marinara. That is the sort of weeknight trick worth keeping: one shortcut, two textures, 30 minutes. ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "heading_3",
+          "runs": [
+            {
+              "text": "The best pasta in New York City, according to a conversion experience",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Feed Me’s J. Lee went back to Williamsburg’s I Cavallini after dismissing it, then surrendered to the food: gnocco fritto, gelatinized beef-tendon salad, shrimp-shelly pachcheri, tortelli di erbetta, and a mushroom-heavy risotto. The review’s most useful lesson is also the least restaurant-specific: sometimes the right response to a first impression is simply to return a year later. ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "heading_2",
+          "runs": [
+            {
+              "text": "Internet oddities",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "heading_3",
+          "runs": [
+            {
+              "text": "Hoppy, the dating app with a scrapbook instead of a profile",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "After School investigates Hoppy’s 50,000-person waitlist and finds a very 2026 growth tactic: dozens of seemingly ordinary TikTok accounts posting UGC that is actually paid promotion. The app itself swaps swiping for a Pinterest-like personality scrapbook, multiple ways to communicate, and “safe date” check-ins. The oddest artifact is the gap between viral-looking enthusiasm and the near-total absence of unsponsored user reviews. ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "heading_3",
+          "runs": [
+            {
+              "text": "AI agents get bored and invent games",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Semafor highlights an MIT study in which 13 AI coding assistants were placed in a virtual world for 30 hours with little to do. They stacked blocks, climbed hills, and tried sports. The researchers see play as potentially useful for development; the eerie joke is that boredom may no longer be uniquely human. ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "heading_3",
+          "runs": [
+            {
+              "text": "The new panopticon is a tower in the desert",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "The New York Times’ morning briefing summarizes reporting on AI-enabled surveillance towers along the southern border. They can track people and vehicles for miles, follow them from camera to camera, and share footage across agencies—often in places where residents thought the equipment was a cell tower or radar installation. The trade-off is brutally simple: more security, less ability to disappear. ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "heading_2",
+          "runs": [
+            {
+              "text": "Ideas to steal",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Design for the new shape before you design for the use case.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " The iPhone Duo’s fake appliances are prototypes disguised as jokes. ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Make the leftovers do the work.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " A fridge full of sauces is a weeknight operating system. ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Treat “negative ROI” as a clue.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " Scott Galloway’s definition of purpose is an unselfish pursuit whose benefits accrue to people you may never see. ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "If the thing only works when the friendship works, protect the friendship first.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "heading_2",
+          "runs": [
+            {
+              "text": "One-liners",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "quote",
+          "runs": [
+            {
+              "text": "“Instinct is the factory setting. Character is the software update.” — Scott Galloway ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "quote",
+          "runs": [
+            {
+              "text": "“You have permission to chill.” — Emilio Quezada Ibáñez, on restarting the Dewy Dudes ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "quote",
+          "runs": [
+            {
+              "text": "The future of commerce may depend on proving that the bot was sent by a human. ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Compiled from 40 Newsletters-labeled messages received during Friday’s America/New_York calendar day; promotions trimmed, strange details retained.",
+              "url": "",
+              "bold": false,
+              "italic": true
+            }
+          ]
+        }
+      ],
+      "publishedAt": "2026-10-23T21:07:00Z",
+      "links": []
     }
   ]
 }
