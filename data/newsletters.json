@@ -173414,6 +173414,557 @@
           ]
         }
       }
+    },
+    {
+      "id": "digest-809e9ce1-63bd-465c-a448-bcd2eb382405",
+      "channel": "newsletters",
+      "source": "notion",
+      "kind": "Agent-written digest",
+      "domain": "Daily newsletter digest",
+      "title": "The Brain Virus, the Peace Problem, and a Desk That Calms Itself",
+      "url": "",
+      "description": "A Saturday bundle of ancient viruses, anxious machines, excellent stock, strange politics, and one London desk that doubles as a software office and a tiny hardware factory.",
+      "body": "A Saturday bundle of ancient viruses, anxious machines, excellent stock, strange politics, and one London desk that doubles as a software office and a tiny hardware factory.\n\nBest links\n\n• The human brain, partly by lucky escape. 404 Media’s science roundup reports that a retrovirus family found in chimpanzees, bonobos, and gorillas—but absent from humans—silences a brain-development gene in chimp organoids. The implication is deliciously humbling: some of what made our brains different may be contingency, not destiny. The same issue also has crows making visual decisions in roughly 235 milliseconds, a repurposed Roman sarcophagus, and a proposed astronomical date for The Starry Night.\n\n• The useful question about AI is not “Can it answer?” Weekend Briefing gathers two pieces on mathematics after AI: Steven Strogatz worries about losing the discovery-shaped purpose of the field, while Terence Tao argues that explanation, defense, and shared understanding still matter even when machines produce proofs. The sharpest phrase is Tao’s: “soul-searching at gunpoint.”\n\n• A four-hour Musk documentary meets the attention economy. Status interviews Alex Gibney about social platforms blocking promotion for his documentary, the film’s uncertain path at HBO, and Musk’s extraordinary power over infrastructure and media. The recurring theme is power without accountability—not merely a personality story.\n\nWorth reading\n\n• Peace is not the same as numbness. In “On Peace,” Olivia Marstall writes about the dead calm that can follow suffering: the way boredom and adaptation can make a person mistake emotional flatness for tranquility. Her counter-practice is attention—poetry, walks, wind through an open car window, and the deliberate work of noticing that life is still full of good things.\n\n• Money as a vocabulary for care, threat, and absence. Jessica’s essay in Sparks from Culture begins with a child terrified that a divorce will also take away her beloved caregiver. It follows the way family money can become protection, punishment, presence-by-proxy, or a record of who is owed what. The memorable idea: money is never just money when it is carrying the emotional work of a family.\n\n• The “bro code” as a group technology. The New York Times’ Opinion Today summarizes Kate Manne’s argument that all-male groups can create two mutually reinforcing pressures: go along when someone proposes wrongdoing, and do not be the lone person who intervenes. The point is not to excuse individuals, but to ask what structures make moral courage the only thing standing between a group and harm.\n\nFood & places\n\n• Put chicken feet in the stock. NYT Cooking’s Melissa Clark makes the case for the humble collagen bomb: rinse the feet, optionally blanch and trim them, then let them contribute body and flavor to a long-simmered broth. The cook’s reward is to pluck them out soft and tender at the end. The surrounding menu is equally cozy: focaccia, crispy pork tenders, feta frittata, coconut-creamed spinach with eggs, and shepherd’s pie.\n\n• Design a room for two lives. Workspaces profiles Simon Pickles’s London setup: one uninterrupted oak surface becomes a home office by day and an assembly/soldering/testing/packing line for Analogue Desk Co. by night. A presence sensor fades up the lights when he walks in; the desk gauge he builds watches live data with a physical needle. The bigger idea is lovely: make the room support the transition from managing software to making something you can hold.\n\n• Try the ten-minute-life test. A link in Weekend Briefing argues that a home’s real square footage includes the neighborhood: friends, groceries, coffee, and a park that are easy to reach can make a small place feel expansive. When comparing homes, imagine an ordinary Tuesday after you step outside—not just the floor plan.\n\nInternet oddities\n\n• A band named the Dallas Cowboys, made of karaoke-core chiptune punk. Perfectly Imperfect visits the Brooklyn duo’s internet-ephemera world: Batman masks, Nintendo 3DS production, nostalgic samples, black-laced Converse, Mario Kart Wii, and the six-dollar Dunkin meal deal. Their best productivity system may be the oldest one: beat every Mario game, one clear work→reward loop at a time.\n\n• Local Wiki is an excellent idea. Why Is This Interesting? points to a tool that shows everything within a 30-minute walk that also has a Wikipedia page. Pair it with a weekend coffee and you have a small, self-guided field trip generator. The same roundup includes infectious model-train enthusiasm, a Japanese denim shortage, and the existence of the “fandelier.”\n\n• The internet is still capable of leaking a campaign’s strategy by accident. The Weekly Scroll follows an Ohio attack ad that was reportedly circulated online before the campaign fully owned it, then amplified by a network of accounts. Whatever one thinks of the politics, the media lesson is clear: “secret” digital material becomes public the moment it is shown to enough people.\n\nIdeas to steal\n\n• Build one surface that changes modes. The Analogue Desk Co. workspace treats making, testing, and packing as a single physical flow instead of separate stations. It is a useful antidote to the idea that a workspace must be optimized for one identity only.\n\n• Choose defiant joy on purpose. Weekend Briefing highlights Bono and the Edge’s version of joy as resistance: not pretending the world is fine, but protecting the music, friendship, gathering, and shared life that make the fight worth having.\n\n• Make attention a daily discipline. Marstall’s peace essay and the ten-minute-life idea point in the same direction: notice what is close, accessible, and alive before trying to solve the entire world.\n\nOne-liners\n\n• The human brain may owe part of its weirdness to a virus that missed us.\n\n• A crow can make the snap decision while we are still explaining the prompt.\n\n• The best stock ingredient may be the part most people leave at the butcher.\n\n• A tinsel skirt is apparently best deployed in February, with a gray sweater and riding boots.\n\n• “Not to be absolutely certain is… one of the essential things in rationality.” — Bertrand Russell, via Weekend Briefing.\n\nSources are the Saturday, October 24, 2026 newsletters labeled “Newsletters” in Gmail.",
+      "blocks": [
+        {
+          "type": "quote",
+          "runs": [
+            {
+              "text": "A Saturday bundle of ancient viruses, anxious machines, excellent stock, strange politics, and one London desk that doubles as a software office and a tiny hardware factory.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "heading_2",
+          "runs": [
+            {
+              "text": "Best links",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "The human brain, partly by lucky escape.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " 404 Media’s science roundup reports that a retrovirus family found in chimpanzees, bonobos, and gorillas—but absent from humans—silences a brain-development gene in chimp organoids. The implication is deliciously humbling: some of what made our brains different may be contingency, not destiny. The same issue also has crows making visual decisions in roughly 235 milliseconds, a repurposed Roman sarcophagus, and a proposed astronomical date for ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "The Starry Night",
+              "url": "",
+              "bold": false,
+              "italic": true
+            },
+            {
+              "text": ". ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "The useful question about AI is not “Can it answer?”",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Weekend Briefing",
+              "url": "",
+              "bold": false,
+              "italic": true
+            },
+            {
+              "text": " gathers two pieces on mathematics after AI: Steven Strogatz worries about losing the discovery-shaped purpose of the field, while Terence Tao argues that explanation, defense, and shared understanding still matter even when machines produce proofs. The sharpest phrase is Tao’s: “soul-searching at gunpoint.” ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "A four-hour Musk documentary meets the attention economy.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Status",
+              "url": "",
+              "bold": false,
+              "italic": true
+            },
+            {
+              "text": " interviews Alex Gibney about social platforms blocking promotion for his documentary, the film’s uncertain path at HBO, and Musk’s extraordinary power over infrastructure and media. The recurring theme is power without accountability—not merely a personality story. ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "heading_2",
+          "runs": [
+            {
+              "text": "Worth reading",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Peace is not the same as numbness.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " In “On Peace,” Olivia Marstall writes about the dead calm that can follow suffering: the way boredom and adaptation can make a person mistake emotional flatness for tranquility. Her counter-practice is attention—poetry, walks, wind through an open car window, and the deliberate work of noticing that life is still full of good things. ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Money as a vocabulary for care, threat, and absence.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " Jessica’s essay in ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Sparks from Culture",
+              "url": "",
+              "bold": false,
+              "italic": true
+            },
+            {
+              "text": " begins with a child terrified that a divorce will also take away her beloved caregiver. It follows the way family money can become protection, punishment, presence-by-proxy, or a record of who is owed what. The memorable idea: money is never just money when it is carrying the emotional work of a family. ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "The “bro code” as a group technology.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " The New York Times’ Opinion Today summarizes Kate Manne’s argument that all-male groups can create two mutually reinforcing pressures: go along when someone proposes wrongdoing, and do not be the lone person who intervenes. The point is not to excuse individuals, but to ask what structures make moral courage the only thing standing between a group and harm. ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "heading_2",
+          "runs": [
+            {
+              "text": "Food & places",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Put chicken feet in the stock.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " NYT Cooking’s Melissa Clark makes the case for the humble collagen bomb: rinse the feet, optionally blanch and trim them, then let them contribute body and flavor to a long-simmered broth. The cook’s reward is to pluck them out soft and tender at the end. The surrounding menu is equally cozy: focaccia, crispy pork tenders, feta frittata, coconut-creamed spinach with eggs, and shepherd’s pie. ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Design a room for two lives.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Workspaces",
+              "url": "",
+              "bold": false,
+              "italic": true
+            },
+            {
+              "text": " profiles Simon Pickles’s London setup: one uninterrupted oak surface becomes a home office by day and an assembly/soldering/testing/packing line for Analogue Desk Co. by night. A presence sensor fades up the lights when he walks in; the desk gauge he builds watches live data with a physical needle. The bigger idea is lovely: make the room support the transition from managing software to making something you can hold. ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Try the ten-minute-life test.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " A link in ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Weekend Briefing",
+              "url": "",
+              "bold": false,
+              "italic": true
+            },
+            {
+              "text": " argues that a home’s real square footage includes the neighborhood: friends, groceries, coffee, and a park that are easy to reach can make a small place feel expansive. When comparing homes, imagine an ordinary Tuesday after you step outside—not just the floor plan. ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "heading_2",
+          "runs": [
+            {
+              "text": "Internet oddities",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "A band named the Dallas Cowboys, made of karaoke-core chiptune punk.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Perfectly Imperfect",
+              "url": "",
+              "bold": false,
+              "italic": true
+            },
+            {
+              "text": " visits the Brooklyn duo’s internet-ephemera world: Batman masks, Nintendo 3DS production, nostalgic samples, black-laced Converse, Mario Kart Wii, and the six-dollar Dunkin meal deal. Their best productivity system may be the oldest one: beat every Mario game, one clear work→reward loop at a time. ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Local Wiki is an excellent idea.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Why Is This Interesting?",
+              "url": "",
+              "bold": false,
+              "italic": true
+            },
+            {
+              "text": " points to a tool that shows everything within a 30-minute walk that also has a Wikipedia page. Pair it with a weekend coffee and you have a small, self-guided field trip generator. The same roundup includes infectious model-train enthusiasm, a Japanese denim shortage, and the existence of the “fandelier.” ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "The internet is still capable of leaking a campaign’s strategy by accident.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "The Weekly Scroll",
+              "url": "",
+              "bold": false,
+              "italic": true
+            },
+            {
+              "text": " follows an Ohio attack ad that was reportedly circulated online before the campaign fully owned it, then amplified by a network of accounts. Whatever one thinks of the politics, the media lesson is clear: “secret” digital material becomes public the moment it is shown to enough people. ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "heading_2",
+          "runs": [
+            {
+              "text": "Ideas to steal",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Build one surface that changes modes.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " The Analogue Desk Co. workspace treats making, testing, and packing as a single physical flow instead of separate stations. It is a useful antidote to the idea that a workspace must be optimized for one identity only. ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Choose defiant joy on purpose.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Weekend Briefing",
+              "url": "",
+              "bold": false,
+              "italic": true
+            },
+            {
+              "text": " highlights Bono and the Edge’s version of joy as resistance: not pretending the world is fine, but protecting the music, friendship, gathering, and shared life that make the fight worth having. ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Make attention a daily discipline.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " Marstall’s peace essay and the ten-minute-life idea point in the same direction: notice what is close, accessible, and alive before trying to solve the entire world. ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": " ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "heading_2",
+          "runs": [
+            {
+              "text": "One-liners",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "The human brain may owe part of its weirdness to a virus that missed us. ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "A crow can make the snap decision while we are still explaining the prompt. ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "The best stock ingredient may be the part most people leave at the butcher. ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "A tinsel skirt is apparently best deployed in February, with a gray sweater and riding boots. ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "“Not to be absolutely certain is… one of the essential things in rationality.” — Bertrand Russell, via ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Weekend Briefing",
+              "url": "",
+              "bold": false,
+              "italic": true
+            },
+            {
+              "text": ". ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Sources are the Saturday, October 24, 2026 newsletters labeled “Newsletters” in Gmail.",
+              "url": "",
+              "bold": false,
+              "italic": true
+            }
+          ]
+        }
+      ],
+      "publishedAt": "2026-10-24T21:14:00Z",
+      "links": []
     }
   ]
 }
