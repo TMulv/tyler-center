@@ -1,14 +1,31 @@
-# Tyler.Center nightly Substack publish
-# Add this file to the repo at: .github/workflows/substack-nightly-publish.yml
-# Then add two repository secrets (Settings > Secrets and variables > Actions):
-#   SUBSTACK_EMAIL     - the login email for tylercenter.substack.com
-#   SUBSTACK_PASSWORD  - the login password
+# Tyler.Center nightly Substack publish, v2
 #
-# How it works: the nightly job commits substack-queue/latest.md (+ title.txt,
-# subtitle.txt) to the repo. That commit triggers this workflow, which builds
-# the post through Substack's own backend API with full formatting (headings,
-# bold, links, quotes, native footnotes) and publishes it to Everyone by
-# email and Substack app. No browser paste involved.
+# Commit this file to the repo at: .github/workflows/substack-nightly-publish.yml
+# (replace the v1 file that used the raw API login).
+# Also commit: .github/scripts/substack_publish.py
+#
+# The GitHub App cannot write .github/workflows via the API; commit both files
+# through the browser signed in as TMulv (the Oct 22 v1 file landed that way).
+#
+# Why v2: the v1 raw-API login (python-substack with SUBSTACK_EMAIL/PASSWORD)
+# got a 403 from Substack's Cloudflare bot-check on GitHub runner IPs
+# (run 39879697630, 2026-10-22 ~9pm ET). A real Chromium browser passes the
+# check; the script logs in through the browser UI, exports the session
+# cookies, and publishes through python-substack with cookies_string.
+#
+# How it works:
+# - The 8:30pm ET tc-substack-8pm-publish cron commits
+#   substack-queue/latest.md (+ title.txt, subtitle.txt). That push triggers
+#   this workflow in live mode: browser login -> cookie export -> publish +
+#   send to Everyone.
+# - Manual runs (Actions > Substack nightly publish > Run workflow) default to
+#   mode=draft: creates a DRAFT only, prints its edit URL, never publishes or
+#   sends. Use this to test the login path before any live night.
+#
+# Required repo secrets (Settings > Secrets and variables > Actions):
+#   SUBSTACK_EMAIL     - login email for tylercenter.substack.com
+#   SUBSTACK_PASSWORD  - login password
+# (Tyler confirmed both set 2026-10-22; unverified from the agent side.)
 
 name: Substack nightly publish
 
@@ -17,10 +34,22 @@ on:
     paths:
       - 'substack-queue/latest.md'
   workflow_dispatch:
+    inputs:
+      mode:
+        description: 'draft = create a draft only (safe test). live = publish and send to Everyone.'
+        required: true
+        default: 'draft'
+        type: choice
+        options:
+          - draft
+          - live
 
 jobs:
   publish:
     runs-on: ubuntu-latest
+    timeout-minutes: 25
+    permissions:
+      contents: read
     steps:
       - name: Check out repo
         uses: actions/checkout@v4
@@ -30,39 +59,14 @@ jobs:
         with:
           python-version: '3.12'
 
-      - name: Install publisher
-        run: pip install 'python-substack==0.10.0'
+      - name: Install publisher and browser
+        run: |
+          pip install 'python-substack==0.10.0' playwright
+          python -m playwright install chromium --with-deps
 
-      - name: Publish to Substack
+      - name: Browser login, cookie export, publish
         env:
           SUBSTACK_EMAIL: ${{ secrets.SUBSTACK_EMAIL }}
           SUBSTACK_PASSWORD: ${{ secrets.SUBSTACK_PASSWORD }}
-        run: |
-          python - <<'EOF'
-          import os
-          from substack import Api
-
-          with open('substack-queue/title.txt') as f:
-              title = f.read().strip()
-          with open('substack-queue/subtitle.txt') as f:
-              subtitle = f.read().strip()
-          with open('substack-queue/latest.md') as f:
-              markdown = f.read()
-          assert title and markdown, 'missing title or article body'
-
-          api = Api(email=os.environ['SUBSTACK_EMAIL'],
-                    password=os.environ['SUBSTACK_PASSWORD'],
-                    publication_url='https://tylercenter.substack.com')
-          print('authenticated, user_id =', api.get_user_id())
-
-          result = api.create_draft_from_markdown(
-              title=title,
-              markdown=markdown,
-              subtitle=subtitle,
-              audience='everyone',
-              publish=True,
-              send=True,
-              share_automatically=False,
-          )
-          print('published:', result.get('post_url', result))
-          EOF
+          MODE: ${{ inputs.mode || 'live' }}
+        run: xvfb-run -a python .github/scripts/substack_publish.py
