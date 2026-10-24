@@ -171144,6 +171144,914 @@
       ],
       "publishedAt": "2026-10-23T21:07:00Z",
       "links": []
+    },
+    {
+      "id": "digest-4038153c-8a3e-81df-8638-c00f0af9d55d",
+      "channel": "newsletters",
+      "source": "notion",
+      "kind": "Agent-written digest",
+      "domain": "Daily newsletter digest",
+      "title": "Musk's $76M midterm dump, Meta's biggest fine yet, a 1,000-mile cloud on Mars - Saturday, October 24, 2026",
+      "url": "",
+      "description": "Saturday, October 24, 2026 - Morning Edition",
+      "body": "Saturday, October 24, 2026 - Morning Edition\n\nToday's Numbers\n\n• $76 million: Elon Musk gave his America PAC another $76 million in the first two weeks of October, pushing his total giving to Republican groups past $445 million this cycle and making him the biggest known individual donor of the midterms. The Texas Senate race ate most of it, drawing $15.2 million, including $12.4 million spent attacking Democrat James Talarico.\n\n• $240,000: Goldmund's Mimesis Statement preamp costs $240,000, more than a fancy sports car, and it is only one piece of a $1.5 million audio setup built on extreme Swiss sound engineering.\n\nQuotes of the Day\n\n• \"In my family, money was never just money. It was a way to yield power and a way to be protected. It could be weaponized, but other times it was the closest thing to care that anyone knew how to offer.\" (Jessica of the Post-Wealth Project, on growing up in a family where money stood in for love and control)\n\nMoney & Power\n\n• Meta just got hit with its biggest fine yet, and the pile of court-ordered payments keeps growing. WIRED's Lauren Goode asks the obvious question: how many billions does it actually take to hold Meta accountable? The fines keep landing, the business keeps humming, and the gap between the two is the story. (WIRED)\n\nThe Culture\n\n• A newly relaunched Christian dating app is pitching old-fashioned romance to a generation that barely dates. Upward's pitch to Gen Z includes a \"Chivalry Mode\" and a \"Marriage Timeline,\" betting that trad values are a feature, not a punchline. Whether young daters actually want a timeline handed to them is another question. (WIRED)\n\nQuick Hits & Curiosities\n\n• A mysterious 1,000-mile cloud on Mars has baffled astronomers since 2018, and a new study finally offers a possible explanation for its exotic physics. (WIRED)\n\n• One man's love of model trains is so infectious that WITI recommends starting your weekend with it. (Why Is This Interesting?)\n\n• Japan is running low on denim, and the shortage is reshaping what gets made. (Why Is This Interesting?)\n\n• Ceiling fans have gotten weird: there is now such a thing as a \"fandelier,\" a chandelier with a fan built in. (Why Is This Interesting?)\n\n• Local Wiki maps everything within a 30-minute walk of you that is also on Wikipedia, a brilliant way to rediscover your own neighborhood. (Why Is This Interesting?)",
+      "blocks": [
+        {
+          "type": "heading_1",
+          "runs": [
+            {
+              "text": "Saturday, October 24, 2026 - Morning Edition",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Today's Numbers",
+              "url": "",
+              "bold": true,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "$76 million",
+              "url": "https://www.wired.com/",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": ": Elon Musk gave his America PAC another $76 million in the first two weeks of October, pushing his total giving to Republican groups past $445 million this cycle and making him the biggest known individual donor of the midterms. The Texas Senate race ate most of it, drawing $15.2 million, including $12.4 million spent attacking Democrat James Talarico.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "$240,000",
+              "url": "https://www.wired.com/",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": ": Goldmund's Mimesis Statement preamp costs $240,000, more than a fancy sports car, and it is only one piece of a $1.5 million audio setup built on extreme Swiss sound engineering.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Quotes of the Day",
+              "url": "",
+              "bold": true,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "\"In my family, money was never just money. It was a way to yield power and a way to be protected. It could be weaponized, but other times it was the closest thing to care that anyone knew how to offer.\" (Jessica of the Post-Wealth Project, on growing up in a family where money stood in for love and control)",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Money & Power",
+              "url": "",
+              "bold": true,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Meta just got hit with its biggest fine yet, and the pile of court-ordered payments keeps growing.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " WIRED's Lauren Goode asks the obvious question: how many billions does it actually take to hold Meta accountable? The fines keep landing, the business keeps humming, and the gap between the two is the story. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "WIRED",
+              "url": "https://www.wired.com/",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "The Culture",
+              "url": "",
+              "bold": true,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "A newly relaunched Christian dating app is pitching old-fashioned romance to a generation that barely dates.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " Upward's pitch to Gen Z includes a \"Chivalry Mode\" and a \"Marriage Timeline,\" betting that trad values are a feature, not a punchline. Whether young daters actually want a timeline handed to them is another question. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "WIRED",
+              "url": "https://www.wired.com/",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Quick Hits & Curiosities",
+              "url": "",
+              "bold": true,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "A mysterious 1,000-mile cloud on Mars has baffled astronomers since 2018, and a new study finally offers a possible explanation for its exotic physics. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "WIRED",
+              "url": "https://www.wired.com/",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "One man's love of model trains is so infectious that WITI recommends starting your weekend with it. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Why Is This Interesting?",
+              "url": "https://whyisthisinteresting.substack.com/",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Japan is running low on denim, and the shortage is reshaping what gets made. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Why Is This Interesting?",
+              "url": "https://whyisthisinteresting.substack.com/",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Ceiling fans have gotten weird: there is now such a thing as a \"fandelier,\" a chandelier with a fan built in. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Why Is This Interesting?",
+              "url": "https://whyisthisinteresting.substack.com/",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Local Wiki maps everything within a 30-minute walk of you that is also on Wikipedia, a brilliant way to rediscover your own neighborhood. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Why Is This Interesting?",
+              "url": "https://whyisthisinteresting.substack.com/",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        }
+      ],
+      "publishedAt": "2026-10-24T11:58:00Z",
+      "links": [
+        {
+          "title": "WIRED",
+          "url": "https://www.wired.com/"
+        },
+        {
+          "title": "Why Is This Interesting?",
+          "url": "https://whyisthisinteresting.substack.com/"
+        }
+      ],
+      "versions": {
+        "morning": {
+          "body": "Saturday, October 24, 2026 - Morning Edition\n\nToday's Numbers\n\n• $76 million: Elon Musk gave his America PAC another $76 million in the first two weeks of October, pushing his total giving to Republican groups past $445 million this cycle and making him the biggest known individual donor of the midterms. The Texas Senate race ate most of it, drawing $15.2 million, including $12.4 million spent attacking Democrat James Talarico.\n\n• $240,000: Goldmund's Mimesis Statement preamp costs $240,000, more than a fancy sports car, and it is only one piece of a $1.5 million audio setup built on extreme Swiss sound engineering.\n\nQuotes of the Day\n\n• \"In my family, money was never just money. It was a way to yield power and a way to be protected. It could be weaponized, but other times it was the closest thing to care that anyone knew how to offer.\" (Jessica of the Post-Wealth Project, on growing up in a family where money stood in for love and control)\n\nMoney & Power\n\n• Meta just got hit with its biggest fine yet, and the pile of court-ordered payments keeps growing. WIRED's Lauren Goode asks the obvious question: how many billions does it actually take to hold Meta accountable? The fines keep landing, the business keeps humming, and the gap between the two is the story. (WIRED)\n\nThe Culture\n\n• A newly relaunched Christian dating app is pitching old-fashioned romance to a generation that barely dates. Upward's pitch to Gen Z includes a \"Chivalry Mode\" and a \"Marriage Timeline,\" betting that trad values are a feature, not a punchline. Whether young daters actually want a timeline handed to them is another question. (WIRED)\n\nQuick Hits & Curiosities\n\n• A mysterious 1,000-mile cloud on Mars has baffled astronomers since 2018, and a new study finally offers a possible explanation for its exotic physics. (WIRED)\n\n• One man's love of model trains is so infectious that WITI recommends starting your weekend with it. (Why Is This Interesting?)\n\n• Japan is running low on denim, and the shortage is reshaping what gets made. (Why Is This Interesting?)\n\n• Ceiling fans have gotten weird: there is now such a thing as a \"fandelier,\" a chandelier with a fan built in. (Why Is This Interesting?)\n\n• Local Wiki maps everything within a 30-minute walk of you that is also on Wikipedia, a brilliant way to rediscover your own neighborhood. (Why Is This Interesting?)",
+          "blocks": [
+            {
+              "type": "heading_1",
+              "runs": [
+                {
+                  "text": "Saturday, October 24, 2026 - Morning Edition",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Today's Numbers",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "$76 million",
+                  "url": "https://www.wired.com/",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": Elon Musk gave his America PAC another $76 million in the first two weeks of October, pushing his total giving to Republican groups past $445 million this cycle and making him the biggest known individual donor of the midterms. The Texas Senate race ate most of it, drawing $15.2 million, including $12.4 million spent attacking Democrat James Talarico.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "$240,000",
+                  "url": "https://www.wired.com/",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": Goldmund's Mimesis Statement preamp costs $240,000, more than a fancy sports car, and it is only one piece of a $1.5 million audio setup built on extreme Swiss sound engineering.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Quotes of the Day",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "\"In my family, money was never just money. It was a way to yield power and a way to be protected. It could be weaponized, but other times it was the closest thing to care that anyone knew how to offer.\" (Jessica of the Post-Wealth Project, on growing up in a family where money stood in for love and control)",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Money & Power",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Meta just got hit with its biggest fine yet, and the pile of court-ordered payments keeps growing.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " WIRED's Lauren Goode asks the obvious question: how many billions does it actually take to hold Meta accountable? The fines keep landing, the business keeps humming, and the gap between the two is the story. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "WIRED",
+                  "url": "https://www.wired.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "The Culture",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "A newly relaunched Christian dating app is pitching old-fashioned romance to a generation that barely dates.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " Upward's pitch to Gen Z includes a \"Chivalry Mode\" and a \"Marriage Timeline,\" betting that trad values are a feature, not a punchline. Whether young daters actually want a timeline handed to them is another question. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "WIRED",
+                  "url": "https://www.wired.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Quick Hits & Curiosities",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "A mysterious 1,000-mile cloud on Mars has baffled astronomers since 2018, and a new study finally offers a possible explanation for its exotic physics. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "WIRED",
+                  "url": "https://www.wired.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "One man's love of model trains is so infectious that WITI recommends starting your weekend with it. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Why Is This Interesting?",
+                  "url": "https://whyisthisinteresting.substack.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Japan is running low on denim, and the shortage is reshaping what gets made. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Why Is This Interesting?",
+                  "url": "https://whyisthisinteresting.substack.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Ceiling fans have gotten weird: there is now such a thing as a \"fandelier,\" a chandelier with a fan built in. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Why Is This Interesting?",
+                  "url": "https://whyisthisinteresting.substack.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Local Wiki maps everything within a 30-minute walk of you that is also on Wikipedia, a brilliant way to rediscover your own neighborhood. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Why Is This Interesting?",
+                  "url": "https://whyisthisinteresting.substack.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            }
+          ],
+          "links": [
+            {
+              "title": "WIRED",
+              "url": "https://www.wired.com/"
+            },
+            {
+              "title": "Why Is This Interesting?",
+              "url": "https://whyisthisinteresting.substack.com/"
+            }
+          ]
+        },
+        "full": {
+          "body": "Saturday, October 24, 2026 - Morning Edition\n\nToday's Numbers\n\n• $76 million: Elon Musk gave his America PAC another $76 million in the first two weeks of October, pushing his total giving to Republican groups past $445 million this cycle and making him the biggest known individual donor of the midterms. The Texas Senate race ate most of it, drawing $15.2 million, including $12.4 million spent attacking Democrat James Talarico.\n\n• $240,000: Goldmund's Mimesis Statement preamp costs $240,000, more than a fancy sports car, and it is only one piece of a $1.5 million audio setup built on extreme Swiss sound engineering.\n\nQuotes of the Day\n\n• \"In my family, money was never just money. It was a way to yield power and a way to be protected. It could be weaponized, but other times it was the closest thing to care that anyone knew how to offer.\" (Jessica of the Post-Wealth Project, on growing up in a family where money stood in for love and control)\n\nMoney & Power\n\n• Meta just got hit with its biggest fine yet, and the pile of court-ordered payments keeps growing. WIRED's Lauren Goode asks the obvious question: how many billions does it actually take to hold Meta accountable? The fines keep landing, the business keeps humming, and the gap between the two is the story. (WIRED)\n\nThe Culture\n\n• A newly relaunched Christian dating app is pitching old-fashioned romance to a generation that barely dates. Upward's pitch to Gen Z includes a \"Chivalry Mode\" and a \"Marriage Timeline,\" betting that trad values are a feature, not a punchline. Whether young daters actually want a timeline handed to them is another question. (WIRED)\n\nQuick Hits & Curiosities\n\n• A mysterious 1,000-mile cloud on Mars has baffled astronomers since 2018, and a new study finally offers a possible explanation for its exotic physics. (WIRED)\n\n• One man's love of model trains is so infectious that WITI recommends starting your weekend with it. (Why Is This Interesting?)\n\n• Japan is running low on denim, and the shortage is reshaping what gets made. (Why Is This Interesting?)\n\n• Ceiling fans have gotten weird: there is now such a thing as a \"fandelier,\" a chandelier with a fan built in. (Why Is This Interesting?)\n\n• Local Wiki maps everything within a 30-minute walk of you that is also on Wikipedia, a brilliant way to rediscover your own neighborhood. (Why Is This Interesting?)",
+          "blocks": [
+            {
+              "type": "heading_1",
+              "runs": [
+                {
+                  "text": "Saturday, October 24, 2026 - Morning Edition",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Today's Numbers",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "$76 million",
+                  "url": "https://www.wired.com/",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": Elon Musk gave his America PAC another $76 million in the first two weeks of October, pushing his total giving to Republican groups past $445 million this cycle and making him the biggest known individual donor of the midterms. The Texas Senate race ate most of it, drawing $15.2 million, including $12.4 million spent attacking Democrat James Talarico.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "$240,000",
+                  "url": "https://www.wired.com/",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": Goldmund's Mimesis Statement preamp costs $240,000, more than a fancy sports car, and it is only one piece of a $1.5 million audio setup built on extreme Swiss sound engineering.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Quotes of the Day",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "\"In my family, money was never just money. It was a way to yield power and a way to be protected. It could be weaponized, but other times it was the closest thing to care that anyone knew how to offer.\" (Jessica of the Post-Wealth Project, on growing up in a family where money stood in for love and control)",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Money & Power",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Meta just got hit with its biggest fine yet, and the pile of court-ordered payments keeps growing.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " WIRED's Lauren Goode asks the obvious question: how many billions does it actually take to hold Meta accountable? The fines keep landing, the business keeps humming, and the gap between the two is the story. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "WIRED",
+                  "url": "https://www.wired.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "The Culture",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "A newly relaunched Christian dating app is pitching old-fashioned romance to a generation that barely dates.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " Upward's pitch to Gen Z includes a \"Chivalry Mode\" and a \"Marriage Timeline,\" betting that trad values are a feature, not a punchline. Whether young daters actually want a timeline handed to them is another question. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "WIRED",
+                  "url": "https://www.wired.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Quick Hits & Curiosities",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "A mysterious 1,000-mile cloud on Mars has baffled astronomers since 2018, and a new study finally offers a possible explanation for its exotic physics. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "WIRED",
+                  "url": "https://www.wired.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "One man's love of model trains is so infectious that WITI recommends starting your weekend with it. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Why Is This Interesting?",
+                  "url": "https://whyisthisinteresting.substack.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Japan is running low on denim, and the shortage is reshaping what gets made. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Why Is This Interesting?",
+                  "url": "https://whyisthisinteresting.substack.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Ceiling fans have gotten weird: there is now such a thing as a \"fandelier,\" a chandelier with a fan built in. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Why Is This Interesting?",
+                  "url": "https://whyisthisinteresting.substack.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Local Wiki maps everything within a 30-minute walk of you that is also on Wikipedia, a brilliant way to rediscover your own neighborhood. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Why Is This Interesting?",
+                  "url": "https://whyisthisinteresting.substack.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            }
+          ],
+          "links": [
+            {
+              "title": "WIRED",
+              "url": "https://www.wired.com/"
+            },
+            {
+              "title": "Why Is This Interesting?",
+              "url": "https://whyisthisinteresting.substack.com/"
+            }
+          ]
+        }
+      }
     }
   ]
 }
