@@ -174399,6 +174399,1046 @@
       ],
       "publishedAt": "2026-10-24T21:14:00Z",
       "links": []
+    },
+    {
+      "id": "digest-4048153c-8a3e-81b7-92ab-f1bb17833b6f",
+      "channel": "newsletters",
+      "source": "notion",
+      "kind": "Agent-written digest",
+      "domain": "Daily newsletter digest",
+      "title": "AI weaponizes old PHP bugs, mRNA vaccine cuts melanoma recurrence 40%, a 150-speaker IKEA wall of sound - Sunday, October 25, 2026",
+      "url": "",
+      "description": "Sunday, October 25, 2026 - Morning Edition",
+      "body": "Sunday, October 25, 2026 - Morning Edition\n\nToday's Numbers\n\n• 40%: the drop in melanoma recurrence risk from a new personalized mRNA vaccine in Phase 3 trial results, with the shot tailored to each patient's own tumor.\n\n• 150: the number of IKEA's $10 Bluetooth speakers WIRED linked together to build a wall of sound, testing whether you can ever have too much of a small thing.\n\n• 80%: how much animal populations in deep ocean habitats can decline after oil spills, with damage lingering even a decade later as oil sinks and seeps into the seafloor.\n\nQuotes of the Day\n\n• \"I train like I've never won, and I compete like I've never lost.\" (Eileen Gu, Olympic freestyle skier, on her training mindset)\n\n• \"You have the right to work, but never to the fruit of work.\" (Krishna to Arjuna in the Bhagavad Gita, on acting without attachment to results)\n\n• \"Predicting the future's impossible. You work hard because it increases the odds.\" (Michael Bloomberg, on why progress comes from small earned steps, not big lucky hits)\n\nAI & The Machines\n\nSecurity researchers used AI to dig up years old bugs in PHP, and then the AI assisted attacks started. The vulnerabilities had sat unnoticed for years in the web scripting language that powers a huge share of the internet. Now the same AI tooling that helps researchers find flaws is handing attackers a faster way to exploit them. It is a preview of a new security era, where discovery and weaponization happen at machine speed. (WIRED)\n\nCharacter.ai's bankruptcy might be the first domino of the AI bubble to fall. That is the argument from 404 Media's podcast crew, who see the chatbot company's collapse as the first real crack in the AI boom's story. If a buzzy consumer AI brand can go under, the question becomes which overvalued names are next, and how much of the boom was built on vibes instead of revenue. (404 Media)\n\nThe Mind\n\nTaking care of yourself is not a retreat from the world, Dan Harris argues, it is what lets you engage with it. His new nine session course with teachers Sharon Salzberg and Andres Gonzalez is built around one image: fill your own well, and give from the overflow. Give from the well itself and you run dry. The course mixes talks with five guided meditations, from breath work to loving-kindness, and wraps with a live session on October 27. (Dan Harris)\n\nQuick Hits & Curiosities\n\n• Everyone is suddenly reverse engineering everything, from gadgets to software, and 404 Media calls it the next wave of AI slop. (404 Media)\n\n• The US movement fighting data center construction has a lot to learn from Ireland to New Zealand, where communities have already been through this fight. (WIRED)\n\n• Jil Sander and Puma made a minimalist sneaker that InsideHook is floating as a possible sneaker of the year. (InsideHook)",
+      "blocks": [
+        {
+          "type": "heading_1",
+          "runs": [
+            {
+              "text": "Sunday, October 25, 2026 - Morning Edition",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Today's Numbers",
+              "url": "",
+              "bold": true,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "40%",
+              "url": "https://www.wired.com/",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": ": the drop in melanoma recurrence risk from a new personalized mRNA vaccine in Phase 3 trial results, with the shot tailored to each patient's own tumor.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "150",
+              "url": "https://www.wired.com/",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": ": the number of IKEA's $10 Bluetooth speakers WIRED linked together to build a wall of sound, testing whether you can ever have too much of a small thing.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "80%",
+              "url": "https://www.wired.com/",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": ": how much animal populations in deep ocean habitats can decline after oil spills, with damage lingering even a decade later as oil sinks and seeps into the seafloor.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Quotes of the Day",
+              "url": "",
+              "bold": true,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "\"I train like I've never won, and I compete like I've never lost.\" (Eileen Gu, Olympic freestyle skier, on her training mindset)",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "\"You have the right to work, but never to the fruit of work.\" (Krishna to Arjuna in the Bhagavad Gita, on acting without attachment to results)",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "\"Predicting the future's impossible. You work hard because it increases the odds.\" (Michael Bloomberg, on why progress comes from small earned steps, not big lucky hits)",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "AI & The Machines",
+              "url": "",
+              "bold": true,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Security researchers used AI to dig up years old bugs in PHP, and then the AI assisted attacks started.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " The vulnerabilities had sat unnoticed for years in the web scripting language that powers a huge share of the internet. Now the same AI tooling that helps researchers find flaws is handing attackers a faster way to exploit them. It is a preview of a new security era, where discovery and weaponization happen at machine speed. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "WIRED",
+              "url": "https://www.wired.com/",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Character.ai",
+              "url": "http://character.ai/",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": "'s bankruptcy might be the first domino of the AI bubble to fall.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " That is the argument from 404 Media's podcast crew, who see the chatbot company's collapse as the first real crack in the AI boom's story. If a buzzy consumer AI brand can go under, the question becomes which overvalued names are next, and how much of the boom was built on vibes instead of revenue. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "404 Media",
+              "url": "https://www.404media.co/r/6f1f4c26?m=f198361c-d0c1-41bf-86df-5431cede6034",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "The Mind",
+              "url": "",
+              "bold": true,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Taking care of yourself is not a retreat from the world, Dan Harris argues, it is what lets you engage with it.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " His new nine session course with teachers Sharon Salzberg and Andres Gonzalez is built around one image: fill your own well, and give from the overflow. Give from the well itself and you run dry. The course mixes talks with five guided meditations, from breath work to loving-kindness, and wraps with a live session on October 27. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Dan Harris",
+              "url": "https://danharris.substack.com/",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Quick Hits & Curiosities",
+              "url": "",
+              "bold": true,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Everyone is suddenly reverse engineering everything, from gadgets to software, and 404 Media calls it the next wave of AI slop. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "404 Media",
+              "url": "https://www.404media.co/r/a42d91a5?m=f198361c-d0c1-41bf-86df-5431cede6034",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "The US movement fighting data center construction has a lot to learn from Ireland to New Zealand, where communities have already been through this fight. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "WIRED",
+              "url": "https://www.wired.com/",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Jil Sander and Puma made a minimalist sneaker that InsideHook is floating as a possible sneaker of the year. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "InsideHook",
+              "url": "https://www.insidehook.com/",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        }
+      ],
+      "publishedAt": "2026-10-25T11:58:00Z",
+      "links": [
+        {
+          "title": "WIRED",
+          "url": "https://www.wired.com/"
+        },
+        {
+          "title": "Character.ai",
+          "url": "http://character.ai/"
+        },
+        {
+          "title": "404 Media",
+          "url": "https://www.404media.co/r/6f1f4c26?m=f198361c-d0c1-41bf-86df-5431cede6034"
+        },
+        {
+          "title": "Dan Harris",
+          "url": "https://danharris.substack.com/"
+        },
+        {
+          "title": "404 Media",
+          "url": "https://www.404media.co/r/a42d91a5?m=f198361c-d0c1-41bf-86df-5431cede6034"
+        },
+        {
+          "title": "InsideHook",
+          "url": "https://www.insidehook.com/"
+        }
+      ],
+      "versions": {
+        "morning": {
+          "body": "Sunday, October 25, 2026 - Morning Edition\n\nToday's Numbers\n\n• 40%: the drop in melanoma recurrence risk from a new personalized mRNA vaccine in Phase 3 trial results, with the shot tailored to each patient's own tumor.\n\n• 150: the number of IKEA's $10 Bluetooth speakers WIRED linked together to build a wall of sound, testing whether you can ever have too much of a small thing.\n\n• 80%: how much animal populations in deep ocean habitats can decline after oil spills, with damage lingering even a decade later as oil sinks and seeps into the seafloor.\n\nQuotes of the Day\n\n• \"I train like I've never won, and I compete like I've never lost.\" (Eileen Gu, Olympic freestyle skier, on her training mindset)\n\n• \"You have the right to work, but never to the fruit of work.\" (Krishna to Arjuna in the Bhagavad Gita, on acting without attachment to results)\n\n• \"Predicting the future's impossible. You work hard because it increases the odds.\" (Michael Bloomberg, on why progress comes from small earned steps, not big lucky hits)\n\nAI & The Machines\n\nSecurity researchers used AI to dig up years old bugs in PHP, and then the AI assisted attacks started. The vulnerabilities had sat unnoticed for years in the web scripting language that powers a huge share of the internet. Now the same AI tooling that helps researchers find flaws is handing attackers a faster way to exploit them. It is a preview of a new security era, where discovery and weaponization happen at machine speed. (WIRED)\n\nCharacter.ai's bankruptcy might be the first domino of the AI bubble to fall. That is the argument from 404 Media's podcast crew, who see the chatbot company's collapse as the first real crack in the AI boom's story. If a buzzy consumer AI brand can go under, the question becomes which overvalued names are next, and how much of the boom was built on vibes instead of revenue. (404 Media)\n\nThe Mind\n\nTaking care of yourself is not a retreat from the world, Dan Harris argues, it is what lets you engage with it. His new nine session course with teachers Sharon Salzberg and Andres Gonzalez is built around one image: fill your own well, and give from the overflow. Give from the well itself and you run dry. The course mixes talks with five guided meditations, from breath work to loving-kindness, and wraps with a live session on October 27. (Dan Harris)\n\nQuick Hits & Curiosities\n\n• Everyone is suddenly reverse engineering everything, from gadgets to software, and 404 Media calls it the next wave of AI slop. (404 Media)\n\n• The US movement fighting data center construction has a lot to learn from Ireland to New Zealand, where communities have already been through this fight. (WIRED)\n\n• Jil Sander and Puma made a minimalist sneaker that InsideHook is floating as a possible sneaker of the year. (InsideHook)",
+          "blocks": [
+            {
+              "type": "heading_1",
+              "runs": [
+                {
+                  "text": "Sunday, October 25, 2026 - Morning Edition",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Today's Numbers",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "40%",
+                  "url": "https://www.wired.com/",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": the drop in melanoma recurrence risk from a new personalized mRNA vaccine in Phase 3 trial results, with the shot tailored to each patient's own tumor.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "150",
+                  "url": "https://www.wired.com/",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": the number of IKEA's $10 Bluetooth speakers WIRED linked together to build a wall of sound, testing whether you can ever have too much of a small thing.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "80%",
+                  "url": "https://www.wired.com/",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": how much animal populations in deep ocean habitats can decline after oil spills, with damage lingering even a decade later as oil sinks and seeps into the seafloor.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Quotes of the Day",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "\"I train like I've never won, and I compete like I've never lost.\" (Eileen Gu, Olympic freestyle skier, on her training mindset)",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "\"You have the right to work, but never to the fruit of work.\" (Krishna to Arjuna in the Bhagavad Gita, on acting without attachment to results)",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "\"Predicting the future's impossible. You work hard because it increases the odds.\" (Michael Bloomberg, on why progress comes from small earned steps, not big lucky hits)",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "AI & The Machines",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Security researchers used AI to dig up years old bugs in PHP, and then the AI assisted attacks started.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " The vulnerabilities had sat unnoticed for years in the web scripting language that powers a huge share of the internet. Now the same AI tooling that helps researchers find flaws is handing attackers a faster way to exploit them. It is a preview of a new security era, where discovery and weaponization happen at machine speed. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "WIRED",
+                  "url": "https://www.wired.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Character.ai",
+                  "url": "http://character.ai/",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": "'s bankruptcy might be the first domino of the AI bubble to fall.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " That is the argument from 404 Media's podcast crew, who see the chatbot company's collapse as the first real crack in the AI boom's story. If a buzzy consumer AI brand can go under, the question becomes which overvalued names are next, and how much of the boom was built on vibes instead of revenue. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "404 Media",
+                  "url": "https://www.404media.co/r/6f1f4c26?m=f198361c-d0c1-41bf-86df-5431cede6034",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "The Mind",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Taking care of yourself is not a retreat from the world, Dan Harris argues, it is what lets you engage with it.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " His new nine session course with teachers Sharon Salzberg and Andres Gonzalez is built around one image: fill your own well, and give from the overflow. Give from the well itself and you run dry. The course mixes talks with five guided meditations, from breath work to loving-kindness, and wraps with a live session on October 27. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Dan Harris",
+                  "url": "https://danharris.substack.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Quick Hits & Curiosities",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Everyone is suddenly reverse engineering everything, from gadgets to software, and 404 Media calls it the next wave of AI slop. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "404 Media",
+                  "url": "https://www.404media.co/r/a42d91a5?m=f198361c-d0c1-41bf-86df-5431cede6034",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "The US movement fighting data center construction has a lot to learn from Ireland to New Zealand, where communities have already been through this fight. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "WIRED",
+                  "url": "https://www.wired.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Jil Sander and Puma made a minimalist sneaker that InsideHook is floating as a possible sneaker of the year. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "InsideHook",
+                  "url": "https://www.insidehook.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            }
+          ],
+          "links": [
+            {
+              "title": "WIRED",
+              "url": "https://www.wired.com/"
+            },
+            {
+              "title": "Character.ai",
+              "url": "http://character.ai/"
+            },
+            {
+              "title": "404 Media",
+              "url": "https://www.404media.co/r/6f1f4c26?m=f198361c-d0c1-41bf-86df-5431cede6034"
+            },
+            {
+              "title": "Dan Harris",
+              "url": "https://danharris.substack.com/"
+            },
+            {
+              "title": "404 Media",
+              "url": "https://www.404media.co/r/a42d91a5?m=f198361c-d0c1-41bf-86df-5431cede6034"
+            },
+            {
+              "title": "InsideHook",
+              "url": "https://www.insidehook.com/"
+            }
+          ]
+        },
+        "full": {
+          "body": "Sunday, October 25, 2026 - Morning Edition\n\nToday's Numbers\n\n• 40%: the drop in melanoma recurrence risk from a new personalized mRNA vaccine in Phase 3 trial results, with the shot tailored to each patient's own tumor.\n\n• 150: the number of IKEA's $10 Bluetooth speakers WIRED linked together to build a wall of sound, testing whether you can ever have too much of a small thing.\n\n• 80%: how much animal populations in deep ocean habitats can decline after oil spills, with damage lingering even a decade later as oil sinks and seeps into the seafloor.\n\nQuotes of the Day\n\n• \"I train like I've never won, and I compete like I've never lost.\" (Eileen Gu, Olympic freestyle skier, on her training mindset)\n\n• \"You have the right to work, but never to the fruit of work.\" (Krishna to Arjuna in the Bhagavad Gita, on acting without attachment to results)\n\n• \"Predicting the future's impossible. You work hard because it increases the odds.\" (Michael Bloomberg, on why progress comes from small earned steps, not big lucky hits)\n\nAI & The Machines\n\nSecurity researchers used AI to dig up years old bugs in PHP, and then the AI assisted attacks started. The vulnerabilities had sat unnoticed for years in the web scripting language that powers a huge share of the internet. Now the same AI tooling that helps researchers find flaws is handing attackers a faster way to exploit them. It is a preview of a new security era, where discovery and weaponization happen at machine speed. (WIRED)\n\nCharacter.ai's bankruptcy might be the first domino of the AI bubble to fall. That is the argument from 404 Media's podcast crew, who see the chatbot company's collapse as the first real crack in the AI boom's story. If a buzzy consumer AI brand can go under, the question becomes which overvalued names are next, and how much of the boom was built on vibes instead of revenue. (404 Media)\n\nThe Mind\n\nTaking care of yourself is not a retreat from the world, Dan Harris argues, it is what lets you engage with it. His new nine session course with teachers Sharon Salzberg and Andres Gonzalez is built around one image: fill your own well, and give from the overflow. Give from the well itself and you run dry. The course mixes talks with five guided meditations, from breath work to loving-kindness, and wraps with a live session on October 27. (Dan Harris)\n\nQuick Hits & Curiosities\n\n• Everyone is suddenly reverse engineering everything, from gadgets to software, and 404 Media calls it the next wave of AI slop. (404 Media)\n\n• The US movement fighting data center construction has a lot to learn from Ireland to New Zealand, where communities have already been through this fight. (WIRED)\n\n• Jil Sander and Puma made a minimalist sneaker that InsideHook is floating as a possible sneaker of the year. (InsideHook)",
+          "blocks": [
+            {
+              "type": "heading_1",
+              "runs": [
+                {
+                  "text": "Sunday, October 25, 2026 - Morning Edition",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Today's Numbers",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "40%",
+                  "url": "https://www.wired.com/",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": the drop in melanoma recurrence risk from a new personalized mRNA vaccine in Phase 3 trial results, with the shot tailored to each patient's own tumor.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "150",
+                  "url": "https://www.wired.com/",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": the number of IKEA's $10 Bluetooth speakers WIRED linked together to build a wall of sound, testing whether you can ever have too much of a small thing.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "80%",
+                  "url": "https://www.wired.com/",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": how much animal populations in deep ocean habitats can decline after oil spills, with damage lingering even a decade later as oil sinks and seeps into the seafloor.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Quotes of the Day",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "\"I train like I've never won, and I compete like I've never lost.\" (Eileen Gu, Olympic freestyle skier, on her training mindset)",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "\"You have the right to work, but never to the fruit of work.\" (Krishna to Arjuna in the Bhagavad Gita, on acting without attachment to results)",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "\"Predicting the future's impossible. You work hard because it increases the odds.\" (Michael Bloomberg, on why progress comes from small earned steps, not big lucky hits)",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "AI & The Machines",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Security researchers used AI to dig up years old bugs in PHP, and then the AI assisted attacks started.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " The vulnerabilities had sat unnoticed for years in the web scripting language that powers a huge share of the internet. Now the same AI tooling that helps researchers find flaws is handing attackers a faster way to exploit them. It is a preview of a new security era, where discovery and weaponization happen at machine speed. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "WIRED",
+                  "url": "https://www.wired.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Character.ai",
+                  "url": "http://character.ai/",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": "'s bankruptcy might be the first domino of the AI bubble to fall.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " That is the argument from 404 Media's podcast crew, who see the chatbot company's collapse as the first real crack in the AI boom's story. If a buzzy consumer AI brand can go under, the question becomes which overvalued names are next, and how much of the boom was built on vibes instead of revenue. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "404 Media",
+                  "url": "https://www.404media.co/r/6f1f4c26?m=f198361c-d0c1-41bf-86df-5431cede6034",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "The Mind",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Taking care of yourself is not a retreat from the world, Dan Harris argues, it is what lets you engage with it.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " His new nine session course with teachers Sharon Salzberg and Andres Gonzalez is built around one image: fill your own well, and give from the overflow. Give from the well itself and you run dry. The course mixes talks with five guided meditations, from breath work to loving-kindness, and wraps with a live session on October 27. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Dan Harris",
+                  "url": "https://danharris.substack.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Quick Hits & Curiosities",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Everyone is suddenly reverse engineering everything, from gadgets to software, and 404 Media calls it the next wave of AI slop. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "404 Media",
+                  "url": "https://www.404media.co/r/a42d91a5?m=f198361c-d0c1-41bf-86df-5431cede6034",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "The US movement fighting data center construction has a lot to learn from Ireland to New Zealand, where communities have already been through this fight. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "WIRED",
+                  "url": "https://www.wired.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Jil Sander and Puma made a minimalist sneaker that InsideHook is floating as a possible sneaker of the year. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "InsideHook",
+                  "url": "https://www.insidehook.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            }
+          ],
+          "links": [
+            {
+              "title": "WIRED",
+              "url": "https://www.wired.com/"
+            },
+            {
+              "title": "Character.ai",
+              "url": "http://character.ai/"
+            },
+            {
+              "title": "404 Media",
+              "url": "https://www.404media.co/r/6f1f4c26?m=f198361c-d0c1-41bf-86df-5431cede6034"
+            },
+            {
+              "title": "Dan Harris",
+              "url": "https://danharris.substack.com/"
+            },
+            {
+              "title": "404 Media",
+              "url": "https://www.404media.co/r/a42d91a5?m=f198361c-d0c1-41bf-86df-5431cede6034"
+            },
+            {
+              "title": "InsideHook",
+              "url": "https://www.insidehook.com/"
+            }
+          ]
+        }
+      }
     }
   ]
 }
