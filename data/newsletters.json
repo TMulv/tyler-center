@@ -171153,14 +171153,14 @@
       "domain": "Daily newsletter digest",
       "title": "Musk's $76M midterm dump, Meta's biggest fine yet, a 1,000-mile cloud on Mars - Saturday, October 24, 2026",
       "url": "",
-      "description": "Saturday, October 24, 2026 - Afternoon Edition",
-      "body": "Saturday, October 24, 2026 - Afternoon Edition\n\nToday's Numbers\n\n• $6: the $6 meal deal at Dunkin is Danny Dallas's regular order, and he swaps the croissant for an English muffin on the bacon, egg, and cheese, though they will not let him swap bacon for sausage. The only downside, by his own account, is spilling coffee on clean white tees.\n\n• 3 of 10: Kenny Cowboy is trying to beat every Super Mario Bros. game and has finished about 3 of 10 so far, which already makes him feel like a beast. He likes the older ones best, and the clear work equals reward loop.\n\nQuotes of the Day\n\n• \"Okay I have definitely been into converse's with black laces lately because of Johnny Knoxville's aesthetic influence. That guy is the coolest.\" (Danny Dallas, on his current shoe rotation)\n\n• \"It is not sexual at all but I do love you truly.\" (Kenny Cowboy, on being naked with his best friend and bandmate)\n\nFaith & the Ordinary\n\n• Peace, for one writer, is rockier than it looks. Olivia Marstall writes that she is 24, gainfully employed, happily dating, and rooted in her small town, yet she feels bored, not because life is boring but because her own response to it has gone dull. A year ago she lived through a hospital nightmare she still has not dared to fully touch, and she is honest about having screamed at God, argued with the idea that suffering is part of a good plan, and held on anyway. Her answer is not calm for its own sake. It is paying attention on purpose: reading poetry, writing for pleasure, listening to leaves crunch, and letting a drive home with the windows down remind her that she is alive and the people she loves are alive too. (The Republic of Letters)\n\nQuick Hits & Curiosities\n\n• Mario Kart Wii is still a living room staple for Danny Dallas, who plays Koopa Troopa on the bullet bike with his partner. He tried steering with a sideways controller the way you would in a real kart, but a used third party controller had such bad tilt lag that he switched to the nunchuck joystick instead, and says it is just as fun. (Perfectly Imperfect)\n\n• Pranking a coworker, Kenny Cowboy explains, is easy and friendly: when Trevor orders plain chicken wings, the band will secretly make one of them very spicy. It seems mean, he says, but Trevor would do the same to them if he had access to hot sauce. (Perfectly Imperfect)",
+      "description": "Saturday, October 24, 2026 - Evening Edition",
+      "body": "Saturday, October 24, 2026 - Evening Edition\n\nToday's Numbers\n\n• $60 billion: building a gigawatt of AI compute cost roughly $40 billion in 2024 and is now north of $60 billion, and Dylan Patel says it is not clear who is going to eat all the extra cost.\n\n• 50 gigawatts: nearly 50 gigawatts of data centers are being built globally next year, about 35 of them in the US, which is why Patel thinks power is a smaller bottleneck than most people assume.\n\n• 13 to 15%: neocloud debt backed by Anthropic or OpenAI offtake already prices at 13 to 15 percent interest, so capacity without a hyperscaler backer basically cannot get financed at all.\n\n• 70 to 80%: memory makes up 70 to 80 percent of the silicon area inside an AI rack, and high bandwidth memory takes three to four times as many wafers per gigabyte as standard DRAM, which is why Stacy Rasgon asks what happens if memory pricing never collapses.\n\nQuotes of the Day\n\n• \"Substrates is the biggest bottleneck of all the bottlenecks.\" (Dylan Patel, ranking what actually constrains the AI buildout)\n\n• \"Most people are just going to be buying tokens.\" (Dylan Patel, on how enterprises will actually consume AI)\n\nQuick Hits & Curiosities\n\n• OpenAI's first-generation chip beat Blackwell in SemiAnalysis's own InferenceX tests, and stripping chip designers' margins out entirely gets a gigawatt down to about $20 billion. (Fireside Alpha)\n\n• Claude one-shotted a financial model in an hour and 20 minutes, work that would have taken one of Rasgon's analysts a week to build, and three months for Rasgon himself. (Fireside Alpha)\n\n• NVIDIA lost share of total CoWoS and HBM in 2026 and will again next year, even as its earnings keep doubling, because Google, Amazon, and AMD are all taking share. (Fireside Alpha)",
       "blocks": [
         {
           "type": "heading_1",
           "runs": [
             {
-              "text": "Saturday, October 24, 2026 - Afternoon Edition",
+              "text": "Saturday, October 24, 2026 - Evening Edition",
               "url": "",
               "bold": false,
               "italic": false
@@ -171182,13 +171182,13 @@
           "type": "bulleted_list_item",
           "runs": [
             {
-              "text": "$6",
-              "url": "https://www.pi.fyi/p/the-dallas-cowboys",
+              "text": "$60 billion",
+              "url": "https://firesidealpha.substack.com/p/dylan-patel-and-stacy-rasgon-semiconductor",
               "bold": true,
               "italic": false
             },
             {
-              "text": ": the $6 meal deal at Dunkin is Danny Dallas's regular order, and he swaps the croissant for an English muffin on the bacon, egg, and cheese, though they will not let him swap bacon for sausage. The only downside, by his own account, is spilling coffee on clean white tees.",
+              "text": ": building a gigawatt of AI compute cost roughly $40 billion in 2024 and is now north of $60 billion, and Dylan Patel says it is not clear who is going to eat all the extra cost.",
               "url": "",
               "bold": false,
               "italic": false
@@ -171199,13 +171199,47 @@
           "type": "bulleted_list_item",
           "runs": [
             {
-              "text": "3 of 10",
-              "url": "https://www.pi.fyi/p/the-dallas-cowboys",
+              "text": "50 gigawatts",
+              "url": "https://firesidealpha.substack.com/p/dylan-patel-and-stacy-rasgon-semiconductor",
               "bold": true,
               "italic": false
             },
             {
-              "text": ": Kenny Cowboy is trying to beat every Super Mario Bros. game and has finished about 3 of 10 so far, which already makes him feel like a beast. He likes the older ones best, and the clear work equals reward loop.",
+              "text": ": nearly 50 gigawatts of data centers are being built globally next year, about 35 of them in the US, which is why Patel thinks power is a smaller bottleneck than most people assume.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "13 to 15%",
+              "url": "https://firesidealpha.substack.com/p/dylan-patel-and-stacy-rasgon-semiconductor",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": ": neocloud debt backed by Anthropic or OpenAI offtake already prices at 13 to 15 percent interest, so capacity without a hyperscaler backer basically cannot get financed at all.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "70 to 80%",
+              "url": "https://firesidealpha.substack.com/p/dylan-patel-and-stacy-rasgon-semiconductor",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": ": memory makes up 70 to 80 percent of the silicon area inside an AI rack, and high bandwidth memory takes three to four times as many wafers per gigabyte as standard DRAM, which is why Stacy Rasgon asks what happens if memory pricing never collapses.",
               "url": "",
               "bold": false,
               "italic": false
@@ -171227,7 +171261,7 @@
           "type": "bulleted_list_item",
           "runs": [
             {
-              "text": "\"Okay I have definitely been into converse's with black laces lately because of Johnny Knoxville's aesthetic influence. That guy is the coolest.\" (Danny Dallas, on his current shoe rotation)",
+              "text": "\"Substrates is the biggest bottleneck of all the bottlenecks.\" (Dylan Patel, ranking what actually constrains the AI buildout)",
               "url": "",
               "bold": false,
               "italic": false
@@ -171238,47 +171272,7 @@
           "type": "bulleted_list_item",
           "runs": [
             {
-              "text": "\"It is not sexual at all but I do love you truly.\" (Kenny Cowboy, on being naked with his best friend and bandmate)",
-              "url": "",
-              "bold": false,
-              "italic": false
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "runs": [
-            {
-              "text": "Faith & the Ordinary",
-              "url": "",
-              "bold": true,
-              "italic": false
-            }
-          ]
-        },
-        {
-          "type": "bulleted_list_item",
-          "runs": [
-            {
-              "text": "Peace, for one writer, is rockier than it looks.",
-              "url": "",
-              "bold": true,
-              "italic": false
-            },
-            {
-              "text": " Olivia Marstall writes that she is 24, gainfully employed, happily dating, and rooted in her small town, yet she feels bored, not because life is boring but because her own response to it has gone dull. A year ago she lived through a hospital nightmare she still has not dared to fully touch, and she is honest about having screamed at God, argued with the idea that suffering is part of a good plan, and held on anyway. Her answer is not calm for its own sake. It is paying attention on purpose: reading poetry, writing for pleasure, listening to leaves crunch, and letting a drive home with the windows down remind her that she is alive and the people she loves are alive too. (",
-              "url": "",
-              "bold": false,
-              "italic": false
-            },
-            {
-              "text": "The Republic of Letters",
-              "url": "https://therepublicofletters.substack.com/p/on-peace",
-              "bold": false,
-              "italic": false
-            },
-            {
-              "text": ")",
+              "text": "\"Most people are just going to be buying tokens.\" (Dylan Patel, on how enterprises will actually consume AI)",
               "url": "",
               "bold": false,
               "italic": false
@@ -171300,14 +171294,14 @@
           "type": "bulleted_list_item",
           "runs": [
             {
-              "text": "Mario Kart Wii is still a living room staple for Danny Dallas, who plays Koopa Troopa on the bullet bike with his partner. He tried steering with a sideways controller the way you would in a real kart, but a used third party controller had such bad tilt lag that he switched to the nunchuck joystick instead, and says it is just as fun. (",
+              "text": "OpenAI's first-generation chip beat Blackwell in SemiAnalysis's own InferenceX tests, and stripping chip designers' margins out entirely gets a gigawatt down to about $20 billion. (",
               "url": "",
               "bold": false,
               "italic": false
             },
             {
-              "text": "Perfectly Imperfect",
-              "url": "https://www.pi.fyi/p/the-dallas-cowboys",
+              "text": "Fireside Alpha",
+              "url": "https://firesidealpha.substack.com/p/dylan-patel-and-stacy-rasgon-semiconductor",
               "bold": false,
               "italic": false
             },
@@ -171323,14 +171317,37 @@
           "type": "bulleted_list_item",
           "runs": [
             {
-              "text": "Pranking a coworker, Kenny Cowboy explains, is easy and friendly: when Trevor orders plain chicken wings, the band will secretly make one of them very spicy. It seems mean, he says, but Trevor would do the same to them if he had access to hot sauce. (",
+              "text": "Claude one-shotted a financial model in an hour and 20 minutes, work that would have taken one of Rasgon's analysts a week to build, and three months for Rasgon himself. (",
               "url": "",
               "bold": false,
               "italic": false
             },
             {
-              "text": "Perfectly Imperfect",
-              "url": "https://www.pi.fyi/p/the-dallas-cowboys",
+              "text": "Fireside Alpha",
+              "url": "https://firesidealpha.substack.com/p/dylan-patel-and-stacy-rasgon-semiconductor",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "NVIDIA lost share of total CoWoS and HBM in 2026 and will again next year, even as its earnings keep doubling, because Google, Amazon, and AMD are all taking share. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Fireside Alpha",
+              "url": "https://firesidealpha.substack.com/p/dylan-patel-and-stacy-rasgon-semiconductor",
               "bold": false,
               "italic": false
             },
@@ -171346,12 +171363,8 @@
       "publishedAt": "2026-10-24T11:58:00Z",
       "links": [
         {
-          "title": "Perfectly Imperfect",
-          "url": "https://www.pi.fyi/p/the-dallas-cowboys"
-        },
-        {
-          "title": "The Republic of Letters",
-          "url": "https://therepublicofletters.substack.com/p/on-peace"
+          "title": "Fireside Alpha",
+          "url": "https://firesidealpha.substack.com/p/dylan-patel-and-stacy-rasgon-semiconductor"
         }
       ],
       "versions": {
@@ -172393,8 +172406,222 @@
             }
           ]
         },
+        "evening": {
+          "body": "Saturday, October 24, 2026 - Evening Edition\n\nToday's Numbers\n\n• $60 billion: building a gigawatt of AI compute cost roughly $40 billion in 2024 and is now north of $60 billion, and Dylan Patel says it is not clear who is going to eat all the extra cost.\n\n• 50 gigawatts: nearly 50 gigawatts of data centers are being built globally next year, about 35 of them in the US, which is why Patel thinks power is a smaller bottleneck than most people assume.\n\n• 13 to 15%: neocloud debt backed by Anthropic or OpenAI offtake already prices at 13 to 15 percent interest, so capacity without a hyperscaler backer basically cannot get financed at all.\n\n• 70 to 80%: memory makes up 70 to 80 percent of the silicon area inside an AI rack, and high bandwidth memory takes three to four times as many wafers per gigabyte as standard DRAM, which is why Stacy Rasgon asks what happens if memory pricing never collapses.\n\nQuotes of the Day\n\n• \"Substrates is the biggest bottleneck of all the bottlenecks.\" (Dylan Patel, ranking what actually constrains the AI buildout)\n\n• \"Most people are just going to be buying tokens.\" (Dylan Patel, on how enterprises will actually consume AI)\n\nQuick Hits & Curiosities\n\n• OpenAI's first-generation chip beat Blackwell in SemiAnalysis's own InferenceX tests, and stripping chip designers' margins out entirely gets a gigawatt down to about $20 billion. (Fireside Alpha)\n\n• Claude one-shotted a financial model in an hour and 20 minutes, work that would have taken one of Rasgon's analysts a week to build, and three months for Rasgon himself. (Fireside Alpha)\n\n• NVIDIA lost share of total CoWoS and HBM in 2026 and will again next year, even as its earnings keep doubling, because Google, Amazon, and AMD are all taking share. (Fireside Alpha)",
+          "blocks": [
+            {
+              "type": "heading_1",
+              "runs": [
+                {
+                  "text": "Saturday, October 24, 2026 - Evening Edition",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Today's Numbers",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "$60 billion",
+                  "url": "https://firesidealpha.substack.com/p/dylan-patel-and-stacy-rasgon-semiconductor",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": building a gigawatt of AI compute cost roughly $40 billion in 2024 and is now north of $60 billion, and Dylan Patel says it is not clear who is going to eat all the extra cost.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "50 gigawatts",
+                  "url": "https://firesidealpha.substack.com/p/dylan-patel-and-stacy-rasgon-semiconductor",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": nearly 50 gigawatts of data centers are being built globally next year, about 35 of them in the US, which is why Patel thinks power is a smaller bottleneck than most people assume.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "13 to 15%",
+                  "url": "https://firesidealpha.substack.com/p/dylan-patel-and-stacy-rasgon-semiconductor",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": neocloud debt backed by Anthropic or OpenAI offtake already prices at 13 to 15 percent interest, so capacity without a hyperscaler backer basically cannot get financed at all.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "70 to 80%",
+                  "url": "https://firesidealpha.substack.com/p/dylan-patel-and-stacy-rasgon-semiconductor",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": memory makes up 70 to 80 percent of the silicon area inside an AI rack, and high bandwidth memory takes three to four times as many wafers per gigabyte as standard DRAM, which is why Stacy Rasgon asks what happens if memory pricing never collapses.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Quotes of the Day",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "\"Substrates is the biggest bottleneck of all the bottlenecks.\" (Dylan Patel, ranking what actually constrains the AI buildout)",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "\"Most people are just going to be buying tokens.\" (Dylan Patel, on how enterprises will actually consume AI)",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Quick Hits & Curiosities",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "OpenAI's first-generation chip beat Blackwell in SemiAnalysis's own InferenceX tests, and stripping chip designers' margins out entirely gets a gigawatt down to about $20 billion. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Fireside Alpha",
+                  "url": "https://firesidealpha.substack.com/p/dylan-patel-and-stacy-rasgon-semiconductor",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Claude one-shotted a financial model in an hour and 20 minutes, work that would have taken one of Rasgon's analysts a week to build, and three months for Rasgon himself. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Fireside Alpha",
+                  "url": "https://firesidealpha.substack.com/p/dylan-patel-and-stacy-rasgon-semiconductor",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "NVIDIA lost share of total CoWoS and HBM in 2026 and will again next year, even as its earnings keep doubling, because Google, Amazon, and AMD are all taking share. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Fireside Alpha",
+                  "url": "https://firesidealpha.substack.com/p/dylan-patel-and-stacy-rasgon-semiconductor",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            }
+          ],
+          "links": [
+            {
+              "title": "Fireside Alpha",
+              "url": "https://firesidealpha.substack.com/p/dylan-patel-and-stacy-rasgon-semiconductor"
+            }
+          ]
+        },
         "full": {
-          "body": "Saturday, October 24, 2026 - Morning Edition\n\nToday's Numbers\n\n• $76 million: Elon Musk gave his America PAC another $76 million in the first two weeks of October, pushing his total giving to Republican groups past $445 million this cycle and making him the biggest known individual donor of the midterms. The Texas Senate race ate most of it, drawing $15.2 million, including $12.4 million spent attacking Democrat James Talarico.\n\n• $240,000: Goldmund's Mimesis Statement preamp costs $240,000, more than a fancy sports car, and it is only one piece of a $1.5 million audio setup built on extreme Swiss sound engineering.\n\nQuotes of the Day\n\n• \"In my family, money was never just money. It was a way to yield power and a way to be protected. It could be weaponized, but other times it was the closest thing to care that anyone knew how to offer.\" (Jessica of the Post-Wealth Project, on growing up in a family where money stood in for love and control)\n\nMoney & Power\n\n• Meta just got hit with its biggest fine yet, and the pile of court-ordered payments keeps growing. WIRED's Lauren Goode asks the obvious question: how many billions does it actually take to hold Meta accountable? The fines keep landing, the business keeps humming, and the gap between the two is the story. (WIRED)\n\nThe Culture\n\n• A newly relaunched Christian dating app is pitching old-fashioned romance to a generation that barely dates. Upward's pitch to Gen Z includes a \"Chivalry Mode\" and a \"Marriage Timeline,\" betting that trad values are a feature, not a punchline. Whether young daters actually want a timeline handed to them is another question. (WIRED)\n\nQuick Hits & Curiosities\n\n• A mysterious 1,000-mile cloud on Mars has baffled astronomers since 2018, and a new study finally offers a possible explanation for its exotic physics. (WIRED)\n\n• One man's love of model trains is so infectious that WITI recommends starting your weekend with it. (Why Is This Interesting?)\n\n• Japan is running low on denim, and the shortage is reshaping what gets made. (Why Is This Interesting?)\n\n• Ceiling fans have gotten weird: there is now such a thing as a \"fandelier,\" a chandelier with a fan built in. (Why Is This Interesting?)\n\n• Local Wiki maps everything within a 30-minute walk of you that is also on Wikipedia, a brilliant way to rediscover your own neighborhood. (Why Is This Interesting?)\n\nSaturday, October 24, 2026 - Midday Edition\n\nToday's Numbers\n\n• 235 milliseconds: carrion crows make snap decisions in about 235 milliseconds on average, roughly twice as fast as monkeys or humans, and without losing accuracy. Two crows picked the dominant direction of moving dots on a touchscreen at 75 and 73 percent accuracy, which makes \"birdbrain\" sound like a compliment.\n\n• 5.5 million: about 5.5 million Americans now participate in cross-country skiing, up from 4.6 million a decade ago, supporting a global ski gear market worth roughly $1.5 billion a year.\n\n• 51,000: the first global inventory counted more than 51,000 rock glaciers, whose insulating debris helps them hold onto ice. Those studied in Grand Teton National Park are losing an average of two inches a year, compared with 2.8 feet for clean ice glaciers.\n\n• 104: Russia's Northern Sea Route recorded 104 confirmed transit voyages through September, already beating 103 in all of 2025, while cargo volumes rose 15 percent to 3.7 million metric tons.\n\nQuotes of the Day\n\n• \"Not to be absolutely certain is, I think, one of the essential things in rationality.\" (Bertrand Russell, via Weekend Briefing's Weekend Wisdom)\n\n• \"When senior FBI agents lie to Congress believing they are above the law, it's time to bring the hammer of justice down on them.\" (Jeanine Pirro, U.S. Attorney for Washington, D.C., on charges against two former senior FBI officials)\n\nAI & the Mind\n\n• Math is having an identity crisis, and AI is the reason. Steven Strogatz describes a field caught between exhilaration and grief as machines start solving problems that humans struggled with for decades, and some of the solutions are imaginative and elegant, the very qualities mathematicians thought made their work human. Terence Tao worries the race to publish AI results is disrupting how young mathematicians build careers, and he calls the reckoning \"soul-searching at gunpoint.\" The open question is not just who does the math, but who gets to ask the questions, and what a human career in mathematics is for when a machine can do the work. (Weekend Briefing)\n\n• We may owe our big brains to a virus we never caught. A family of retroviruses called PTERV1 invaded the genomes of chimps, bonobos, and gorillas millions of years ago, silencing a gene involved in brain development, but humans were left untouched. Researchers think early humans either lived somewhere else at the time or happened to be resistant, and that stroke of luck may be part of why our brains ended up roughly three times the size of a chimp's. Our cleverness, in other words, may be partly an accident of dodging a pandemic. (404 Media)\n\n• Van Gogh's \"Starry Night\" may depict a specific night, not a fantasy. Researchers matched the painting's sky to July 22, 1889, when a waning crescent Moon, Venus, and the Hyades cluster gathered in that narrow frame. That date conflicts with the conventional June dating of the painting, and it turns a beloved swirl of imagination into something closer to observation. Call it forensic astroartistry: using the stars to date the art. (404 Media)\n\nPolitics & Power\n\n• The documentary about Elon Musk keeps getting blocked by the very platforms it criticizes. Alex Gibney told Status that YouTube, TikTok, and Meta all initially blocked promotion of his four-hour film \"Musk\" as political, and TikTok banned the film's advertising account just as it headed into wide release, even while greenlighting ads for Amazon's \"Melania\" project. X, Musk's own supposed free speech haven, also refused the ads, and Gibney calls the site a propaganda tool and a \"rage addicting machine.\" The bigger worry is the film's eventual HBO home, now owned by David Ellison's Skydance, after Semafor reported Musk invested $1 billion into the debt-laden company. Gibney says he has been told Ellison is committed to running it, but adds, \"Of course, I'm concerned.\" (Status)\n\n• Alaska has two Sullivans on the Senate ballot, and now the Justice Department wants certification stopped. The DOJ sued Alaska to block certification of any result affected by voter confusion in the race between Republican Senator Dan S. Sullivan and Democrat Mary Peltola, pointing to a second candidate named Dan J. Sullivan, a retired teacher and fisherman running without a party label. If the senator loses but would have won with the other Sullivan's votes added, the DOJ wants certification held pending an investigation. President Trump called the candidacy a \"SCAM\" on Truth Social, while Alaska's Supreme Court already let Dan J. Sullivan run back in June. Election Day is November 3, and early voting is already underway. (NLDR Media)\n\n• Vivek Ramaswamy's October surprise backfired. The Ohio gubernatorial nominee's campaign released an ad in which Democratic nominee Amy Acton's estranged mother calls her a liar, and critics note the sting: the ad implies doubt about Acton's account of abuse as a child. Condemnation came from both parties, with Ohio Governor Mike DeWine, who endorsed Ramaswamy, calling the ad \"wrong\" and \"deeply, deeply troubling,\" and Nikki Haley calling Ramaswamy \"a bad guy.\" The ad itself leaked through a push poll and was spotted by an Ohio politics blog before the campaign acknowledged it, and President Trump and Vice President JD Vance have defended the video. (The Argument)\n\nCulture & Weekend\n\n• Seinfeld is still a $5 billion machine, partly by accident. Jerry Seinfeld and Larry David each kept a 15 percent stake because NBC guaranteed the project before a studio was attached, giving the creators unusual leverage over a show that went on to generate roughly $5 billion through syndication, streaming, and home video. The durable advantage is structural: Warner Bros. owns the IP while Sony controls distribution, so Warner cannot just keep the show for its own streaming service and buyers have to pay real cash. Add characters who never change and episodes that work in any order, and you get reruns that never wear out. (Weekend Briefing)\n\n• Bono and the Edge are preaching defiant joy. Bono recalls Dan Savage's account of the AIDS crisis: burying friends in the morning, protesting in the afternoon, and dancing at night, because \"the dance was what we were fighting for.\" That is the spirit U2 wants in its new music: facing suffering directly while still choosing to gather, sing, and celebrate the life you are trying to protect. The Edge draws a line between that choice and denial, since pretending everything is fine leaves the darkness unchallenged. Dancing does not replace the protest. It keeps alive the reason for it. (Weekend Briefing)\n\nQuick Hits & Curiosities\n\n• A Roman sarcophagus at Westminster Abbey, inscribed for a wealthy Londoner named Valerius Amandinus, likely holds someone else entirely: Abbot Ælfwig, born in 993, whose bones were radiocarbon dated to around the turn of the 11th century. Even coffins get recycled. (404 Media)\n\n• Brooklyn band The Dallas Cowboys just dropped an EP, \"Touching Is Punk,\" made on a Nintendo 3DS music app called Rhythm Core Alpha 2, performing as Kenny Cowboy and Danny Dallas in Batman masks. (Perfectly Imperfect)\n\n• A London engineer built one desk to do two jobs, home office by day and workshop the rest of the time, and his one-person company makes IDX, an analogue gauge whose moving needle tracks live data. (Analogue Desk Co.)\n\n• The full 5th Circuit ruled 10 to 7 that immigrants detained by ICE have no constitutional right to a bond hearing, covering Texas, Louisiana, and Mississippi, with the Supreme Court likely to take up a related question soon. (NLDR Media)\n\nSaturday, October 24, 2026 - Afternoon Edition\n\nToday's Numbers\n\n• $6: the $6 meal deal at Dunkin is Danny Dallas's regular order, and he swaps the croissant for an English muffin on the bacon, egg, and cheese, though they will not let him swap bacon for sausage. The only downside, by his own account, is spilling coffee on clean white tees.\n\n• 3 of 10: Kenny Cowboy is trying to beat every Super Mario Bros. game and has finished about 3 of 10 so far, which already makes him feel like a beast. He likes the older ones best, and the clear work equals reward loop.\n\nQuotes of the Day\n\n• \"Okay I have definitely been into converse's with black laces lately because of Johnny Knoxville's aesthetic influence. That guy is the coolest.\" (Danny Dallas, on his current shoe rotation)\n\n• \"It is not sexual at all but I do love you truly.\" (Kenny Cowboy, on being naked with his best friend and bandmate)\n\nFaith & the Ordinary\n\n• Peace, for one writer, is rockier than it looks. Olivia Marstall writes that she is 24, gainfully employed, happily dating, and rooted in her small town, yet she feels bored, not because life is boring but because her own response to it has gone dull. A year ago she lived through a hospital nightmare she still has not dared to fully touch, and she is honest about having screamed at God, argued with the idea that suffering is part of a good plan, and held on anyway. Her answer is not calm for its own sake. It is paying attention on purpose: reading poetry, writing for pleasure, listening to leaves crunch, and letting a drive home with the windows down remind her that she is alive and the people she loves are alive too. (The Republic of Letters)\n\nQuick Hits & Curiosities\n\n• Mario Kart Wii is still a living room staple for Danny Dallas, who plays Koopa Troopa on the bullet bike with his partner. He tried steering with a sideways controller the way you would in a real kart, but a used third party controller had such bad tilt lag that he switched to the nunchuck joystick instead, and says it is just as fun. (Perfectly Imperfect)\n\n• Pranking a coworker, Kenny Cowboy explains, is easy and friendly: when Trevor orders plain chicken wings, the band will secretly make one of them very spicy. It seems mean, he says, but Trevor would do the same to them if he had access to hot sauce. (Perfectly Imperfect)",
+          "body": "Saturday, October 24, 2026 - Morning Edition\n\nToday's Numbers\n\n• $76 million: Elon Musk gave his America PAC another $76 million in the first two weeks of October, pushing his total giving to Republican groups past $445 million this cycle and making him the biggest known individual donor of the midterms. The Texas Senate race ate most of it, drawing $15.2 million, including $12.4 million spent attacking Democrat James Talarico.\n\n• $240,000: Goldmund's Mimesis Statement preamp costs $240,000, more than a fancy sports car, and it is only one piece of a $1.5 million audio setup built on extreme Swiss sound engineering.\n\nQuotes of the Day\n\n• \"In my family, money was never just money. It was a way to yield power and a way to be protected. It could be weaponized, but other times it was the closest thing to care that anyone knew how to offer.\" (Jessica of the Post-Wealth Project, on growing up in a family where money stood in for love and control)\n\nMoney & Power\n\n• Meta just got hit with its biggest fine yet, and the pile of court-ordered payments keeps growing. WIRED's Lauren Goode asks the obvious question: how many billions does it actually take to hold Meta accountable? The fines keep landing, the business keeps humming, and the gap between the two is the story. (WIRED)\n\nThe Culture\n\n• A newly relaunched Christian dating app is pitching old-fashioned romance to a generation that barely dates. Upward's pitch to Gen Z includes a \"Chivalry Mode\" and a \"Marriage Timeline,\" betting that trad values are a feature, not a punchline. Whether young daters actually want a timeline handed to them is another question. (WIRED)\n\nQuick Hits & Curiosities\n\n• A mysterious 1,000-mile cloud on Mars has baffled astronomers since 2018, and a new study finally offers a possible explanation for its exotic physics. (WIRED)\n\n• One man's love of model trains is so infectious that WITI recommends starting your weekend with it. (Why Is This Interesting?)\n\n• Japan is running low on denim, and the shortage is reshaping what gets made. (Why Is This Interesting?)\n\n• Ceiling fans have gotten weird: there is now such a thing as a \"fandelier,\" a chandelier with a fan built in. (Why Is This Interesting?)\n\n• Local Wiki maps everything within a 30-minute walk of you that is also on Wikipedia, a brilliant way to rediscover your own neighborhood. (Why Is This Interesting?)\n\nSaturday, October 24, 2026 - Midday Edition\n\nToday's Numbers\n\n• 235 milliseconds: carrion crows make snap decisions in about 235 milliseconds on average, roughly twice as fast as monkeys or humans, and without losing accuracy. Two crows picked the dominant direction of moving dots on a touchscreen at 75 and 73 percent accuracy, which makes \"birdbrain\" sound like a compliment.\n\n• 5.5 million: about 5.5 million Americans now participate in cross-country skiing, up from 4.6 million a decade ago, supporting a global ski gear market worth roughly $1.5 billion a year.\n\n• 51,000: the first global inventory counted more than 51,000 rock glaciers, whose insulating debris helps them hold onto ice. Those studied in Grand Teton National Park are losing an average of two inches a year, compared with 2.8 feet for clean ice glaciers.\n\n• 104: Russia's Northern Sea Route recorded 104 confirmed transit voyages through September, already beating 103 in all of 2025, while cargo volumes rose 15 percent to 3.7 million metric tons.\n\nQuotes of the Day\n\n• \"Not to be absolutely certain is, I think, one of the essential things in rationality.\" (Bertrand Russell, via Weekend Briefing's Weekend Wisdom)\n\n• \"When senior FBI agents lie to Congress believing they are above the law, it's time to bring the hammer of justice down on them.\" (Jeanine Pirro, U.S. Attorney for Washington, D.C., on charges against two former senior FBI officials)\n\nAI & the Mind\n\n• Math is having an identity crisis, and AI is the reason. Steven Strogatz describes a field caught between exhilaration and grief as machines start solving problems that humans struggled with for decades, and some of the solutions are imaginative and elegant, the very qualities mathematicians thought made their work human. Terence Tao worries the race to publish AI results is disrupting how young mathematicians build careers, and he calls the reckoning \"soul-searching at gunpoint.\" The open question is not just who does the math, but who gets to ask the questions, and what a human career in mathematics is for when a machine can do the work. (Weekend Briefing)\n\n• We may owe our big brains to a virus we never caught. A family of retroviruses called PTERV1 invaded the genomes of chimps, bonobos, and gorillas millions of years ago, silencing a gene involved in brain development, but humans were left untouched. Researchers think early humans either lived somewhere else at the time or happened to be resistant, and that stroke of luck may be part of why our brains ended up roughly three times the size of a chimp's. Our cleverness, in other words, may be partly an accident of dodging a pandemic. (404 Media)\n\n• Van Gogh's \"Starry Night\" may depict a specific night, not a fantasy. Researchers matched the painting's sky to July 22, 1889, when a waning crescent Moon, Venus, and the Hyades cluster gathered in that narrow frame. That date conflicts with the conventional June dating of the painting, and it turns a beloved swirl of imagination into something closer to observation. Call it forensic astroartistry: using the stars to date the art. (404 Media)\n\nPolitics & Power\n\n• The documentary about Elon Musk keeps getting blocked by the very platforms it criticizes. Alex Gibney told Status that YouTube, TikTok, and Meta all initially blocked promotion of his four-hour film \"Musk\" as political, and TikTok banned the film's advertising account just as it headed into wide release, even while greenlighting ads for Amazon's \"Melania\" project. X, Musk's own supposed free speech haven, also refused the ads, and Gibney calls the site a propaganda tool and a \"rage addicting machine.\" The bigger worry is the film's eventual HBO home, now owned by David Ellison's Skydance, after Semafor reported Musk invested $1 billion into the debt-laden company. Gibney says he has been told Ellison is committed to running it, but adds, \"Of course, I'm concerned.\" (Status)\n\n• Alaska has two Sullivans on the Senate ballot, and now the Justice Department wants certification stopped. The DOJ sued Alaska to block certification of any result affected by voter confusion in the race between Republican Senator Dan S. Sullivan and Democrat Mary Peltola, pointing to a second candidate named Dan J. Sullivan, a retired teacher and fisherman running without a party label. If the senator loses but would have won with the other Sullivan's votes added, the DOJ wants certification held pending an investigation. President Trump called the candidacy a \"SCAM\" on Truth Social, while Alaska's Supreme Court already let Dan J. Sullivan run back in June. Election Day is November 3, and early voting is already underway. (NLDR Media)\n\n• Vivek Ramaswamy's October surprise backfired. The Ohio gubernatorial nominee's campaign released an ad in which Democratic nominee Amy Acton's estranged mother calls her a liar, and critics note the sting: the ad implies doubt about Acton's account of abuse as a child. Condemnation came from both parties, with Ohio Governor Mike DeWine, who endorsed Ramaswamy, calling the ad \"wrong\" and \"deeply, deeply troubling,\" and Nikki Haley calling Ramaswamy \"a bad guy.\" The ad itself leaked through a push poll and was spotted by an Ohio politics blog before the campaign acknowledged it, and President Trump and Vice President JD Vance have defended the video. (The Argument)\n\nCulture & Weekend\n\n• Seinfeld is still a $5 billion machine, partly by accident. Jerry Seinfeld and Larry David each kept a 15 percent stake because NBC guaranteed the project before a studio was attached, giving the creators unusual leverage over a show that went on to generate roughly $5 billion through syndication, streaming, and home video. The durable advantage is structural: Warner Bros. owns the IP while Sony controls distribution, so Warner cannot just keep the show for its own streaming service and buyers have to pay real cash. Add characters who never change and episodes that work in any order, and you get reruns that never wear out. (Weekend Briefing)\n\n• Bono and the Edge are preaching defiant joy. Bono recalls Dan Savage's account of the AIDS crisis: burying friends in the morning, protesting in the afternoon, and dancing at night, because \"the dance was what we were fighting for.\" That is the spirit U2 wants in its new music: facing suffering directly while still choosing to gather, sing, and celebrate the life you are trying to protect. The Edge draws a line between that choice and denial, since pretending everything is fine leaves the darkness unchallenged. Dancing does not replace the protest. It keeps alive the reason for it. (Weekend Briefing)\n\nQuick Hits & Curiosities\n\n• A Roman sarcophagus at Westminster Abbey, inscribed for a wealthy Londoner named Valerius Amandinus, likely holds someone else entirely: Abbot Ælfwig, born in 993, whose bones were radiocarbon dated to around the turn of the 11th century. Even coffins get recycled. (404 Media)\n\n• Brooklyn band The Dallas Cowboys just dropped an EP, \"Touching Is Punk,\" made on a Nintendo 3DS music app called Rhythm Core Alpha 2, performing as Kenny Cowboy and Danny Dallas in Batman masks. (Perfectly Imperfect)\n\n• A London engineer built one desk to do two jobs, home office by day and workshop the rest of the time, and his one-person company makes IDX, an analogue gauge whose moving needle tracks live data. (Analogue Desk Co.)\n\n• The full 5th Circuit ruled 10 to 7 that immigrants detained by ICE have no constitutional right to a bond hearing, covering Texas, Louisiana, and Mississippi, with the Supreme Court likely to take up a related question soon. (NLDR Media)\n\nSaturday, October 24, 2026 - Afternoon Edition\n\nToday's Numbers\n\n• $6: the $6 meal deal at Dunkin is Danny Dallas's regular order, and he swaps the croissant for an English muffin on the bacon, egg, and cheese, though they will not let him swap bacon for sausage. The only downside, by his own account, is spilling coffee on clean white tees.\n\n• 3 of 10: Kenny Cowboy is trying to beat every Super Mario Bros. game and has finished about 3 of 10 so far, which already makes him feel like a beast. He likes the older ones best, and the clear work equals reward loop.\n\nQuotes of the Day\n\n• \"Okay I have definitely been into converse's with black laces lately because of Johnny Knoxville's aesthetic influence. That guy is the coolest.\" (Danny Dallas, on his current shoe rotation)\n\n• \"It is not sexual at all but I do love you truly.\" (Kenny Cowboy, on being naked with his best friend and bandmate)\n\nFaith & the Ordinary\n\n• Peace, for one writer, is rockier than it looks. Olivia Marstall writes that she is 24, gainfully employed, happily dating, and rooted in her small town, yet she feels bored, not because life is boring but because her own response to it has gone dull. A year ago she lived through a hospital nightmare she still has not dared to fully touch, and she is honest about having screamed at God, argued with the idea that suffering is part of a good plan, and held on anyway. Her answer is not calm for its own sake. It is paying attention on purpose: reading poetry, writing for pleasure, listening to leaves crunch, and letting a drive home with the windows down remind her that she is alive and the people she loves are alive too. (The Republic of Letters)\n\nQuick Hits & Curiosities\n\n• Mario Kart Wii is still a living room staple for Danny Dallas, who plays Koopa Troopa on the bullet bike with his partner. He tried steering with a sideways controller the way you would in a real kart, but a used third party controller had such bad tilt lag that he switched to the nunchuck joystick instead, and says it is just as fun. (Perfectly Imperfect)\n\n• Pranking a coworker, Kenny Cowboy explains, is easy and friendly: when Trevor orders plain chicken wings, the band will secretly make one of them very spicy. It seems mean, he says, but Trevor would do the same to them if he had access to hot sauce. (Perfectly Imperfect)\n\nSaturday, October 24, 2026 - Evening Edition\n\nToday's Numbers\n\n• $60 billion: building a gigawatt of AI compute cost roughly $40 billion in 2024 and is now north of $60 billion, and Dylan Patel says it is not clear who is going to eat all the extra cost.\n\n• 50 gigawatts: nearly 50 gigawatts of data centers are being built globally next year, about 35 of them in the US, which is why Patel thinks power is a smaller bottleneck than most people assume.\n\n• 13 to 15%: neocloud debt backed by Anthropic or OpenAI offtake already prices at 13 to 15 percent interest, so capacity without a hyperscaler backer basically cannot get financed at all.\n\n• 70 to 80%: memory makes up 70 to 80 percent of the silicon area inside an AI rack, and high bandwidth memory takes three to four times as many wafers per gigabyte as standard DRAM, which is why Stacy Rasgon asks what happens if memory pricing never collapses.\n\nQuotes of the Day\n\n• \"Substrates is the biggest bottleneck of all the bottlenecks.\" (Dylan Patel, ranking what actually constrains the AI buildout)\n\n• \"Most people are just going to be buying tokens.\" (Dylan Patel, on how enterprises will actually consume AI)\n\nQuick Hits & Curiosities\n\n• OpenAI's first-generation chip beat Blackwell in SemiAnalysis's own InferenceX tests, and stripping chip designers' margins out entirely gets a gigawatt down to about $20 billion. (Fireside Alpha)\n\n• Claude one-shotted a financial model in an hour and 20 minutes, work that would have taken one of Rasgon's analysts a week to build, and three months for Rasgon himself. (Fireside Alpha)\n\n• NVIDIA lost share of total CoWoS and HBM in 2026 and will again next year, even as its earnings keep doubling, because Google, Amazon, and AMD are all taking share. (Fireside Alpha)",
           "blocks": [
             {
               "type": "heading_1",
@@ -173356,6 +173583,209 @@
                   "italic": false
                 }
               ]
+            },
+            {
+              "type": "heading_1",
+              "runs": [
+                {
+                  "text": "Saturday, October 24, 2026 - Evening Edition",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Today's Numbers",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "$60 billion",
+                  "url": "https://firesidealpha.substack.com/p/dylan-patel-and-stacy-rasgon-semiconductor",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": building a gigawatt of AI compute cost roughly $40 billion in 2024 and is now north of $60 billion, and Dylan Patel says it is not clear who is going to eat all the extra cost.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "50 gigawatts",
+                  "url": "https://firesidealpha.substack.com/p/dylan-patel-and-stacy-rasgon-semiconductor",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": nearly 50 gigawatts of data centers are being built globally next year, about 35 of them in the US, which is why Patel thinks power is a smaller bottleneck than most people assume.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "13 to 15%",
+                  "url": "https://firesidealpha.substack.com/p/dylan-patel-and-stacy-rasgon-semiconductor",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": neocloud debt backed by Anthropic or OpenAI offtake already prices at 13 to 15 percent interest, so capacity without a hyperscaler backer basically cannot get financed at all.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "70 to 80%",
+                  "url": "https://firesidealpha.substack.com/p/dylan-patel-and-stacy-rasgon-semiconductor",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": memory makes up 70 to 80 percent of the silicon area inside an AI rack, and high bandwidth memory takes three to four times as many wafers per gigabyte as standard DRAM, which is why Stacy Rasgon asks what happens if memory pricing never collapses.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Quotes of the Day",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "\"Substrates is the biggest bottleneck of all the bottlenecks.\" (Dylan Patel, ranking what actually constrains the AI buildout)",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "\"Most people are just going to be buying tokens.\" (Dylan Patel, on how enterprises will actually consume AI)",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Quick Hits & Curiosities",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "OpenAI's first-generation chip beat Blackwell in SemiAnalysis's own InferenceX tests, and stripping chip designers' margins out entirely gets a gigawatt down to about $20 billion. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Fireside Alpha",
+                  "url": "https://firesidealpha.substack.com/p/dylan-patel-and-stacy-rasgon-semiconductor",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Claude one-shotted a financial model in an hour and 20 minutes, work that would have taken one of Rasgon's analysts a week to build, and three months for Rasgon himself. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Fireside Alpha",
+                  "url": "https://firesidealpha.substack.com/p/dylan-patel-and-stacy-rasgon-semiconductor",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "NVIDIA lost share of total CoWoS and HBM in 2026 and will again next year, even as its earnings keep doubling, because Google, Amazon, and AMD are all taking share. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Fireside Alpha",
+                  "url": "https://firesidealpha.substack.com/p/dylan-patel-and-stacy-rasgon-semiconductor",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
             }
           ],
           "links": [
@@ -173410,6 +173840,10 @@
             {
               "title": "The Republic of Letters",
               "url": "https://therepublicofletters.substack.com/p/on-peace"
+            },
+            {
+              "title": "Fireside Alpha",
+              "url": "https://firesidealpha.substack.com/p/dylan-patel-and-stacy-rasgon-semiconductor"
             }
           ]
         }
