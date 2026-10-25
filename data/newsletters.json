@@ -176797,6 +176797,531 @@
           ]
         }
       }
+    },
+    {
+      "id": "digest-7fa0dab6-a69d-437d-ae17-ce000bbb394f",
+      "channel": "newsletters",
+      "source": "notion",
+      "kind": "Agent-written digest",
+      "domain": "Daily newsletter digest",
+      "title": "The Antichrist Lectures, AI Slop & Chili Weather",
+      "url": "",
+      "description": "A Sunday dispatch assembled from the day’s newsletters: prediction models disagreeing with markets, Peter Thiel lecturing on the Antichrist, and a half-hour turkey chili doing the work of a long simmer. The common thread is wonderfully 2026: systems trying to predict us, sell to us, or automate us—w",
+      "body": "A Sunday dispatch assembled from the day’s newsletters: prediction models disagreeing with markets, Peter Thiel lecturing on the Antichrist, and a half-hour turkey chili doing the work of a long simmer. The common thread is wonderfully 2026: systems trying to predict us, sell to us, or automate us—while people keep making odd, specific things anyway.\n\nBest links\n\n• The forecast that refuses to have a gut feeling. Silver Bulletin goes race by race through the Senate map, using the gap between FLIPR and prediction markets as a way to ask what a model sees that everyone else is missing. The useful idea is methodological humility: lock the rules early, then inspect the disagreements instead of improvising around them.\n\n• The new wild west of AI slop. 404 Media leads with the “reverse-engineer anything” wave, then pairs it with Accenture tightening Claude spending and a report that Character.AI’s bankruptcy may be the first visible domino of an AI bubble. A good little bundle of technical opportunism, corporate retreat, and platform fragility.\n\n• Booksellers versus the machine. Links I Would Gchat You If We Were Friends surfaces a hopeful profile of Barnes & Noble CEO James Daunt: treat books as distinct works rather than commodities moving through an optimization system. The reported opening of 60 new U.S. stores makes the “reading is dead” story feel prematurely tidy.\n\nWorth reading\n\n• Peter Thiel’s Nashville Antichrist lectures. Pirate Wires reconstructs four off-the-record talks held at a Masonic lodge, where Christian end-times prophecy becomes a lens for thinking about technology, power, progress, and the danger of a ruler who looks enough like the thing he replaces. Even if the theology is not your thing, the piece is a fascinating report from a very particular intellectual subculture.\n\n• The beauty industry’s hyperreal turn. In The Don’t Buy List, Jessica DeFino connects “yes-makeup makeup,” celebrity beauty brands, dupes, AI-generated captions, “Mar-a-Lago Face,” and the return of facial paralysis as an anti-Botox warning. The sharpest thesis: for today’s consumer, the act of duplicating the real thing may be more exciting than the real thing itself.\n\nFood & places\n\n• Thirty-minute autumn comfort. NYT Cooking recommends Genevieve Ko’s quick turkey chili, which gets long-simmered depth from canned lentils and frozen kale. The same dispatch points toward garlic-butter roast chicken, matar tofu, spinach-feta quesadillas with pickled jalapeños, roasted sweet potatoes with tahini and pomegranate, and banana-bread pancakes.\n\n• A tiny literary side dish. The Cooking newsletter’s reading recommendation is Elizabeth Taylor’s Blaming, a social novel whose beef olives are emphatically not olives: pounded steak stuffed with sausage or haggis. Pair the book with Yotam Ottolenghi’s sticky date and pecan pudding.\n\nIdeas to steal\n\n• Use PULL to test a product idea. Lenny’s Newsletter shares Rob Snyder’s framework: Project, Unavoidable, List of options, Limitations. The episode also stresses cold outreach, early sales calls, and the unglamorous “goblin mode” required when nothing is working.\n\n• Work increases the odds; it does not guarantee the outcome. Brain Food collects Michael Bloomberg’s evolutionary-over-revolutionary view: play as many hands as possible, intelligently, and take the best of what arrives. Pair that with its smaller rule: if you don’t know what will work, eliminate what won’t.\n\n• A useful AI litmus test. From Links: “Am I using AI to avoid a conversation, hand over a decision, or skip something it would be more meaningful for me to develop on my own?”\n\nInternet oddities\n\n• Dark nutrition is having a moment. The Links newsletter flags a fringe movement built around raw bison brains, unpasteurized dairy, and scavenged roadkill—a symptom, perhaps, of post-pandemic distrust of public-health institutions.\n\n• The anti-algorithm starter pack. Today’s email included a map of every licensed dog in New York City, a directory of Wikipedia pages within 1.5 miles of you, and a fact check that drops “six degrees of Kevin Bacon” to four. Small, pointless, perfect.\n\n• Aldens as a gift economy. Wardrobe is giving away a worn pair of limited Alden 975s in Color 8 shell cordovan to a qualifying 7.5D subscriber. The best detail: the winner is asked to prove the size with photos of two pairs already in their rotation, not to win by speed.\n\nOne-liners\n\n• “The price of admission to anything extraordinary isn’t talent or capital. It’s a willingness to be publicly bad at something for a while.” — Brain Food\n\n• “I train like I’ve never won, and I compete like I’ve never lost.” — Eileen Gu, via Brain Food\n\n• The real internet luxury is still a human being who read 4,309 links so you don’t have to. — Links I Would Gchat You If We Were Friends",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "A Sunday dispatch assembled from the day’s newsletters: prediction models disagreeing with markets, Peter Thiel lecturing on the Antichrist, and a half-hour turkey chili doing the work of a long simmer. The common thread is wonderfully 2026: systems trying to predict us, sell to us, or automate us—while people keep making odd, specific things anyway.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "heading_2",
+          "runs": [
+            {
+              "text": "Best links",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "The forecast that refuses to have a gut feeling.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Silver Bulletin",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": " goes race by race through the Senate map, using the gap between FLIPR and prediction markets as a way to ask what a model sees that everyone else is missing. The useful idea is methodological humility: lock the rules early, then inspect the disagreements instead of improvising around them.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "The new wild west of AI slop.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "404 Media",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": " leads with the “reverse-engineer anything” wave, then pairs it with Accenture tightening Claude spending and a report that ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Character.AI",
+              "url": "http://character.ai/",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "’s bankruptcy may be the first visible domino of an AI bubble. A good little bundle of technical opportunism, corporate retreat, and platform fragility.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Booksellers versus the machine.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Links I Would Gchat You If We Were Friends",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": " surfaces a hopeful profile of Barnes & Noble CEO James Daunt: treat books as distinct works rather than commodities moving through an optimization system. The reported opening of 60 new U.S. stores makes the “reading is dead” story feel prematurely tidy.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "heading_2",
+          "runs": [
+            {
+              "text": "Worth reading",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Peter Thiel’s Nashville Antichrist lectures.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Pirate Wires",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": " reconstructs four off-the-record talks held at a Masonic lodge, where Christian end-times prophecy becomes a lens for thinking about technology, power, progress, and the danger of a ruler who looks enough like the thing he replaces. Even if the theology is not your thing, the piece is a fascinating report from a very particular intellectual subculture.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "The beauty industry’s hyperreal turn.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " In ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "The Don’t Buy List",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ", Jessica DeFino connects “yes-makeup makeup,” celebrity beauty brands, dupes, AI-generated captions, “Mar-a-Lago Face,” and the return of facial paralysis as an anti-Botox warning. The sharpest thesis: for today’s consumer, the act of duplicating the real thing may be more exciting than the real thing itself.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "heading_2",
+          "runs": [
+            {
+              "text": "Food & places",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Thirty-minute autumn comfort.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "NYT Cooking",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": " recommends Genevieve Ko’s quick turkey chili, which gets long-simmered depth from canned lentils and frozen kale. The same dispatch points toward garlic-butter roast chicken, matar tofu, spinach-feta quesadillas with pickled jalapeños, roasted sweet potatoes with tahini and pomegranate, and banana-bread pancakes.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "A tiny literary side dish.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " The Cooking newsletter’s reading recommendation is Elizabeth Taylor’s ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Blaming",
+              "url": "",
+              "bold": false,
+              "italic": true
+            },
+            {
+              "text": ", a social novel whose beef olives are emphatically not olives: pounded steak stuffed with sausage or haggis. Pair the book with Yotam Ottolenghi’s sticky date and pecan pudding.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "heading_2",
+          "runs": [
+            {
+              "text": "Ideas to steal",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Use PULL to test a product idea.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Lenny’s Newsletter",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": " shares Rob Snyder’s framework: ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Project, Unavoidable, List of options, Limitations",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": ". The episode also stresses cold outreach, early sales calls, and the unglamorous “goblin mode” required when nothing is working.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Work increases the odds; it does not guarantee the outcome.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Brain Food",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": " collects Michael Bloomberg’s evolutionary-over-revolutionary view: play as many hands as possible, intelligently, and take the best of what arrives. Pair that with its smaller rule: if you don’t know what will work, eliminate what won’t.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "A useful AI litmus test.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " From ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Links",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ": “Am I using AI to avoid a conversation, hand over a decision, or skip something it would be more meaningful for me to develop on my own?”",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "heading_2",
+          "runs": [
+            {
+              "text": "Internet oddities",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Dark nutrition is having a moment.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " The Links newsletter flags a fringe movement built around raw bison brains, unpasteurized dairy, and scavenged roadkill—a symptom, perhaps, of post-pandemic distrust of public-health institutions.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "The anti-algorithm starter pack.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " Today’s email included a map of every licensed dog in New York City, a directory of Wikipedia pages within 1.5 miles of you, and a fact check that drops “six degrees of Kevin Bacon” to four. Small, pointless, perfect.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Aldens as a gift economy.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Wardrobe",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": " is giving away a worn pair of limited Alden 975s in Color 8 shell cordovan to a qualifying 7.5D subscriber. The best detail: the winner is asked to prove the size with photos of two pairs already in their rotation, not to win by speed.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "heading_2",
+          "runs": [
+            {
+              "text": "One-liners",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "“The price of admission to anything extraordinary isn’t talent or capital. It’s a willingness to be publicly bad at something for a while.” — ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Brain Food",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "“I train like I’ve never won, and I compete like I’ve never lost.” — Eileen Gu, via ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Brain Food",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "The real internet luxury is still a human being who read 4,309 links so you don’t have to. — ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Links I Would Gchat You If We Were Friends",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        }
+      ],
+      "publishedAt": "2026-10-25T21:06:00Z",
+      "links": [
+        {
+          "title": "Character.AI",
+          "url": "http://character.ai/"
+        }
+      ]
     }
   ]
 }
