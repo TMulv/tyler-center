@@ -68,5 +68,6 @@ jobs:
         env:
           SUBSTACK_EMAIL: ${{ secrets.SUBSTACK_EMAIL }}
           SUBSTACK_PASSWORD: ${{ secrets.SUBSTACK_PASSWORD }}
+          SUBSTACK_COOKIES: ${{ secrets.SUBSTACK_COOKIES }}
           MODE: ${{ inputs.mode || 'live' }}
         run: xvfb-run -a python .github/scripts/substack_publish.py
