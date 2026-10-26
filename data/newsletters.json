@@ -182383,6 +182383,643 @@
           ]
         }
       }
+    },
+    {
+      "id": "digest-da1c2ac9-2edd-4426-8016-2b4c095110ca",
+      "channel": "newsletters",
+      "source": "notion",
+      "kind": "Agent-written digest",
+      "domain": "Daily newsletter digest",
+      "title": "The Apartment ASMR, the AI Ombudsman, and a Very Loud Future",
+      "url": "",
+      "description": "The day’s newsletters offered a pleasingly unstable mix: a cold noodle with a New York origin story, a personal AI that is gorgeous but slow, data centers that may be quieter than the discourse around them, and the internet accidentally turning journalists into tech support.",
+      "body": "The day’s newsletters offered a pleasingly unstable mix: a cold noodle with a New York origin story, a personal AI that is gorgeous but slow, data centers that may be quieter than the discourse around them, and the internet accidentally turning journalists into tech support.\n\nBest links\n\n• ChatGPT, investigative journalist. 404 Media says people with ordinary account bans, dead phone service, and flaky AI assistants are being told by ChatGPT to pitch the problem as a major investigation — often with the bot writing the email. The failure of big-tech customer support is now generating a new genre of AI-assisted story tip: sincere, overproduced, and pointed at the wrong inbox. — 404 Media\n\n• The quiet data-center thesis. A survey of 25 large U.S. AI campuses found that size alone did not predict complaints. The sharper variables were proximity to homes and on-site gas turbines; no campus more than 800 meters from a population cluster had a meaningful documented noise problem. A rare case of an AI infrastructure argument ending in “this is fixable.” — Pirate Wires\n\n• Brain stacking. Gen Z’s latest screen-fatigue hack is to keep novels, Sudoku, crosswords, and journals in a ready-to-grab pile — a charmingly analog version of the “analog bag,” distributed entirely through TikTok. — After School\n\nIdeas to steal\n\n• Build prototypes with real data. Reddit’s internal Proto system lets designers and PMs make production-shaped prototypes with real accounts, reusable scaffolds, design-system context, and annotations that carry code context into Cursor. The result: less time debating placeholder screens and more time arguing about the actual product. The system has reportedly supported roughly 700 prototypes and reached full adoption across UX and product. — Lenny’s Newsletter\n\n• Consistency beats a content machine. Emily Sundberg’s four-year Feed Me retrospective is a tiny operating manual for a durable publication: keep the beat loose, trust taste over metrics, work for readers, reinvest in the team, and treat live events as a loss-leader rather than a branded conference. Her best line is a challenge to every newsletter writer: What do I want a certain subset of the world to think about today? — Feed Me\n\n• Make the handoff traceable. Reddit’s “feature capsule” links a Figma design to production components, prior engineering feedback, and a structured PRD with acceptance criteria. A useful antidote to the usual design-to-build game of telephone. — Lenny’s Newsletter\n\nFood & places\n\n• Ten-minute sesame noodles. NYT Cooking’s cold peanut-butter noodles come with a great origin story: the family of Shorty Tang, who opened Hwa Yuan in Manhattan’s Chinatown in 1967, believes he invented the Chinese-American version. The exact recipe remains secret; this one is the “lush but refreshing” weeknight approximation. — NYT Cooking\n\n• Taste is a loop. Panayiota Soutis’s dispatch from a food-centered Matters of Taste gathering starts with a useful etymology: “taste” has always meant both flavor and discernment. What we consume trains what we notice, which then changes what we choose. Also: Quality Chop House’s red salad, unbeatable olive-oil ice cream, and confit potatoes that have survived on the menu since 2013. — TGITE\n\n• Apartment ASMR. Replace the landlord-special light switches. Choose a rug for bare feet, glasses thin enough to feel faintly dangerous, and furniture that prioritizes the body over the photograph. The premise is simple and excellent: decorate for touch, not just sight. — Emilia Petrarca\n\nCulture file\n\n• The final-girl syllabus. Today’s community picks range from Ripley and Wendy Torrance to Reiko of Ringu, Thomasin of The Witch, Kirsty Cotton, and the new Billy Presley from Teenage Sex and Death at Camp Miasma. The recurring criterion is not just survival; it is the ability to understand the system of the horror and decide what to do with that knowledge. — Perfectly Imperfect\n\n• Wealth, minus the TV gloss. In a long interview, financier David Roberts says Succession gets the psychology of inherited approval right, while Billions and Industry wildly compress the pace of finance. His most useful distinction: career success can come from analysis, communication, and being trusted — not necessarily from salesmanship or a killer instinct. — The Republic of Letters\n\nInternet oddities\n\n• Instagram wants your television. Garbage Day notes Instagram’s new long-form “Features”: 90-minute uploads, series, livestreams, a TV app, and short clips that link back to longer videos — but no creator ad-revenue sharing yet. The larger bet is unsettling: perhaps the future of television is not better prestige programming, but personalized social video that makes “quality TV” feel unnecessary. — Garbage Day\n\n• Claude Duet is beautiful. Lenny’s review finds Anthropic’s personal agent unusually polished and thoughtful, but also slow, quiet, mobile-first, and hard to share with a team. The sharp product lesson: latency is not merely a model problem. A faster agent with slightly weaker output may feel more useful than a smarter one that disappears for ten minutes. — Lenny’s Newsletter\n\n• Cashmere, now in candy form. Feed Me spotted J.Crew and Alex Mill translating sweaters into a confectionary universe: Cashmere Land, Mitten Acres, and a real candy-filled cashmere shop with a line around the block. Luxury’s next signal may be less “expensive” than “difficult to obtain without understanding the joke.” — Feed Me\n\nOne-liners\n\n• A good event is one where a pharmaceutical rep, a book editor, a lawyer, and a chocolatier end up discussing the same thing.\n\n• The best interior upgrade may be the object your hand touches on the way in.\n\n• If an AI tells you to email a journalist about your broken Verizon service, pause before attaching the evidence appendix.\n\n• The web’s new screen-time cure is to make an offline hobby look irresistible online.\n\n• A data center can be enormous and quiet; a smaller one with gas turbines can be the real neighbor problem.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "The day’s newsletters offered a pleasingly unstable mix: a cold noodle with a New York origin story, a personal AI that is gorgeous but slow, data centers that may be quieter than the discourse around them, and the internet accidentally turning journalists into tech support.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "heading_2",
+          "runs": [
+            {
+              "text": "Best links",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "ChatGPT, investigative journalist.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " 404 Media says people with ordinary account bans, dead phone service, and flaky AI assistants are being told by ChatGPT to pitch the problem as a major investigation — often with the bot writing the email. The failure of big-tech customer support is now generating a new genre of AI-assisted story tip: sincere, overproduced, and pointed at the wrong inbox. — ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "404 Media",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "The quiet data-center thesis.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " A survey of 25 large U.S. AI campuses found that size alone did not predict complaints. The sharper variables were proximity to homes and on-site gas turbines; no campus more than 800 meters from a population cluster had a meaningful documented noise problem. A rare case of an AI infrastructure argument ending in “this is fixable.” — ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Pirate Wires",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Brain stacking.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " Gen Z’s latest screen-fatigue hack is to keep novels, Sudoku, crosswords, and journals in a ready-to-grab pile — a charmingly analog version of the “analog bag,” distributed entirely through TikTok. — ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "After School",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "heading_2",
+          "runs": [
+            {
+              "text": "Ideas to steal",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Build prototypes with real data.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " Reddit’s internal Proto system lets designers and PMs make production-shaped prototypes with real accounts, reusable scaffolds, design-system context, and annotations that carry code context into Cursor. The result: less time debating placeholder screens and more time arguing about the actual product. The system has reportedly supported roughly 700 prototypes and reached full adoption across UX and product. — ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Lenny’s Newsletter",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Consistency beats a content machine.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " Emily Sundberg’s four-year Feed Me retrospective is a tiny operating manual for a durable publication: keep the beat loose, trust taste over metrics, work for readers, reinvest in the team, and treat live events as a loss-leader rather than a branded conference. Her best line is a challenge to every newsletter writer: ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "What do I want a certain subset of the world to think about today?",
+              "url": "",
+              "bold": false,
+              "italic": true
+            },
+            {
+              "text": " — ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Feed Me",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Make the handoff traceable.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " Reddit’s “feature capsule” links a Figma design to production components, prior engineering feedback, and a structured PRD with acceptance criteria. A useful antidote to the usual design-to-build game of telephone. — ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Lenny’s Newsletter",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "heading_2",
+          "runs": [
+            {
+              "text": "Food & places",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Ten-minute sesame noodles.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " NYT Cooking’s cold peanut-butter noodles come with a great origin story: the family of Shorty Tang, who opened Hwa Yuan in Manhattan’s Chinatown in 1967, believes he invented the Chinese-American version. The exact recipe remains secret; this one is the “lush but refreshing” weeknight approximation. — ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "NYT Cooking",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Taste is a loop.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " Panayiota Soutis’s dispatch from a food-centered Matters of Taste gathering starts with a useful etymology: “taste” has always meant both flavor and discernment. What we consume trains what we notice, which then changes what we choose. Also: Quality Chop House’s red salad, unbeatable olive-oil ice cream, and confit potatoes that have survived on the menu since 2013. — ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "TGITE",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Apartment ASMR.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " Replace the landlord-special light switches. Choose a rug for bare feet, glasses thin enough to feel faintly dangerous, and furniture that prioritizes the body over the photograph. The premise is simple and excellent: decorate for touch, not just sight. — ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Emilia Petrarca",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "heading_2",
+          "runs": [
+            {
+              "text": "Culture file",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "The final-girl syllabus.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " Today’s community picks range from Ripley and Wendy Torrance to Reiko of ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Ringu",
+              "url": "",
+              "bold": false,
+              "italic": true
+            },
+            {
+              "text": ", Thomasin of ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "The Witch",
+              "url": "",
+              "bold": false,
+              "italic": true
+            },
+            {
+              "text": ", Kirsty Cotton, and the new Billy Presley from ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Teenage Sex and Death at Camp Miasma",
+              "url": "",
+              "bold": false,
+              "italic": true
+            },
+            {
+              "text": ". The recurring criterion is not just survival; it is the ability to understand the system of the horror and decide what to do with that knowledge. — ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Perfectly Imperfect",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Wealth, minus the TV gloss.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " In a long interview, financier David Roberts says ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Succession",
+              "url": "",
+              "bold": false,
+              "italic": true
+            },
+            {
+              "text": " gets the psychology of inherited approval right, while ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Billions",
+              "url": "",
+              "bold": false,
+              "italic": true
+            },
+            {
+              "text": " and ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Industry",
+              "url": "",
+              "bold": false,
+              "italic": true
+            },
+            {
+              "text": " wildly compress the pace of finance. His most useful distinction: career success can come from analysis, communication, and being trusted — not necessarily from salesmanship or a killer instinct. — ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "The Republic of Letters",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "heading_2",
+          "runs": [
+            {
+              "text": "Internet oddities",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Instagram wants your television.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " Garbage Day notes Instagram’s new long-form “Features”: 90-minute uploads, series, livestreams, a TV app, and short clips that link back to longer videos — but no creator ad-revenue sharing yet. The larger bet is unsettling: perhaps the future of television is not better prestige programming, but personalized social video that makes “quality TV” feel unnecessary. — ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Garbage Day",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Claude Duet is beautiful.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " Lenny’s review finds Anthropic’s personal agent unusually polished and thoughtful, but also slow, quiet, mobile-first, and hard to share with a team. The sharp product lesson: latency is not merely a model problem. A faster agent with slightly weaker output may feel more useful than a smarter one that disappears for ten minutes. — ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Lenny’s Newsletter",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Cashmere, now in candy form.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " Feed Me spotted J.Crew and Alex Mill translating sweaters into a confectionary universe: Cashmere Land, Mitten Acres, and a real candy-filled cashmere shop with a line around the block. Luxury’s next signal may be less “expensive” than “difficult to obtain without understanding the joke.” — ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Feed Me",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "heading_2",
+          "runs": [
+            {
+              "text": "One-liners",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "A good event is one where a pharmaceutical rep, a book editor, a lawyer, and a chocolatier end up discussing the same thing.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "The best interior upgrade may be the object your hand touches on the way in.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "If an AI tells you to email a journalist about your broken Verizon service, pause before attaching the evidence appendix.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "The web’s new screen-time cure is to make an offline hobby look irresistible online.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "A data center can be enormous and quiet; a smaller one with gas turbines can be the real neighbor problem.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        }
+      ],
+      "publishedAt": "2026-10-26T21:04:00Z",
+      "links": []
     }
   ]
 }
