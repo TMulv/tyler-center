@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Tyler.Center nightly Substack publisher, v2 (fixed login).
+"""Tyler.Center nightly Substack publisher, v2 (cookie bypass).
 
 Why: Substack's Cloudflare bot-check returns 403 to the python-substack raw
 API login from GitHub runner IPs (first live run failed 2026-10-22 ~9pm ET,
@@ -7,21 +7,22 @@ workflow run 39879697630). A real Chromium browser passes the check, so this
 script logs in through the browser UI, exports the session cookies, and
 publishes through python-substack with cookies_string.
 
-FIX 2026-10-26: the v2 live test (run #3, 2026-10-26 4:05pm ET) failed at
-the email-field wait: Playwright timed out after 30s because the login form
-never appeared. Runner IPs get Cloudflare's "Just a moment" challenge, and
-the old code waited only 3s then gave up after 30s. This version:
-- removes navigator.webdriver (Cloudflare checks it),
-- polls for the email field for up to 120s, waiting out the challenge,
-- logs page title and URL on every failed poll so the next failure is
-  diagnosable from the workflow log alone,
-- uses longer timeouts for the password field and the New post check.
+COOKIE BYPASS 2026-10-26: the draft test (run #4, 2026-10-26 4:13pm ET)
+proved Cloudflare's "Just a moment" challenge NEVER resolves on GitHub
+runner IPs, even with a headed browser, webdriver hiding, and 150s of
+polling. The runner-login path is dead. This version therefore prefers a
+pre-exported session cookie: if SUBSTACK_COOKIES is set (a repo secret
+holding a "name=value; name=value" string for .substack.com, exported from
+a signed-in browser), the script uses it directly and never touches the
+login page on the runner, so Cloudflare never gets a chance to challenge.
+Browser login remains only as a fallback when no cookie secret is set.
 
 MODE=draft -> create a DRAFT only, print its edit URL, never publish or send.
 MODE=live  -> publish the draft and send to Everyone (email + Substack app).
 
 Reads substack-queue/title.txt, subtitle.txt, latest.md from the repo root.
-Env: SUBSTACK_EMAIL, SUBSTACK_PASSWORD, MODE (default: live).
+Env: SUBSTACK_COOKIES (preferred), SUBSTACK_EMAIL, SUBSTACK_PASSWORD,
+MODE (default: live).
 
 Exit codes: 0 ok; 2 bad input/queue; 3 login gate or failed login;
 4 API auth failed with exported cookies; 5 draft/publish call failed
@@ -37,10 +38,11 @@ MODE = os.environ.get("MODE", "live").strip().lower()
 LIVE = MODE == "live"
 EMAIL = os.environ.get("SUBSTACK_EMAIL", "")
 PASSWORD = os.environ.get("SUBSTACK_PASSWORD", "")
+COOKIES_SECRET = os.environ.get("SUBSTACK_COOKIES", "").strip()
 
-if not EMAIL or not PASSWORD:
-    print("ERROR: SUBSTACK_EMAIL / SUBSTACK_PASSWORD secrets are not set.",
-          file=sys.stderr)
+if not COOKIES_SECRET and (not EMAIL or not PASSWORD):
+    print("ERROR: neither SUBSTACK_COOKIES nor SUBSTACK_EMAIL / "
+          "SUBSTACK_PASSWORD secrets are set.", file=sys.stderr)
     sys.exit(2)
 
 
@@ -181,7 +183,14 @@ def export_cookies_via_browser():
 
 def main():
     title, subtitle, markdown = read_queue()
-    cookies_string = export_cookies_via_browser()
+    if COOKIES_SECRET:
+        # Cookie bypass: use the pre-exported session directly. Never touch
+        # the login page on the runner, so Cloudflare cannot challenge.
+        print("Using SUBSTACK_COOKIES secret; skipping browser login.",
+              file=sys.stderr)
+        cookies_string = COOKIES_SECRET
+    else:
+        cookies_string = export_cookies_via_browser()
 
     from substack import Api
     from substack.exceptions import SubstackAPIException, SubstackRequestException
