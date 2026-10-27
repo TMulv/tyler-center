@@ -187248,6 +187248,498 @@
           ]
         }
       }
+    },
+    {
+      "id": "digest-4435f16e-4d67-4709-a233-a8247f6318b4",
+      "channel": "newsletters",
+      "source": "notion",
+      "kind": "Agent-written digest",
+      "domain": "Daily newsletter digest",
+      "title": "The Prepper Camp, the Diamond TikTok, and the AI That Wants Your Job",
+      "url": "",
+      "description": "Tuesday, October 27, 2026",
+      "body": "Tuesday, October 27, 2026\n\nA day of newsletters that kept asking the same question in different costumes: how do we stay human when everything—from emergency planning to buying a diamond to naming what we love—gets optimized, automated, or turned into content?\n\nBest links\n\n• Camp DoomsDaddy is preparedness without the apocalypse cosplay. Solar Light’s Lydia Laurenson went to a real-world resilience weekend where the curriculum covered wound packing, wildfire prep, go-bags, grid failure, and emergency communications—not fear-driven survivalism, but neighbors learning useful things together. The best idea is the political one: shared, practical work can make a neutral meeting ground for people who disagree about everything else. The next training is February 20–21 in Ojai, with scholarships available. — Solar Light\n\n• The weirdest business story: Anthropic’s IPO as a Rorschach test. Semafor’s framing is unusually clean: believers see $131 billion in cash and disciplined spending; skeptics see a loss-making company with at least $542 billion in future data-center and chip commitments. The genuinely strange detail is governance: seven co-founders control the company through one golden share, while Amazon and Google get nonvoting stock. — Semafor Business\n\nWorth reading\n\n• The best AI-era argument today is “raw-dog a few ideas.” Scott Belsky argues that rooted narratives—years of origin, personality, craft, and accumulated meaning—become a moat when content and products are cheap to generate. His companion warning is better: if agents keep us on the rails of reason, we lose the mistakes, dead ends, and human disagreement that produce new ideas. Schedule some unassisted wandering. — Implications\n\n• The right way to teach is simple. Teaching is not. Kelsey Piper’s review of Sold a Story’s education debate makes the case that direct instruction—explain, demonstrate, practice, correct—beats the more fashionable “discover it yourself” approach, especially for children who need to catch up. The sharper takeaway is institutional: proving what works is easier than getting schools to implement it well. — Kelsey Piper\n\n• A tiny reading manifesto from the plains. The paperback newsletter’s review of Lonesome Dove is really a case for reading “unproductively”: stop treating books as units to complete, and let a world take the time it took to make. The same issue’s community recommendations include House of Leaves, The Catcher in the Rye, A Tree Grows in Brooklyn, and Tolstoy’s Resurrection. — paperback\n\nInternet oddities\n\n• Loose diamonds are the new girl version of fantasy football. Casey Lewis reports on TikTok auctions where lab-grown stones get hyped as $3,000 diamonds and sell seconds later for $317. It is gambling with a tiny jewel at the end—and, because settings can cost more than the stone, a lot of “wins” are headed for a drawer. — After School\n\n• A 16-year-old has catalogued more than 11,300 moths. Two or three nights a week, Violet Clinton uses UV lights and a banana–brown sugar–beer-soaked T-shirt to lure moths in Westchester. She will not pursue entomology professionally because it involves killing bugs. Peak hopecore. — After School\n\n• “Malfoid” is apparently a thing now. The Drift notes a right-wing internet microculture turning AI-generated girl-Draco fan art into a symbol of cultural counter-revolution, then answers the whole mess with a poem that makes Hermione a “post post colonial” hero. The internet remains a machine for making inherited characters stranger than their owners intended. — The Drift\n\nFood & places\n\n• The case for outsourcing Thanksgiving. Feed Me collects the strongest argument for eating out: martinis, no cleanup, a walk through New York as the holiday season turns the corner, and fewer family meltdowns. The menus range from The Odeon’s $70 offering to Carbone’s $295 family-style spread. Bonus signal: the owners of I Sodi bought their building, a reminder that restaurant real estate can be the difference between building a neighborhood institution and losing the lease. — Feed Me\n\n• The kitchen as cockpit. Amanda Hesser’s kitchen rules: keep counters for working, give permanent space only to a beautiful object or daily tool, organize “like with like,” and use a meat pounder to crush garlic. Her most-used appliance is less glamorous: the front-right burner. — On the House\n\nIdeas to steal\n\n• Make the story part of the product. In an AI-saturated market, provenance, personality, and time become harder to fake—and therefore more valuable.\n\n• Give people a concrete task before asking them to agree. Emergency training, bridge-building, cooking: useful work is a better depolarizer than another argument.\n\n• If the counter is not a work surface, it is a storage unit wearing an apron.\n\n• When something feels like a trend, ask what infrastructure is hiding underneath. The newsletters found it in restaurant-owned real estate, AI context wars, and the jobs companies protect during layoffs.\n\nOne-liners\n\n• Flock’s CEO says the backlash against his surveillance cameras is mostly Russian bots; the protests, meanwhile, contain actual people holding signs. — 404 Media\n\n• Apple’s new folding phone has already acquired the nickname “crackgate.” — 404 Media\n\n• A newsletter’s ideal Thanksgiving slogan: “Martinis and less family meltdowns—it’s the best.” — Feed Me\n\n• The most useful distinction of the day: agency exists; control does not. — Dear Danny\n\n• Sweetgreen hired Shake Shack’s longtime culinary innovation executive. The burger may be coming. — Feed Me",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Tuesday, October 27, 2026",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "A day of newsletters that kept asking the same question in different costumes: how do we stay human when everything—from emergency planning to buying a diamond to naming what we love—gets optimized, automated, or turned into content?",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "heading_2",
+          "runs": [
+            {
+              "text": "Best links",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Camp DoomsDaddy is preparedness without the apocalypse cosplay.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " Solar Light’s Lydia Laurenson went to a real-world resilience weekend where the curriculum covered wound packing, wildfire prep, go-bags, grid failure, and emergency communications—not fear-driven survivalism, but neighbors learning useful things together. The best idea is the political one: shared, practical work can make a neutral meeting ground for people who disagree about everything else. The next training is February 20–21 in Ojai, with scholarships available. — Solar Light ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "The weirdest business story: Anthropic’s IPO as a Rorschach test.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " Semafor’s framing is unusually clean: believers see $131 billion in cash and disciplined spending; skeptics see a loss-making company with at least $542 billion in future data-center and chip commitments. The genuinely strange detail is governance: seven co-founders control the company through one golden share, while Amazon and Google get nonvoting stock. — Semafor Business ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "heading_2",
+          "runs": [
+            {
+              "text": "Worth reading",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "The best AI-era argument today is “raw-dog a few ideas.”",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " Scott Belsky argues that rooted narratives—years of origin, personality, craft, and accumulated meaning—become a moat when content and products are cheap to generate. His companion warning is better: if agents keep us on the rails of reason, we lose the mistakes, dead ends, and human disagreement that produce new ideas. Schedule some unassisted wandering. — Implications ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "The right way to teach is simple. Teaching is not.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " Kelsey Piper’s review of ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Sold a Story",
+              "url": "",
+              "bold": false,
+              "italic": true
+            },
+            {
+              "text": "’s education debate makes the case that direct instruction—explain, demonstrate, practice, correct—beats the more fashionable “discover it yourself” approach, especially for children who need to catch up. The sharper takeaway is institutional: proving what works is easier than getting schools to implement it well. — Kelsey Piper ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "A tiny reading manifesto from the plains.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " The paperback newsletter’s review of ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Lonesome Dove",
+              "url": "",
+              "bold": false,
+              "italic": true
+            },
+            {
+              "text": " is really a case for reading “unproductively”: stop treating books as units to complete, and let a world take the time it took to make. The same issue’s community recommendations include ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "House of Leaves",
+              "url": "",
+              "bold": false,
+              "italic": true
+            },
+            {
+              "text": ", ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "The Catcher in the Rye",
+              "url": "",
+              "bold": false,
+              "italic": true
+            },
+            {
+              "text": ", ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "A Tree Grows in Brooklyn",
+              "url": "",
+              "bold": false,
+              "italic": true
+            },
+            {
+              "text": ", and Tolstoy’s ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Resurrection",
+              "url": "",
+              "bold": false,
+              "italic": true
+            },
+            {
+              "text": ". — paperback ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "heading_2",
+          "runs": [
+            {
+              "text": "Internet oddities",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Loose diamonds are the new girl version of fantasy football.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " Casey Lewis reports on TikTok auctions where lab-grown stones get hyped as $3,000 diamonds and sell seconds later for $317. It is gambling with a tiny jewel at the end—and, because settings can cost more than the stone, a lot of “wins” are headed for a drawer. — After School ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "A 16-year-old has catalogued more than 11,300 moths.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " Two or three nights a week, Violet Clinton uses UV lights and a banana–brown sugar–beer-soaked T-shirt to lure moths in Westchester. She will not pursue entomology professionally because it involves killing bugs. Peak hopecore. — After School ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "“Malfoid” is apparently a thing now.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " The Drift notes a right-wing internet microculture turning AI-generated girl-Draco fan art into a symbol of cultural counter-revolution, then answers the whole mess with a poem that makes Hermione a “post post colonial” hero. The internet remains a machine for making inherited characters stranger than their owners intended. — The Drift ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "heading_2",
+          "runs": [
+            {
+              "text": "Food & places",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "The case for outsourcing Thanksgiving.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " Feed Me collects the strongest argument for eating out: martinis, no cleanup, a walk through New York as the holiday season turns the corner, and fewer family meltdowns. The menus range from The Odeon’s $70 offering to Carbone’s $295 family-style spread. Bonus signal: the owners of I Sodi bought their building, a reminder that restaurant real estate can be the difference between building a neighborhood institution and losing the lease. — Feed Me ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "The kitchen as cockpit.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " Amanda Hesser’s kitchen rules: keep counters for working, give permanent space only to a beautiful object or daily tool, organize “like with like,” and use a meat pounder to crush garlic. Her most-used appliance is less glamorous: the front-right burner. — On the House ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "heading_2",
+          "runs": [
+            {
+              "text": "Ideas to steal",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Make the story part of the product.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " In an AI-saturated market, provenance, personality, and time become harder to fake—and therefore more valuable. ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Give people a concrete task before asking them to agree.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " Emergency training, bridge-building, cooking: useful work is a better depolarizer than another argument. ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "If the counter is not a work surface, it is a storage unit wearing an apron.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "When something feels like a trend, ask what infrastructure is hiding underneath.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " The newsletters found it in restaurant-owned real estate, AI context wars, and the jobs companies protect during layoffs. ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "heading_2",
+          "runs": [
+            {
+              "text": "One-liners",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Flock’s CEO says the backlash against his surveillance cameras is mostly Russian bots; the protests, meanwhile, contain actual people holding signs. — 404 Media ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Apple’s new folding phone has already acquired the nickname “crackgate.” — 404 Media ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "A newsletter’s ideal Thanksgiving slogan: ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "“Martinis and less family meltdowns—it’s the best.”",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " — Feed Me ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "The most useful distinction of the day: ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "agency exists; control does not.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " — Dear Danny ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Sweetgreen hired Shake Shack’s longtime culinary innovation executive. The burger may be coming. — Feed Me ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        }
+      ],
+      "publishedAt": "2026-10-27T21:04:00Z",
+      "links": []
     }
   ]
 }
