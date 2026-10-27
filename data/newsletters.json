@@ -183402,6 +183402,1340 @@
       ],
       "publishedAt": "2026-10-26T21:04:00Z",
       "links": []
+    },
+    {
+      "id": "digest-4068153c-8a3e-8151-b100-f1c0da5d8fa7",
+      "channel": "newsletters",
+      "source": "notion",
+      "kind": "Agent-written digest",
+      "domain": "Daily newsletter digest",
+      "title": "Anthropic's 48% cloud catch, a secret spy court ruling, the Fed's false fall - Tuesday, October 27, 2026",
+      "url": "",
+      "description": "Tuesday, October 27, 2026 - Morning Edition",
+      "body": "Tuesday, October 27, 2026 - Morning Edition\n\nToday's Numbers\n\n• 48%: the share of Anthropic revenue that came through the cloud marketplaces of Amazon, Alphabet, and Microsoft in the first half of this year, up from 11% in 2023.\n\n• 32%: President Trump's approval rating in a new Reuters/Ipsos poll, with Democrats leading the generic congressional ballot by 11 points one week before the midterms.\n\n• 142: the number of contractor intelligence analysts ICE wants to hire for a new shop called ERO ONE, priced at more than $100 million, to map relationships and feed operational planning.\n\n• 65%: the chance Snacks puts on Democrats winning the Senate, a path that requires flipping four seats while holding every seat they already have.\n\nQuotes of the Day\n\n• \"In-person collaboration is vital to our culture and to the success of our business.\" (David Ellison and Ynon Kreiz, Skydance memo ordering a five day a week return to office alongside voluntary buyouts)\n\n• \"It is Time to Take Starlink Away From Elon Musk.\" (Paul Krugman, reacting to reports that Starlink access was temporarily restricted on the Ukrainian battlefield)\n\nAI & The Machines\n\nThe government is hiding a secret ruling about how it spies on Americans. Two senators say the Trump administration is breaking the law by withholding a FISA court decision while it pushes Congress to renew the country's most sweeping surveillance program. The fight matters because the ruling could explain what the government is allowed to collect, and the public is being asked to renew the program without seeing it. It is a reminder that the biggest surveillance debates are often about what we are not allowed to read. (WIRED)\n\nMoney & Power\n\nA Fed skip this week would be a false fall. That is Conor Sen's framing ahead of tomorrow's Federal Reserve meeting: investors give a rate hike only a 10% chance, mortgage rates have spent weeks above 7%, and a pause now could be the last dovish moment until at least spring. Core inflation is still running at 3.0% year over year through August, September looked hotter, market rents are picking up again, and the Fed's 2.5% forecast for 2027 looks more like hope than a plan. The risk is a hot start to next year that forces the Fed back to hikes just as voters stay focused on affordability. (The Housing Frame)\n\nThe Culture\n\nThe best way to teach is simple. Teaching is not. That is the tension at the center of Kelsey Piper's look at season two of the Sold a Story podcast, which argues that direct instruction, a scripted method where teachers break down material and drill it to mastery, beat every other approach in the government's large 1960s Project Follow Through study. Most of the trendy alternatives did worse than normal classroom teaching, and the government mostly buried the result rather than act on it. Piper's warning is that even a perfect podcast cannot fix implementation: passing a law mandating a method is not the same as getting classrooms to actually use it. (The Argument)\n\nPeter Thiel actually cares about the Antichrist. That is Pirate Wires' take on a new 10,000 word essay reconstructing Thiel's four off the record Nashville lectures, the first serious attempt to engage with what he actually said rather than why he said it. The lectures, as reconstructed, treat the Antichrist as a modern political theology problem: stronger global infrastructure makes worldwide tyranny more plausible, and regulation itself can become part of that machinery. Whether you buy the theology or not, the piece reframes Thiel from meme contrarian to a thinker with a coherent, if strange, theory of the end times. (Pirate Wires)\n\nQuick Hits & Curiosities\n\n• A campaign wants the New York Public Library to return the original Winnie-the-Pooh toys, Pooh, Piglet, Eeyore, Tigger, and Kanga, to the United Kingdom for the stories' 100th anniversary. (The Washington Post)\n\n• Grok's own AI generated version of The Odyssey admitted it was not historically accurate, months after Elon Musk said xAI would outclass Christopher Nolan's mythological epic. (WIRED)\n\n• Apple confirmed a small number of iPhone Duo units have an inner display issue, and iFixit's teardown may explain why. (WIRED)\n\n• Massive groups of volunteers, armed with heat maps, Signal chats, and war rooms, are ready to act if federal immigration agents show up at polling places on Election Day. (WIRED)\n\n• Tech's newest expensive job is the GTM engineer, pitched at Disrupt as a $200K plus a year role building automated workflows that connect sales tools. (Pirate Wires)",
+      "blocks": [
+        {
+          "type": "heading_1",
+          "runs": [
+            {
+              "text": "Tuesday, October 27, 2026 - Morning Edition",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Today's Numbers",
+              "url": "",
+              "bold": true,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "48%",
+              "url": "https://www.bloomberg.com/news/articles/2026-10-26/anthropic-ipo-filing-cites-reliance-on-google-amazon-microsoft",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": ": the share of Anthropic revenue that came through the cloud marketplaces of Amazon, Alphabet, and Microsoft in the first half of this year, up from 11% in 2023.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "32%",
+              "url": "https://counterpoint.substack.com/",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": ": President Trump's approval rating in a new Reuters/Ipsos poll, with Democrats leading the generic congressional ballot by 11 points one week before the midterms.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "142",
+              "url": "https://migrantinsider.com/",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": ": the number of contractor intelligence analysts ICE wants to hire for a new shop called ERO ONE, priced at more than $100 million, to map relationships and feed operational planning.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "65%",
+              "url": "https://www.sherwood.news/",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": ": the chance Snacks puts on Democrats winning the Senate, a path that requires flipping four seats while holding every seat they already have.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Quotes of the Day",
+              "url": "",
+              "bold": true,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "\"In-person collaboration is vital to our culture and to the success of our business.\" (David Ellison and Ynon Kreiz, Skydance memo ordering a five day a week return to office alongside voluntary buyouts)",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "\"It is Time to Take Starlink Away From Elon Musk.\" (Paul Krugman, reacting to reports that Starlink access was temporarily restricted on the Ukrainian battlefield)",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "AI & The Machines",
+              "url": "",
+              "bold": true,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "The government is hiding a secret ruling about how it spies on Americans.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " Two senators say the Trump administration is breaking the law by withholding a FISA court decision while it pushes Congress to renew the country's most sweeping surveillance program. The fight matters because the ruling could explain what the government is allowed to collect, and the public is being asked to renew the program without seeing it. It is a reminder that the biggest surveillance debates are often about what we are not allowed to read. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "WIRED",
+              "url": "https://www.wired.com/",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Money & Power",
+              "url": "",
+              "bold": true,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "A Fed skip this week would be a false fall.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " That is Conor Sen's framing ahead of tomorrow's Federal Reserve meeting: investors give a rate hike only a 10% chance, mortgage rates have spent weeks above 7%, and a pause now could be the last dovish moment until at least spring. Core inflation is still running at 3.0% year over year through August, September looked hotter, market rents are picking up again, and the Fed's 2.5% forecast for 2027 looks more like hope than a plan. The risk is a hot start to next year that forces the Fed back to hikes just as voters stay focused on affordability. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "The Housing Frame",
+              "url": "https://conorsen.substack.com/",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "The Culture",
+              "url": "",
+              "bold": true,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "The best way to teach is simple. Teaching is not.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " That is the tension at the center of Kelsey Piper's look at season two of the Sold a Story podcast, which argues that direct instruction, a scripted method where teachers break down material and drill it to mastery, beat every other approach in the government's large 1960s Project Follow Through study. Most of the trendy alternatives did worse than normal classroom teaching, and the government mostly buried the result rather than act on it. Piper's warning is that even a perfect podcast cannot fix implementation: passing a law mandating a method is not the same as getting classrooms to actually use it. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "The Argument",
+              "url": "https://www.theargumentmag.com/p/sold-a-story-is-not-the-whole-story",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Peter Thiel actually cares about the Antichrist.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " That is Pirate Wires' take on a new 10,000 word essay reconstructing Thiel's four off the record Nashville lectures, the first serious attempt to engage with what he actually said rather than why he said it. The lectures, as reconstructed, treat the Antichrist as a modern political theology problem: stronger global infrastructure makes worldwide tyranny more plausible, and regulation itself can become part of that machinery. Whether you buy the theology or not, the piece reframes Thiel from meme contrarian to a thinker with a coherent, if strange, theory of the end times. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Pirate Wires",
+              "url": "https://www.piratewires.com/",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Quick Hits & Curiosities",
+              "url": "",
+              "bold": true,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "A campaign wants the New York Public Library to return the original Winnie-the-Pooh toys, Pooh, Piglet, Eeyore, Tigger, and Kanga, to the United Kingdom for the stories' 100th anniversary. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "The Washington Post",
+              "url": "https://www.washingtonpost.com/world/2026/10/14/which-winnie-pooh-turns-100-britain-wants-its-bear-back/",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Grok's own AI generated version of The Odyssey admitted it was not historically accurate, months after Elon Musk said xAI would outclass Christopher Nolan's mythological epic. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "WIRED",
+              "url": "https://www.wired.com/",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Apple confirmed a small number of iPhone Duo units have an inner display issue, and iFixit's teardown may explain why. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "WIRED",
+              "url": "https://www.wired.com/",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Massive groups of volunteers, armed with heat maps, Signal chats, and war rooms, are ready to act if federal immigration agents show up at polling places on Election Day. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "WIRED",
+              "url": "https://www.wired.com/",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Tech's newest expensive job is the GTM engineer, pitched at Disrupt as a $200K plus a year role building automated workflows that connect sales tools. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Pirate Wires",
+              "url": "https://www.piratewires.com/",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        }
+      ],
+      "publishedAt": "2026-10-27T11:59:00Z",
+      "links": [
+        {
+          "title": "48%",
+          "url": "https://www.bloomberg.com/news/articles/2026-10-26/anthropic-ipo-filing-cites-reliance-on-google-amazon-microsoft"
+        },
+        {
+          "title": "32%",
+          "url": "https://counterpoint.substack.com/"
+        },
+        {
+          "title": "142",
+          "url": "https://migrantinsider.com/"
+        },
+        {
+          "title": "65%",
+          "url": "https://www.sherwood.news/"
+        },
+        {
+          "title": "WIRED",
+          "url": "https://www.wired.com/"
+        },
+        {
+          "title": "The Housing Frame",
+          "url": "https://conorsen.substack.com/"
+        },
+        {
+          "title": "The Argument",
+          "url": "https://www.theargumentmag.com/p/sold-a-story-is-not-the-whole-story"
+        },
+        {
+          "title": "Pirate Wires",
+          "url": "https://www.piratewires.com/"
+        },
+        {
+          "title": "The Washington Post",
+          "url": "https://www.washingtonpost.com/world/2026/10/14/which-winnie-pooh-turns-100-britain-wants-its-bear-back/"
+        }
+      ],
+      "versions": {
+        "morning": {
+          "body": "Tuesday, October 27, 2026 - Morning Edition\n\nToday's Numbers\n\n• 48%: the share of Anthropic revenue that came through the cloud marketplaces of Amazon, Alphabet, and Microsoft in the first half of this year, up from 11% in 2023.\n\n• 32%: President Trump's approval rating in a new Reuters/Ipsos poll, with Democrats leading the generic congressional ballot by 11 points one week before the midterms.\n\n• 142: the number of contractor intelligence analysts ICE wants to hire for a new shop called ERO ONE, priced at more than $100 million, to map relationships and feed operational planning.\n\n• 65%: the chance Snacks puts on Democrats winning the Senate, a path that requires flipping four seats while holding every seat they already have.\n\nQuotes of the Day\n\n• \"In-person collaboration is vital to our culture and to the success of our business.\" (David Ellison and Ynon Kreiz, Skydance memo ordering a five day a week return to office alongside voluntary buyouts)\n\n• \"It is Time to Take Starlink Away From Elon Musk.\" (Paul Krugman, reacting to reports that Starlink access was temporarily restricted on the Ukrainian battlefield)\n\nAI & The Machines\n\nThe government is hiding a secret ruling about how it spies on Americans. Two senators say the Trump administration is breaking the law by withholding a FISA court decision while it pushes Congress to renew the country's most sweeping surveillance program. The fight matters because the ruling could explain what the government is allowed to collect, and the public is being asked to renew the program without seeing it. It is a reminder that the biggest surveillance debates are often about what we are not allowed to read. (WIRED)\n\nMoney & Power\n\nA Fed skip this week would be a false fall. That is Conor Sen's framing ahead of tomorrow's Federal Reserve meeting: investors give a rate hike only a 10% chance, mortgage rates have spent weeks above 7%, and a pause now could be the last dovish moment until at least spring. Core inflation is still running at 3.0% year over year through August, September looked hotter, market rents are picking up again, and the Fed's 2.5% forecast for 2027 looks more like hope than a plan. The risk is a hot start to next year that forces the Fed back to hikes just as voters stay focused on affordability. (The Housing Frame)\n\nThe Culture\n\nThe best way to teach is simple. Teaching is not. That is the tension at the center of Kelsey Piper's look at season two of the Sold a Story podcast, which argues that direct instruction, a scripted method where teachers break down material and drill it to mastery, beat every other approach in the government's large 1960s Project Follow Through study. Most of the trendy alternatives did worse than normal classroom teaching, and the government mostly buried the result rather than act on it. Piper's warning is that even a perfect podcast cannot fix implementation: passing a law mandating a method is not the same as getting classrooms to actually use it. (The Argument)\n\nPeter Thiel actually cares about the Antichrist. That is Pirate Wires' take on a new 10,000 word essay reconstructing Thiel's four off the record Nashville lectures, the first serious attempt to engage with what he actually said rather than why he said it. The lectures, as reconstructed, treat the Antichrist as a modern political theology problem: stronger global infrastructure makes worldwide tyranny more plausible, and regulation itself can become part of that machinery. Whether you buy the theology or not, the piece reframes Thiel from meme contrarian to a thinker with a coherent, if strange, theory of the end times. (Pirate Wires)\n\nQuick Hits & Curiosities\n\n• A campaign wants the New York Public Library to return the original Winnie-the-Pooh toys, Pooh, Piglet, Eeyore, Tigger, and Kanga, to the United Kingdom for the stories' 100th anniversary. (The Washington Post)\n\n• Grok's own AI generated version of The Odyssey admitted it was not historically accurate, months after Elon Musk said xAI would outclass Christopher Nolan's mythological epic. (WIRED)\n\n• Apple confirmed a small number of iPhone Duo units have an inner display issue, and iFixit's teardown may explain why. (WIRED)\n\n• Massive groups of volunteers, armed with heat maps, Signal chats, and war rooms, are ready to act if federal immigration agents show up at polling places on Election Day. (WIRED)\n\n• Tech's newest expensive job is the GTM engineer, pitched at Disrupt as a $200K plus a year role building automated workflows that connect sales tools. (Pirate Wires)",
+          "blocks": [
+            {
+              "type": "heading_1",
+              "runs": [
+                {
+                  "text": "Tuesday, October 27, 2026 - Morning Edition",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Today's Numbers",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "48%",
+                  "url": "https://www.bloomberg.com/news/articles/2026-10-26/anthropic-ipo-filing-cites-reliance-on-google-amazon-microsoft",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": the share of Anthropic revenue that came through the cloud marketplaces of Amazon, Alphabet, and Microsoft in the first half of this year, up from 11% in 2023.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "32%",
+                  "url": "https://counterpoint.substack.com/",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": President Trump's approval rating in a new Reuters/Ipsos poll, with Democrats leading the generic congressional ballot by 11 points one week before the midterms.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "142",
+                  "url": "https://migrantinsider.com/",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": the number of contractor intelligence analysts ICE wants to hire for a new shop called ERO ONE, priced at more than $100 million, to map relationships and feed operational planning.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "65%",
+                  "url": "https://www.sherwood.news/",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": the chance Snacks puts on Democrats winning the Senate, a path that requires flipping four seats while holding every seat they already have.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Quotes of the Day",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "\"In-person collaboration is vital to our culture and to the success of our business.\" (David Ellison and Ynon Kreiz, Skydance memo ordering a five day a week return to office alongside voluntary buyouts)",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "\"It is Time to Take Starlink Away From Elon Musk.\" (Paul Krugman, reacting to reports that Starlink access was temporarily restricted on the Ukrainian battlefield)",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "AI & The Machines",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "The government is hiding a secret ruling about how it spies on Americans.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " Two senators say the Trump administration is breaking the law by withholding a FISA court decision while it pushes Congress to renew the country's most sweeping surveillance program. The fight matters because the ruling could explain what the government is allowed to collect, and the public is being asked to renew the program without seeing it. It is a reminder that the biggest surveillance debates are often about what we are not allowed to read. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "WIRED",
+                  "url": "https://www.wired.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Money & Power",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "A Fed skip this week would be a false fall.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " That is Conor Sen's framing ahead of tomorrow's Federal Reserve meeting: investors give a rate hike only a 10% chance, mortgage rates have spent weeks above 7%, and a pause now could be the last dovish moment until at least spring. Core inflation is still running at 3.0% year over year through August, September looked hotter, market rents are picking up again, and the Fed's 2.5% forecast for 2027 looks more like hope than a plan. The risk is a hot start to next year that forces the Fed back to hikes just as voters stay focused on affordability. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "The Housing Frame",
+                  "url": "https://conorsen.substack.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "The Culture",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "The best way to teach is simple. Teaching is not.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " That is the tension at the center of Kelsey Piper's look at season two of the Sold a Story podcast, which argues that direct instruction, a scripted method where teachers break down material and drill it to mastery, beat every other approach in the government's large 1960s Project Follow Through study. Most of the trendy alternatives did worse than normal classroom teaching, and the government mostly buried the result rather than act on it. Piper's warning is that even a perfect podcast cannot fix implementation: passing a law mandating a method is not the same as getting classrooms to actually use it. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "The Argument",
+                  "url": "https://www.theargumentmag.com/p/sold-a-story-is-not-the-whole-story",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Peter Thiel actually cares about the Antichrist.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " That is Pirate Wires' take on a new 10,000 word essay reconstructing Thiel's four off the record Nashville lectures, the first serious attempt to engage with what he actually said rather than why he said it. The lectures, as reconstructed, treat the Antichrist as a modern political theology problem: stronger global infrastructure makes worldwide tyranny more plausible, and regulation itself can become part of that machinery. Whether you buy the theology or not, the piece reframes Thiel from meme contrarian to a thinker with a coherent, if strange, theory of the end times. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Pirate Wires",
+                  "url": "https://www.piratewires.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Quick Hits & Curiosities",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "A campaign wants the New York Public Library to return the original Winnie-the-Pooh toys, Pooh, Piglet, Eeyore, Tigger, and Kanga, to the United Kingdom for the stories' 100th anniversary. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "The Washington Post",
+                  "url": "https://www.washingtonpost.com/world/2026/10/14/which-winnie-pooh-turns-100-britain-wants-its-bear-back/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Grok's own AI generated version of The Odyssey admitted it was not historically accurate, months after Elon Musk said xAI would outclass Christopher Nolan's mythological epic. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "WIRED",
+                  "url": "https://www.wired.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Apple confirmed a small number of iPhone Duo units have an inner display issue, and iFixit's teardown may explain why. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "WIRED",
+                  "url": "https://www.wired.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Massive groups of volunteers, armed with heat maps, Signal chats, and war rooms, are ready to act if federal immigration agents show up at polling places on Election Day. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "WIRED",
+                  "url": "https://www.wired.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Tech's newest expensive job is the GTM engineer, pitched at Disrupt as a $200K plus a year role building automated workflows that connect sales tools. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Pirate Wires",
+                  "url": "https://www.piratewires.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            }
+          ],
+          "links": [
+            {
+              "title": "48%",
+              "url": "https://www.bloomberg.com/news/articles/2026-10-26/anthropic-ipo-filing-cites-reliance-on-google-amazon-microsoft"
+            },
+            {
+              "title": "32%",
+              "url": "https://counterpoint.substack.com/"
+            },
+            {
+              "title": "142",
+              "url": "https://migrantinsider.com/"
+            },
+            {
+              "title": "65%",
+              "url": "https://www.sherwood.news/"
+            },
+            {
+              "title": "WIRED",
+              "url": "https://www.wired.com/"
+            },
+            {
+              "title": "The Housing Frame",
+              "url": "https://conorsen.substack.com/"
+            },
+            {
+              "title": "The Argument",
+              "url": "https://www.theargumentmag.com/p/sold-a-story-is-not-the-whole-story"
+            },
+            {
+              "title": "Pirate Wires",
+              "url": "https://www.piratewires.com/"
+            },
+            {
+              "title": "The Washington Post",
+              "url": "https://www.washingtonpost.com/world/2026/10/14/which-winnie-pooh-turns-100-britain-wants-its-bear-back/"
+            }
+          ]
+        },
+        "full": {
+          "body": "Tuesday, October 27, 2026 - Morning Edition\n\nToday's Numbers\n\n• 48%: the share of Anthropic revenue that came through the cloud marketplaces of Amazon, Alphabet, and Microsoft in the first half of this year, up from 11% in 2023.\n\n• 32%: President Trump's approval rating in a new Reuters/Ipsos poll, with Democrats leading the generic congressional ballot by 11 points one week before the midterms.\n\n• 142: the number of contractor intelligence analysts ICE wants to hire for a new shop called ERO ONE, priced at more than $100 million, to map relationships and feed operational planning.\n\n• 65%: the chance Snacks puts on Democrats winning the Senate, a path that requires flipping four seats while holding every seat they already have.\n\nQuotes of the Day\n\n• \"In-person collaboration is vital to our culture and to the success of our business.\" (David Ellison and Ynon Kreiz, Skydance memo ordering a five day a week return to office alongside voluntary buyouts)\n\n• \"It is Time to Take Starlink Away From Elon Musk.\" (Paul Krugman, reacting to reports that Starlink access was temporarily restricted on the Ukrainian battlefield)\n\nAI & The Machines\n\nThe government is hiding a secret ruling about how it spies on Americans. Two senators say the Trump administration is breaking the law by withholding a FISA court decision while it pushes Congress to renew the country's most sweeping surveillance program. The fight matters because the ruling could explain what the government is allowed to collect, and the public is being asked to renew the program without seeing it. It is a reminder that the biggest surveillance debates are often about what we are not allowed to read. (WIRED)\n\nMoney & Power\n\nA Fed skip this week would be a false fall. That is Conor Sen's framing ahead of tomorrow's Federal Reserve meeting: investors give a rate hike only a 10% chance, mortgage rates have spent weeks above 7%, and a pause now could be the last dovish moment until at least spring. Core inflation is still running at 3.0% year over year through August, September looked hotter, market rents are picking up again, and the Fed's 2.5% forecast for 2027 looks more like hope than a plan. The risk is a hot start to next year that forces the Fed back to hikes just as voters stay focused on affordability. (The Housing Frame)\n\nThe Culture\n\nThe best way to teach is simple. Teaching is not. That is the tension at the center of Kelsey Piper's look at season two of the Sold a Story podcast, which argues that direct instruction, a scripted method where teachers break down material and drill it to mastery, beat every other approach in the government's large 1960s Project Follow Through study. Most of the trendy alternatives did worse than normal classroom teaching, and the government mostly buried the result rather than act on it. Piper's warning is that even a perfect podcast cannot fix implementation: passing a law mandating a method is not the same as getting classrooms to actually use it. (The Argument)\n\nPeter Thiel actually cares about the Antichrist. That is Pirate Wires' take on a new 10,000 word essay reconstructing Thiel's four off the record Nashville lectures, the first serious attempt to engage with what he actually said rather than why he said it. The lectures, as reconstructed, treat the Antichrist as a modern political theology problem: stronger global infrastructure makes worldwide tyranny more plausible, and regulation itself can become part of that machinery. Whether you buy the theology or not, the piece reframes Thiel from meme contrarian to a thinker with a coherent, if strange, theory of the end times. (Pirate Wires)\n\nQuick Hits & Curiosities\n\n• A campaign wants the New York Public Library to return the original Winnie-the-Pooh toys, Pooh, Piglet, Eeyore, Tigger, and Kanga, to the United Kingdom for the stories' 100th anniversary. (The Washington Post)\n\n• Grok's own AI generated version of The Odyssey admitted it was not historically accurate, months after Elon Musk said xAI would outclass Christopher Nolan's mythological epic. (WIRED)\n\n• Apple confirmed a small number of iPhone Duo units have an inner display issue, and iFixit's teardown may explain why. (WIRED)\n\n• Massive groups of volunteers, armed with heat maps, Signal chats, and war rooms, are ready to act if federal immigration agents show up at polling places on Election Day. (WIRED)\n\n• Tech's newest expensive job is the GTM engineer, pitched at Disrupt as a $200K plus a year role building automated workflows that connect sales tools. (Pirate Wires)",
+          "blocks": [
+            {
+              "type": "heading_1",
+              "runs": [
+                {
+                  "text": "Tuesday, October 27, 2026 - Morning Edition",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Today's Numbers",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "48%",
+                  "url": "https://www.bloomberg.com/news/articles/2026-10-26/anthropic-ipo-filing-cites-reliance-on-google-amazon-microsoft",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": the share of Anthropic revenue that came through the cloud marketplaces of Amazon, Alphabet, and Microsoft in the first half of this year, up from 11% in 2023.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "32%",
+                  "url": "https://counterpoint.substack.com/",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": President Trump's approval rating in a new Reuters/Ipsos poll, with Democrats leading the generic congressional ballot by 11 points one week before the midterms.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "142",
+                  "url": "https://migrantinsider.com/",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": the number of contractor intelligence analysts ICE wants to hire for a new shop called ERO ONE, priced at more than $100 million, to map relationships and feed operational planning.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "65%",
+                  "url": "https://www.sherwood.news/",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": the chance Snacks puts on Democrats winning the Senate, a path that requires flipping four seats while holding every seat they already have.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Quotes of the Day",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "\"In-person collaboration is vital to our culture and to the success of our business.\" (David Ellison and Ynon Kreiz, Skydance memo ordering a five day a week return to office alongside voluntary buyouts)",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "\"It is Time to Take Starlink Away From Elon Musk.\" (Paul Krugman, reacting to reports that Starlink access was temporarily restricted on the Ukrainian battlefield)",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "AI & The Machines",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "The government is hiding a secret ruling about how it spies on Americans.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " Two senators say the Trump administration is breaking the law by withholding a FISA court decision while it pushes Congress to renew the country's most sweeping surveillance program. The fight matters because the ruling could explain what the government is allowed to collect, and the public is being asked to renew the program without seeing it. It is a reminder that the biggest surveillance debates are often about what we are not allowed to read. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "WIRED",
+                  "url": "https://www.wired.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Money & Power",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "A Fed skip this week would be a false fall.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " That is Conor Sen's framing ahead of tomorrow's Federal Reserve meeting: investors give a rate hike only a 10% chance, mortgage rates have spent weeks above 7%, and a pause now could be the last dovish moment until at least spring. Core inflation is still running at 3.0% year over year through August, September looked hotter, market rents are picking up again, and the Fed's 2.5% forecast for 2027 looks more like hope than a plan. The risk is a hot start to next year that forces the Fed back to hikes just as voters stay focused on affordability. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "The Housing Frame",
+                  "url": "https://conorsen.substack.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "The Culture",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "The best way to teach is simple. Teaching is not.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " That is the tension at the center of Kelsey Piper's look at season two of the Sold a Story podcast, which argues that direct instruction, a scripted method where teachers break down material and drill it to mastery, beat every other approach in the government's large 1960s Project Follow Through study. Most of the trendy alternatives did worse than normal classroom teaching, and the government mostly buried the result rather than act on it. Piper's warning is that even a perfect podcast cannot fix implementation: passing a law mandating a method is not the same as getting classrooms to actually use it. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "The Argument",
+                  "url": "https://www.theargumentmag.com/p/sold-a-story-is-not-the-whole-story",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Peter Thiel actually cares about the Antichrist.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " That is Pirate Wires' take on a new 10,000 word essay reconstructing Thiel's four off the record Nashville lectures, the first serious attempt to engage with what he actually said rather than why he said it. The lectures, as reconstructed, treat the Antichrist as a modern political theology problem: stronger global infrastructure makes worldwide tyranny more plausible, and regulation itself can become part of that machinery. Whether you buy the theology or not, the piece reframes Thiel from meme contrarian to a thinker with a coherent, if strange, theory of the end times. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Pirate Wires",
+                  "url": "https://www.piratewires.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Quick Hits & Curiosities",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "A campaign wants the New York Public Library to return the original Winnie-the-Pooh toys, Pooh, Piglet, Eeyore, Tigger, and Kanga, to the United Kingdom for the stories' 100th anniversary. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "The Washington Post",
+                  "url": "https://www.washingtonpost.com/world/2026/10/14/which-winnie-pooh-turns-100-britain-wants-its-bear-back/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Grok's own AI generated version of The Odyssey admitted it was not historically accurate, months after Elon Musk said xAI would outclass Christopher Nolan's mythological epic. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "WIRED",
+                  "url": "https://www.wired.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Apple confirmed a small number of iPhone Duo units have an inner display issue, and iFixit's teardown may explain why. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "WIRED",
+                  "url": "https://www.wired.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Massive groups of volunteers, armed with heat maps, Signal chats, and war rooms, are ready to act if federal immigration agents show up at polling places on Election Day. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "WIRED",
+                  "url": "https://www.wired.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Tech's newest expensive job is the GTM engineer, pitched at Disrupt as a $200K plus a year role building automated workflows that connect sales tools. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Pirate Wires",
+                  "url": "https://www.piratewires.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            }
+          ],
+          "links": [
+            {
+              "title": "48%",
+              "url": "https://www.bloomberg.com/news/articles/2026-10-26/anthropic-ipo-filing-cites-reliance-on-google-amazon-microsoft"
+            },
+            {
+              "title": "32%",
+              "url": "https://counterpoint.substack.com/"
+            },
+            {
+              "title": "142",
+              "url": "https://migrantinsider.com/"
+            },
+            {
+              "title": "65%",
+              "url": "https://www.sherwood.news/"
+            },
+            {
+              "title": "WIRED",
+              "url": "https://www.wired.com/"
+            },
+            {
+              "title": "The Housing Frame",
+              "url": "https://conorsen.substack.com/"
+            },
+            {
+              "title": "The Argument",
+              "url": "https://www.theargumentmag.com/p/sold-a-story-is-not-the-whole-story"
+            },
+            {
+              "title": "Pirate Wires",
+              "url": "https://www.piratewires.com/"
+            },
+            {
+              "title": "The Washington Post",
+              "url": "https://www.washingtonpost.com/world/2026/10/14/which-winnie-pooh-turns-100-britain-wants-its-bear-back/"
+            }
+          ]
+        }
+      }
     }
   ]
 }
