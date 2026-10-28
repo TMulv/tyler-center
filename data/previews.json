@@ -810,7 +810,7 @@
       "available": false
     },
     "https://www.nytimes.com/2026/10/06/well/cancer-prevention-exercise-treatment.html?unlocked_article_code=1.GlE.2Nho.4BP7eD9GbtPm&smid=nytcore-ios-share": {
-      "checkedAt": "2026-10-21T17:32:10.786155+00:00",
+      "checkedAt": "2026-10-28T18:26:53.527312+00:00",
       "available": false
     },
     "https://worksinprogress.co/issue/the-seven-vices-of-highly-effective-victorians/": {
@@ -929,6 +929,16 @@
       "icon": "",
       "domain": "neuronpersonas.com",
       "checkedAt": "2026-10-28T16:01:31.128160+00:00",
+      "available": true
+    },
+    "https://colossus.com/article/sane-asylum-turbopuffer": {
+      "title": "The Sane Asylum",
+      "description": "A love letter to turbopuffer, a new kind of AI company",
+      "site": "Colossus",
+      "image": "https://colossus.com/wp-content/uploads/2026/10/turbopuffer-preview-card.png",
+      "icon": "https://colossus.com/wp-content/themes/colossus/assets/images/icons/favicon-96x96.png",
+      "domain": "colossus.com",
+      "checkedAt": "2026-10-28T18:26:53.527312+00:00",
       "available": true
     }
   }
