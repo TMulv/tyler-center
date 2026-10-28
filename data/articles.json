@@ -981,6 +981,15 @@
       "url": "https://www.theverge.com/tech/1014252/peter-thiel-antichrist-lectures-analysis",
       "publishedAt": "2026-10-22T15:50:00Z",
       "readingStatus": "To Read"
+    },
+    {
+      "id": "readlater-ac782b481efd4cfcaa994bd2d4359771",
+      "channel": "articles",
+      "source": "notion",
+      "title": "Qwen Neurons",
+      "url": "https://qwen-neurons-site.vercel.app/",
+      "publishedAt": "2026-10-28T13:01:00Z",
+      "readingStatus": "To Read"
     }
   ]
 }

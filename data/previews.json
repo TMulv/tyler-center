@@ -920,6 +920,16 @@
       "domain": "www.theverge.com",
       "checkedAt": "2026-10-22T16:28:29.580262+00:00",
       "available": true
+    },
+    "https://qwen-neurons-site.vercel.app/": {
+      "title": "Neuron Persona Library",
+      "description": "Every MLP neuron of open language models, pushed alone up and down, then asked “Who are you?”. Search the replies or open any neuron.",
+      "site": "Neuron Persona Library",
+      "image": "https://neuronpersonas.com/og.png",
+      "icon": "",
+      "domain": "neuronpersonas.com",
+      "checkedAt": "2026-10-28T16:01:31.128160+00:00",
+      "available": true
     }
   }
 }
