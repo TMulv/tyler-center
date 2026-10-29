@@ -180,9 +180,12 @@ async function initialize() {
   // The self-preview renders About me without accounts, feed polling, or nested cards.
   if(window.self!==window.top && new URLSearchParams(location.search).get('project-preview')==='1') {
     document.documentElement.classList.add('project-preview-mode');
+    $('#appWindow').classList.remove('hidden-window');
     navigate('home');
     return;
   }
+  // Visitors land on the Email inbox; chat opens from the Tyler.Center shortcut.
+  emailApp.open(undefined,{focus:false});
   try {
     database = await openDatabase();
     [projects,entries,comments] = await Promise.all(['projects','entries','comments'].map(readStore));
@@ -652,7 +655,7 @@ const emailApp=EmailApp.mount({
   escape:esc,safeUrl,getRecords:()=>publishedEntries,
   isUnread:record=>!!ChannelReadState.count([record],readState,'newsletters'),
   markRead:record=>{readState=ChannelReadState.markSeen([record],readState,'newsletters');try{fallbackWrite('read-state-v1',readState);}catch{}},
-  beforeOpen:()=>{if(matchMedia('(max-width:760px)').matches)hideShelf();else{closeSearch();closeModal();closeSidebar();closeDesktopMenu();}},
+  beforeOpen:()=>{if(matchMedia('(max-width:760px)').matches && !$('#appWindow').classList.contains('hidden-window'))hideShelf();else{closeSearch();closeModal();closeSidebar();closeDesktopMenu();}},
   showMessages:()=>showShelf(),bringFront,zoom:toggleZoom,draggable:makeDraggable,resizable:makeResizable
 });
 matchMedia('(max-width:760px)').addEventListener('change',event=>{

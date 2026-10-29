@@ -10,7 +10,7 @@ Serve locally with `python3 -m http.server 8766`, or publish this directory from
 
 ## What works
 
-- A movable desktop window, menu bar, and desktop shortcuts.
+- A movable desktop window, menu bar, and desktop shortcuts. The site opens to the Email window; chat opens from the Tyler.Center shortcut.
 - On mobile, chat and Email fill the browser viewport with a compact bottom minimize bar. Minimize to reveal the wallpaper desktop and its shortcuts; reopening an app preserves its reading position.
 - An independent Email app containing only synced Daily Newsletter editions, newest first. Open it from the desktop icon, View menu, or mobile menu. Its inbox supports search and publisher/month filters; editions open in a wide reader with resize, maximize, and full-screen controls. Existing unread markers and source links are retained, and background refreshes preserve your reading position.
 - Drag the bottom-right corner to resize the desktop window. Content adapts to the window width; arrow keys on the corner grip also resize it. Zooming out restores the chosen size.

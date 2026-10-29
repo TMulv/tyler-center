@@ -41,11 +41,12 @@ test('only reviewed sites get a sandboxed miniature; blocked and arbitrary sites
  }
 });
 test('self-preview exits before database, feed polling, or accounts load',async()=>{
- const app=fs.readFileSync(path.join(root,'app.js'),'utf8');let navigated='',styled='';
- const ctx=vm.createContext({window:{self:{},top:{}},URLSearchParams,location:{search:'?project-preview=1'},document:{documentElement:{classList:{add:v=>styled=v}}},navigate:v=>navigated=v});
+ const app=fs.readFileSync(path.join(root,'app.js'),'utf8');let navigated='',styled='',shown='',emailOpened=false;
+ const ctx=vm.createContext({window:{self:{},top:{}},URLSearchParams,location:{search:'?project-preview=1'},document:{documentElement:{classList:{add:v=>styled=v}}},navigate:v=>navigated=v,$:selector=>({classList:{remove:v=>shown=selector+'.'+v}}),emailApp:{open:()=>emailOpened=true}});
  vm.runInContext(app.slice(app.indexOf('async function initialize()'),app.indexOf('async function refreshFeeds()')),ctx);
  await vm.runInContext('initialize()',ctx);
  assert.equal(navigated,'home');assert.equal(styled,'project-preview-mode');
+ assert.equal(shown,'#appWindow.hidden-window');assert.equal(emailOpened,false);
 });
 
 test('preview mode never initializes reader accounts or comments',()=>{
