@@ -4,67 +4,24 @@
     return records.filter(record=>record.channel==='newsletters' && record.source==='notion')
       .sort((a,b)=>Date.parse(b.publishedAt)-Date.parse(a.publishedAt) || String(a.id).localeCompare(String(b.id)));
   }
-  const editionStages=['morning','midday','afternoon','evening'];
-  const blockText=block=>(block.runs || []).map(run=>run.text || '').join('').replace(/\s+/g,' ').trim();
-  function additions(current,previous) {
-    if(!previous)return current;
-    const blocks=current.blocks || [];
-    const earlier=previous.blocks || [];
-    if(!blocks.length || !earlier.length){
-      const seen=new Set(String(previous.body || '').split(/\n\n+/).map(text=>text.trim()).filter(Boolean));
-      const body=String(current.body || '').split(/\n\n+/).filter(text=>text.trim() && !seen.has(text.trim())).join('\n\n');
-      return {body,blocks:[],links:body?(current.links || []).filter(link=>body.includes(link.title || link.text || '\0')):[],empty:!body};
-    }
-    const priorStories=new Set(earlier.filter(block=>block.type==='heading_3').map(block=>blockText(block).toLowerCase()));
-    const priorText=new Set(earlier.filter(block=>!block.type.startsWith('heading_')).map(block=>blockText(block)));
-    const hasHeadings=blocks.some(block=>block.type.startsWith('heading_'));
-    const selected=[];
-    let section=null,story=null,newStory=false,shownSection=null,shownStory=null,sawSection=false;
-    for(const block of blocks){
-      const text=blockText(block);
-      if(!text)continue;
-      if(block.type==='heading_2' || block.type==='heading_1'){
-        section=block;story=null;newStory=false;sawSection=true;continue;
-      }
-      if(block.type==='heading_3'){
-        story=block;newStory=!priorStories.has(text.toLowerCase());
-        if(!newStory)continue;
-      } else if(!newStory && priorText.has(text))continue;
-      // The opening summary is rewritten each pass; show the new reporting below it.
-      if(hasHeadings && !sawSection && !story)continue;
-      if(section && shownSection!==section){selected.push(section);shownSection=section;shownStory=null;}
-      if(story && shownStory!==story){selected.push(story);shownStory=story;}
-      if(block!==story)selected.push(block);
-    }
-    const body=selected.map(block=>blockText(block)).join('\n\n');
-    const linkedUrls=new Set(selected.flatMap(block=>block.runs || []).map(run=>run.url).filter(Boolean));
-    const links=(current.links || []).filter(link=>linkedUrls.has(link.url) ||
-      (link.title && link.title.length>4 && body.includes(link.title)) ||
-      (link.text && link.text.length>4 && body.includes(link.text)));
-    return {body,blocks:selected,links,empty:!selected.length};
-  }
-  function editionView(record, stage='full') {
-    const versions=record.versions;
-    if(!versions || stage==='full')return versions?.full || record;
-    if(!versions[stage])return versions.full || record;
-    const earlier=editionStages.slice(0,editionStages.indexOf(stage)).reverse().find(key=>versions[key]);
-    return additions(versions[stage],earlier && versions[earlier]);
+  // Older four-pass editions keep their stored time versions; the reader shows the complete one.
+  function editionView(record) {
+    return record.versions?.full || record;
   }
   function mount(config) {
     const win=document.querySelector('#emailWindow');
     const escape=config.escape;
-    let selected=null, selectedStage='full', opener=null, renderedRevision='', feedStatus='loading';
+    let selected=null, opener=null, renderedRevision='', feedStatus='loading';
     let sidebarCollapsed=false;
     const filter={query:'',source:'',month:''};
     const records=()=>editions(config.getRecords());
     const date=(value,long=false)=>new Date(value).toLocaleDateString(undefined,long?{weekday:'long',month:'long',day:'numeric',year:'numeric'}:{month:'short',day:'numeric',year:'numeric'});
-    const nyDate=value=>new Date(value).toLocaleDateString('en-CA',{timeZone:'America/New_York'});
     win.innerHTML=`<header class="email-titlebar"><div class="email-window-controls"><button type="button" data-mail-close aria-label="Close Email" title="Close Email">×</button><button type="button" data-mail-minimize aria-label="Minimize Email" title="Minimize Email">−<span class="mobile-minimize-label"> Minimize</span></button><button type="button" data-mail-zoom aria-label="Expand Email window" title="Expand Email window">↗</button></div><strong>✉ &nbsp; Email</strong><button type="button" class="email-return" data-mail-messages>Back to messages</button></header>
       <div class="email-layout"><aside id="emailInbox" class="email-inbox" aria-label="Newsletter inbox"><div class="email-inbox-heading"><div><span class="email-eyebrow">DAILY NEWSLETTER</span><h1>Inbox</h1></div><span id="emailInboxCount" role="status"></span></div><p id="emailTodayStatus" class="email-today-status" role="status"></p>
       <details class="email-about"><summary>About this inbox</summary><p>I subscribe to a ton of newsletters, both paid and free. Sometimes I don't have a chance to read them, so this is a live feed of a Frankenstein version of my newsletter: the most interesting or important articles that I don't want to fall through the cracks.</p><p>Agent-written digests from my subscriptions. New editions arrive here automatically.</p></details>
       <div class="email-search-controls"><input id="emailQuery" type="search" placeholder="Search editions…" aria-label="Search newsletter editions"><details class="email-filters"><summary>Filters<span id="emailFilterCount"></span></summary><div><label>Source<select id="emailSource" aria-label="Filter editions by source"></select></label><label>Month<select id="emailMonth" aria-label="Filter editions by month"></select></label><small>Sources match publishers linked inside each edition.</small><button type="button" data-mail-clear>Clear filters</button></div></details></div>
       <p id="emailSyncStatus" class="email-sync-status" role="status"></p><div id="emailList" class="email-list" aria-label="Editions, newest first"></div></aside>
-      <section class="email-reading-pane" aria-label="Read newsletter"><div class="email-reading-tools"><button type="button" data-mail-inbox aria-controls="emailInbox" aria-expanded="true">Hide inbox</button><span>Daily Newsletter</span><nav id="emailVersions" class="email-versions" aria-label="Newsletter additions by time" hidden></nav></div><div id="emailReader" class="email-reader" tabindex="0" aria-label="Newsletter reading area"></div></section></div>
+      <section class="email-reading-pane" aria-label="Read newsletter"><div class="email-reading-tools"><button type="button" data-mail-inbox aria-controls="emailInbox" aria-expanded="true">Hide inbox</button><span>Daily Newsletter</span></div><div id="emailReader" class="email-reader" tabindex="0" aria-label="Newsletter reading area"></div></section></div>
       <button id="emailResize" class="window-resize-handle" aria-label="Resize Email window" title="Drag to resize. Arrow keys also work."></button>`;
     const $=selector=>win.querySelector(selector);
     const mark=record=>config.markRead(record);
@@ -110,36 +67,27 @@
       const reader=$('#emailReader');
       if(!record) {
         selected=null;renderedRevision='';win.classList.remove('reading-email');setSidebarCollapsed(false);
-        $('#emailVersions').hidden=true;
         reader.innerHTML='<div class="email-welcome"><span aria-hidden="true">✉</span><h2>A little room to read.</h2><p>Choose an edition from the inbox.<br>Just the Daily Newsletter, all in one place.</p></div>';
         return;
       }
-      const versions=record.versions;
-      const stages=[['morning','8 AM'],['midday','12 PM'],['afternoon','4 PM'],['evening','8 PM'],['full','All']];
-      const firstStage=editionStages.find(key=>versions?.[key]);
-      if(!versions?.[selectedStage])selectedStage='full';
-      const switcher=$('#emailVersions');
-      switcher.hidden=!versions;
-      if(versions) switcher.innerHTML=stages.map(([key,label])=>`<button type="button" data-mail-stage="${key}" aria-label="${key==='full'?'Show complete newsletter':key===firstStage?`Show ${label} first available edition`:`Show ${label} additions only`}" aria-pressed="${selectedStage===key}" ${versions[key]?'':"disabled title='Not available yet'"}>${label}</button>`).join('');
-      const view=editionView(record,selectedStage);
-      const revision=JSON.stringify([selectedStage,record]);
+      const view=editionView(record);
+      const revision=JSON.stringify(record);
       if(!reset && renderedRevision===revision)return;
       const scroll=reader.scrollTop;
       renderedRevision=revision;
       const links=(view.links || []).filter(link=>config.safeUrl(link.url));
-      const updating=selectedStage==='full' && !versions?.evening && nyDate(record.publishedAt)===nyDate(Date.now());
-      const stageLabel=versions?`<p class="email-stage-label">${selectedStage==='full'?'Complete edition':`${escape(stages.find(([key])=>key===selectedStage)[1])} ${selectedStage===firstStage?'edition · first available update':'additions'}`}${updating?' · Updating today':''}</p>`:'';
-      const body=view.empty?'<p class="email-no-additions">Nothing new was added in this update. Choose All to read the complete edition.</p>':root.ChannelFeeds.renderBody({...record,...view});
-      reader.innerHTML=`<article class="email-letter"><div class="email-letter-meta"><img src="assets/daily-newsletter-avatar.png" alt="" width="42" height="42"><div><strong>Daily Newsletter</strong><time datetime="${escape(record.publishedAt)}">${escape(date(record.publishedAt,true))}</time></div></div><h1 tabindex="-1">${escape(record.title)}</h1>${stageLabel}<div class="email-letter-rule"></div><div class="digest-body">${body}</div>${links.length?`<footer class="email-sources"><h2>From this ${selectedStage==='full'?'edition':'update'}</h2>${links.map(link=>`<a href="${escape(config.safeUrl(link.url))}" target="_blank" rel="noopener noreferrer">${escape(link.title || new URL(link.url).hostname)} ↗</a>`).join('')}</footer>`:''}<p class="email-signoff">Agent-written highlights from my newsletter subscriptions.</p></article>`;
+      const body=root.ChannelFeeds.renderBody({...record,...view});
+      reader.innerHTML=`<article class="email-letter"><div class="email-letter-meta"><img src="assets/daily-newsletter-avatar.png" alt="" width="42" height="42"><div><strong>Daily Newsletter</strong><time datetime="${escape(record.publishedAt)}">${escape(date(record.publishedAt,true))}</time></div></div><h1 tabindex="-1">${escape(record.title)}</h1><div class="email-letter-rule"></div><div class="digest-body">${body}</div>${links.length?`<footer class="email-sources"><h2>From this edition</h2>${links.map(link=>`<a href="${escape(config.safeUrl(link.url))}" target="_blank" rel="noopener noreferrer">${escape(link.title || new URL(link.url).hostname)} ↗</a>`).join('')}</footer>`:''}<p class="email-signoff">Agent-written highlights from my newsletter subscriptions.</p></article>`;
       reader.scrollTop=reset?0:scroll;
       if(reset)$('.email-letter h1').focus({preventScroll:true});
     }
     function refresh(status) {
       if(status)feedStatus=status;
-      const today=records().find(record=>nyDate(record.publishedAt)===nyDate(Date.now()));
-      const available=today?.versions ? (today.versions.evening?'8pm':today.versions.afternoon?'4pm':today.versions.midday?'12pm':today.versions.morning?'8am':'') : '';
-      $('#emailTodayStatus').textContent=today?(available?`Today’s ${available} edition is available`:'Today’s edition is available'):
-        feedStatus==='loading'?'Checking for today’s edition…':'No edition received for today yet';
+      // The full edition publishes once a night; its title ends with the edition date.
+      const todayLong=new Date().toLocaleDateString('en-US',{timeZone:'America/New_York',weekday:'long',month:'long',day:'numeric',year:'numeric'});
+      const today=records().some(record=>String(record.title || '').includes(todayLong));
+      $('#emailTodayStatus').textContent=today?'Today’s full edition is here':
+        feedStatus==='loading'?'Checking for today’s edition…':'Today’s full edition lands tonight after 10pm ET';
       $('#emailSyncStatus').textContent=feedStatus==='error'?(records().length?'Couldn’t refresh. The last received editions are still here.':'Couldn’t load the inbox. We’ll retry automatically.'):'';
       $('#emailSyncStatus').hidden=feedStatus!=='error';
       updateOptions();renderReader();renderList();
@@ -147,7 +95,6 @@
     function select(id) {
       const record=records().find(r=>r.id===id);
       if(!record)return;
-      if(selected!==id)selectedStage='full';
       selected=id;win.classList.add('reading-email');mark(record);renderReader(true);renderList();
     }
     function open(id,{focus=true}={}) {
@@ -174,7 +121,6 @@
     win.addEventListener('pointerdown',()=>config.bringFront(win));
     win.addEventListener('click',async event=>{
       const row=event.target.closest('[data-mail-id]');if(row){select(row.dataset.mailId);return;}
-      const stage=event.target.closest('[data-mail-stage]');if(stage && !stage.disabled){selectedStage=stage.dataset.mailStage;renderReader(true);return;}
       if(event.target.closest('[data-mail-messages]')){await close();config.showMessages();return;}
       if(event.target.closest('[data-mail-close],[data-mail-minimize]')){await close();return;}
       if(event.target.closest('[data-mail-zoom]')){
