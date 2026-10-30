@@ -205512,6 +205512,599 @@
           ]
         }
       }
+    },
+    {
+      "id": "digest-a6a1efa8-b6e2-4ada-85a2-a785d74544c7",
+      "channel": "newsletters",
+      "source": "notion",
+      "kind": "Agent-written digest",
+      "domain": "Daily newsletter digest",
+      "title": "The Cord Comeback, Server Fire, and Thanksgiving Without Turkey",
+      "url": "",
+      "description": "Today’s mail arrives with a pleasingly unstable mix: wired headphones are back, AI agents are wandering into places they absolutely should not be, and Thanksgiving has officially been liberated from the turkey industrial complex. Also: a one-person job board built in an hour, a restaurant arguing fo",
+      "body": "Today’s mail arrives with a pleasingly unstable mix: wired headphones are back, AI agents are wandering into places they absolutely should not be, and Thanksgiving has officially been liberated from the turkey industrial complex. Also: a one-person job board built in an hour, a restaurant arguing for quiet luxury, and a $264 stand mixer shaped like a time machine.\n\nBest links\n\n• The internet is on fire, and the fire extinguisher is also an AI agent. Today in Tabs runs through “Black October” in computer security: a PHP core vulnerability affecting a huge share of the web, compromised packages, hacked services, and a proposed auto-patching tool that runs with root access and warns you it may delete your whole server. The sharp idea is the asymmetry: attackers need one lucky break; defenders need to be right every time.\n\n• The Pentagon’s accidental AI houseguest. WIRED Daily reports that a defense contractor’s personal Claude agent ran on a DOD network for two months before the vulnerability was found. The larger question is less “can agents work?” than “who gave this one the keys?”\n\n• A job board as a tiny, profitable product. Feed Me tells the story of moving from newsletter roundup to Google Doc to a custom site built in roughly an hour with Lovable. The useful pattern: keep a human approval queue, automate expiry and admin, and build the smallest thing that can charge from day one.\n\nWorth reading\n\n• The anti-outrage case for AI disclosure. Semafor Technology argues that Dartmouth provost Santiago Schnell’s resignation over undisclosed AI assistance was the wrong lesson. If the ideas, research, structure, and final judgment were his, the real issue may be disclosure—not pretending the tool is impossible to use.\n\n• Computers used to relate to us; now we relate to them. Rusty at Today in Tabs turns a security roundup into a darker meditation on the moment software stopped being a tool and became the environment. The “AI can patch everything” answer is tempting, but handing an LLM root access is a spectacularly literal way to fight fire with fire.\n\n• Apple’s product-guy succession plan. WIRED Backchannel sees new CEO John Ternus as a low-drama, hardware-first leader: the new MacBook launch’s loudest symbol was the return of the glowing Apple logo. Apple’s message, apparently, is that hardware still rules—even in the age of AI.\n\nFood & places\n\n• The turkey-free table. NYT Cooking offers 23 Thanksgiving mains for anyone bored with the glossy bird—or simply watching grocery prices. The strongest permission slip of the day: make the centerpiece something you actually want to eat.\n\n• A restaurant that is in a neighborhood, not a “neighborhood bistro.” Feed Me’s review of 148 Noble Street praises Greenpoint’s dark wood, white walls, peg rails, free She Wolf bread, oysters with dulse, crab claws in Cajun butter, and a no-fuss attitude. The restaurant’s thesis: elegance is function, and food should come first.\n\n• The drink zeitgeist is fluorescent. After School profiles 7 Brew, the anti-Starbucks drive-through chain now at 900-plus locations, built around supersweet custom drinks, afternoon “little treats,” and a loyalty program that actually rewards people.\n\nIdeas to steal\n\n• Make the friction visible. Wired headphones are suddenly hot because they plug in, work, do not need charging, and do not randomly drop connection. Joanna Stern says Bose sold more $99 wired earbuds in a week than it expected to sell in three months. Sometimes “innovation” is removing the battery.\n\n• Give people a human in the loop. Feed Me’s job board works because listings are screened by a person, while routine work—expiration, notifications, edits—runs automatically. That division of labor feels sturdier than either total manual effort or total automation.\n\n• Design for the actual body. Joanna’s practical find: iPhone Vehicle Motion Cues and Android Motion Assist add moving dots to the screen to reduce motion sickness. On iPhone: Settings → Accessibility → Motion → Vehicle Motion Cues.\n\nInternet oddities\n\n• The web’s smallest useful tools still matter. Feed Me notes that Remove.bg—the admirably single-purpose background-removal site—is shutting down after Canva’s acquisition. RIP to a site that did exactly one thing and did it cleanly.\n\n• ChatGPT is now sending people to journalists for tech support. 404 Media says people with ordinary platform problems are arriving via AI-generated emails because chatbots told them they had uncovered a story. The weirdness is not just hallucination; it is a new layer of automated assignment-desk spam.\n\n• AO3’s Kinktober interruption. 404 Media reports that Archive of Our Own could be down for weeks after a security incident. A cultural institution built on fan fiction has become infrastructure—and its outage lands accordingly.\n\nOne-liners\n\n• The best Thanksgiving side dish may be “not turkey.”\n\n• Gen Z is reviving the 2010s, wired headphones, digital cameras, and iTunes charts—nostalgia now has a refresh rate.\n\n• A data-center “strategic negotiator” is a six-figure professional whose job is to explain why the giant server building belongs in your town.\n\n• A $264 Smeg stand mixer is either a deal or a very attractive cry for help. The Goods.\n\n• “I guess you could say, I was ahead of the...cord.” — Joanna Stern",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Today’s mail arrives with a pleasingly unstable mix: wired headphones are back, AI agents are wandering into places they absolutely should not be, and Thanksgiving has officially been liberated from the turkey industrial complex. Also: a one-person job board built in an hour, a restaurant arguing for quiet luxury, and a $264 stand mixer shaped like a time machine.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "heading_2",
+          "runs": [
+            {
+              "text": "Best links",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "The internet is on fire, and the fire extinguisher is also an AI agent.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Today in Tabs",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": " runs through “Black October” in computer security: a PHP core vulnerability affecting a huge share of the web, compromised packages, hacked services, and a proposed auto-patching tool that runs with root access and warns you it may delete your whole server. The sharp idea is the asymmetry: attackers need one lucky break; defenders need to be right every time.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "The Pentagon’s accidental AI houseguest.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "WIRED Daily",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": " reports that a defense contractor’s personal Claude agent ran on a DOD network for two months before the vulnerability was found. The larger question is less “can agents work?” than “who gave this one the keys?”",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "A job board as a tiny, profitable product.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Feed Me",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": " tells the story of moving from newsletter roundup to Google Doc to a custom site built in roughly an hour with Lovable. The useful pattern: keep a human approval queue, automate expiry and admin, and build the smallest thing that can charge from day one.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "heading_2",
+          "runs": [
+            {
+              "text": "Worth reading",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "The anti-outrage case for AI disclosure.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Semafor Technology",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": " argues that Dartmouth provost Santiago Schnell’s resignation over undisclosed AI assistance was the wrong lesson. If the ideas, research, structure, and final judgment were his, the real issue may be disclosure—not pretending the tool is impossible to use.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Computers used to relate to us; now we relate to them.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " Rusty at ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Today in Tabs",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": " turns a security roundup into a darker meditation on the moment software stopped being a tool and became the environment. The “AI can patch everything” answer is tempting, but handing an LLM root access is a spectacularly literal way to fight fire with fire.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Apple’s product-guy succession plan.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "WIRED Backchannel",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": " sees new CEO John Ternus as a low-drama, hardware-first leader: the new MacBook launch’s loudest symbol was the return of the glowing Apple logo. Apple’s message, apparently, is that hardware still rules—even in the age of AI.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "heading_2",
+          "runs": [
+            {
+              "text": "Food & places",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "The turkey-free table.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "NYT Cooking",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": " offers 23 Thanksgiving mains for anyone bored with the glossy bird—or simply watching grocery prices. The strongest permission slip of the day: make the centerpiece something you actually want to eat.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "A restaurant that is in a neighborhood, not a “neighborhood bistro.”",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Feed Me’s review of 148 Noble Street",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": " praises Greenpoint’s dark wood, white walls, peg rails, free She Wolf bread, oysters with dulse, crab claws in Cajun butter, and a no-fuss attitude. The restaurant’s thesis: elegance is function, and food should come first.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "The drink zeitgeist is fluorescent.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "After School",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": " profiles 7 Brew, the anti-Starbucks drive-through chain now at 900-plus locations, built around supersweet custom drinks, afternoon “little treats,” and a loyalty program that actually rewards people.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "heading_2",
+          "runs": [
+            {
+              "text": "Ideas to steal",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Make the friction visible.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " Wired headphones are suddenly hot because they plug in, work, do not need charging, and do not randomly drop connection. ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Joanna Stern",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": " says Bose sold more $99 wired earbuds in a week than it expected to sell in three months. Sometimes “innovation” is removing the battery.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Give people a human in the loop.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " Feed Me’s job board works because listings are screened by a person, while routine work—expiration, notifications, edits—runs automatically. That division of labor feels sturdier than either total manual effort or total automation.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Design for the actual body.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " Joanna’s practical find: iPhone Vehicle Motion Cues and Android Motion Assist add moving dots to the screen to reduce motion sickness. On iPhone: Settings → Accessibility → Motion → Vehicle Motion Cues.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "heading_2",
+          "runs": [
+            {
+              "text": "Internet oddities",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "The web’s smallest useful tools still matter.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Feed Me",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": " notes that ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Remove.bg",
+              "url": "http://remove.bg/",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "—the admirably single-purpose background-removal site—is shutting down after Canva’s acquisition. RIP to a site that did exactly one thing and did it cleanly.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "ChatGPT is now sending people to journalists for tech support.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "404 Media",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": " says people with ordinary platform problems are arriving via AI-generated emails because chatbots told them they had uncovered a story. The weirdness is not just hallucination; it is a new layer of automated assignment-desk spam.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "AO3’s Kinktober interruption.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "404 Media",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": " reports that Archive of Our Own could be down for weeks after a security incident. A cultural institution built on fan fiction has become infrastructure—and its outage lands accordingly.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "heading_2",
+          "runs": [
+            {
+              "text": "One-liners",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "The best Thanksgiving side dish may be “not turkey.”",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Gen Z is reviving the 2010s, wired headphones, digital cameras, and iTunes charts—nostalgia now has a refresh rate.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "A data-center “strategic negotiator” is a six-figure professional whose job is to explain why the giant server building belongs in your town.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "A $264 Smeg stand mixer is either a deal or a very attractive cry for help. ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "The Goods",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ".",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "“I guess you could say, I was ahead of the...cord.” — ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Joanna Stern",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        }
+      ],
+      "publishedAt": "2026-10-30T21:05:00Z",
+      "links": [
+        {
+          "title": "Remove.bg",
+          "url": "http://remove.bg/"
+        }
+      ]
     }
   ]
 }
