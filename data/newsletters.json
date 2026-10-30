@@ -200489,6 +200489,2522 @@
       ],
       "publishedAt": "2026-10-29T21:16:00Z",
       "links": []
+    },
+    {
+      "id": "digest-4098153c-8a3e-816a-9397-e55ffa3d581f",
+      "channel": "newsletters",
+      "source": "notion",
+      "kind": "Agent-written digest",
+      "domain": "Daily newsletter digest",
+      "title": "Google's worst day ever, a Claude agent on a Pentagon network, the Labubu crash - Friday, October 30, 2026",
+      "url": "",
+      "description": "Friday, October 30, 2026 - Morning Edition",
+      "body": "Friday, October 30, 2026 - Morning Edition\n\nToday's Numbers\n\n• 12.5%: Alphabet's worst trading day ever. $511 billion in market value evaporated within five minutes of Thursday's opening bell, and the stock logged its biggest one-day decline since the financial crisis. Google's own AI is cannibalizing the search ads that pay for everything.\n\n• $63 billion: Google's search revenue this quarter, out of $128 billion total. The flywheel still spins, but AI Mode queries monetize worse than classic search, and Wall Street just noticed.\n\n• 11 points: the Democratic lead on the generic ballot with likely voters in The Argument's new poll. The worst showing for Republicans across the publication's 14-poll series.\n\n• 12.4%: the drop in computer science enrollment at four-year colleges this fall, nearly double last year's rate of decline. Students are reading the job market: a Stanford study found employment of 22-to-25-year-old software developers down nearly 20 percent since 2022.\n\n• 70-75%: the collapse in US Labubu sales this quarter, per Pop Mart's earnings. A brief trendy fad doomed to fall out of fashion in a speculative bubble turned out to be exactly that.\n\n• $115 billion: investor demand for Microsoft's first US high-grade bond sale since 2017. The bond market will happily fund the AI buildout even as shareholders flinch.\n\nQuotes of the Day\n\n• \"It's worth noting that the strong growth in AI Mode queries had an impact because of the lower monetization we were seeing in AI Mode\" (Philipp Schindler, Google's chief business officer, on Thursday's Q3 earnings call)\n\n• \"Your average crazy schizo poster on 4chan\" has an easier time telling the truth than most \"experts\" (Palmer Luckey, after calling out The Verge over its Anduril laptop story)\n\n• \"Those are just remarkable declines for a field that until recently was one of the fastest growing areas that we'd seen in higher education\" (Matthew Holsapple, research director at the National Student Clearinghouse, on CS enrollment falling for a second straight year)\n\nAI & The Machines\n\nSomeone's personal Claude agent spent two months inside a Pentagon network. Sources tell WIRED that an Accenture employee's personal AI agent ran on a secure DOD system for two months before it was identified and the hole was patched. Two months of an unvetted agent wandering the Pentagon is the kind of security story that writes its own threat model. (WIRED)\n\nAnthropic and OpenAI say a key tenet of computer science is now wrong. The claim, reported by Isabella Ward, is that a new AI breakthrough has made decades of CS research \"irrelevant.\" Researchers are struggling with the fall even as they feel like \"overexcited bunnies\" about the new questions it opens up. (WIRED)\n\nGoogle's AI Mode flunked the 2020 election. The tool struggled to name a winner decided six years ago (Gemini answered correctly, and Google fixed the bug fast). Online posters screamed political intervention and creeping fascism, which takes some nerve from the crowd that spent years insisting Big Tech was censoring the right. (Pirate Wires)\n\nMistral open-sourced the weights for a trillion-parameter model built for cybersecurity. France's AI lab keeps releasing frontier models into the wild, this time aimed at security work. The open-weights camp is not slowing down. (Snacks)\n\nReddit is forcing lurkers to log in. Casey Newton's read on the week: Google and Reddit had the same bad week because AI search is hollowing out the open web, so platforms are walling off what is left to monetize. (Platformer)\n\nMoney & Power\n\nJune might have been the AI peak, and that could mean cheap mortgages. Conor Sen's argument: the frothiest part of the AI trade topped out in June with the SpaceX IPO and Alphabet's $80 billion raise. If that was this cycle's dot-com March 2000 moment, the bust phase could pull rates down over years, and that is the key swing factor for housing in 2027. (The Housing Frame)\n\nDoorDash is buying Instacart for $17 billion. One company will soon control your restaurant delivery and your grocery delivery. The delivery wars are consolidating into a duopoly of one. (Snacks)\n\nInvestors lined up with $115 billion for Microsoft's first US bond sale since 2017. The bond market is happy to fund the AI buildout even while the stock market flinches at the bill. Debt investors and equity investors are reading the same capex plans and reaching opposite conclusions. (Snacks)\n\nThe Culture\n\nA luxury cruise ship marooned its passengers in Cambodia's scam capital. The Odyssey promised wealthy travelers a years-long voyage around the world, then rising fuel costs forced management to evict everyone in Sihanoukville. Passengers paid for the trip of a lifetime and got dumped at the epicenter of the global scam industry. (Snacks)\n\nA hacker watched the world's best poker players' hole cards. Malware planted on top online pros' computers let the accused cheater see every hand in real time and trounce the tables. Online poker's integrity problem just got a face. (WIRED)\n\nHas Mario Batali served his time? Eddie Huang and Natashia Perrotti sat down with Caper Media's Dana Brown to argue about the disgraced chef's exile, how Me Too accountability has evolved, and what makes a restaurant matter beyond the food. (Canal Street Dreams)\n\nMale insecurity is a growth industry. The new documentary \"Manhood\" follows wellness professionals pushing men toward ever more extreme \"girth enhancement\" procedures in the name of being sexually desirable. Insecurity has always sold; now it has a surgical suite. (WIRED)\n\nMedia Wars\n\nA CBS correspondent's deleted X post derailed a 60 Minutes interview. Chief legal correspondent Jan Crawford publicly cheered a GOP activist pressing Michigan Senate candidate Abdul El-Sayed to condemn the Muslim Brotherhood, then deleted the post and apologized for violating network standards. The sit-down with Ross Douthat, the newsmagazine's newly minted correspondent, is now in flux days before a tight midterm race against Mike Rogers. (Status)\n\nThe Verge picked a fight with Palmer Luckey and lost. Its piece on Anduril's American-made laptop recycled a baseless 2016 rumor about Luckey funding right-wing troll farms and claimed the laptop had only three American parts, despite what Luckey said on the press call. The editor-in-chief replied \"Sup baby\" on X before issuing a correction. Legacy tech media, everybody. (Pirate Wires)\n\nQuick Hits & Curiosities\n\n• The FBI is investigating a heist of 6,452 trading cards, mostly Pokemon and sports cards, stolen from a FedEx truck idling outside a PSA grading facility in California. (Snacks)\n\n• Stack Overflow is dying as a forum because every coder now asks an LLM trained on every forum post ever written, though the company itself insists it is still kicking. (Snacks)\n\n• Polymarket halted international trading after hackers drained accounts through a compromised third-party provider. Trading has resumed and the company says affected traders will be made whole. (WIRED)\n\n• Garbage Day went to a ZYN-exclusive concert in Nashville. Nicotine pouch brands are throwing concerts now. That is the whole story and somehow it is a story. (Snacks)\n\n• Saturday is Game 7 of the WNBA Finals, a literal 50-50 dead heat between the Golden State Valkyries and the Atlanta Dream. (Snacks)",
+      "blocks": [
+        {
+          "type": "heading_1",
+          "runs": [
+            {
+              "text": "Friday, October 30, 2026 - Morning Edition",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Today's Numbers",
+              "url": "",
+              "bold": true,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "12.5%",
+              "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-29-2026",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": ": Alphabet's worst trading day ever. $511 billion in market value evaporated within five minutes of Thursday's opening bell, and the stock logged its biggest one-day decline since the financial crisis. Google's own AI is cannibalizing the search ads that pay for everything.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "$63 billion",
+              "url": "https://arstechnica.com/gadgets/2026/10/google-admits-ai-search-makes-less-money-but-its-fixing-that-with-more-ads/",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": ": Google's search revenue this quarter, out of $128 billion total. The flywheel still spins, but AI Mode queries monetize worse than classic search, and Wall Street just noticed.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "11 points",
+              "url": "https://www.theargumentmag.com/p/how-republicans-lost-voters-trust",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": ": the Democratic lead on the generic ballot with likely voters in The Argument's new poll. The worst showing for Republicans across the publication's 14-poll series.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "12.4%",
+              "url": "https://www.platformer.news/",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": ": the drop in computer science enrollment at four-year colleges this fall, nearly double last year's rate of decline. Students are reading the job market: a Stanford study found employment of 22-to-25-year-old software developers down nearly 20 percent since 2022.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "70-75%",
+              "url": "https://www.numlock.com/p/numlock-news-october-28-2026-opera",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": ": the collapse in US Labubu sales this quarter, per Pop Mart's earnings. A brief trendy fad doomed to fall out of fashion in a speculative bubble turned out to be exactly that.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "$115 billion",
+              "url": "https://www.bloomberg.com/news/articles/2026-10-29/microsoft-kicks-off-first-us-high-grade-bond-sale-since-2017",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": ": investor demand for Microsoft's first US high-grade bond sale since 2017. The bond market will happily fund the AI buildout even as shareholders flinch.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Quotes of the Day",
+              "url": "",
+              "bold": true,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "\"It's worth noting that the strong growth in AI Mode queries had an impact because of the lower monetization we were seeing in AI Mode\" (Philipp Schindler, Google's chief business officer, on Thursday's Q3 earnings call)",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "\"Your average crazy schizo poster on 4chan\" has an easier time telling the truth than most \"experts\" (Palmer Luckey, after calling out The Verge over its Anduril laptop story)",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "\"Those are just remarkable declines for a field that until recently was one of the fastest growing areas that we'd seen in higher education\" (Matthew Holsapple, research director at the National Student Clearinghouse, on CS enrollment falling for a second straight year)",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "AI & The Machines",
+              "url": "",
+              "bold": true,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Someone's personal Claude agent spent two months inside a Pentagon network.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " Sources tell WIRED that an Accenture employee's personal AI agent ran on a secure DOD system for two months before it was identified and the hole was patched. Two months of an unvetted agent wandering the Pentagon is the kind of security story that writes its own threat model. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "WIRED",
+              "url": "https://www.wired.com/story/a-defense-contractor-gave-their-personal-ai-agent-access-to-a-secure-pentagon-system/",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Anthropic and OpenAI say a key tenet of computer science is now wrong.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " The claim, reported by Isabella Ward, is that a new AI breakthrough has made decades of CS research \"irrelevant.\" Researchers are struggling with the fall even as they feel like \"overexcited bunnies\" about the new questions it opens up. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "WIRED",
+              "url": "https://www.wired.com/story/ai-made-decades-of-computer-science-research-irrelevant/",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Google's AI Mode flunked the 2020 election.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " The tool struggled to name a winner decided six years ago (Gemini answered correctly, and Google fixed the bug fast). Online posters screamed political intervention and creeping fascism, which takes some nerve from the crowd that spent years insisting Big Tech was censoring the right. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Pirate Wires",
+              "url": "https://www.piratewires.com/",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Mistral open-sourced the weights for a trillion-parameter model built for cybersecurity.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " France's AI lab keeps releasing frontier models into the wild, this time aimed at security work. The open-weights camp is not slowing down. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Snacks",
+              "url": "https://techcrunch.com/2026/10/29/mistral-releases-weights-for-its-trillion-parameter-ai-model-targeting-cybersecurity/",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Reddit is forcing lurkers to log in.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " Casey Newton's read on the week: Google and Reddit had the same bad week because AI search is hollowing out the open web, so platforms are walling off what is left to monetize. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Platformer",
+              "url": "https://www.platformer.news/",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Money & Power",
+              "url": "",
+              "bold": true,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "June might have been the AI peak, and that could mean cheap mortgages.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " Conor Sen's argument: the frothiest part of the AI trade topped out in June with the SpaceX IPO and Alphabet's $80 billion raise. If that was this cycle's dot-com March 2000 moment, the bust phase could pull rates down over years, and that is the key swing factor for housing in 2027. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "The Housing Frame",
+              "url": "https://conorsen.substack.com/p/the-long-road-from-an-ai-peak-to",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "DoorDash is buying Instacart for $17 billion.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " One company will soon control your restaurant delivery and your grocery delivery. The delivery wars are consolidating into a duopoly of one. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Snacks",
+              "url": "https://techcrunch.com/2026/10/29/doordash-to-acquire-instacart-for-17b/",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Investors lined up with $115 billion for Microsoft's first US bond sale since 2017.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " The bond market is happy to fund the AI buildout even while the stock market flinches at the bill. Debt investors and equity investors are reading the same capex plans and reaching opposite conclusions. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Snacks",
+              "url": "https://www.bloomberg.com/news/articles/2026-10-29/microsoft-kicks-off-first-us-high-grade-bond-sale-since-2017",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "The Culture",
+              "url": "",
+              "bold": true,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "A luxury cruise ship marooned its passengers in Cambodia's scam capital.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " The Odyssey promised wealthy travelers a years-long voyage around the world, then rising fuel costs forced management to evict everyone in Sihanoukville. Passengers paid for the trip of a lifetime and got dumped at the epicenter of the global scam industry. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Snacks",
+              "url": "https://www.numlock.com/p/numlock-news-october-29-2026-eels",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "A hacker watched the world's best poker players' hole cards.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " Malware planted on top online pros' computers let the accused cheater see every hand in real time and trounce the tables. Online poker's integrity problem just got a face. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "WIRED",
+              "url": "https://www.wired.com/story/a-hacker-targeted-high-stakes-poker-players-with-malware-that-exposed-their-cards/",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Has Mario Batali served his time?",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " Eddie Huang and Natashia Perrotti sat down with Caper Media's Dana Brown to argue about the disgraced chef's exile, how Me Too accountability has evolved, and what makes a restaurant matter beyond the food. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Canal Street Dreams",
+              "url": "https://basedfob.substack.com/p/nycs-best-hospitality-the-mario-batali",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Male insecurity is a growth industry.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " The new documentary \"Manhood\" follows wellness professionals pushing men toward ever more extreme \"girth enhancement\" procedures in the name of being sexually desirable. Insecurity has always sold; now it has a surgical suite. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "WIRED",
+              "url": "https://www.wired.com/story/male-insecurity-over-penis-size-is-a-booming-business/",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Media Wars",
+              "url": "",
+              "bold": true,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "A CBS correspondent's deleted X post derailed a 60 Minutes interview.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " Chief legal correspondent Jan Crawford publicly cheered a GOP activist pressing Michigan Senate candidate Abdul El-Sayed to condemn the Muslim Brotherhood, then deleted the post and apologized for violating network standards. The sit-down with Ross Douthat, the newsmagazine's newly minted correspondent, is now in flux days before a tight midterm race against Mike Rogers. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Status",
+              "url": "https://www.status.news/",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "The Verge picked a fight with Palmer Luckey and lost.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " Its piece on Anduril's American-made laptop recycled a baseless 2016 rumor about Luckey funding right-wing troll farms and claimed the laptop had only three American parts, despite what Luckey said on the press call. The editor-in-chief replied \"Sup baby\" on X before issuing a correction. Legacy tech media, everybody. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Pirate Wires",
+              "url": "https://www.piratewires.com/",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Quick Hits & Curiosities",
+              "url": "",
+              "bold": true,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "The FBI is investigating a heist of 6,452 trading cards, mostly Pokemon and sports cards, stolen from a FedEx truck idling outside a PSA grading facility in California. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Snacks",
+              "url": "https://sherwood.news/",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Stack Overflow is dying as a forum because every coder now asks an LLM trained on every forum post ever written, though the company itself insists it is still kicking. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Snacks",
+              "url": "https://sherwood.news/tech/stack-overflow-forum-dead-thanks-ai-but-companys-still-kicking-ai/",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Polymarket halted international trading after hackers drained accounts through a compromised third-party provider. Trading has resumed and the company says affected traders will be made whole. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "WIRED",
+              "url": "https://www.wired.com/story/polymarket-flagship-platform-hack-traders-lose-money/",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Garbage Day went to a ZYN-exclusive concert in Nashville. Nicotine pouch brands are throwing concerts now. That is the whole story and somehow it is a story. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Snacks",
+              "url": "https://www.garbageday.email/p/i-went-to-a-zyn-exclusive-concert-in-nashville",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Saturday is Game 7 of the WNBA Finals, a literal 50-50 dead heat between the Golden State Valkyries and the Atlanta Dream. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Snacks",
+              "url": "https://sherwood.news/",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        }
+      ],
+      "publishedAt": "2026-10-30T12:00:00Z",
+      "links": [
+        {
+          "title": "12.5%",
+          "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-29-2026"
+        },
+        {
+          "title": "$63 billion",
+          "url": "https://arstechnica.com/gadgets/2026/10/google-admits-ai-search-makes-less-money-but-its-fixing-that-with-more-ads/"
+        },
+        {
+          "title": "11 points",
+          "url": "https://www.theargumentmag.com/p/how-republicans-lost-voters-trust"
+        },
+        {
+          "title": "Platformer",
+          "url": "https://www.platformer.news/"
+        },
+        {
+          "title": "70-75%",
+          "url": "https://www.numlock.com/p/numlock-news-october-28-2026-opera"
+        },
+        {
+          "title": "Snacks",
+          "url": "https://www.bloomberg.com/news/articles/2026-10-29/microsoft-kicks-off-first-us-high-grade-bond-sale-since-2017"
+        },
+        {
+          "title": "WIRED",
+          "url": "https://www.wired.com/story/a-defense-contractor-gave-their-personal-ai-agent-access-to-a-secure-pentagon-system/"
+        },
+        {
+          "title": "WIRED",
+          "url": "https://www.wired.com/story/ai-made-decades-of-computer-science-research-irrelevant/"
+        },
+        {
+          "title": "Pirate Wires",
+          "url": "https://www.piratewires.com/"
+        },
+        {
+          "title": "Snacks",
+          "url": "https://techcrunch.com/2026/10/29/mistral-releases-weights-for-its-trillion-parameter-ai-model-targeting-cybersecurity/"
+        },
+        {
+          "title": "The Housing Frame",
+          "url": "https://conorsen.substack.com/p/the-long-road-from-an-ai-peak-to"
+        },
+        {
+          "title": "Snacks",
+          "url": "https://techcrunch.com/2026/10/29/doordash-to-acquire-instacart-for-17b/"
+        },
+        {
+          "title": "Snacks",
+          "url": "https://www.numlock.com/p/numlock-news-october-29-2026-eels"
+        },
+        {
+          "title": "WIRED",
+          "url": "https://www.wired.com/story/a-hacker-targeted-high-stakes-poker-players-with-malware-that-exposed-their-cards/"
+        },
+        {
+          "title": "Canal Street Dreams",
+          "url": "https://basedfob.substack.com/p/nycs-best-hospitality-the-mario-batali"
+        },
+        {
+          "title": "WIRED",
+          "url": "https://www.wired.com/story/male-insecurity-over-penis-size-is-a-booming-business/"
+        },
+        {
+          "title": "Status",
+          "url": "https://www.status.news/"
+        },
+        {
+          "title": "Snacks",
+          "url": "https://sherwood.news/"
+        },
+        {
+          "title": "Snacks",
+          "url": "https://sherwood.news/tech/stack-overflow-forum-dead-thanks-ai-but-companys-still-kicking-ai/"
+        },
+        {
+          "title": "WIRED",
+          "url": "https://www.wired.com/story/polymarket-flagship-platform-hack-traders-lose-money/"
+        },
+        {
+          "title": "Snacks",
+          "url": "https://www.garbageday.email/p/i-went-to-a-zyn-exclusive-concert-in-nashville"
+        }
+      ],
+      "versions": {
+        "morning": {
+          "body": "Friday, October 30, 2026 - Morning Edition\n\nToday's Numbers\n\n• 12.5%: Alphabet's worst trading day ever. $511 billion in market value evaporated within five minutes of Thursday's opening bell, and the stock logged its biggest one-day decline since the financial crisis. Google's own AI is cannibalizing the search ads that pay for everything.\n\n• $63 billion: Google's search revenue this quarter, out of $128 billion total. The flywheel still spins, but AI Mode queries monetize worse than classic search, and Wall Street just noticed.\n\n• 11 points: the Democratic lead on the generic ballot with likely voters in The Argument's new poll. The worst showing for Republicans across the publication's 14-poll series.\n\n• 12.4%: the drop in computer science enrollment at four-year colleges this fall, nearly double last year's rate of decline. Students are reading the job market: a Stanford study found employment of 22-to-25-year-old software developers down nearly 20 percent since 2022.\n\n• 70-75%: the collapse in US Labubu sales this quarter, per Pop Mart's earnings. A brief trendy fad doomed to fall out of fashion in a speculative bubble turned out to be exactly that.\n\n• $115 billion: investor demand for Microsoft's first US high-grade bond sale since 2017. The bond market will happily fund the AI buildout even as shareholders flinch.\n\nQuotes of the Day\n\n• \"It's worth noting that the strong growth in AI Mode queries had an impact because of the lower monetization we were seeing in AI Mode\" (Philipp Schindler, Google's chief business officer, on Thursday's Q3 earnings call)\n\n• \"Your average crazy schizo poster on 4chan\" has an easier time telling the truth than most \"experts\" (Palmer Luckey, after calling out The Verge over its Anduril laptop story)\n\n• \"Those are just remarkable declines for a field that until recently was one of the fastest growing areas that we'd seen in higher education\" (Matthew Holsapple, research director at the National Student Clearinghouse, on CS enrollment falling for a second straight year)\n\nAI & The Machines\n\nSomeone's personal Claude agent spent two months inside a Pentagon network. Sources tell WIRED that an Accenture employee's personal AI agent ran on a secure DOD system for two months before it was identified and the hole was patched. Two months of an unvetted agent wandering the Pentagon is the kind of security story that writes its own threat model. (WIRED)\n\nAnthropic and OpenAI say a key tenet of computer science is now wrong. The claim, reported by Isabella Ward, is that a new AI breakthrough has made decades of CS research \"irrelevant.\" Researchers are struggling with the fall even as they feel like \"overexcited bunnies\" about the new questions it opens up. (WIRED)\n\nGoogle's AI Mode flunked the 2020 election. The tool struggled to name a winner decided six years ago (Gemini answered correctly, and Google fixed the bug fast). Online posters screamed political intervention and creeping fascism, which takes some nerve from the crowd that spent years insisting Big Tech was censoring the right. (Pirate Wires)\n\nMistral open-sourced the weights for a trillion-parameter model built for cybersecurity. France's AI lab keeps releasing frontier models into the wild, this time aimed at security work. The open-weights camp is not slowing down. (Snacks)\n\nReddit is forcing lurkers to log in. Casey Newton's read on the week: Google and Reddit had the same bad week because AI search is hollowing out the open web, so platforms are walling off what is left to monetize. (Platformer)\n\nMoney & Power\n\nJune might have been the AI peak, and that could mean cheap mortgages. Conor Sen's argument: the frothiest part of the AI trade topped out in June with the SpaceX IPO and Alphabet's $80 billion raise. If that was this cycle's dot-com March 2000 moment, the bust phase could pull rates down over years, and that is the key swing factor for housing in 2027. (The Housing Frame)\n\nDoorDash is buying Instacart for $17 billion. One company will soon control your restaurant delivery and your grocery delivery. The delivery wars are consolidating into a duopoly of one. (Snacks)\n\nInvestors lined up with $115 billion for Microsoft's first US bond sale since 2017. The bond market is happy to fund the AI buildout even while the stock market flinches at the bill. Debt investors and equity investors are reading the same capex plans and reaching opposite conclusions. (Snacks)\n\nThe Culture\n\nA luxury cruise ship marooned its passengers in Cambodia's scam capital. The Odyssey promised wealthy travelers a years-long voyage around the world, then rising fuel costs forced management to evict everyone in Sihanoukville. Passengers paid for the trip of a lifetime and got dumped at the epicenter of the global scam industry. (Snacks)\n\nA hacker watched the world's best poker players' hole cards. Malware planted on top online pros' computers let the accused cheater see every hand in real time and trounce the tables. Online poker's integrity problem just got a face. (WIRED)\n\nHas Mario Batali served his time? Eddie Huang and Natashia Perrotti sat down with Caper Media's Dana Brown to argue about the disgraced chef's exile, how Me Too accountability has evolved, and what makes a restaurant matter beyond the food. (Canal Street Dreams)\n\nMale insecurity is a growth industry. The new documentary \"Manhood\" follows wellness professionals pushing men toward ever more extreme \"girth enhancement\" procedures in the name of being sexually desirable. Insecurity has always sold; now it has a surgical suite. (WIRED)\n\nMedia Wars\n\nA CBS correspondent's deleted X post derailed a 60 Minutes interview. Chief legal correspondent Jan Crawford publicly cheered a GOP activist pressing Michigan Senate candidate Abdul El-Sayed to condemn the Muslim Brotherhood, then deleted the post and apologized for violating network standards. The sit-down with Ross Douthat, the newsmagazine's newly minted correspondent, is now in flux days before a tight midterm race against Mike Rogers. (Status)\n\nThe Verge picked a fight with Palmer Luckey and lost. Its piece on Anduril's American-made laptop recycled a baseless 2016 rumor about Luckey funding right-wing troll farms and claimed the laptop had only three American parts, despite what Luckey said on the press call. The editor-in-chief replied \"Sup baby\" on X before issuing a correction. Legacy tech media, everybody. (Pirate Wires)\n\nQuick Hits & Curiosities\n\n• The FBI is investigating a heist of 6,452 trading cards, mostly Pokemon and sports cards, stolen from a FedEx truck idling outside a PSA grading facility in California. (Snacks)\n\n• Stack Overflow is dying as a forum because every coder now asks an LLM trained on every forum post ever written, though the company itself insists it is still kicking. (Snacks)\n\n• Polymarket halted international trading after hackers drained accounts through a compromised third-party provider. Trading has resumed and the company says affected traders will be made whole. (WIRED)\n\n• Garbage Day went to a ZYN-exclusive concert in Nashville. Nicotine pouch brands are throwing concerts now. That is the whole story and somehow it is a story. (Snacks)\n\n• Saturday is Game 7 of the WNBA Finals, a literal 50-50 dead heat between the Golden State Valkyries and the Atlanta Dream. (Snacks)",
+          "blocks": [
+            {
+              "type": "heading_1",
+              "runs": [
+                {
+                  "text": "Friday, October 30, 2026 - Morning Edition",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Today's Numbers",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "12.5%",
+                  "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-29-2026",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": Alphabet's worst trading day ever. $511 billion in market value evaporated within five minutes of Thursday's opening bell, and the stock logged its biggest one-day decline since the financial crisis. Google's own AI is cannibalizing the search ads that pay for everything.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "$63 billion",
+                  "url": "https://arstechnica.com/gadgets/2026/10/google-admits-ai-search-makes-less-money-but-its-fixing-that-with-more-ads/",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": Google's search revenue this quarter, out of $128 billion total. The flywheel still spins, but AI Mode queries monetize worse than classic search, and Wall Street just noticed.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "11 points",
+                  "url": "https://www.theargumentmag.com/p/how-republicans-lost-voters-trust",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": the Democratic lead on the generic ballot with likely voters in The Argument's new poll. The worst showing for Republicans across the publication's 14-poll series.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "12.4%",
+                  "url": "https://www.platformer.news/",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": the drop in computer science enrollment at four-year colleges this fall, nearly double last year's rate of decline. Students are reading the job market: a Stanford study found employment of 22-to-25-year-old software developers down nearly 20 percent since 2022.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "70-75%",
+                  "url": "https://www.numlock.com/p/numlock-news-october-28-2026-opera",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": the collapse in US Labubu sales this quarter, per Pop Mart's earnings. A brief trendy fad doomed to fall out of fashion in a speculative bubble turned out to be exactly that.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "$115 billion",
+                  "url": "https://www.bloomberg.com/news/articles/2026-10-29/microsoft-kicks-off-first-us-high-grade-bond-sale-since-2017",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": investor demand for Microsoft's first US high-grade bond sale since 2017. The bond market will happily fund the AI buildout even as shareholders flinch.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Quotes of the Day",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "\"It's worth noting that the strong growth in AI Mode queries had an impact because of the lower monetization we were seeing in AI Mode\" (Philipp Schindler, Google's chief business officer, on Thursday's Q3 earnings call)",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "\"Your average crazy schizo poster on 4chan\" has an easier time telling the truth than most \"experts\" (Palmer Luckey, after calling out The Verge over its Anduril laptop story)",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "\"Those are just remarkable declines for a field that until recently was one of the fastest growing areas that we'd seen in higher education\" (Matthew Holsapple, research director at the National Student Clearinghouse, on CS enrollment falling for a second straight year)",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "AI & The Machines",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Someone's personal Claude agent spent two months inside a Pentagon network.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " Sources tell WIRED that an Accenture employee's personal AI agent ran on a secure DOD system for two months before it was identified and the hole was patched. Two months of an unvetted agent wandering the Pentagon is the kind of security story that writes its own threat model. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "WIRED",
+                  "url": "https://www.wired.com/story/a-defense-contractor-gave-their-personal-ai-agent-access-to-a-secure-pentagon-system/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Anthropic and OpenAI say a key tenet of computer science is now wrong.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " The claim, reported by Isabella Ward, is that a new AI breakthrough has made decades of CS research \"irrelevant.\" Researchers are struggling with the fall even as they feel like \"overexcited bunnies\" about the new questions it opens up. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "WIRED",
+                  "url": "https://www.wired.com/story/ai-made-decades-of-computer-science-research-irrelevant/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Google's AI Mode flunked the 2020 election.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " The tool struggled to name a winner decided six years ago (Gemini answered correctly, and Google fixed the bug fast). Online posters screamed political intervention and creeping fascism, which takes some nerve from the crowd that spent years insisting Big Tech was censoring the right. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Pirate Wires",
+                  "url": "https://www.piratewires.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Mistral open-sourced the weights for a trillion-parameter model built for cybersecurity.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " France's AI lab keeps releasing frontier models into the wild, this time aimed at security work. The open-weights camp is not slowing down. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Snacks",
+                  "url": "https://techcrunch.com/2026/10/29/mistral-releases-weights-for-its-trillion-parameter-ai-model-targeting-cybersecurity/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Reddit is forcing lurkers to log in.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " Casey Newton's read on the week: Google and Reddit had the same bad week because AI search is hollowing out the open web, so platforms are walling off what is left to monetize. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Platformer",
+                  "url": "https://www.platformer.news/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Money & Power",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "June might have been the AI peak, and that could mean cheap mortgages.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " Conor Sen's argument: the frothiest part of the AI trade topped out in June with the SpaceX IPO and Alphabet's $80 billion raise. If that was this cycle's dot-com March 2000 moment, the bust phase could pull rates down over years, and that is the key swing factor for housing in 2027. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "The Housing Frame",
+                  "url": "https://conorsen.substack.com/p/the-long-road-from-an-ai-peak-to",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "DoorDash is buying Instacart for $17 billion.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " One company will soon control your restaurant delivery and your grocery delivery. The delivery wars are consolidating into a duopoly of one. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Snacks",
+                  "url": "https://techcrunch.com/2026/10/29/doordash-to-acquire-instacart-for-17b/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Investors lined up with $115 billion for Microsoft's first US bond sale since 2017.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " The bond market is happy to fund the AI buildout even while the stock market flinches at the bill. Debt investors and equity investors are reading the same capex plans and reaching opposite conclusions. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Snacks",
+                  "url": "https://www.bloomberg.com/news/articles/2026-10-29/microsoft-kicks-off-first-us-high-grade-bond-sale-since-2017",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "The Culture",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "A luxury cruise ship marooned its passengers in Cambodia's scam capital.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " The Odyssey promised wealthy travelers a years-long voyage around the world, then rising fuel costs forced management to evict everyone in Sihanoukville. Passengers paid for the trip of a lifetime and got dumped at the epicenter of the global scam industry. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Snacks",
+                  "url": "https://www.numlock.com/p/numlock-news-october-29-2026-eels",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "A hacker watched the world's best poker players' hole cards.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " Malware planted on top online pros' computers let the accused cheater see every hand in real time and trounce the tables. Online poker's integrity problem just got a face. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "WIRED",
+                  "url": "https://www.wired.com/story/a-hacker-targeted-high-stakes-poker-players-with-malware-that-exposed-their-cards/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Has Mario Batali served his time?",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " Eddie Huang and Natashia Perrotti sat down with Caper Media's Dana Brown to argue about the disgraced chef's exile, how Me Too accountability has evolved, and what makes a restaurant matter beyond the food. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Canal Street Dreams",
+                  "url": "https://basedfob.substack.com/p/nycs-best-hospitality-the-mario-batali",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Male insecurity is a growth industry.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " The new documentary \"Manhood\" follows wellness professionals pushing men toward ever more extreme \"girth enhancement\" procedures in the name of being sexually desirable. Insecurity has always sold; now it has a surgical suite. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "WIRED",
+                  "url": "https://www.wired.com/story/male-insecurity-over-penis-size-is-a-booming-business/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Media Wars",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "A CBS correspondent's deleted X post derailed a 60 Minutes interview.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " Chief legal correspondent Jan Crawford publicly cheered a GOP activist pressing Michigan Senate candidate Abdul El-Sayed to condemn the Muslim Brotherhood, then deleted the post and apologized for violating network standards. The sit-down with Ross Douthat, the newsmagazine's newly minted correspondent, is now in flux days before a tight midterm race against Mike Rogers. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Status",
+                  "url": "https://www.status.news/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "The Verge picked a fight with Palmer Luckey and lost.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " Its piece on Anduril's American-made laptop recycled a baseless 2016 rumor about Luckey funding right-wing troll farms and claimed the laptop had only three American parts, despite what Luckey said on the press call. The editor-in-chief replied \"Sup baby\" on X before issuing a correction. Legacy tech media, everybody. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Pirate Wires",
+                  "url": "https://www.piratewires.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Quick Hits & Curiosities",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "The FBI is investigating a heist of 6,452 trading cards, mostly Pokemon and sports cards, stolen from a FedEx truck idling outside a PSA grading facility in California. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Snacks",
+                  "url": "https://sherwood.news/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Stack Overflow is dying as a forum because every coder now asks an LLM trained on every forum post ever written, though the company itself insists it is still kicking. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Snacks",
+                  "url": "https://sherwood.news/tech/stack-overflow-forum-dead-thanks-ai-but-companys-still-kicking-ai/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Polymarket halted international trading after hackers drained accounts through a compromised third-party provider. Trading has resumed and the company says affected traders will be made whole. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "WIRED",
+                  "url": "https://www.wired.com/story/polymarket-flagship-platform-hack-traders-lose-money/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Garbage Day went to a ZYN-exclusive concert in Nashville. Nicotine pouch brands are throwing concerts now. That is the whole story and somehow it is a story. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Snacks",
+                  "url": "https://www.garbageday.email/p/i-went-to-a-zyn-exclusive-concert-in-nashville",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Saturday is Game 7 of the WNBA Finals, a literal 50-50 dead heat between the Golden State Valkyries and the Atlanta Dream. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Snacks",
+                  "url": "https://sherwood.news/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            }
+          ],
+          "links": [
+            {
+              "title": "12.5%",
+              "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-29-2026"
+            },
+            {
+              "title": "$63 billion",
+              "url": "https://arstechnica.com/gadgets/2026/10/google-admits-ai-search-makes-less-money-but-its-fixing-that-with-more-ads/"
+            },
+            {
+              "title": "11 points",
+              "url": "https://www.theargumentmag.com/p/how-republicans-lost-voters-trust"
+            },
+            {
+              "title": "Platformer",
+              "url": "https://www.platformer.news/"
+            },
+            {
+              "title": "70-75%",
+              "url": "https://www.numlock.com/p/numlock-news-october-28-2026-opera"
+            },
+            {
+              "title": "Snacks",
+              "url": "https://www.bloomberg.com/news/articles/2026-10-29/microsoft-kicks-off-first-us-high-grade-bond-sale-since-2017"
+            },
+            {
+              "title": "WIRED",
+              "url": "https://www.wired.com/story/a-defense-contractor-gave-their-personal-ai-agent-access-to-a-secure-pentagon-system/"
+            },
+            {
+              "title": "WIRED",
+              "url": "https://www.wired.com/story/ai-made-decades-of-computer-science-research-irrelevant/"
+            },
+            {
+              "title": "Pirate Wires",
+              "url": "https://www.piratewires.com/"
+            },
+            {
+              "title": "Snacks",
+              "url": "https://techcrunch.com/2026/10/29/mistral-releases-weights-for-its-trillion-parameter-ai-model-targeting-cybersecurity/"
+            },
+            {
+              "title": "The Housing Frame",
+              "url": "https://conorsen.substack.com/p/the-long-road-from-an-ai-peak-to"
+            },
+            {
+              "title": "Snacks",
+              "url": "https://techcrunch.com/2026/10/29/doordash-to-acquire-instacart-for-17b/"
+            },
+            {
+              "title": "Snacks",
+              "url": "https://www.numlock.com/p/numlock-news-october-29-2026-eels"
+            },
+            {
+              "title": "WIRED",
+              "url": "https://www.wired.com/story/a-hacker-targeted-high-stakes-poker-players-with-malware-that-exposed-their-cards/"
+            },
+            {
+              "title": "Canal Street Dreams",
+              "url": "https://basedfob.substack.com/p/nycs-best-hospitality-the-mario-batali"
+            },
+            {
+              "title": "WIRED",
+              "url": "https://www.wired.com/story/male-insecurity-over-penis-size-is-a-booming-business/"
+            },
+            {
+              "title": "Status",
+              "url": "https://www.status.news/"
+            },
+            {
+              "title": "Snacks",
+              "url": "https://sherwood.news/"
+            },
+            {
+              "title": "Snacks",
+              "url": "https://sherwood.news/tech/stack-overflow-forum-dead-thanks-ai-but-companys-still-kicking-ai/"
+            },
+            {
+              "title": "WIRED",
+              "url": "https://www.wired.com/story/polymarket-flagship-platform-hack-traders-lose-money/"
+            },
+            {
+              "title": "Snacks",
+              "url": "https://www.garbageday.email/p/i-went-to-a-zyn-exclusive-concert-in-nashville"
+            }
+          ]
+        },
+        "full": {
+          "body": "Friday, October 30, 2026 - Morning Edition\n\nToday's Numbers\n\n• 12.5%: Alphabet's worst trading day ever. $511 billion in market value evaporated within five minutes of Thursday's opening bell, and the stock logged its biggest one-day decline since the financial crisis. Google's own AI is cannibalizing the search ads that pay for everything.\n\n• $63 billion: Google's search revenue this quarter, out of $128 billion total. The flywheel still spins, but AI Mode queries monetize worse than classic search, and Wall Street just noticed.\n\n• 11 points: the Democratic lead on the generic ballot with likely voters in The Argument's new poll. The worst showing for Republicans across the publication's 14-poll series.\n\n• 12.4%: the drop in computer science enrollment at four-year colleges this fall, nearly double last year's rate of decline. Students are reading the job market: a Stanford study found employment of 22-to-25-year-old software developers down nearly 20 percent since 2022.\n\n• 70-75%: the collapse in US Labubu sales this quarter, per Pop Mart's earnings. A brief trendy fad doomed to fall out of fashion in a speculative bubble turned out to be exactly that.\n\n• $115 billion: investor demand for Microsoft's first US high-grade bond sale since 2017. The bond market will happily fund the AI buildout even as shareholders flinch.\n\nQuotes of the Day\n\n• \"It's worth noting that the strong growth in AI Mode queries had an impact because of the lower monetization we were seeing in AI Mode\" (Philipp Schindler, Google's chief business officer, on Thursday's Q3 earnings call)\n\n• \"Your average crazy schizo poster on 4chan\" has an easier time telling the truth than most \"experts\" (Palmer Luckey, after calling out The Verge over its Anduril laptop story)\n\n• \"Those are just remarkable declines for a field that until recently was one of the fastest growing areas that we'd seen in higher education\" (Matthew Holsapple, research director at the National Student Clearinghouse, on CS enrollment falling for a second straight year)\n\nAI & The Machines\n\nSomeone's personal Claude agent spent two months inside a Pentagon network. Sources tell WIRED that an Accenture employee's personal AI agent ran on a secure DOD system for two months before it was identified and the hole was patched. Two months of an unvetted agent wandering the Pentagon is the kind of security story that writes its own threat model. (WIRED)\n\nAnthropic and OpenAI say a key tenet of computer science is now wrong. The claim, reported by Isabella Ward, is that a new AI breakthrough has made decades of CS research \"irrelevant.\" Researchers are struggling with the fall even as they feel like \"overexcited bunnies\" about the new questions it opens up. (WIRED)\n\nGoogle's AI Mode flunked the 2020 election. The tool struggled to name a winner decided six years ago (Gemini answered correctly, and Google fixed the bug fast). Online posters screamed political intervention and creeping fascism, which takes some nerve from the crowd that spent years insisting Big Tech was censoring the right. (Pirate Wires)\n\nMistral open-sourced the weights for a trillion-parameter model built for cybersecurity. France's AI lab keeps releasing frontier models into the wild, this time aimed at security work. The open-weights camp is not slowing down. (Snacks)\n\nReddit is forcing lurkers to log in. Casey Newton's read on the week: Google and Reddit had the same bad week because AI search is hollowing out the open web, so platforms are walling off what is left to monetize. (Platformer)\n\nMoney & Power\n\nJune might have been the AI peak, and that could mean cheap mortgages. Conor Sen's argument: the frothiest part of the AI trade topped out in June with the SpaceX IPO and Alphabet's $80 billion raise. If that was this cycle's dot-com March 2000 moment, the bust phase could pull rates down over years, and that is the key swing factor for housing in 2027. (The Housing Frame)\n\nDoorDash is buying Instacart for $17 billion. One company will soon control your restaurant delivery and your grocery delivery. The delivery wars are consolidating into a duopoly of one. (Snacks)\n\nInvestors lined up with $115 billion for Microsoft's first US bond sale since 2017. The bond market is happy to fund the AI buildout even while the stock market flinches at the bill. Debt investors and equity investors are reading the same capex plans and reaching opposite conclusions. (Snacks)\n\nThe Culture\n\nA luxury cruise ship marooned its passengers in Cambodia's scam capital. The Odyssey promised wealthy travelers a years-long voyage around the world, then rising fuel costs forced management to evict everyone in Sihanoukville. Passengers paid for the trip of a lifetime and got dumped at the epicenter of the global scam industry. (Snacks)\n\nA hacker watched the world's best poker players' hole cards. Malware planted on top online pros' computers let the accused cheater see every hand in real time and trounce the tables. Online poker's integrity problem just got a face. (WIRED)\n\nHas Mario Batali served his time? Eddie Huang and Natashia Perrotti sat down with Caper Media's Dana Brown to argue about the disgraced chef's exile, how Me Too accountability has evolved, and what makes a restaurant matter beyond the food. (Canal Street Dreams)\n\nMale insecurity is a growth industry. The new documentary \"Manhood\" follows wellness professionals pushing men toward ever more extreme \"girth enhancement\" procedures in the name of being sexually desirable. Insecurity has always sold; now it has a surgical suite. (WIRED)\n\nMedia Wars\n\nA CBS correspondent's deleted X post derailed a 60 Minutes interview. Chief legal correspondent Jan Crawford publicly cheered a GOP activist pressing Michigan Senate candidate Abdul El-Sayed to condemn the Muslim Brotherhood, then deleted the post and apologized for violating network standards. The sit-down with Ross Douthat, the newsmagazine's newly minted correspondent, is now in flux days before a tight midterm race against Mike Rogers. (Status)\n\nThe Verge picked a fight with Palmer Luckey and lost. Its piece on Anduril's American-made laptop recycled a baseless 2016 rumor about Luckey funding right-wing troll farms and claimed the laptop had only three American parts, despite what Luckey said on the press call. The editor-in-chief replied \"Sup baby\" on X before issuing a correction. Legacy tech media, everybody. (Pirate Wires)\n\nQuick Hits & Curiosities\n\n• The FBI is investigating a heist of 6,452 trading cards, mostly Pokemon and sports cards, stolen from a FedEx truck idling outside a PSA grading facility in California. (Snacks)\n\n• Stack Overflow is dying as a forum because every coder now asks an LLM trained on every forum post ever written, though the company itself insists it is still kicking. (Snacks)\n\n• Polymarket halted international trading after hackers drained accounts through a compromised third-party provider. Trading has resumed and the company says affected traders will be made whole. (WIRED)\n\n• Garbage Day went to a ZYN-exclusive concert in Nashville. Nicotine pouch brands are throwing concerts now. That is the whole story and somehow it is a story. (Snacks)\n\n• Saturday is Game 7 of the WNBA Finals, a literal 50-50 dead heat between the Golden State Valkyries and the Atlanta Dream. (Snacks)",
+          "blocks": [
+            {
+              "type": "heading_1",
+              "runs": [
+                {
+                  "text": "Friday, October 30, 2026 - Morning Edition",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Today's Numbers",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "12.5%",
+                  "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-29-2026",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": Alphabet's worst trading day ever. $511 billion in market value evaporated within five minutes of Thursday's opening bell, and the stock logged its biggest one-day decline since the financial crisis. Google's own AI is cannibalizing the search ads that pay for everything.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "$63 billion",
+                  "url": "https://arstechnica.com/gadgets/2026/10/google-admits-ai-search-makes-less-money-but-its-fixing-that-with-more-ads/",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": Google's search revenue this quarter, out of $128 billion total. The flywheel still spins, but AI Mode queries monetize worse than classic search, and Wall Street just noticed.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "11 points",
+                  "url": "https://www.theargumentmag.com/p/how-republicans-lost-voters-trust",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": the Democratic lead on the generic ballot with likely voters in The Argument's new poll. The worst showing for Republicans across the publication's 14-poll series.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "12.4%",
+                  "url": "https://www.platformer.news/",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": the drop in computer science enrollment at four-year colleges this fall, nearly double last year's rate of decline. Students are reading the job market: a Stanford study found employment of 22-to-25-year-old software developers down nearly 20 percent since 2022.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "70-75%",
+                  "url": "https://www.numlock.com/p/numlock-news-october-28-2026-opera",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": the collapse in US Labubu sales this quarter, per Pop Mart's earnings. A brief trendy fad doomed to fall out of fashion in a speculative bubble turned out to be exactly that.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "$115 billion",
+                  "url": "https://www.bloomberg.com/news/articles/2026-10-29/microsoft-kicks-off-first-us-high-grade-bond-sale-since-2017",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": investor demand for Microsoft's first US high-grade bond sale since 2017. The bond market will happily fund the AI buildout even as shareholders flinch.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Quotes of the Day",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "\"It's worth noting that the strong growth in AI Mode queries had an impact because of the lower monetization we were seeing in AI Mode\" (Philipp Schindler, Google's chief business officer, on Thursday's Q3 earnings call)",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "\"Your average crazy schizo poster on 4chan\" has an easier time telling the truth than most \"experts\" (Palmer Luckey, after calling out The Verge over its Anduril laptop story)",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "\"Those are just remarkable declines for a field that until recently was one of the fastest growing areas that we'd seen in higher education\" (Matthew Holsapple, research director at the National Student Clearinghouse, on CS enrollment falling for a second straight year)",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "AI & The Machines",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Someone's personal Claude agent spent two months inside a Pentagon network.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " Sources tell WIRED that an Accenture employee's personal AI agent ran on a secure DOD system for two months before it was identified and the hole was patched. Two months of an unvetted agent wandering the Pentagon is the kind of security story that writes its own threat model. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "WIRED",
+                  "url": "https://www.wired.com/story/a-defense-contractor-gave-their-personal-ai-agent-access-to-a-secure-pentagon-system/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Anthropic and OpenAI say a key tenet of computer science is now wrong.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " The claim, reported by Isabella Ward, is that a new AI breakthrough has made decades of CS research \"irrelevant.\" Researchers are struggling with the fall even as they feel like \"overexcited bunnies\" about the new questions it opens up. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "WIRED",
+                  "url": "https://www.wired.com/story/ai-made-decades-of-computer-science-research-irrelevant/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Google's AI Mode flunked the 2020 election.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " The tool struggled to name a winner decided six years ago (Gemini answered correctly, and Google fixed the bug fast). Online posters screamed political intervention and creeping fascism, which takes some nerve from the crowd that spent years insisting Big Tech was censoring the right. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Pirate Wires",
+                  "url": "https://www.piratewires.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Mistral open-sourced the weights for a trillion-parameter model built for cybersecurity.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " France's AI lab keeps releasing frontier models into the wild, this time aimed at security work. The open-weights camp is not slowing down. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Snacks",
+                  "url": "https://techcrunch.com/2026/10/29/mistral-releases-weights-for-its-trillion-parameter-ai-model-targeting-cybersecurity/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Reddit is forcing lurkers to log in.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " Casey Newton's read on the week: Google and Reddit had the same bad week because AI search is hollowing out the open web, so platforms are walling off what is left to monetize. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Platformer",
+                  "url": "https://www.platformer.news/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Money & Power",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "June might have been the AI peak, and that could mean cheap mortgages.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " Conor Sen's argument: the frothiest part of the AI trade topped out in June with the SpaceX IPO and Alphabet's $80 billion raise. If that was this cycle's dot-com March 2000 moment, the bust phase could pull rates down over years, and that is the key swing factor for housing in 2027. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "The Housing Frame",
+                  "url": "https://conorsen.substack.com/p/the-long-road-from-an-ai-peak-to",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "DoorDash is buying Instacart for $17 billion.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " One company will soon control your restaurant delivery and your grocery delivery. The delivery wars are consolidating into a duopoly of one. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Snacks",
+                  "url": "https://techcrunch.com/2026/10/29/doordash-to-acquire-instacart-for-17b/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Investors lined up with $115 billion for Microsoft's first US bond sale since 2017.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " The bond market is happy to fund the AI buildout even while the stock market flinches at the bill. Debt investors and equity investors are reading the same capex plans and reaching opposite conclusions. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Snacks",
+                  "url": "https://www.bloomberg.com/news/articles/2026-10-29/microsoft-kicks-off-first-us-high-grade-bond-sale-since-2017",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "The Culture",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "A luxury cruise ship marooned its passengers in Cambodia's scam capital.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " The Odyssey promised wealthy travelers a years-long voyage around the world, then rising fuel costs forced management to evict everyone in Sihanoukville. Passengers paid for the trip of a lifetime and got dumped at the epicenter of the global scam industry. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Snacks",
+                  "url": "https://www.numlock.com/p/numlock-news-october-29-2026-eels",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "A hacker watched the world's best poker players' hole cards.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " Malware planted on top online pros' computers let the accused cheater see every hand in real time and trounce the tables. Online poker's integrity problem just got a face. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "WIRED",
+                  "url": "https://www.wired.com/story/a-hacker-targeted-high-stakes-poker-players-with-malware-that-exposed-their-cards/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Has Mario Batali served his time?",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " Eddie Huang and Natashia Perrotti sat down with Caper Media's Dana Brown to argue about the disgraced chef's exile, how Me Too accountability has evolved, and what makes a restaurant matter beyond the food. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Canal Street Dreams",
+                  "url": "https://basedfob.substack.com/p/nycs-best-hospitality-the-mario-batali",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Male insecurity is a growth industry.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " The new documentary \"Manhood\" follows wellness professionals pushing men toward ever more extreme \"girth enhancement\" procedures in the name of being sexually desirable. Insecurity has always sold; now it has a surgical suite. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "WIRED",
+                  "url": "https://www.wired.com/story/male-insecurity-over-penis-size-is-a-booming-business/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Media Wars",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "A CBS correspondent's deleted X post derailed a 60 Minutes interview.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " Chief legal correspondent Jan Crawford publicly cheered a GOP activist pressing Michigan Senate candidate Abdul El-Sayed to condemn the Muslim Brotherhood, then deleted the post and apologized for violating network standards. The sit-down with Ross Douthat, the newsmagazine's newly minted correspondent, is now in flux days before a tight midterm race against Mike Rogers. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Status",
+                  "url": "https://www.status.news/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "The Verge picked a fight with Palmer Luckey and lost.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " Its piece on Anduril's American-made laptop recycled a baseless 2016 rumor about Luckey funding right-wing troll farms and claimed the laptop had only three American parts, despite what Luckey said on the press call. The editor-in-chief replied \"Sup baby\" on X before issuing a correction. Legacy tech media, everybody. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Pirate Wires",
+                  "url": "https://www.piratewires.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Quick Hits & Curiosities",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "The FBI is investigating a heist of 6,452 trading cards, mostly Pokemon and sports cards, stolen from a FedEx truck idling outside a PSA grading facility in California. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Snacks",
+                  "url": "https://sherwood.news/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Stack Overflow is dying as a forum because every coder now asks an LLM trained on every forum post ever written, though the company itself insists it is still kicking. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Snacks",
+                  "url": "https://sherwood.news/tech/stack-overflow-forum-dead-thanks-ai-but-companys-still-kicking-ai/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Polymarket halted international trading after hackers drained accounts through a compromised third-party provider. Trading has resumed and the company says affected traders will be made whole. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "WIRED",
+                  "url": "https://www.wired.com/story/polymarket-flagship-platform-hack-traders-lose-money/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Garbage Day went to a ZYN-exclusive concert in Nashville. Nicotine pouch brands are throwing concerts now. That is the whole story and somehow it is a story. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Snacks",
+                  "url": "https://www.garbageday.email/p/i-went-to-a-zyn-exclusive-concert-in-nashville",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Saturday is Game 7 of the WNBA Finals, a literal 50-50 dead heat between the Golden State Valkyries and the Atlanta Dream. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Snacks",
+                  "url": "https://sherwood.news/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            }
+          ],
+          "links": [
+            {
+              "title": "12.5%",
+              "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-29-2026"
+            },
+            {
+              "title": "$63 billion",
+              "url": "https://arstechnica.com/gadgets/2026/10/google-admits-ai-search-makes-less-money-but-its-fixing-that-with-more-ads/"
+            },
+            {
+              "title": "11 points",
+              "url": "https://www.theargumentmag.com/p/how-republicans-lost-voters-trust"
+            },
+            {
+              "title": "Platformer",
+              "url": "https://www.platformer.news/"
+            },
+            {
+              "title": "70-75%",
+              "url": "https://www.numlock.com/p/numlock-news-october-28-2026-opera"
+            },
+            {
+              "title": "Snacks",
+              "url": "https://www.bloomberg.com/news/articles/2026-10-29/microsoft-kicks-off-first-us-high-grade-bond-sale-since-2017"
+            },
+            {
+              "title": "WIRED",
+              "url": "https://www.wired.com/story/a-defense-contractor-gave-their-personal-ai-agent-access-to-a-secure-pentagon-system/"
+            },
+            {
+              "title": "WIRED",
+              "url": "https://www.wired.com/story/ai-made-decades-of-computer-science-research-irrelevant/"
+            },
+            {
+              "title": "Pirate Wires",
+              "url": "https://www.piratewires.com/"
+            },
+            {
+              "title": "Snacks",
+              "url": "https://techcrunch.com/2026/10/29/mistral-releases-weights-for-its-trillion-parameter-ai-model-targeting-cybersecurity/"
+            },
+            {
+              "title": "The Housing Frame",
+              "url": "https://conorsen.substack.com/p/the-long-road-from-an-ai-peak-to"
+            },
+            {
+              "title": "Snacks",
+              "url": "https://techcrunch.com/2026/10/29/doordash-to-acquire-instacart-for-17b/"
+            },
+            {
+              "title": "Snacks",
+              "url": "https://www.numlock.com/p/numlock-news-october-29-2026-eels"
+            },
+            {
+              "title": "WIRED",
+              "url": "https://www.wired.com/story/a-hacker-targeted-high-stakes-poker-players-with-malware-that-exposed-their-cards/"
+            },
+            {
+              "title": "Canal Street Dreams",
+              "url": "https://basedfob.substack.com/p/nycs-best-hospitality-the-mario-batali"
+            },
+            {
+              "title": "WIRED",
+              "url": "https://www.wired.com/story/male-insecurity-over-penis-size-is-a-booming-business/"
+            },
+            {
+              "title": "Status",
+              "url": "https://www.status.news/"
+            },
+            {
+              "title": "Snacks",
+              "url": "https://sherwood.news/"
+            },
+            {
+              "title": "Snacks",
+              "url": "https://sherwood.news/tech/stack-overflow-forum-dead-thanks-ai-but-companys-still-kicking-ai/"
+            },
+            {
+              "title": "WIRED",
+              "url": "https://www.wired.com/story/polymarket-flagship-platform-hack-traders-lose-money/"
+            },
+            {
+              "title": "Snacks",
+              "url": "https://www.garbageday.email/p/i-went-to-a-zyn-exclusive-concert-in-nashville"
+            }
+          ]
+        }
+      }
     }
   ]
 }
