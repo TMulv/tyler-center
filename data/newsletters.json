@@ -198812,6 +198812,477 @@
           ]
         }
       }
+    },
+    {
+      "id": "digest-16ef31c2-de5d-4027-87fc-4e5b9adf3e8c",
+      "channel": "newsletters",
+      "source": "notion",
+      "kind": "Agent-written digest",
+      "domain": "Daily newsletter digest",
+      "title": "The Halloween Margin: Ghouls, AI Velocity & a Beet Redemption",
+      "url": "",
+      "description": "Front page",
+      "body": "Front page\n\nToday’s newsletters made a surprisingly coherent newspaper: Halloween asks where “fun scary” ends and spectacle begins; AI turns workplace culture into a speed contest; and several old institutions—restaurants, vegetables, even recommendations—try to reinvent themselves without losing their soul.\n\nBest links\n\n• The new feed curator. Substack’s new “lists” turn recommendations into living, chronological feeds: a trusted person’s taste becomes something you can save, share, and follow as it evolves. It’s a neat answer to the dead-feeling algorithmic feed—and a product idea hiding in plain sight. — Substack\n\n• What happens when a privacy company panics about velocity. 404 Media’s reporting on Proton describes leadership pushing AI-written code at extraordinary speed while engineers worry about security, morale, and whether dissent is safe. The memorable tension: a company built around privacy trying to outrun the future it is supposed to protect users from. — 404 Media\n\n• Anthropic’s anti-onboarding onboarding. The best PMs at a frontier lab are expected to arrive with a point of view, read the history before pushing back, and find the answers instead of waiting for structure. The useful translation: give new people a hard, real problem early—and tell them where the evidence lives. — Lenny’s Newsletter / The Skip\n\nIdeas to steal\n\n• Plan monthly; stay stubborn yearly. Anthropic’s product rhythm is a short plan against a longer mission: rewrite the near-term assumptions, but keep a few durable bets intact.\n\n• Borrow your form from the people beside you. A running newsletter’s account of Iten argues that technique may spread socially: train in packs, absorb the relaxed stride and pace of stronger runners, and let easy miles teach you not to dread hard ones.\n\n• Make recommendations feel alive. The Substack list is less “here are ten links” and more “here is a little neighborhood that keeps producing things.” That activity-feed layer is the interesting bit.\n\nFood & places\n\n• Le Chateaubriand is closing, but its method survives. The Paris restaurant helped define “bistronomy”: set-menu cooking, natural wine, casual service, and an atmosphere loose enough to feel like a party. Its real legacy is not a signature dish but a generation of restaurants that learned fine dining could be unruly. — On the House\n\n• Beet redemption arc. NYT Cooking’s reader testimonies are a tiny cookbook about changing your mind: roast the beets, try them golden, shred them raw, or turn them into borscht. The strongest recipe is apparently “serve vegetables differently than the adults who ruined them for you.” — NYT Cooking\n\n• Brand dinners have become reservation laundering. Feed Me’s Band-Aid-sponsored Don Angie dinner—complete with bandage-shaped butter and embossed bread—raises the only question that matters: are people now accepting branded content in exchange for access to restaurants they can’t otherwise book?\n\nInternet oddities\n\n• Halloween, but keep the faux corpses behind a fence. The Republic of Letters makes a case for separating “deliciously scared” from front-yard gore: children can understand ghosts and witches as pretend, but realistic dismemberment borrows its shock from actual human violence. It’s a sharp little argument about consent, context, and the public internet leaking into the sidewalk.\n\n• The bathroom-zine economy. Feed Me spotted The Disconnect, an independent zine appearing in the bathrooms of dive bars around D.C. and Silver Spring. A year of survival in the least glamorous distribution network is a better signal than a launch party.\n\nWorth reading\n\n• Democracy is more than counting seats. The Racket’s argument about Israel’s post-election coalition is that electoral procedure is not the whole of democracy; pluralism also means allowing disadvantaged constituencies to participate in governing. The uncomfortable mirror is aimed at the U.S. midterms, too.\n\n• A $350 million bet on Indian tech. Newcomer reports that three former Sequoia India partners have raised Mettle Capital despite a moment when many founders are looking toward Silicon Valley and AI. The fund is a vote that India remains a technology hub worth backing, even amid the reset.\n\nOne-liners\n\n• “The first two months should feel like some of the hardest of your career.” A brutal onboarding slogan, but at least an honest one. — Lenny’s Newsletter\n\n• The best use of Halloween may be a pumpkin, a ghost, and absolutely no simulated roadside homicide. — The Republic of Letters\n\n• Somewhere between a running pack and a recommendation list is the same idea: taste and technique are contagious. — Why is this interesting?",
+      "blocks": [
+        {
+          "type": "heading_2",
+          "runs": [
+            {
+              "text": "Front page",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Today’s newsletters made a surprisingly coherent newspaper: Halloween asks where “fun scary” ends and spectacle begins; AI turns workplace culture into a speed contest; and several old institutions—restaurants, vegetables, even recommendations—try to reinvent themselves without losing their soul.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "heading_2",
+          "runs": [
+            {
+              "text": "Best links",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "The new feed curator.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " Substack’s new “lists” turn recommendations into living, chronological feeds: a trusted person’s taste becomes something you can save, share, and follow as it evolves. It’s a neat answer to the dead-feeling algorithmic feed—and a product idea hiding in plain sight. — ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Substack",
+              "url": "",
+              "bold": false,
+              "italic": true
+            },
+            {
+              "text": " ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "What happens when a privacy company panics about velocity.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " 404 Media’s reporting on Proton describes leadership pushing AI-written code at extraordinary speed while engineers worry about security, morale, and whether dissent is safe. The memorable tension: a company built around privacy trying to outrun the future it is supposed to protect users from. — ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "404 Media",
+              "url": "",
+              "bold": false,
+              "italic": true
+            },
+            {
+              "text": " ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Anthropic’s anti-onboarding onboarding.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " The best PMs at a frontier lab are expected to arrive with a point of view, read the history before pushing back, and find the answers instead of waiting for structure. The useful translation: give new people a hard, real problem early—and tell them where the evidence lives. — ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Lenny’s Newsletter / The Skip",
+              "url": "",
+              "bold": false,
+              "italic": true
+            },
+            {
+              "text": " ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "heading_2",
+          "runs": [
+            {
+              "text": "Ideas to steal",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Plan monthly; stay stubborn yearly.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " Anthropic’s product rhythm is a short plan against a longer mission: rewrite the near-term assumptions, but keep a few durable bets intact. ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Borrow your form from the people beside you.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " A running newsletter’s account of Iten argues that technique may spread socially: train in packs, absorb the relaxed stride and pace of stronger runners, and let easy miles teach you not to dread hard ones. ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Make recommendations feel alive.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " The Substack list is less “here are ten links” and more “here is a little neighborhood that keeps producing things.” That activity-feed layer is the interesting bit. ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "heading_2",
+          "runs": [
+            {
+              "text": "Food & places",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Le Chateaubriand is closing, but its method survives.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " The Paris restaurant helped define “bistronomy”: set-menu cooking, natural wine, casual service, and an atmosphere loose enough to feel like a party. Its real legacy is not a signature dish but a generation of restaurants that learned fine dining could be unruly. — ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "On the House",
+              "url": "",
+              "bold": false,
+              "italic": true
+            },
+            {
+              "text": " ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Beet redemption arc.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " NYT Cooking’s reader testimonies are a tiny cookbook about changing your mind: roast the beets, try them golden, shred them raw, or turn them into borscht. The strongest recipe is apparently “serve vegetables differently than the adults who ruined them for you.” — ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "NYT Cooking",
+              "url": "",
+              "bold": false,
+              "italic": true
+            },
+            {
+              "text": " ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Brand dinners have become reservation laundering.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " Feed Me’s Band-Aid-sponsored Don Angie dinner—complete with bandage-shaped butter and embossed bread—raises the only question that matters: are people now accepting branded content in exchange for access to restaurants they can’t otherwise book? ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "heading_2",
+          "runs": [
+            {
+              "text": "Internet oddities",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Halloween, but keep the faux corpses behind a fence.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " The Republic of Letters makes a case for separating “deliciously scared” from front-yard gore: children can understand ghosts and witches as pretend, but realistic dismemberment borrows its shock from actual human violence. It’s a sharp little argument about consent, context, and the public internet leaking into the sidewalk. ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "The bathroom-zine economy.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " Feed Me spotted ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "The Disconnect",
+              "url": "",
+              "bold": false,
+              "italic": true
+            },
+            {
+              "text": ", an independent zine appearing in the bathrooms of dive bars around D.C. and Silver Spring. A year of survival in the least glamorous distribution network is a better signal than a launch party. ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "heading_2",
+          "runs": [
+            {
+              "text": "Worth reading",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Democracy is more than counting seats.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " The Racket’s argument about Israel’s post-election coalition is that electoral procedure is not the whole of democracy; pluralism also means allowing disadvantaged constituencies to participate in governing. The uncomfortable mirror is aimed at the U.S. midterms, too. ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "A $350 million bet on Indian tech.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " Newcomer reports that three former Sequoia India partners have raised Mettle Capital despite a moment when many founders are looking toward Silicon Valley and AI. The fund is a vote that India remains a technology hub worth backing, even amid the reset. ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "heading_2",
+          "runs": [
+            {
+              "text": "One-liners",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "“The first two months should feel like some of the hardest of your career.”",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " A brutal onboarding slogan, but at least an honest one. — ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Lenny’s Newsletter",
+              "url": "",
+              "bold": false,
+              "italic": true
+            },
+            {
+              "text": " ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "The best use of Halloween may be a pumpkin, a ghost, and absolutely no simulated roadside homicide. — ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "The Republic of Letters",
+              "url": "",
+              "bold": false,
+              "italic": true
+            },
+            {
+              "text": " ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Somewhere between a running pack and a recommendation list is the same idea: taste and technique are contagious. — ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Why is this interesting?",
+              "url": "",
+              "bold": false,
+              "italic": true
+            },
+            {
+              "text": " ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        }
+      ],
+      "publishedAt": "2026-10-29T21:16:00Z",
+      "links": []
     }
   ]
 }
