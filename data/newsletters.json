@@ -210597,6 +210597,364 @@
           ]
         }
       }
+    },
+    {
+      "id": "digest-363a4aea-3a8a-41cd-b774-23b63c3d509f",
+      "channel": "newsletters",
+      "source": "notion",
+      "kind": "Agent-written digest",
+      "domain": "Daily newsletter digest",
+      "title": "The Mummy Wine, the Computer Ghosts, and a Typewriter Escape",
+      "url": "",
+      "description": "Saturday, October 31, 2026",
+      "body": "Saturday, October 31, 2026\n\nHalloween delivered a proper little newspaper: dead technologies haunting the living internet, actual mummy powder in medieval wine, pumpkin seeds rescued from the trash, and one man discovering that a typewriter is a three-hour-long screen-time-killer. The day’s best material is gloriously strange—and occasionally useful.\n\nBest links\n\n• 10 legendary LIFE covers. A compact visual tour worth opening when you want to remember how much personality a magazine cover can carry. From Why is this interesting?\n\n• The internet’s haunted-house reading list. WIRED’s Halloween special collects stories about Wikipedia biographies vanishing, sovereign-citizen baby privacy, an internet that may need to die, and an AI “death clock” that starts to feel like it is sucking the life out of you.\n\n• The forecast that takes ranked-choice voting seriously. Silver Bulletin’s election Q&A makes the Alaska Senate race a nice reminder that “party total” math can be misleading: drop-off voting and cross-party second choices matter.\n\nInternet oddities\n\n• Mummy wine, scientifically revisited. Medieval Mumia vera aegyptiaca was made by grinding up Egyptian mummies and mixing the residue with wine or other liquids. Researchers have now analyzed historical products, embalming material, bandages, and mummified skulls to reconstruct what the medicine actually was. Halloween has its beverage pairing.\n\n• The computer is now the haunted object. Today in Tabs’s “Black October” roundup argues that the problem is not merely that software has bugs; AI is making sophisticated exploitation cheap enough to change the odds. The proposed defensive counterpart—an AI with root access that patches servers automatically—comes with the charming warning: “This might delete your entire server.”\n\n• The FleshMatrix. Beauty gets plotted across four overlapping forces—cosmetics, health, desire, and power—which is a much better framework than pretending “beauty” is one thing. It turns everything from “skinvesting” to celebrity self-presentation into a question of what is being signaled, sold, or controlled.\n\nIdeas to steal\n\n• Use a typewriter as an anti-scroll machine. Pablo Manríquez spent nearly three hours writing and corresponding without checking a screen. His pitch is not nostalgia so much as friction: no delete key, no autocorrect, and enough slowness to make thinking feel organized instead of anxious.\n\n• Make the workspace earn its footprint. Jonathan Reed’s bedroom desk works because every constraint is answered deliberately: matching light oak, hidden cables, a magnetic ruler under the shelf, and art placed where he actually spends time. The best idea is TinyStart, a small launcher utility that does very little—and does that one thing well.\n\nFood & places\n\n• The pumpkin-seed rescue mission. Scrape the seeds from the pumpkin—or any winter squash—leave them to dry or briefly bake them, then toss with oil, salt, and maybe cayenne. Roast at 300–350°F until crisp, roughly 10–20 minutes. The pulp does not have to be removed with surgical precision; a little cling adds squashy flavor.\n\nWorth reading\n\n• The Saturday Selection’s three-link thesis: magazine covers as cultural objects, the disappearance of big car-commercial storytelling from prime time, and the shared skill behind great interviewing and great therapy: listening for what is not being said.\n\n• A small astronomy correction with a big mood. New simulations challenge the idea that comet impacts routinely delivered the ingredients for life to Earth; those impacts may have destroyed fragile molecules more often than they preserved them. The more hopeful twist: Mars and icy ocean worlds may be better venues for the chemistry of beginnings.\n\nOne-liners\n\n• The future of beauty is apparently a four-quadrant perceptual map.\n\n• “Does almost nothing, but does it perfectly” remains an excellent product brief.\n\n• If your Halloween drink contains a mummified head, at least let the researchers identify whose head it was.\n\n• Today’s most convincing productivity technology has a ribbon, a platen, and no notifications.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Saturday, October 31, 2026",
+              "url": "",
+              "bold": true,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Halloween delivered a proper little newspaper: dead technologies haunting the living internet, actual mummy powder in medieval wine, pumpkin seeds rescued from the trash, and one man discovering that a typewriter is a three-hour-long screen-time-killer. The day’s best material is gloriously strange—and occasionally useful.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "heading_2",
+          "runs": [
+            {
+              "text": "Best links",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "10 legendary LIFE covers.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " A compact visual tour worth opening when you want to remember how much personality a magazine cover can carry. From ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Why is this interesting?",
+              "url": "",
+              "bold": false,
+              "italic": true
+            },
+            {
+              "text": " ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "The internet’s haunted-house reading list.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " WIRED’s Halloween special collects stories about Wikipedia biographies vanishing, sovereign-citizen baby privacy, an internet that may need to die, and an AI “death clock” that starts to feel like it is sucking the life out of you. ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "The forecast that takes ranked-choice voting seriously.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " Silver Bulletin’s election Q&A makes the Alaska Senate race a nice reminder that “party total” math can be misleading: drop-off voting and cross-party second choices matter. ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "heading_2",
+          "runs": [
+            {
+              "text": "Internet oddities",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Mummy wine, scientifically revisited.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " Medieval Mumia vera aegyptiaca was made by grinding up Egyptian mummies and mixing the residue with wine or other liquids. Researchers have now analyzed historical products, embalming material, bandages, and mummified skulls to reconstruct what the medicine actually was. Halloween has its beverage pairing. ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "The computer is now the haunted object.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Today in Tabs",
+              "url": "",
+              "bold": false,
+              "italic": true
+            },
+            {
+              "text": "’s “Black October” roundup argues that the problem is not merely that software has bugs; AI is making sophisticated exploitation cheap enough to change the odds. The proposed defensive counterpart—an AI with root access that patches servers automatically—comes with the charming warning: “This might delete your entire server.” ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "The FleshMatrix.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " Beauty gets plotted across four overlapping forces—cosmetics, health, desire, and power—which is a much better framework than pretending “beauty” is one thing. It turns everything from “skinvesting” to celebrity self-presentation into a question of what is being signaled, sold, or controlled. ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "heading_2",
+          "runs": [
+            {
+              "text": "Ideas to steal",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Use a typewriter as an anti-scroll machine.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " Pablo Manríquez spent nearly three hours writing and corresponding without checking a screen. His pitch is not nostalgia so much as friction: no delete key, no autocorrect, and enough slowness to make thinking feel organized instead of anxious. ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Make the workspace earn its footprint.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " Jonathan Reed’s bedroom desk works because every constraint is answered deliberately: matching light oak, hidden cables, a magnetic ruler under the shelf, and art placed where he actually spends time. The best idea is TinyStart, a small launcher utility that does very little—and does that one thing well. ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "heading_2",
+          "runs": [
+            {
+              "text": "Food & places",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "The pumpkin-seed rescue mission.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " Scrape the seeds from the pumpkin—or any winter squash—leave them to dry or briefly bake them, then toss with oil, salt, and maybe cayenne. Roast at 300–350°F until crisp, roughly 10–20 minutes. The pulp does not have to be removed with surgical precision; a little cling adds squashy flavor. ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "heading_2",
+          "runs": [
+            {
+              "text": "Worth reading",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "The Saturday Selection’s three-link thesis:",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " magazine covers as cultural objects, the disappearance of big car-commercial storytelling from prime time, and the shared skill behind great interviewing and great therapy: listening for what is not being said. ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "A small astronomy correction with a big mood.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " New simulations challenge the idea that comet impacts routinely delivered the ingredients for life to Earth; those impacts may have destroyed fragile molecules more often than they preserved them. The more hopeful twist: Mars and icy ocean worlds may be better venues for the chemistry of beginnings. ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "heading_2",
+          "runs": [
+            {
+              "text": "One-liners",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "The future of beauty is apparently a four-quadrant perceptual map.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "“Does almost nothing, but does it perfectly” remains an excellent product brief.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "If your Halloween drink contains a mummified head, at least let the researchers identify whose head it was.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Today’s most convincing productivity technology has a ribbon, a platen, and no notifications.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        }
+      ],
+      "publishedAt": "2026-10-31T21:09:00Z",
+      "links": []
     }
   ]
 }
