@@ -213340,6 +213340,529 @@
           ]
         }
       }
+    },
+    {
+      "id": "digest-90fbfda5-9704-4c77-86a7-2006132377eb",
+      "channel": "newsletters",
+      "source": "notion",
+      "kind": "Agent-written digest",
+      "domain": "Daily newsletter digest",
+      "title": "The Wikipedia Funeral, the $2B AI Growth Machine, and Thanksgiving on a Budget",
+      "url": "",
+      "description": "Today’s newsletters kept circling one question: what deserves to survive — a Wikipedia biography, a marketing tactic, a family recipe, or a tiny piece of the internet? Here’s the good stuff from Sunday’s pile.",
+      "body": "Today’s newsletters kept circling one question: what deserves to survive — a Wikipedia biography, a marketing tactic, a family recipe, or a tiny piece of the internet? Here’s the good stuff from Sunday’s pile.\n\nThe front page\n\nWikipedia’s deletion desk is a comedy of existential errors. WIRED’s Jason Kehe highlights a reporter who contacted hundreds of living people whose biographies were up for deletion for failing Wikipedia’s hazy “notability” test. The result is funny, uncomfortable, and strangely moving: strangers debating whether your life has generated enough independent coverage to count as a life worth cataloging. The same newsletter pairs that story with the opposite problem in biology — taxonomists using DNA to name species faster than humans can really understand them. One system says there is too much information; the other says there is never enough.\n\nSource: WIRED Big Story\n\nIdeas to steal\n\n• Turn creators into a SaaS growth channel. Lenny’s conversation with Wispr Flow’s Hector Serrano describes a paid-UGC machine: roughly 50 creators producing 500–600 ads a month, with the best earning more than $13,000 monthly. The interesting move is not “make more content”; it is building a roster, paying for experiments, and letting performance identify the repeatable voices. Also useful: the argument that strong marketers are “allergic to AI” — not anti-tool, but suspicious of generic output.\n\n• Work at the center, not the edges. Paul Graham’s formulation, relayed by Farnam Street: hard problems have an easy perimeter and a difficult core. Aim toward the core without stalling; peripheral work is fine only if it is still pointed inward.\n\n• Read difficult books as an anti-slop technology. A roundup from Links I Would Gchat You If We Were Friends points to a Harvard freshman humanities course built around Homer, Shakespeare, Baldwin, and Joyce — a weekly dose of sustained attention as inoculation against brain rot and machine-made mush.\n\nSources: Lenny’s Newsletter , Farnam Street / Brain Food , and Links I Would Gchat You If We Were Friends\n\nWorth reading\n\n• The future of media is a livestream that never remembers. Caitlin Dewey’s links roundup describes IShowSpeed’s marathon streams as a medium built almost entirely from the present: endlessly curious, constantly moving, and “impervious to deep learning.” It is less a recommendation than a useful diagnosis of what live internet spectacle rewards.\n\n• Surveillance companies are still trying to out-talk their backlash. 404 Media’s weekly podcast leads with leaked audio of Flock’s CEO telling police that criticism of the company is not real, alongside a report on a woman facing years in prison after someone else opened a Cash App account in her name. The pairing makes the larger point: the consequences of “frictionless” systems land on ordinary people long after executives finish explaining them.\n\n• Election forecasting is most revealing when the map gets weird. Silver Bulletin’s 40,000-simulation tour chooses 13 “morning after” scenarios, including a handful where the Senate comes down to slow-counting states, recounts, or one-seat margins. The useful reminder is that a forecast is not one answer; it is a landscape of plausible, messy stories.\n\nSources: Links I Would Gchat You If We Were Friends , 404 Media , and Silver Bulletin\n\nFood & places\n\n• Thanksgiving does not need a luxury budget. NYT Cooking’s 33-recipe collection leans on ordinary grocery-store ingredients, substitutions, and low-drama techniques. The real idea is modular abundance: make the feast impressive by giving yourself options, not by buying rare ingredients.\n\n• Bean soup weather has arrived. Another NYT Cooking note recommends Senate bean soup, made on the stovetop or in a slow cooker — exactly the kind of pantry meal that gets better when the afternoon disappears.\n\nSources: NYT Cooking: 33 Cheap Thanksgiving Recipes  and NYT Cooking: Senate Bean Soup\n\nInternet oddities\n\nA designer’s personal algorithm is just YouTube with taste. Wardrobe asked designer Keith Henry for his favorite recent videos and work playlists. The email is almost comically terse — “The Videos,” “The Playlists” — but that is part of the charm: a small, human recommendation bundle in an age of infinite feeds. Save the idea, even if the links stay in the inbox: ask one interesting person what they have been watching lately.\n\nSource: Wardrobe\n\nOne-liners\n\n• “Action produces the very information inaction waits for.” — Brain Food\n\n• “Spite makes you work harder. Curiosity makes you work longer. Discipline is what you need when you have neither.” — Brain Food\n\n• The old internet is not dead; it is hiding in newsletters, RSS feeds, searchable film archives, and the occasional human-made list.\n\nFiled from the November 1, 2026 newsletter pile.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Today’s newsletters kept circling one question: what deserves to survive — a Wikipedia biography, a marketing tactic, a family recipe, or a tiny piece of the internet? Here’s the good stuff from Sunday’s pile.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "heading_2",
+          "runs": [
+            {
+              "text": "The front page",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Wikipedia’s deletion desk is a comedy of existential errors.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " WIRED’s Jason Kehe highlights a reporter who contacted hundreds of living people whose biographies were up for deletion for failing Wikipedia’s hazy “notability” test. The result is funny, uncomfortable, and strangely moving: strangers debating whether your life has generated enough independent coverage to count as a life worth cataloging. The same newsletter pairs that story with the opposite problem in biology — taxonomists using DNA to name species faster than humans can really understand them. One system says there is too much information; the other says there is never enough.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Source: ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "WIRED Big Story",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": " ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "heading_2",
+          "runs": [
+            {
+              "text": "Ideas to steal",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Turn creators into a SaaS growth channel.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " Lenny’s conversation with Wispr Flow’s Hector Serrano describes a paid-UGC machine: roughly 50 creators producing 500–600 ads a month, with the best earning more than $13,000 monthly. The interesting move is not “make more content”; it is building a roster, paying for experiments, and letting performance identify the repeatable voices. Also useful: the argument that strong marketers are “allergic to AI” — not anti-tool, but suspicious of generic output.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Work at the center, not the edges.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " Paul Graham’s formulation, relayed by Farnam Street: hard problems have an easy perimeter and a difficult core. Aim toward the core without stalling; peripheral work is fine only if it is still pointed inward.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Read difficult books as an anti-slop technology.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " A roundup from ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Links I Would Gchat You If We Were Friends",
+              "url": "",
+              "bold": false,
+              "italic": true
+            },
+            {
+              "text": " points to a Harvard freshman humanities course built around Homer, Shakespeare, Baldwin, and Joyce — a weekly dose of sustained attention as inoculation against brain rot and machine-made mush.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Sources: ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Lenny’s Newsletter",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": " ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ", ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Farnam Street / Brain Food",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": " ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ", and ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Links I Would Gchat You If We Were Friends",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": " ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "heading_2",
+          "runs": [
+            {
+              "text": "Worth reading",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "The future of media is a livestream that never remembers.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " Caitlin Dewey’s links roundup describes IShowSpeed’s marathon streams as a medium built almost entirely from the present: endlessly curious, constantly moving, and “impervious to deep learning.” It is less a recommendation than a useful diagnosis of what live internet spectacle rewards.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Surveillance companies are still trying to out-talk their backlash.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " 404 Media’s weekly podcast leads with leaked audio of Flock’s CEO telling police that criticism of the company is not real, alongside a report on a woman facing years in prison after someone else opened a Cash App account in her name. The pairing makes the larger point: the consequences of “frictionless” systems land on ordinary people long after executives finish explaining them.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Election forecasting is most revealing when the map gets weird.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " Silver Bulletin’s 40,000-simulation tour chooses 13 “morning after” scenarios, including a handful where the Senate comes down to slow-counting states, recounts, or one-seat margins. The useful reminder is that a forecast is not one answer; it is a landscape of plausible, messy stories.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Sources: ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Links I Would Gchat You If We Were Friends",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": " ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ", ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "404 Media",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": " ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ", and ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Silver Bulletin",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": " ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "heading_2",
+          "runs": [
+            {
+              "text": "Food & places",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Thanksgiving does not need a luxury budget.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " NYT Cooking’s 33-recipe collection leans on ordinary grocery-store ingredients, substitutions, and low-drama techniques. The real idea is modular abundance: make the feast impressive by giving yourself options, not by buying rare ingredients.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Bean soup weather has arrived.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " Another NYT Cooking note recommends Senate bean soup, made on the stovetop or in a slow cooker — exactly the kind of pantry meal that gets better when the afternoon disappears.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Sources: ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "NYT Cooking: 33 Cheap Thanksgiving Recipes",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": " ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": " and ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "NYT Cooking: Senate Bean Soup",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": " ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "heading_2",
+          "runs": [
+            {
+              "text": "Internet oddities",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "A designer’s personal algorithm is just YouTube with taste.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " Wardrobe asked designer Keith Henry for his favorite recent videos and work playlists. The email is almost comically terse — “The Videos,” “The Playlists” — but that is part of the charm: a small, human recommendation bundle in an age of infinite feeds. Save the idea, even if the links stay in the inbox: ask one interesting person what they have been watching lately.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Source: ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Wardrobe",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": " ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "heading_2",
+          "runs": [
+            {
+              "text": "One-liners",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "“Action produces the very information inaction waits for.” — Brain Food",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "“Spite makes you work harder. Curiosity makes you work longer. Discipline is what you need when you have neither.” — Brain Food",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "The old internet is not dead; it is hiding in newsletters, RSS feeds, searchable film archives, and the occasional human-made list.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Filed from the November 1, 2026 newsletter pile.",
+              "url": "",
+              "bold": false,
+              "italic": true
+            }
+          ]
+        }
+      ],
+      "publishedAt": "2026-11-01T22:11:00Z",
+      "links": []
     }
   ]
 }
