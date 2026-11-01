@@ -210720,14 +210720,14 @@
       "domain": "Daily newsletter digest",
       "title": "Volta AI victim dossiers, NASA geriatric Mars orbiters, the DOE Malfoid meme - Sunday, November 1, 2026",
       "url": "",
-      "description": "Sunday, November 1, 2026 - Morning Edition",
-      "body": "Sunday, November 1, 2026 - Morning Edition\n\nToday's Numbers\n\n• 140 million: miles from Earth, where NASA's Mars Odyssey and Mars Reconnaissance Orbiter keep working, decades past their expected lifespans. Odyssey arrived at Mars in 2001, and its observations rewrote the story of water on the planet.\n\n• 25,000: anonymized calls from the Fireside Project's Psychedelic Support Line, now in a public database that scientists analyzed. They found something disturbing in there.\n\n• 6: AI agents one WIRED reporter tested for a full day, from Meta's Muse to Anthropic's Claude Duet, ranked on how well they handled basic tasks.\n\nQuotes of the Day\n\n• \"Spite makes you work harder. Curiosity makes you work longer. Discipline is what you need when you have neither.\" (Shane Parrish, opening this week's Brain Food)\n\n• \"I never feared my skills because I put in the work. Work ethic eliminates fear.\" (Michael Jordan, on eliminating fear)\n\n• \"Many problems have a hard core at the center, surrounded by easier stuff at the edges. Working hard means aiming toward the center to the extent you can.\" (Paul Graham, on how to actually work hard)\n\nAI & The Machines\n\n• The malware that hired an AI analyst. A new infostealer called Volta-Autodoxer does not just steal your passwords, crypto wallet seed phrases, and Discord sessions. It bundles everything it learns into an \"evidence bundle\" and sends it to an AI model, which writes back a dossier: what you are worth, which accounts to hit first, and how sloppy your security hygiene is. Cisco Talos found the malware defaults to Claude Opus 4.6 and quietly falls back to Kimi K2, then Gemini 2.5 Flash, if a model refuses. Talos has not seen it in the wild yet, but someone built a working prototype. (WIRED)\n\n• Your next emergency alert might be written by a chatbot. Emergency managers are quietly drafting alerts with ChatGPT and Gemini, and startups now sell AI tools to emergency departments. A Grist and WIRED report warns it could backfire: people trust alerts that feel authentic, AI slop could erode that trust, and one Alabama emergency manager already published an AI-generated graphic about a Hurricane Isaias \"sting jet\" that was flat-out wrong. (WIRED)\n\nMoney & Power\n\n• Flock's CEO does not believe his own backlash. In leaked audio from a private police conference, the CEO of Flock, the license-plate-reader company blanketing American roads, told cops the backlash against his company is not real, and passed along his wife's advice to never apologize. (404 Media)\n\n• Someone opened a CashApp in her name, and now she faces prison. A woman is facing years behind bars because a stranger opened a CashApp account in her name. It is the kind of identity-theft nightmare that sounds like a bureaucratic glitch until it ruins your life. (404 Media)\n\nThe Culture\n\n• The Department of Education posted an incel meme. The DOE's X account shared a \"There's Magic in Learning\" image referencing \"Malfoid,\" a gender-swapped Draco Malfoy meme that mashes Malfoy together with an incel slur. When WIRED asked about it, the department answered by quoting Dumbledore. (WIRED)\n\n• Marissa Mayer cannot keep pretending gender does not matter. 404 Media's podcast digs into why the former Yahoo CEO's insistence that gender is irrelevant no longer holds up. (404 Media)\n\nQuick Hits & Curiosities\n\n• Steven Kotler, who runs the Flow Research Collective, sat down with Shane Parrish to talk about the actual science of doing your best work: how to focus better, learn faster, and hit peak performance. (The Knowledge Project)\n\n• Ruby's Recs is spending the month on motherhood books: deciding whether to have kids, surviving pregnancy and new parenthood, and reckoning with the mothers who raised us. Funny, serious, and honest about an experience that usually gets romanticized. (Ruby's Recs)",
+      "description": "Sunday, November 1, 2026 - Midday Edition",
+      "body": "Sunday, November 1, 2026 - Midday Edition\n\nToday's Numbers\n\n• 8%: the share of corporate wages that AI inference spending must hit by Q4 2028, up from 1.5% today (and over 100% of today's corporate software spend), to justify the current AI buildout, says Bridgewater CIO Greg Jensen. Stripe's John Collison says his token spend is about 1% of opex with a target of 20%. Jensen's catch: getting there requires a labor recession, productivity gains, or both.\n\n• $2 billion: the valuation Wispr Flow raised at after growing revenue 30x in a year, powered by a 50-creator paid-UGC machine pushing 500 to 600 ads a month, with the best creators earning over $13,000 a month. It was built by Hector Serrano, who joined as Head of Content at 19, before the product had found its market.\n\n• 41,000: DHS workers exposed in a massive leak, including undercover ICE agents, with facility locations, cell phone numbers, and membership in groups tied to wiretap programs, Palantir software, and xAI's Grok chatbot, per WIRED.\n\n• 40,000: midterm simulations Nate Silver's FLIPR model ran Saturday. Silver curated 13 maps, from the base case to deliberately weird ones, and gives Democrats roughly 3-to-1 odds of taking the Senate. His warning: in about 20% of simulations the Senate comes down to exactly one state, and slow-counting Alaska (with ranked-choice voting) means we may not know the winner on Wednesday morning.\n\nQuotes of the Day\n\n• \"ceaselessly curious but somehow impervious to deep learning\" (John Caramanica, The New York Times, on streamer IShowSpeed, whose chaotic marathon live streams he calls the future of media)\n\n• \"The process and work involved in thinking through situations, through my work, through my ethics, through the way I handle other people, is a key component in being able to develop myself as a moral person. And offloading that labor, regardless of whether it's taxing or not, is undercutting my ability to be a moral actor.\" (a Kentucky man, explaining the religious exemption from using AI at work that his employer granted him, via Religion News Service)\n\n• \"purely partisan\" (U.S. District Judge Jennifer L. Rochon, ordering the Trump administration to pull three taxpayer-funded ads, including \"$5,000 to Americans,\" ruling they likely violate federal rules against using government money for propaganda)\n\nMidterm Eve\n\n• A fiance defects in Michigan. Jason Turkish, the fiance of Rep. Haley Stevens and a self-described lifelong Democrat, told Fox & Friends he is voting for Republican Mike Rogers over Democratic Senate nominee Abdul El-Sayed. The deciding moment came in a debate, when El-Sayed would not say Iran is a greater threat to the U.S. than Israel. \"This is a regime that has spilled American blood, whose leaders lead chants of death to America,\" Turkish said. Nancy Pelosi piled on, calling El-Sayed's view that Israel has no right to exist as a Jewish state \"wrong,\" though her team says she still backs the nominee. Polls have El-Sayed ahead 48 to 49% against 44 to 45% for Rogers, in an open-seat race that could decide control of the Senate. (NLDR Media)\n\nThe Greenland Deal\n\n• A permanent Arctic footprint. On September 22, Trump, Danish prime minister Mette Frederiksen, and Greenlandic prime minister Jens Frederik Nielsen signed a trilateral agreement at the UN amending the 1951 U.S.-Denmark defense pact on Greenland. It grants the U.S. permanent military access, basing, and overflight rights, modernizes and expands Pituffik Space Base, adds defense areas at Narsarsuaq and Mestersvig, and bars non-NATO countries (read: China and Russia) from military installations or a persistent troop presence. There is no expiration date, and it stays in force even if Greenland becomes independent, as long as it remains in NATO. Secretary of State Marco Rubio called it \"a huge win for the United States,\" while Trump framed it as permanent U.S. control over Greenland's security needs at no cost to taxpayers, stopping short of transferring sovereignty. (NLDR Media)\n\nThe Internet, Unfiltered\n\n• Sorry, you're not notable. WIRED's Duncan Fyfe emailed hundreds of living people whose Wikipedia biographies were deleted for failing the site's hazy \"notable\" standard, and asked what it is like to watch total strangers debate your life's meaning in public. The result is a funny romp that lands on a real question: what makes any person's life worth documenting? (WIRED)\n\n• The filter that started the teen reckoning. Everyone traces the teen social media reckoning to Frances Haugen or phone panic, but Bloomberg Businessweek argues the real catalyst was Snapchat's speed filter, linked to multiple fatal crashes involving teen drivers. Litigation over the filter let lawyers test a novel theory, that platforms can be liable for dangerous product design even when they are not liable for user content, and that theory now powers the flood of social media lawsuits. (Bloomberg Businessweek)\n\nSigns of the Times\n\n• Harvard's hottest class is Homer. The most popular course at Harvard right now is a rigorous freshman humanities class where students read a hefty book a week, Homer to Shakespeare to Baldwin to Joyce, to inoculate themselves against brain rot and AI. (The Wall Street Journal)\n\nQuick Hits & Curiosities\n\n• Arizona's U.S. attorney opened a federal case into reports that three nonprofits (Stand Indivisible Arizona, Worker Power, and the DNC's When We Count program) registered non-citizens to vote, based on undercover Muckraker footage; the matter is now with the FBI. (NLDR Media)\n\n• Anthropic and OpenAI say they have disproved a key tenet of computer science. Researchers are reeling, but also feel like \"overexcited bunnies\" at the new questions it opens up. (WIRED)\n\n• Burning fossil fuels may have staved off another ice age, scientists found last week. WIRED readers note the theory is decades old, and remember the \"Ice Age is Coming!\" media boomlets of the 1970s. (WIRED)",
       "blocks": [
         {
           "type": "heading_1",
           "runs": [
             {
-              "text": "Sunday, November 1, 2026 - Morning Edition",
+              "text": "Sunday, November 1, 2026 - Midday Edition",
               "url": "",
               "bold": false,
               "italic": false
@@ -210749,13 +210749,13 @@
           "type": "bulleted_list_item",
           "runs": [
             {
-              "text": "140 million",
-              "url": "https://www.wired.com/",
+              "text": "8%",
+              "url": "https://firesidealphah.substack.com/p/bridgewater-cio-greg-jensen-global",
               "bold": true,
               "italic": false
             },
             {
-              "text": ": miles from Earth, where NASA's Mars Odyssey and Mars Reconnaissance Orbiter keep working, decades past their expected lifespans. Odyssey arrived at Mars in 2001, and its observations rewrote the story of water on the planet.",
+              "text": ": the share of corporate wages that AI inference spending must hit by Q4 2028, up from 1.5% today (and over 100% of today's corporate software spend), to justify the current AI buildout, says Bridgewater CIO Greg Jensen. Stripe's John Collison says his token spend is about 1% of opex with a target of 20%. Jensen's catch: getting there requires a labor recession, productivity gains, or both.",
               "url": "",
               "bold": false,
               "italic": false
@@ -210766,13 +210766,13 @@
           "type": "bulleted_list_item",
           "runs": [
             {
-              "text": "25,000",
-              "url": "https://www.404media.co/r/555a1494",
+              "text": "$2 billion",
+              "url": "https://www.lennysnewsletter.com/p/how-a-19-year-old-intern-built-the",
               "bold": true,
               "italic": false
             },
             {
-              "text": ": anonymized calls from the Fireside Project's Psychedelic Support Line, now in a public database that scientists analyzed. They found something disturbing in there.",
+              "text": ": the valuation Wispr Flow raised at after growing revenue 30x in a year, powered by a 50-creator paid-UGC machine pushing 500 to 600 ads a month, with the best creators earning over $13,000 a month. It was built by Hector Serrano, who joined as Head of Content at 19, before the product had found its market.",
               "url": "",
               "bold": false,
               "italic": false
@@ -210783,13 +210783,30 @@
           "type": "bulleted_list_item",
           "runs": [
             {
-              "text": "6",
+              "text": "41,000",
               "url": "https://www.wired.com/",
               "bold": true,
               "italic": false
             },
             {
-              "text": ": AI agents one WIRED reporter tested for a full day, from Meta's Muse to Anthropic's Claude Duet, ranked on how well they handled basic tasks.",
+              "text": ": DHS workers exposed in a massive leak, including undercover ICE agents, with facility locations, cell phone numbers, and membership in groups tied to wiretap programs, Palantir software, and xAI's Grok chatbot, per WIRED.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "40,000",
+              "url": "https://www.natesilver.net/p/13-morning-after-the-midterm-maps",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": ": midterm simulations Nate Silver's FLIPR model ran Saturday. Silver curated 13 maps, from the base case to deliberately weird ones, and gives Democrats roughly 3-to-1 odds of taking the Senate. His warning: in about 20% of simulations the Senate comes down to exactly one state, and slow-counting Alaska (with ranked-choice voting) means we may not know the winner on Wednesday morning.",
               "url": "",
               "bold": false,
               "italic": false
@@ -210811,19 +210828,7 @@
           "type": "bulleted_list_item",
           "runs": [
             {
-              "text": "\"Spite makes you work harder. Curiosity makes you work longer. Discipline is what you need when you have neither.\" (",
-              "url": "",
-              "bold": false,
-              "italic": false
-            },
-            {
-              "text": "Shane Parrish",
-              "url": "https://fs.blog/brain-food/november-1-2026/",
-              "bold": false,
-              "italic": false
-            },
-            {
-              "text": ", opening this week's Brain Food)",
+              "text": "\"ceaselessly curious but somehow impervious to deep learning\" (John Caramanica, The New York Times, on streamer IShowSpeed, whose chaotic marathon live streams he calls the future of media)",
               "url": "",
               "bold": false,
               "italic": false
@@ -210834,19 +210839,7 @@
           "type": "bulleted_list_item",
           "runs": [
             {
-              "text": "\"I never feared my skills because I put in the work. Work ethic eliminates fear.\" (",
-              "url": "",
-              "bold": false,
-              "italic": false
-            },
-            {
-              "text": "Michael Jordan",
-              "url": "https://fs.blog/brain-food/november-1-2026/",
-              "bold": false,
-              "italic": false
-            },
-            {
-              "text": ", on eliminating fear)",
+              "text": "\"The process and work involved in thinking through situations, through my work, through my ethics, through the way I handle other people, is a key component in being able to develop myself as a moral person. And offloading that labor, regardless of whether it's taxing or not, is undercutting my ability to be a moral actor.\" (a Kentucky man, explaining the religious exemption from using AI at work that his employer granted him, via Religion News Service)",
               "url": "",
               "bold": false,
               "italic": false
@@ -210857,19 +210850,7 @@
           "type": "bulleted_list_item",
           "runs": [
             {
-              "text": "\"Many problems have a hard core at the center, surrounded by easier stuff at the edges. Working hard means aiming toward the center to the extent you can.\" (",
-              "url": "",
-              "bold": false,
-              "italic": false
-            },
-            {
-              "text": "Paul Graham",
-              "url": "https://fs.blog/brain-food/november-1-2026/",
-              "bold": false,
-              "italic": false
-            },
-            {
-              "text": ", on how to actually work hard)",
+              "text": "\"purely partisan\" (U.S. District Judge Jennifer L. Rochon, ordering the Trump administration to pull three taxpayer-funded ads, including \"$5,000 to Americans,\" ruling they likely violate federal rules against using government money for propaganda)",
               "url": "",
               "bold": false,
               "italic": false
@@ -210880,7 +210861,7 @@
           "type": "paragraph",
           "runs": [
             {
-              "text": "AI & The Machines",
+              "text": "Midterm Eve",
               "url": "",
               "bold": true,
               "italic": false
@@ -210891,13 +210872,93 @@
           "type": "bulleted_list_item",
           "runs": [
             {
-              "text": "The malware that hired an AI analyst.",
+              "text": "A fiance defects in Michigan.",
               "url": "",
               "bold": true,
               "italic": false
             },
             {
-              "text": " A new infostealer called Volta-Autodoxer does not just steal your passwords, crypto wallet seed phrases, and Discord sessions. It bundles everything it learns into an \"evidence bundle\" and sends it to an AI model, which writes back a dossier: what you are worth, which accounts to hit first, and how sloppy your security hygiene is. Cisco Talos found the malware defaults to Claude Opus 4.6 and quietly falls back to Kimi K2, then Gemini 2.5 Flash, if a model refuses. Talos has not seen it in the wild yet, but someone built a working prototype. (",
+              "text": " Jason Turkish, the fiance of Rep. Haley Stevens and a self-described lifelong Democrat, told Fox & Friends he is voting for Republican Mike Rogers over Democratic Senate nominee Abdul El-Sayed. The deciding moment came in a debate, when El-Sayed would not say Iran is a greater threat to the U.S. than Israel. \"This is a regime that has spilled American blood, whose leaders lead chants of death to America,\" Turkish said. Nancy Pelosi piled on, calling El-Sayed's view that Israel has no right to exist as a Jewish state \"wrong,\" though her team says she still backs the nominee. Polls have El-Sayed ahead 48 to 49% against 44 to 45% for Rogers, in an open-seat race that could decide control of the Senate. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "NLDR Media",
+              "url": "https://thejefferymead.substack.com/p/morning-briefing-november-1-2026",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "The Greenland Deal",
+              "url": "",
+              "bold": true,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "A permanent Arctic footprint.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " On September 22, Trump, Danish prime minister Mette Frederiksen, and Greenlandic prime minister Jens Frederik Nielsen signed a trilateral agreement at the UN amending the 1951 U.S.-Denmark defense pact on Greenland. It grants the U.S. permanent military access, basing, and overflight rights, modernizes and expands Pituffik Space Base, adds defense areas at Narsarsuaq and Mestersvig, and bars non-NATO countries (read: China and Russia) from military installations or a persistent troop presence. There is no expiration date, and it stays in force even if Greenland becomes independent, as long as it remains in NATO. Secretary of State Marco Rubio called it \"a huge win for the United States,\" while Trump framed it as permanent U.S. control over Greenland's security needs at no cost to taxpayers, stopping short of transferring sovereignty. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "NLDR Media",
+              "url": "https://thejefferymead.substack.com/p/morning-briefing-november-1-2026",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "The Internet, Unfiltered",
+              "url": "",
+              "bold": true,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Sorry, you're not notable.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " WIRED's Duncan Fyfe emailed hundreds of living people whose Wikipedia biographies were deleted for failing the site's hazy \"notable\" standard, and asked what it is like to watch total strangers debate your life's meaning in public. The result is a funny romp that lands on a real question: what makes any person's life worth documenting? (",
               "url": "",
               "bold": false,
               "italic": false
@@ -210920,20 +210981,20 @@
           "type": "bulleted_list_item",
           "runs": [
             {
-              "text": "Your next emergency alert might be written by a chatbot.",
+              "text": "The filter that started the teen reckoning.",
               "url": "",
               "bold": true,
               "italic": false
             },
             {
-              "text": " Emergency managers are quietly drafting alerts with ChatGPT and Gemini, and startups now sell AI tools to emergency departments. A Grist and WIRED report warns it could backfire: people trust alerts that feel authentic, AI slop could erode that trust, and one Alabama emergency manager already published an AI-generated graphic about a Hurricane Isaias \"sting jet\" that was flat-out wrong. (",
+              "text": " Everyone traces the teen social media reckoning to Frances Haugen or phone panic, but Bloomberg Businessweek argues the real catalyst was Snapchat's speed filter, linked to multiple fatal crashes involving teen drivers. Litigation over the filter let lawyers test a novel theory, that platforms can be liable for dangerous product design even when they are not liable for user content, and that theory now powers the flood of social media lawsuits. (",
               "url": "",
               "bold": false,
               "italic": false
             },
             {
-              "text": "WIRED",
-              "url": "https://www.wired.com/story/ai-emergency-alerts-coming-humans-not-ready/",
+              "text": "Bloomberg Businessweek",
+              "url": "https://www.bloomberg.com/",
               "bold": false,
               "italic": false
             },
@@ -210949,7 +211010,7 @@
           "type": "paragraph",
           "runs": [
             {
-              "text": "Money & Power",
+              "text": "Signs of the Times",
               "url": "",
               "bold": true,
               "italic": false
@@ -210960,118 +211021,20 @@
           "type": "bulleted_list_item",
           "runs": [
             {
-              "text": "Flock's CEO does not believe his own backlash.",
+              "text": "Harvard's hottest class is Homer.",
               "url": "",
               "bold": true,
               "italic": false
             },
             {
-              "text": " In leaked audio from a private police conference, the CEO of Flock, the license-plate-reader company blanketing American roads, told cops the backlash against his company is not real, and passed along his wife's advice to never apologize. (",
+              "text": " The most popular course at Harvard right now is a rigorous freshman humanities class where students read a hefty book a week, Homer to Shakespeare to Baldwin to Joyce, to inoculate themselves against brain rot and AI. (",
               "url": "",
               "bold": false,
               "italic": false
             },
             {
-              "text": "404 Media",
-              "url": "https://www.404media.co/r/645a431a",
-              "bold": false,
-              "italic": false
-            },
-            {
-              "text": ")",
-              "url": "",
-              "bold": false,
-              "italic": false
-            }
-          ]
-        },
-        {
-          "type": "bulleted_list_item",
-          "runs": [
-            {
-              "text": "Someone opened a CashApp in her name, and now she faces prison.",
-              "url": "",
-              "bold": true,
-              "italic": false
-            },
-            {
-              "text": " A woman is facing years behind bars because a stranger opened a CashApp account in her name. It is the kind of identity-theft nightmare that sounds like a bureaucratic glitch until it ruins your life. (",
-              "url": "",
-              "bold": false,
-              "italic": false
-            },
-            {
-              "text": "404 Media",
-              "url": "https://www.404media.co/r/cd85d145",
-              "bold": false,
-              "italic": false
-            },
-            {
-              "text": ")",
-              "url": "",
-              "bold": false,
-              "italic": false
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "runs": [
-            {
-              "text": "The Culture",
-              "url": "",
-              "bold": true,
-              "italic": false
-            }
-          ]
-        },
-        {
-          "type": "bulleted_list_item",
-          "runs": [
-            {
-              "text": "The Department of Education posted an incel meme.",
-              "url": "",
-              "bold": true,
-              "italic": false
-            },
-            {
-              "text": " The DOE's X account shared a \"There's Magic in Learning\" image referencing \"Malfoid,\" a gender-swapped Draco Malfoy meme that mashes Malfoy together with an incel slur. When WIRED asked about it, the department answered by quoting Dumbledore. (",
-              "url": "",
-              "bold": false,
-              "italic": false
-            },
-            {
-              "text": "WIRED",
-              "url": "https://www.wired.com/",
-              "bold": false,
-              "italic": false
-            },
-            {
-              "text": ")",
-              "url": "",
-              "bold": false,
-              "italic": false
-            }
-          ]
-        },
-        {
-          "type": "bulleted_list_item",
-          "runs": [
-            {
-              "text": "Marissa Mayer cannot keep pretending gender does not matter.",
-              "url": "",
-              "bold": true,
-              "italic": false
-            },
-            {
-              "text": " 404 Media's podcast digs into why the former Yahoo CEO's insistence that gender is irrelevant no longer holds up. (",
-              "url": "",
-              "bold": false,
-              "italic": false
-            },
-            {
-              "text": "404 Media",
-              "url": "https://www.404media.co/r/c1967120",
+              "text": "The Wall Street Journal",
+              "url": "https://www.wsj.com/",
               "bold": false,
               "italic": false
             },
@@ -211098,14 +211061,14 @@
           "type": "bulleted_list_item",
           "runs": [
             {
-              "text": "Steven Kotler, who runs the Flow Research Collective, sat down with Shane Parrish to talk about the actual science of doing your best work: how to focus better, learn faster, and hit peak performance. (",
+              "text": "Arizona's U.S. attorney opened a federal case into reports that three nonprofits (Stand Indivisible Arizona, Worker Power, and the DNC's When We Count program) registered non-citizens to vote, based on undercover Muckraker footage; the matter is now with the FBI. (",
               "url": "",
               "bold": false,
               "italic": false
             },
             {
-              "text": "The Knowledge Project",
-              "url": "https://podcasts.apple.com/us/podcast/the-science-of-doing-your-best-work/id990149481?i=1000798332130",
+              "text": "NLDR Media",
+              "url": "https://thejefferymead.substack.com/p/morning-briefing-november-1-2026",
               "bold": false,
               "italic": false
             },
@@ -211121,14 +211084,37 @@
           "type": "bulleted_list_item",
           "runs": [
             {
-              "text": "Ruby's Recs is spending the month on motherhood books: deciding whether to have kids, surviving pregnancy and new parenthood, and reckoning with the mothers who raised us. Funny, serious, and honest about an experience that usually gets romanticized. (",
+              "text": "Anthropic and OpenAI say they have disproved a key tenet of computer science. Researchers are reeling, but also feel like \"overexcited bunnies\" at the new questions it opens up. (",
               "url": "",
               "bold": false,
               "italic": false
             },
             {
-              "text": "Ruby's Recs",
-              "url": "https://rubysrecs.substack.com/p/the-mother-load",
+              "text": "WIRED",
+              "url": "https://www.wired.com/",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Burning fossil fuels may have staved off another ice age, scientists found last week. WIRED readers note the theory is decades old, and remember the \"Ice Age is Coming!\" media boomlets of the 1970s. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "WIRED",
+              "url": "https://www.wired.com/",
               "bold": false,
               "italic": false
             },
@@ -211144,40 +211130,32 @@
       "publishedAt": "2026-11-01T12:59:00Z",
       "links": [
         {
+          "title": "8%",
+          "url": "https://firesidealphah.substack.com/p/bridgewater-cio-greg-jensen-global"
+        },
+        {
+          "title": "$2 billion",
+          "url": "https://www.lennysnewsletter.com/p/how-a-19-year-old-intern-built-the"
+        },
+        {
           "title": "WIRED",
           "url": "https://www.wired.com/"
         },
         {
-          "title": "25,000",
-          "url": "https://www.404media.co/r/555a1494"
+          "title": "40,000",
+          "url": "https://www.natesilver.net/p/13-morning-after-the-midterm-maps"
         },
         {
-          "title": "Paul Graham",
-          "url": "https://fs.blog/brain-food/november-1-2026/"
+          "title": "NLDR Media",
+          "url": "https://thejefferymead.substack.com/p/morning-briefing-november-1-2026"
         },
         {
-          "title": "WIRED",
-          "url": "https://www.wired.com/story/ai-emergency-alerts-coming-humans-not-ready/"
+          "title": "Bloomberg Businessweek",
+          "url": "https://www.bloomberg.com/"
         },
         {
-          "title": "404 Media",
-          "url": "https://www.404media.co/r/645a431a"
-        },
-        {
-          "title": "404 Media",
-          "url": "https://www.404media.co/r/cd85d145"
-        },
-        {
-          "title": "404 Media",
-          "url": "https://www.404media.co/r/c1967120"
-        },
-        {
-          "title": "The Knowledge Project",
-          "url": "https://podcasts.apple.com/us/podcast/the-science-of-doing-your-best-work/id990149481?i=1000798332130"
-        },
-        {
-          "title": "Ruby's Recs",
-          "url": "https://rubysrecs.substack.com/p/the-mother-load"
+          "title": "The Wall Street Journal",
+          "url": "https://www.wsj.com/"
         }
       ],
       "versions": {
@@ -211641,8 +211619,446 @@
             }
           ]
         },
+        "midday": {
+          "body": "Sunday, November 1, 2026 - Midday Edition\n\nToday's Numbers\n\n• 8%: the share of corporate wages that AI inference spending must hit by Q4 2028, up from 1.5% today (and over 100% of today's corporate software spend), to justify the current AI buildout, says Bridgewater CIO Greg Jensen. Stripe's John Collison says his token spend is about 1% of opex with a target of 20%. Jensen's catch: getting there requires a labor recession, productivity gains, or both.\n\n• $2 billion: the valuation Wispr Flow raised at after growing revenue 30x in a year, powered by a 50-creator paid-UGC machine pushing 500 to 600 ads a month, with the best creators earning over $13,000 a month. It was built by Hector Serrano, who joined as Head of Content at 19, before the product had found its market.\n\n• 41,000: DHS workers exposed in a massive leak, including undercover ICE agents, with facility locations, cell phone numbers, and membership in groups tied to wiretap programs, Palantir software, and xAI's Grok chatbot, per WIRED.\n\n• 40,000: midterm simulations Nate Silver's FLIPR model ran Saturday. Silver curated 13 maps, from the base case to deliberately weird ones, and gives Democrats roughly 3-to-1 odds of taking the Senate. His warning: in about 20% of simulations the Senate comes down to exactly one state, and slow-counting Alaska (with ranked-choice voting) means we may not know the winner on Wednesday morning.\n\nQuotes of the Day\n\n• \"ceaselessly curious but somehow impervious to deep learning\" (John Caramanica, The New York Times, on streamer IShowSpeed, whose chaotic marathon live streams he calls the future of media)\n\n• \"The process and work involved in thinking through situations, through my work, through my ethics, through the way I handle other people, is a key component in being able to develop myself as a moral person. And offloading that labor, regardless of whether it's taxing or not, is undercutting my ability to be a moral actor.\" (a Kentucky man, explaining the religious exemption from using AI at work that his employer granted him, via Religion News Service)\n\n• \"purely partisan\" (U.S. District Judge Jennifer L. Rochon, ordering the Trump administration to pull three taxpayer-funded ads, including \"$5,000 to Americans,\" ruling they likely violate federal rules against using government money for propaganda)\n\nMidterm Eve\n\n• A fiance defects in Michigan. Jason Turkish, the fiance of Rep. Haley Stevens and a self-described lifelong Democrat, told Fox & Friends he is voting for Republican Mike Rogers over Democratic Senate nominee Abdul El-Sayed. The deciding moment came in a debate, when El-Sayed would not say Iran is a greater threat to the U.S. than Israel. \"This is a regime that has spilled American blood, whose leaders lead chants of death to America,\" Turkish said. Nancy Pelosi piled on, calling El-Sayed's view that Israel has no right to exist as a Jewish state \"wrong,\" though her team says she still backs the nominee. Polls have El-Sayed ahead 48 to 49% against 44 to 45% for Rogers, in an open-seat race that could decide control of the Senate. (NLDR Media)\n\nThe Greenland Deal\n\n• A permanent Arctic footprint. On September 22, Trump, Danish prime minister Mette Frederiksen, and Greenlandic prime minister Jens Frederik Nielsen signed a trilateral agreement at the UN amending the 1951 U.S.-Denmark defense pact on Greenland. It grants the U.S. permanent military access, basing, and overflight rights, modernizes and expands Pituffik Space Base, adds defense areas at Narsarsuaq and Mestersvig, and bars non-NATO countries (read: China and Russia) from military installations or a persistent troop presence. There is no expiration date, and it stays in force even if Greenland becomes independent, as long as it remains in NATO. Secretary of State Marco Rubio called it \"a huge win for the United States,\" while Trump framed it as permanent U.S. control over Greenland's security needs at no cost to taxpayers, stopping short of transferring sovereignty. (NLDR Media)\n\nThe Internet, Unfiltered\n\n• Sorry, you're not notable. WIRED's Duncan Fyfe emailed hundreds of living people whose Wikipedia biographies were deleted for failing the site's hazy \"notable\" standard, and asked what it is like to watch total strangers debate your life's meaning in public. The result is a funny romp that lands on a real question: what makes any person's life worth documenting? (WIRED)\n\n• The filter that started the teen reckoning. Everyone traces the teen social media reckoning to Frances Haugen or phone panic, but Bloomberg Businessweek argues the real catalyst was Snapchat's speed filter, linked to multiple fatal crashes involving teen drivers. Litigation over the filter let lawyers test a novel theory, that platforms can be liable for dangerous product design even when they are not liable for user content, and that theory now powers the flood of social media lawsuits. (Bloomberg Businessweek)\n\nSigns of the Times\n\n• Harvard's hottest class is Homer. The most popular course at Harvard right now is a rigorous freshman humanities class where students read a hefty book a week, Homer to Shakespeare to Baldwin to Joyce, to inoculate themselves against brain rot and AI. (The Wall Street Journal)\n\nQuick Hits & Curiosities\n\n• Arizona's U.S. attorney opened a federal case into reports that three nonprofits (Stand Indivisible Arizona, Worker Power, and the DNC's When We Count program) registered non-citizens to vote, based on undercover Muckraker footage; the matter is now with the FBI. (NLDR Media)\n\n• Anthropic and OpenAI say they have disproved a key tenet of computer science. Researchers are reeling, but also feel like \"overexcited bunnies\" at the new questions it opens up. (WIRED)\n\n• Burning fossil fuels may have staved off another ice age, scientists found last week. WIRED readers note the theory is decades old, and remember the \"Ice Age is Coming!\" media boomlets of the 1970s. (WIRED)",
+          "blocks": [
+            {
+              "type": "heading_1",
+              "runs": [
+                {
+                  "text": "Sunday, November 1, 2026 - Midday Edition",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Today's Numbers",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "8%",
+                  "url": "https://firesidealphah.substack.com/p/bridgewater-cio-greg-jensen-global",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": the share of corporate wages that AI inference spending must hit by Q4 2028, up from 1.5% today (and over 100% of today's corporate software spend), to justify the current AI buildout, says Bridgewater CIO Greg Jensen. Stripe's John Collison says his token spend is about 1% of opex with a target of 20%. Jensen's catch: getting there requires a labor recession, productivity gains, or both.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "$2 billion",
+                  "url": "https://www.lennysnewsletter.com/p/how-a-19-year-old-intern-built-the",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": the valuation Wispr Flow raised at after growing revenue 30x in a year, powered by a 50-creator paid-UGC machine pushing 500 to 600 ads a month, with the best creators earning over $13,000 a month. It was built by Hector Serrano, who joined as Head of Content at 19, before the product had found its market.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "41,000",
+                  "url": "https://www.wired.com/",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": DHS workers exposed in a massive leak, including undercover ICE agents, with facility locations, cell phone numbers, and membership in groups tied to wiretap programs, Palantir software, and xAI's Grok chatbot, per WIRED.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "40,000",
+                  "url": "https://www.natesilver.net/p/13-morning-after-the-midterm-maps",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": midterm simulations Nate Silver's FLIPR model ran Saturday. Silver curated 13 maps, from the base case to deliberately weird ones, and gives Democrats roughly 3-to-1 odds of taking the Senate. His warning: in about 20% of simulations the Senate comes down to exactly one state, and slow-counting Alaska (with ranked-choice voting) means we may not know the winner on Wednesday morning.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Quotes of the Day",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "\"ceaselessly curious but somehow impervious to deep learning\" (John Caramanica, The New York Times, on streamer IShowSpeed, whose chaotic marathon live streams he calls the future of media)",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "\"The process and work involved in thinking through situations, through my work, through my ethics, through the way I handle other people, is a key component in being able to develop myself as a moral person. And offloading that labor, regardless of whether it's taxing or not, is undercutting my ability to be a moral actor.\" (a Kentucky man, explaining the religious exemption from using AI at work that his employer granted him, via Religion News Service)",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "\"purely partisan\" (U.S. District Judge Jennifer L. Rochon, ordering the Trump administration to pull three taxpayer-funded ads, including \"$5,000 to Americans,\" ruling they likely violate federal rules against using government money for propaganda)",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Midterm Eve",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "A fiance defects in Michigan.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " Jason Turkish, the fiance of Rep. Haley Stevens and a self-described lifelong Democrat, told Fox & Friends he is voting for Republican Mike Rogers over Democratic Senate nominee Abdul El-Sayed. The deciding moment came in a debate, when El-Sayed would not say Iran is a greater threat to the U.S. than Israel. \"This is a regime that has spilled American blood, whose leaders lead chants of death to America,\" Turkish said. Nancy Pelosi piled on, calling El-Sayed's view that Israel has no right to exist as a Jewish state \"wrong,\" though her team says she still backs the nominee. Polls have El-Sayed ahead 48 to 49% against 44 to 45% for Rogers, in an open-seat race that could decide control of the Senate. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "NLDR Media",
+                  "url": "https://thejefferymead.substack.com/p/morning-briefing-november-1-2026",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "The Greenland Deal",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "A permanent Arctic footprint.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " On September 22, Trump, Danish prime minister Mette Frederiksen, and Greenlandic prime minister Jens Frederik Nielsen signed a trilateral agreement at the UN amending the 1951 U.S.-Denmark defense pact on Greenland. It grants the U.S. permanent military access, basing, and overflight rights, modernizes and expands Pituffik Space Base, adds defense areas at Narsarsuaq and Mestersvig, and bars non-NATO countries (read: China and Russia) from military installations or a persistent troop presence. There is no expiration date, and it stays in force even if Greenland becomes independent, as long as it remains in NATO. Secretary of State Marco Rubio called it \"a huge win for the United States,\" while Trump framed it as permanent U.S. control over Greenland's security needs at no cost to taxpayers, stopping short of transferring sovereignty. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "NLDR Media",
+                  "url": "https://thejefferymead.substack.com/p/morning-briefing-november-1-2026",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "The Internet, Unfiltered",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Sorry, you're not notable.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " WIRED's Duncan Fyfe emailed hundreds of living people whose Wikipedia biographies were deleted for failing the site's hazy \"notable\" standard, and asked what it is like to watch total strangers debate your life's meaning in public. The result is a funny romp that lands on a real question: what makes any person's life worth documenting? (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "WIRED",
+                  "url": "https://www.wired.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "The filter that started the teen reckoning.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " Everyone traces the teen social media reckoning to Frances Haugen or phone panic, but Bloomberg Businessweek argues the real catalyst was Snapchat's speed filter, linked to multiple fatal crashes involving teen drivers. Litigation over the filter let lawyers test a novel theory, that platforms can be liable for dangerous product design even when they are not liable for user content, and that theory now powers the flood of social media lawsuits. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Bloomberg Businessweek",
+                  "url": "https://www.bloomberg.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Signs of the Times",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Harvard's hottest class is Homer.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " The most popular course at Harvard right now is a rigorous freshman humanities class where students read a hefty book a week, Homer to Shakespeare to Baldwin to Joyce, to inoculate themselves against brain rot and AI. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "The Wall Street Journal",
+                  "url": "https://www.wsj.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Quick Hits & Curiosities",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Arizona's U.S. attorney opened a federal case into reports that three nonprofits (Stand Indivisible Arizona, Worker Power, and the DNC's When We Count program) registered non-citizens to vote, based on undercover Muckraker footage; the matter is now with the FBI. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "NLDR Media",
+                  "url": "https://thejefferymead.substack.com/p/morning-briefing-november-1-2026",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Anthropic and OpenAI say they have disproved a key tenet of computer science. Researchers are reeling, but also feel like \"overexcited bunnies\" at the new questions it opens up. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "WIRED",
+                  "url": "https://www.wired.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Burning fossil fuels may have staved off another ice age, scientists found last week. WIRED readers note the theory is decades old, and remember the \"Ice Age is Coming!\" media boomlets of the 1970s. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "WIRED",
+                  "url": "https://www.wired.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            }
+          ],
+          "links": [
+            {
+              "title": "8%",
+              "url": "https://firesidealphah.substack.com/p/bridgewater-cio-greg-jensen-global"
+            },
+            {
+              "title": "$2 billion",
+              "url": "https://www.lennysnewsletter.com/p/how-a-19-year-old-intern-built-the"
+            },
+            {
+              "title": "WIRED",
+              "url": "https://www.wired.com/"
+            },
+            {
+              "title": "40,000",
+              "url": "https://www.natesilver.net/p/13-morning-after-the-midterm-maps"
+            },
+            {
+              "title": "NLDR Media",
+              "url": "https://thejefferymead.substack.com/p/morning-briefing-november-1-2026"
+            },
+            {
+              "title": "Bloomberg Businessweek",
+              "url": "https://www.bloomberg.com/"
+            },
+            {
+              "title": "The Wall Street Journal",
+              "url": "https://www.wsj.com/"
+            }
+          ]
+        },
         "full": {
-          "body": "Sunday, November 1, 2026 - Morning Edition\n\nToday's Numbers\n\n• 140 million: miles from Earth, where NASA's Mars Odyssey and Mars Reconnaissance Orbiter keep working, decades past their expected lifespans. Odyssey arrived at Mars in 2001, and its observations rewrote the story of water on the planet.\n\n• 25,000: anonymized calls from the Fireside Project's Psychedelic Support Line, now in a public database that scientists analyzed. They found something disturbing in there.\n\n• 6: AI agents one WIRED reporter tested for a full day, from Meta's Muse to Anthropic's Claude Duet, ranked on how well they handled basic tasks.\n\nQuotes of the Day\n\n• \"Spite makes you work harder. Curiosity makes you work longer. Discipline is what you need when you have neither.\" (Shane Parrish, opening this week's Brain Food)\n\n• \"I never feared my skills because I put in the work. Work ethic eliminates fear.\" (Michael Jordan, on eliminating fear)\n\n• \"Many problems have a hard core at the center, surrounded by easier stuff at the edges. Working hard means aiming toward the center to the extent you can.\" (Paul Graham, on how to actually work hard)\n\nAI & The Machines\n\n• The malware that hired an AI analyst. A new infostealer called Volta-Autodoxer does not just steal your passwords, crypto wallet seed phrases, and Discord sessions. It bundles everything it learns into an \"evidence bundle\" and sends it to an AI model, which writes back a dossier: what you are worth, which accounts to hit first, and how sloppy your security hygiene is. Cisco Talos found the malware defaults to Claude Opus 4.6 and quietly falls back to Kimi K2, then Gemini 2.5 Flash, if a model refuses. Talos has not seen it in the wild yet, but someone built a working prototype. (WIRED)\n\n• Your next emergency alert might be written by a chatbot. Emergency managers are quietly drafting alerts with ChatGPT and Gemini, and startups now sell AI tools to emergency departments. A Grist and WIRED report warns it could backfire: people trust alerts that feel authentic, AI slop could erode that trust, and one Alabama emergency manager already published an AI-generated graphic about a Hurricane Isaias \"sting jet\" that was flat-out wrong. (WIRED)\n\nMoney & Power\n\n• Flock's CEO does not believe his own backlash. In leaked audio from a private police conference, the CEO of Flock, the license-plate-reader company blanketing American roads, told cops the backlash against his company is not real, and passed along his wife's advice to never apologize. (404 Media)\n\n• Someone opened a CashApp in her name, and now she faces prison. A woman is facing years behind bars because a stranger opened a CashApp account in her name. It is the kind of identity-theft nightmare that sounds like a bureaucratic glitch until it ruins your life. (404 Media)\n\nThe Culture\n\n• The Department of Education posted an incel meme. The DOE's X account shared a \"There's Magic in Learning\" image referencing \"Malfoid,\" a gender-swapped Draco Malfoy meme that mashes Malfoy together with an incel slur. When WIRED asked about it, the department answered by quoting Dumbledore. (WIRED)\n\n• Marissa Mayer cannot keep pretending gender does not matter. 404 Media's podcast digs into why the former Yahoo CEO's insistence that gender is irrelevant no longer holds up. (404 Media)\n\nQuick Hits & Curiosities\n\n• Steven Kotler, who runs the Flow Research Collective, sat down with Shane Parrish to talk about the actual science of doing your best work: how to focus better, learn faster, and hit peak performance. (The Knowledge Project)\n\n• Ruby's Recs is spending the month on motherhood books: deciding whether to have kids, surviving pregnancy and new parenthood, and reckoning with the mothers who raised us. Funny, serious, and honest about an experience that usually gets romanticized. (Ruby's Recs)",
+          "body": "Sunday, November 1, 2026 - Morning Edition\n\nToday's Numbers\n\n• 140 million: miles from Earth, where NASA's Mars Odyssey and Mars Reconnaissance Orbiter keep working, decades past their expected lifespans. Odyssey arrived at Mars in 2001, and its observations rewrote the story of water on the planet.\n\n• 25,000: anonymized calls from the Fireside Project's Psychedelic Support Line, now in a public database that scientists analyzed. They found something disturbing in there.\n\n• 6: AI agents one WIRED reporter tested for a full day, from Meta's Muse to Anthropic's Claude Duet, ranked on how well they handled basic tasks.\n\nQuotes of the Day\n\n• \"Spite makes you work harder. Curiosity makes you work longer. Discipline is what you need when you have neither.\" (Shane Parrish, opening this week's Brain Food)\n\n• \"I never feared my skills because I put in the work. Work ethic eliminates fear.\" (Michael Jordan, on eliminating fear)\n\n• \"Many problems have a hard core at the center, surrounded by easier stuff at the edges. Working hard means aiming toward the center to the extent you can.\" (Paul Graham, on how to actually work hard)\n\nAI & The Machines\n\n• The malware that hired an AI analyst. A new infostealer called Volta-Autodoxer does not just steal your passwords, crypto wallet seed phrases, and Discord sessions. It bundles everything it learns into an \"evidence bundle\" and sends it to an AI model, which writes back a dossier: what you are worth, which accounts to hit first, and how sloppy your security hygiene is. Cisco Talos found the malware defaults to Claude Opus 4.6 and quietly falls back to Kimi K2, then Gemini 2.5 Flash, if a model refuses. Talos has not seen it in the wild yet, but someone built a working prototype. (WIRED)\n\n• Your next emergency alert might be written by a chatbot. Emergency managers are quietly drafting alerts with ChatGPT and Gemini, and startups now sell AI tools to emergency departments. A Grist and WIRED report warns it could backfire: people trust alerts that feel authentic, AI slop could erode that trust, and one Alabama emergency manager already published an AI-generated graphic about a Hurricane Isaias \"sting jet\" that was flat-out wrong. (WIRED)\n\nMoney & Power\n\n• Flock's CEO does not believe his own backlash. In leaked audio from a private police conference, the CEO of Flock, the license-plate-reader company blanketing American roads, told cops the backlash against his company is not real, and passed along his wife's advice to never apologize. (404 Media)\n\n• Someone opened a CashApp in her name, and now she faces prison. A woman is facing years behind bars because a stranger opened a CashApp account in her name. It is the kind of identity-theft nightmare that sounds like a bureaucratic glitch until it ruins your life. (404 Media)\n\nThe Culture\n\n• The Department of Education posted an incel meme. The DOE's X account shared a \"There's Magic in Learning\" image referencing \"Malfoid,\" a gender-swapped Draco Malfoy meme that mashes Malfoy together with an incel slur. When WIRED asked about it, the department answered by quoting Dumbledore. (WIRED)\n\n• Marissa Mayer cannot keep pretending gender does not matter. 404 Media's podcast digs into why the former Yahoo CEO's insistence that gender is irrelevant no longer holds up. (404 Media)\n\nQuick Hits & Curiosities\n\n• Steven Kotler, who runs the Flow Research Collective, sat down with Shane Parrish to talk about the actual science of doing your best work: how to focus better, learn faster, and hit peak performance. (The Knowledge Project)\n\n• Ruby's Recs is spending the month on motherhood books: deciding whether to have kids, surviving pregnancy and new parenthood, and reckoning with the mothers who raised us. Funny, serious, and honest about an experience that usually gets romanticized. (Ruby's Recs)\n\nSunday, November 1, 2026 - Midday Edition\n\nToday's Numbers\n\n• 8%: the share of corporate wages that AI inference spending must hit by Q4 2028, up from 1.5% today (and over 100% of today's corporate software spend), to justify the current AI buildout, says Bridgewater CIO Greg Jensen. Stripe's John Collison says his token spend is about 1% of opex with a target of 20%. Jensen's catch: getting there requires a labor recession, productivity gains, or both.\n\n• $2 billion: the valuation Wispr Flow raised at after growing revenue 30x in a year, powered by a 50-creator paid-UGC machine pushing 500 to 600 ads a month, with the best creators earning over $13,000 a month. It was built by Hector Serrano, who joined as Head of Content at 19, before the product had found its market.\n\n• 41,000: DHS workers exposed in a massive leak, including undercover ICE agents, with facility locations, cell phone numbers, and membership in groups tied to wiretap programs, Palantir software, and xAI's Grok chatbot, per WIRED.\n\n• 40,000: midterm simulations Nate Silver's FLIPR model ran Saturday. Silver curated 13 maps, from the base case to deliberately weird ones, and gives Democrats roughly 3-to-1 odds of taking the Senate. His warning: in about 20% of simulations the Senate comes down to exactly one state, and slow-counting Alaska (with ranked-choice voting) means we may not know the winner on Wednesday morning.\n\nQuotes of the Day\n\n• \"ceaselessly curious but somehow impervious to deep learning\" (John Caramanica, The New York Times, on streamer IShowSpeed, whose chaotic marathon live streams he calls the future of media)\n\n• \"The process and work involved in thinking through situations, through my work, through my ethics, through the way I handle other people, is a key component in being able to develop myself as a moral person. And offloading that labor, regardless of whether it's taxing or not, is undercutting my ability to be a moral actor.\" (a Kentucky man, explaining the religious exemption from using AI at work that his employer granted him, via Religion News Service)\n\n• \"purely partisan\" (U.S. District Judge Jennifer L. Rochon, ordering the Trump administration to pull three taxpayer-funded ads, including \"$5,000 to Americans,\" ruling they likely violate federal rules against using government money for propaganda)\n\nMidterm Eve\n\n• A fiance defects in Michigan. Jason Turkish, the fiance of Rep. Haley Stevens and a self-described lifelong Democrat, told Fox & Friends he is voting for Republican Mike Rogers over Democratic Senate nominee Abdul El-Sayed. The deciding moment came in a debate, when El-Sayed would not say Iran is a greater threat to the U.S. than Israel. \"This is a regime that has spilled American blood, whose leaders lead chants of death to America,\" Turkish said. Nancy Pelosi piled on, calling El-Sayed's view that Israel has no right to exist as a Jewish state \"wrong,\" though her team says she still backs the nominee. Polls have El-Sayed ahead 48 to 49% against 44 to 45% for Rogers, in an open-seat race that could decide control of the Senate. (NLDR Media)\n\nThe Greenland Deal\n\n• A permanent Arctic footprint. On September 22, Trump, Danish prime minister Mette Frederiksen, and Greenlandic prime minister Jens Frederik Nielsen signed a trilateral agreement at the UN amending the 1951 U.S.-Denmark defense pact on Greenland. It grants the U.S. permanent military access, basing, and overflight rights, modernizes and expands Pituffik Space Base, adds defense areas at Narsarsuaq and Mestersvig, and bars non-NATO countries (read: China and Russia) from military installations or a persistent troop presence. There is no expiration date, and it stays in force even if Greenland becomes independent, as long as it remains in NATO. Secretary of State Marco Rubio called it \"a huge win for the United States,\" while Trump framed it as permanent U.S. control over Greenland's security needs at no cost to taxpayers, stopping short of transferring sovereignty. (NLDR Media)\n\nThe Internet, Unfiltered\n\n• Sorry, you're not notable. WIRED's Duncan Fyfe emailed hundreds of living people whose Wikipedia biographies were deleted for failing the site's hazy \"notable\" standard, and asked what it is like to watch total strangers debate your life's meaning in public. The result is a funny romp that lands on a real question: what makes any person's life worth documenting? (WIRED)\n\n• The filter that started the teen reckoning. Everyone traces the teen social media reckoning to Frances Haugen or phone panic, but Bloomberg Businessweek argues the real catalyst was Snapchat's speed filter, linked to multiple fatal crashes involving teen drivers. Litigation over the filter let lawyers test a novel theory, that platforms can be liable for dangerous product design even when they are not liable for user content, and that theory now powers the flood of social media lawsuits. (Bloomberg Businessweek)\n\nSigns of the Times\n\n• Harvard's hottest class is Homer. The most popular course at Harvard right now is a rigorous freshman humanities class where students read a hefty book a week, Homer to Shakespeare to Baldwin to Joyce, to inoculate themselves against brain rot and AI. (The Wall Street Journal)\n\nQuick Hits & Curiosities\n\n• Arizona's U.S. attorney opened a federal case into reports that three nonprofits (Stand Indivisible Arizona, Worker Power, and the DNC's When We Count program) registered non-citizens to vote, based on undercover Muckraker footage; the matter is now with the FBI. (NLDR Media)\n\n• Anthropic and OpenAI say they have disproved a key tenet of computer science. Researchers are reeling, but also feel like \"overexcited bunnies\" at the new questions it opens up. (WIRED)\n\n• Burning fossil fuels may have staved off another ice age, scientists found last week. WIRED readers note the theory is decades old, and remember the \"Ice Age is Coming!\" media boomlets of the 1970s. (WIRED)",
           "blocks": [
             {
               "type": "heading_1",
@@ -212060,6 +212476,409 @@
                   "italic": false
                 }
               ]
+            },
+            {
+              "type": "heading_1",
+              "runs": [
+                {
+                  "text": "Sunday, November 1, 2026 - Midday Edition",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Today's Numbers",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "8%",
+                  "url": "https://firesidealphah.substack.com/p/bridgewater-cio-greg-jensen-global",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": the share of corporate wages that AI inference spending must hit by Q4 2028, up from 1.5% today (and over 100% of today's corporate software spend), to justify the current AI buildout, says Bridgewater CIO Greg Jensen. Stripe's John Collison says his token spend is about 1% of opex with a target of 20%. Jensen's catch: getting there requires a labor recession, productivity gains, or both.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "$2 billion",
+                  "url": "https://www.lennysnewsletter.com/p/how-a-19-year-old-intern-built-the",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": the valuation Wispr Flow raised at after growing revenue 30x in a year, powered by a 50-creator paid-UGC machine pushing 500 to 600 ads a month, with the best creators earning over $13,000 a month. It was built by Hector Serrano, who joined as Head of Content at 19, before the product had found its market.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "41,000",
+                  "url": "https://www.wired.com/",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": DHS workers exposed in a massive leak, including undercover ICE agents, with facility locations, cell phone numbers, and membership in groups tied to wiretap programs, Palantir software, and xAI's Grok chatbot, per WIRED.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "40,000",
+                  "url": "https://www.natesilver.net/p/13-morning-after-the-midterm-maps",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": midterm simulations Nate Silver's FLIPR model ran Saturday. Silver curated 13 maps, from the base case to deliberately weird ones, and gives Democrats roughly 3-to-1 odds of taking the Senate. His warning: in about 20% of simulations the Senate comes down to exactly one state, and slow-counting Alaska (with ranked-choice voting) means we may not know the winner on Wednesday morning.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Quotes of the Day",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "\"ceaselessly curious but somehow impervious to deep learning\" (John Caramanica, The New York Times, on streamer IShowSpeed, whose chaotic marathon live streams he calls the future of media)",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "\"The process and work involved in thinking through situations, through my work, through my ethics, through the way I handle other people, is a key component in being able to develop myself as a moral person. And offloading that labor, regardless of whether it's taxing or not, is undercutting my ability to be a moral actor.\" (a Kentucky man, explaining the religious exemption from using AI at work that his employer granted him, via Religion News Service)",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "\"purely partisan\" (U.S. District Judge Jennifer L. Rochon, ordering the Trump administration to pull three taxpayer-funded ads, including \"$5,000 to Americans,\" ruling they likely violate federal rules against using government money for propaganda)",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Midterm Eve",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "A fiance defects in Michigan.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " Jason Turkish, the fiance of Rep. Haley Stevens and a self-described lifelong Democrat, told Fox & Friends he is voting for Republican Mike Rogers over Democratic Senate nominee Abdul El-Sayed. The deciding moment came in a debate, when El-Sayed would not say Iran is a greater threat to the U.S. than Israel. \"This is a regime that has spilled American blood, whose leaders lead chants of death to America,\" Turkish said. Nancy Pelosi piled on, calling El-Sayed's view that Israel has no right to exist as a Jewish state \"wrong,\" though her team says she still backs the nominee. Polls have El-Sayed ahead 48 to 49% against 44 to 45% for Rogers, in an open-seat race that could decide control of the Senate. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "NLDR Media",
+                  "url": "https://thejefferymead.substack.com/p/morning-briefing-november-1-2026",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "The Greenland Deal",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "A permanent Arctic footprint.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " On September 22, Trump, Danish prime minister Mette Frederiksen, and Greenlandic prime minister Jens Frederik Nielsen signed a trilateral agreement at the UN amending the 1951 U.S.-Denmark defense pact on Greenland. It grants the U.S. permanent military access, basing, and overflight rights, modernizes and expands Pituffik Space Base, adds defense areas at Narsarsuaq and Mestersvig, and bars non-NATO countries (read: China and Russia) from military installations or a persistent troop presence. There is no expiration date, and it stays in force even if Greenland becomes independent, as long as it remains in NATO. Secretary of State Marco Rubio called it \"a huge win for the United States,\" while Trump framed it as permanent U.S. control over Greenland's security needs at no cost to taxpayers, stopping short of transferring sovereignty. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "NLDR Media",
+                  "url": "https://thejefferymead.substack.com/p/morning-briefing-november-1-2026",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "The Internet, Unfiltered",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Sorry, you're not notable.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " WIRED's Duncan Fyfe emailed hundreds of living people whose Wikipedia biographies were deleted for failing the site's hazy \"notable\" standard, and asked what it is like to watch total strangers debate your life's meaning in public. The result is a funny romp that lands on a real question: what makes any person's life worth documenting? (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "WIRED",
+                  "url": "https://www.wired.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "The filter that started the teen reckoning.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " Everyone traces the teen social media reckoning to Frances Haugen or phone panic, but Bloomberg Businessweek argues the real catalyst was Snapchat's speed filter, linked to multiple fatal crashes involving teen drivers. Litigation over the filter let lawyers test a novel theory, that platforms can be liable for dangerous product design even when they are not liable for user content, and that theory now powers the flood of social media lawsuits. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Bloomberg Businessweek",
+                  "url": "https://www.bloomberg.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Signs of the Times",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Harvard's hottest class is Homer.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " The most popular course at Harvard right now is a rigorous freshman humanities class where students read a hefty book a week, Homer to Shakespeare to Baldwin to Joyce, to inoculate themselves against brain rot and AI. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "The Wall Street Journal",
+                  "url": "https://www.wsj.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Quick Hits & Curiosities",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Arizona's U.S. attorney opened a federal case into reports that three nonprofits (Stand Indivisible Arizona, Worker Power, and the DNC's When We Count program) registered non-citizens to vote, based on undercover Muckraker footage; the matter is now with the FBI. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "NLDR Media",
+                  "url": "https://thejefferymead.substack.com/p/morning-briefing-november-1-2026",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Anthropic and OpenAI say they have disproved a key tenet of computer science. Researchers are reeling, but also feel like \"overexcited bunnies\" at the new questions it opens up. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "WIRED",
+                  "url": "https://www.wired.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Burning fossil fuels may have staved off another ice age, scientists found last week. WIRED readers note the theory is decades old, and remember the \"Ice Age is Coming!\" media boomlets of the 1970s. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "WIRED",
+                  "url": "https://www.wired.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
             }
           ],
           "links": [
@@ -212098,6 +212917,30 @@
             {
               "title": "Ruby's Recs",
               "url": "https://rubysrecs.substack.com/p/the-mother-load"
+            },
+            {
+              "title": "8%",
+              "url": "https://firesidealphah.substack.com/p/bridgewater-cio-greg-jensen-global"
+            },
+            {
+              "title": "$2 billion",
+              "url": "https://www.lennysnewsletter.com/p/how-a-19-year-old-intern-built-the"
+            },
+            {
+              "title": "40,000",
+              "url": "https://www.natesilver.net/p/13-morning-after-the-midterm-maps"
+            },
+            {
+              "title": "NLDR Media",
+              "url": "https://thejefferymead.substack.com/p/morning-briefing-november-1-2026"
+            },
+            {
+              "title": "Bloomberg Businessweek",
+              "url": "https://www.bloomberg.com/"
+            },
+            {
+              "title": "The Wall Street Journal",
+              "url": "https://www.wsj.com/"
             }
           ]
         }
