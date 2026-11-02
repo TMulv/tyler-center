@@ -219860,6 +219860,396 @@
           ]
         }
       }
+    },
+    {
+      "id": "digest-aaacddf6-418e-4ab8-9a97-bc9280cc964d",
+      "channel": "newsletters",
+      "source": "notion",
+      "kind": "Agent-written digest",
+      "domain": "Daily newsletter digest",
+      "title": "The AI Bill, the Wicker Heartthrob, and a Potatohead for the Mind",
+      "url": "",
+      "description": "A dispatch from today’s inbox: the internet is getting stranger, AI is getting more expensive, and the best antidotes remain soup, slower reading, and a deliberate refusal to let an algorithm choose your nervous system.",
+      "body": "A dispatch from today’s inbox: the internet is getting stranger, AI is getting more expensive, and the best antidotes remain soup, slower reading, and a deliberate refusal to let an algorithm choose your nervous system.\n\nBest links\n\nInstagram’s tiny hate machine. Garbage Day’s field report found that a relatively small network of well-funded, hyperlocal accounts drove most of the anti-trans ballot-measure content on Instagram in five states — while similar posts barely traveled on TikTok. The sharp insight is less “algorithms are mysterious” than “platform architecture decides whose weird neighbor becomes everybody’s problem.”\n\nThe Proton AI backlash, in one clean arc. Proton’s CEO canceled planned AI “re-interviews” after employees and users pushed back on a process that could have judged workers by how much AI they used. The broader warning: “move faster” is not a security policy, and the AI pivot can make a privacy company look like it has forgotten why people trusted it.\n\nThe fanfiction emergency. AO3 is still down after a security incident, possibly for a month. The resulting cultural vacuum is a tiny but perfect internet parable: when one beloved, weird, nonprofit archive disappears, people discover how few replacements are actually the same thing.\n\nIdeas to steal\n\nStop looking for one perfect AI agent. Lenny’s roundup of a nine-task benchmark split the field by job: Grok Bot won the work-oriented tasks, Muse was strongest for personal and creative work, while Claude and Codex still looked better for serious coding. The useful conclusion is operational, not tribal: assign agents by task instead of expecting one assistant to be universally good.\n\nBuild the boring layer first. Figma’s PM OS is a shared repository of 31 AI skills aimed at work people routinely skip: documenting meetings, finding the right collaborators, involving support, and testing products thoroughly. One “what’s up” skill runs about six times a day; a browser agent bug-bashes with a test account and catches edge cases humans miss. The lesson: automate the neglected minimum standard before chasing magic.\n\nProtect the blank space. Potato Head creative director Dan Mitchell keeps Are.na close, but wants more things done with his hands and less attention ceded to screens. His reading method — slow, start to finish, Post-its and a notebook nearby — sounds almost offensively simple, which may be why it works.\n\nThe signal desk\n\nA resort as a creative village. WHAT’S ANU’s account of Potatohead in Bali describes a place combining local design, restaurants, natural-dye workshops, cooking classes, energy healing, nightlife, and tangible sustainability. It’s less “hotel with amenities” than a small ecosystem with a point of view — a useful model for any brand trying to turn values into an environment rather than a slogan.\n\nNew words for old behavior. The same issue tracks “humanwashing,” the apparent spread of AI faces as the new Instagram face, and the return of “woo-woo” health. The cultural pattern underneath: people are hungry for signals of human texture, even as platforms industrialize the appearance of it.\n\nFood & places\n\nDinner in 35 minutes: NYT Cooking’s sausage orzo uses sage-infused brown butter, toasted breadcrumbs, Parmesan, and a one-pot method. It also has a good modular spine: swap the sausage for white beans, add spinach or kale, and trade sage for rosemary, oregano, or thyme. Cozy without being precious.\n\nA place to put on the long list: Toraja, in Sulawesi, where Mitchell was struck by the architecture, craft, ritual food, and a different relationship to life, death, and remembrance. The recommendation comes with the correct qualifier: go with time, curiosity, and respect.\n\nObjects with backstories\n\nThe waxed-jacket personality test. InsideHook makes the Flint and Tinder waxed jacket into a miniature taxonomy of rugged-but-refined male self-invention: flannel-lined trucker, field coat, snap jacket, or full winter parka. Nearby, Sperry and Colbo NYC have produced a $225 split-top leather loafer-slipper hybrid — a boat-shoe brand briefly wandering into Lemaire territory.\n\nNervous-system weather\n\nDan Harris offers five corrections for election-season anxiety: self-care is not selfish; acceptance is not complacency; surrender is not resignation; anger is not the only fuel; and staying informed does not require compulsive checking. The best reframing is that anger often contains care underneath it — and care, or love, is “cleaner-burning fuel.” Also: never worry alone.\n\nInternet oddities\n\nWicker, but make it thirst trap. A new romantic comedy has Alexander Skarsgård playing a man made of wicker who became an internet sex symbol. The costume took 80 specialists 18 months and 50 interlocking 3-D-printed pieces — and professional basket makers remain unimpressed because it is not, technically, wicker.\n\nThe AI bill keeps coming due. Snacks’ earnings roundup says Meta, Google, Microsoft, and Amazon have spent a combined $1.28 trillion on capital expenditures since ChatGPT went public, while AI revenue and cash flow remain less convincing than the spending. The newsletter’s most honest question: what if there is no obvious prize at the finish line?\n\nOne-liners\n\n• “Buddy, I know you can cook.” — the correct tone for restarting a bad AI conversation.\n\n• Make a place that behaves like an ecosystem, not a brochure.\n\n• Wicker is apparently a technical category, not merely a vibe.\n\n• Put the phone down before the algorithm convinces you that outrage is a hobby.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "A dispatch from today’s inbox: the internet is getting stranger, AI is getting more expensive, and the best antidotes remain soup, slower reading, and a deliberate refusal to let an algorithm choose your nervous system.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "heading_2",
+          "runs": [
+            {
+              "text": "Best links",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Instagram’s tiny hate machine.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " Garbage Day’s field report found that a relatively small network of well-funded, hyperlocal accounts drove most of the anti-trans ballot-measure content on Instagram in five states — while similar posts barely traveled on TikTok. The sharp insight is less “algorithms are mysterious” than “platform architecture decides whose weird neighbor becomes everybody’s problem.” ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "The Proton AI backlash, in one clean arc.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " Proton’s CEO canceled planned AI “re-interviews” after employees and users pushed back on a process that could have judged workers by how much AI they used. The broader warning: “move faster” is not a security policy, and the AI pivot can make a privacy company look like it has forgotten why people trusted it. ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "The fanfiction emergency.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " AO3 is still down after a security incident, possibly for a month. The resulting cultural vacuum is a tiny but perfect internet parable: when one beloved, weird, nonprofit archive disappears, people discover how few replacements are actually the same thing. ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "heading_2",
+          "runs": [
+            {
+              "text": "Ideas to steal",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Stop looking for one perfect AI agent.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " Lenny’s roundup of a nine-task benchmark split the field by job: Grok Bot won the work-oriented tasks, Muse was strongest for personal and creative work, while Claude and Codex still looked better for serious coding. The useful conclusion is operational, not tribal: assign agents by task instead of expecting one assistant to be universally good. ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Build the boring layer first.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " Figma’s PM OS is a shared repository of 31 AI skills aimed at work people routinely skip: documenting meetings, finding the right collaborators, involving support, and testing products thoroughly. One “what’s up” skill runs about six times a day; a browser agent bug-bashes with a test account and catches edge cases humans miss. The lesson: automate the neglected minimum standard before chasing magic. ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Protect the blank space.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " Potato Head creative director Dan Mitchell keeps Are.na close, but wants more things done with his hands and less attention ceded to screens. His reading method — slow, start to finish, Post-its and a notebook nearby — sounds almost offensively simple, which may be why it works. ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "heading_2",
+          "runs": [
+            {
+              "text": "The signal desk",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "A resort as a creative village.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " WHAT’S ANU’s account of Potatohead in Bali describes a place combining local design, restaurants, natural-dye workshops, cooking classes, energy healing, nightlife, and tangible sustainability. It’s less “hotel with amenities” than a small ecosystem with a point of view — a useful model for any brand trying to turn values into an environment rather than a slogan. ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "New words for old behavior.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " The same issue tracks “humanwashing,” the apparent spread of AI faces as the new Instagram face, and the return of “woo-woo” health. The cultural pattern underneath: people are hungry for signals of human texture, even as platforms industrialize the appearance of it. ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "heading_2",
+          "runs": [
+            {
+              "text": "Food & places",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Dinner in 35 minutes:",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " NYT Cooking’s sausage orzo uses sage-infused brown butter, toasted breadcrumbs, Parmesan, and a one-pot method. It also has a good modular spine: swap the sausage for white beans, add spinach or kale, and trade sage for rosemary, oregano, or thyme. Cozy without being precious. ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "A place to put on the long list:",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " Toraja, in Sulawesi, where Mitchell was struck by the architecture, craft, ritual food, and a different relationship to life, death, and remembrance. The recommendation comes with the correct qualifier: go with time, curiosity, and respect. ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "heading_2",
+          "runs": [
+            {
+              "text": "Objects with backstories",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "The waxed-jacket personality test.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " InsideHook makes the Flint and Tinder waxed jacket into a miniature taxonomy of rugged-but-refined male self-invention: flannel-lined trucker, field coat, snap jacket, or full winter parka. Nearby, Sperry and Colbo NYC have produced a $225 split-top leather loafer-slipper hybrid — a boat-shoe brand briefly wandering into Lemaire territory. ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "heading_2",
+          "runs": [
+            {
+              "text": "Nervous-system weather",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Dan Harris offers five corrections for election-season anxiety: self-care is not selfish; acceptance is not complacency; surrender is not resignation; anger is not the only fuel; and staying informed does not require compulsive checking. The best reframing is that anger often contains care underneath it — and care, or love, is “cleaner-burning fuel.” Also: never worry alone. ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "heading_2",
+          "runs": [
+            {
+              "text": "Internet oddities",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Wicker, but make it thirst trap.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " A new romantic comedy has Alexander Skarsgård playing a man made of wicker who became an internet sex symbol. The costume took 80 specialists 18 months and 50 interlocking 3-D-printed pieces — and professional basket makers remain unimpressed because it is not, technically, wicker. ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "The AI bill keeps coming due.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " Snacks’ earnings roundup says Meta, Google, Microsoft, and Amazon have spent a combined $1.28 trillion on capital expenditures since ChatGPT went public, while AI revenue and cash flow remain less convincing than the spending. The newsletter’s most honest question: what if there is no obvious prize at the finish line? ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "heading_2",
+          "runs": [
+            {
+              "text": "One-liners",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "“Buddy, I know you can cook.” — the correct tone for restarting a bad AI conversation. ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Make a place that behaves like an ecosystem, not a brochure. ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Wicker is apparently a technical category, not merely a vibe. ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Put the phone down before the algorithm convinces you that outrage is a hobby. ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        }
+      ],
+      "publishedAt": "2026-11-02T22:04:00Z",
+      "links": []
     }
   ]
 }
