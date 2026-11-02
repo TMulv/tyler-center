@@ -999,6 +999,24 @@
       "url": "https://colossus.com/article/sane-asylum-turbopuffer",
       "publishedAt": "2026-10-28T17:05:00Z",
       "readingStatus": "To Read"
+    },
+    {
+      "id": "readlater-40c8153c8a3e8047bf0ddcefb62bd1ec",
+      "channel": "articles",
+      "source": "notion",
+      "title": "OpenAI’s Hollywood Whisperer \nCharles Porch is rich, super-connected, and tasked with getting celebrities (and everyone else) to not hate AI so much.",
+      "url": "",
+      "publishedAt": "2026-11-02T20:50:00Z",
+      "readingStatus": "To Read"
+    },
+    {
+      "id": "readlater-40c8153c8a3e80159effc6bd278342db",
+      "channel": "articles",
+      "source": "notion",
+      "title": "Becoming a Better Writer",
+      "url": "",
+      "publishedAt": "2026-11-02T20:53:00Z",
+      "readingStatus": "To Read"
     }
   ]
 }
