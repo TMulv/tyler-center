@@ -220654,6 +220654,1985 @@
       ],
       "publishedAt": "2026-11-02T22:04:00Z",
       "links": []
+    },
+    {
+      "id": "digest-40d8153c-8a3e-813e-a33e-f76828f7d518",
+      "channel": "newsletters",
+      "source": "notion",
+      "kind": "Agent-written digest",
+      "domain": "Daily newsletter digest",
+      "title": "Democrats poised for a midterm sweep, Anthropic's IPO mints seven $14B cofounders, Mamdani takes on the AI bubble - Tuesday, November 3, 2026",
+      "url": "",
+      "description": "Tuesday, November 3, 2026 - Morning Edition",
+      "body": "Tuesday, November 3, 2026 - Morning Edition\n\nToday's Numbers\n\n• 94%: prediction markets price a 94% chance that Democrats take the House, and 76% for the Senate. Traders are already positioned for split control, with Democrats running Capitol Hill and Republicans holding the White House.\n\n• $14B: what each of Anthropic's seven cofounders is worth after the IPO filing, per Pirate Wires' math. The company is five years old and first-half revenue jumped from $1.1B in 2025 to $16.3B in 2026.\n\n• 27%: the year-over-year drop in Fox News' total-day ratings. The advertiser-coveted 25-54 demo fell 32% to its lowest level in a quarter century, while MS NOW gained 16%.\n\n• 10%: the share of school achievement one researcher says can be chalked up to schools and teachers. In a debate with Kelsey Piper, Freddie deBoer argues the rest is the student, and no reform reliably moves a kid's spot in the distribution.\n\n• 400: the AI apps and websites WIRED found hiding deepfake features. They pose as ordinary tools, most trace back to Chinese-language developers, and they secretly generate sexually abusive imagery.\n\n• $6M: what former MIT scientist David Sabatini won in a landmark suit over false sexual assault allegations. Once on a Nobel track, he lost his lab, his funding, and his fortune in 2020 after his ex called him the \"Weinstein of science.\"\n\nQuotes of the Day\n\n• \"It would be a major surprise if Democrats failed to capture the House\" (Nate Silver, on FLIPR's final midterm forecast) (Silver Bulletin)\n\n• \"we have to actually fucking vote to tell these motherfuckers to fuck off\" (Cisco Aguilar, Nevada's secretary of state, urging Latino voters amid a historic turnout surge) (WIRED)\n\n• \"stop relitigating a primary\" (Abdul El-Sayed, needling Haley Stevens days before she crossed the aisle to endorse his Republican rival) (Pirate Wires)\n\n• \"never worry alone\" (Dan Harris, on the mission of his MS NOW show to help people metabolize the news) (Instead of Doomscrolling)\n\nMidterms 2026\n\n• Your cheat sheet for tonight. Polls start closing at 7pm ET, and Snacks has the races that call the night early. Watch Virginia's 1st and 2nd districts and Florida's 15th and 25th for the first read on the House. If Democrats flip VA-02, they're having a good night. After 8pm, check North Carolina's 1st and 11th, plus the Ohio Senate race. Alaska won't report until after midnight Eastern and could go to a ranked-choice runoff, so control of the Senate might not be settled by Wednesday's opening bell. (Snacks)\n\n• The Spider-Man meme Senate race. The New York Times reported that aides to Alaska Democrat Mary Peltola recruited a random retired teacher to run for Senate as a spoiler. His name: Dan Sullivan, identical to the Republican incumbent's. Rather than let the story speak for itself, the Times then published a follow-up justifying the piece after reader \"questions.\" (Pirate Wires)\n\n• The market already voted. Conor Sen notes housing stocks are rallying on soft data while AI assets sell off and the 10-year Treasury yield fell 45 basis points from its early-October high. The home construction ETF sits above its 200-day moving average; the semiconductor ETF sits below it. Investors look priced for friendlier housing policy and a chillier AI buildout. (The Housing Frame)\n\n• If the red-state Democrats win, they write the agenda. A Democratic Senate majority built on Kansas, Iowa, Texas, Alaska, and maybe South Carolina would be the party's first genuinely new dynamic since 2008. Oil-state and farm-state Democrats, not coastal progressives, would decide what passes on taxes, energy, trade, and housing. (The Housing Frame)\n\nAI & The Machines\n\n• \"Our Risk, Their Reward.\" That's the framing of WIRED's big midterm-eve interview with New York City mayor Zohran Mamdani, covering AI and data centers, AI in schools, and the future of the Democratic Party. (WIRED)\n\n• The Capytistas are coming for your address. A secretive anti-oligarchy group says it has more than $1.2 million in backing and plans to dox Elon Musk and hundreds of billionaire-linked homes, starting with Musk and Tesla's board. Their pitch: people who buy political power deserve the scrutiny. (WIRED)\n\nThe Culture\n\n• The potato that thinks it's a chicken. Cornell food scientists spent more than a decade breeding the Poulette, a potato that tastes like chicken, born of chef Dan Barber's heirloom-vegetable obsession. It's sold through Barber's seed company and lands at Whole Foods locations in the tri-state area. (Food & Wine)\n\n• Slouching toward induction. Olivia Dunn's pregnancy diary in Maybe Baby's guest column is the funniest thing in the inbox: stinky feet, a forgotten word for coasters, a sunset cloud shaped like a placenta. Haley Nahman picked it from 375 essays by more than 125 writers with fewer than 3,000 subscribers. (Maybe Baby)\n\n• Fascist Anakin. With Democrats poised for midterm gains, WIRED reports the online right's closing argument is fascist Anakin Skywalker memes. Campaign literature is now Star Wars fan fiction. (WIRED)\n\nQuick Hits & Curiosities\n\n• Astronomers may have found a new dwarf planet in our solar system. (WIRED)\n\n• Oliver Darcy's Power Lines podcast passed 4 million total YouTube views a little over a year after launch. (Status)\n\n• Nine cartoonists, one Election Day: Counterpoint rounded up the day's political cartoons. (Counterpoint)",
+      "blocks": [
+        {
+          "type": "heading_1",
+          "runs": [
+            {
+              "text": "Tuesday, November 3, 2026 - Morning Edition",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Today's Numbers",
+              "url": "",
+              "bold": true,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "94%",
+              "url": "https://applink.robinhood.com/event_contracts?id=b866f4c5-d317-4a52-b388-d57cee1c073e",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": ": prediction markets price a 94% chance that Democrats take the House, and 76% for the Senate. Traders are already positioned for split control, with Democrats running Capitol Hill and Republicans holding the White House.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "$14B",
+              "url": "https://www.piratewires.com/",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": ": what each of Anthropic's seven cofounders is worth after the IPO filing, per Pirate Wires' math. The company is five years old and first-half revenue jumped from $1.1B in 2025 to $16.3B in 2026.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "27%",
+              "url": "https://www.status.news/",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": ": the year-over-year drop in Fox News' total-day ratings. The advertiser-coveted 25-54 demo fell 32% to its lowest level in a quarter century, while MS NOW gained 16%.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "10%",
+              "url": "https://www.theargumentmag.com/",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": ": the share of school achievement one researcher says can be chalked up to schools and teachers. In a debate with Kelsey Piper, Freddie deBoer argues the rest is the student, and no reform reliably moves a kid's spot in the distribution.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "400",
+              "url": "https://www.wired.com/",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": ": the AI apps and websites WIRED found hiding deepfake features. They pose as ordinary tools, most trace back to Chinese-language developers, and they secretly generate sexually abusive imagery.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "$6M",
+              "url": "https://www.piratewires.com/",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": ": what former MIT scientist David Sabatini won in a landmark suit over false sexual assault allegations. Once on a Nobel track, he lost his lab, his funding, and his fortune in 2020 after his ex called him the \"Weinstein of science.\"",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Quotes of the Day",
+              "url": "",
+              "bold": true,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "\"It would be a major surprise if Democrats failed to capture the House\" (Nate Silver, on FLIPR's final midterm forecast) (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Silver Bulletin",
+              "url": "https://www.natesilver.net/",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "\"we have to actually fucking vote to tell these motherfuckers to fuck off\" (Cisco Aguilar, Nevada's secretary of state, urging Latino voters amid a historic turnout surge) (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "WIRED",
+              "url": "https://www.wired.com/",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "\"stop relitigating a primary\" (Abdul El-Sayed, needling Haley Stevens days before she crossed the aisle to endorse his Republican rival) (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Pirate Wires",
+              "url": "https://www.piratewires.com/",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "\"never worry alone\" (Dan Harris, on the mission of his MS NOW show to help people metabolize the news) (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Instead of Doomscrolling",
+              "url": "https://mapuc.substack.com/",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Midterms 2026",
+              "url": "",
+              "bold": true,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Your cheat sheet for tonight.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " Polls start closing at 7pm ET, and Snacks has the races that call the night early. Watch Virginia's 1st and 2nd districts and Florida's 15th and 25th for the first read on the House. If Democrats flip VA-02, they're having a good night. After 8pm, check North Carolina's 1st and 11th, plus the Ohio Senate race. Alaska won't report until after midnight Eastern and could go to a ranked-choice runoff, so control of the Senate might not be settled by Wednesday's opening bell. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Snacks",
+              "url": "https://sherwood.news/markets/midterminators/",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "The Spider-Man meme Senate race.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " The New York Times reported that aides to Alaska Democrat Mary Peltola recruited a random retired teacher to run for Senate as a spoiler. His name: Dan Sullivan, identical to the Republican incumbent's. Rather than let the story speak for itself, the Times then published a follow-up justifying the piece after reader \"questions.\" (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Pirate Wires",
+              "url": "https://www.piratewires.com/",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "The market already voted.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " Conor Sen notes housing stocks are rallying on soft data while AI assets sell off and the 10-year Treasury yield fell 45 basis points from its early-October high. The home construction ETF sits above its 200-day moving average; the semiconductor ETF sits below it. Investors look priced for friendlier housing policy and a chillier AI buildout. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "The Housing Frame",
+              "url": "https://conorsen.substack.com/p/three-housing-angles-for-the-midderm",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "If the red-state Democrats win, they write the agenda.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " A Democratic Senate majority built on Kansas, Iowa, Texas, Alaska, and maybe South Carolina would be the party's first genuinely new dynamic since 2008. Oil-state and farm-state Democrats, not coastal progressives, would decide what passes on taxes, energy, trade, and housing. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "The Housing Frame",
+              "url": "https://conorsen.substack.com/p/three-housing-angles-for-the-midderm",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "AI & The Machines",
+              "url": "",
+              "bold": true,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "\"Our Risk, Their Reward.\"",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " That's the framing of WIRED's big midterm-eve interview with New York City mayor Zohran Mamdani, covering AI and data centers, AI in schools, and the future of the Democratic Party. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "WIRED",
+              "url": "https://www.wired.com/",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "The Capytistas are coming for your address.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " A secretive anti-oligarchy group says it has more than $1.2 million in backing and plans to dox Elon Musk and hundreds of billionaire-linked homes, starting with Musk and Tesla's board. Their pitch: people who buy political power deserve the scrutiny. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "WIRED",
+              "url": "https://www.wired.com/",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "The Culture",
+              "url": "",
+              "bold": true,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "The potato that thinks it's a chicken.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " Cornell food scientists spent more than a decade breeding the Poulette, a potato that tastes like chicken, born of chef Dan Barber's heirloom-vegetable obsession. It's sold through Barber's seed company and lands at Whole Foods locations in the tri-state area. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Food & Wine",
+              "url": "https://www.foodandwine.com/row-7-poulette-potato-12147524",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Slouching toward induction.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " Olivia Dunn's pregnancy diary in Maybe Baby's guest column is the funniest thing in the inbox: stinky feet, a forgotten word for coasters, a sunset cloud shaped like a placenta. Haley Nahman picked it from 375 essays by more than 125 writers with fewer than 3,000 subscribers. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Maybe Baby",
+              "url": "https://haleynahman.substack.com/",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Fascist Anakin.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " With Democrats poised for midterm gains, WIRED reports the online right's closing argument is fascist Anakin Skywalker memes. Campaign literature is now Star Wars fan fiction. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "WIRED",
+              "url": "https://www.wired.com/",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Quick Hits & Curiosities",
+              "url": "",
+              "bold": true,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Astronomers may have found a new dwarf planet in our solar system. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "WIRED",
+              "url": "https://www.wired.com/",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Oliver Darcy's Power Lines podcast passed 4 million total YouTube views a little over a year after launch. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Status",
+              "url": "https://www.status.news/",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Nine cartoonists, one Election Day: Counterpoint rounded up the day's political cartoons. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Counterpoint",
+              "url": "https://counterpoint.substack.com/",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        }
+      ],
+      "publishedAt": "2026-11-03T13:02:00Z",
+      "links": [
+        {
+          "title": "94%",
+          "url": "https://applink.robinhood.com/event_contracts?id=b866f4c5-d317-4a52-b388-d57cee1c073e"
+        },
+        {
+          "title": "Pirate Wires",
+          "url": "https://www.piratewires.com/"
+        },
+        {
+          "title": "Status",
+          "url": "https://www.status.news/"
+        },
+        {
+          "title": "10%",
+          "url": "https://www.theargumentmag.com/"
+        },
+        {
+          "title": "WIRED",
+          "url": "https://www.wired.com/"
+        },
+        {
+          "title": "Silver Bulletin",
+          "url": "https://www.natesilver.net/"
+        },
+        {
+          "title": "Instead of Doomscrolling",
+          "url": "https://mapuc.substack.com/"
+        },
+        {
+          "title": "Snacks",
+          "url": "https://sherwood.news/markets/midterminators/"
+        },
+        {
+          "title": "The Housing Frame",
+          "url": "https://conorsen.substack.com/p/three-housing-angles-for-the-midderm"
+        },
+        {
+          "title": "Food & Wine",
+          "url": "https://www.foodandwine.com/row-7-poulette-potato-12147524"
+        },
+        {
+          "title": "Maybe Baby",
+          "url": "https://haleynahman.substack.com/"
+        },
+        {
+          "title": "Counterpoint",
+          "url": "https://counterpoint.substack.com/"
+        }
+      ],
+      "versions": {
+        "morning": {
+          "body": "Tuesday, November 3, 2026 - Morning Edition\n\nToday's Numbers\n\n• 94%: prediction markets price a 94% chance that Democrats take the House, and 76% for the Senate. Traders are already positioned for split control, with Democrats running Capitol Hill and Republicans holding the White House.\n\n• $14B: what each of Anthropic's seven cofounders is worth after the IPO filing, per Pirate Wires' math. The company is five years old and first-half revenue jumped from $1.1B in 2025 to $16.3B in 2026.\n\n• 27%: the year-over-year drop in Fox News' total-day ratings. The advertiser-coveted 25-54 demo fell 32% to its lowest level in a quarter century, while MS NOW gained 16%.\n\n• 10%: the share of school achievement one researcher says can be chalked up to schools and teachers. In a debate with Kelsey Piper, Freddie deBoer argues the rest is the student, and no reform reliably moves a kid's spot in the distribution.\n\n• 400: the AI apps and websites WIRED found hiding deepfake features. They pose as ordinary tools, most trace back to Chinese-language developers, and they secretly generate sexually abusive imagery.\n\n• $6M: what former MIT scientist David Sabatini won in a landmark suit over false sexual assault allegations. Once on a Nobel track, he lost his lab, his funding, and his fortune in 2020 after his ex called him the \"Weinstein of science.\"\n\nQuotes of the Day\n\n• \"It would be a major surprise if Democrats failed to capture the House\" (Nate Silver, on FLIPR's final midterm forecast) (Silver Bulletin)\n\n• \"we have to actually fucking vote to tell these motherfuckers to fuck off\" (Cisco Aguilar, Nevada's secretary of state, urging Latino voters amid a historic turnout surge) (WIRED)\n\n• \"stop relitigating a primary\" (Abdul El-Sayed, needling Haley Stevens days before she crossed the aisle to endorse his Republican rival) (Pirate Wires)\n\n• \"never worry alone\" (Dan Harris, on the mission of his MS NOW show to help people metabolize the news) (Instead of Doomscrolling)\n\nMidterms 2026\n\n• Your cheat sheet for tonight. Polls start closing at 7pm ET, and Snacks has the races that call the night early. Watch Virginia's 1st and 2nd districts and Florida's 15th and 25th for the first read on the House. If Democrats flip VA-02, they're having a good night. After 8pm, check North Carolina's 1st and 11th, plus the Ohio Senate race. Alaska won't report until after midnight Eastern and could go to a ranked-choice runoff, so control of the Senate might not be settled by Wednesday's opening bell. (Snacks)\n\n• The Spider-Man meme Senate race. The New York Times reported that aides to Alaska Democrat Mary Peltola recruited a random retired teacher to run for Senate as a spoiler. His name: Dan Sullivan, identical to the Republican incumbent's. Rather than let the story speak for itself, the Times then published a follow-up justifying the piece after reader \"questions.\" (Pirate Wires)\n\n• The market already voted. Conor Sen notes housing stocks are rallying on soft data while AI assets sell off and the 10-year Treasury yield fell 45 basis points from its early-October high. The home construction ETF sits above its 200-day moving average; the semiconductor ETF sits below it. Investors look priced for friendlier housing policy and a chillier AI buildout. (The Housing Frame)\n\n• If the red-state Democrats win, they write the agenda. A Democratic Senate majority built on Kansas, Iowa, Texas, Alaska, and maybe South Carolina would be the party's first genuinely new dynamic since 2008. Oil-state and farm-state Democrats, not coastal progressives, would decide what passes on taxes, energy, trade, and housing. (The Housing Frame)\n\nAI & The Machines\n\n• \"Our Risk, Their Reward.\" That's the framing of WIRED's big midterm-eve interview with New York City mayor Zohran Mamdani, covering AI and data centers, AI in schools, and the future of the Democratic Party. (WIRED)\n\n• The Capytistas are coming for your address. A secretive anti-oligarchy group says it has more than $1.2 million in backing and plans to dox Elon Musk and hundreds of billionaire-linked homes, starting with Musk and Tesla's board. Their pitch: people who buy political power deserve the scrutiny. (WIRED)\n\nThe Culture\n\n• The potato that thinks it's a chicken. Cornell food scientists spent more than a decade breeding the Poulette, a potato that tastes like chicken, born of chef Dan Barber's heirloom-vegetable obsession. It's sold through Barber's seed company and lands at Whole Foods locations in the tri-state area. (Food & Wine)\n\n• Slouching toward induction. Olivia Dunn's pregnancy diary in Maybe Baby's guest column is the funniest thing in the inbox: stinky feet, a forgotten word for coasters, a sunset cloud shaped like a placenta. Haley Nahman picked it from 375 essays by more than 125 writers with fewer than 3,000 subscribers. (Maybe Baby)\n\n• Fascist Anakin. With Democrats poised for midterm gains, WIRED reports the online right's closing argument is fascist Anakin Skywalker memes. Campaign literature is now Star Wars fan fiction. (WIRED)\n\nQuick Hits & Curiosities\n\n• Astronomers may have found a new dwarf planet in our solar system. (WIRED)\n\n• Oliver Darcy's Power Lines podcast passed 4 million total YouTube views a little over a year after launch. (Status)\n\n• Nine cartoonists, one Election Day: Counterpoint rounded up the day's political cartoons. (Counterpoint)",
+          "blocks": [
+            {
+              "type": "heading_1",
+              "runs": [
+                {
+                  "text": "Tuesday, November 3, 2026 - Morning Edition",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Today's Numbers",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "94%",
+                  "url": "https://applink.robinhood.com/event_contracts?id=b866f4c5-d317-4a52-b388-d57cee1c073e",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": prediction markets price a 94% chance that Democrats take the House, and 76% for the Senate. Traders are already positioned for split control, with Democrats running Capitol Hill and Republicans holding the White House.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "$14B",
+                  "url": "https://www.piratewires.com/",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": what each of Anthropic's seven cofounders is worth after the IPO filing, per Pirate Wires' math. The company is five years old and first-half revenue jumped from $1.1B in 2025 to $16.3B in 2026.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "27%",
+                  "url": "https://www.status.news/",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": the year-over-year drop in Fox News' total-day ratings. The advertiser-coveted 25-54 demo fell 32% to its lowest level in a quarter century, while MS NOW gained 16%.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "10%",
+                  "url": "https://www.theargumentmag.com/",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": the share of school achievement one researcher says can be chalked up to schools and teachers. In a debate with Kelsey Piper, Freddie deBoer argues the rest is the student, and no reform reliably moves a kid's spot in the distribution.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "400",
+                  "url": "https://www.wired.com/",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": the AI apps and websites WIRED found hiding deepfake features. They pose as ordinary tools, most trace back to Chinese-language developers, and they secretly generate sexually abusive imagery.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "$6M",
+                  "url": "https://www.piratewires.com/",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": what former MIT scientist David Sabatini won in a landmark suit over false sexual assault allegations. Once on a Nobel track, he lost his lab, his funding, and his fortune in 2020 after his ex called him the \"Weinstein of science.\"",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Quotes of the Day",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "\"It would be a major surprise if Democrats failed to capture the House\" (Nate Silver, on FLIPR's final midterm forecast) (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Silver Bulletin",
+                  "url": "https://www.natesilver.net/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "\"we have to actually fucking vote to tell these motherfuckers to fuck off\" (Cisco Aguilar, Nevada's secretary of state, urging Latino voters amid a historic turnout surge) (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "WIRED",
+                  "url": "https://www.wired.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "\"stop relitigating a primary\" (Abdul El-Sayed, needling Haley Stevens days before she crossed the aisle to endorse his Republican rival) (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Pirate Wires",
+                  "url": "https://www.piratewires.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "\"never worry alone\" (Dan Harris, on the mission of his MS NOW show to help people metabolize the news) (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Instead of Doomscrolling",
+                  "url": "https://mapuc.substack.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Midterms 2026",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Your cheat sheet for tonight.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " Polls start closing at 7pm ET, and Snacks has the races that call the night early. Watch Virginia's 1st and 2nd districts and Florida's 15th and 25th for the first read on the House. If Democrats flip VA-02, they're having a good night. After 8pm, check North Carolina's 1st and 11th, plus the Ohio Senate race. Alaska won't report until after midnight Eastern and could go to a ranked-choice runoff, so control of the Senate might not be settled by Wednesday's opening bell. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Snacks",
+                  "url": "https://sherwood.news/markets/midterminators/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "The Spider-Man meme Senate race.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " The New York Times reported that aides to Alaska Democrat Mary Peltola recruited a random retired teacher to run for Senate as a spoiler. His name: Dan Sullivan, identical to the Republican incumbent's. Rather than let the story speak for itself, the Times then published a follow-up justifying the piece after reader \"questions.\" (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Pirate Wires",
+                  "url": "https://www.piratewires.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "The market already voted.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " Conor Sen notes housing stocks are rallying on soft data while AI assets sell off and the 10-year Treasury yield fell 45 basis points from its early-October high. The home construction ETF sits above its 200-day moving average; the semiconductor ETF sits below it. Investors look priced for friendlier housing policy and a chillier AI buildout. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "The Housing Frame",
+                  "url": "https://conorsen.substack.com/p/three-housing-angles-for-the-midderm",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "If the red-state Democrats win, they write the agenda.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " A Democratic Senate majority built on Kansas, Iowa, Texas, Alaska, and maybe South Carolina would be the party's first genuinely new dynamic since 2008. Oil-state and farm-state Democrats, not coastal progressives, would decide what passes on taxes, energy, trade, and housing. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "The Housing Frame",
+                  "url": "https://conorsen.substack.com/p/three-housing-angles-for-the-midderm",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "AI & The Machines",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "\"Our Risk, Their Reward.\"",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " That's the framing of WIRED's big midterm-eve interview with New York City mayor Zohran Mamdani, covering AI and data centers, AI in schools, and the future of the Democratic Party. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "WIRED",
+                  "url": "https://www.wired.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "The Capytistas are coming for your address.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " A secretive anti-oligarchy group says it has more than $1.2 million in backing and plans to dox Elon Musk and hundreds of billionaire-linked homes, starting with Musk and Tesla's board. Their pitch: people who buy political power deserve the scrutiny. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "WIRED",
+                  "url": "https://www.wired.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "The Culture",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "The potato that thinks it's a chicken.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " Cornell food scientists spent more than a decade breeding the Poulette, a potato that tastes like chicken, born of chef Dan Barber's heirloom-vegetable obsession. It's sold through Barber's seed company and lands at Whole Foods locations in the tri-state area. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Food & Wine",
+                  "url": "https://www.foodandwine.com/row-7-poulette-potato-12147524",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Slouching toward induction.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " Olivia Dunn's pregnancy diary in Maybe Baby's guest column is the funniest thing in the inbox: stinky feet, a forgotten word for coasters, a sunset cloud shaped like a placenta. Haley Nahman picked it from 375 essays by more than 125 writers with fewer than 3,000 subscribers. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Maybe Baby",
+                  "url": "https://haleynahman.substack.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Fascist Anakin.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " With Democrats poised for midterm gains, WIRED reports the online right's closing argument is fascist Anakin Skywalker memes. Campaign literature is now Star Wars fan fiction. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "WIRED",
+                  "url": "https://www.wired.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Quick Hits & Curiosities",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Astronomers may have found a new dwarf planet in our solar system. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "WIRED",
+                  "url": "https://www.wired.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Oliver Darcy's Power Lines podcast passed 4 million total YouTube views a little over a year after launch. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Status",
+                  "url": "https://www.status.news/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Nine cartoonists, one Election Day: Counterpoint rounded up the day's political cartoons. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Counterpoint",
+                  "url": "https://counterpoint.substack.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            }
+          ],
+          "links": [
+            {
+              "title": "94%",
+              "url": "https://applink.robinhood.com/event_contracts?id=b866f4c5-d317-4a52-b388-d57cee1c073e"
+            },
+            {
+              "title": "Pirate Wires",
+              "url": "https://www.piratewires.com/"
+            },
+            {
+              "title": "Status",
+              "url": "https://www.status.news/"
+            },
+            {
+              "title": "10%",
+              "url": "https://www.theargumentmag.com/"
+            },
+            {
+              "title": "WIRED",
+              "url": "https://www.wired.com/"
+            },
+            {
+              "title": "Silver Bulletin",
+              "url": "https://www.natesilver.net/"
+            },
+            {
+              "title": "Instead of Doomscrolling",
+              "url": "https://mapuc.substack.com/"
+            },
+            {
+              "title": "Snacks",
+              "url": "https://sherwood.news/markets/midterminators/"
+            },
+            {
+              "title": "The Housing Frame",
+              "url": "https://conorsen.substack.com/p/three-housing-angles-for-the-midderm"
+            },
+            {
+              "title": "Food & Wine",
+              "url": "https://www.foodandwine.com/row-7-poulette-potato-12147524"
+            },
+            {
+              "title": "Maybe Baby",
+              "url": "https://haleynahman.substack.com/"
+            },
+            {
+              "title": "Counterpoint",
+              "url": "https://counterpoint.substack.com/"
+            }
+          ]
+        },
+        "full": {
+          "body": "Tuesday, November 3, 2026 - Morning Edition\n\nToday's Numbers\n\n• 94%: prediction markets price a 94% chance that Democrats take the House, and 76% for the Senate. Traders are already positioned for split control, with Democrats running Capitol Hill and Republicans holding the White House.\n\n• $14B: what each of Anthropic's seven cofounders is worth after the IPO filing, per Pirate Wires' math. The company is five years old and first-half revenue jumped from $1.1B in 2025 to $16.3B in 2026.\n\n• 27%: the year-over-year drop in Fox News' total-day ratings. The advertiser-coveted 25-54 demo fell 32% to its lowest level in a quarter century, while MS NOW gained 16%.\n\n• 10%: the share of school achievement one researcher says can be chalked up to schools and teachers. In a debate with Kelsey Piper, Freddie deBoer argues the rest is the student, and no reform reliably moves a kid's spot in the distribution.\n\n• 400: the AI apps and websites WIRED found hiding deepfake features. They pose as ordinary tools, most trace back to Chinese-language developers, and they secretly generate sexually abusive imagery.\n\n• $6M: what former MIT scientist David Sabatini won in a landmark suit over false sexual assault allegations. Once on a Nobel track, he lost his lab, his funding, and his fortune in 2020 after his ex called him the \"Weinstein of science.\"\n\nQuotes of the Day\n\n• \"It would be a major surprise if Democrats failed to capture the House\" (Nate Silver, on FLIPR's final midterm forecast) (Silver Bulletin)\n\n• \"we have to actually fucking vote to tell these motherfuckers to fuck off\" (Cisco Aguilar, Nevada's secretary of state, urging Latino voters amid a historic turnout surge) (WIRED)\n\n• \"stop relitigating a primary\" (Abdul El-Sayed, needling Haley Stevens days before she crossed the aisle to endorse his Republican rival) (Pirate Wires)\n\n• \"never worry alone\" (Dan Harris, on the mission of his MS NOW show to help people metabolize the news) (Instead of Doomscrolling)\n\nMidterms 2026\n\n• Your cheat sheet for tonight. Polls start closing at 7pm ET, and Snacks has the races that call the night early. Watch Virginia's 1st and 2nd districts and Florida's 15th and 25th for the first read on the House. If Democrats flip VA-02, they're having a good night. After 8pm, check North Carolina's 1st and 11th, plus the Ohio Senate race. Alaska won't report until after midnight Eastern and could go to a ranked-choice runoff, so control of the Senate might not be settled by Wednesday's opening bell. (Snacks)\n\n• The Spider-Man meme Senate race. The New York Times reported that aides to Alaska Democrat Mary Peltola recruited a random retired teacher to run for Senate as a spoiler. His name: Dan Sullivan, identical to the Republican incumbent's. Rather than let the story speak for itself, the Times then published a follow-up justifying the piece after reader \"questions.\" (Pirate Wires)\n\n• The market already voted. Conor Sen notes housing stocks are rallying on soft data while AI assets sell off and the 10-year Treasury yield fell 45 basis points from its early-October high. The home construction ETF sits above its 200-day moving average; the semiconductor ETF sits below it. Investors look priced for friendlier housing policy and a chillier AI buildout. (The Housing Frame)\n\n• If the red-state Democrats win, they write the agenda. A Democratic Senate majority built on Kansas, Iowa, Texas, Alaska, and maybe South Carolina would be the party's first genuinely new dynamic since 2008. Oil-state and farm-state Democrats, not coastal progressives, would decide what passes on taxes, energy, trade, and housing. (The Housing Frame)\n\nAI & The Machines\n\n• \"Our Risk, Their Reward.\" That's the framing of WIRED's big midterm-eve interview with New York City mayor Zohran Mamdani, covering AI and data centers, AI in schools, and the future of the Democratic Party. (WIRED)\n\n• The Capytistas are coming for your address. A secretive anti-oligarchy group says it has more than $1.2 million in backing and plans to dox Elon Musk and hundreds of billionaire-linked homes, starting with Musk and Tesla's board. Their pitch: people who buy political power deserve the scrutiny. (WIRED)\n\nThe Culture\n\n• The potato that thinks it's a chicken. Cornell food scientists spent more than a decade breeding the Poulette, a potato that tastes like chicken, born of chef Dan Barber's heirloom-vegetable obsession. It's sold through Barber's seed company and lands at Whole Foods locations in the tri-state area. (Food & Wine)\n\n• Slouching toward induction. Olivia Dunn's pregnancy diary in Maybe Baby's guest column is the funniest thing in the inbox: stinky feet, a forgotten word for coasters, a sunset cloud shaped like a placenta. Haley Nahman picked it from 375 essays by more than 125 writers with fewer than 3,000 subscribers. (Maybe Baby)\n\n• Fascist Anakin. With Democrats poised for midterm gains, WIRED reports the online right's closing argument is fascist Anakin Skywalker memes. Campaign literature is now Star Wars fan fiction. (WIRED)\n\nQuick Hits & Curiosities\n\n• Astronomers may have found a new dwarf planet in our solar system. (WIRED)\n\n• Oliver Darcy's Power Lines podcast passed 4 million total YouTube views a little over a year after launch. (Status)\n\n• Nine cartoonists, one Election Day: Counterpoint rounded up the day's political cartoons. (Counterpoint)",
+          "blocks": [
+            {
+              "type": "heading_1",
+              "runs": [
+                {
+                  "text": "Tuesday, November 3, 2026 - Morning Edition",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Today's Numbers",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "94%",
+                  "url": "https://applink.robinhood.com/event_contracts?id=b866f4c5-d317-4a52-b388-d57cee1c073e",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": prediction markets price a 94% chance that Democrats take the House, and 76% for the Senate. Traders are already positioned for split control, with Democrats running Capitol Hill and Republicans holding the White House.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "$14B",
+                  "url": "https://www.piratewires.com/",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": what each of Anthropic's seven cofounders is worth after the IPO filing, per Pirate Wires' math. The company is five years old and first-half revenue jumped from $1.1B in 2025 to $16.3B in 2026.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "27%",
+                  "url": "https://www.status.news/",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": the year-over-year drop in Fox News' total-day ratings. The advertiser-coveted 25-54 demo fell 32% to its lowest level in a quarter century, while MS NOW gained 16%.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "10%",
+                  "url": "https://www.theargumentmag.com/",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": the share of school achievement one researcher says can be chalked up to schools and teachers. In a debate with Kelsey Piper, Freddie deBoer argues the rest is the student, and no reform reliably moves a kid's spot in the distribution.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "400",
+                  "url": "https://www.wired.com/",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": the AI apps and websites WIRED found hiding deepfake features. They pose as ordinary tools, most trace back to Chinese-language developers, and they secretly generate sexually abusive imagery.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "$6M",
+                  "url": "https://www.piratewires.com/",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": what former MIT scientist David Sabatini won in a landmark suit over false sexual assault allegations. Once on a Nobel track, he lost his lab, his funding, and his fortune in 2020 after his ex called him the \"Weinstein of science.\"",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Quotes of the Day",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "\"It would be a major surprise if Democrats failed to capture the House\" (Nate Silver, on FLIPR's final midterm forecast) (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Silver Bulletin",
+                  "url": "https://www.natesilver.net/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "\"we have to actually fucking vote to tell these motherfuckers to fuck off\" (Cisco Aguilar, Nevada's secretary of state, urging Latino voters amid a historic turnout surge) (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "WIRED",
+                  "url": "https://www.wired.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "\"stop relitigating a primary\" (Abdul El-Sayed, needling Haley Stevens days before she crossed the aisle to endorse his Republican rival) (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Pirate Wires",
+                  "url": "https://www.piratewires.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "\"never worry alone\" (Dan Harris, on the mission of his MS NOW show to help people metabolize the news) (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Instead of Doomscrolling",
+                  "url": "https://mapuc.substack.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Midterms 2026",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Your cheat sheet for tonight.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " Polls start closing at 7pm ET, and Snacks has the races that call the night early. Watch Virginia's 1st and 2nd districts and Florida's 15th and 25th for the first read on the House. If Democrats flip VA-02, they're having a good night. After 8pm, check North Carolina's 1st and 11th, plus the Ohio Senate race. Alaska won't report until after midnight Eastern and could go to a ranked-choice runoff, so control of the Senate might not be settled by Wednesday's opening bell. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Snacks",
+                  "url": "https://sherwood.news/markets/midterminators/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "The Spider-Man meme Senate race.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " The New York Times reported that aides to Alaska Democrat Mary Peltola recruited a random retired teacher to run for Senate as a spoiler. His name: Dan Sullivan, identical to the Republican incumbent's. Rather than let the story speak for itself, the Times then published a follow-up justifying the piece after reader \"questions.\" (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Pirate Wires",
+                  "url": "https://www.piratewires.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "The market already voted.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " Conor Sen notes housing stocks are rallying on soft data while AI assets sell off and the 10-year Treasury yield fell 45 basis points from its early-October high. The home construction ETF sits above its 200-day moving average; the semiconductor ETF sits below it. Investors look priced for friendlier housing policy and a chillier AI buildout. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "The Housing Frame",
+                  "url": "https://conorsen.substack.com/p/three-housing-angles-for-the-midderm",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "If the red-state Democrats win, they write the agenda.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " A Democratic Senate majority built on Kansas, Iowa, Texas, Alaska, and maybe South Carolina would be the party's first genuinely new dynamic since 2008. Oil-state and farm-state Democrats, not coastal progressives, would decide what passes on taxes, energy, trade, and housing. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "The Housing Frame",
+                  "url": "https://conorsen.substack.com/p/three-housing-angles-for-the-midderm",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "AI & The Machines",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "\"Our Risk, Their Reward.\"",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " That's the framing of WIRED's big midterm-eve interview with New York City mayor Zohran Mamdani, covering AI and data centers, AI in schools, and the future of the Democratic Party. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "WIRED",
+                  "url": "https://www.wired.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "The Capytistas are coming for your address.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " A secretive anti-oligarchy group says it has more than $1.2 million in backing and plans to dox Elon Musk and hundreds of billionaire-linked homes, starting with Musk and Tesla's board. Their pitch: people who buy political power deserve the scrutiny. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "WIRED",
+                  "url": "https://www.wired.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "The Culture",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "The potato that thinks it's a chicken.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " Cornell food scientists spent more than a decade breeding the Poulette, a potato that tastes like chicken, born of chef Dan Barber's heirloom-vegetable obsession. It's sold through Barber's seed company and lands at Whole Foods locations in the tri-state area. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Food & Wine",
+                  "url": "https://www.foodandwine.com/row-7-poulette-potato-12147524",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Slouching toward induction.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " Olivia Dunn's pregnancy diary in Maybe Baby's guest column is the funniest thing in the inbox: stinky feet, a forgotten word for coasters, a sunset cloud shaped like a placenta. Haley Nahman picked it from 375 essays by more than 125 writers with fewer than 3,000 subscribers. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Maybe Baby",
+                  "url": "https://haleynahman.substack.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Fascist Anakin.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " With Democrats poised for midterm gains, WIRED reports the online right's closing argument is fascist Anakin Skywalker memes. Campaign literature is now Star Wars fan fiction. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "WIRED",
+                  "url": "https://www.wired.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Quick Hits & Curiosities",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Astronomers may have found a new dwarf planet in our solar system. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "WIRED",
+                  "url": "https://www.wired.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Oliver Darcy's Power Lines podcast passed 4 million total YouTube views a little over a year after launch. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Status",
+                  "url": "https://www.status.news/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Nine cartoonists, one Election Day: Counterpoint rounded up the day's political cartoons. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Counterpoint",
+                  "url": "https://counterpoint.substack.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            }
+          ],
+          "links": [
+            {
+              "title": "94%",
+              "url": "https://applink.robinhood.com/event_contracts?id=b866f4c5-d317-4a52-b388-d57cee1c073e"
+            },
+            {
+              "title": "Pirate Wires",
+              "url": "https://www.piratewires.com/"
+            },
+            {
+              "title": "Status",
+              "url": "https://www.status.news/"
+            },
+            {
+              "title": "10%",
+              "url": "https://www.theargumentmag.com/"
+            },
+            {
+              "title": "WIRED",
+              "url": "https://www.wired.com/"
+            },
+            {
+              "title": "Silver Bulletin",
+              "url": "https://www.natesilver.net/"
+            },
+            {
+              "title": "Instead of Doomscrolling",
+              "url": "https://mapuc.substack.com/"
+            },
+            {
+              "title": "Snacks",
+              "url": "https://sherwood.news/markets/midterminators/"
+            },
+            {
+              "title": "The Housing Frame",
+              "url": "https://conorsen.substack.com/p/three-housing-angles-for-the-midderm"
+            },
+            {
+              "title": "Food & Wine",
+              "url": "https://www.foodandwine.com/row-7-poulette-potato-12147524"
+            },
+            {
+              "title": "Maybe Baby",
+              "url": "https://haleynahman.substack.com/"
+            },
+            {
+              "title": "Counterpoint",
+              "url": "https://counterpoint.substack.com/"
+            }
+          ]
+        }
+      }
     }
   ]
 }
