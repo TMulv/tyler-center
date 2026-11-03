@@ -1017,6 +1017,15 @@
       "url": "",
       "publishedAt": "2026-11-02T20:53:00Z",
       "readingStatus": "To Read"
+    },
+    {
+      "id": "readlater-eba8381c28d84794b762f2e611a980d6",
+      "channel": "articles",
+      "source": "notion",
+      "title": "In Gabe Kavookjian’s Life, Most People Are the Same. But Not Him.",
+      "url": "https://www.esquire.com/news-politics/a74031571/life-with-down-syndrome/",
+      "publishedAt": "2026-11-03T14:56:00Z",
+      "readingStatus": "To Read"
     }
   ]
 }

@@ -940,6 +940,16 @@
       "domain": "colossus.com",
       "checkedAt": "2026-10-28T18:26:53.527312+00:00",
       "available": true
+    },
+    "https://www.esquire.com/news-politics/a74031571/life-with-down-syndrome/": {
+      "title": "In Gabe Kavookjian’s Life, Most People Are the Same. But Not Him.",
+      "description": "He’s thirty-five years old. Loves movies. Works two jobs. Wants to meet the right person. But because he has Down syndrome, someone told him he’s different.",
+      "site": "Esquire",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/f762144b-25e4-49ae-8c17-f7a981e7a723.jpg?crop=0.706xw%3A0.529xh%3B0.259xw%2C0.305xh&resize=1200%3A%2A",
+      "icon": "https://www.esquire.com/_assets/design-tokens/esquire/static/images/favicon.9bd3ce0.ico",
+      "domain": "www.esquire.com",
+      "checkedAt": "2026-11-03T17:27:52.114940+00:00",
+      "available": true
     }
   }
 }
