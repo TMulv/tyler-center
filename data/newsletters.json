@@ -225442,6 +225442,527 @@
           ]
         }
       }
+    },
+    {
+      "id": "digest-d183f1e2-4d8f-4c06-9aac-7bf9b96516e9",
+      "channel": "newsletters",
+      "source": "notion",
+      "kind": "Agent-written digest",
+      "domain": "Daily newsletter digest",
+      "title": "The AI Fanfic Heist, the Diner Revival, and the Train to Writer’s Block",
+      "url": "",
+      "description": "The day’s newsletters had one unifying mood: the future is arriving in oddly specific forms. AI is scraping fan fiction, financing data centers, and misspelling “freedom” on voting stickers; meanwhile, diners, old songs, good notebooks, and a plate of sesame chicken remain stubbornly legible.",
+      "body": "The day’s newsletters had one unifying mood: the future is arriving in oddly specific forms. AI is scraping fan fiction, financing data centers, and misspelling “freedom” on voting stickers; meanwhile, diners, old songs, good notebooks, and a plate of sesame chicken remain stubbornly legible.\n\nBest links\n\n• The fanfic scrape-and-sell fiasco. A vibe-coded Archive of Our Own clone called ao3.life went down after authors filed more than 2,000 takedown notices in a single day. It had scraped works, offered EPUBs, and sold AI-generated audiobooks—an unusually crisp case study in “the internet is not your content warehouse.” 404 Media\n\n• A possible new dwarf planet. WIRED flags 2026 ED138, an object beyond Pluto that could be up to 1,500 kilometers across, pending confirmation that it qualifies as a dwarf planet. WIRED Daily\n\n• The election-night cheat sheet. Silver Bulletin’s FLIPR forecast had Democrats as reasonably clear favorites to flip the Senate and very likely to flip the House, then laid out the races to watch as polls closed from 6 p.m. onward. Forecasts are not results, but the hour-by-hour framing is useful. Silver Bulletin\n\nWorth reading\n\n• The Catapult question. Book Gossip reports that Catapult Book Group was sold, employees were told their continued employment with the buyer was not an option, and authors are worried about what happens to risk-taking literary publishing. Larissa Pham’s sharpest line: “We know that billionaires are capricious.” Book Gossip\n\n• The AI infrastructure “Otis” loop. Feed Me’s Anonymous Transit Expert argues that the AI buildout is increasingly financed through opaque debt and project vehicles while the grid, housing, transit, and ordinary ratepayers absorb the eventual bill. The metaphor: the first 24 seconds of Jay-Z and Kanye’s “Otis,” rewound until everyone loses their mind. Feed Me\n\n• Don’t airportify the homepage. The same newsletter makes a compelling case that media companies are chasing premium B2B subscriptions with “SaaS envy,” risking a world where the business-class lounge flourishes while the public-facing homepage becomes the JFK Terminal 1 food court. Feed Me\n\nFood & places\n\n• Dinner tonight: Melissa Clark’s 20-minute sesame chicken with cashews and dates: sweet dates against savory chicken and scallions, with a useful warning to cook in batches if your pan is small. NYT Cooking\n\n• Why diners endure. Montague Diner’s Gabriel Nussbaum says diners work because they promise “no curveballs”: dependable food, a table, coffee, and a place for a meeting, a family meal, or ten minutes alone. The restaurant’s charming house move is fries with champagne, plus a wedding wall for couples coming from City Hall. On the House\n\n• A good city afternoon: Feed Me’s proposed route is the Krasner and Pollock show at The Met followed by a tuna-and-artichoke sandwich at Sant Ambroeus. Feed Me\n\nMusic to put on\n\nThe New York Times assembled an 11-song, 35-minute Jimmy Webb playlist: “Wichita Lineman,” “By the Time I Get to Phoenix,” “The Highwayman,” “MacArthur Park,” and the less obvious treat “P.F. Sloan.” Webb’s songs keep winning because they can be both meticulous pop craft and strange little human documents—the telephone lineman alone on the road, the soldier dreaming of Galveston, the melting cake that was apparently real. The Amplifier\n\nIdeas to steal\n\n• Carry a notebook with a pocket. Fuchsia Dunlop keeps notebooks for recipes, conversations, descriptions, diagrams, menus, and business cards; she prefers a blank Moleskine with a back pocket. Deez Links\n\n• Change the scenery, not the font. Dunlop’s writer’s-block cure is unexpectedly concrete: get on a train. “The best solution actually for a writer’s block is getting on a train for some reason.” Deez Links\n\n• Make the familiar feel ceremonial. Montague Diner’s fries-and-champagne idea is almost comically simple: take an ordinary food and give it a small occasion. On the House\n\n• For winter footwear, start with the overlooked drops. InsideHook’s list included the $160 Adidas x Satisfy Adizero Adios, a $200 Haven x Timberland Field Boot GTX, and a Salomon x MM6 Maison Margiela Crossderby for the person who wants their shoes to do more than behave. The Goods\n\nInternet oddities\n\n• The 2026 “I Voted” sticker apparently emerged from the machine misspelled: “CEKEVPATIVG EDELDOA,” presumably intended to say “CELEBRATING FREEDOM.” 404 Media\n\n• Today in Tabs found an AI-slop Star Wars political meme, cartoon feet cataloging, a melting-face emoji history, and a surreal short horror film called “Where’s Dinner?” in one single election-day dispatch. The internet remains undefeated at being too much. Today in Tabs\n\nOne-liners\n\n• “When you’re trying to finance an indie film, you ask people if they’re interested in putting money into the project, and they immediately sprint in the other direction. But if you say, ‘I’m opening a diner,’ people’s eyes light up.” — Gabriel Nussbaum, via On the House\n\n• Chad Harbach on finishing a novel: it was done when he could flip through the pages “and not slam my fist down on the desk in disgust.” — Book Gossip\n\n• “No curveballs.” — the diner philosophy, and possibly a reasonable election-night request. On the House",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "The day’s newsletters had one unifying mood: the future is arriving in oddly specific forms. AI is scraping fan fiction, financing data centers, and misspelling “freedom” on voting stickers; meanwhile, diners, old songs, good notebooks, and a plate of sesame chicken remain stubbornly legible.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "heading_2",
+          "runs": [
+            {
+              "text": "Best links",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "The fanfic scrape-and-sell fiasco.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " A vibe-coded Archive of Our Own clone called ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "ao3.life",
+              "url": "http://ao3.life/",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": " went down after authors filed more than 2,000 takedown notices in a single day. It had scraped works, offered EPUBs, and sold AI-generated audiobooks—an unusually crisp case study in “the internet is not your content warehouse.” ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "404 Media",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "A possible new dwarf planet.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " WIRED flags 2026 ED138, an object beyond Pluto that could be up to 1,500 kilometers across, pending confirmation that it qualifies as a dwarf planet. ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "WIRED Daily",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "The election-night cheat sheet.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " Silver Bulletin’s FLIPR forecast had Democrats as reasonably clear favorites to flip the Senate and very likely to flip the House, then laid out the races to watch as polls closed from 6 p.m. onward. Forecasts are not results, but the hour-by-hour framing is useful. ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Silver Bulletin",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "heading_2",
+          "runs": [
+            {
+              "text": "Worth reading",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "The Catapult question.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " Book Gossip reports that Catapult Book Group was sold, employees were told their continued employment with the buyer was not an option, and authors are worried about what happens to risk-taking literary publishing. Larissa Pham’s sharpest line: “We know that billionaires are capricious.” ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Book Gossip",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "The AI infrastructure “Otis” loop.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " Feed Me’s Anonymous Transit Expert argues that the AI buildout is increasingly financed through opaque debt and project vehicles while the grid, housing, transit, and ordinary ratepayers absorb the eventual bill. The metaphor: the first 24 seconds of Jay-Z and Kanye’s “Otis,” rewound until everyone loses their mind. ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Feed Me",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Don’t airportify the homepage.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " The same newsletter makes a compelling case that media companies are chasing premium B2B subscriptions with “SaaS envy,” risking a world where the business-class lounge flourishes while the public-facing homepage becomes the JFK Terminal 1 food court. ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Feed Me",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "heading_2",
+          "runs": [
+            {
+              "text": "Food & places",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Dinner tonight:",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " Melissa Clark’s 20-minute sesame chicken with cashews and dates: sweet dates against savory chicken and scallions, with a useful warning to cook in batches if your pan is small. ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "NYT Cooking",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Why diners endure.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " Montague Diner’s Gabriel Nussbaum says diners work because they promise “no curveballs”: dependable food, a table, coffee, and a place for a meeting, a family meal, or ten minutes alone. The restaurant’s charming house move is fries with champagne, plus a wedding wall for couples coming from City Hall. ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "On the House",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "A good city afternoon:",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " Feed Me’s proposed route is the Krasner and Pollock show at The Met followed by a tuna-and-artichoke sandwich at Sant Ambroeus. ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Feed Me",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "heading_2",
+          "runs": [
+            {
+              "text": "Music to put on",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "The New York Times assembled an 11-song, 35-minute Jimmy Webb playlist: “Wichita Lineman,” “By the Time I Get to Phoenix,” “The Highwayman,” “MacArthur Park,” and the less obvious treat “P.F. Sloan.” Webb’s songs keep winning because they can be both meticulous pop craft and strange little human documents—the telephone lineman alone on the road, the soldier dreaming of Galveston, the melting cake that was apparently real. ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "The Amplifier",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "heading_2",
+          "runs": [
+            {
+              "text": "Ideas to steal",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Carry a notebook with a pocket.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " Fuchsia Dunlop keeps notebooks for recipes, conversations, descriptions, diagrams, menus, and business cards; she prefers a blank Moleskine with a back pocket. ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Deez Links",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Change the scenery, not the font.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " Dunlop’s writer’s-block cure is unexpectedly concrete: get on a train. “The best solution actually for a writer’s block is getting on a train for some reason.” ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Deez Links",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Make the familiar feel ceremonial.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " Montague Diner’s fries-and-champagne idea is almost comically simple: take an ordinary food and give it a small occasion. ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "On the House",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "For winter footwear, start with the overlooked drops.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " InsideHook’s list included the $160 Adidas x Satisfy Adizero Adios, a $200 Haven x Timberland Field Boot GTX, and a Salomon x MM6 Maison Margiela Crossderby for the person who wants their shoes to do more than behave. ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "The Goods",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "heading_2",
+          "runs": [
+            {
+              "text": "Internet oddities",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "The 2026 “I Voted” sticker apparently emerged from the machine misspelled: “CEKEVPATIVG EDELDOA,” presumably intended to say “CELEBRATING FREEDOM.” ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "404 Media",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Today in Tabs found an AI-slop Star Wars political meme, cartoon feet cataloging, a melting-face emoji history, and a surreal short horror film called “Where’s Dinner?” in one single election-day dispatch. The internet remains undefeated at being too much. ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Today in Tabs",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "heading_2",
+          "runs": [
+            {
+              "text": "One-liners",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "“When you’re trying to finance an indie film, you ask people if they’re interested in putting money into the project, and they immediately sprint in the other direction. But if you say, ‘I’m opening a diner,’ people’s eyes light up.” — Gabriel Nussbaum, via ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "On the House",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Chad Harbach on finishing a novel: it was done when he could flip through the pages “and not slam my fist down on the desk in disgust.” — ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Book Gossip",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "“No curveballs.” — the diner philosophy, and possibly a reasonable election-night request. ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "On the House",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        }
+      ],
+      "publishedAt": "2026-11-03T22:12:00Z",
+      "links": [
+        {
+          "title": "ao3.life",
+          "url": "http://ao3.life/"
+        }
+      ]
     }
   ]
 }
