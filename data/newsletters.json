@@ -226087,6 +226087,2147 @@
           "url": "http://ao3.life/"
         }
       ]
+    },
+    {
+      "id": "digest-40e8153c-8a3e-81d5-85e7-f857f6818fc1",
+      "channel": "newsletters",
+      "source": "notion",
+      "kind": "Agent-written digest",
+      "domain": "Daily newsletter digest",
+      "title": "Voters reject tech oligarchy, Trump zeroes out Israel aid, Congress comes for ICE - Wednesday, November 4, 2026",
+      "url": "",
+      "description": "Wednesday, November 4, 2026 - Morning Edition",
+      "body": "Wednesday, November 4, 2026 - Morning Edition\n\nToday's Numbers\n\n• $6.34B: stolen from Binance in what the exchange says was a North Korean heist, pulled off with a fake job interview and a malicious download.\n\n• $31.6B: Apple's record Services revenue last quarter, up 9.8% from a year ago and $13 billion more per quarter than five years ago.\n\n• 13: the Democrats' national popular vote margin in points, per The Argument's postmortem. Their final poll was D+11, and even that undershot the wave.\n\n• 77%: of Gen Z voters who get their election news exclusively from influencers, per a new poll. Studies also find at least 35% of political influencers are paid by candidates.\n\n• 51%: the minimum share of data center services Nvidia now tells partners they must sell to companies outside China.\n\nQuotes of the Day\n\n• \"we believe that the world should accept some bad things happening for the benefits of this technology\" (Sam Altman, OpenAI CEO, defending AI's toll in a Politico interview last month)\n\n• \"data centers in space looking pretty appealing right now\" (Elon Musk, after voters rejected his candidates and data center projects)\n\n• \"his name wasn't actually on the ballot\" (Donald Trump, explaining why the midterm rout had nothing to do with him)\n\n• \"I never expected Texas to turn blue. Ugh, I moved here to get away from the left lunacy!\" (Jason Calacanis, venture capitalist, reacting to Tuesday's results)\n\nThe Blue Wave\n\n• Voters didn't just reject the Republican Party on Tuesday; they rejected Silicon Valley's whole worldview. Jason Koebler's 404 Media piece frames the midterms as a wholesale rejection of AI-powered kleptocracy. Voters restricted 39 of 40 AI data center ballot measures, Gina Hinojosa crushed Greg Abbott to become Texas governor, James Talarico became the first Democratic Texas senator in nearly 40 years, Sherrod Brown won Ohio by 5 points running against data centers, and Kathy Hochul won New York after enacting the country's first statewide hyperscale data center moratorium. Musk spent $474 million (including $212 million on Ken Paxton in Texas) and crypto and AI super PACs spent about $250 million; voter anger overwhelmed it all. (404 Media)\n\n• With both chambers flipping, Congress is about to come for ICE. Pablo Manriquez at Migrant Insider reports the new Democratic majorities can subpoena the agency, put agents under oath, and dig into no-bid contracts and detention conditions. Rep. Robert Garcia is expected to chair House Oversight, with the January killings of Renee Good and Alex Pretti as announced targets. The catch: Republicans locked in roughly $240 billion for the agency during this Congress, and that won't be easy to claw back. In Maine, Troy Jackson beat Susan Collins on a platform that included eliminating ICE. (Migrant Insider)\n\n• The day after Election Day, Trump announced a deal to draw U.S. aid to Israel to zero later this year. On Fox & Friends, Trump said Israel is \"fine with\" the $4 billion cut and pitched it as an optics win, asking why America should \"suffer the slings from lunatics like\" Michigan's Abdul El-Sayed. He also claimed the deal was in place \"months ago,\" which raises the obvious question of why voters only heard about it after the polls closed. (Pirate Wires)\n\nAI & The Machines\n\n• Most of the servers on the planet have a firmware flaw that lets attackers run code during boot. A critical bug in UEFI firmware, used by most server vendors and data centers, allows code execution early in the boot process, Ars Technica reports via WIRED. (WIRED)\n\n• Anduril and Qualcomm want to build the first fully American-made computer in 20 years, starting with a laptop. The \"Bluechip\" initiative is a first step toward U.S.-manufactured components and total tech self-sufficiency. Palmer Luckey says building computers in America should be a matter of \"national pride.\" (Pirate Wires)\n\n• A UK politician got deepfaked, and now she's taking xAI to court. Jess Asato campaigned for victims of online abuse, then became a victim of Grok's deepfake scandal herself. She's suing. (WIRED)\n\nMoney & Power\n\n• McDonald's is going to court over what the McRib actually is. Judges ruled the company must defend a lawsuit claiming the sandwich misleads customers, since it contains no ribcage meat, only \"seasoned boneless pork dipped in a tangy BBQ sauce.\" Snacks notes the plaintiffs may come for bacon bits and crab sticks next. (The Independent)\n\nThe Culture\n\n• The dogs of Chernobyl appear to be evolving, and scientists don't know why. A new study found evidence of natural selection in the area's dogs; what's driving the genetic differences, and what advantage they might give, is still unclear. (WIRED)\n\n• Opioid users found a \"miracle drug\" for withdrawal. Then the DEA banned it. On Reddit and Discord, people addicted to opioids say SR-17018 removes withdrawal symptoms. Despite its potential, the DEA put it in the same category as heroin. (WIRED)\n\nQuick Hits & Curiosities\n\n• Nominations are open for the Hoboken Girl's Best of Hoboken + Jersey City 2026 guide through December 11, and this year it's fully reader-chosen with no sponsored spots, so nobody can buy their way on. (The Hoboken Girl)\n\n• A vibe-coded AO3 clone called ao3.life was scraping fanfiction and selling it as audiobooks until fanfic authors buried it with 2,000 takedown notices. (404 Media)\n\n• World of Warcraft: Forever is already overrun with AI slop: vibe-coded addons are so bad that Warcraft Logs is changing its API. (404 Media)\n\n• The Pentagon released a full-resolution image of China's top-secret spaceplane, and its capabilities remain mysterious. (WIRED)\n\n• Former MIT scientist David Sabatini, once on track for a Nobel, won a $6 million lawsuit over false sexual assault allegations that cost him his funding, his job, and left him bankrupt. (Pirate Wires)\n\n• Two Columbia juniors wrote an op-ed arguing the Cornell \"Jane Doe\" encounter may have been consensual; classmates told them to \"kill themselves\" and a free speech club canceled an event with their editor. (Pirate Wires)\n\n• Someone is hacking refrigerators and freezers in supermarkets across Europe, and nobody knows who or why. (The Guardian)",
+      "blocks": [
+        {
+          "type": "heading_1",
+          "runs": [
+            {
+              "text": "Wednesday, November 4, 2026 - Morning Edition",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Today's Numbers",
+              "url": "",
+              "bold": true,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "$6.34B",
+              "url": "https://www.wired.com/",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": ": stolen from Binance in what the exchange says was a North Korean heist, pulled off with a fake job interview and a malicious download.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "$31.6B",
+              "url": "https://variety.com/2026/digital/news/apple-september-2026-earnings-services-revenue-hits-new-record-1236937903/",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": ": Apple's record Services revenue last quarter, up 9.8% from a year ago and $13 billion more per quarter than five years ago.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "13",
+              "url": "https://www.theargumentmag.com/",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": ": the Democrats' national popular vote margin in points, per The Argument's postmortem. Their final poll was D+11, and even that undershot the wave.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "77%",
+              "url": "https://www.piratewires.com/",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": ": of Gen Z voters who get their election news exclusively from influencers, per a new poll. Studies also find at least 35% of political influencers are paid by candidates.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "51%",
+              "url": "https://www.ft.com/content/1902df70-1380-4588-bad5-171352b575f2",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": ": the minimum share of data center services Nvidia now tells partners they must sell to companies outside China.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Quotes of the Day",
+              "url": "",
+              "bold": true,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "\"we believe that the world should accept some bad things happening for the benefits of this technology\" (Sam Altman, OpenAI CEO, defending AI's toll in a Politico interview last month)",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "\"data centers in space looking pretty appealing right now\" (Elon Musk, after voters rejected his candidates and data center projects)",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "\"his name wasn't actually on the ballot\" (Donald Trump, explaining why the midterm rout had nothing to do with him)",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "\"I never expected Texas to turn blue. Ugh, I moved here to get away from the left lunacy!\" (Jason Calacanis, venture capitalist, reacting to Tuesday's results)",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "The Blue Wave",
+              "url": "",
+              "bold": true,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Voters didn't just reject the Republican Party on Tuesday; they rejected Silicon Valley's whole worldview.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " Jason Koebler's 404 Media piece frames the midterms as a wholesale rejection of AI-powered kleptocracy. Voters restricted 39 of 40 AI data center ballot measures, Gina Hinojosa crushed Greg Abbott to become Texas governor, James Talarico became the first Democratic Texas senator in nearly 40 years, Sherrod Brown won Ohio by 5 points running against data centers, and Kathy Hochul won New York after enacting the country's first statewide hyperscale data center moratorium. Musk spent $474 million (including $212 million on Ken Paxton in Texas) and crypto and AI super PACs spent about $250 million; voter anger overwhelmed it all. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "404 Media",
+              "url": "https://www.404media.co/r/2a350038",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "With both chambers flipping, Congress is about to come for ICE.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " Pablo Manriquez at Migrant Insider reports the new Democratic majorities can subpoena the agency, put agents under oath, and dig into no-bid contracts and detention conditions. Rep. Robert Garcia is expected to chair House Oversight, with the January killings of Renee Good and Alex Pretti as announced targets. The catch: Republicans locked in roughly $240 billion for the agency during this Congress, and that won't be easy to claw back. In Maine, Troy Jackson beat Susan Collins on a platform that included eliminating ICE. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Migrant Insider",
+              "url": "https://migrantinsider.com/",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "The day after Election Day, Trump announced a deal to draw U.S. aid to Israel to zero later this year.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " On Fox & Friends, Trump said Israel is \"fine with\" the $4 billion cut and pitched it as an optics win, asking why America should \"suffer the slings from lunatics like\" Michigan's Abdul El-Sayed. He also claimed the deal was in place \"months ago,\" which raises the obvious question of why voters only heard about it after the polls closed. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Pirate Wires",
+              "url": "https://www.piratewires.com/",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "AI & The Machines",
+              "url": "",
+              "bold": true,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Most of the servers on the planet have a firmware flaw that lets attackers run code during boot.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " A critical bug in UEFI firmware, used by most server vendors and data centers, allows code execution early in the boot process, Ars Technica reports via WIRED. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "WIRED",
+              "url": "https://www.wired.com/",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Anduril and Qualcomm want to build the first fully American-made computer in 20 years, starting with a laptop.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " The \"Bluechip\" initiative is a first step toward U.S.-manufactured components and total tech self-sufficiency. Palmer Luckey says building computers in America should be a matter of \"national pride.\" (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Pirate Wires",
+              "url": "https://www.piratewires.com/",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "A UK politician got deepfaked, and now she's taking xAI to court.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " Jess Asato campaigned for victims of online abuse, then became a victim of Grok's deepfake scandal herself. She's suing. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "WIRED",
+              "url": "https://www.wired.com/",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Money & Power",
+              "url": "",
+              "bold": true,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "McDonald's is going to court over what the McRib actually is.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " Judges ruled the company must defend a lawsuit claiming the sandwich misleads customers, since it contains no ribcage meat, only \"seasoned boneless pork dipped in a tangy BBQ sauce.\" Snacks notes the plaintiffs may come for bacon bits and crab sticks next. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "The Independent",
+              "url": "https://www.independent.co.uk/news/world/americas/mcdonalds-mcrib-sandwich-lawsuit-fraud-b3078286.html",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "The Culture",
+              "url": "",
+              "bold": true,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "The dogs of Chernobyl appear to be evolving, and scientists don't know why.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " A new study found evidence of natural selection in the area's dogs; what's driving the genetic differences, and what advantage they might give, is still unclear. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "WIRED",
+              "url": "https://www.wired.com/",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Opioid users found a \"miracle drug\" for withdrawal. Then the DEA banned it.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " On Reddit and Discord, people addicted to opioids say SR-17018 removes withdrawal symptoms. Despite its potential, the DEA put it in the same category as heroin. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "WIRED",
+              "url": "https://www.wired.com/",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Quick Hits & Curiosities",
+              "url": "",
+              "bold": true,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Nominations are open for the Hoboken Girl's Best of Hoboken + Jersey City 2026 guide through December 11, and this year it's fully reader-chosen with no sponsored spots, so nobody can buy their way on. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "The Hoboken Girl",
+              "url": "https://www.hobokengirl.com/best-of-hoboken-jersey-city-guide-2026-nominations/",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "A vibe-coded AO3 clone called ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "ao3.life",
+              "url": "http://ao3.life/",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": " was scraping fanfiction and selling it as audiobooks until fanfic authors buried it with 2,000 takedown notices. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "404 Media",
+              "url": "https://www.404media.co/r/ec63d9e7",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "World of Warcraft: Forever is already overrun with AI slop: vibe-coded addons are so bad that Warcraft Logs is changing its API. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "404 Media",
+              "url": "https://www.404media.co/r/80f4a2ef",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "The Pentagon released a full-resolution image of China's top-secret spaceplane, and its capabilities remain mysterious. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "WIRED",
+              "url": "https://www.wired.com/",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Former MIT scientist David Sabatini, once on track for a Nobel, won a $6 million lawsuit over false sexual assault allegations that cost him his funding, his job, and left him bankrupt. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Pirate Wires",
+              "url": "https://www.piratewires.com/",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Two Columbia juniors wrote an op-ed arguing the Cornell \"Jane Doe\" encounter may have been consensual; classmates told them to \"kill themselves\" and a free speech club canceled an event with their editor. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Pirate Wires",
+              "url": "https://www.piratewires.com/",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Someone is hacking refrigerators and freezers in supermarkets across Europe, and nobody knows who or why. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "The Guardian",
+              "url": "https://www.theguardian.com/technology/2026/nov/02/europe-supermarket-fridges-freezers-who-hacking-why",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        }
+      ],
+      "publishedAt": "2026-11-04T13:02:00Z",
+      "links": [
+        {
+          "title": "WIRED",
+          "url": "https://www.wired.com/"
+        },
+        {
+          "title": "$31.6B",
+          "url": "https://variety.com/2026/digital/news/apple-september-2026-earnings-services-revenue-hits-new-record-1236937903/"
+        },
+        {
+          "title": "13",
+          "url": "https://www.theargumentmag.com/"
+        },
+        {
+          "title": "Pirate Wires",
+          "url": "https://www.piratewires.com/"
+        },
+        {
+          "title": "51%",
+          "url": "https://www.ft.com/content/1902df70-1380-4588-bad5-171352b575f2"
+        },
+        {
+          "title": "404 Media",
+          "url": "https://www.404media.co/r/2a350038"
+        },
+        {
+          "title": "Migrant Insider",
+          "url": "https://migrantinsider.com/"
+        },
+        {
+          "title": "The Independent",
+          "url": "https://www.independent.co.uk/news/world/americas/mcdonalds-mcrib-sandwich-lawsuit-fraud-b3078286.html"
+        },
+        {
+          "title": "The Hoboken Girl",
+          "url": "https://www.hobokengirl.com/best-of-hoboken-jersey-city-guide-2026-nominations/"
+        },
+        {
+          "title": "ao3.life",
+          "url": "http://ao3.life/"
+        },
+        {
+          "title": "404 Media",
+          "url": "https://www.404media.co/r/ec63d9e7"
+        },
+        {
+          "title": "404 Media",
+          "url": "https://www.404media.co/r/80f4a2ef"
+        },
+        {
+          "title": "The Guardian",
+          "url": "https://www.theguardian.com/technology/2026/nov/02/europe-supermarket-fridges-freezers-who-hacking-why"
+        }
+      ],
+      "versions": {
+        "morning": {
+          "body": "Wednesday, November 4, 2026 - Morning Edition\n\nToday's Numbers\n\n• $6.34B: stolen from Binance in what the exchange says was a North Korean heist, pulled off with a fake job interview and a malicious download.\n\n• $31.6B: Apple's record Services revenue last quarter, up 9.8% from a year ago and $13 billion more per quarter than five years ago.\n\n• 13: the Democrats' national popular vote margin in points, per The Argument's postmortem. Their final poll was D+11, and even that undershot the wave.\n\n• 77%: of Gen Z voters who get their election news exclusively from influencers, per a new poll. Studies also find at least 35% of political influencers are paid by candidates.\n\n• 51%: the minimum share of data center services Nvidia now tells partners they must sell to companies outside China.\n\nQuotes of the Day\n\n• \"we believe that the world should accept some bad things happening for the benefits of this technology\" (Sam Altman, OpenAI CEO, defending AI's toll in a Politico interview last month)\n\n• \"data centers in space looking pretty appealing right now\" (Elon Musk, after voters rejected his candidates and data center projects)\n\n• \"his name wasn't actually on the ballot\" (Donald Trump, explaining why the midterm rout had nothing to do with him)\n\n• \"I never expected Texas to turn blue. Ugh, I moved here to get away from the left lunacy!\" (Jason Calacanis, venture capitalist, reacting to Tuesday's results)\n\nThe Blue Wave\n\n• Voters didn't just reject the Republican Party on Tuesday; they rejected Silicon Valley's whole worldview. Jason Koebler's 404 Media piece frames the midterms as a wholesale rejection of AI-powered kleptocracy. Voters restricted 39 of 40 AI data center ballot measures, Gina Hinojosa crushed Greg Abbott to become Texas governor, James Talarico became the first Democratic Texas senator in nearly 40 years, Sherrod Brown won Ohio by 5 points running against data centers, and Kathy Hochul won New York after enacting the country's first statewide hyperscale data center moratorium. Musk spent $474 million (including $212 million on Ken Paxton in Texas) and crypto and AI super PACs spent about $250 million; voter anger overwhelmed it all. (404 Media)\n\n• With both chambers flipping, Congress is about to come for ICE. Pablo Manriquez at Migrant Insider reports the new Democratic majorities can subpoena the agency, put agents under oath, and dig into no-bid contracts and detention conditions. Rep. Robert Garcia is expected to chair House Oversight, with the January killings of Renee Good and Alex Pretti as announced targets. The catch: Republicans locked in roughly $240 billion for the agency during this Congress, and that won't be easy to claw back. In Maine, Troy Jackson beat Susan Collins on a platform that included eliminating ICE. (Migrant Insider)\n\n• The day after Election Day, Trump announced a deal to draw U.S. aid to Israel to zero later this year. On Fox & Friends, Trump said Israel is \"fine with\" the $4 billion cut and pitched it as an optics win, asking why America should \"suffer the slings from lunatics like\" Michigan's Abdul El-Sayed. He also claimed the deal was in place \"months ago,\" which raises the obvious question of why voters only heard about it after the polls closed. (Pirate Wires)\n\nAI & The Machines\n\n• Most of the servers on the planet have a firmware flaw that lets attackers run code during boot. A critical bug in UEFI firmware, used by most server vendors and data centers, allows code execution early in the boot process, Ars Technica reports via WIRED. (WIRED)\n\n• Anduril and Qualcomm want to build the first fully American-made computer in 20 years, starting with a laptop. The \"Bluechip\" initiative is a first step toward U.S.-manufactured components and total tech self-sufficiency. Palmer Luckey says building computers in America should be a matter of \"national pride.\" (Pirate Wires)\n\n• A UK politician got deepfaked, and now she's taking xAI to court. Jess Asato campaigned for victims of online abuse, then became a victim of Grok's deepfake scandal herself. She's suing. (WIRED)\n\nMoney & Power\n\n• McDonald's is going to court over what the McRib actually is. Judges ruled the company must defend a lawsuit claiming the sandwich misleads customers, since it contains no ribcage meat, only \"seasoned boneless pork dipped in a tangy BBQ sauce.\" Snacks notes the plaintiffs may come for bacon bits and crab sticks next. (The Independent)\n\nThe Culture\n\n• The dogs of Chernobyl appear to be evolving, and scientists don't know why. A new study found evidence of natural selection in the area's dogs; what's driving the genetic differences, and what advantage they might give, is still unclear. (WIRED)\n\n• Opioid users found a \"miracle drug\" for withdrawal. Then the DEA banned it. On Reddit and Discord, people addicted to opioids say SR-17018 removes withdrawal symptoms. Despite its potential, the DEA put it in the same category as heroin. (WIRED)\n\nQuick Hits & Curiosities\n\n• Nominations are open for the Hoboken Girl's Best of Hoboken + Jersey City 2026 guide through December 11, and this year it's fully reader-chosen with no sponsored spots, so nobody can buy their way on. (The Hoboken Girl)\n\n• A vibe-coded AO3 clone called ao3.life was scraping fanfiction and selling it as audiobooks until fanfic authors buried it with 2,000 takedown notices. (404 Media)\n\n• World of Warcraft: Forever is already overrun with AI slop: vibe-coded addons are so bad that Warcraft Logs is changing its API. (404 Media)\n\n• The Pentagon released a full-resolution image of China's top-secret spaceplane, and its capabilities remain mysterious. (WIRED)\n\n• Former MIT scientist David Sabatini, once on track for a Nobel, won a $6 million lawsuit over false sexual assault allegations that cost him his funding, his job, and left him bankrupt. (Pirate Wires)\n\n• Two Columbia juniors wrote an op-ed arguing the Cornell \"Jane Doe\" encounter may have been consensual; classmates told them to \"kill themselves\" and a free speech club canceled an event with their editor. (Pirate Wires)\n\n• Someone is hacking refrigerators and freezers in supermarkets across Europe, and nobody knows who or why. (The Guardian)",
+          "blocks": [
+            {
+              "type": "heading_1",
+              "runs": [
+                {
+                  "text": "Wednesday, November 4, 2026 - Morning Edition",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Today's Numbers",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "$6.34B",
+                  "url": "https://www.wired.com/",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": stolen from Binance in what the exchange says was a North Korean heist, pulled off with a fake job interview and a malicious download.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "$31.6B",
+                  "url": "https://variety.com/2026/digital/news/apple-september-2026-earnings-services-revenue-hits-new-record-1236937903/",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": Apple's record Services revenue last quarter, up 9.8% from a year ago and $13 billion more per quarter than five years ago.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "13",
+                  "url": "https://www.theargumentmag.com/",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": the Democrats' national popular vote margin in points, per The Argument's postmortem. Their final poll was D+11, and even that undershot the wave.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "77%",
+                  "url": "https://www.piratewires.com/",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": of Gen Z voters who get their election news exclusively from influencers, per a new poll. Studies also find at least 35% of political influencers are paid by candidates.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "51%",
+                  "url": "https://www.ft.com/content/1902df70-1380-4588-bad5-171352b575f2",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": the minimum share of data center services Nvidia now tells partners they must sell to companies outside China.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Quotes of the Day",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "\"we believe that the world should accept some bad things happening for the benefits of this technology\" (Sam Altman, OpenAI CEO, defending AI's toll in a Politico interview last month)",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "\"data centers in space looking pretty appealing right now\" (Elon Musk, after voters rejected his candidates and data center projects)",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "\"his name wasn't actually on the ballot\" (Donald Trump, explaining why the midterm rout had nothing to do with him)",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "\"I never expected Texas to turn blue. Ugh, I moved here to get away from the left lunacy!\" (Jason Calacanis, venture capitalist, reacting to Tuesday's results)",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "The Blue Wave",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Voters didn't just reject the Republican Party on Tuesday; they rejected Silicon Valley's whole worldview.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " Jason Koebler's 404 Media piece frames the midterms as a wholesale rejection of AI-powered kleptocracy. Voters restricted 39 of 40 AI data center ballot measures, Gina Hinojosa crushed Greg Abbott to become Texas governor, James Talarico became the first Democratic Texas senator in nearly 40 years, Sherrod Brown won Ohio by 5 points running against data centers, and Kathy Hochul won New York after enacting the country's first statewide hyperscale data center moratorium. Musk spent $474 million (including $212 million on Ken Paxton in Texas) and crypto and AI super PACs spent about $250 million; voter anger overwhelmed it all. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "404 Media",
+                  "url": "https://www.404media.co/r/2a350038",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "With both chambers flipping, Congress is about to come for ICE.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " Pablo Manriquez at Migrant Insider reports the new Democratic majorities can subpoena the agency, put agents under oath, and dig into no-bid contracts and detention conditions. Rep. Robert Garcia is expected to chair House Oversight, with the January killings of Renee Good and Alex Pretti as announced targets. The catch: Republicans locked in roughly $240 billion for the agency during this Congress, and that won't be easy to claw back. In Maine, Troy Jackson beat Susan Collins on a platform that included eliminating ICE. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Migrant Insider",
+                  "url": "https://migrantinsider.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "The day after Election Day, Trump announced a deal to draw U.S. aid to Israel to zero later this year.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " On Fox & Friends, Trump said Israel is \"fine with\" the $4 billion cut and pitched it as an optics win, asking why America should \"suffer the slings from lunatics like\" Michigan's Abdul El-Sayed. He also claimed the deal was in place \"months ago,\" which raises the obvious question of why voters only heard about it after the polls closed. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Pirate Wires",
+                  "url": "https://www.piratewires.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "AI & The Machines",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Most of the servers on the planet have a firmware flaw that lets attackers run code during boot.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " A critical bug in UEFI firmware, used by most server vendors and data centers, allows code execution early in the boot process, Ars Technica reports via WIRED. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "WIRED",
+                  "url": "https://www.wired.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Anduril and Qualcomm want to build the first fully American-made computer in 20 years, starting with a laptop.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " The \"Bluechip\" initiative is a first step toward U.S.-manufactured components and total tech self-sufficiency. Palmer Luckey says building computers in America should be a matter of \"national pride.\" (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Pirate Wires",
+                  "url": "https://www.piratewires.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "A UK politician got deepfaked, and now she's taking xAI to court.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " Jess Asato campaigned for victims of online abuse, then became a victim of Grok's deepfake scandal herself. She's suing. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "WIRED",
+                  "url": "https://www.wired.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Money & Power",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "McDonald's is going to court over what the McRib actually is.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " Judges ruled the company must defend a lawsuit claiming the sandwich misleads customers, since it contains no ribcage meat, only \"seasoned boneless pork dipped in a tangy BBQ sauce.\" Snacks notes the plaintiffs may come for bacon bits and crab sticks next. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "The Independent",
+                  "url": "https://www.independent.co.uk/news/world/americas/mcdonalds-mcrib-sandwich-lawsuit-fraud-b3078286.html",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "The Culture",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "The dogs of Chernobyl appear to be evolving, and scientists don't know why.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " A new study found evidence of natural selection in the area's dogs; what's driving the genetic differences, and what advantage they might give, is still unclear. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "WIRED",
+                  "url": "https://www.wired.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Opioid users found a \"miracle drug\" for withdrawal. Then the DEA banned it.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " On Reddit and Discord, people addicted to opioids say SR-17018 removes withdrawal symptoms. Despite its potential, the DEA put it in the same category as heroin. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "WIRED",
+                  "url": "https://www.wired.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Quick Hits & Curiosities",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Nominations are open for the Hoboken Girl's Best of Hoboken + Jersey City 2026 guide through December 11, and this year it's fully reader-chosen with no sponsored spots, so nobody can buy their way on. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "The Hoboken Girl",
+                  "url": "https://www.hobokengirl.com/best-of-hoboken-jersey-city-guide-2026-nominations/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "A vibe-coded AO3 clone called ",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "ao3.life",
+                  "url": "http://ao3.life/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": " was scraping fanfiction and selling it as audiobooks until fanfic authors buried it with 2,000 takedown notices. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "404 Media",
+                  "url": "https://www.404media.co/r/ec63d9e7",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "World of Warcraft: Forever is already overrun with AI slop: vibe-coded addons are so bad that Warcraft Logs is changing its API. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "404 Media",
+                  "url": "https://www.404media.co/r/80f4a2ef",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "The Pentagon released a full-resolution image of China's top-secret spaceplane, and its capabilities remain mysterious. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "WIRED",
+                  "url": "https://www.wired.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Former MIT scientist David Sabatini, once on track for a Nobel, won a $6 million lawsuit over false sexual assault allegations that cost him his funding, his job, and left him bankrupt. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Pirate Wires",
+                  "url": "https://www.piratewires.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Two Columbia juniors wrote an op-ed arguing the Cornell \"Jane Doe\" encounter may have been consensual; classmates told them to \"kill themselves\" and a free speech club canceled an event with their editor. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Pirate Wires",
+                  "url": "https://www.piratewires.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Someone is hacking refrigerators and freezers in supermarkets across Europe, and nobody knows who or why. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "The Guardian",
+                  "url": "https://www.theguardian.com/technology/2026/nov/02/europe-supermarket-fridges-freezers-who-hacking-why",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            }
+          ],
+          "links": [
+            {
+              "title": "WIRED",
+              "url": "https://www.wired.com/"
+            },
+            {
+              "title": "$31.6B",
+              "url": "https://variety.com/2026/digital/news/apple-september-2026-earnings-services-revenue-hits-new-record-1236937903/"
+            },
+            {
+              "title": "13",
+              "url": "https://www.theargumentmag.com/"
+            },
+            {
+              "title": "Pirate Wires",
+              "url": "https://www.piratewires.com/"
+            },
+            {
+              "title": "51%",
+              "url": "https://www.ft.com/content/1902df70-1380-4588-bad5-171352b575f2"
+            },
+            {
+              "title": "404 Media",
+              "url": "https://www.404media.co/r/2a350038"
+            },
+            {
+              "title": "Migrant Insider",
+              "url": "https://migrantinsider.com/"
+            },
+            {
+              "title": "The Independent",
+              "url": "https://www.independent.co.uk/news/world/americas/mcdonalds-mcrib-sandwich-lawsuit-fraud-b3078286.html"
+            },
+            {
+              "title": "The Hoboken Girl",
+              "url": "https://www.hobokengirl.com/best-of-hoboken-jersey-city-guide-2026-nominations/"
+            },
+            {
+              "title": "ao3.life",
+              "url": "http://ao3.life/"
+            },
+            {
+              "title": "404 Media",
+              "url": "https://www.404media.co/r/ec63d9e7"
+            },
+            {
+              "title": "404 Media",
+              "url": "https://www.404media.co/r/80f4a2ef"
+            },
+            {
+              "title": "The Guardian",
+              "url": "https://www.theguardian.com/technology/2026/nov/02/europe-supermarket-fridges-freezers-who-hacking-why"
+            }
+          ]
+        },
+        "full": {
+          "body": "Wednesday, November 4, 2026 - Morning Edition\n\nToday's Numbers\n\n• $6.34B: stolen from Binance in what the exchange says was a North Korean heist, pulled off with a fake job interview and a malicious download.\n\n• $31.6B: Apple's record Services revenue last quarter, up 9.8% from a year ago and $13 billion more per quarter than five years ago.\n\n• 13: the Democrats' national popular vote margin in points, per The Argument's postmortem. Their final poll was D+11, and even that undershot the wave.\n\n• 77%: of Gen Z voters who get their election news exclusively from influencers, per a new poll. Studies also find at least 35% of political influencers are paid by candidates.\n\n• 51%: the minimum share of data center services Nvidia now tells partners they must sell to companies outside China.\n\nQuotes of the Day\n\n• \"we believe that the world should accept some bad things happening for the benefits of this technology\" (Sam Altman, OpenAI CEO, defending AI's toll in a Politico interview last month)\n\n• \"data centers in space looking pretty appealing right now\" (Elon Musk, after voters rejected his candidates and data center projects)\n\n• \"his name wasn't actually on the ballot\" (Donald Trump, explaining why the midterm rout had nothing to do with him)\n\n• \"I never expected Texas to turn blue. Ugh, I moved here to get away from the left lunacy!\" (Jason Calacanis, venture capitalist, reacting to Tuesday's results)\n\nThe Blue Wave\n\n• Voters didn't just reject the Republican Party on Tuesday; they rejected Silicon Valley's whole worldview. Jason Koebler's 404 Media piece frames the midterms as a wholesale rejection of AI-powered kleptocracy. Voters restricted 39 of 40 AI data center ballot measures, Gina Hinojosa crushed Greg Abbott to become Texas governor, James Talarico became the first Democratic Texas senator in nearly 40 years, Sherrod Brown won Ohio by 5 points running against data centers, and Kathy Hochul won New York after enacting the country's first statewide hyperscale data center moratorium. Musk spent $474 million (including $212 million on Ken Paxton in Texas) and crypto and AI super PACs spent about $250 million; voter anger overwhelmed it all. (404 Media)\n\n• With both chambers flipping, Congress is about to come for ICE. Pablo Manriquez at Migrant Insider reports the new Democratic majorities can subpoena the agency, put agents under oath, and dig into no-bid contracts and detention conditions. Rep. Robert Garcia is expected to chair House Oversight, with the January killings of Renee Good and Alex Pretti as announced targets. The catch: Republicans locked in roughly $240 billion for the agency during this Congress, and that won't be easy to claw back. In Maine, Troy Jackson beat Susan Collins on a platform that included eliminating ICE. (Migrant Insider)\n\n• The day after Election Day, Trump announced a deal to draw U.S. aid to Israel to zero later this year. On Fox & Friends, Trump said Israel is \"fine with\" the $4 billion cut and pitched it as an optics win, asking why America should \"suffer the slings from lunatics like\" Michigan's Abdul El-Sayed. He also claimed the deal was in place \"months ago,\" which raises the obvious question of why voters only heard about it after the polls closed. (Pirate Wires)\n\nAI & The Machines\n\n• Most of the servers on the planet have a firmware flaw that lets attackers run code during boot. A critical bug in UEFI firmware, used by most server vendors and data centers, allows code execution early in the boot process, Ars Technica reports via WIRED. (WIRED)\n\n• Anduril and Qualcomm want to build the first fully American-made computer in 20 years, starting with a laptop. The \"Bluechip\" initiative is a first step toward U.S.-manufactured components and total tech self-sufficiency. Palmer Luckey says building computers in America should be a matter of \"national pride.\" (Pirate Wires)\n\n• A UK politician got deepfaked, and now she's taking xAI to court. Jess Asato campaigned for victims of online abuse, then became a victim of Grok's deepfake scandal herself. She's suing. (WIRED)\n\nMoney & Power\n\n• McDonald's is going to court over what the McRib actually is. Judges ruled the company must defend a lawsuit claiming the sandwich misleads customers, since it contains no ribcage meat, only \"seasoned boneless pork dipped in a tangy BBQ sauce.\" Snacks notes the plaintiffs may come for bacon bits and crab sticks next. (The Independent)\n\nThe Culture\n\n• The dogs of Chernobyl appear to be evolving, and scientists don't know why. A new study found evidence of natural selection in the area's dogs; what's driving the genetic differences, and what advantage they might give, is still unclear. (WIRED)\n\n• Opioid users found a \"miracle drug\" for withdrawal. Then the DEA banned it. On Reddit and Discord, people addicted to opioids say SR-17018 removes withdrawal symptoms. Despite its potential, the DEA put it in the same category as heroin. (WIRED)\n\nQuick Hits & Curiosities\n\n• Nominations are open for the Hoboken Girl's Best of Hoboken + Jersey City 2026 guide through December 11, and this year it's fully reader-chosen with no sponsored spots, so nobody can buy their way on. (The Hoboken Girl)\n\n• A vibe-coded AO3 clone called ao3.life was scraping fanfiction and selling it as audiobooks until fanfic authors buried it with 2,000 takedown notices. (404 Media)\n\n• World of Warcraft: Forever is already overrun with AI slop: vibe-coded addons are so bad that Warcraft Logs is changing its API. (404 Media)\n\n• The Pentagon released a full-resolution image of China's top-secret spaceplane, and its capabilities remain mysterious. (WIRED)\n\n• Former MIT scientist David Sabatini, once on track for a Nobel, won a $6 million lawsuit over false sexual assault allegations that cost him his funding, his job, and left him bankrupt. (Pirate Wires)\n\n• Two Columbia juniors wrote an op-ed arguing the Cornell \"Jane Doe\" encounter may have been consensual; classmates told them to \"kill themselves\" and a free speech club canceled an event with their editor. (Pirate Wires)\n\n• Someone is hacking refrigerators and freezers in supermarkets across Europe, and nobody knows who or why. (The Guardian)",
+          "blocks": [
+            {
+              "type": "heading_1",
+              "runs": [
+                {
+                  "text": "Wednesday, November 4, 2026 - Morning Edition",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Today's Numbers",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "$6.34B",
+                  "url": "https://www.wired.com/",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": stolen from Binance in what the exchange says was a North Korean heist, pulled off with a fake job interview and a malicious download.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "$31.6B",
+                  "url": "https://variety.com/2026/digital/news/apple-september-2026-earnings-services-revenue-hits-new-record-1236937903/",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": Apple's record Services revenue last quarter, up 9.8% from a year ago and $13 billion more per quarter than five years ago.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "13",
+                  "url": "https://www.theargumentmag.com/",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": the Democrats' national popular vote margin in points, per The Argument's postmortem. Their final poll was D+11, and even that undershot the wave.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "77%",
+                  "url": "https://www.piratewires.com/",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": of Gen Z voters who get their election news exclusively from influencers, per a new poll. Studies also find at least 35% of political influencers are paid by candidates.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "51%",
+                  "url": "https://www.ft.com/content/1902df70-1380-4588-bad5-171352b575f2",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": the minimum share of data center services Nvidia now tells partners they must sell to companies outside China.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Quotes of the Day",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "\"we believe that the world should accept some bad things happening for the benefits of this technology\" (Sam Altman, OpenAI CEO, defending AI's toll in a Politico interview last month)",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "\"data centers in space looking pretty appealing right now\" (Elon Musk, after voters rejected his candidates and data center projects)",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "\"his name wasn't actually on the ballot\" (Donald Trump, explaining why the midterm rout had nothing to do with him)",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "\"I never expected Texas to turn blue. Ugh, I moved here to get away from the left lunacy!\" (Jason Calacanis, venture capitalist, reacting to Tuesday's results)",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "The Blue Wave",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Voters didn't just reject the Republican Party on Tuesday; they rejected Silicon Valley's whole worldview.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " Jason Koebler's 404 Media piece frames the midterms as a wholesale rejection of AI-powered kleptocracy. Voters restricted 39 of 40 AI data center ballot measures, Gina Hinojosa crushed Greg Abbott to become Texas governor, James Talarico became the first Democratic Texas senator in nearly 40 years, Sherrod Brown won Ohio by 5 points running against data centers, and Kathy Hochul won New York after enacting the country's first statewide hyperscale data center moratorium. Musk spent $474 million (including $212 million on Ken Paxton in Texas) and crypto and AI super PACs spent about $250 million; voter anger overwhelmed it all. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "404 Media",
+                  "url": "https://www.404media.co/r/2a350038",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "With both chambers flipping, Congress is about to come for ICE.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " Pablo Manriquez at Migrant Insider reports the new Democratic majorities can subpoena the agency, put agents under oath, and dig into no-bid contracts and detention conditions. Rep. Robert Garcia is expected to chair House Oversight, with the January killings of Renee Good and Alex Pretti as announced targets. The catch: Republicans locked in roughly $240 billion for the agency during this Congress, and that won't be easy to claw back. In Maine, Troy Jackson beat Susan Collins on a platform that included eliminating ICE. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Migrant Insider",
+                  "url": "https://migrantinsider.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "The day after Election Day, Trump announced a deal to draw U.S. aid to Israel to zero later this year.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " On Fox & Friends, Trump said Israel is \"fine with\" the $4 billion cut and pitched it as an optics win, asking why America should \"suffer the slings from lunatics like\" Michigan's Abdul El-Sayed. He also claimed the deal was in place \"months ago,\" which raises the obvious question of why voters only heard about it after the polls closed. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Pirate Wires",
+                  "url": "https://www.piratewires.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "AI & The Machines",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Most of the servers on the planet have a firmware flaw that lets attackers run code during boot.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " A critical bug in UEFI firmware, used by most server vendors and data centers, allows code execution early in the boot process, Ars Technica reports via WIRED. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "WIRED",
+                  "url": "https://www.wired.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Anduril and Qualcomm want to build the first fully American-made computer in 20 years, starting with a laptop.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " The \"Bluechip\" initiative is a first step toward U.S.-manufactured components and total tech self-sufficiency. Palmer Luckey says building computers in America should be a matter of \"national pride.\" (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Pirate Wires",
+                  "url": "https://www.piratewires.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "A UK politician got deepfaked, and now she's taking xAI to court.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " Jess Asato campaigned for victims of online abuse, then became a victim of Grok's deepfake scandal herself. She's suing. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "WIRED",
+                  "url": "https://www.wired.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Money & Power",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "McDonald's is going to court over what the McRib actually is.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " Judges ruled the company must defend a lawsuit claiming the sandwich misleads customers, since it contains no ribcage meat, only \"seasoned boneless pork dipped in a tangy BBQ sauce.\" Snacks notes the plaintiffs may come for bacon bits and crab sticks next. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "The Independent",
+                  "url": "https://www.independent.co.uk/news/world/americas/mcdonalds-mcrib-sandwich-lawsuit-fraud-b3078286.html",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "The Culture",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "The dogs of Chernobyl appear to be evolving, and scientists don't know why.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " A new study found evidence of natural selection in the area's dogs; what's driving the genetic differences, and what advantage they might give, is still unclear. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "WIRED",
+                  "url": "https://www.wired.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Opioid users found a \"miracle drug\" for withdrawal. Then the DEA banned it.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " On Reddit and Discord, people addicted to opioids say SR-17018 removes withdrawal symptoms. Despite its potential, the DEA put it in the same category as heroin. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "WIRED",
+                  "url": "https://www.wired.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Quick Hits & Curiosities",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Nominations are open for the Hoboken Girl's Best of Hoboken + Jersey City 2026 guide through December 11, and this year it's fully reader-chosen with no sponsored spots, so nobody can buy their way on. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "The Hoboken Girl",
+                  "url": "https://www.hobokengirl.com/best-of-hoboken-jersey-city-guide-2026-nominations/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "A vibe-coded AO3 clone called ",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "ao3.life",
+                  "url": "http://ao3.life/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": " was scraping fanfiction and selling it as audiobooks until fanfic authors buried it with 2,000 takedown notices. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "404 Media",
+                  "url": "https://www.404media.co/r/ec63d9e7",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "World of Warcraft: Forever is already overrun with AI slop: vibe-coded addons are so bad that Warcraft Logs is changing its API. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "404 Media",
+                  "url": "https://www.404media.co/r/80f4a2ef",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "The Pentagon released a full-resolution image of China's top-secret spaceplane, and its capabilities remain mysterious. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "WIRED",
+                  "url": "https://www.wired.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Former MIT scientist David Sabatini, once on track for a Nobel, won a $6 million lawsuit over false sexual assault allegations that cost him his funding, his job, and left him bankrupt. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Pirate Wires",
+                  "url": "https://www.piratewires.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Two Columbia juniors wrote an op-ed arguing the Cornell \"Jane Doe\" encounter may have been consensual; classmates told them to \"kill themselves\" and a free speech club canceled an event with their editor. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Pirate Wires",
+                  "url": "https://www.piratewires.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Someone is hacking refrigerators and freezers in supermarkets across Europe, and nobody knows who or why. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "The Guardian",
+                  "url": "https://www.theguardian.com/technology/2026/nov/02/europe-supermarket-fridges-freezers-who-hacking-why",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            }
+          ],
+          "links": [
+            {
+              "title": "WIRED",
+              "url": "https://www.wired.com/"
+            },
+            {
+              "title": "$31.6B",
+              "url": "https://variety.com/2026/digital/news/apple-september-2026-earnings-services-revenue-hits-new-record-1236937903/"
+            },
+            {
+              "title": "13",
+              "url": "https://www.theargumentmag.com/"
+            },
+            {
+              "title": "Pirate Wires",
+              "url": "https://www.piratewires.com/"
+            },
+            {
+              "title": "51%",
+              "url": "https://www.ft.com/content/1902df70-1380-4588-bad5-171352b575f2"
+            },
+            {
+              "title": "404 Media",
+              "url": "https://www.404media.co/r/2a350038"
+            },
+            {
+              "title": "Migrant Insider",
+              "url": "https://migrantinsider.com/"
+            },
+            {
+              "title": "The Independent",
+              "url": "https://www.independent.co.uk/news/world/americas/mcdonalds-mcrib-sandwich-lawsuit-fraud-b3078286.html"
+            },
+            {
+              "title": "The Hoboken Girl",
+              "url": "https://www.hobokengirl.com/best-of-hoboken-jersey-city-guide-2026-nominations/"
+            },
+            {
+              "title": "ao3.life",
+              "url": "http://ao3.life/"
+            },
+            {
+              "title": "404 Media",
+              "url": "https://www.404media.co/r/ec63d9e7"
+            },
+            {
+              "title": "404 Media",
+              "url": "https://www.404media.co/r/80f4a2ef"
+            },
+            {
+              "title": "The Guardian",
+              "url": "https://www.theguardian.com/technology/2026/nov/02/europe-supermarket-fridges-freezers-who-hacking-why"
+            }
+          ]
+        }
+      }
     }
   ]
 }
