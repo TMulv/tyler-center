@@ -231901,6 +231901,2657 @@
       ],
       "publishedAt": "2026-11-04T22:10:00Z",
       "links": []
+    },
+    {
+      "id": "digest-40f8153c-8a3e-81a3-8c98-e54717e894b0",
+      "channel": "newsletters",
+      "source": "notion",
+      "kind": "Agent-written digest",
+      "domain": "Daily newsletter digest",
+      "title": "Data centers torched at the ballot box, Musk's $400 million went up in smoke, California killed the wealth tax - Thursday, November 5, 2026",
+      "url": "",
+      "description": "Thursday, November 5, 2026 - Morning Edition",
+      "body": "Thursday, November 5, 2026 - Morning Edition\n\nToday's Numbers\n\n• 40: of the 41 local ballot measures on data centers across the country, that many went against the data centers, from moratoriums to new regulations to specific projects getting voted down\n\n• 71%: of Americans oppose data center construction in their area, according to Gallup, which makes building a data center roughly as unpopular as releasing the Epstein files is popular (75% support that)\n\n• $400 million: what Elon Musk poured into the Republican midterms push, and of every traceable dollar he put into a race that has been decided, more than 99 cents went to a race he lost\n\n• 99.96%: accuracy Pangram's updated image detection model scored on an internal benchmark, while its new video detection model scored 98.57%, as AI video gets harder to spot with the naked eye\n\n• 4: rides Uber fulfilled last quarter that were booked by AI agents, plus 500 food deliveries, out of 320 million transactions in the quarter, so the agent economy is real but still tiny\n\nQuotes of the Day\n\n• \"A blue wave has not materialized in the country so far\" (Clay Travis, OutKick founder, at 3 p.m. on Election Day, hours before Democrats delivered a historic sweep)\n\n• \"Most of the risk is actually created by a couple of players building behind closed doors\" (Clément Delangue, Hugging Face CEO, making the case for open source AI)\n\n• \"We're all just walking each other home\" (Ram Dass, quoted by Kevin Rose in a tribute to his dog Toaster, who died this week after 16 years together)\n\nThe Midterms Aftermath\n\nThe blame game started before the confetti was swept up. WIRED reports the knives are out in the White House after catastrophic Republican losses, with everyone from Pete Hegseth to White House aides to right-wing pundits racing to find someone besides Donald Trump to blame. Trump spent months endorsing candidates, demanding loyalty, and urging Americans to pretend he was on the ballot, then suddenly remembered he was not actually running. (WIRED)\n\nDemocrats flipped Senate seats in Texas and South Carolina. Status reports the two longtime GOP strongholds went blue on Tuesday night, part of a historic sweep that left right-wing media figures scrambling to explain how badly they misread the electorate. MAGA media figures are now turning on one another over the debacle, and telling Status the party must move on from Trump. (Status)\n\nAI & The Machines\n\nOpenAI has a new name for data centers: compute campuses. Semafor reports the company is pushing the rebrand as voters revolt against data center construction and Democrats prepare to make the industry a regulatory target. The logic is simple enough. A data center is a power-hungry warehouse your neighbors hate. A compute campus sounds like a place with quads and trees. Whether the new label survives contact with an angry electorate is another question. (Semafor)\n\nGoogle is forcing AI Overviews into classrooms, and schools are looking for the exits. WIRED reports Google is tying its AI-generated answers to traditional search, angering parents and educators who worry that easy machine-generated answers are leaving kids less capable. The fight is the same one playing out everywhere AI lands. Convenience now, skills later, and nobody is sure what later costs. (WIRED)\n\nAI slop has a repertoire, and it is older than the internet. Marcus Bösch argues the synthetic characters flooding our feeds work like a 16th century commedia dell'arte troupe, stock masks with endless variations. There is Il Dottore explaining the world, the young lovers with a link in bio, and Jessica Foster, an AI Army blonde posing next to Trump who gained over a million Instagram followers. In a study Bösch co-authored covering 354 TikTok accounts posting almost only AI content, the accounts racked up 4.5 billion views, and TikTok itself labeled just 1.38 percent of the posts as AI. The mask used to announce the performance. Now the mask is the face. (Understanding TikTok)\n\nKevin Rose has 500 invites to an AI companion that runs your life over text message. Instinct, the invite-only product Rose uses daily, stores credentials for reservation services and waits in line for hard-to-get tables, watches for important email like DocuSigns, and researches trips in the background. Rose also runs a Bradbury Challenge through it, with a friend scoring a daily short story, poem, and essay in a shared chat. It is free for now, and Rose says he is not an investor, just a user. He is also trying Grok Bot, Muse, ChatGPT Dots, and the new Claude Duet. (Instinct)\n\nMoney & Power\n\nSequoia has parted ways with half a dozen partners and shut its London office. Newcomer reports the storied venture firm forced out at least three US-based partners as part of a broad overhaul, as it tries to turn itself around in the AI era. For a firm that built its name on picking winners early, the message is blunt. Even Sequoia thinks the old playbook needs rewriting. (Newcomer)\n\nCalifornia's wealth tax is dead, and voters may have buried the idea for good. Pirate Wires reports the first-of-its-kind asset seizure, pushed for a year and fought largely by Sergey Brin, was defeated on Tuesday. Prop 42 also looks set to pass, which would permanently ban such asset seizures. The lesson for billionaires, per Pirate Wires: if you can survive the gulag for two more years, you can pass reasonable legislation in California via ballot prop, you just have to pay. (Pirate Wires)\n\nSweetgreen wants you to stop thinking of it as the $20 salad place. The Wall Street Journal reports the company is leaning into $15 wraps, bigger portions, and clearer build-your-own pricing to win back customers squeezed by rising labor and food costs. It is a humbling comedown for the premium slop bowl seller, and a reminder that even the trendiest lunch spot is one price hike away from losing the plot. (The Wall Street Journal)\n\nBritain's big AI number was mostly Google's homework. WIRED reports UK officials claimed AI would add £400 billion to the economy, but the figure mainly came from Google, and the AI minister now concedes the real estimate is less than a third of that. Researchers blame the country's slow rate of adoption. It is a useful reminder that when a government cites a giant round number, it is worth asking who did the math. (WIRED)\n\nThe Culture\n\nJane Austen would like a word about your feelings. The Argument's Jerusalem Demsas writes that the new Sense and Sensibility adaptation refuses to take Austen's side, and Austen took a side. In 1811, sense meant reason and sensibility meant the capacity to feel, and Austen came down firmly for sense. Her last word on Marianne Dashwood, the sister who embodies the cult of sensibility, is that she \"was born to discover the falsehood of her own opinions.\" Two centuries later, the cult is back, and the expected response to an emotional outburst is not comfort but affirmation. Austen's question still stands: what if your feelings are wrong? (The Argument)\n\nIndie sleaze is back, and it sounds like Baltimore club. Eddie Huang's Canal Street Dreams reunites Roxy Cottontail, the DJ who brought Baltimore club music to New York and came up alongside Diplo, Spankrock, Santigold, A-Trak, and Benny Blanco. The episode revisits a moment when the party was its own world, and asks what got lost when social media flattened every regional sound into one global feed. They also start planning a Streetwear Prom. (Canal Street Dreams)\n\nOpenAI's secret weapon is a party planner. New York Magazine profiled Charles Porch, Sam Altman's elusive deputy, whose job is throwing lavish parties for Hollywood elites to convince them AI is not evil and will not steal their jobs. He masterminded Gwyneth Paltrow's private alfresco dinner honoring Altman. As one source put it, everyone wants to hate OpenAI and everyone wants to love Charles Porch. AI's socially inept founders need someone who knows how to make hot actresses and models feel cool, and Pirate Wires argues we need a Charles Porch for data centers too. (Pirate Wires)\n\nA former soldier, a canoe, and the washing machine of Loch Lochy. Steven Kelly, a 40-year-old former British Army commando turned survival expert, set out to paddle Scotland's Great Glen Way with five civilians and got flipped by wind and white horses on Loch Lochy. Caught between two currents, he thought he was going to drown. The group hunkered down for two days to wait out the storm. Kelly has appeared on Bear Grylls: Wild Reckoning and Naked and Afraid twice, but canoeing the Great Glen was a first even for him. (InsideHook)\n\nQuick Hits & Curiosities\n\n• AMD printed strong earnings and boosted guidance, then barely eked out a gain, while Nvidia, Broadcom, and Marvell all tumbled, a sign of just how sour sentiment is on chip stocks right now (CNBC)\n\n• CVS plans to break up its $117 billion healthcare conglomerate (Bloomberg)\n\n• Waymo confirmed it will split with Uber in January 2028 (TechCrunch)\n\n• DuckDuckGo is pitching itself to schools amid the backlash over Google's AI policy (TechCrunch)\n\n• Republican state attorneys general are leading a barrage of lawsuits against OpenAI, asking judges for court-ordered restrictions on the company (Pirate Wires)\n\n• Falchetta, a new Italian steakhouse, is coming to the former Johnny Pepperoni space in Hoboken (The Hoboken Girl)\n\n• Saigon Cafe in Jersey City is closing after 27 years in business (The Hoboken Girl)",
+      "blocks": [
+        {
+          "type": "heading_1",
+          "runs": [
+            {
+              "text": "Thursday, November 5, 2026 - Morning Edition",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Today's Numbers",
+              "url": "",
+              "bold": true,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "40",
+              "url": "https://www.semafor.com/article/11/04/2026/us-voters-roundly-reject-data-centers-in-ballot-measures",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": ": of the 41 local ballot measures on data centers across the country, that many went against the data centers, from moratoriums to new regulations to specific projects getting voted down",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "71%",
+              "url": "https://news.gallup.com/poll/709772/americans-oppose-data-centers-area.aspx",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": ": of Americans oppose data center construction in their area, according to Gallup, which makes building a data center roughly as unpopular as releasing the Epstein files is popular (75% support that)",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "$400 million",
+              "url": "https://www.wired.com/story/voters-set-dollar400-million-of-elon-musks-money-on-fire/",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": ": what Elon Musk poured into the Republican midterms push, and of every traceable dollar he put into a race that has been decided, more than 99 cents went to a race he lost",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "99.96%",
+              "url": "https://www.piratewires.com/p/exclusive-pangram-can-now-detect",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": ": accuracy Pangram's updated image detection model scored on an internal benchmark, while its new video detection model scored 98.57%, as AI video gets harder to spot with the naked eye",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "4",
+              "url": "https://www.theverge.com/transportation/1026306/uber-ai-agents-q3-earnings-disintermediation",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": ": rides Uber fulfilled last quarter that were booked by AI agents, plus 500 food deliveries, out of 320 million transactions in the quarter, so the agent economy is real but still tiny",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Quotes of the Day",
+              "url": "",
+              "bold": true,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "\"A blue wave has not materialized in the country so far\" (Clay Travis, OutKick founder, at 3 p.m. on Election Day, hours before Democrats delivered a historic sweep)",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "\"Most of the risk is actually created by a couple of players building behind closed doors\" (Clément Delangue, Hugging Face CEO, making the case for open source AI)",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "\"We're all just walking each other home\" (Ram Dass, quoted by Kevin Rose in a tribute to his dog Toaster, who died this week after 16 years together)",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "The Midterms Aftermath",
+              "url": "",
+              "bold": true,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "The blame game started before the confetti was swept up.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " WIRED reports the knives are out in the White House after catastrophic Republican losses, with everyone from Pete Hegseth to White House aides to right-wing pundits racing to find someone besides Donald Trump to blame. Trump spent months endorsing candidates, demanding loyalty, and urging Americans to pretend he was on the ballot, then suddenly remembered he was not actually running. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "WIRED",
+              "url": "https://www.wired.com/story/knives-are-out-in-the-white-house/",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Democrats flipped Senate seats in Texas and South Carolina.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " Status reports the two longtime GOP strongholds went blue on Tuesday night, part of a historic sweep that left right-wing media figures scrambling to explain how badly they misread the electorate. MAGA media figures are now turning on one another over the debacle, and telling Status the party must move on from Trump. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Status",
+              "url": "https://www.status.news/",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "AI & The Machines",
+              "url": "",
+              "bold": true,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "OpenAI has a new name for data centers: compute campuses.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " Semafor reports the company is pushing the rebrand as voters revolt against data center construction and Democrats prepare to make the industry a regulatory target. The logic is simple enough. A data center is a power-hungry warehouse your neighbors hate. A compute campus sounds like a place with quads and trees. Whether the new label survives contact with an angry electorate is another question. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Semafor",
+              "url": "https://www.semafor.com/article/11/03/2026/openai-pushes-policy-rebrand-to-a-skeptical-audience",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Google is forcing AI Overviews into classrooms, and schools are looking for the exits.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " WIRED reports Google is tying its AI-generated answers to traditional search, angering parents and educators who worry that easy machine-generated answers are leaving kids less capable. The fight is the same one playing out everywhere AI lands. Convenience now, skills later, and nobody is sure what later costs. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "WIRED",
+              "url": "https://www.wired.com/story/google-is-forcing-ai-overviews-in-classrooms-schools-are-searching-for-a-way-out/",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "AI slop has a repertoire, and it is older than the internet.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " Marcus Bösch argues the synthetic characters flooding our feeds work like a 16th century commedia dell'arte troupe, stock masks with endless variations. There is Il Dottore explaining the world, the young lovers with a link in bio, and Jessica Foster, an AI Army blonde posing next to Trump who gained over a million Instagram followers. In a study Bösch co-authored covering 354 TikTok accounts posting almost only AI content, the accounts racked up 4.5 billion views, and TikTok itself labeled just 1.38 percent of the posts as AI. The mask used to announce the performance. Now the mask is the face. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Understanding TikTok",
+              "url": "https://tiktoktiktoktiktok.substack.com/p/commedia-dellai",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Kevin Rose has 500 invites to an AI companion that runs your life over text message.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " Instinct, the invite-only product Rose uses daily, stores credentials for reservation services and waits in line for hard-to-get tables, watches for important email like DocuSigns, and researches trips in the background. Rose also runs a Bradbury Challenge through it, with a friend scoring a daily short story, poem, and essay in a shared chat. It is free for now, and Rose says he is not an investor, just a user. He is also trying Grok Bot, Muse, ChatGPT Dots, and the new Claude Duet. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Instinct",
+              "url": "https://instinct.com/",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Money & Power",
+              "url": "",
+              "bold": true,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Sequoia has parted ways with half a dozen partners and shut its London office.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " Newcomer reports the storied venture firm forced out at least three US-based partners as part of a broad overhaul, as it tries to turn itself around in the AI era. For a firm that built its name on picking winners early, the message is blunt. Even Sequoia thinks the old playbook needs rewriting. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Newcomer",
+              "url": "https://www.newcomer.co/p/exclusive-sequoia-parts-ways-with",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "California's wealth tax is dead, and voters may have buried the idea for good.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " Pirate Wires reports the first-of-its-kind asset seizure, pushed for a year and fought largely by Sergey Brin, was defeated on Tuesday. Prop 42 also looks set to pass, which would permanently ban such asset seizures. The lesson for billionaires, per Pirate Wires: if you can survive the gulag for two more years, you can pass reasonable legislation in California via ballot prop, you just have to pay. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Pirate Wires",
+              "url": "https://www.piratewires.com/",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Sweetgreen wants you to stop thinking of it as the $20 salad place.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " The Wall Street Journal reports the company is leaning into $15 wraps, bigger portions, and clearer build-your-own pricing to win back customers squeezed by rising labor and food costs. It is a humbling comedown for the premium slop bowl seller, and a reminder that even the trendiest lunch spot is one price hike away from losing the plot. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "The Wall Street Journal",
+              "url": "https://www.wsj.com/business/c-suite/sweetgreens-plan-to-shed-its-expensive-salad-image-40751032",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Britain's big AI number was mostly Google's homework.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " WIRED reports UK officials claimed AI would add £400 billion to the economy, but the figure mainly came from Google, and the AI minister now concedes the real estimate is less than a third of that. Researchers blame the country's slow rate of adoption. It is a useful reminder that when a government cites a giant round number, it is worth asking who did the math. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "WIRED",
+              "url": "https://www.wired.com/story/uk-officials-said-ai-would-add-400-billion-to-the-economy-that-figure-mainly-came-from-google/",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "The Culture",
+              "url": "",
+              "bold": true,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Jane Austen would like a word about your feelings.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " The Argument's Jerusalem Demsas writes that the new Sense and Sensibility adaptation refuses to take Austen's side, and Austen took a side. In 1811, sense meant reason and sensibility meant the capacity to feel, and Austen came down firmly for sense. Her last word on Marianne Dashwood, the sister who embodies the cult of sensibility, is that she \"was born to discover the falsehood of her own opinions.\" Two centuries later, the cult is back, and the expected response to an emotional outburst is not comfort but affirmation. Austen's question still stands: what if your feelings are wrong? (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "The Argument",
+              "url": "https://www.theargumentmag.com/p/nonsense-and-sensibility",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Indie sleaze is back, and it sounds like Baltimore club.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " Eddie Huang's Canal Street Dreams reunites Roxy Cottontail, the DJ who brought Baltimore club music to New York and came up alongside Diplo, Spankrock, Santigold, A-Trak, and Benny Blanco. The episode revisits a moment when the party was its own world, and asks what got lost when social media flattened every regional sound into one global feed. They also start planning a Streetwear Prom. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Canal Street Dreams",
+              "url": "https://basedfob.substack.com/",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "OpenAI's secret weapon is a party planner.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " New York Magazine profiled Charles Porch, Sam Altman's elusive deputy, whose job is throwing lavish parties for Hollywood elites to convince them AI is not evil and will not steal their jobs. He masterminded Gwyneth Paltrow's private alfresco dinner honoring Altman. As one source put it, everyone wants to hate OpenAI and everyone wants to love Charles Porch. AI's socially inept founders need someone who knows how to make hot actresses and models feel cool, and Pirate Wires argues we need a Charles Porch for data centers too. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Pirate Wires",
+              "url": "https://www.piratewires.com/",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "A former soldier, a canoe, and the washing machine of Loch Lochy.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " Steven Kelly, a 40-year-old former British Army commando turned survival expert, set out to paddle Scotland's Great Glen Way with five civilians and got flipped by wind and white horses on Loch Lochy. Caught between two currents, he thought he was going to drown. The group hunkered down for two days to wait out the storm. Kelly has appeared on Bear Grylls: Wild Reckoning and Naked and Afraid twice, but canoeing the Great Glen was a first even for him. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "InsideHook",
+              "url": "https://www.insidehook.com/adventure/steven-kelly-canoe-expedition-scotland-lochs",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Quick Hits & Curiosities",
+              "url": "",
+              "bold": true,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "AMD printed strong earnings and boosted guidance, then barely eked out a gain, while Nvidia, Broadcom, and Marvell all tumbled, a sign of just how sour sentiment is on chip stocks right now (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "CNBC",
+              "url": "https://www.cnbc.com/2026/11/03/amd-amd-q3-earnings-report-2026-.html",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "CVS plans to break up its $117 billion healthcare conglomerate (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Bloomberg",
+              "url": "https://www.bloomberg.com/news/articles/2026-11-04/cvs-plans-to-break-up-117-billion-healthcare-conglomerate",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Waymo confirmed it will split with Uber in January 2028 (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "TechCrunch",
+              "url": "https://techcrunch.com/2026/11/04/waymo-confirms-it-will-split-with-uber-in-january-2028/",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "DuckDuckGo is pitching itself to schools amid the backlash over Google's AI policy (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "TechCrunch",
+              "url": "https://techcrunch.com/2026/11/04/duckduckgo-pitches-itself-to-schools-amid-backlash-over-googles-ai-policy/",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Republican state attorneys general are leading a barrage of lawsuits against OpenAI, asking judges for court-ordered restrictions on the company (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Pirate Wires",
+              "url": "https://www.piratewires.com/p/republicans-lead-lawsuit-barrage",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Falchetta, a new Italian steakhouse, is coming to the former Johnny Pepperoni space in Hoboken (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "The Hoboken Girl",
+              "url": "https://www.hobokengirl.com/falchetta-italian-steakhouse-hoboken-johnny-pepperoni/",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Saigon Cafe in Jersey City is closing after 27 years in business (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "The Hoboken Girl",
+              "url": "https://www.hobokengirl.com/saigon-cafe-closure-jersey-city-nj/",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        }
+      ],
+      "publishedAt": "2026-11-05T13:02:00Z",
+      "links": [
+        {
+          "title": "40",
+          "url": "https://www.semafor.com/article/11/04/2026/us-voters-roundly-reject-data-centers-in-ballot-measures"
+        },
+        {
+          "title": "71%",
+          "url": "https://news.gallup.com/poll/709772/americans-oppose-data-centers-area.aspx"
+        },
+        {
+          "title": "$400 million",
+          "url": "https://www.wired.com/story/voters-set-dollar400-million-of-elon-musks-money-on-fire/"
+        },
+        {
+          "title": "99.96%",
+          "url": "https://www.piratewires.com/p/exclusive-pangram-can-now-detect"
+        },
+        {
+          "title": "4",
+          "url": "https://www.theverge.com/transportation/1026306/uber-ai-agents-q3-earnings-disintermediation"
+        },
+        {
+          "title": "WIRED",
+          "url": "https://www.wired.com/story/knives-are-out-in-the-white-house/"
+        },
+        {
+          "title": "Status",
+          "url": "https://www.status.news/"
+        },
+        {
+          "title": "Semafor",
+          "url": "https://www.semafor.com/article/11/03/2026/openai-pushes-policy-rebrand-to-a-skeptical-audience"
+        },
+        {
+          "title": "WIRED",
+          "url": "https://www.wired.com/story/google-is-forcing-ai-overviews-in-classrooms-schools-are-searching-for-a-way-out/"
+        },
+        {
+          "title": "Understanding TikTok",
+          "url": "https://tiktoktiktoktiktok.substack.com/p/commedia-dellai"
+        },
+        {
+          "title": "Instinct",
+          "url": "https://instinct.com/"
+        },
+        {
+          "title": "Newcomer",
+          "url": "https://www.newcomer.co/p/exclusive-sequoia-parts-ways-with"
+        },
+        {
+          "title": "Pirate Wires",
+          "url": "https://www.piratewires.com/"
+        },
+        {
+          "title": "The Wall Street Journal",
+          "url": "https://www.wsj.com/business/c-suite/sweetgreens-plan-to-shed-its-expensive-salad-image-40751032"
+        },
+        {
+          "title": "WIRED",
+          "url": "https://www.wired.com/story/uk-officials-said-ai-would-add-400-billion-to-the-economy-that-figure-mainly-came-from-google/"
+        },
+        {
+          "title": "The Argument",
+          "url": "https://www.theargumentmag.com/p/nonsense-and-sensibility"
+        },
+        {
+          "title": "Canal Street Dreams",
+          "url": "https://basedfob.substack.com/"
+        },
+        {
+          "title": "InsideHook",
+          "url": "https://www.insidehook.com/adventure/steven-kelly-canoe-expedition-scotland-lochs"
+        },
+        {
+          "title": "CNBC",
+          "url": "https://www.cnbc.com/2026/11/03/amd-amd-q3-earnings-report-2026-.html"
+        },
+        {
+          "title": "Bloomberg",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-04/cvs-plans-to-break-up-117-billion-healthcare-conglomerate"
+        },
+        {
+          "title": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/04/waymo-confirms-it-will-split-with-uber-in-january-2028/"
+        },
+        {
+          "title": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/04/duckduckgo-pitches-itself-to-schools-amid-backlash-over-googles-ai-policy/"
+        },
+        {
+          "title": "Pirate Wires",
+          "url": "https://www.piratewires.com/p/republicans-lead-lawsuit-barrage"
+        },
+        {
+          "title": "The Hoboken Girl",
+          "url": "https://www.hobokengirl.com/falchetta-italian-steakhouse-hoboken-johnny-pepperoni/"
+        },
+        {
+          "title": "The Hoboken Girl",
+          "url": "https://www.hobokengirl.com/saigon-cafe-closure-jersey-city-nj/"
+        }
+      ],
+      "versions": {
+        "morning": {
+          "body": "Thursday, November 5, 2026 - Morning Edition\n\nToday's Numbers\n\n• 40: of the 41 local ballot measures on data centers across the country, that many went against the data centers, from moratoriums to new regulations to specific projects getting voted down\n\n• 71%: of Americans oppose data center construction in their area, according to Gallup, which makes building a data center roughly as unpopular as releasing the Epstein files is popular (75% support that)\n\n• $400 million: what Elon Musk poured into the Republican midterms push, and of every traceable dollar he put into a race that has been decided, more than 99 cents went to a race he lost\n\n• 99.96%: accuracy Pangram's updated image detection model scored on an internal benchmark, while its new video detection model scored 98.57%, as AI video gets harder to spot with the naked eye\n\n• 4: rides Uber fulfilled last quarter that were booked by AI agents, plus 500 food deliveries, out of 320 million transactions in the quarter, so the agent economy is real but still tiny\n\nQuotes of the Day\n\n• \"A blue wave has not materialized in the country so far\" (Clay Travis, OutKick founder, at 3 p.m. on Election Day, hours before Democrats delivered a historic sweep)\n\n• \"Most of the risk is actually created by a couple of players building behind closed doors\" (Clément Delangue, Hugging Face CEO, making the case for open source AI)\n\n• \"We're all just walking each other home\" (Ram Dass, quoted by Kevin Rose in a tribute to his dog Toaster, who died this week after 16 years together)\n\nThe Midterms Aftermath\n\nThe blame game started before the confetti was swept up. WIRED reports the knives are out in the White House after catastrophic Republican losses, with everyone from Pete Hegseth to White House aides to right-wing pundits racing to find someone besides Donald Trump to blame. Trump spent months endorsing candidates, demanding loyalty, and urging Americans to pretend he was on the ballot, then suddenly remembered he was not actually running. (WIRED)\n\nDemocrats flipped Senate seats in Texas and South Carolina. Status reports the two longtime GOP strongholds went blue on Tuesday night, part of a historic sweep that left right-wing media figures scrambling to explain how badly they misread the electorate. MAGA media figures are now turning on one another over the debacle, and telling Status the party must move on from Trump. (Status)\n\nAI & The Machines\n\nOpenAI has a new name for data centers: compute campuses. Semafor reports the company is pushing the rebrand as voters revolt against data center construction and Democrats prepare to make the industry a regulatory target. The logic is simple enough. A data center is a power-hungry warehouse your neighbors hate. A compute campus sounds like a place with quads and trees. Whether the new label survives contact with an angry electorate is another question. (Semafor)\n\nGoogle is forcing AI Overviews into classrooms, and schools are looking for the exits. WIRED reports Google is tying its AI-generated answers to traditional search, angering parents and educators who worry that easy machine-generated answers are leaving kids less capable. The fight is the same one playing out everywhere AI lands. Convenience now, skills later, and nobody is sure what later costs. (WIRED)\n\nAI slop has a repertoire, and it is older than the internet. Marcus Bösch argues the synthetic characters flooding our feeds work like a 16th century commedia dell'arte troupe, stock masks with endless variations. There is Il Dottore explaining the world, the young lovers with a link in bio, and Jessica Foster, an AI Army blonde posing next to Trump who gained over a million Instagram followers. In a study Bösch co-authored covering 354 TikTok accounts posting almost only AI content, the accounts racked up 4.5 billion views, and TikTok itself labeled just 1.38 percent of the posts as AI. The mask used to announce the performance. Now the mask is the face. (Understanding TikTok)\n\nKevin Rose has 500 invites to an AI companion that runs your life over text message. Instinct, the invite-only product Rose uses daily, stores credentials for reservation services and waits in line for hard-to-get tables, watches for important email like DocuSigns, and researches trips in the background. Rose also runs a Bradbury Challenge through it, with a friend scoring a daily short story, poem, and essay in a shared chat. It is free for now, and Rose says he is not an investor, just a user. He is also trying Grok Bot, Muse, ChatGPT Dots, and the new Claude Duet. (Instinct)\n\nMoney & Power\n\nSequoia has parted ways with half a dozen partners and shut its London office. Newcomer reports the storied venture firm forced out at least three US-based partners as part of a broad overhaul, as it tries to turn itself around in the AI era. For a firm that built its name on picking winners early, the message is blunt. Even Sequoia thinks the old playbook needs rewriting. (Newcomer)\n\nCalifornia's wealth tax is dead, and voters may have buried the idea for good. Pirate Wires reports the first-of-its-kind asset seizure, pushed for a year and fought largely by Sergey Brin, was defeated on Tuesday. Prop 42 also looks set to pass, which would permanently ban such asset seizures. The lesson for billionaires, per Pirate Wires: if you can survive the gulag for two more years, you can pass reasonable legislation in California via ballot prop, you just have to pay. (Pirate Wires)\n\nSweetgreen wants you to stop thinking of it as the $20 salad place. The Wall Street Journal reports the company is leaning into $15 wraps, bigger portions, and clearer build-your-own pricing to win back customers squeezed by rising labor and food costs. It is a humbling comedown for the premium slop bowl seller, and a reminder that even the trendiest lunch spot is one price hike away from losing the plot. (The Wall Street Journal)\n\nBritain's big AI number was mostly Google's homework. WIRED reports UK officials claimed AI would add £400 billion to the economy, but the figure mainly came from Google, and the AI minister now concedes the real estimate is less than a third of that. Researchers blame the country's slow rate of adoption. It is a useful reminder that when a government cites a giant round number, it is worth asking who did the math. (WIRED)\n\nThe Culture\n\nJane Austen would like a word about your feelings. The Argument's Jerusalem Demsas writes that the new Sense and Sensibility adaptation refuses to take Austen's side, and Austen took a side. In 1811, sense meant reason and sensibility meant the capacity to feel, and Austen came down firmly for sense. Her last word on Marianne Dashwood, the sister who embodies the cult of sensibility, is that she \"was born to discover the falsehood of her own opinions.\" Two centuries later, the cult is back, and the expected response to an emotional outburst is not comfort but affirmation. Austen's question still stands: what if your feelings are wrong? (The Argument)\n\nIndie sleaze is back, and it sounds like Baltimore club. Eddie Huang's Canal Street Dreams reunites Roxy Cottontail, the DJ who brought Baltimore club music to New York and came up alongside Diplo, Spankrock, Santigold, A-Trak, and Benny Blanco. The episode revisits a moment when the party was its own world, and asks what got lost when social media flattened every regional sound into one global feed. They also start planning a Streetwear Prom. (Canal Street Dreams)\n\nOpenAI's secret weapon is a party planner. New York Magazine profiled Charles Porch, Sam Altman's elusive deputy, whose job is throwing lavish parties for Hollywood elites to convince them AI is not evil and will not steal their jobs. He masterminded Gwyneth Paltrow's private alfresco dinner honoring Altman. As one source put it, everyone wants to hate OpenAI and everyone wants to love Charles Porch. AI's socially inept founders need someone who knows how to make hot actresses and models feel cool, and Pirate Wires argues we need a Charles Porch for data centers too. (Pirate Wires)\n\nA former soldier, a canoe, and the washing machine of Loch Lochy. Steven Kelly, a 40-year-old former British Army commando turned survival expert, set out to paddle Scotland's Great Glen Way with five civilians and got flipped by wind and white horses on Loch Lochy. Caught between two currents, he thought he was going to drown. The group hunkered down for two days to wait out the storm. Kelly has appeared on Bear Grylls: Wild Reckoning and Naked and Afraid twice, but canoeing the Great Glen was a first even for him. (InsideHook)\n\nQuick Hits & Curiosities\n\n• AMD printed strong earnings and boosted guidance, then barely eked out a gain, while Nvidia, Broadcom, and Marvell all tumbled, a sign of just how sour sentiment is on chip stocks right now (CNBC)\n\n• CVS plans to break up its $117 billion healthcare conglomerate (Bloomberg)\n\n• Waymo confirmed it will split with Uber in January 2028 (TechCrunch)\n\n• DuckDuckGo is pitching itself to schools amid the backlash over Google's AI policy (TechCrunch)\n\n• Republican state attorneys general are leading a barrage of lawsuits against OpenAI, asking judges for court-ordered restrictions on the company (Pirate Wires)\n\n• Falchetta, a new Italian steakhouse, is coming to the former Johnny Pepperoni space in Hoboken (The Hoboken Girl)\n\n• Saigon Cafe in Jersey City is closing after 27 years in business (The Hoboken Girl)",
+          "blocks": [
+            {
+              "type": "heading_1",
+              "runs": [
+                {
+                  "text": "Thursday, November 5, 2026 - Morning Edition",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Today's Numbers",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "40",
+                  "url": "https://www.semafor.com/article/11/04/2026/us-voters-roundly-reject-data-centers-in-ballot-measures",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": of the 41 local ballot measures on data centers across the country, that many went against the data centers, from moratoriums to new regulations to specific projects getting voted down",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "71%",
+                  "url": "https://news.gallup.com/poll/709772/americans-oppose-data-centers-area.aspx",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": of Americans oppose data center construction in their area, according to Gallup, which makes building a data center roughly as unpopular as releasing the Epstein files is popular (75% support that)",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "$400 million",
+                  "url": "https://www.wired.com/story/voters-set-dollar400-million-of-elon-musks-money-on-fire/",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": what Elon Musk poured into the Republican midterms push, and of every traceable dollar he put into a race that has been decided, more than 99 cents went to a race he lost",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "99.96%",
+                  "url": "https://www.piratewires.com/p/exclusive-pangram-can-now-detect",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": accuracy Pangram's updated image detection model scored on an internal benchmark, while its new video detection model scored 98.57%, as AI video gets harder to spot with the naked eye",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "4",
+                  "url": "https://www.theverge.com/transportation/1026306/uber-ai-agents-q3-earnings-disintermediation",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": rides Uber fulfilled last quarter that were booked by AI agents, plus 500 food deliveries, out of 320 million transactions in the quarter, so the agent economy is real but still tiny",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Quotes of the Day",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "\"A blue wave has not materialized in the country so far\" (Clay Travis, OutKick founder, at 3 p.m. on Election Day, hours before Democrats delivered a historic sweep)",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "\"Most of the risk is actually created by a couple of players building behind closed doors\" (Clément Delangue, Hugging Face CEO, making the case for open source AI)",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "\"We're all just walking each other home\" (Ram Dass, quoted by Kevin Rose in a tribute to his dog Toaster, who died this week after 16 years together)",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "The Midterms Aftermath",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "The blame game started before the confetti was swept up.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " WIRED reports the knives are out in the White House after catastrophic Republican losses, with everyone from Pete Hegseth to White House aides to right-wing pundits racing to find someone besides Donald Trump to blame. Trump spent months endorsing candidates, demanding loyalty, and urging Americans to pretend he was on the ballot, then suddenly remembered he was not actually running. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "WIRED",
+                  "url": "https://www.wired.com/story/knives-are-out-in-the-white-house/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Democrats flipped Senate seats in Texas and South Carolina.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " Status reports the two longtime GOP strongholds went blue on Tuesday night, part of a historic sweep that left right-wing media figures scrambling to explain how badly they misread the electorate. MAGA media figures are now turning on one another over the debacle, and telling Status the party must move on from Trump. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Status",
+                  "url": "https://www.status.news/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "AI & The Machines",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "OpenAI has a new name for data centers: compute campuses.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " Semafor reports the company is pushing the rebrand as voters revolt against data center construction and Democrats prepare to make the industry a regulatory target. The logic is simple enough. A data center is a power-hungry warehouse your neighbors hate. A compute campus sounds like a place with quads and trees. Whether the new label survives contact with an angry electorate is another question. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Semafor",
+                  "url": "https://www.semafor.com/article/11/03/2026/openai-pushes-policy-rebrand-to-a-skeptical-audience",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Google is forcing AI Overviews into classrooms, and schools are looking for the exits.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " WIRED reports Google is tying its AI-generated answers to traditional search, angering parents and educators who worry that easy machine-generated answers are leaving kids less capable. The fight is the same one playing out everywhere AI lands. Convenience now, skills later, and nobody is sure what later costs. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "WIRED",
+                  "url": "https://www.wired.com/story/google-is-forcing-ai-overviews-in-classrooms-schools-are-searching-for-a-way-out/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "AI slop has a repertoire, and it is older than the internet.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " Marcus Bösch argues the synthetic characters flooding our feeds work like a 16th century commedia dell'arte troupe, stock masks with endless variations. There is Il Dottore explaining the world, the young lovers with a link in bio, and Jessica Foster, an AI Army blonde posing next to Trump who gained over a million Instagram followers. In a study Bösch co-authored covering 354 TikTok accounts posting almost only AI content, the accounts racked up 4.5 billion views, and TikTok itself labeled just 1.38 percent of the posts as AI. The mask used to announce the performance. Now the mask is the face. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Understanding TikTok",
+                  "url": "https://tiktoktiktoktiktok.substack.com/p/commedia-dellai",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Kevin Rose has 500 invites to an AI companion that runs your life over text message.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " Instinct, the invite-only product Rose uses daily, stores credentials for reservation services and waits in line for hard-to-get tables, watches for important email like DocuSigns, and researches trips in the background. Rose also runs a Bradbury Challenge through it, with a friend scoring a daily short story, poem, and essay in a shared chat. It is free for now, and Rose says he is not an investor, just a user. He is also trying Grok Bot, Muse, ChatGPT Dots, and the new Claude Duet. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Instinct",
+                  "url": "https://instinct.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Money & Power",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Sequoia has parted ways with half a dozen partners and shut its London office.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " Newcomer reports the storied venture firm forced out at least three US-based partners as part of a broad overhaul, as it tries to turn itself around in the AI era. For a firm that built its name on picking winners early, the message is blunt. Even Sequoia thinks the old playbook needs rewriting. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Newcomer",
+                  "url": "https://www.newcomer.co/p/exclusive-sequoia-parts-ways-with",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "California's wealth tax is dead, and voters may have buried the idea for good.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " Pirate Wires reports the first-of-its-kind asset seizure, pushed for a year and fought largely by Sergey Brin, was defeated on Tuesday. Prop 42 also looks set to pass, which would permanently ban such asset seizures. The lesson for billionaires, per Pirate Wires: if you can survive the gulag for two more years, you can pass reasonable legislation in California via ballot prop, you just have to pay. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Pirate Wires",
+                  "url": "https://www.piratewires.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Sweetgreen wants you to stop thinking of it as the $20 salad place.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " The Wall Street Journal reports the company is leaning into $15 wraps, bigger portions, and clearer build-your-own pricing to win back customers squeezed by rising labor and food costs. It is a humbling comedown for the premium slop bowl seller, and a reminder that even the trendiest lunch spot is one price hike away from losing the plot. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "The Wall Street Journal",
+                  "url": "https://www.wsj.com/business/c-suite/sweetgreens-plan-to-shed-its-expensive-salad-image-40751032",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Britain's big AI number was mostly Google's homework.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " WIRED reports UK officials claimed AI would add £400 billion to the economy, but the figure mainly came from Google, and the AI minister now concedes the real estimate is less than a third of that. Researchers blame the country's slow rate of adoption. It is a useful reminder that when a government cites a giant round number, it is worth asking who did the math. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "WIRED",
+                  "url": "https://www.wired.com/story/uk-officials-said-ai-would-add-400-billion-to-the-economy-that-figure-mainly-came-from-google/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "The Culture",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Jane Austen would like a word about your feelings.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " The Argument's Jerusalem Demsas writes that the new Sense and Sensibility adaptation refuses to take Austen's side, and Austen took a side. In 1811, sense meant reason and sensibility meant the capacity to feel, and Austen came down firmly for sense. Her last word on Marianne Dashwood, the sister who embodies the cult of sensibility, is that she \"was born to discover the falsehood of her own opinions.\" Two centuries later, the cult is back, and the expected response to an emotional outburst is not comfort but affirmation. Austen's question still stands: what if your feelings are wrong? (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "The Argument",
+                  "url": "https://www.theargumentmag.com/p/nonsense-and-sensibility",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Indie sleaze is back, and it sounds like Baltimore club.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " Eddie Huang's Canal Street Dreams reunites Roxy Cottontail, the DJ who brought Baltimore club music to New York and came up alongside Diplo, Spankrock, Santigold, A-Trak, and Benny Blanco. The episode revisits a moment when the party was its own world, and asks what got lost when social media flattened every regional sound into one global feed. They also start planning a Streetwear Prom. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Canal Street Dreams",
+                  "url": "https://basedfob.substack.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "OpenAI's secret weapon is a party planner.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " New York Magazine profiled Charles Porch, Sam Altman's elusive deputy, whose job is throwing lavish parties for Hollywood elites to convince them AI is not evil and will not steal their jobs. He masterminded Gwyneth Paltrow's private alfresco dinner honoring Altman. As one source put it, everyone wants to hate OpenAI and everyone wants to love Charles Porch. AI's socially inept founders need someone who knows how to make hot actresses and models feel cool, and Pirate Wires argues we need a Charles Porch for data centers too. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Pirate Wires",
+                  "url": "https://www.piratewires.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "A former soldier, a canoe, and the washing machine of Loch Lochy.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " Steven Kelly, a 40-year-old former British Army commando turned survival expert, set out to paddle Scotland's Great Glen Way with five civilians and got flipped by wind and white horses on Loch Lochy. Caught between two currents, he thought he was going to drown. The group hunkered down for two days to wait out the storm. Kelly has appeared on Bear Grylls: Wild Reckoning and Naked and Afraid twice, but canoeing the Great Glen was a first even for him. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "InsideHook",
+                  "url": "https://www.insidehook.com/adventure/steven-kelly-canoe-expedition-scotland-lochs",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Quick Hits & Curiosities",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "AMD printed strong earnings and boosted guidance, then barely eked out a gain, while Nvidia, Broadcom, and Marvell all tumbled, a sign of just how sour sentiment is on chip stocks right now (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "CNBC",
+                  "url": "https://www.cnbc.com/2026/11/03/amd-amd-q3-earnings-report-2026-.html",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "CVS plans to break up its $117 billion healthcare conglomerate (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Bloomberg",
+                  "url": "https://www.bloomberg.com/news/articles/2026-11-04/cvs-plans-to-break-up-117-billion-healthcare-conglomerate",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Waymo confirmed it will split with Uber in January 2028 (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "TechCrunch",
+                  "url": "https://techcrunch.com/2026/11/04/waymo-confirms-it-will-split-with-uber-in-january-2028/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "DuckDuckGo is pitching itself to schools amid the backlash over Google's AI policy (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "TechCrunch",
+                  "url": "https://techcrunch.com/2026/11/04/duckduckgo-pitches-itself-to-schools-amid-backlash-over-googles-ai-policy/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Republican state attorneys general are leading a barrage of lawsuits against OpenAI, asking judges for court-ordered restrictions on the company (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Pirate Wires",
+                  "url": "https://www.piratewires.com/p/republicans-lead-lawsuit-barrage",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Falchetta, a new Italian steakhouse, is coming to the former Johnny Pepperoni space in Hoboken (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "The Hoboken Girl",
+                  "url": "https://www.hobokengirl.com/falchetta-italian-steakhouse-hoboken-johnny-pepperoni/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Saigon Cafe in Jersey City is closing after 27 years in business (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "The Hoboken Girl",
+                  "url": "https://www.hobokengirl.com/saigon-cafe-closure-jersey-city-nj/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            }
+          ],
+          "links": [
+            {
+              "title": "40",
+              "url": "https://www.semafor.com/article/11/04/2026/us-voters-roundly-reject-data-centers-in-ballot-measures"
+            },
+            {
+              "title": "71%",
+              "url": "https://news.gallup.com/poll/709772/americans-oppose-data-centers-area.aspx"
+            },
+            {
+              "title": "$400 million",
+              "url": "https://www.wired.com/story/voters-set-dollar400-million-of-elon-musks-money-on-fire/"
+            },
+            {
+              "title": "99.96%",
+              "url": "https://www.piratewires.com/p/exclusive-pangram-can-now-detect"
+            },
+            {
+              "title": "4",
+              "url": "https://www.theverge.com/transportation/1026306/uber-ai-agents-q3-earnings-disintermediation"
+            },
+            {
+              "title": "WIRED",
+              "url": "https://www.wired.com/story/knives-are-out-in-the-white-house/"
+            },
+            {
+              "title": "Status",
+              "url": "https://www.status.news/"
+            },
+            {
+              "title": "Semafor",
+              "url": "https://www.semafor.com/article/11/03/2026/openai-pushes-policy-rebrand-to-a-skeptical-audience"
+            },
+            {
+              "title": "WIRED",
+              "url": "https://www.wired.com/story/google-is-forcing-ai-overviews-in-classrooms-schools-are-searching-for-a-way-out/"
+            },
+            {
+              "title": "Understanding TikTok",
+              "url": "https://tiktoktiktoktiktok.substack.com/p/commedia-dellai"
+            },
+            {
+              "title": "Instinct",
+              "url": "https://instinct.com/"
+            },
+            {
+              "title": "Newcomer",
+              "url": "https://www.newcomer.co/p/exclusive-sequoia-parts-ways-with"
+            },
+            {
+              "title": "Pirate Wires",
+              "url": "https://www.piratewires.com/"
+            },
+            {
+              "title": "The Wall Street Journal",
+              "url": "https://www.wsj.com/business/c-suite/sweetgreens-plan-to-shed-its-expensive-salad-image-40751032"
+            },
+            {
+              "title": "WIRED",
+              "url": "https://www.wired.com/story/uk-officials-said-ai-would-add-400-billion-to-the-economy-that-figure-mainly-came-from-google/"
+            },
+            {
+              "title": "The Argument",
+              "url": "https://www.theargumentmag.com/p/nonsense-and-sensibility"
+            },
+            {
+              "title": "Canal Street Dreams",
+              "url": "https://basedfob.substack.com/"
+            },
+            {
+              "title": "InsideHook",
+              "url": "https://www.insidehook.com/adventure/steven-kelly-canoe-expedition-scotland-lochs"
+            },
+            {
+              "title": "CNBC",
+              "url": "https://www.cnbc.com/2026/11/03/amd-amd-q3-earnings-report-2026-.html"
+            },
+            {
+              "title": "Bloomberg",
+              "url": "https://www.bloomberg.com/news/articles/2026-11-04/cvs-plans-to-break-up-117-billion-healthcare-conglomerate"
+            },
+            {
+              "title": "TechCrunch",
+              "url": "https://techcrunch.com/2026/11/04/waymo-confirms-it-will-split-with-uber-in-january-2028/"
+            },
+            {
+              "title": "TechCrunch",
+              "url": "https://techcrunch.com/2026/11/04/duckduckgo-pitches-itself-to-schools-amid-backlash-over-googles-ai-policy/"
+            },
+            {
+              "title": "Pirate Wires",
+              "url": "https://www.piratewires.com/p/republicans-lead-lawsuit-barrage"
+            },
+            {
+              "title": "The Hoboken Girl",
+              "url": "https://www.hobokengirl.com/falchetta-italian-steakhouse-hoboken-johnny-pepperoni/"
+            },
+            {
+              "title": "The Hoboken Girl",
+              "url": "https://www.hobokengirl.com/saigon-cafe-closure-jersey-city-nj/"
+            }
+          ]
+        },
+        "full": {
+          "body": "Thursday, November 5, 2026 - Morning Edition\n\nToday's Numbers\n\n• 40: of the 41 local ballot measures on data centers across the country, that many went against the data centers, from moratoriums to new regulations to specific projects getting voted down\n\n• 71%: of Americans oppose data center construction in their area, according to Gallup, which makes building a data center roughly as unpopular as releasing the Epstein files is popular (75% support that)\n\n• $400 million: what Elon Musk poured into the Republican midterms push, and of every traceable dollar he put into a race that has been decided, more than 99 cents went to a race he lost\n\n• 99.96%: accuracy Pangram's updated image detection model scored on an internal benchmark, while its new video detection model scored 98.57%, as AI video gets harder to spot with the naked eye\n\n• 4: rides Uber fulfilled last quarter that were booked by AI agents, plus 500 food deliveries, out of 320 million transactions in the quarter, so the agent economy is real but still tiny\n\nQuotes of the Day\n\n• \"A blue wave has not materialized in the country so far\" (Clay Travis, OutKick founder, at 3 p.m. on Election Day, hours before Democrats delivered a historic sweep)\n\n• \"Most of the risk is actually created by a couple of players building behind closed doors\" (Clément Delangue, Hugging Face CEO, making the case for open source AI)\n\n• \"We're all just walking each other home\" (Ram Dass, quoted by Kevin Rose in a tribute to his dog Toaster, who died this week after 16 years together)\n\nThe Midterms Aftermath\n\nThe blame game started before the confetti was swept up. WIRED reports the knives are out in the White House after catastrophic Republican losses, with everyone from Pete Hegseth to White House aides to right-wing pundits racing to find someone besides Donald Trump to blame. Trump spent months endorsing candidates, demanding loyalty, and urging Americans to pretend he was on the ballot, then suddenly remembered he was not actually running. (WIRED)\n\nDemocrats flipped Senate seats in Texas and South Carolina. Status reports the two longtime GOP strongholds went blue on Tuesday night, part of a historic sweep that left right-wing media figures scrambling to explain how badly they misread the electorate. MAGA media figures are now turning on one another over the debacle, and telling Status the party must move on from Trump. (Status)\n\nAI & The Machines\n\nOpenAI has a new name for data centers: compute campuses. Semafor reports the company is pushing the rebrand as voters revolt against data center construction and Democrats prepare to make the industry a regulatory target. The logic is simple enough. A data center is a power-hungry warehouse your neighbors hate. A compute campus sounds like a place with quads and trees. Whether the new label survives contact with an angry electorate is another question. (Semafor)\n\nGoogle is forcing AI Overviews into classrooms, and schools are looking for the exits. WIRED reports Google is tying its AI-generated answers to traditional search, angering parents and educators who worry that easy machine-generated answers are leaving kids less capable. The fight is the same one playing out everywhere AI lands. Convenience now, skills later, and nobody is sure what later costs. (WIRED)\n\nAI slop has a repertoire, and it is older than the internet. Marcus Bösch argues the synthetic characters flooding our feeds work like a 16th century commedia dell'arte troupe, stock masks with endless variations. There is Il Dottore explaining the world, the young lovers with a link in bio, and Jessica Foster, an AI Army blonde posing next to Trump who gained over a million Instagram followers. In a study Bösch co-authored covering 354 TikTok accounts posting almost only AI content, the accounts racked up 4.5 billion views, and TikTok itself labeled just 1.38 percent of the posts as AI. The mask used to announce the performance. Now the mask is the face. (Understanding TikTok)\n\nKevin Rose has 500 invites to an AI companion that runs your life over text message. Instinct, the invite-only product Rose uses daily, stores credentials for reservation services and waits in line for hard-to-get tables, watches for important email like DocuSigns, and researches trips in the background. Rose also runs a Bradbury Challenge through it, with a friend scoring a daily short story, poem, and essay in a shared chat. It is free for now, and Rose says he is not an investor, just a user. He is also trying Grok Bot, Muse, ChatGPT Dots, and the new Claude Duet. (Instinct)\n\nMoney & Power\n\nSequoia has parted ways with half a dozen partners and shut its London office. Newcomer reports the storied venture firm forced out at least three US-based partners as part of a broad overhaul, as it tries to turn itself around in the AI era. For a firm that built its name on picking winners early, the message is blunt. Even Sequoia thinks the old playbook needs rewriting. (Newcomer)\n\nCalifornia's wealth tax is dead, and voters may have buried the idea for good. Pirate Wires reports the first-of-its-kind asset seizure, pushed for a year and fought largely by Sergey Brin, was defeated on Tuesday. Prop 42 also looks set to pass, which would permanently ban such asset seizures. The lesson for billionaires, per Pirate Wires: if you can survive the gulag for two more years, you can pass reasonable legislation in California via ballot prop, you just have to pay. (Pirate Wires)\n\nSweetgreen wants you to stop thinking of it as the $20 salad place. The Wall Street Journal reports the company is leaning into $15 wraps, bigger portions, and clearer build-your-own pricing to win back customers squeezed by rising labor and food costs. It is a humbling comedown for the premium slop bowl seller, and a reminder that even the trendiest lunch spot is one price hike away from losing the plot. (The Wall Street Journal)\n\nBritain's big AI number was mostly Google's homework. WIRED reports UK officials claimed AI would add £400 billion to the economy, but the figure mainly came from Google, and the AI minister now concedes the real estimate is less than a third of that. Researchers blame the country's slow rate of adoption. It is a useful reminder that when a government cites a giant round number, it is worth asking who did the math. (WIRED)\n\nThe Culture\n\nJane Austen would like a word about your feelings. The Argument's Jerusalem Demsas writes that the new Sense and Sensibility adaptation refuses to take Austen's side, and Austen took a side. In 1811, sense meant reason and sensibility meant the capacity to feel, and Austen came down firmly for sense. Her last word on Marianne Dashwood, the sister who embodies the cult of sensibility, is that she \"was born to discover the falsehood of her own opinions.\" Two centuries later, the cult is back, and the expected response to an emotional outburst is not comfort but affirmation. Austen's question still stands: what if your feelings are wrong? (The Argument)\n\nIndie sleaze is back, and it sounds like Baltimore club. Eddie Huang's Canal Street Dreams reunites Roxy Cottontail, the DJ who brought Baltimore club music to New York and came up alongside Diplo, Spankrock, Santigold, A-Trak, and Benny Blanco. The episode revisits a moment when the party was its own world, and asks what got lost when social media flattened every regional sound into one global feed. They also start planning a Streetwear Prom. (Canal Street Dreams)\n\nOpenAI's secret weapon is a party planner. New York Magazine profiled Charles Porch, Sam Altman's elusive deputy, whose job is throwing lavish parties for Hollywood elites to convince them AI is not evil and will not steal their jobs. He masterminded Gwyneth Paltrow's private alfresco dinner honoring Altman. As one source put it, everyone wants to hate OpenAI and everyone wants to love Charles Porch. AI's socially inept founders need someone who knows how to make hot actresses and models feel cool, and Pirate Wires argues we need a Charles Porch for data centers too. (Pirate Wires)\n\nA former soldier, a canoe, and the washing machine of Loch Lochy. Steven Kelly, a 40-year-old former British Army commando turned survival expert, set out to paddle Scotland's Great Glen Way with five civilians and got flipped by wind and white horses on Loch Lochy. Caught between two currents, he thought he was going to drown. The group hunkered down for two days to wait out the storm. Kelly has appeared on Bear Grylls: Wild Reckoning and Naked and Afraid twice, but canoeing the Great Glen was a first even for him. (InsideHook)\n\nQuick Hits & Curiosities\n\n• AMD printed strong earnings and boosted guidance, then barely eked out a gain, while Nvidia, Broadcom, and Marvell all tumbled, a sign of just how sour sentiment is on chip stocks right now (CNBC)\n\n• CVS plans to break up its $117 billion healthcare conglomerate (Bloomberg)\n\n• Waymo confirmed it will split with Uber in January 2028 (TechCrunch)\n\n• DuckDuckGo is pitching itself to schools amid the backlash over Google's AI policy (TechCrunch)\n\n• Republican state attorneys general are leading a barrage of lawsuits against OpenAI, asking judges for court-ordered restrictions on the company (Pirate Wires)\n\n• Falchetta, a new Italian steakhouse, is coming to the former Johnny Pepperoni space in Hoboken (The Hoboken Girl)\n\n• Saigon Cafe in Jersey City is closing after 27 years in business (The Hoboken Girl)",
+          "blocks": [
+            {
+              "type": "heading_1",
+              "runs": [
+                {
+                  "text": "Thursday, November 5, 2026 - Morning Edition",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Today's Numbers",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "40",
+                  "url": "https://www.semafor.com/article/11/04/2026/us-voters-roundly-reject-data-centers-in-ballot-measures",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": of the 41 local ballot measures on data centers across the country, that many went against the data centers, from moratoriums to new regulations to specific projects getting voted down",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "71%",
+                  "url": "https://news.gallup.com/poll/709772/americans-oppose-data-centers-area.aspx",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": of Americans oppose data center construction in their area, according to Gallup, which makes building a data center roughly as unpopular as releasing the Epstein files is popular (75% support that)",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "$400 million",
+                  "url": "https://www.wired.com/story/voters-set-dollar400-million-of-elon-musks-money-on-fire/",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": what Elon Musk poured into the Republican midterms push, and of every traceable dollar he put into a race that has been decided, more than 99 cents went to a race he lost",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "99.96%",
+                  "url": "https://www.piratewires.com/p/exclusive-pangram-can-now-detect",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": accuracy Pangram's updated image detection model scored on an internal benchmark, while its new video detection model scored 98.57%, as AI video gets harder to spot with the naked eye",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "4",
+                  "url": "https://www.theverge.com/transportation/1026306/uber-ai-agents-q3-earnings-disintermediation",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": rides Uber fulfilled last quarter that were booked by AI agents, plus 500 food deliveries, out of 320 million transactions in the quarter, so the agent economy is real but still tiny",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Quotes of the Day",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "\"A blue wave has not materialized in the country so far\" (Clay Travis, OutKick founder, at 3 p.m. on Election Day, hours before Democrats delivered a historic sweep)",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "\"Most of the risk is actually created by a couple of players building behind closed doors\" (Clément Delangue, Hugging Face CEO, making the case for open source AI)",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "\"We're all just walking each other home\" (Ram Dass, quoted by Kevin Rose in a tribute to his dog Toaster, who died this week after 16 years together)",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "The Midterms Aftermath",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "The blame game started before the confetti was swept up.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " WIRED reports the knives are out in the White House after catastrophic Republican losses, with everyone from Pete Hegseth to White House aides to right-wing pundits racing to find someone besides Donald Trump to blame. Trump spent months endorsing candidates, demanding loyalty, and urging Americans to pretend he was on the ballot, then suddenly remembered he was not actually running. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "WIRED",
+                  "url": "https://www.wired.com/story/knives-are-out-in-the-white-house/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Democrats flipped Senate seats in Texas and South Carolina.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " Status reports the two longtime GOP strongholds went blue on Tuesday night, part of a historic sweep that left right-wing media figures scrambling to explain how badly they misread the electorate. MAGA media figures are now turning on one another over the debacle, and telling Status the party must move on from Trump. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Status",
+                  "url": "https://www.status.news/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "AI & The Machines",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "OpenAI has a new name for data centers: compute campuses.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " Semafor reports the company is pushing the rebrand as voters revolt against data center construction and Democrats prepare to make the industry a regulatory target. The logic is simple enough. A data center is a power-hungry warehouse your neighbors hate. A compute campus sounds like a place with quads and trees. Whether the new label survives contact with an angry electorate is another question. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Semafor",
+                  "url": "https://www.semafor.com/article/11/03/2026/openai-pushes-policy-rebrand-to-a-skeptical-audience",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Google is forcing AI Overviews into classrooms, and schools are looking for the exits.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " WIRED reports Google is tying its AI-generated answers to traditional search, angering parents and educators who worry that easy machine-generated answers are leaving kids less capable. The fight is the same one playing out everywhere AI lands. Convenience now, skills later, and nobody is sure what later costs. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "WIRED",
+                  "url": "https://www.wired.com/story/google-is-forcing-ai-overviews-in-classrooms-schools-are-searching-for-a-way-out/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "AI slop has a repertoire, and it is older than the internet.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " Marcus Bösch argues the synthetic characters flooding our feeds work like a 16th century commedia dell'arte troupe, stock masks with endless variations. There is Il Dottore explaining the world, the young lovers with a link in bio, and Jessica Foster, an AI Army blonde posing next to Trump who gained over a million Instagram followers. In a study Bösch co-authored covering 354 TikTok accounts posting almost only AI content, the accounts racked up 4.5 billion views, and TikTok itself labeled just 1.38 percent of the posts as AI. The mask used to announce the performance. Now the mask is the face. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Understanding TikTok",
+                  "url": "https://tiktoktiktoktiktok.substack.com/p/commedia-dellai",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Kevin Rose has 500 invites to an AI companion that runs your life over text message.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " Instinct, the invite-only product Rose uses daily, stores credentials for reservation services and waits in line for hard-to-get tables, watches for important email like DocuSigns, and researches trips in the background. Rose also runs a Bradbury Challenge through it, with a friend scoring a daily short story, poem, and essay in a shared chat. It is free for now, and Rose says he is not an investor, just a user. He is also trying Grok Bot, Muse, ChatGPT Dots, and the new Claude Duet. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Instinct",
+                  "url": "https://instinct.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Money & Power",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Sequoia has parted ways with half a dozen partners and shut its London office.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " Newcomer reports the storied venture firm forced out at least three US-based partners as part of a broad overhaul, as it tries to turn itself around in the AI era. For a firm that built its name on picking winners early, the message is blunt. Even Sequoia thinks the old playbook needs rewriting. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Newcomer",
+                  "url": "https://www.newcomer.co/p/exclusive-sequoia-parts-ways-with",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "California's wealth tax is dead, and voters may have buried the idea for good.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " Pirate Wires reports the first-of-its-kind asset seizure, pushed for a year and fought largely by Sergey Brin, was defeated on Tuesday. Prop 42 also looks set to pass, which would permanently ban such asset seizures. The lesson for billionaires, per Pirate Wires: if you can survive the gulag for two more years, you can pass reasonable legislation in California via ballot prop, you just have to pay. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Pirate Wires",
+                  "url": "https://www.piratewires.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Sweetgreen wants you to stop thinking of it as the $20 salad place.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " The Wall Street Journal reports the company is leaning into $15 wraps, bigger portions, and clearer build-your-own pricing to win back customers squeezed by rising labor and food costs. It is a humbling comedown for the premium slop bowl seller, and a reminder that even the trendiest lunch spot is one price hike away from losing the plot. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "The Wall Street Journal",
+                  "url": "https://www.wsj.com/business/c-suite/sweetgreens-plan-to-shed-its-expensive-salad-image-40751032",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Britain's big AI number was mostly Google's homework.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " WIRED reports UK officials claimed AI would add £400 billion to the economy, but the figure mainly came from Google, and the AI minister now concedes the real estimate is less than a third of that. Researchers blame the country's slow rate of adoption. It is a useful reminder that when a government cites a giant round number, it is worth asking who did the math. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "WIRED",
+                  "url": "https://www.wired.com/story/uk-officials-said-ai-would-add-400-billion-to-the-economy-that-figure-mainly-came-from-google/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "The Culture",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Jane Austen would like a word about your feelings.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " The Argument's Jerusalem Demsas writes that the new Sense and Sensibility adaptation refuses to take Austen's side, and Austen took a side. In 1811, sense meant reason and sensibility meant the capacity to feel, and Austen came down firmly for sense. Her last word on Marianne Dashwood, the sister who embodies the cult of sensibility, is that she \"was born to discover the falsehood of her own opinions.\" Two centuries later, the cult is back, and the expected response to an emotional outburst is not comfort but affirmation. Austen's question still stands: what if your feelings are wrong? (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "The Argument",
+                  "url": "https://www.theargumentmag.com/p/nonsense-and-sensibility",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Indie sleaze is back, and it sounds like Baltimore club.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " Eddie Huang's Canal Street Dreams reunites Roxy Cottontail, the DJ who brought Baltimore club music to New York and came up alongside Diplo, Spankrock, Santigold, A-Trak, and Benny Blanco. The episode revisits a moment when the party was its own world, and asks what got lost when social media flattened every regional sound into one global feed. They also start planning a Streetwear Prom. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Canal Street Dreams",
+                  "url": "https://basedfob.substack.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "OpenAI's secret weapon is a party planner.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " New York Magazine profiled Charles Porch, Sam Altman's elusive deputy, whose job is throwing lavish parties for Hollywood elites to convince them AI is not evil and will not steal their jobs. He masterminded Gwyneth Paltrow's private alfresco dinner honoring Altman. As one source put it, everyone wants to hate OpenAI and everyone wants to love Charles Porch. AI's socially inept founders need someone who knows how to make hot actresses and models feel cool, and Pirate Wires argues we need a Charles Porch for data centers too. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Pirate Wires",
+                  "url": "https://www.piratewires.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "A former soldier, a canoe, and the washing machine of Loch Lochy.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " Steven Kelly, a 40-year-old former British Army commando turned survival expert, set out to paddle Scotland's Great Glen Way with five civilians and got flipped by wind and white horses on Loch Lochy. Caught between two currents, he thought he was going to drown. The group hunkered down for two days to wait out the storm. Kelly has appeared on Bear Grylls: Wild Reckoning and Naked and Afraid twice, but canoeing the Great Glen was a first even for him. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "InsideHook",
+                  "url": "https://www.insidehook.com/adventure/steven-kelly-canoe-expedition-scotland-lochs",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Quick Hits & Curiosities",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "AMD printed strong earnings and boosted guidance, then barely eked out a gain, while Nvidia, Broadcom, and Marvell all tumbled, a sign of just how sour sentiment is on chip stocks right now (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "CNBC",
+                  "url": "https://www.cnbc.com/2026/11/03/amd-amd-q3-earnings-report-2026-.html",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "CVS plans to break up its $117 billion healthcare conglomerate (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Bloomberg",
+                  "url": "https://www.bloomberg.com/news/articles/2026-11-04/cvs-plans-to-break-up-117-billion-healthcare-conglomerate",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Waymo confirmed it will split with Uber in January 2028 (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "TechCrunch",
+                  "url": "https://techcrunch.com/2026/11/04/waymo-confirms-it-will-split-with-uber-in-january-2028/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "DuckDuckGo is pitching itself to schools amid the backlash over Google's AI policy (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "TechCrunch",
+                  "url": "https://techcrunch.com/2026/11/04/duckduckgo-pitches-itself-to-schools-amid-backlash-over-googles-ai-policy/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Republican state attorneys general are leading a barrage of lawsuits against OpenAI, asking judges for court-ordered restrictions on the company (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Pirate Wires",
+                  "url": "https://www.piratewires.com/p/republicans-lead-lawsuit-barrage",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Falchetta, a new Italian steakhouse, is coming to the former Johnny Pepperoni space in Hoboken (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "The Hoboken Girl",
+                  "url": "https://www.hobokengirl.com/falchetta-italian-steakhouse-hoboken-johnny-pepperoni/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Saigon Cafe in Jersey City is closing after 27 years in business (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "The Hoboken Girl",
+                  "url": "https://www.hobokengirl.com/saigon-cafe-closure-jersey-city-nj/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            }
+          ],
+          "links": [
+            {
+              "title": "40",
+              "url": "https://www.semafor.com/article/11/04/2026/us-voters-roundly-reject-data-centers-in-ballot-measures"
+            },
+            {
+              "title": "71%",
+              "url": "https://news.gallup.com/poll/709772/americans-oppose-data-centers-area.aspx"
+            },
+            {
+              "title": "$400 million",
+              "url": "https://www.wired.com/story/voters-set-dollar400-million-of-elon-musks-money-on-fire/"
+            },
+            {
+              "title": "99.96%",
+              "url": "https://www.piratewires.com/p/exclusive-pangram-can-now-detect"
+            },
+            {
+              "title": "4",
+              "url": "https://www.theverge.com/transportation/1026306/uber-ai-agents-q3-earnings-disintermediation"
+            },
+            {
+              "title": "WIRED",
+              "url": "https://www.wired.com/story/knives-are-out-in-the-white-house/"
+            },
+            {
+              "title": "Status",
+              "url": "https://www.status.news/"
+            },
+            {
+              "title": "Semafor",
+              "url": "https://www.semafor.com/article/11/03/2026/openai-pushes-policy-rebrand-to-a-skeptical-audience"
+            },
+            {
+              "title": "WIRED",
+              "url": "https://www.wired.com/story/google-is-forcing-ai-overviews-in-classrooms-schools-are-searching-for-a-way-out/"
+            },
+            {
+              "title": "Understanding TikTok",
+              "url": "https://tiktoktiktoktiktok.substack.com/p/commedia-dellai"
+            },
+            {
+              "title": "Instinct",
+              "url": "https://instinct.com/"
+            },
+            {
+              "title": "Newcomer",
+              "url": "https://www.newcomer.co/p/exclusive-sequoia-parts-ways-with"
+            },
+            {
+              "title": "Pirate Wires",
+              "url": "https://www.piratewires.com/"
+            },
+            {
+              "title": "The Wall Street Journal",
+              "url": "https://www.wsj.com/business/c-suite/sweetgreens-plan-to-shed-its-expensive-salad-image-40751032"
+            },
+            {
+              "title": "WIRED",
+              "url": "https://www.wired.com/story/uk-officials-said-ai-would-add-400-billion-to-the-economy-that-figure-mainly-came-from-google/"
+            },
+            {
+              "title": "The Argument",
+              "url": "https://www.theargumentmag.com/p/nonsense-and-sensibility"
+            },
+            {
+              "title": "Canal Street Dreams",
+              "url": "https://basedfob.substack.com/"
+            },
+            {
+              "title": "InsideHook",
+              "url": "https://www.insidehook.com/adventure/steven-kelly-canoe-expedition-scotland-lochs"
+            },
+            {
+              "title": "CNBC",
+              "url": "https://www.cnbc.com/2026/11/03/amd-amd-q3-earnings-report-2026-.html"
+            },
+            {
+              "title": "Bloomberg",
+              "url": "https://www.bloomberg.com/news/articles/2026-11-04/cvs-plans-to-break-up-117-billion-healthcare-conglomerate"
+            },
+            {
+              "title": "TechCrunch",
+              "url": "https://techcrunch.com/2026/11/04/waymo-confirms-it-will-split-with-uber-in-january-2028/"
+            },
+            {
+              "title": "TechCrunch",
+              "url": "https://techcrunch.com/2026/11/04/duckduckgo-pitches-itself-to-schools-amid-backlash-over-googles-ai-policy/"
+            },
+            {
+              "title": "Pirate Wires",
+              "url": "https://www.piratewires.com/p/republicans-lead-lawsuit-barrage"
+            },
+            {
+              "title": "The Hoboken Girl",
+              "url": "https://www.hobokengirl.com/falchetta-italian-steakhouse-hoboken-johnny-pepperoni/"
+            },
+            {
+              "title": "The Hoboken Girl",
+              "url": "https://www.hobokengirl.com/saigon-cafe-closure-jersey-city-nj/"
+            }
+          ]
+        }
+      }
     }
   ]
 }
