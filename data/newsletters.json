@@ -231053,6 +231053,492 @@
           ]
         }
       }
+    },
+    {
+      "id": "digest-bee1bff6-2925-465c-969a-d250cd8334d5",
+      "channel": "newsletters",
+      "source": "notion",
+      "kind": "Agent-written digest",
+      "domain": "Daily newsletter digest",
+      "title": "The Data Center Backlash, the Movie-Club Revival, and a $200 Coffee",
+      "url": "",
+      "description": "Wednesday, November 4, 2026",
+      "body": "Wednesday, November 4, 2026\n\nThe internet’s favorite subjects today were power, screens, and the very strange ways people are trying to get back into the same room. Voters pushed back on data centers and tech wealth; magazines discovered that a dark theater beats another brand cocktail; and somewhere in Brooklyn, someone is charging $200 for coffee.\n\nFront page: the AI backlash goes local\n\n• The “AI election.” Semafor Technology argues that AI became both campaign issue and campaign infrastructure this cycle. The sharper signal: the newsletter counted data-center restrictions, bans, and moratoriums winning in more than 30 localities across nine states. The story is less “people hate technology” than “people want a share of the upside—and a say in where the downside lands.”\n\n• One fight, according to 404 Media. Jason Koebler’s 404 Media dispatch reads the election as a rejection of a Silicon Valley bargain: accept mass automation, surveillance, pollution, and insecurity in exchange for somebody else’s valuation going up. The memorable detail is the money-versus-place mismatch: huge tech spending met communities saying, essentially, not here.\n\n• OpenAI versus Anthropic. Newcomer sees a divergence in investor mood: Anthropic is described as having “infinite demand” among long-term investors, while OpenAI is searching for a comeback narrative. The useful frame is not which lab has the flashiest demo, but which one investors believe can become a durable institution.\n\nBest links: people are choosing rooms again\n\n• The movie-screening industrial complex. Feed Me reports that The New York Times, Vogue, Vanity Fair, The Midcoast Villager, and Feed Me are all swapping some parties for screenings. The pitch is wonderfully simple: a theater gives people something to talk about, removes the pressure to perform networking, and lets a publication convene a community without shouting over tiny pigs in blankets.\n\n• The strongest version comes from The Midcoast Villager, which wants movies to create “meaning” locally—news films, conversations, a café, maybe even an old theater bought back from an antique store. A good media event now looks less like a step-and-repeat and more like a recurring place.\n\n• The agent showdown. Joanna Stern’s New Things tests Claude Duet, Muse, Dot, and Instinct. Her early conclusion: the differentiator may be less raw intelligence than access and purpose. Duet went straight for work—calendar, Drive, thank-you notes, and to-do lists—while the others had more personal or consumer-facing jobs. The best line in the premise: “at least buy me a coffee before assigning me homework.”\n\nFood & places\n\n• Dinner in 30 minutes: NYT Cooking makes tomato soup and grilled cheese feel newly precise: canned tomatoes, onion, butter, mozzarella, and a thin swipe of mayonnaise inside the bread. The recommendation is soft enriched bread—brioche or milk bread—because the filling is already rich and gooey.\n\n• Thanksgiving gets weird: NYT Cooking’s dessert dispatch proposes a sticky miso-apple spiral, chocolate mousse, and buttered corn flan instead of another predictable pie. The corn flan is the one to bookmark: familiar Thanksgiving material, but silky and just strange enough.\n\n• A useful gift-guide correction: InsideHook’s IRL says not to buy a cookbook for the person who is always riffing. Consider sardine jewelry, a handsome apron, great olive oil, a knife sharpener, or a truly enormous bag of sea salt. Also noted: Sacramento’s Southside Super, where chicken pho and kimchi Spam fried rice share a counter with a grab-and-go case.\n\nInternet oddities\n\n• Sequence by Cosmos collects the day’s ideal miscellany: a house disassembled and rebuilt across France, Oxford Street going car-free, three museums joining forces, and a Kandinsky that reportedly went from $62,000 to an expected $60–80 million. Its best cultural micro-dose is a history of the gray hoodie, track pants, Vans, and varsity jacket as a uniform inherited from New York hardcore and skate culture.\n\n• Today in Tabs remains a reliable portal to the deranged: a cartoon-foot wiki, a history of the melting-face emoji, a snowy kangaroo asking “WTF?”, and a surrealist short film called “Where’s Dinner?” Read the whole election-day tab spiral here.\n\n• Garbage Day has the internet’s most aggressive post-election thesis: the right’s online “Gamergate” coalition failed to reproduce itself for the Roblox generation. The useful takeaway beneath the jokes is that a political media flywheel can look enormous inside its own filter bubble and still fail to transfer across generations.\n\nIdeas to steal\n\n• Replace the networking party with a screening, a book club, or anything that gives strangers a shared object to discuss.\n\n• Treat AI access as product design, not a footnote: the winning agent may be the one that knows what it is allowed to touch and has a clear job.\n\n• If you’re making a communal event, add a café, a recurring date, or a local ritual. “Come hang out” works better when there is a movie, a pancake, or a record fair attached.\n\nOne-liners\n\n• Atiba Jefferson, via Sequence: “Be nice.”\n\n• The best anti-FOMO holiday, according to a Cosmos reader: cancel one plan ceremonially.\n\n• The modern media party, apparently, is popcorn.\n\n• A $200 coffee is either a beverage, a performance, or a very effective newsletter subject line.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Wednesday, November 4, 2026",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "The internet’s favorite subjects today were power, screens, and the very strange ways people are trying to get back into the same room. Voters pushed back on data centers and tech wealth; magazines discovered that a dark theater beats another brand cocktail; and somewhere in Brooklyn, someone is charging $200 for coffee.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "heading_2",
+          "runs": [
+            {
+              "text": "Front page: the AI backlash goes local",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "The “AI election.”",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Semafor Technology",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": " argues that AI became both campaign issue and campaign infrastructure this cycle. The sharper signal: the newsletter counted data-center restrictions, bans, and moratoriums winning in more than 30 localities across nine states. The story is less “people hate technology” than “people want a share of the upside—and a say in where the downside lands.”",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "One fight, according to 404 Media.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Jason Koebler’s 404 Media dispatch",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": " reads the election as a rejection of a Silicon Valley bargain: accept mass automation, surveillance, pollution, and insecurity in exchange for somebody else’s valuation going up. The memorable detail is the money-versus-place mismatch: huge tech spending met communities saying, essentially, not here.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "OpenAI versus Anthropic.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Newcomer",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": " sees a divergence in investor mood: Anthropic is described as having “infinite demand” among long-term investors, while OpenAI is searching for a comeback narrative. The useful frame is not which lab has the flashiest demo, but which one investors believe can become a durable institution.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "heading_2",
+          "runs": [
+            {
+              "text": "Best links: people are choosing rooms again",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "The movie-screening industrial complex.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Feed Me",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": " reports that The New York Times, Vogue, Vanity Fair, The Midcoast Villager, and Feed Me are all swapping some parties for screenings. The pitch is wonderfully simple: a theater gives people something to talk about, removes the pressure to perform networking, and lets a publication convene a community without shouting over tiny pigs in blankets.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "The strongest version comes from The Midcoast Villager, which wants movies to create “meaning” locally—news films, conversations, a café, maybe even an old theater bought back from an antique store. A good media event now looks less like a step-and-repeat and more like a recurring place.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "The agent showdown.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Joanna Stern’s New Things",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": " tests Claude Duet, Muse, Dot, and Instinct. Her early conclusion: the differentiator may be less raw intelligence than access and purpose. Duet went straight for work—calendar, Drive, thank-you notes, and to-do lists—while the others had more personal or consumer-facing jobs. The best line in the premise: “at least buy me a coffee before assigning me homework.”",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "heading_2",
+          "runs": [
+            {
+              "text": "Food & places",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Dinner in 30 minutes:",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "NYT Cooking",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": " makes tomato soup and grilled cheese feel newly precise: canned tomatoes, onion, butter, mozzarella, and a thin swipe of mayonnaise inside the bread. The recommendation is soft enriched bread—brioche or milk bread—because the filling is already rich and gooey.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Thanksgiving gets weird:",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "NYT Cooking’s dessert dispatch",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": " proposes a sticky miso-apple spiral, chocolate mousse, and buttered corn flan instead of another predictable pie. The corn flan is the one to bookmark: familiar Thanksgiving material, but silky and just strange enough.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "A useful gift-guide correction:",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "InsideHook’s IRL",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": " says not to buy a cookbook for the person who is always riffing. Consider sardine jewelry, a handsome apron, great olive oil, a knife sharpener, or a truly enormous bag of sea salt. Also noted: Sacramento’s Southside Super, where chicken pho and kimchi Spam fried rice share a counter with a grab-and-go case.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "heading_2",
+          "runs": [
+            {
+              "text": "Internet oddities",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Sequence by Cosmos",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": " collects the day’s ideal miscellany: a house disassembled and rebuilt across France, Oxford Street going car-free, three museums joining forces, and a Kandinsky that reportedly went from $62,000 to an expected $60–80 million. Its best cultural micro-dose is a history of the gray hoodie, track pants, Vans, and varsity jacket as a uniform inherited from New York hardcore and skate culture.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Today in Tabs",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " remains a reliable portal to the deranged: a cartoon-foot wiki, a history of the melting-face emoji, a snowy kangaroo asking “WTF?”, and a surrealist short film called “Where’s Dinner?” ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Read the whole election-day tab spiral here.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Garbage Day",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": " has the internet’s most aggressive post-election thesis: the right’s online “Gamergate” coalition failed to reproduce itself for the Roblox generation. The useful takeaway beneath the jokes is that a political media flywheel can look enormous inside its own filter bubble and still fail to transfer across generations.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "heading_2",
+          "runs": [
+            {
+              "text": "Ideas to steal",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Replace the networking party with a screening, a book club, or anything that gives strangers a shared object to discuss.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Treat AI access as product design, not a footnote: the winning agent may be the one that knows what it is allowed to touch and has a clear job.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "If you’re making a communal event, add a café, a recurring date, or a local ritual. “Come hang out” works better when there is a movie, a pancake, or a record fair attached.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "heading_2",
+          "runs": [
+            {
+              "text": "One-liners",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Atiba Jefferson, via Sequence: ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "“Be nice.”",
+              "url": "",
+              "bold": true,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "The best anti-FOMO holiday, according to a Cosmos reader: cancel one plan ceremonially.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "The modern media party, apparently, is popcorn.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "A $200 coffee is either a beverage, a performance, or a very effective newsletter subject line.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        }
+      ],
+      "publishedAt": "2026-11-04T22:10:00Z",
+      "links": []
     }
   ]
 }
