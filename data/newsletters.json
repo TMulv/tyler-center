@@ -236446,6 +236446,357 @@
           ]
         }
       }
+    },
+    {
+      "id": "digest-8d431f7d-cc7d-4d86-8d96-94f23f02ae5a",
+      "channel": "newsletters",
+      "source": "notion",
+      "kind": "Agent-written digest",
+      "domain": "Daily newsletter digest",
+      "title": "The Line Economy, AI Masks & Fruit for Dinner",
+      "url": "",
+      "description": "Today’s newsletters found a culture trying to turn every queue into a clubhouse, every AI feed into a masked theater, and every autumn fruit into dinner. Meanwhile, voters delivered a blunt review of the data-center boom: absolutely not.",
+      "body": "Today’s newsletters found a culture trying to turn every queue into a clubhouse, every AI feed into a masked theater, and every autumn fruit into dinner. Meanwhile, voters delivered a blunt review of the data-center boom: absolutely not.\n\nBest links\n\nThe line is the event\n\nDazed asks when waiting stopped being a nuisance and became the activity. Four-hour matcha queues now function as content studios, networking mixers, and proof that you had an afternoon to spare. The sharpest read is that a line signals both belonging and time affluence: the product is almost secondary to being seen inside the moment.\n\nThe fake-ID industrial revolution\n\n404 Media profiles OnlyFake creator Yuriy Nazarenko, whose AI-assisted service let customers generate convincing identity documents at scale—sometimes for $15 apiece. The unnerving takeaway is not merely that forgery got cheaper; it is that KYC systems were built around a world where making convincing evidence of identity required rare human craft.\n\nMusic videos as a vanished film school\n\nSean Fennessey’s Projections makes a persuasive case for revisiting the directors who moved from MTV to Hollywood: Fincher, Spike Jonze, Hype Williams, Tamra Davis, Michel Gondry, and the less-remembered Roman Coppola and Mike Mills. His Criterion Channel collection is a compact alternate history of commercial cinema—one where visual speed and music-video grammar briefly became the main road into movies.\n\nWorth reading\n\nGoodbye, feature discovery\n\nLenny’s Newsletter, cross-posting Elena Verna, argues that AI may finally make feature discovery unnecessary. Users can describe an outcome; the product decides which capabilities to invoke. That shifts the product job from getting humans to click more buttons to making delegation feel reliable, legible, reversible, and safe. The catch: if the interface stops showing what is possible, use-case discovery becomes the new problem.\n\nCommedia dell’AI\n\nMarcus Bösch offers a better metaphor for synthetic internet culture than “AI slop”: commedia dell’arte. The feed is full of stock characters, masks, formulas, and endlessly improvised variations—political heroines, fake experts, wise elders, and meme-coin salesmen. His useful scrolling prompt: Which mask is this? Which story? And where does it want me to go?\n\nFood & places\n\nNYT Cooking’s The Veggie has officially declared savory fruit season. The move: pair crisp apples, pears, persimmons, or dates with bitter greens, brassicas, nuts, cheese, and sharp vinaigrettes. The immediate saves are crunchy Brussels sprouts and apple slaw, cheddar-and-pear galette, gochujang tofu with squash and Brussels sprouts, and apple-maple baked Brie—the kind of party dish that quietly gets you assigned the same dish every year.\n\nIdeas to steal\n\n• Design for delegation, not navigation. If an agent is operating the software, expose confidence, rationale, control, and undo—not another tooltip tour.\n\n• Make the queue the venue. A line can be a social product when people are starved for third places. The trick is to offer the connection without requiring four hours of frozen-yogurt theater.\n\n• Rename the warehouse, not the problem. Snacks reports that voters opposed data-center proposals in 40 of 41 local races it tracked. Calling them “compute campuses” is not going to fix the underlying politics of power, water, noise, and land.\n\nOne-liners\n\n• “In commedia dell’AI, the mask is the face.” — Marcus Bösch\n\n• “If people see someone else waiting, everyone thinks it must be amazing.” — a Dazed source on the line economy\n\n• Deez Links’ election-night theory: we are a selfish people, but “oh so easily charmable.”\n\nFiled from Thursday’s inbox. Sources: Dinner Party, Projections, Lenny’s Newsletter, NYT Cooking, 404 Media, Dazed, Snacks, Understanding TikTok, and Deez Links.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Today’s newsletters found a culture trying to turn every queue into a clubhouse, every AI feed into a masked theater, and every autumn fruit into dinner. Meanwhile, voters delivered a blunt review of the data-center boom: absolutely not.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "heading_2",
+          "runs": [
+            {
+              "text": "Best links",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "heading_3",
+          "runs": [
+            {
+              "text": "The line is the event",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Dazed",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " asks when waiting stopped being a nuisance and became the activity. Four-hour matcha queues now function as content studios, networking mixers, and proof that you had an afternoon to spare. The sharpest read is that a line signals both belonging and time affluence: the product is almost secondary to being seen inside the moment. ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "heading_3",
+          "runs": [
+            {
+              "text": "The fake-ID industrial revolution",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "404 Media",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " profiles OnlyFake creator Yuriy Nazarenko, whose AI-assisted service let customers generate convincing identity documents at scale—sometimes for $15 apiece. The unnerving takeaway is not merely that forgery got cheaper; it is that KYC systems were built around a world where making convincing evidence of identity required rare human craft. ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "heading_3",
+          "runs": [
+            {
+              "text": "Music videos as a vanished film school",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Sean Fennessey’s Projections",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " makes a persuasive case for revisiting the directors who moved from MTV to Hollywood: Fincher, Spike Jonze, Hype Williams, Tamra Davis, Michel Gondry, and the less-remembered Roman Coppola and Mike Mills. His Criterion Channel collection is a compact alternate history of commercial cinema—one where visual speed and music-video grammar briefly became the main road into movies. ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "heading_2",
+          "runs": [
+            {
+              "text": "Worth reading",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "heading_3",
+          "runs": [
+            {
+              "text": "Goodbye, feature discovery",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Lenny’s Newsletter",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": ", cross-posting Elena Verna, argues that AI may finally make feature discovery unnecessary. Users can describe an outcome; the product decides which capabilities to invoke. That shifts the product job from getting humans to click more buttons to making delegation feel reliable, legible, reversible, and safe. The catch: if the interface stops showing what is possible, use-case discovery becomes the new problem. ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "heading_3",
+          "runs": [
+            {
+              "text": "Commedia dell’AI",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Marcus Bösch offers a better metaphor for synthetic internet culture than “AI slop”: ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "commedia dell’arte",
+              "url": "",
+              "bold": false,
+              "italic": true
+            },
+            {
+              "text": ". The feed is full of stock characters, masks, formulas, and endlessly improvised variations—political heroines, fake experts, wise elders, and meme-coin salesmen. His useful scrolling prompt: ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Which mask is this? Which story? And where does it want me to go?",
+              "url": "",
+              "bold": false,
+              "italic": true
+            },
+            {
+              "text": " ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "heading_2",
+          "runs": [
+            {
+              "text": "Food & places",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "NYT Cooking’s The Veggie",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " has officially declared savory fruit season. The move: pair crisp apples, pears, persimmons, or dates with bitter greens, brassicas, nuts, cheese, and sharp vinaigrettes. The immediate saves are crunchy Brussels sprouts and apple slaw, cheddar-and-pear galette, gochujang tofu with squash and Brussels sprouts, and apple-maple baked Brie—the kind of party dish that quietly gets you assigned the same dish every year. ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "heading_2",
+          "runs": [
+            {
+              "text": "Ideas to steal",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Design for delegation, not navigation.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " If an agent is operating the software, expose confidence, rationale, control, and undo—not another tooltip tour. ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Make the queue the venue.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " A line can be a social product when people are starved for third places. The trick is to offer the connection without requiring four hours of frozen-yogurt theater. ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Rename the warehouse, not the problem.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " Snacks reports that voters opposed data-center proposals in 40 of 41 local races it tracked. Calling them “compute campuses” is not going to fix the underlying politics of power, water, noise, and land. ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "heading_2",
+          "runs": [
+            {
+              "text": "One-liners",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "“In commedia dell’AI, the mask is the face.” — Marcus Bösch ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "“If people see someone else waiting, everyone thinks it must be amazing.” — a Dazed source on the line economy ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Deez Links’ election-night theory: we are a selfish people, but “oh so easily charmable.” ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Filed from Thursday’s inbox. Sources: Dinner Party, Projections, Lenny’s Newsletter, NYT Cooking, 404 Media, Dazed, Snacks, Understanding TikTok, and Deez Links.",
+              "url": "",
+              "bold": false,
+              "italic": true
+            }
+          ]
+        }
+      ],
+      "publishedAt": "2026-11-05T22:08:00Z",
+      "links": []
     }
   ]
 }
