@@ -237737,6 +237737,2276 @@
       ],
       "publishedAt": "2026-11-05T22:08:00Z",
       "links": []
+    },
+    {
+      "id": "digest-4108153c-8a3e-810c-97a5-caad0fb6b630",
+      "channel": "newsletters",
+      "source": "notion",
+      "kind": "Agent-written digest",
+      "domain": "Daily newsletter digest",
+      "title": "$2.5 trillion AI rout, doctors and scientists sweep Congress, Uber's 4 billion trips - Friday, November 6, 2026",
+      "url": "",
+      "description": "Friday, November 6, 2026 - Morning Edition",
+      "body": "Friday, November 6, 2026 - Morning Edition\n\nToday's Numbers\n\n• $2.5 trillion: wiped off the Nasdaq in a single day Thursday, its worst single-day destruction of value on record, as investors questioned the AI trade.\n\n• 80%: of congressional candidates backed by pro-science PAC 314 Action won on Tuesday, including Michigan senator-elect and epidemiologist Abdul El-Sayed.\n\n• 4.06 billion: trips and deliveries Uber logged in Q3, with revenue up 9.6% to $14.77 billion and gross bookings near $60 billion.\n\n• 40 of 41: data center measures voters sided against across 10 states on Tuesday.\n\n• 600,000: Nvidia H200 chips piled up in Hong Kong as China withholds import approval.\n\n• 99.96%: accuracy Pangram claims for its new AI image detection model on an internal benchmark. Its video detection scored 98.57%.\n\nQuotes of the Day\n\n• \"We have no shared reality\" (Kat Abughazaleh and CJ Pearson, WIRED World Fair panel on the future of politics online)\n\n• \"An early tremor of a much bigger AI earthquake\" (Rep. Greg Casar, chair of the Congressional Progressive Caucus, on the midterm results)\n\n• \"To start new data center build-outs today in the United States will be very challenging\" (Dina Powell McCormick, Meta president, at the Wall Street Journal tech conference)\n\nAI & The Machines\n\nDemocrats won a mandate against the AI buildout. Now they need a plan. Tuesday handed Democrats control of both houses of Congress, and a big thread of the win was voter anger at data centers, billionaire election spending, and an AI industry that keeps promising to take jobs. Texas governor-elect Gina Hinojosa campaigned on an immediate data center moratorium, and Sherrod Brown beat Jon Husted in Ohio after calling him the face of data centers. The incoming majority is already promising a stronger hand on tech, and one prediction has a frontier-model regulation bill passing in the first months of 2027. The catch is that regulating AI is not as simple as banning data centers, since the labs will just move them to other states, other countries, or even into space. Casey Newton argues Democrats should learn from the social media era, when four years of performative fury in Congress produced no privacy law, no Section 230 reform, and no antitrust legislation. The lesson is to target concrete harms with specific bills instead of treating AI regulation as one big thing. (Platformer)\n\nChatbots are getting ads, and Claude is the holdout. Anthropic is holding its vow to keep ads out of Claude, but the rest of the AI chatbot industry is racing to win over advertisers without antagonizing users. The money is obvious, and the risk is obvious too, since nobody opens a chatbot hoping to get pitched something mid-conversation. What works so far is the early experiment, and what does not work is anything that makes the bot feel like a billboard. The ad model that conquered search and social is now knocking on the last ad-free corner of the internet. (WIRED)\n\nMoney & Power\n\nThe midterms just made room for housing. AI sentiment has been driving housing stocks for the past month, and Tuesday was the clearest example yet. Stocks tied to the AI buildout fell hard, longer-term interest rates eased a little, and housing stocks surged. Conor Sen reads the market as pricing in a 2027 economy that is not as lopsided as this one, with the AI trade cooling just enough to let rate-sensitive parts of the economy breathe. It is the mirror image of 2008, when a credit and housing crisis dragged down every stock no matter the industry. This time the tech trade is the thing dragging, and housing is the thing catching a bid. (The Housing Frame)\n\nEnergy policy is not just climate policy. Democrats face their first big policy test of the new era in the Bipartisan American Affordability and Jobs Act, a permitting overhaul with bipartisan support and the president's backing. It would speed up federal permitting, set the stage for faster interstate transmission lines, and curb the ability of judges to block infrastructure projects indefinitely. The Argument says judging the bill only on its climate impact misses the point, since energy policy has always balanced three goals at once: affordability, reliability, and sustainability. The piece runs through the times Democrats got that balance wrong, from killing Keystone XL to closing New York's Indian Point nuclear plant (which got replaced mostly by natural gas) to pausing LNG export permits right after American gas helped Europe survive losing Russian supply. (The Argument)\n\nPolitics After the Wave\n\nTrump thinks Miller went too far. Miller is still in the building. The split inside the White House over mass deportation is now out in the open. After Border Patrol personnel killed Alex Pretti in Minneapolis on January 24, Stephen Miller publicly branded the 37-year-old ICU nurse an assassin. Verified video showed something else: a phone in Pretti's hand, a firearm retrieved only after he was already restrained, and at least 10 shots fired while he was on the ground. In private, Trump told advisers he did not want to defend the agents or vilify the dead man, and senior aides were told to stop attacking Pretti. The Justice Department has since opened a federal civil rights investigation into his death. The fight is not over whether to remove millions of people, since Trump has never renounced that goal. It is over how hard, how fast, and how much of it the country has to watch. Two days after Democrats captured the House and the Senate, the country's verdict on what it watched is written in the numbers. (Migrant Insider)\n\nCBS is eating itself over a 60 Minutes segment. The Trump administration's attack on a 60 Minutes report about third-country deportations has set off behind-the-scenes finger pointing at CBS News, where staffers accuse network brass of throwing journalists under the bus. The segment, reported by Gianna Toboni, centered on Moussa Diawara, a man deported by the US to Ghana, whose government then sent him to Mali, the very country a US judge had ruled he should not be returned to over fears of persecution. The team deliberately left out Diawara's asylum claim that he was gay, fearing that publicizing it could expose him to further persecution in Mali, where homosexuality is criminalized. DHS went ballistic anyway, the agency appeared to leak his asylum application to Fox News, and ICE posted on X calling the story \"Fake & Gay!\" The editorial call was defensible on its own terms and still left the program exposed. (Status)\n\nScience & Strange\n\nPhysicists just peeked into the zeptoverse. An extremely rare matter-decay event has given particle physicists a first glimpse into a scale 100 billion times smaller than an atom. It opens up new ways to probe the physical world at distances so small they barely have a name. The zeptoverse is where the rules get strange, and this decay is one of the few windows into it. (WIRED)\n\nNew Jersey's ebike law is causing chaos. Since early 2026, New Jersey has required electric bike owners to get licenses, and in some cases insurance, just to ride. Riders are stranded and confused, and the rollout has been a mess. It is a case study in what happens when a law meant to tidy up a new technology lands before anyone has figured out how it is supposed to work in real life. (WIRED)\n\nQuick Hits & Curiosities\n\n• ChatGPT's latest Images model can now generate GIFs from descriptions, photos, and sketches, so the group chat will never be the same. (OpenAI)\n\n• Uber logged just four ride bookings via AI agents over Halloween, per Waymo's co-CEO, who called booking a robotaxi through Uber \"a little bit of a crapshoot.\" (The Verge)\n\n• Wendy's rejected a $1.4 billion takeover bid from Nelson Peltz's Trian Partners, a sum worth an awful lot of Baconators. (Reuters)\n\n• Micron is pausing work on a $4.5 billion chip plant in Taiwan amid an ongoing labor dispute. (Bloomberg)\n\n• The Bank of England raised interest rates for the first time in over three years, and the pound hit its highest point since Brexit. (The Guardian)\n\n• Foreign interference in the midterms was surprisingly minimal, with Russia and Iran making only limited efforts and no signs of tampering with votes or ballot counts. (Platformer)\n\n• Dying white dwarf stars are turning pink and green, astronomers found, depending on the star's density and what it swallowed from its surroundings. (WIRED)\n\n• The GIF was invented in 1987, about four years before the World Wide Web went public, by Steve Wilhite and a team at CompuServe. (Smithsonian Magazine)\n\n• A jury convicted Russell Brand of rape. (Status)",
+      "blocks": [
+        {
+          "type": "heading_1",
+          "runs": [
+            {
+              "text": "Friday, November 6, 2026 - Morning Edition",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Today's Numbers",
+              "url": "",
+              "bold": true,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "$2.5 trillion",
+              "url": "https://www.wsj.com/finance/stocks/wall-street-gets-2-5-trillion-ai-reality-check-with-historic-rout-of-tech-stocks-93985d7c",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": ": wiped off the Nasdaq in a single day Thursday, its worst single-day destruction of value on record, as investors questioned the AI trade.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "80%",
+              "url": "https://www.wired.com/story/the-blue-tsunami-swept-doctors-and-scientists-into-office/",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": ": of congressional candidates backed by pro-science PAC 314 Action won on Tuesday, including Michigan senator-elect and epidemiologist Abdul El-Sayed.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "4.06 billion",
+              "url": "https://investor.uber.com/news-events/news/press-release-details/2026/Uber-Announces-Results-for-Third-Quarter-2026/default.aspx",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": ": trips and deliveries Uber logged in Q3, with revenue up 9.6% to $14.77 billion and gross bookings near $60 billion.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "40 of 41",
+              "url": "https://www.piratewires.com/",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": ": data center measures voters sided against across 10 states on Tuesday.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "600,000",
+              "url": "https://www.reuters.com/world/china/nvidia-chips-pile-up-hong-kong-china-withholds-import-approval-2026-11-05/",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": ": Nvidia H200 chips piled up in Hong Kong as China withholds import approval.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "99.96%",
+              "url": "https://substack.com/redirect/b9ce18d9-087a-4411-9f16-9b1c63fa36ba?j=eyJ1IjoiN2Q3enE4In0.7pbfBla92ey1YAw8kUidlNGoEo8Z6-07qYHrXDWvLkY",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": ": accuracy Pangram claims for its new AI image detection model on an internal benchmark. Its video detection scored 98.57%.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Quotes of the Day",
+              "url": "",
+              "bold": true,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "\"We have no shared reality\" (Kat Abughazaleh and CJ Pearson, WIRED World Fair panel on the future of politics online)",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "\"An early tremor of a much bigger AI earthquake\" (Rep. Greg Casar, chair of the Congressional Progressive Caucus, on the midterm results)",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "\"To start new data center build-outs today in the United States will be very challenging\" (Dina Powell McCormick, Meta president, at the Wall Street Journal tech conference)",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "AI & The Machines",
+              "url": "",
+              "bold": true,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Democrats won a mandate against the AI buildout. Now they need a plan.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " Tuesday handed Democrats control of both houses of Congress, and a big thread of the win was voter anger at data centers, billionaire election spending, and an AI industry that keeps promising to take jobs. Texas governor-elect Gina Hinojosa campaigned on an immediate data center moratorium, and Sherrod Brown beat Jon Husted in Ohio after calling him the face of data centers. The incoming majority is already promising a stronger hand on tech, and one prediction has a frontier-model regulation bill passing in the first months of 2027. The catch is that regulating AI is not as simple as banning data centers, since the labs will just move them to other states, other countries, or even into space. Casey Newton argues Democrats should learn from the social media era, when four years of performative fury in Congress produced no privacy law, no Section 230 reform, and no antitrust legislation. The lesson is to target concrete harms with specific bills instead of treating AI regulation as one big thing. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Platformer",
+              "url": "https://www.platformer.news/",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Chatbots are getting ads, and Claude is the holdout.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " Anthropic is holding its vow to keep ads out of Claude, but the rest of the AI chatbot industry is racing to win over advertisers without antagonizing users. The money is obvious, and the risk is obvious too, since nobody opens a chatbot hoping to get pitched something mid-conversation. What works so far is the early experiment, and what does not work is anything that makes the bot feel like a billboard. The ad model that conquered search and social is now knocking on the last ad-free corner of the internet. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "WIRED",
+              "url": "https://www.wired.com/story/ads-in-chatbots-have-arrived-heres-whats-working-and-whats-not/",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Money & Power",
+              "url": "",
+              "bold": true,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "The midterms just made room for housing.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " AI sentiment has been driving housing stocks for the past month, and Tuesday was the clearest example yet. Stocks tied to the AI buildout fell hard, longer-term interest rates eased a little, and housing stocks surged. Conor Sen reads the market as pricing in a 2027 economy that is not as lopsided as this one, with the AI trade cooling just enough to let rate-sensitive parts of the economy breathe. It is the mirror image of 2008, when a credit and housing crisis dragged down every stock no matter the industry. This time the tech trade is the thing dragging, and housing is the thing catching a bid. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "The Housing Frame",
+              "url": "https://conorsen.substack.com/p/the-midterms-made-room-for-housing",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Energy policy is not just climate policy.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " Democrats face their first big policy test of the new era in the Bipartisan American Affordability and Jobs Act, a permitting overhaul with bipartisan support and the president's backing. It would speed up federal permitting, set the stage for faster interstate transmission lines, and curb the ability of judges to block infrastructure projects indefinitely. The Argument says judging the bill only on its climate impact misses the point, since energy policy has always balanced three goals at once: affordability, reliability, and sustainability. The piece runs through the times Democrats got that balance wrong, from killing Keystone XL to closing New York's Indian Point nuclear plant (which got replaced mostly by natural gas) to pausing LNG export permits right after American gas helped Europe survive losing Russian supply. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "The Argument",
+              "url": "https://theargument.substack.com/",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Politics After the Wave",
+              "url": "",
+              "bold": true,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Trump thinks Miller went too far. Miller is still in the building.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " The split inside the White House over mass deportation is now out in the open. After Border Patrol personnel killed Alex Pretti in Minneapolis on January 24, Stephen Miller publicly branded the 37-year-old ICU nurse an assassin. Verified video showed something else: a phone in Pretti's hand, a firearm retrieved only after he was already restrained, and at least 10 shots fired while he was on the ground. In private, Trump told advisers he did not want to defend the agents or vilify the dead man, and senior aides were told to stop attacking Pretti. The Justice Department has since opened a federal civil rights investigation into his death. The fight is not over whether to remove millions of people, since Trump has never renounced that goal. It is over how hard, how fast, and how much of it the country has to watch. Two days after Democrats captured the House and the Senate, the country's verdict on what it watched is written in the numbers. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Migrant Insider",
+              "url": "https://migrantinsider.com/p/trump-said-stephen-miller-went-too",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "CBS is eating itself over a 60 Minutes segment.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " The Trump administration's attack on a 60 Minutes report about third-country deportations has set off behind-the-scenes finger pointing at CBS News, where staffers accuse network brass of throwing journalists under the bus. The segment, reported by Gianna Toboni, centered on Moussa Diawara, a man deported by the US to Ghana, whose government then sent him to Mali, the very country a US judge had ruled he should not be returned to over fears of persecution. The team deliberately left out Diawara's asylum claim that he was gay, fearing that publicizing it could expose him to further persecution in Mali, where homosexuality is criminalized. DHS went ballistic anyway, the agency appeared to leak his asylum application to Fox News, and ICE posted on X calling the story \"Fake & Gay!\" The editorial call was defensible on its own terms and still left the program exposed. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Status",
+              "url": "https://www.status.news/",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Science & Strange",
+              "url": "",
+              "bold": true,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Physicists just peeked into the zeptoverse.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " An extremely rare matter-decay event has given particle physicists a first glimpse into a scale 100 billion times smaller than an atom. It opens up new ways to probe the physical world at distances so small they barely have a name. The zeptoverse is where the rules get strange, and this decay is one of the few windows into it. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "WIRED",
+              "url": "https://www.wired.com/story/particle-physicists-are-getting-a-first-glimpse-into-the-zeptoverse/",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "New Jersey's ebike law is causing chaos.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " Since early 2026, New Jersey has required electric bike owners to get licenses, and in some cases insurance, just to ride. Riders are stranded and confused, and the rollout has been a mess. It is a case study in what happens when a law meant to tidy up a new technology lands before anyone has figured out how it is supposed to work in real life. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "WIRED",
+              "url": "https://www.wired.com/story/new-jerseys-new-ebike-law-is-causing-chaos/",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Quick Hits & Curiosities",
+              "url": "",
+              "bold": true,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "ChatGPT's latest Images model can now generate GIFs from descriptions, photos, and sketches, so the group chat will never be the same. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "OpenAI",
+              "url": "https://openai.com/index/introducing-images-2-6/",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Uber logged just four ride bookings via AI agents over Halloween, per Waymo's co-CEO, who called booking a robotaxi through Uber \"a little bit of a crapshoot.\" (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "The Verge",
+              "url": "https://www.theverge.com/transportation/1026306/uber-ai-agents-q3-earnings-disintermediation",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Wendy's rejected a $1.4 billion takeover bid from Nelson Peltz's Trian Partners, a sum worth an awful lot of Baconators. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Reuters",
+              "url": "https://www.reuters.com/business/wendys-rejects-trian-led-14-billion-buyout-offer-2026-11-05/",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Micron is pausing work on a $4.5 billion chip plant in Taiwan amid an ongoing labor dispute. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Bloomberg",
+              "url": "https://www.bloomberg.com/news/articles/2026-11-05/micron-pauses-work-on-4-5-billion-taiwan-plant-after-labor-spat",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "The Bank of England raised interest rates for the first time in over three years, and the pound hit its highest point since Brexit. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "The Guardian",
+              "url": "https://www.theguardian.com/business/2026/nov/05/bank-of-england-raises-interest-rates-first-increase-for-more-than-three-years",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Foreign interference in the midterms was surprisingly minimal, with Russia and Iran making only limited efforts and no signs of tampering with votes or ballot counts. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Platformer",
+              "url": "https://www.platformer.news/",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Dying white dwarf stars are turning pink and green, astronomers found, depending on the star's density and what it swallowed from its surroundings. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "WIRED",
+              "url": "https://www.wired.com/story/white-dwarfs-arent-just-white-scientists-discover-dying-stars-turning-pink-and-green/",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "The GIF was invented in 1987, about four years before the World Wide Web went public, by Steve Wilhite and a team at CompuServe. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Smithsonian Magazine",
+              "url": "https://www.smithsonianmag.com/history/brief-history-gif-early-internet-innovation-ubiquitous-relic-180963543/",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "A jury convicted Russell Brand of rape. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Status",
+              "url": "https://www.status.news/",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        }
+      ],
+      "publishedAt": "2026-11-06T13:10:00Z",
+      "links": [
+        {
+          "title": "$2.5 trillion",
+          "url": "https://www.wsj.com/finance/stocks/wall-street-gets-2-5-trillion-ai-reality-check-with-historic-rout-of-tech-stocks-93985d7c"
+        },
+        {
+          "title": "80%",
+          "url": "https://www.wired.com/story/the-blue-tsunami-swept-doctors-and-scientists-into-office/"
+        },
+        {
+          "title": "4.06 billion",
+          "url": "https://investor.uber.com/news-events/news/press-release-details/2026/Uber-Announces-Results-for-Third-Quarter-2026/default.aspx"
+        },
+        {
+          "title": "40 of 41",
+          "url": "https://www.piratewires.com/"
+        },
+        {
+          "title": "600,000",
+          "url": "https://www.reuters.com/world/china/nvidia-chips-pile-up-hong-kong-china-withholds-import-approval-2026-11-05/"
+        },
+        {
+          "title": "99.96%",
+          "url": "https://substack.com/redirect/b9ce18d9-087a-4411-9f16-9b1c63fa36ba?j=eyJ1IjoiN2Q3enE4In0.7pbfBla92ey1YAw8kUidlNGoEo8Z6-07qYHrXDWvLkY"
+        },
+        {
+          "title": "Platformer",
+          "url": "https://www.platformer.news/"
+        },
+        {
+          "title": "WIRED",
+          "url": "https://www.wired.com/story/ads-in-chatbots-have-arrived-heres-whats-working-and-whats-not/"
+        },
+        {
+          "title": "The Housing Frame",
+          "url": "https://conorsen.substack.com/p/the-midterms-made-room-for-housing"
+        },
+        {
+          "title": "The Argument",
+          "url": "https://theargument.substack.com/"
+        },
+        {
+          "title": "Migrant Insider",
+          "url": "https://migrantinsider.com/p/trump-said-stephen-miller-went-too"
+        },
+        {
+          "title": "Status",
+          "url": "https://www.status.news/"
+        },
+        {
+          "title": "WIRED",
+          "url": "https://www.wired.com/story/particle-physicists-are-getting-a-first-glimpse-into-the-zeptoverse/"
+        },
+        {
+          "title": "WIRED",
+          "url": "https://www.wired.com/story/new-jerseys-new-ebike-law-is-causing-chaos/"
+        },
+        {
+          "title": "OpenAI",
+          "url": "https://openai.com/index/introducing-images-2-6/"
+        },
+        {
+          "title": "The Verge",
+          "url": "https://www.theverge.com/transportation/1026306/uber-ai-agents-q3-earnings-disintermediation"
+        },
+        {
+          "title": "Reuters",
+          "url": "https://www.reuters.com/business/wendys-rejects-trian-led-14-billion-buyout-offer-2026-11-05/"
+        },
+        {
+          "title": "Bloomberg",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-05/micron-pauses-work-on-4-5-billion-taiwan-plant-after-labor-spat"
+        },
+        {
+          "title": "The Guardian",
+          "url": "https://www.theguardian.com/business/2026/nov/05/bank-of-england-raises-interest-rates-first-increase-for-more-than-three-years"
+        },
+        {
+          "title": "WIRED",
+          "url": "https://www.wired.com/story/white-dwarfs-arent-just-white-scientists-discover-dying-stars-turning-pink-and-green/"
+        },
+        {
+          "title": "Smithsonian Magazine",
+          "url": "https://www.smithsonianmag.com/history/brief-history-gif-early-internet-innovation-ubiquitous-relic-180963543/"
+        }
+      ],
+      "versions": {
+        "morning": {
+          "body": "Friday, November 6, 2026 - Morning Edition\n\nToday's Numbers\n\n• $2.5 trillion: wiped off the Nasdaq in a single day Thursday, its worst single-day destruction of value on record, as investors questioned the AI trade.\n\n• 80%: of congressional candidates backed by pro-science PAC 314 Action won on Tuesday, including Michigan senator-elect and epidemiologist Abdul El-Sayed.\n\n• 4.06 billion: trips and deliveries Uber logged in Q3, with revenue up 9.6% to $14.77 billion and gross bookings near $60 billion.\n\n• 40 of 41: data center measures voters sided against across 10 states on Tuesday.\n\n• 600,000: Nvidia H200 chips piled up in Hong Kong as China withholds import approval.\n\n• 99.96%: accuracy Pangram claims for its new AI image detection model on an internal benchmark. Its video detection scored 98.57%.\n\nQuotes of the Day\n\n• \"We have no shared reality\" (Kat Abughazaleh and CJ Pearson, WIRED World Fair panel on the future of politics online)\n\n• \"An early tremor of a much bigger AI earthquake\" (Rep. Greg Casar, chair of the Congressional Progressive Caucus, on the midterm results)\n\n• \"To start new data center build-outs today in the United States will be very challenging\" (Dina Powell McCormick, Meta president, at the Wall Street Journal tech conference)\n\nAI & The Machines\n\nDemocrats won a mandate against the AI buildout. Now they need a plan. Tuesday handed Democrats control of both houses of Congress, and a big thread of the win was voter anger at data centers, billionaire election spending, and an AI industry that keeps promising to take jobs. Texas governor-elect Gina Hinojosa campaigned on an immediate data center moratorium, and Sherrod Brown beat Jon Husted in Ohio after calling him the face of data centers. The incoming majority is already promising a stronger hand on tech, and one prediction has a frontier-model regulation bill passing in the first months of 2027. The catch is that regulating AI is not as simple as banning data centers, since the labs will just move them to other states, other countries, or even into space. Casey Newton argues Democrats should learn from the social media era, when four years of performative fury in Congress produced no privacy law, no Section 230 reform, and no antitrust legislation. The lesson is to target concrete harms with specific bills instead of treating AI regulation as one big thing. (Platformer)\n\nChatbots are getting ads, and Claude is the holdout. Anthropic is holding its vow to keep ads out of Claude, but the rest of the AI chatbot industry is racing to win over advertisers without antagonizing users. The money is obvious, and the risk is obvious too, since nobody opens a chatbot hoping to get pitched something mid-conversation. What works so far is the early experiment, and what does not work is anything that makes the bot feel like a billboard. The ad model that conquered search and social is now knocking on the last ad-free corner of the internet. (WIRED)\n\nMoney & Power\n\nThe midterms just made room for housing. AI sentiment has been driving housing stocks for the past month, and Tuesday was the clearest example yet. Stocks tied to the AI buildout fell hard, longer-term interest rates eased a little, and housing stocks surged. Conor Sen reads the market as pricing in a 2027 economy that is not as lopsided as this one, with the AI trade cooling just enough to let rate-sensitive parts of the economy breathe. It is the mirror image of 2008, when a credit and housing crisis dragged down every stock no matter the industry. This time the tech trade is the thing dragging, and housing is the thing catching a bid. (The Housing Frame)\n\nEnergy policy is not just climate policy. Democrats face their first big policy test of the new era in the Bipartisan American Affordability and Jobs Act, a permitting overhaul with bipartisan support and the president's backing. It would speed up federal permitting, set the stage for faster interstate transmission lines, and curb the ability of judges to block infrastructure projects indefinitely. The Argument says judging the bill only on its climate impact misses the point, since energy policy has always balanced three goals at once: affordability, reliability, and sustainability. The piece runs through the times Democrats got that balance wrong, from killing Keystone XL to closing New York's Indian Point nuclear plant (which got replaced mostly by natural gas) to pausing LNG export permits right after American gas helped Europe survive losing Russian supply. (The Argument)\n\nPolitics After the Wave\n\nTrump thinks Miller went too far. Miller is still in the building. The split inside the White House over mass deportation is now out in the open. After Border Patrol personnel killed Alex Pretti in Minneapolis on January 24, Stephen Miller publicly branded the 37-year-old ICU nurse an assassin. Verified video showed something else: a phone in Pretti's hand, a firearm retrieved only after he was already restrained, and at least 10 shots fired while he was on the ground. In private, Trump told advisers he did not want to defend the agents or vilify the dead man, and senior aides were told to stop attacking Pretti. The Justice Department has since opened a federal civil rights investigation into his death. The fight is not over whether to remove millions of people, since Trump has never renounced that goal. It is over how hard, how fast, and how much of it the country has to watch. Two days after Democrats captured the House and the Senate, the country's verdict on what it watched is written in the numbers. (Migrant Insider)\n\nCBS is eating itself over a 60 Minutes segment. The Trump administration's attack on a 60 Minutes report about third-country deportations has set off behind-the-scenes finger pointing at CBS News, where staffers accuse network brass of throwing journalists under the bus. The segment, reported by Gianna Toboni, centered on Moussa Diawara, a man deported by the US to Ghana, whose government then sent him to Mali, the very country a US judge had ruled he should not be returned to over fears of persecution. The team deliberately left out Diawara's asylum claim that he was gay, fearing that publicizing it could expose him to further persecution in Mali, where homosexuality is criminalized. DHS went ballistic anyway, the agency appeared to leak his asylum application to Fox News, and ICE posted on X calling the story \"Fake & Gay!\" The editorial call was defensible on its own terms and still left the program exposed. (Status)\n\nScience & Strange\n\nPhysicists just peeked into the zeptoverse. An extremely rare matter-decay event has given particle physicists a first glimpse into a scale 100 billion times smaller than an atom. It opens up new ways to probe the physical world at distances so small they barely have a name. The zeptoverse is where the rules get strange, and this decay is one of the few windows into it. (WIRED)\n\nNew Jersey's ebike law is causing chaos. Since early 2026, New Jersey has required electric bike owners to get licenses, and in some cases insurance, just to ride. Riders are stranded and confused, and the rollout has been a mess. It is a case study in what happens when a law meant to tidy up a new technology lands before anyone has figured out how it is supposed to work in real life. (WIRED)\n\nQuick Hits & Curiosities\n\n• ChatGPT's latest Images model can now generate GIFs from descriptions, photos, and sketches, so the group chat will never be the same. (OpenAI)\n\n• Uber logged just four ride bookings via AI agents over Halloween, per Waymo's co-CEO, who called booking a robotaxi through Uber \"a little bit of a crapshoot.\" (The Verge)\n\n• Wendy's rejected a $1.4 billion takeover bid from Nelson Peltz's Trian Partners, a sum worth an awful lot of Baconators. (Reuters)\n\n• Micron is pausing work on a $4.5 billion chip plant in Taiwan amid an ongoing labor dispute. (Bloomberg)\n\n• The Bank of England raised interest rates for the first time in over three years, and the pound hit its highest point since Brexit. (The Guardian)\n\n• Foreign interference in the midterms was surprisingly minimal, with Russia and Iran making only limited efforts and no signs of tampering with votes or ballot counts. (Platformer)\n\n• Dying white dwarf stars are turning pink and green, astronomers found, depending on the star's density and what it swallowed from its surroundings. (WIRED)\n\n• The GIF was invented in 1987, about four years before the World Wide Web went public, by Steve Wilhite and a team at CompuServe. (Smithsonian Magazine)\n\n• A jury convicted Russell Brand of rape. (Status)",
+          "blocks": [
+            {
+              "type": "heading_1",
+              "runs": [
+                {
+                  "text": "Friday, November 6, 2026 - Morning Edition",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Today's Numbers",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "$2.5 trillion",
+                  "url": "https://www.wsj.com/finance/stocks/wall-street-gets-2-5-trillion-ai-reality-check-with-historic-rout-of-tech-stocks-93985d7c",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": wiped off the Nasdaq in a single day Thursday, its worst single-day destruction of value on record, as investors questioned the AI trade.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "80%",
+                  "url": "https://www.wired.com/story/the-blue-tsunami-swept-doctors-and-scientists-into-office/",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": of congressional candidates backed by pro-science PAC 314 Action won on Tuesday, including Michigan senator-elect and epidemiologist Abdul El-Sayed.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "4.06 billion",
+                  "url": "https://investor.uber.com/news-events/news/press-release-details/2026/Uber-Announces-Results-for-Third-Quarter-2026/default.aspx",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": trips and deliveries Uber logged in Q3, with revenue up 9.6% to $14.77 billion and gross bookings near $60 billion.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "40 of 41",
+                  "url": "https://www.piratewires.com/",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": data center measures voters sided against across 10 states on Tuesday.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "600,000",
+                  "url": "https://www.reuters.com/world/china/nvidia-chips-pile-up-hong-kong-china-withholds-import-approval-2026-11-05/",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": Nvidia H200 chips piled up in Hong Kong as China withholds import approval.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "99.96%",
+                  "url": "https://substack.com/redirect/b9ce18d9-087a-4411-9f16-9b1c63fa36ba?j=eyJ1IjoiN2Q3enE4In0.7pbfBla92ey1YAw8kUidlNGoEo8Z6-07qYHrXDWvLkY",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": accuracy Pangram claims for its new AI image detection model on an internal benchmark. Its video detection scored 98.57%.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Quotes of the Day",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "\"We have no shared reality\" (Kat Abughazaleh and CJ Pearson, WIRED World Fair panel on the future of politics online)",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "\"An early tremor of a much bigger AI earthquake\" (Rep. Greg Casar, chair of the Congressional Progressive Caucus, on the midterm results)",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "\"To start new data center build-outs today in the United States will be very challenging\" (Dina Powell McCormick, Meta president, at the Wall Street Journal tech conference)",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "AI & The Machines",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Democrats won a mandate against the AI buildout. Now they need a plan.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " Tuesday handed Democrats control of both houses of Congress, and a big thread of the win was voter anger at data centers, billionaire election spending, and an AI industry that keeps promising to take jobs. Texas governor-elect Gina Hinojosa campaigned on an immediate data center moratorium, and Sherrod Brown beat Jon Husted in Ohio after calling him the face of data centers. The incoming majority is already promising a stronger hand on tech, and one prediction has a frontier-model regulation bill passing in the first months of 2027. The catch is that regulating AI is not as simple as banning data centers, since the labs will just move them to other states, other countries, or even into space. Casey Newton argues Democrats should learn from the social media era, when four years of performative fury in Congress produced no privacy law, no Section 230 reform, and no antitrust legislation. The lesson is to target concrete harms with specific bills instead of treating AI regulation as one big thing. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Platformer",
+                  "url": "https://www.platformer.news/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Chatbots are getting ads, and Claude is the holdout.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " Anthropic is holding its vow to keep ads out of Claude, but the rest of the AI chatbot industry is racing to win over advertisers without antagonizing users. The money is obvious, and the risk is obvious too, since nobody opens a chatbot hoping to get pitched something mid-conversation. What works so far is the early experiment, and what does not work is anything that makes the bot feel like a billboard. The ad model that conquered search and social is now knocking on the last ad-free corner of the internet. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "WIRED",
+                  "url": "https://www.wired.com/story/ads-in-chatbots-have-arrived-heres-whats-working-and-whats-not/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Money & Power",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "The midterms just made room for housing.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " AI sentiment has been driving housing stocks for the past month, and Tuesday was the clearest example yet. Stocks tied to the AI buildout fell hard, longer-term interest rates eased a little, and housing stocks surged. Conor Sen reads the market as pricing in a 2027 economy that is not as lopsided as this one, with the AI trade cooling just enough to let rate-sensitive parts of the economy breathe. It is the mirror image of 2008, when a credit and housing crisis dragged down every stock no matter the industry. This time the tech trade is the thing dragging, and housing is the thing catching a bid. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "The Housing Frame",
+                  "url": "https://conorsen.substack.com/p/the-midterms-made-room-for-housing",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Energy policy is not just climate policy.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " Democrats face their first big policy test of the new era in the Bipartisan American Affordability and Jobs Act, a permitting overhaul with bipartisan support and the president's backing. It would speed up federal permitting, set the stage for faster interstate transmission lines, and curb the ability of judges to block infrastructure projects indefinitely. The Argument says judging the bill only on its climate impact misses the point, since energy policy has always balanced three goals at once: affordability, reliability, and sustainability. The piece runs through the times Democrats got that balance wrong, from killing Keystone XL to closing New York's Indian Point nuclear plant (which got replaced mostly by natural gas) to pausing LNG export permits right after American gas helped Europe survive losing Russian supply. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "The Argument",
+                  "url": "https://theargument.substack.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Politics After the Wave",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Trump thinks Miller went too far. Miller is still in the building.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " The split inside the White House over mass deportation is now out in the open. After Border Patrol personnel killed Alex Pretti in Minneapolis on January 24, Stephen Miller publicly branded the 37-year-old ICU nurse an assassin. Verified video showed something else: a phone in Pretti's hand, a firearm retrieved only after he was already restrained, and at least 10 shots fired while he was on the ground. In private, Trump told advisers he did not want to defend the agents or vilify the dead man, and senior aides were told to stop attacking Pretti. The Justice Department has since opened a federal civil rights investigation into his death. The fight is not over whether to remove millions of people, since Trump has never renounced that goal. It is over how hard, how fast, and how much of it the country has to watch. Two days after Democrats captured the House and the Senate, the country's verdict on what it watched is written in the numbers. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Migrant Insider",
+                  "url": "https://migrantinsider.com/p/trump-said-stephen-miller-went-too",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "CBS is eating itself over a 60 Minutes segment.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " The Trump administration's attack on a 60 Minutes report about third-country deportations has set off behind-the-scenes finger pointing at CBS News, where staffers accuse network brass of throwing journalists under the bus. The segment, reported by Gianna Toboni, centered on Moussa Diawara, a man deported by the US to Ghana, whose government then sent him to Mali, the very country a US judge had ruled he should not be returned to over fears of persecution. The team deliberately left out Diawara's asylum claim that he was gay, fearing that publicizing it could expose him to further persecution in Mali, where homosexuality is criminalized. DHS went ballistic anyway, the agency appeared to leak his asylum application to Fox News, and ICE posted on X calling the story \"Fake & Gay!\" The editorial call was defensible on its own terms and still left the program exposed. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Status",
+                  "url": "https://www.status.news/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Science & Strange",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Physicists just peeked into the zeptoverse.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " An extremely rare matter-decay event has given particle physicists a first glimpse into a scale 100 billion times smaller than an atom. It opens up new ways to probe the physical world at distances so small they barely have a name. The zeptoverse is where the rules get strange, and this decay is one of the few windows into it. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "WIRED",
+                  "url": "https://www.wired.com/story/particle-physicists-are-getting-a-first-glimpse-into-the-zeptoverse/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "New Jersey's ebike law is causing chaos.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " Since early 2026, New Jersey has required electric bike owners to get licenses, and in some cases insurance, just to ride. Riders are stranded and confused, and the rollout has been a mess. It is a case study in what happens when a law meant to tidy up a new technology lands before anyone has figured out how it is supposed to work in real life. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "WIRED",
+                  "url": "https://www.wired.com/story/new-jerseys-new-ebike-law-is-causing-chaos/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Quick Hits & Curiosities",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "ChatGPT's latest Images model can now generate GIFs from descriptions, photos, and sketches, so the group chat will never be the same. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "OpenAI",
+                  "url": "https://openai.com/index/introducing-images-2-6/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Uber logged just four ride bookings via AI agents over Halloween, per Waymo's co-CEO, who called booking a robotaxi through Uber \"a little bit of a crapshoot.\" (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "The Verge",
+                  "url": "https://www.theverge.com/transportation/1026306/uber-ai-agents-q3-earnings-disintermediation",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Wendy's rejected a $1.4 billion takeover bid from Nelson Peltz's Trian Partners, a sum worth an awful lot of Baconators. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Reuters",
+                  "url": "https://www.reuters.com/business/wendys-rejects-trian-led-14-billion-buyout-offer-2026-11-05/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Micron is pausing work on a $4.5 billion chip plant in Taiwan amid an ongoing labor dispute. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Bloomberg",
+                  "url": "https://www.bloomberg.com/news/articles/2026-11-05/micron-pauses-work-on-4-5-billion-taiwan-plant-after-labor-spat",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "The Bank of England raised interest rates for the first time in over three years, and the pound hit its highest point since Brexit. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "The Guardian",
+                  "url": "https://www.theguardian.com/business/2026/nov/05/bank-of-england-raises-interest-rates-first-increase-for-more-than-three-years",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Foreign interference in the midterms was surprisingly minimal, with Russia and Iran making only limited efforts and no signs of tampering with votes or ballot counts. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Platformer",
+                  "url": "https://www.platformer.news/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Dying white dwarf stars are turning pink and green, astronomers found, depending on the star's density and what it swallowed from its surroundings. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "WIRED",
+                  "url": "https://www.wired.com/story/white-dwarfs-arent-just-white-scientists-discover-dying-stars-turning-pink-and-green/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "The GIF was invented in 1987, about four years before the World Wide Web went public, by Steve Wilhite and a team at CompuServe. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Smithsonian Magazine",
+                  "url": "https://www.smithsonianmag.com/history/brief-history-gif-early-internet-innovation-ubiquitous-relic-180963543/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "A jury convicted Russell Brand of rape. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Status",
+                  "url": "https://www.status.news/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            }
+          ],
+          "links": [
+            {
+              "title": "$2.5 trillion",
+              "url": "https://www.wsj.com/finance/stocks/wall-street-gets-2-5-trillion-ai-reality-check-with-historic-rout-of-tech-stocks-93985d7c"
+            },
+            {
+              "title": "80%",
+              "url": "https://www.wired.com/story/the-blue-tsunami-swept-doctors-and-scientists-into-office/"
+            },
+            {
+              "title": "4.06 billion",
+              "url": "https://investor.uber.com/news-events/news/press-release-details/2026/Uber-Announces-Results-for-Third-Quarter-2026/default.aspx"
+            },
+            {
+              "title": "40 of 41",
+              "url": "https://www.piratewires.com/"
+            },
+            {
+              "title": "600,000",
+              "url": "https://www.reuters.com/world/china/nvidia-chips-pile-up-hong-kong-china-withholds-import-approval-2026-11-05/"
+            },
+            {
+              "title": "99.96%",
+              "url": "https://substack.com/redirect/b9ce18d9-087a-4411-9f16-9b1c63fa36ba?j=eyJ1IjoiN2Q3enE4In0.7pbfBla92ey1YAw8kUidlNGoEo8Z6-07qYHrXDWvLkY"
+            },
+            {
+              "title": "Platformer",
+              "url": "https://www.platformer.news/"
+            },
+            {
+              "title": "WIRED",
+              "url": "https://www.wired.com/story/ads-in-chatbots-have-arrived-heres-whats-working-and-whats-not/"
+            },
+            {
+              "title": "The Housing Frame",
+              "url": "https://conorsen.substack.com/p/the-midterms-made-room-for-housing"
+            },
+            {
+              "title": "The Argument",
+              "url": "https://theargument.substack.com/"
+            },
+            {
+              "title": "Migrant Insider",
+              "url": "https://migrantinsider.com/p/trump-said-stephen-miller-went-too"
+            },
+            {
+              "title": "Status",
+              "url": "https://www.status.news/"
+            },
+            {
+              "title": "WIRED",
+              "url": "https://www.wired.com/story/particle-physicists-are-getting-a-first-glimpse-into-the-zeptoverse/"
+            },
+            {
+              "title": "WIRED",
+              "url": "https://www.wired.com/story/new-jerseys-new-ebike-law-is-causing-chaos/"
+            },
+            {
+              "title": "OpenAI",
+              "url": "https://openai.com/index/introducing-images-2-6/"
+            },
+            {
+              "title": "The Verge",
+              "url": "https://www.theverge.com/transportation/1026306/uber-ai-agents-q3-earnings-disintermediation"
+            },
+            {
+              "title": "Reuters",
+              "url": "https://www.reuters.com/business/wendys-rejects-trian-led-14-billion-buyout-offer-2026-11-05/"
+            },
+            {
+              "title": "Bloomberg",
+              "url": "https://www.bloomberg.com/news/articles/2026-11-05/micron-pauses-work-on-4-5-billion-taiwan-plant-after-labor-spat"
+            },
+            {
+              "title": "The Guardian",
+              "url": "https://www.theguardian.com/business/2026/nov/05/bank-of-england-raises-interest-rates-first-increase-for-more-than-three-years"
+            },
+            {
+              "title": "WIRED",
+              "url": "https://www.wired.com/story/white-dwarfs-arent-just-white-scientists-discover-dying-stars-turning-pink-and-green/"
+            },
+            {
+              "title": "Smithsonian Magazine",
+              "url": "https://www.smithsonianmag.com/history/brief-history-gif-early-internet-innovation-ubiquitous-relic-180963543/"
+            }
+          ]
+        },
+        "full": {
+          "body": "Friday, November 6, 2026 - Morning Edition\n\nToday's Numbers\n\n• $2.5 trillion: wiped off the Nasdaq in a single day Thursday, its worst single-day destruction of value on record, as investors questioned the AI trade.\n\n• 80%: of congressional candidates backed by pro-science PAC 314 Action won on Tuesday, including Michigan senator-elect and epidemiologist Abdul El-Sayed.\n\n• 4.06 billion: trips and deliveries Uber logged in Q3, with revenue up 9.6% to $14.77 billion and gross bookings near $60 billion.\n\n• 40 of 41: data center measures voters sided against across 10 states on Tuesday.\n\n• 600,000: Nvidia H200 chips piled up in Hong Kong as China withholds import approval.\n\n• 99.96%: accuracy Pangram claims for its new AI image detection model on an internal benchmark. Its video detection scored 98.57%.\n\nQuotes of the Day\n\n• \"We have no shared reality\" (Kat Abughazaleh and CJ Pearson, WIRED World Fair panel on the future of politics online)\n\n• \"An early tremor of a much bigger AI earthquake\" (Rep. Greg Casar, chair of the Congressional Progressive Caucus, on the midterm results)\n\n• \"To start new data center build-outs today in the United States will be very challenging\" (Dina Powell McCormick, Meta president, at the Wall Street Journal tech conference)\n\nAI & The Machines\n\nDemocrats won a mandate against the AI buildout. Now they need a plan. Tuesday handed Democrats control of both houses of Congress, and a big thread of the win was voter anger at data centers, billionaire election spending, and an AI industry that keeps promising to take jobs. Texas governor-elect Gina Hinojosa campaigned on an immediate data center moratorium, and Sherrod Brown beat Jon Husted in Ohio after calling him the face of data centers. The incoming majority is already promising a stronger hand on tech, and one prediction has a frontier-model regulation bill passing in the first months of 2027. The catch is that regulating AI is not as simple as banning data centers, since the labs will just move them to other states, other countries, or even into space. Casey Newton argues Democrats should learn from the social media era, when four years of performative fury in Congress produced no privacy law, no Section 230 reform, and no antitrust legislation. The lesson is to target concrete harms with specific bills instead of treating AI regulation as one big thing. (Platformer)\n\nChatbots are getting ads, and Claude is the holdout. Anthropic is holding its vow to keep ads out of Claude, but the rest of the AI chatbot industry is racing to win over advertisers without antagonizing users. The money is obvious, and the risk is obvious too, since nobody opens a chatbot hoping to get pitched something mid-conversation. What works so far is the early experiment, and what does not work is anything that makes the bot feel like a billboard. The ad model that conquered search and social is now knocking on the last ad-free corner of the internet. (WIRED)\n\nMoney & Power\n\nThe midterms just made room for housing. AI sentiment has been driving housing stocks for the past month, and Tuesday was the clearest example yet. Stocks tied to the AI buildout fell hard, longer-term interest rates eased a little, and housing stocks surged. Conor Sen reads the market as pricing in a 2027 economy that is not as lopsided as this one, with the AI trade cooling just enough to let rate-sensitive parts of the economy breathe. It is the mirror image of 2008, when a credit and housing crisis dragged down every stock no matter the industry. This time the tech trade is the thing dragging, and housing is the thing catching a bid. (The Housing Frame)\n\nEnergy policy is not just climate policy. Democrats face their first big policy test of the new era in the Bipartisan American Affordability and Jobs Act, a permitting overhaul with bipartisan support and the president's backing. It would speed up federal permitting, set the stage for faster interstate transmission lines, and curb the ability of judges to block infrastructure projects indefinitely. The Argument says judging the bill only on its climate impact misses the point, since energy policy has always balanced three goals at once: affordability, reliability, and sustainability. The piece runs through the times Democrats got that balance wrong, from killing Keystone XL to closing New York's Indian Point nuclear plant (which got replaced mostly by natural gas) to pausing LNG export permits right after American gas helped Europe survive losing Russian supply. (The Argument)\n\nPolitics After the Wave\n\nTrump thinks Miller went too far. Miller is still in the building. The split inside the White House over mass deportation is now out in the open. After Border Patrol personnel killed Alex Pretti in Minneapolis on January 24, Stephen Miller publicly branded the 37-year-old ICU nurse an assassin. Verified video showed something else: a phone in Pretti's hand, a firearm retrieved only after he was already restrained, and at least 10 shots fired while he was on the ground. In private, Trump told advisers he did not want to defend the agents or vilify the dead man, and senior aides were told to stop attacking Pretti. The Justice Department has since opened a federal civil rights investigation into his death. The fight is not over whether to remove millions of people, since Trump has never renounced that goal. It is over how hard, how fast, and how much of it the country has to watch. Two days after Democrats captured the House and the Senate, the country's verdict on what it watched is written in the numbers. (Migrant Insider)\n\nCBS is eating itself over a 60 Minutes segment. The Trump administration's attack on a 60 Minutes report about third-country deportations has set off behind-the-scenes finger pointing at CBS News, where staffers accuse network brass of throwing journalists under the bus. The segment, reported by Gianna Toboni, centered on Moussa Diawara, a man deported by the US to Ghana, whose government then sent him to Mali, the very country a US judge had ruled he should not be returned to over fears of persecution. The team deliberately left out Diawara's asylum claim that he was gay, fearing that publicizing it could expose him to further persecution in Mali, where homosexuality is criminalized. DHS went ballistic anyway, the agency appeared to leak his asylum application to Fox News, and ICE posted on X calling the story \"Fake & Gay!\" The editorial call was defensible on its own terms and still left the program exposed. (Status)\n\nScience & Strange\n\nPhysicists just peeked into the zeptoverse. An extremely rare matter-decay event has given particle physicists a first glimpse into a scale 100 billion times smaller than an atom. It opens up new ways to probe the physical world at distances so small they barely have a name. The zeptoverse is where the rules get strange, and this decay is one of the few windows into it. (WIRED)\n\nNew Jersey's ebike law is causing chaos. Since early 2026, New Jersey has required electric bike owners to get licenses, and in some cases insurance, just to ride. Riders are stranded and confused, and the rollout has been a mess. It is a case study in what happens when a law meant to tidy up a new technology lands before anyone has figured out how it is supposed to work in real life. (WIRED)\n\nQuick Hits & Curiosities\n\n• ChatGPT's latest Images model can now generate GIFs from descriptions, photos, and sketches, so the group chat will never be the same. (OpenAI)\n\n• Uber logged just four ride bookings via AI agents over Halloween, per Waymo's co-CEO, who called booking a robotaxi through Uber \"a little bit of a crapshoot.\" (The Verge)\n\n• Wendy's rejected a $1.4 billion takeover bid from Nelson Peltz's Trian Partners, a sum worth an awful lot of Baconators. (Reuters)\n\n• Micron is pausing work on a $4.5 billion chip plant in Taiwan amid an ongoing labor dispute. (Bloomberg)\n\n• The Bank of England raised interest rates for the first time in over three years, and the pound hit its highest point since Brexit. (The Guardian)\n\n• Foreign interference in the midterms was surprisingly minimal, with Russia and Iran making only limited efforts and no signs of tampering with votes or ballot counts. (Platformer)\n\n• Dying white dwarf stars are turning pink and green, astronomers found, depending on the star's density and what it swallowed from its surroundings. (WIRED)\n\n• The GIF was invented in 1987, about four years before the World Wide Web went public, by Steve Wilhite and a team at CompuServe. (Smithsonian Magazine)\n\n• A jury convicted Russell Brand of rape. (Status)",
+          "blocks": [
+            {
+              "type": "heading_1",
+              "runs": [
+                {
+                  "text": "Friday, November 6, 2026 - Morning Edition",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Today's Numbers",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "$2.5 trillion",
+                  "url": "https://www.wsj.com/finance/stocks/wall-street-gets-2-5-trillion-ai-reality-check-with-historic-rout-of-tech-stocks-93985d7c",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": wiped off the Nasdaq in a single day Thursday, its worst single-day destruction of value on record, as investors questioned the AI trade.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "80%",
+                  "url": "https://www.wired.com/story/the-blue-tsunami-swept-doctors-and-scientists-into-office/",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": of congressional candidates backed by pro-science PAC 314 Action won on Tuesday, including Michigan senator-elect and epidemiologist Abdul El-Sayed.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "4.06 billion",
+                  "url": "https://investor.uber.com/news-events/news/press-release-details/2026/Uber-Announces-Results-for-Third-Quarter-2026/default.aspx",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": trips and deliveries Uber logged in Q3, with revenue up 9.6% to $14.77 billion and gross bookings near $60 billion.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "40 of 41",
+                  "url": "https://www.piratewires.com/",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": data center measures voters sided against across 10 states on Tuesday.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "600,000",
+                  "url": "https://www.reuters.com/world/china/nvidia-chips-pile-up-hong-kong-china-withholds-import-approval-2026-11-05/",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": Nvidia H200 chips piled up in Hong Kong as China withholds import approval.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "99.96%",
+                  "url": "https://substack.com/redirect/b9ce18d9-087a-4411-9f16-9b1c63fa36ba?j=eyJ1IjoiN2Q3enE4In0.7pbfBla92ey1YAw8kUidlNGoEo8Z6-07qYHrXDWvLkY",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": accuracy Pangram claims for its new AI image detection model on an internal benchmark. Its video detection scored 98.57%.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Quotes of the Day",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "\"We have no shared reality\" (Kat Abughazaleh and CJ Pearson, WIRED World Fair panel on the future of politics online)",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "\"An early tremor of a much bigger AI earthquake\" (Rep. Greg Casar, chair of the Congressional Progressive Caucus, on the midterm results)",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "\"To start new data center build-outs today in the United States will be very challenging\" (Dina Powell McCormick, Meta president, at the Wall Street Journal tech conference)",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "AI & The Machines",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Democrats won a mandate against the AI buildout. Now they need a plan.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " Tuesday handed Democrats control of both houses of Congress, and a big thread of the win was voter anger at data centers, billionaire election spending, and an AI industry that keeps promising to take jobs. Texas governor-elect Gina Hinojosa campaigned on an immediate data center moratorium, and Sherrod Brown beat Jon Husted in Ohio after calling him the face of data centers. The incoming majority is already promising a stronger hand on tech, and one prediction has a frontier-model regulation bill passing in the first months of 2027. The catch is that regulating AI is not as simple as banning data centers, since the labs will just move them to other states, other countries, or even into space. Casey Newton argues Democrats should learn from the social media era, when four years of performative fury in Congress produced no privacy law, no Section 230 reform, and no antitrust legislation. The lesson is to target concrete harms with specific bills instead of treating AI regulation as one big thing. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Platformer",
+                  "url": "https://www.platformer.news/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Chatbots are getting ads, and Claude is the holdout.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " Anthropic is holding its vow to keep ads out of Claude, but the rest of the AI chatbot industry is racing to win over advertisers without antagonizing users. The money is obvious, and the risk is obvious too, since nobody opens a chatbot hoping to get pitched something mid-conversation. What works so far is the early experiment, and what does not work is anything that makes the bot feel like a billboard. The ad model that conquered search and social is now knocking on the last ad-free corner of the internet. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "WIRED",
+                  "url": "https://www.wired.com/story/ads-in-chatbots-have-arrived-heres-whats-working-and-whats-not/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Money & Power",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "The midterms just made room for housing.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " AI sentiment has been driving housing stocks for the past month, and Tuesday was the clearest example yet. Stocks tied to the AI buildout fell hard, longer-term interest rates eased a little, and housing stocks surged. Conor Sen reads the market as pricing in a 2027 economy that is not as lopsided as this one, with the AI trade cooling just enough to let rate-sensitive parts of the economy breathe. It is the mirror image of 2008, when a credit and housing crisis dragged down every stock no matter the industry. This time the tech trade is the thing dragging, and housing is the thing catching a bid. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "The Housing Frame",
+                  "url": "https://conorsen.substack.com/p/the-midterms-made-room-for-housing",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Energy policy is not just climate policy.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " Democrats face their first big policy test of the new era in the Bipartisan American Affordability and Jobs Act, a permitting overhaul with bipartisan support and the president's backing. It would speed up federal permitting, set the stage for faster interstate transmission lines, and curb the ability of judges to block infrastructure projects indefinitely. The Argument says judging the bill only on its climate impact misses the point, since energy policy has always balanced three goals at once: affordability, reliability, and sustainability. The piece runs through the times Democrats got that balance wrong, from killing Keystone XL to closing New York's Indian Point nuclear plant (which got replaced mostly by natural gas) to pausing LNG export permits right after American gas helped Europe survive losing Russian supply. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "The Argument",
+                  "url": "https://theargument.substack.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Politics After the Wave",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Trump thinks Miller went too far. Miller is still in the building.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " The split inside the White House over mass deportation is now out in the open. After Border Patrol personnel killed Alex Pretti in Minneapolis on January 24, Stephen Miller publicly branded the 37-year-old ICU nurse an assassin. Verified video showed something else: a phone in Pretti's hand, a firearm retrieved only after he was already restrained, and at least 10 shots fired while he was on the ground. In private, Trump told advisers he did not want to defend the agents or vilify the dead man, and senior aides were told to stop attacking Pretti. The Justice Department has since opened a federal civil rights investigation into his death. The fight is not over whether to remove millions of people, since Trump has never renounced that goal. It is over how hard, how fast, and how much of it the country has to watch. Two days after Democrats captured the House and the Senate, the country's verdict on what it watched is written in the numbers. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Migrant Insider",
+                  "url": "https://migrantinsider.com/p/trump-said-stephen-miller-went-too",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "CBS is eating itself over a 60 Minutes segment.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " The Trump administration's attack on a 60 Minutes report about third-country deportations has set off behind-the-scenes finger pointing at CBS News, where staffers accuse network brass of throwing journalists under the bus. The segment, reported by Gianna Toboni, centered on Moussa Diawara, a man deported by the US to Ghana, whose government then sent him to Mali, the very country a US judge had ruled he should not be returned to over fears of persecution. The team deliberately left out Diawara's asylum claim that he was gay, fearing that publicizing it could expose him to further persecution in Mali, where homosexuality is criminalized. DHS went ballistic anyway, the agency appeared to leak his asylum application to Fox News, and ICE posted on X calling the story \"Fake & Gay!\" The editorial call was defensible on its own terms and still left the program exposed. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Status",
+                  "url": "https://www.status.news/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Science & Strange",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Physicists just peeked into the zeptoverse.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " An extremely rare matter-decay event has given particle physicists a first glimpse into a scale 100 billion times smaller than an atom. It opens up new ways to probe the physical world at distances so small they barely have a name. The zeptoverse is where the rules get strange, and this decay is one of the few windows into it. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "WIRED",
+                  "url": "https://www.wired.com/story/particle-physicists-are-getting-a-first-glimpse-into-the-zeptoverse/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "New Jersey's ebike law is causing chaos.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " Since early 2026, New Jersey has required electric bike owners to get licenses, and in some cases insurance, just to ride. Riders are stranded and confused, and the rollout has been a mess. It is a case study in what happens when a law meant to tidy up a new technology lands before anyone has figured out how it is supposed to work in real life. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "WIRED",
+                  "url": "https://www.wired.com/story/new-jerseys-new-ebike-law-is-causing-chaos/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Quick Hits & Curiosities",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "ChatGPT's latest Images model can now generate GIFs from descriptions, photos, and sketches, so the group chat will never be the same. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "OpenAI",
+                  "url": "https://openai.com/index/introducing-images-2-6/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Uber logged just four ride bookings via AI agents over Halloween, per Waymo's co-CEO, who called booking a robotaxi through Uber \"a little bit of a crapshoot.\" (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "The Verge",
+                  "url": "https://www.theverge.com/transportation/1026306/uber-ai-agents-q3-earnings-disintermediation",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Wendy's rejected a $1.4 billion takeover bid from Nelson Peltz's Trian Partners, a sum worth an awful lot of Baconators. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Reuters",
+                  "url": "https://www.reuters.com/business/wendys-rejects-trian-led-14-billion-buyout-offer-2026-11-05/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Micron is pausing work on a $4.5 billion chip plant in Taiwan amid an ongoing labor dispute. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Bloomberg",
+                  "url": "https://www.bloomberg.com/news/articles/2026-11-05/micron-pauses-work-on-4-5-billion-taiwan-plant-after-labor-spat",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "The Bank of England raised interest rates for the first time in over three years, and the pound hit its highest point since Brexit. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "The Guardian",
+                  "url": "https://www.theguardian.com/business/2026/nov/05/bank-of-england-raises-interest-rates-first-increase-for-more-than-three-years",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Foreign interference in the midterms was surprisingly minimal, with Russia and Iran making only limited efforts and no signs of tampering with votes or ballot counts. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Platformer",
+                  "url": "https://www.platformer.news/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Dying white dwarf stars are turning pink and green, astronomers found, depending on the star's density and what it swallowed from its surroundings. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "WIRED",
+                  "url": "https://www.wired.com/story/white-dwarfs-arent-just-white-scientists-discover-dying-stars-turning-pink-and-green/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "The GIF was invented in 1987, about four years before the World Wide Web went public, by Steve Wilhite and a team at CompuServe. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Smithsonian Magazine",
+                  "url": "https://www.smithsonianmag.com/history/brief-history-gif-early-internet-innovation-ubiquitous-relic-180963543/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "A jury convicted Russell Brand of rape. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Status",
+                  "url": "https://www.status.news/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            }
+          ],
+          "links": [
+            {
+              "title": "$2.5 trillion",
+              "url": "https://www.wsj.com/finance/stocks/wall-street-gets-2-5-trillion-ai-reality-check-with-historic-rout-of-tech-stocks-93985d7c"
+            },
+            {
+              "title": "80%",
+              "url": "https://www.wired.com/story/the-blue-tsunami-swept-doctors-and-scientists-into-office/"
+            },
+            {
+              "title": "4.06 billion",
+              "url": "https://investor.uber.com/news-events/news/press-release-details/2026/Uber-Announces-Results-for-Third-Quarter-2026/default.aspx"
+            },
+            {
+              "title": "40 of 41",
+              "url": "https://www.piratewires.com/"
+            },
+            {
+              "title": "600,000",
+              "url": "https://www.reuters.com/world/china/nvidia-chips-pile-up-hong-kong-china-withholds-import-approval-2026-11-05/"
+            },
+            {
+              "title": "99.96%",
+              "url": "https://substack.com/redirect/b9ce18d9-087a-4411-9f16-9b1c63fa36ba?j=eyJ1IjoiN2Q3enE4In0.7pbfBla92ey1YAw8kUidlNGoEo8Z6-07qYHrXDWvLkY"
+            },
+            {
+              "title": "Platformer",
+              "url": "https://www.platformer.news/"
+            },
+            {
+              "title": "WIRED",
+              "url": "https://www.wired.com/story/ads-in-chatbots-have-arrived-heres-whats-working-and-whats-not/"
+            },
+            {
+              "title": "The Housing Frame",
+              "url": "https://conorsen.substack.com/p/the-midterms-made-room-for-housing"
+            },
+            {
+              "title": "The Argument",
+              "url": "https://theargument.substack.com/"
+            },
+            {
+              "title": "Migrant Insider",
+              "url": "https://migrantinsider.com/p/trump-said-stephen-miller-went-too"
+            },
+            {
+              "title": "Status",
+              "url": "https://www.status.news/"
+            },
+            {
+              "title": "WIRED",
+              "url": "https://www.wired.com/story/particle-physicists-are-getting-a-first-glimpse-into-the-zeptoverse/"
+            },
+            {
+              "title": "WIRED",
+              "url": "https://www.wired.com/story/new-jerseys-new-ebike-law-is-causing-chaos/"
+            },
+            {
+              "title": "OpenAI",
+              "url": "https://openai.com/index/introducing-images-2-6/"
+            },
+            {
+              "title": "The Verge",
+              "url": "https://www.theverge.com/transportation/1026306/uber-ai-agents-q3-earnings-disintermediation"
+            },
+            {
+              "title": "Reuters",
+              "url": "https://www.reuters.com/business/wendys-rejects-trian-led-14-billion-buyout-offer-2026-11-05/"
+            },
+            {
+              "title": "Bloomberg",
+              "url": "https://www.bloomberg.com/news/articles/2026-11-05/micron-pauses-work-on-4-5-billion-taiwan-plant-after-labor-spat"
+            },
+            {
+              "title": "The Guardian",
+              "url": "https://www.theguardian.com/business/2026/nov/05/bank-of-england-raises-interest-rates-first-increase-for-more-than-three-years"
+            },
+            {
+              "title": "WIRED",
+              "url": "https://www.wired.com/story/white-dwarfs-arent-just-white-scientists-discover-dying-stars-turning-pink-and-green/"
+            },
+            {
+              "title": "Smithsonian Magazine",
+              "url": "https://www.smithsonianmag.com/history/brief-history-gif-early-internet-innovation-ubiquitous-relic-180963543/"
+            }
+          ]
+        }
+      }
     }
   ]
 }
