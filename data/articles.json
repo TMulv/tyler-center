@@ -1026,6 +1026,24 @@
       "url": "https://www.esquire.com/news-politics/a74031571/life-with-down-syndrome/",
       "publishedAt": "2026-11-03T14:56:00Z",
       "readingStatus": "To Read"
+    },
+    {
+      "id": "readlater-a7f79864e8754d3c8f977516ea137163",
+      "channel": "articles",
+      "source": "notion",
+      "title": "Is curiosity good for us?",
+      "url": "https://www.lrb.co.uk/the-paper/v48/n20/adam-phillips/is-curiosity-good-for-us",
+      "publishedAt": "2026-11-06T20:23:00Z",
+      "readingStatus": "To Read"
+    },
+    {
+      "id": "readlater-dac6c43384004497bc2c85794cb3e64b",
+      "channel": "articles",
+      "source": "notion",
+      "title": "Silicon Valley’s ‘in-flight magazine’: Colossus gives moguls the coverage they crave",
+      "url": "https://sfstandard.com/2026/10/30/colossus-glossy-quarterly-silicon-valley/",
+      "publishedAt": "2026-11-06T20:23:00Z",
+      "readingStatus": "To Read"
     }
   ]
 }

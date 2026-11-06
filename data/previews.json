@@ -950,6 +950,20 @@
       "domain": "www.esquire.com",
       "checkedAt": "2026-11-03T17:27:52.114940+00:00",
       "available": true
+    },
+    "https://www.lrb.co.uk/the-paper/v48/n20/adam-phillips/is-curiosity-good-for-us": {
+      "checkedAt": "2026-11-06T21:08:59.777275+00:00",
+      "available": false
+    },
+    "https://sfstandard.com/2026/10/30/colossus-glossy-quarterly-silicon-valley/": {
+      "title": "Silicon Valley’s ‘in-flight magazine’: Colossus gives moguls the coverage they crave",
+      "description": "A venture capitalist’s glossy quarterly wants to be The New Yorker for tech billionaires.",
+      "site": "The San Francisco Standard",
+      "image": "https://assets.sfstandard.com/image/994911177489/image_l6om3i77f560574ritlsr0ql0q/-S1200x630-FPNG",
+      "icon": "https://sfstandard.com/favicon/favicon-32x32-1.png",
+      "domain": "sfstandard.com",
+      "checkedAt": "2026-11-06T21:08:59.777275+00:00",
+      "available": true
     }
   }
 }
