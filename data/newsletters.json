@@ -246985,6 +246985,551 @@
           ]
         }
       }
+    },
+    {
+      "id": "digest-c75cb4ab-dc09-4251-b945-c4e611b30515",
+      "channel": "newsletters",
+      "source": "notion",
+      "kind": "Agent-written digest",
+      "domain": "Daily newsletter digest",
+      "title": "The Blue Wave, the Great Unconformity, and a Panda Palace",
+      "url": "",
+      "description": "Front page",
+      "body": "Front page\n\nSaturday’s newsletters arrived with a useful mix of political aftershocks, geological amnesia, city plans, and extremely specific obsessions. The strongest theme: directness is having a moment—from candidates writing straight to voters to a sober club built around showing up without the usual social lubricant.\n\nBest links\n\n• The new campaign newsletter playbook. Substack’s election roundup notes that all seven Democrats who flipped Republican-held Senate seats ran publications on the platform. The practical lesson is less “use Substack” than “build a direct line”: post regularly, be personal, go live, answer questions, and give voters somewhere to ask back. The sharpest sentence: “Voters are tired of being talked at.” — Substack\n\n• Earth’s missing billion years. The Great Unconformity is a planetary blank space: ancient basement rock sits directly beneath much younger Cambrian sandstone because enormous stretches of geological history were eroded away. New modeling points to supercontinent breakup, mantle movement, uplift, and erosion—and suggests the same deep processes helped set the stage for complex life. — 404 Media\n\n• Octopuses have a procedure for squeezing through holes. Probe the opening, send a few arms through, then either pull the rest across or split the final squeeze into separate stages. Nature continues to make “flexible” look like an undersell. — 404 Media\n\nIdeas to steal\n\n• The 36/9 workday. In Workspaces, data scientist Pedro Medina breaks his day into 36 minutes of work and 9 minutes of movement, using the short break for a quick HIIT session. It is a nice mutation of Pomodoro: long enough to enter flow, short enough to prevent the day from turning into furniture. — Workspaces\n\n• Design the object for the hand, not the audience. AN ORI’s founder reworks the Vietnamese herbal inhaler as a private, beautifully made object—something meant primarily for the person carrying it. That is a good product brief for a noisy era. — coolstuff.nyc\n\n• Regulate concrete harms, not “AI” in the abstract. Casey Newton’s argument for the coming AI backlash: avoid the social-media-era mistake of treating one giant category as one problem. Set specific goals, keep backup plans, and make the data-center fight, job question, privacy problem, and safety question legible as related but distinct. — Platformer\n\nFood & places\n\n• Thanksgiving, but smaller. NYT Cooking has a full small-feast package—turkey breast, cranberry jelly, stuffing, and recipes designed to scale down. A useful reminder that “holiday cooking” does not have to mean feeding a football team. — NYT Cooking\n\n• Thanksgiving, but Peking. Feed Me makes the persuasive case for a Peking turkey: Chinese-spiced, lacquered, juicy, and served with pancakes, cucumber, scallion, and cranberry sauce in place of hoisin. The best shortcut is also the most festive: let a Chinatown restaurant roast the bird. — Feed Me\n\n• A Saturday route through New York art. Exhibits in New York points to Theresa Hak Kyung Cha at Artists Space, Tom Thayer at Bureau, Raúl de Nieves at Company, and the new MoMA PS1 shows. The newsletter’s own instruction is the right one: go see something. — Exhibits in New York\n\n• Four new reasons to wander. Altbau in Williamsburg, Mili and Le Petit Nissa downtown, and June Baby in the East Village are the new openings worth putting on a city list. June Baby’s frozen ube colada and crispy lumpia sound like an especially efficient argument. — coolstuff.nyc\n\nInternet oddities\n\n• The Panda Palace. Pedro Medina’s black-and-white workspace includes a 75-inch desk, a Royal Kludge RK96 keyboard under $70, a neon panda, and—according to the owner—16 pandas and counting. The wife may disagree; the archive has spoken. — Workspaces\n\n• The algorithm is getting horny. Garbage Day’s argument is that generative AI is not just adding more synthetic content; it is changing what platforms reward, from erotic chatbots and AI microdramas to the broader drift toward content engineered for the lizard brain. A premium piece, but the diagnosis is memorable. — Garbage Day\n\n• The sober club. The Maze, NYC’s new sober social club, has dining rooms, a mocktail bar, trivia, yoga, tastings, comedy, and cooking classes. Roughly 40% of its members are in recovery; the rest include sober-curious members and people rethinking alcohol. It is less a nightlife replacement than an antidote to getting older and lonelier in a big city. — InsideHook\n\nWorth reading\n\n• The Weekender’s grief essay. Phillip Picardi’s account of saying goodbye to his cat Juniper is tender without pretending grief is tidy. The same issue also includes a funny, unnervingly accurate report from a month without doomscrolling—and a mentalist explaining why a thought moving from one person to another is more interesting than a card trick. — The Weekender\n\n• The work-file gold rush. WIRED flags the growing market for internal corporate files and emails as training material for AI models. The question is not merely who owns the data, but who gets to turn the residue of office life into infrastructure. — WIRED Daily\n\n• A small obituary for the internet. Why is this interesting? links to Salon’s closing announcement, a Norm Macdonald clip about sobriety, and The Onion’s attempt to sponsor a college football bowl game. A compact weekend bundle of things ending, things enduring, and things refusing to become respectable. — Why is this interesting?\n\nOne-liners\n\n• “My wife says I have enough pandas now (16 and counting...). I disagree.” — Pedro Medina\n\n• The Great Unconformity is Earth’s version of losing a hard drive and discovering that complex life may have benefited from the cleanup.\n\n• The best Thanksgiving hack in the pile is not a gadget. It is calling Chinatown early.\n\n• If you are the only person on the subway not looking at your phone, congratulations: you have briefly acquired a God complex. — The Weekender",
+      "blocks": [
+        {
+          "type": "heading_2",
+          "runs": [
+            {
+              "text": "Front page",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Saturday’s newsletters arrived with a useful mix of political aftershocks, geological amnesia, city plans, and extremely specific obsessions. The strongest theme: directness is having a moment—from candidates writing straight to voters to a sober club built around showing up without the usual social lubricant.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "heading_2",
+          "runs": [
+            {
+              "text": "Best links",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "The new campaign newsletter playbook.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " Substack’s election roundup notes that all seven Democrats who flipped Republican-held Senate seats ran publications on the platform. The practical lesson is less “use Substack” than “build a direct line”: post regularly, be personal, go live, answer questions, and give voters somewhere to ask back. The sharpest sentence: “Voters are tired of being talked at.” — ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Substack",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Earth’s missing billion years.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " The Great Unconformity is a planetary blank space: ancient basement rock sits directly beneath much younger Cambrian sandstone because enormous stretches of geological history were eroded away. New modeling points to supercontinent breakup, mantle movement, uplift, and erosion—and suggests the same deep processes helped set the stage for complex life. — ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "404 Media",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Octopuses have a procedure for squeezing through holes.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " Probe the opening, send a few arms through, then either pull the rest across or split the final squeeze into separate stages. Nature continues to make “flexible” look like an undersell. — ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "404 Media",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "heading_2",
+          "runs": [
+            {
+              "text": "Ideas to steal",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "The 36/9 workday.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " In ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Workspaces",
+              "url": "",
+              "bold": false,
+              "italic": true
+            },
+            {
+              "text": ", data scientist Pedro Medina breaks his day into 36 minutes of work and 9 minutes of movement, using the short break for a quick HIIT session. It is a nice mutation of Pomodoro: long enough to enter flow, short enough to prevent the day from turning into furniture. — ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Workspaces",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Design the object for the hand, not the audience.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " AN ORI’s founder reworks the Vietnamese herbal inhaler as a private, beautifully made object—something meant primarily for the person carrying it. That is a good product brief for a noisy era. — ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "coolstuff.nyc",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Regulate concrete harms, not “AI” in the abstract.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " Casey Newton’s argument for the coming AI backlash: avoid the social-media-era mistake of treating one giant category as one problem. Set specific goals, keep backup plans, and make the data-center fight, job question, privacy problem, and safety question legible as related but distinct. — ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Platformer",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "heading_2",
+          "runs": [
+            {
+              "text": "Food & places",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Thanksgiving, but smaller.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " NYT Cooking has a full small-feast package—turkey breast, cranberry jelly, stuffing, and recipes designed to scale down. A useful reminder that “holiday cooking” does not have to mean feeding a football team. — ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "NYT Cooking",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Thanksgiving, but Peking.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " Feed Me makes the persuasive case for a Peking turkey: Chinese-spiced, lacquered, juicy, and served with pancakes, cucumber, scallion, and cranberry sauce in place of hoisin. The best shortcut is also the most festive: let a Chinatown restaurant roast the bird. — ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Feed Me",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "A Saturday route through New York art.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " Exhibits in New York points to Theresa Hak Kyung Cha at Artists Space, Tom Thayer at Bureau, Raúl de Nieves at Company, and the new MoMA PS1 shows. The newsletter’s own instruction is the right one: go see something. — ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Exhibits in New York",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Four new reasons to wander.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " Altbau in Williamsburg, Mili and Le Petit Nissa downtown, and June Baby in the East Village are the new openings worth putting on a city list. June Baby’s frozen ube colada and crispy lumpia sound like an especially efficient argument. — ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "coolstuff.nyc",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "heading_2",
+          "runs": [
+            {
+              "text": "Internet oddities",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "The Panda Palace.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " Pedro Medina’s black-and-white workspace includes a 75-inch desk, a Royal Kludge RK96 keyboard under $70, a neon panda, and—according to the owner—16 pandas and counting. The wife may disagree; the archive has spoken. — ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Workspaces",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "The algorithm is getting horny.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " Garbage Day’s argument is that generative AI is not just adding more synthetic content; it is changing what platforms reward, from erotic chatbots and AI microdramas to the broader drift toward content engineered for the lizard brain. A premium piece, but the diagnosis is memorable. — ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Garbage Day",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "The sober club.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " The Maze, NYC’s new sober social club, has dining rooms, a mocktail bar, trivia, yoga, tastings, comedy, and cooking classes. Roughly 40% of its members are in recovery; the rest include sober-curious members and people rethinking alcohol. It is less a nightlife replacement than an antidote to getting older and lonelier in a big city. — ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "InsideHook",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "heading_2",
+          "runs": [
+            {
+              "text": "Worth reading",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "The Weekender’s grief essay.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " Phillip Picardi’s account of saying goodbye to his cat Juniper is tender without pretending grief is tidy. The same issue also includes a funny, unnervingly accurate report from a month without doomscrolling—and a mentalist explaining why a thought moving from one person to another is more interesting than a card trick. — ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "The Weekender",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "The work-file gold rush.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " WIRED flags the growing market for internal corporate files and emails as training material for AI models. The question is not merely who owns the data, but who gets to turn the residue of office life into infrastructure. — ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "WIRED Daily",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "A small obituary for the internet.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Why is this interesting?",
+              "url": "",
+              "bold": false,
+              "italic": true
+            },
+            {
+              "text": " links to Salon’s closing announcement, a Norm Macdonald clip about sobriety, and The Onion’s attempt to sponsor a college football bowl game. A compact weekend bundle of things ending, things enduring, and things refusing to become respectable. — ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Why is this interesting?",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "heading_2",
+          "runs": [
+            {
+              "text": "One-liners",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "“My wife says I have enough pandas now (16 and counting...). I disagree.” — Pedro Medina",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "The Great Unconformity is Earth’s version of losing a hard drive and discovering that complex life may have benefited from the cleanup.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "The best Thanksgiving hack in the pile is not a gadget. It is calling Chinatown early.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "If you are the only person on the subway not looking at your phone, congratulations: you have briefly acquired a God complex. — ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "The Weekender",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        }
+      ],
+      "publishedAt": "2026-11-07T22:09:00Z",
+      "links": []
     }
   ]
 }
