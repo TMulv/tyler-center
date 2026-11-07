@@ -244203,6 +244203,1133 @@
       ],
       "publishedAt": "2026-11-06T22:05:00Z",
       "links": []
+    },
+    {
+      "id": "digest-4118153c-8a3e-81b3-b740-ecb847a3681b",
+      "channel": "newsletters",
+      "source": "notion",
+      "kind": "Agent-written digest",
+      "domain": "Daily newsletter digest",
+      "title": "AI companies want your work files, RIP Cybertruck, Salon says goodbye - Saturday, November 7, 2026",
+      "url": "",
+      "description": "Saturday, November 7, 2026 - Morning Edition",
+      "body": "Saturday, November 7, 2026 - Morning Edition\n\nToday's Numbers\n\n• 20: of every 40 eligible Americans, about 20 did not vote in this week's midterm election. Another 11 were pleased with how their vote turned out, and 9 were not.\n\n• 1,600: light-years from Earth, a dying star is ringed by two bands of gas and dust that astronomers believe are the remains of planets it once hosted.\n\n• 5 million: views and counting for Father John Misty's cover of Arcade Fire's \"The Suburbs.\"\n\nQuotes of the Day\n\n• \"Today, after 31 years, we are saddened to announce that Salon is ceasing publication.\" (Salon, in its goodbye note)\n\n• \"Your feelings are not always valid. They might point you the right way, and they might point you the wrong way. The only way to find out is to use your mind.\" (Jerusalem Demsas, The Argument, on Jane Austen's Sense and Sensibility)\n\nAI & The Machines\n\nAI companies want to buy your work files and emails. Data brokers are scooping up internal corporate files to train AI models, and not everyone whose work is in the pile is thrilled about it. Steven Levy reports that the market for this kind of training data is growing fast, with companies paying for the emails, documents, and files that used to stay inside the office. The question now is who owns your work product once it leaves the building, and whether anyone asked you first. (WIRED)\n\nThe Culture\n\nTesla has halted production of the Cybertruck. WIRED's obituary calls the polygonal pickup unloved, unwanted, and utterly absurd, and argues the end of the line is actually good news for electric vehicles. The truck that was supposed to drag EVs into the mainstream became a punchline instead, and its exit clears the way for electric trucks people actually want to buy. (WIRED)\n\nLink got a glow-up. Nintendo's Ocarina of Time remake is finally here, and the internet has noticed that the hero looks different. Curled eyelashes, glossed lips, a full yassified rework of a 1998 icon. The remake comes with a pile of visual upgrades, but none of them has generated as much chatter as Link's new face. (WIRED)\n\nThe Onion wants to sponsor a college football bowl game. The satirical paper pitched the game as \"The Sickos Bowl,\" a nod to the online community of fans who will watch any matchup no matter how bad the teams are. It is the rare sponsorship idea that understands its audience perfectly: people who love football enough to watch the worst version of it. (Yahoo Sports)\n\nQuick Hits & Curiosities\n\n• Norm MacDonald talks sobriety, alcohol, and life without drinking in a loose, off-the-cuff video filmed in a poker hall. (YouTube)\n\n• Counterpoint rounds up the week's best midterm cartoons, from a blue wave to a Republican reckoning. (Counterpoint)",
+      "blocks": [
+        {
+          "type": "heading_1",
+          "runs": [
+            {
+              "text": "Saturday, November 7, 2026 - Morning Edition",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Today's Numbers",
+              "url": "",
+              "bold": true,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "20",
+              "url": "https://www.davidnroberts.com/p/dont-judge-people-by-their-vote",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": ": of every 40 eligible Americans, about 20 did not vote in this week's midterm election. Another 11 were pleased with how their vote turned out, and 9 were not.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "1,600",
+              "url": "https://www.wired.com/story/a-newly-discovered-trail-of-cosmic-debris-illustrates-what-the-end-of-the-solar-system-could-look-like/",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": ": light-years from Earth, a dying star is ringed by two bands of gas and dust that astronomers believe are the remains of planets it once hosted.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "5 million",
+              "url": "https://www.youtube.com/watch?v=6krmom_hjEE",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": ": views and counting for Father John Misty's cover of Arcade Fire's \"The Suburbs.\"",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Quotes of the Day",
+              "url": "",
+              "bold": true,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "\"Today, after 31 years, we are saddened to announce that Salon is ceasing publication.\" (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Salon",
+              "url": "https://www.salon.com/2026/11/05/goodbye-from-salon/",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ", in its goodbye note)",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "\"Your feelings are not always valid. They might point you the right way, and they might point you the wrong way. The only way to find out is to use your mind.\" (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Jerusalem Demsas",
+              "url": "https://www.davidnroberts.com/p/dont-judge-people-by-their-vote",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ", The Argument, on Jane Austen's Sense and Sensibility)",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "AI & The Machines",
+              "url": "",
+              "bold": true,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "AI companies want to buy your work files and emails.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " Data brokers are scooping up internal corporate files to train AI models, and not everyone whose work is in the pile is thrilled about it. Steven Levy reports that the market for this kind of training data is growing fast, with companies paying for the emails, documents, and files that used to stay inside the office. The question now is who owns your work product once it leaves the building, and whether anyone asked you first. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "WIRED",
+              "url": "https://www.wired.com/story/ai-companies-really-really-want-to-buy-your-work-files-and-emails/",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "The Culture",
+              "url": "",
+              "bold": true,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Tesla has halted production of the Cybertruck.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " WIRED's obituary calls the polygonal pickup unloved, unwanted, and utterly absurd, and argues the end of the line is actually good news for electric vehicles. The truck that was supposed to drag EVs into the mainstream became a punchline instead, and its exit clears the way for electric trucks people actually want to buy. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "WIRED",
+              "url": "https://www.wired.com/story/rip-cybertruck-you-were-unloved-unwanted-and-utterly-absurd/",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Link got a glow-up.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " Nintendo's Ocarina of Time remake is finally here, and the internet has noticed that the hero looks different. Curled eyelashes, glossed lips, a full yassified rework of a 1998 icon. The remake comes with a pile of visual upgrades, but none of them has generated as much chatter as Link's new face. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "WIRED",
+              "url": "https://www.wired.com/story/the-legend-of-zelda-ocarina-of-time-remake-yassified-link/",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "The Onion wants to sponsor a college football bowl game.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " The satirical paper pitched the game as \"The Sickos Bowl,\" a nod to the online community of fans who will watch any matchup no matter how bad the teams are. It is the rare sponsorship idea that understands its audience perfectly: people who love football enough to watch the worst version of it. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Yahoo Sports",
+              "url": "https://sports.yahoo.com/articles/onion-trying-sponsor-college-football-170032396.html",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Quick Hits & Curiosities",
+              "url": "",
+              "bold": true,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Norm MacDonald talks sobriety, alcohol, and life without drinking in a loose, off-the-cuff video filmed in a poker hall. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "YouTube",
+              "url": "https://www.youtube.com/watch?v=P7Ab4filFmo",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Counterpoint rounds up the week's best midterm cartoons, from a blue wave to a Republican reckoning. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Counterpoint",
+              "url": "https://counterpoint.substack.com/p/saturday-bonus-cartoons-28d",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        }
+      ],
+      "publishedAt": "2026-11-07T13:20:00Z",
+      "links": [
+        {
+          "title": "Jerusalem Demsas",
+          "url": "https://www.davidnroberts.com/p/dont-judge-people-by-their-vote"
+        },
+        {
+          "title": "1,600",
+          "url": "https://www.wired.com/story/a-newly-discovered-trail-of-cosmic-debris-illustrates-what-the-end-of-the-solar-system-could-look-like/"
+        },
+        {
+          "title": "5 million",
+          "url": "https://www.youtube.com/watch?v=6krmom_hjEE"
+        },
+        {
+          "title": "Salon",
+          "url": "https://www.salon.com/2026/11/05/goodbye-from-salon/"
+        },
+        {
+          "title": "WIRED",
+          "url": "https://www.wired.com/story/ai-companies-really-really-want-to-buy-your-work-files-and-emails/"
+        },
+        {
+          "title": "WIRED",
+          "url": "https://www.wired.com/story/rip-cybertruck-you-were-unloved-unwanted-and-utterly-absurd/"
+        },
+        {
+          "title": "WIRED",
+          "url": "https://www.wired.com/story/the-legend-of-zelda-ocarina-of-time-remake-yassified-link/"
+        },
+        {
+          "title": "Yahoo Sports",
+          "url": "https://sports.yahoo.com/articles/onion-trying-sponsor-college-football-170032396.html"
+        },
+        {
+          "title": "YouTube",
+          "url": "https://www.youtube.com/watch?v=P7Ab4filFmo"
+        },
+        {
+          "title": "Counterpoint",
+          "url": "https://counterpoint.substack.com/p/saturday-bonus-cartoons-28d"
+        }
+      ],
+      "versions": {
+        "morning": {
+          "body": "Saturday, November 7, 2026 - Morning Edition\n\nToday's Numbers\n\n• 20: of every 40 eligible Americans, about 20 did not vote in this week's midterm election. Another 11 were pleased with how their vote turned out, and 9 were not.\n\n• 1,600: light-years from Earth, a dying star is ringed by two bands of gas and dust that astronomers believe are the remains of planets it once hosted.\n\n• 5 million: views and counting for Father John Misty's cover of Arcade Fire's \"The Suburbs.\"\n\nQuotes of the Day\n\n• \"Today, after 31 years, we are saddened to announce that Salon is ceasing publication.\" (Salon, in its goodbye note)\n\n• \"Your feelings are not always valid. They might point you the right way, and they might point you the wrong way. The only way to find out is to use your mind.\" (Jerusalem Demsas, The Argument, on Jane Austen's Sense and Sensibility)\n\nAI & The Machines\n\nAI companies want to buy your work files and emails. Data brokers are scooping up internal corporate files to train AI models, and not everyone whose work is in the pile is thrilled about it. Steven Levy reports that the market for this kind of training data is growing fast, with companies paying for the emails, documents, and files that used to stay inside the office. The question now is who owns your work product once it leaves the building, and whether anyone asked you first. (WIRED)\n\nThe Culture\n\nTesla has halted production of the Cybertruck. WIRED's obituary calls the polygonal pickup unloved, unwanted, and utterly absurd, and argues the end of the line is actually good news for electric vehicles. The truck that was supposed to drag EVs into the mainstream became a punchline instead, and its exit clears the way for electric trucks people actually want to buy. (WIRED)\n\nLink got a glow-up. Nintendo's Ocarina of Time remake is finally here, and the internet has noticed that the hero looks different. Curled eyelashes, glossed lips, a full yassified rework of a 1998 icon. The remake comes with a pile of visual upgrades, but none of them has generated as much chatter as Link's new face. (WIRED)\n\nThe Onion wants to sponsor a college football bowl game. The satirical paper pitched the game as \"The Sickos Bowl,\" a nod to the online community of fans who will watch any matchup no matter how bad the teams are. It is the rare sponsorship idea that understands its audience perfectly: people who love football enough to watch the worst version of it. (Yahoo Sports)\n\nQuick Hits & Curiosities\n\n• Norm MacDonald talks sobriety, alcohol, and life without drinking in a loose, off-the-cuff video filmed in a poker hall. (YouTube)\n\n• Counterpoint rounds up the week's best midterm cartoons, from a blue wave to a Republican reckoning. (Counterpoint)",
+          "blocks": [
+            {
+              "type": "heading_1",
+              "runs": [
+                {
+                  "text": "Saturday, November 7, 2026 - Morning Edition",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Today's Numbers",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "20",
+                  "url": "https://www.davidnroberts.com/p/dont-judge-people-by-their-vote",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": of every 40 eligible Americans, about 20 did not vote in this week's midterm election. Another 11 were pleased with how their vote turned out, and 9 were not.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "1,600",
+                  "url": "https://www.wired.com/story/a-newly-discovered-trail-of-cosmic-debris-illustrates-what-the-end-of-the-solar-system-could-look-like/",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": light-years from Earth, a dying star is ringed by two bands of gas and dust that astronomers believe are the remains of planets it once hosted.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "5 million",
+                  "url": "https://www.youtube.com/watch?v=6krmom_hjEE",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": views and counting for Father John Misty's cover of Arcade Fire's \"The Suburbs.\"",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Quotes of the Day",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "\"Today, after 31 years, we are saddened to announce that Salon is ceasing publication.\" (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Salon",
+                  "url": "https://www.salon.com/2026/11/05/goodbye-from-salon/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ", in its goodbye note)",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "\"Your feelings are not always valid. They might point you the right way, and they might point you the wrong way. The only way to find out is to use your mind.\" (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Jerusalem Demsas",
+                  "url": "https://www.davidnroberts.com/p/dont-judge-people-by-their-vote",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ", The Argument, on Jane Austen's Sense and Sensibility)",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "AI & The Machines",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "AI companies want to buy your work files and emails.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " Data brokers are scooping up internal corporate files to train AI models, and not everyone whose work is in the pile is thrilled about it. Steven Levy reports that the market for this kind of training data is growing fast, with companies paying for the emails, documents, and files that used to stay inside the office. The question now is who owns your work product once it leaves the building, and whether anyone asked you first. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "WIRED",
+                  "url": "https://www.wired.com/story/ai-companies-really-really-want-to-buy-your-work-files-and-emails/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "The Culture",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Tesla has halted production of the Cybertruck.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " WIRED's obituary calls the polygonal pickup unloved, unwanted, and utterly absurd, and argues the end of the line is actually good news for electric vehicles. The truck that was supposed to drag EVs into the mainstream became a punchline instead, and its exit clears the way for electric trucks people actually want to buy. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "WIRED",
+                  "url": "https://www.wired.com/story/rip-cybertruck-you-were-unloved-unwanted-and-utterly-absurd/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Link got a glow-up.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " Nintendo's Ocarina of Time remake is finally here, and the internet has noticed that the hero looks different. Curled eyelashes, glossed lips, a full yassified rework of a 1998 icon. The remake comes with a pile of visual upgrades, but none of them has generated as much chatter as Link's new face. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "WIRED",
+                  "url": "https://www.wired.com/story/the-legend-of-zelda-ocarina-of-time-remake-yassified-link/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "The Onion wants to sponsor a college football bowl game.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " The satirical paper pitched the game as \"The Sickos Bowl,\" a nod to the online community of fans who will watch any matchup no matter how bad the teams are. It is the rare sponsorship idea that understands its audience perfectly: people who love football enough to watch the worst version of it. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Yahoo Sports",
+                  "url": "https://sports.yahoo.com/articles/onion-trying-sponsor-college-football-170032396.html",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Quick Hits & Curiosities",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Norm MacDonald talks sobriety, alcohol, and life without drinking in a loose, off-the-cuff video filmed in a poker hall. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "YouTube",
+                  "url": "https://www.youtube.com/watch?v=P7Ab4filFmo",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Counterpoint rounds up the week's best midterm cartoons, from a blue wave to a Republican reckoning. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Counterpoint",
+                  "url": "https://counterpoint.substack.com/p/saturday-bonus-cartoons-28d",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            }
+          ],
+          "links": [
+            {
+              "title": "Jerusalem Demsas",
+              "url": "https://www.davidnroberts.com/p/dont-judge-people-by-their-vote"
+            },
+            {
+              "title": "1,600",
+              "url": "https://www.wired.com/story/a-newly-discovered-trail-of-cosmic-debris-illustrates-what-the-end-of-the-solar-system-could-look-like/"
+            },
+            {
+              "title": "5 million",
+              "url": "https://www.youtube.com/watch?v=6krmom_hjEE"
+            },
+            {
+              "title": "Salon",
+              "url": "https://www.salon.com/2026/11/05/goodbye-from-salon/"
+            },
+            {
+              "title": "WIRED",
+              "url": "https://www.wired.com/story/ai-companies-really-really-want-to-buy-your-work-files-and-emails/"
+            },
+            {
+              "title": "WIRED",
+              "url": "https://www.wired.com/story/rip-cybertruck-you-were-unloved-unwanted-and-utterly-absurd/"
+            },
+            {
+              "title": "WIRED",
+              "url": "https://www.wired.com/story/the-legend-of-zelda-ocarina-of-time-remake-yassified-link/"
+            },
+            {
+              "title": "Yahoo Sports",
+              "url": "https://sports.yahoo.com/articles/onion-trying-sponsor-college-football-170032396.html"
+            },
+            {
+              "title": "YouTube",
+              "url": "https://www.youtube.com/watch?v=P7Ab4filFmo"
+            },
+            {
+              "title": "Counterpoint",
+              "url": "https://counterpoint.substack.com/p/saturday-bonus-cartoons-28d"
+            }
+          ]
+        },
+        "full": {
+          "body": "Saturday, November 7, 2026 - Morning Edition\n\nToday's Numbers\n\n• 20: of every 40 eligible Americans, about 20 did not vote in this week's midterm election. Another 11 were pleased with how their vote turned out, and 9 were not.\n\n• 1,600: light-years from Earth, a dying star is ringed by two bands of gas and dust that astronomers believe are the remains of planets it once hosted.\n\n• 5 million: views and counting for Father John Misty's cover of Arcade Fire's \"The Suburbs.\"\n\nQuotes of the Day\n\n• \"Today, after 31 years, we are saddened to announce that Salon is ceasing publication.\" (Salon, in its goodbye note)\n\n• \"Your feelings are not always valid. They might point you the right way, and they might point you the wrong way. The only way to find out is to use your mind.\" (Jerusalem Demsas, The Argument, on Jane Austen's Sense and Sensibility)\n\nAI & The Machines\n\nAI companies want to buy your work files and emails. Data brokers are scooping up internal corporate files to train AI models, and not everyone whose work is in the pile is thrilled about it. Steven Levy reports that the market for this kind of training data is growing fast, with companies paying for the emails, documents, and files that used to stay inside the office. The question now is who owns your work product once it leaves the building, and whether anyone asked you first. (WIRED)\n\nThe Culture\n\nTesla has halted production of the Cybertruck. WIRED's obituary calls the polygonal pickup unloved, unwanted, and utterly absurd, and argues the end of the line is actually good news for electric vehicles. The truck that was supposed to drag EVs into the mainstream became a punchline instead, and its exit clears the way for electric trucks people actually want to buy. (WIRED)\n\nLink got a glow-up. Nintendo's Ocarina of Time remake is finally here, and the internet has noticed that the hero looks different. Curled eyelashes, glossed lips, a full yassified rework of a 1998 icon. The remake comes with a pile of visual upgrades, but none of them has generated as much chatter as Link's new face. (WIRED)\n\nThe Onion wants to sponsor a college football bowl game. The satirical paper pitched the game as \"The Sickos Bowl,\" a nod to the online community of fans who will watch any matchup no matter how bad the teams are. It is the rare sponsorship idea that understands its audience perfectly: people who love football enough to watch the worst version of it. (Yahoo Sports)\n\nQuick Hits & Curiosities\n\n• Norm MacDonald talks sobriety, alcohol, and life without drinking in a loose, off-the-cuff video filmed in a poker hall. (YouTube)\n\n• Counterpoint rounds up the week's best midterm cartoons, from a blue wave to a Republican reckoning. (Counterpoint)",
+          "blocks": [
+            {
+              "type": "heading_1",
+              "runs": [
+                {
+                  "text": "Saturday, November 7, 2026 - Morning Edition",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Today's Numbers",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "20",
+                  "url": "https://www.davidnroberts.com/p/dont-judge-people-by-their-vote",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": of every 40 eligible Americans, about 20 did not vote in this week's midterm election. Another 11 were pleased with how their vote turned out, and 9 were not.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "1,600",
+                  "url": "https://www.wired.com/story/a-newly-discovered-trail-of-cosmic-debris-illustrates-what-the-end-of-the-solar-system-could-look-like/",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": light-years from Earth, a dying star is ringed by two bands of gas and dust that astronomers believe are the remains of planets it once hosted.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "5 million",
+                  "url": "https://www.youtube.com/watch?v=6krmom_hjEE",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": views and counting for Father John Misty's cover of Arcade Fire's \"The Suburbs.\"",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Quotes of the Day",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "\"Today, after 31 years, we are saddened to announce that Salon is ceasing publication.\" (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Salon",
+                  "url": "https://www.salon.com/2026/11/05/goodbye-from-salon/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ", in its goodbye note)",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "\"Your feelings are not always valid. They might point you the right way, and they might point you the wrong way. The only way to find out is to use your mind.\" (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Jerusalem Demsas",
+                  "url": "https://www.davidnroberts.com/p/dont-judge-people-by-their-vote",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ", The Argument, on Jane Austen's Sense and Sensibility)",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "AI & The Machines",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "AI companies want to buy your work files and emails.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " Data brokers are scooping up internal corporate files to train AI models, and not everyone whose work is in the pile is thrilled about it. Steven Levy reports that the market for this kind of training data is growing fast, with companies paying for the emails, documents, and files that used to stay inside the office. The question now is who owns your work product once it leaves the building, and whether anyone asked you first. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "WIRED",
+                  "url": "https://www.wired.com/story/ai-companies-really-really-want-to-buy-your-work-files-and-emails/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "The Culture",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Tesla has halted production of the Cybertruck.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " WIRED's obituary calls the polygonal pickup unloved, unwanted, and utterly absurd, and argues the end of the line is actually good news for electric vehicles. The truck that was supposed to drag EVs into the mainstream became a punchline instead, and its exit clears the way for electric trucks people actually want to buy. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "WIRED",
+                  "url": "https://www.wired.com/story/rip-cybertruck-you-were-unloved-unwanted-and-utterly-absurd/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Link got a glow-up.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " Nintendo's Ocarina of Time remake is finally here, and the internet has noticed that the hero looks different. Curled eyelashes, glossed lips, a full yassified rework of a 1998 icon. The remake comes with a pile of visual upgrades, but none of them has generated as much chatter as Link's new face. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "WIRED",
+                  "url": "https://www.wired.com/story/the-legend-of-zelda-ocarina-of-time-remake-yassified-link/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "The Onion wants to sponsor a college football bowl game.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " The satirical paper pitched the game as \"The Sickos Bowl,\" a nod to the online community of fans who will watch any matchup no matter how bad the teams are. It is the rare sponsorship idea that understands its audience perfectly: people who love football enough to watch the worst version of it. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Yahoo Sports",
+                  "url": "https://sports.yahoo.com/articles/onion-trying-sponsor-college-football-170032396.html",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Quick Hits & Curiosities",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Norm MacDonald talks sobriety, alcohol, and life without drinking in a loose, off-the-cuff video filmed in a poker hall. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "YouTube",
+                  "url": "https://www.youtube.com/watch?v=P7Ab4filFmo",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Counterpoint rounds up the week's best midterm cartoons, from a blue wave to a Republican reckoning. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Counterpoint",
+                  "url": "https://counterpoint.substack.com/p/saturday-bonus-cartoons-28d",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            }
+          ],
+          "links": [
+            {
+              "title": "Jerusalem Demsas",
+              "url": "https://www.davidnroberts.com/p/dont-judge-people-by-their-vote"
+            },
+            {
+              "title": "1,600",
+              "url": "https://www.wired.com/story/a-newly-discovered-trail-of-cosmic-debris-illustrates-what-the-end-of-the-solar-system-could-look-like/"
+            },
+            {
+              "title": "5 million",
+              "url": "https://www.youtube.com/watch?v=6krmom_hjEE"
+            },
+            {
+              "title": "Salon",
+              "url": "https://www.salon.com/2026/11/05/goodbye-from-salon/"
+            },
+            {
+              "title": "WIRED",
+              "url": "https://www.wired.com/story/ai-companies-really-really-want-to-buy-your-work-files-and-emails/"
+            },
+            {
+              "title": "WIRED",
+              "url": "https://www.wired.com/story/rip-cybertruck-you-were-unloved-unwanted-and-utterly-absurd/"
+            },
+            {
+              "title": "WIRED",
+              "url": "https://www.wired.com/story/the-legend-of-zelda-ocarina-of-time-remake-yassified-link/"
+            },
+            {
+              "title": "Yahoo Sports",
+              "url": "https://sports.yahoo.com/articles/onion-trying-sponsor-college-football-170032396.html"
+            },
+            {
+              "title": "YouTube",
+              "url": "https://www.youtube.com/watch?v=P7Ab4filFmo"
+            },
+            {
+              "title": "Counterpoint",
+              "url": "https://counterpoint.substack.com/p/saturday-bonus-cartoons-28d"
+            }
+          ]
+        }
+      }
     }
   ]
 }
