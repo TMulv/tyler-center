@@ -243349,6 +243349,444 @@
           ]
         }
       }
+    },
+    {
+      "id": "digest-3582adf1-0ef8-419c-9374-ee6cf8b0a698",
+      "channel": "newsletters",
+      "source": "notion",
+      "kind": "Agent-written digest",
+      "domain": "Daily newsletter digest",
+      "title": "The Blue Wave, the Peking Turkey, and AI Slop",
+      "url": "",
+      "description": "Friday’s newsletters arrived with a surprisingly consistent thesis: the old systems are wobbling, the internet is getting stranger, and the best answer to Thanksgiving may involve a Chinese barbecue counter. Here’s the good stuff.",
+      "body": "Friday’s newsletters arrived with a surprisingly consistent thesis: the old systems are wobbling, the internet is getting stranger, and the best answer to Thanksgiving may involve a Chinese barbecue counter. Here’s the good stuff.\n\nBest links\n\n• The private-data gold rush: WIRED Backchannel reports that AI labs are offering media companies hundreds of thousands—or even millions—for old internal documents, emails, Slack messages, tickets, and call transcripts. Public data may be running out; private institutional memory is the next quarry.\n\n• The fake-ID kingpin speaks: 404 Media got the first interview with the 28-year-old behind OnlyFake, the fake-document operation that became a global fraud tool—and a case study in what happens when a small internet project scales faster than its creator’s understanding of the consequences.\n\n• The sticker is AI slop now: 404 Media also found an “I Voted” sticker whose supposed message—“CEKEVPATIVG EDELDOA”—appears to be AI’s attempt at “CELEBRATING FREEDOM.” Democracy, but make it unreadable merch.\n\nThe big story\n\nThe blue wave was bigger than a wave. Jonathan M. Katz’s The Racket argues that Tuesday’s Democratic win remade the map at the state level: a huge shift in governors’ races, legislative chambers, and the Senate, including historic firsts for Black, Latino, Muslim, transgender, and nonbinary candidates. The sharpest warning is in the final turn: an electoral win is only an opportunity, and the window to do something with it may be short.\n\nMeanwhile, the algorithm got horny. Garbage Day connects the rise of generative-AI erotica, algorithmic promotion, and the strange online behavior of tech billionaires. The larger point is less about one platform’s taste than about the feedback loop: content that triggers the lizard brain gets boosted, people learn to respond to it, and the feed becomes the culture.\n\nFood & places\n\n• The Thanksgiving move: Order a Peking turkey—a turkey roasted in the style of Peking duck, with crisp skin, scallions, cucumber, pancakes, and cranberry sauce standing in for hoisin. Feed Me recommends calling ahead in New York, Los Angeles, San Francisco, or Chicago; the newsletter’s most practical tip is to drop off your own bird and reclaim your oven.\n\n• Soup that understands November: NYT Cooking’s most-clicked recipe is lemony chicken-feta meatball soup with spinach. The clever bit is oats in the meatballs and broth: they tenderize the chicken while adding body to the soup.\n\n• Stuffing as the main event: NYT Cooking collected 19 reader-loved versions, from classic cornbread to a cheesy pizza variation. The only real Thanksgiving consensus is that the dish inside—or beside—the turkey should be the thing everyone goes back for.\n\n• New York scouting report: coolstuff NYC highlights Altbau, the Tartine team’s new Williamsburg bakery; Mili on the LES; Le Petit Nissa in Nolita; and June Baby, an East Village Filipino-American cocktail bar with an ube colada and lumpia. It also flags paper-lamp workshops, a research-and-archives talk, vinyl night at Clover Club, and MoMA PS1’s November open house.\n\nCulture, work, and the queue economy\n\n• A marriage story with a labor-market subtext: The Cut’s April Lockhart writes about becoming the primary breadwinner through influencer work, discovering her husband’s affair, and realizing how many women quietly manage not only a career but also a partner’s feelings about her success.\n\n• Waiting is now a side hustle: After School points to a new kind of line economy: creators wait for hours at pop-ups for content and connections, while brands sometimes hire people to queue so a store looks busy and the line itself becomes marketing.\n\n• The socialite, rebranded: Rich People Shit revisits high society’s admission rules. The old ingredients—surname, money, marriage, philanthropy—still matter, but an audience, a strategic career, or plain magnetism can now function as social capital too.\n\nOne-liners\n\n• “The hardest thing about buying a Peking Turkey is not buying a Peking Duck instead.” — Feed Me\n\n• The ideal ratio is one part election-night doomscrolling, one part Dunkin’ coffee, and one part Olivia Rodrigo Christmas song. — Dinner Party\n\n• The line is no longer merely something between you and the store. It is content, proof of demand, and sometimes a job. — After School",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Friday’s newsletters arrived with a surprisingly consistent thesis: the old systems are wobbling, the internet is getting stranger, and the best answer to Thanksgiving may involve a Chinese barbecue counter. Here’s the good stuff.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "heading_2",
+          "runs": [
+            {
+              "text": "Best links",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "The private-data gold rush:",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " WIRED Backchannel reports that AI labs are offering media companies hundreds of thousands—or even millions—for old internal documents, emails, Slack messages, tickets, and call transcripts. Public data may be running out; private institutional memory is the next quarry. ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "The fake-ID kingpin speaks:",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " 404 Media got the first interview with the 28-year-old behind OnlyFake, the fake-document operation that became a global fraud tool—and a case study in what happens when a small internet project scales faster than its creator’s understanding of the consequences. ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "The sticker is AI slop now:",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " 404 Media also found an “I Voted” sticker whose supposed message—“CEKEVPATIVG EDELDOA”—appears to be AI’s attempt at “CELEBRATING FREEDOM.” Democracy, but make it unreadable merch. ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "heading_2",
+          "runs": [
+            {
+              "text": "The big story",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "The blue wave was bigger than a wave.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " Jonathan M. Katz’s ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "The Racket",
+              "url": "",
+              "bold": false,
+              "italic": true
+            },
+            {
+              "text": " argues that Tuesday’s Democratic win remade the map at the state level: a huge shift in governors’ races, legislative chambers, and the Senate, including historic firsts for Black, Latino, Muslim, transgender, and nonbinary candidates. The sharpest warning is in the final turn: an electoral win is only an opportunity, and the window to do something with it may be short. ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Meanwhile, the algorithm got horny.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Garbage Day",
+              "url": "",
+              "bold": false,
+              "italic": true
+            },
+            {
+              "text": " connects the rise of generative-AI erotica, algorithmic promotion, and the strange online behavior of tech billionaires. The larger point is less about one platform’s taste than about the feedback loop: content that triggers the lizard brain gets boosted, people learn to respond to it, and the feed becomes the culture. ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "heading_2",
+          "runs": [
+            {
+              "text": "Food & places",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "The Thanksgiving move:",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " Order a ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Peking turkey",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": "—a turkey roasted in the style of Peking duck, with crisp skin, scallions, cucumber, pancakes, and cranberry sauce standing in for hoisin. ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Feed Me",
+              "url": "",
+              "bold": false,
+              "italic": true
+            },
+            {
+              "text": " recommends calling ahead in New York, Los Angeles, San Francisco, or Chicago; the newsletter’s most practical tip is to drop off your own bird and reclaim your oven. ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Soup that understands November:",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " NYT Cooking’s most-clicked recipe is lemony chicken-feta meatball soup with spinach. The clever bit is oats in the meatballs and broth: they tenderize the chicken while adding body to the soup. ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Stuffing as the main event:",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " NYT Cooking collected 19 reader-loved versions, from classic cornbread to a cheesy pizza variation. The only real Thanksgiving consensus is that the dish inside—or beside—the turkey should be the thing everyone goes back for. ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "New York scouting report:",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "coolstuff NYC",
+              "url": "",
+              "bold": false,
+              "italic": true
+            },
+            {
+              "text": " highlights Altbau, the Tartine team’s new Williamsburg bakery; Mili on the LES; Le Petit Nissa in Nolita; and June Baby, an East Village Filipino-American cocktail bar with an ube colada and lumpia. It also flags paper-lamp workshops, a research-and-archives talk, vinyl night at Clover Club, and MoMA PS1’s November open house. ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "heading_2",
+          "runs": [
+            {
+              "text": "Culture, work, and the queue economy",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "A marriage story with a labor-market subtext:",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " The Cut’s April Lockhart writes about becoming the primary breadwinner through influencer work, discovering her husband’s affair, and realizing how many women quietly manage not only a career but also a partner’s feelings about her success. ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Waiting is now a side hustle:",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "After School",
+              "url": "",
+              "bold": false,
+              "italic": true
+            },
+            {
+              "text": " points to a new kind of line economy: creators wait for hours at pop-ups for content and connections, while brands sometimes hire people to queue so a store looks busy and the line itself becomes marketing. ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "The socialite, rebranded:",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Rich People Shit",
+              "url": "",
+              "bold": false,
+              "italic": true
+            },
+            {
+              "text": " revisits high society’s admission rules. The old ingredients—surname, money, marriage, philanthropy—still matter, but an audience, a strategic career, or plain magnetism can now function as social capital too. ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "heading_2",
+          "runs": [
+            {
+              "text": "One-liners",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "“The hardest thing about buying a Peking Turkey is not buying a Peking Duck instead.” — ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Feed Me",
+              "url": "",
+              "bold": false,
+              "italic": true
+            },
+            {
+              "text": " ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "The ideal ratio is one part election-night doomscrolling, one part Dunkin’ coffee, and one part Olivia Rodrigo Christmas song. — ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Dinner Party",
+              "url": "",
+              "bold": false,
+              "italic": true
+            },
+            {
+              "text": " ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "The line is no longer merely something between you and the store. It is content, proof of demand, and sometimes a job. — ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "After School",
+              "url": "",
+              "bold": false,
+              "italic": true
+            },
+            {
+              "text": " ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        }
+      ],
+      "publishedAt": "2026-11-06T22:05:00Z",
+      "links": []
     }
   ]
 }
