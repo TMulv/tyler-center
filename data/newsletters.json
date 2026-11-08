@@ -244212,14 +244212,14 @@
       "domain": "Daily newsletter digest",
       "title": "AI companies want your work files, RIP Cybertruck, Salon says goodbye - Saturday, November 7, 2026",
       "url": "",
-      "description": "Saturday, November 7, 2026 - Afternoon Edition",
-      "body": "Saturday, November 7, 2026 - Afternoon Edition\n\nToday's Numbers\n\n• 7: Senate seats Democrats flipped in Tuesday's midterms, and all seven winners ran a Substack during the race. The two races still too close to call have Substack-running challengers too.\n\n• 3 to 1: how badly Fred Wellman was outspent by the seven-term incumbent he beat in Missouri. The first-time candidate and 22-year Army veteran announced his run on Substack.\n\n• 13,000: people who watched Pete Buttigieg livestream a town hall on Substack during the cycle.\n\nQuotes of the Day\n\n• \"What can I do but oblige the wishes of the dying?\" (Phillip Picardi, on his cat Juniper, dying of cancer after nearly 12 years together)\n\n• \"I was quite literally the only person not on my phone, which gave me a God complex, obviously.\" (Stef Dag, three days into a month without doomscrolling)\n\n• \"Out of disdain, you might dismiss, but to dismiss is to kill you with ballet slippers on.\" (Jacqueline Novak, on the mouthfeel of the word \"dismiss\")\n\nMind Games\n\nA mentalist can plant a thought in your head, and his mom was a Vegas showgirl. Matt Cooper grew up backstage in Las Vegas, bottle-fed between his mother's numbers at Bally's, and inherited his grandfather's magic books after he died. The small mentalism section hooked him: not objects moving, but thoughts moving from one mind to another. For a recent piece he sent writer Nicolaia Rips out to Bleecker Street to get a random nine-digit number from a total stranger, then pulled off the reveal over coffee at the Washington Square Diner. He performed the same kind of mind reading at the Morgan Library, in front of rare books and a Tarot exhibition. (i-D)\n\nQuick Hits & Curiosities\n\n• Texas Sen.-elect James Talarico's first stop after winning: Whataburger. His Note about it pulled 28.7K likes. (Substack)\n\n• A postcard from October 1914, bought on Etsy, reads: \"Hello Hen. I suppose you thought that I was never going to answer. Been so busy having a good time that I never found time to dial the telephone. Peggy\" (Substack)\n\n• Kamala Harris launched her Substack as her book 107 Days came out, leading with an excerpt titled \"So, what do we do?\" (Substack)\n\n• Last day today: Asher Liftin's Recent Work at 125 Newbury. (Exhibits in New York)",
+      "description": "Saturday, November 7, 2026 - Evening Edition",
+      "body": "Saturday, November 7, 2026 - Evening Edition\n\nAnalog Is Back\n\nSony just relaunched the MDR-3R, its old-school headphones with the orange-padded earcups, now with a USB-C connection. The relaunch lands in the middle of a full analog rebound: alarm clocks, flip phones, and cassette players are all back as people look for a break from screens. (InsideHook)\n\nQuick Hits & Curiosities\n\n• New Balance dropped the 990v7, the latest version of its made-in-USA dad shoe. Pair it with the retro Sonys and you have the full Nathan Fielder look. (New Balance)",
       "blocks": [
         {
           "type": "heading_1",
           "runs": [
             {
-              "text": "Saturday, November 7, 2026 - Afternoon Edition",
+              "text": "Saturday, November 7, 2026 - Evening Edition",
               "url": "",
               "bold": false,
               "italic": false
@@ -244230,113 +244230,7 @@
           "type": "paragraph",
           "runs": [
             {
-              "text": "Today's Numbers",
-              "url": "",
-              "bold": true,
-              "italic": false
-            }
-          ]
-        },
-        {
-          "type": "bulleted_list_item",
-          "runs": [
-            {
-              "text": "7",
-              "url": "https://on.substack.com/p/candidates-flipped-seven-senate-seats",
-              "bold": true,
-              "italic": false
-            },
-            {
-              "text": ": Senate seats Democrats flipped in Tuesday's midterms, and all seven winners ran a Substack during the race. The two races still too close to call have Substack-running challengers too.",
-              "url": "",
-              "bold": false,
-              "italic": false
-            }
-          ]
-        },
-        {
-          "type": "bulleted_list_item",
-          "runs": [
-            {
-              "text": "3 to 1",
-              "url": "https://substack.com/@fpwellman/p-189036058",
-              "bold": true,
-              "italic": false
-            },
-            {
-              "text": ": how badly Fred Wellman was outspent by the seven-term incumbent he beat in Missouri. The first-time candidate and 22-year Army veteran announced his run on Substack.",
-              "url": "",
-              "bold": false,
-              "italic": false
-            }
-          ]
-        },
-        {
-          "type": "bulleted_list_item",
-          "runs": [
-            {
-              "text": "13,000",
-              "url": "https://on.substack.com/p/candidates-flipped-seven-senate-seats",
-              "bold": true,
-              "italic": false
-            },
-            {
-              "text": ": people who watched Pete Buttigieg livestream a town hall on Substack during the cycle.",
-              "url": "",
-              "bold": false,
-              "italic": false
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "runs": [
-            {
-              "text": "Quotes of the Day",
-              "url": "",
-              "bold": true,
-              "italic": false
-            }
-          ]
-        },
-        {
-          "type": "bulleted_list_item",
-          "runs": [
-            {
-              "text": "\"What can I do but oblige the wishes of the dying?\" (Phillip Picardi, on his cat Juniper, dying of cancer after nearly 12 years together)",
-              "url": "",
-              "bold": false,
-              "italic": false
-            }
-          ]
-        },
-        {
-          "type": "bulleted_list_item",
-          "runs": [
-            {
-              "text": "\"I was quite literally the only person not on my phone, which gave me a God complex, obviously.\" (Stef Dag, three days into a month without doomscrolling)",
-              "url": "",
-              "bold": false,
-              "italic": false
-            }
-          ]
-        },
-        {
-          "type": "bulleted_list_item",
-          "runs": [
-            {
-              "text": "\"Out of disdain, you might dismiss, but to dismiss is to kill you with ballet slippers on.\" (Jacqueline Novak, on the mouthfeel of the word \"dismiss\")",
-              "url": "",
-              "bold": false,
-              "italic": false
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "runs": [
-            {
-              "text": "Mind Games",
+              "text": "Analog Is Back",
               "url": "",
               "bold": true,
               "italic": false
@@ -244347,20 +244241,14 @@
           "type": "paragraph",
           "runs": [
             {
-              "text": "A mentalist can plant a thought in your head, and his mom was a Vegas showgirl.",
-              "url": "",
-              "bold": true,
-              "italic": false
-            },
-            {
-              "text": " Matt Cooper grew up backstage in Las Vegas, bottle-fed between his mother's numbers at Bally's, and inherited his grandfather's magic books after he died. The small mentalism section hooked him: not objects moving, but thoughts moving from one mind to another. For a recent piece he sent writer Nicolaia Rips out to Bleecker Street to get a random nine-digit number from a total stranger, then pulled off the reveal over coffee at the Washington Square Diner. He performed the same kind of mind reading at the Morgan Library, in front of rare books and a Tarot exhibition. (",
+              "text": "Sony just relaunched the MDR-3R, its old-school headphones with the orange-padded earcups, now with a USB-C connection. The relaunch lands in the middle of a full analog rebound: alarm clocks, flip phones, and cassette players are all back as people look for a break from screens. (",
               "url": "",
               "bold": false,
               "italic": false
             },
             {
-              "text": "i-D",
-              "url": "https://substack.i-d.co/p/a-magician-reveals-his-secrets",
+              "text": "InsideHook",
+              "url": "https://www.insidehook.com/gear/products-week-11-06-2026",
               "bold": false,
               "italic": false
             },
@@ -244387,83 +244275,14 @@
           "type": "bulleted_list_item",
           "runs": [
             {
-              "text": "Texas Sen.-elect James Talarico's first stop after winning: Whataburger. His Note about it pulled 28.7K likes. (",
+              "text": "New Balance dropped the 990v7, the latest version of its made-in-USA dad shoe. Pair it with the retro Sonys and you have the full Nathan Fielder look. (",
               "url": "",
               "bold": false,
               "italic": false
             },
             {
-              "text": "Substack",
-              "url": "https://substack.com/profile/157008787-james-talarico/note/c-378255213",
-              "bold": false,
-              "italic": false
-            },
-            {
-              "text": ")",
-              "url": "",
-              "bold": false,
-              "italic": false
-            }
-          ]
-        },
-        {
-          "type": "bulleted_list_item",
-          "runs": [
-            {
-              "text": "A postcard from October 1914, bought on Etsy, reads: \"Hello Hen. I suppose you thought that I was never going to answer. Been so busy having a good time that I never found time to dial the telephone. Peggy\" (",
-              "url": "",
-              "bold": false,
-              "italic": false
-            },
-            {
-              "text": "Substack",
-              "url": "https://substack.com/profile/22639821-grace-dougherty/note/c-360235496",
-              "bold": false,
-              "italic": false
-            },
-            {
-              "text": ")",
-              "url": "",
-              "bold": false,
-              "italic": false
-            }
-          ]
-        },
-        {
-          "type": "bulleted_list_item",
-          "runs": [
-            {
-              "text": "Kamala Harris launched her Substack as her book 107 Days came out, leading with an excerpt titled \"So, what do we do?\" (",
-              "url": "",
-              "bold": false,
-              "italic": false
-            },
-            {
-              "text": "Substack",
-              "url": "https://open.substack.com/users/386409469-kamala-harris",
-              "bold": false,
-              "italic": false
-            },
-            {
-              "text": ")",
-              "url": "",
-              "bold": false,
-              "italic": false
-            }
-          ]
-        },
-        {
-          "type": "bulleted_list_item",
-          "runs": [
-            {
-              "text": "Last day today: Asher Liftin's Recent Work at 125 Newbury. (",
-              "url": "",
-              "bold": false,
-              "italic": false
-            },
-            {
-              "text": "Exhibits in New York",
-              "url": "https://exhibitsinnewyork.substack.com/p/go-see-something-a-long-one",
+              "text": "New Balance",
+              "url": "https://www.newbalance.com/pd/made-in-usa-990v7/U990V7-53070-PMG-NA.html/",
               "bold": false,
               "italic": false
             },
@@ -244479,32 +244298,12 @@
       "publishedAt": "2026-11-07T13:20:00Z",
       "links": [
         {
-          "title": "13,000",
-          "url": "https://on.substack.com/p/candidates-flipped-seven-senate-seats"
+          "title": "InsideHook",
+          "url": "https://www.insidehook.com/gear/products-week-11-06-2026"
         },
         {
-          "title": "3 to 1",
-          "url": "https://substack.com/@fpwellman/p-189036058"
-        },
-        {
-          "title": "i-D",
-          "url": "https://substack.i-d.co/p/a-magician-reveals-his-secrets"
-        },
-        {
-          "title": "Substack",
-          "url": "https://substack.com/profile/157008787-james-talarico/note/c-378255213"
-        },
-        {
-          "title": "Substack",
-          "url": "https://substack.com/profile/22639821-grace-dougherty/note/c-360235496"
-        },
-        {
-          "title": "Substack",
-          "url": "https://open.substack.com/users/386409469-kamala-harris"
-        },
-        {
-          "title": "Exhibits in New York",
-          "url": "https://exhibitsinnewyork.substack.com/p/go-see-something-a-long-one"
+          "title": "New Balance",
+          "url": "https://www.newbalance.com/pd/made-in-usa-990v7/U990V7-53070-PMG-NA.html/"
         }
       ],
       "versions": {
@@ -245755,8 +245554,102 @@
             }
           ]
         },
+        "evening": {
+          "body": "Saturday, November 7, 2026 - Evening Edition\n\nAnalog Is Back\n\nSony just relaunched the MDR-3R, its old-school headphones with the orange-padded earcups, now with a USB-C connection. The relaunch lands in the middle of a full analog rebound: alarm clocks, flip phones, and cassette players are all back as people look for a break from screens. (InsideHook)\n\nQuick Hits & Curiosities\n\n• New Balance dropped the 990v7, the latest version of its made-in-USA dad shoe. Pair it with the retro Sonys and you have the full Nathan Fielder look. (New Balance)",
+          "blocks": [
+            {
+              "type": "heading_1",
+              "runs": [
+                {
+                  "text": "Saturday, November 7, 2026 - Evening Edition",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Analog Is Back",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Sony just relaunched the MDR-3R, its old-school headphones with the orange-padded earcups, now with a USB-C connection. The relaunch lands in the middle of a full analog rebound: alarm clocks, flip phones, and cassette players are all back as people look for a break from screens. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "InsideHook",
+                  "url": "https://www.insidehook.com/gear/products-week-11-06-2026",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Quick Hits & Curiosities",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "New Balance dropped the 990v7, the latest version of its made-in-USA dad shoe. Pair it with the retro Sonys and you have the full Nathan Fielder look. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "New Balance",
+                  "url": "https://www.newbalance.com/pd/made-in-usa-990v7/U990V7-53070-PMG-NA.html/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            }
+          ],
+          "links": [
+            {
+              "title": "InsideHook",
+              "url": "https://www.insidehook.com/gear/products-week-11-06-2026"
+            },
+            {
+              "title": "New Balance",
+              "url": "https://www.newbalance.com/pd/made-in-usa-990v7/U990V7-53070-PMG-NA.html/"
+            }
+          ]
+        },
         "full": {
-          "body": "Saturday, November 7, 2026 - Morning Edition\n\nToday's Numbers\n\n• 20: of every 40 eligible Americans, about 20 did not vote in this week's midterm election. Another 11 were pleased with how their vote turned out, and 9 were not.\n\n• 1,600: light-years from Earth, a dying star is ringed by two bands of gas and dust that astronomers believe are the remains of planets it once hosted.\n\n• 5 million: views and counting for Father John Misty's cover of Arcade Fire's \"The Suburbs.\"\n\nQuotes of the Day\n\n• \"Today, after 31 years, we are saddened to announce that Salon is ceasing publication.\" (Salon, in its goodbye note)\n\n• \"Your feelings are not always valid. They might point you the right way, and they might point you the wrong way. The only way to find out is to use your mind.\" (Jerusalem Demsas, The Argument, on Jane Austen's Sense and Sensibility)\n\nAI & The Machines\n\nAI companies want to buy your work files and emails. Data brokers are scooping up internal corporate files to train AI models, and not everyone whose work is in the pile is thrilled about it. Steven Levy reports that the market for this kind of training data is growing fast, with companies paying for the emails, documents, and files that used to stay inside the office. The question now is who owns your work product once it leaves the building, and whether anyone asked you first. (WIRED)\n\nThe Culture\n\nTesla has halted production of the Cybertruck. WIRED's obituary calls the polygonal pickup unloved, unwanted, and utterly absurd, and argues the end of the line is actually good news for electric vehicles. The truck that was supposed to drag EVs into the mainstream became a punchline instead, and its exit clears the way for electric trucks people actually want to buy. (WIRED)\n\nLink got a glow-up. Nintendo's Ocarina of Time remake is finally here, and the internet has noticed that the hero looks different. Curled eyelashes, glossed lips, a full yassified rework of a 1998 icon. The remake comes with a pile of visual upgrades, but none of them has generated as much chatter as Link's new face. (WIRED)\n\nThe Onion wants to sponsor a college football bowl game. The satirical paper pitched the game as \"The Sickos Bowl,\" a nod to the online community of fans who will watch any matchup no matter how bad the teams are. It is the rare sponsorship idea that understands its audience perfectly: people who love football enough to watch the worst version of it. (Yahoo Sports)\n\nQuick Hits & Curiosities\n\n• Norm MacDonald talks sobriety, alcohol, and life without drinking in a loose, off-the-cuff video filmed in a poker hall. (YouTube)\n\n• Counterpoint rounds up the week's best midterm cartoons, from a blue wave to a Republican reckoning. (Counterpoint)\n\nSaturday, November 7, 2026 - Midday Edition\n\nToday's Numbers\n\n• 6,000: Newsmax's average audience in the advertiser-coveted 25-to-54 age group last month, down 33% from a year earlier. Total-day audience fell 26% too, and the network now ranks 28th in cable, behind Hallmark Mystery, Oxygen, and Freeform.\n\n• 165,000: jobs added in October, more than double the roughly 65,000 economists expected. Unemployment ticked down to 4.1%, and August and September were revised up by a combined 84,000 jobs.\n\n• $6.6 billion: the Panama Canal's unaudited fiscal 2026 revenue, up 16.6% from last year despite ongoing worries about water levels.\n\n• 7,000: scientific papers produced by NASA's Swift observatory over its 22-year mission. The telescope burned up in the atmosphere on November 4 after a failed rescue effort.\n\nQuotes of the Day\n\n• \"My wife says I have enough pandas now (16 and counting...). I disagree.\" (Pedro Medina, data scientist and founder of Haystack Data Solutions, on his workspace, the Panda Palace)\n\n• \"One of the most superlative accounts of beauty-related futility the world has ever seen.\" (Charlotte Shane, on Glossier founder Emily Weiss's 2016 wedding beauty post)\n\n• \"She's crazy. I love her so much.\" (Jessica DeFino, on Barbara Streisand claiming women wear wigs that look like hers)\n\nPolitics After the Wave\n\nTrump tapped Stephen Miller as White House chief of staff. Miller takes over Monday, November 9, replacing Susie Wiles, the first woman to hold the job. Wiles moves to the Trump Political Operation. Miller has driven the administration's hardline immigration enforcement since 2016, and with Democrats now holding both chambers, the White House is expected to lean on executive action instead of legislation. (NLDR Media)\n\nThe Internet\n\nThe online right spent the week before the midterms posting Anakin Skywalker memes. Young conservatives see the prequel hero as a lonely, misunderstood young man betrayed by a corrupt system, and influencers treated the meme as a serious political symbol. Katie Miller dressed as Padme for Halloween, the Department of Education joined in, and Elon Musk posted an AI image of Anakin as imperial patriarch with the caption \"This is what they stole from us.\" The right then lost both chambers. (The Argument)\n\nThe man who gave up everything still can't quit Instagram. Robin Greenfield ditched his phone, bank accounts, credit cards, and grocery stores, and spent a year eating only food he foraged. He brushes his teeth with a twig and carries his waste in a bucket. But his rejection of consumer society reaches more than two million followers through a laptop, a camera, and a team that edits his videos. He's now planning three months offline while canoeing around Florida. (Weekend Briefing)\n\nScience & Deep Time\n\nEarth lost more than a billion years of its own history, and scientists think they finally know why. The Great Unconformity is a planet-wide gap where 538-million-year-old sandstone sits directly on rock up to 1.8 billion years old. New models blame the formation and breakup of ancient supercontinents: mantle motion pushed massive landmasses upward, and weather, glaciers, and oceans sanded them away. The same upheaval may have set the stage for complex life in the Cambrian. (404 Media)\n\nBodies & Relationships\n\nThe myth of the lone wolf is backwards. A review of more than fifty studies found that men, on average, place more importance on finding a partner, say they are in love sooner, and struggle more after a breakup. Women usually have more sources of emotional support, while men are more likely to make a partner their main confidant. Lose the relationship and you can lose the person you tell everything to. (Weekend Briefing)\n\nGLP-1s are turning weight loss into a family argument. Mothers and daughters who once bonded over body acceptance now find the drugs pulling them apart. One mother urged her daughter to try a GLP-1 three months after giving birth. A personal medical decision becomes a referendum on whose body needs fixing, and mothers on the drugs worry about what their kids are learning. (Weekend Briefing)\n\nCulture\n\nThe Theranos movie leaves out the evidence that would make the fraud obvious. In You Can See Everything, Elizabeth Holmes shows Nathan Fielder an unfinished prototype, not the Edison machine Theranos actually used on patients. Whistleblower Tyler Shultz points out that the film never mentions SEC findings that Holmes showed an investor financials claiming $108 million in annual revenue when the company had earned little more than $100,000. For Shultz, hiding the records is the tell: why conceal them if you believed your own story? (Weekend Briefing)\n\nQuick Hits & Curiosities\n\n• AOC accidentally dyed her hair black after leaving a glossing treatment on too long. She was distracted by the Haley Stevens situation in Michigan. (Jessica DeFino)\n\n• Ballerina Farm's Hannah Neeleman launches a beef tallow body butter on November 17. (Jessica DeFino)\n\n• A bull named Achille and a donkey named Patroclo formed a selective, reciprocal socio-sexual bond in Ethiopia, complete with nuzzling, licking, and 51 mountings. (404 Media)\n\n• Solar generated 13% more electricity than nuclear worldwide over the past year, and now provides about 24% of Pakistan's electricity, up from under 2% in 2019. (Weekend Briefing)\n\n• Go see art this weekend: a Theresa Hak Kyung Cha retrospective at Artists Space through November 21, and Asad Raza's rat show at Times Gallery through December 12. (Exhibits in New York)\n\n• A leather wastepaper bin for $515 is the latest object of desire in Laurel Pantin's Saturday shopping list. (Earl Earl)\n\nSaturday, November 7, 2026 - Afternoon Edition\n\nToday's Numbers\n\n• 7: Senate seats Democrats flipped in Tuesday's midterms, and all seven winners ran a Substack during the race. The two races still too close to call have Substack-running challengers too.\n\n• 3 to 1: how badly Fred Wellman was outspent by the seven-term incumbent he beat in Missouri. The first-time candidate and 22-year Army veteran announced his run on Substack.\n\n• 13,000: people who watched Pete Buttigieg livestream a town hall on Substack during the cycle.\n\nQuotes of the Day\n\n• \"What can I do but oblige the wishes of the dying?\" (Phillip Picardi, on his cat Juniper, dying of cancer after nearly 12 years together)\n\n• \"I was quite literally the only person not on my phone, which gave me a God complex, obviously.\" (Stef Dag, three days into a month without doomscrolling)\n\n• \"Out of disdain, you might dismiss, but to dismiss is to kill you with ballet slippers on.\" (Jacqueline Novak, on the mouthfeel of the word \"dismiss\")\n\nMind Games\n\nA mentalist can plant a thought in your head, and his mom was a Vegas showgirl. Matt Cooper grew up backstage in Las Vegas, bottle-fed between his mother's numbers at Bally's, and inherited his grandfather's magic books after he died. The small mentalism section hooked him: not objects moving, but thoughts moving from one mind to another. For a recent piece he sent writer Nicolaia Rips out to Bleecker Street to get a random nine-digit number from a total stranger, then pulled off the reveal over coffee at the Washington Square Diner. He performed the same kind of mind reading at the Morgan Library, in front of rare books and a Tarot exhibition. (i-D)\n\nQuick Hits & Curiosities\n\n• Texas Sen.-elect James Talarico's first stop after winning: Whataburger. His Note about it pulled 28.7K likes. (Substack)\n\n• A postcard from October 1914, bought on Etsy, reads: \"Hello Hen. I suppose you thought that I was never going to answer. Been so busy having a good time that I never found time to dial the telephone. Peggy\" (Substack)\n\n• Kamala Harris launched her Substack as her book 107 Days came out, leading with an excerpt titled \"So, what do we do?\" (Substack)\n\n• Last day today: Asher Liftin's Recent Work at 125 Newbury. (Exhibits in New York)",
+          "body": "Saturday, November 7, 2026 - Morning Edition\n\nToday's Numbers\n\n• 20: of every 40 eligible Americans, about 20 did not vote in this week's midterm election. Another 11 were pleased with how their vote turned out, and 9 were not.\n\n• 1,600: light-years from Earth, a dying star is ringed by two bands of gas and dust that astronomers believe are the remains of planets it once hosted.\n\n• 5 million: views and counting for Father John Misty's cover of Arcade Fire's \"The Suburbs.\"\n\nQuotes of the Day\n\n• \"Today, after 31 years, we are saddened to announce that Salon is ceasing publication.\" (Salon, in its goodbye note)\n\n• \"Your feelings are not always valid. They might point you the right way, and they might point you the wrong way. The only way to find out is to use your mind.\" (Jerusalem Demsas, The Argument, on Jane Austen's Sense and Sensibility)\n\nAI & The Machines\n\nAI companies want to buy your work files and emails. Data brokers are scooping up internal corporate files to train AI models, and not everyone whose work is in the pile is thrilled about it. Steven Levy reports that the market for this kind of training data is growing fast, with companies paying for the emails, documents, and files that used to stay inside the office. The question now is who owns your work product once it leaves the building, and whether anyone asked you first. (WIRED)\n\nThe Culture\n\nTesla has halted production of the Cybertruck. WIRED's obituary calls the polygonal pickup unloved, unwanted, and utterly absurd, and argues the end of the line is actually good news for electric vehicles. The truck that was supposed to drag EVs into the mainstream became a punchline instead, and its exit clears the way for electric trucks people actually want to buy. (WIRED)\n\nLink got a glow-up. Nintendo's Ocarina of Time remake is finally here, and the internet has noticed that the hero looks different. Curled eyelashes, glossed lips, a full yassified rework of a 1998 icon. The remake comes with a pile of visual upgrades, but none of them has generated as much chatter as Link's new face. (WIRED)\n\nThe Onion wants to sponsor a college football bowl game. The satirical paper pitched the game as \"The Sickos Bowl,\" a nod to the online community of fans who will watch any matchup no matter how bad the teams are. It is the rare sponsorship idea that understands its audience perfectly: people who love football enough to watch the worst version of it. (Yahoo Sports)\n\nQuick Hits & Curiosities\n\n• Norm MacDonald talks sobriety, alcohol, and life without drinking in a loose, off-the-cuff video filmed in a poker hall. (YouTube)\n\n• Counterpoint rounds up the week's best midterm cartoons, from a blue wave to a Republican reckoning. (Counterpoint)\n\nSaturday, November 7, 2026 - Midday Edition\n\nToday's Numbers\n\n• 6,000: Newsmax's average audience in the advertiser-coveted 25-to-54 age group last month, down 33% from a year earlier. Total-day audience fell 26% too, and the network now ranks 28th in cable, behind Hallmark Mystery, Oxygen, and Freeform.\n\n• 165,000: jobs added in October, more than double the roughly 65,000 economists expected. Unemployment ticked down to 4.1%, and August and September were revised up by a combined 84,000 jobs.\n\n• $6.6 billion: the Panama Canal's unaudited fiscal 2026 revenue, up 16.6% from last year despite ongoing worries about water levels.\n\n• 7,000: scientific papers produced by NASA's Swift observatory over its 22-year mission. The telescope burned up in the atmosphere on November 4 after a failed rescue effort.\n\nQuotes of the Day\n\n• \"My wife says I have enough pandas now (16 and counting...). I disagree.\" (Pedro Medina, data scientist and founder of Haystack Data Solutions, on his workspace, the Panda Palace)\n\n• \"One of the most superlative accounts of beauty-related futility the world has ever seen.\" (Charlotte Shane, on Glossier founder Emily Weiss's 2016 wedding beauty post)\n\n• \"She's crazy. I love her so much.\" (Jessica DeFino, on Barbara Streisand claiming women wear wigs that look like hers)\n\nPolitics After the Wave\n\nTrump tapped Stephen Miller as White House chief of staff. Miller takes over Monday, November 9, replacing Susie Wiles, the first woman to hold the job. Wiles moves to the Trump Political Operation. Miller has driven the administration's hardline immigration enforcement since 2016, and with Democrats now holding both chambers, the White House is expected to lean on executive action instead of legislation. (NLDR Media)\n\nThe Internet\n\nThe online right spent the week before the midterms posting Anakin Skywalker memes. Young conservatives see the prequel hero as a lonely, misunderstood young man betrayed by a corrupt system, and influencers treated the meme as a serious political symbol. Katie Miller dressed as Padme for Halloween, the Department of Education joined in, and Elon Musk posted an AI image of Anakin as imperial patriarch with the caption \"This is what they stole from us.\" The right then lost both chambers. (The Argument)\n\nThe man who gave up everything still can't quit Instagram. Robin Greenfield ditched his phone, bank accounts, credit cards, and grocery stores, and spent a year eating only food he foraged. He brushes his teeth with a twig and carries his waste in a bucket. But his rejection of consumer society reaches more than two million followers through a laptop, a camera, and a team that edits his videos. He's now planning three months offline while canoeing around Florida. (Weekend Briefing)\n\nScience & Deep Time\n\nEarth lost more than a billion years of its own history, and scientists think they finally know why. The Great Unconformity is a planet-wide gap where 538-million-year-old sandstone sits directly on rock up to 1.8 billion years old. New models blame the formation and breakup of ancient supercontinents: mantle motion pushed massive landmasses upward, and weather, glaciers, and oceans sanded them away. The same upheaval may have set the stage for complex life in the Cambrian. (404 Media)\n\nBodies & Relationships\n\nThe myth of the lone wolf is backwards. A review of more than fifty studies found that men, on average, place more importance on finding a partner, say they are in love sooner, and struggle more after a breakup. Women usually have more sources of emotional support, while men are more likely to make a partner their main confidant. Lose the relationship and you can lose the person you tell everything to. (Weekend Briefing)\n\nGLP-1s are turning weight loss into a family argument. Mothers and daughters who once bonded over body acceptance now find the drugs pulling them apart. One mother urged her daughter to try a GLP-1 three months after giving birth. A personal medical decision becomes a referendum on whose body needs fixing, and mothers on the drugs worry about what their kids are learning. (Weekend Briefing)\n\nCulture\n\nThe Theranos movie leaves out the evidence that would make the fraud obvious. In You Can See Everything, Elizabeth Holmes shows Nathan Fielder an unfinished prototype, not the Edison machine Theranos actually used on patients. Whistleblower Tyler Shultz points out that the film never mentions SEC findings that Holmes showed an investor financials claiming $108 million in annual revenue when the company had earned little more than $100,000. For Shultz, hiding the records is the tell: why conceal them if you believed your own story? (Weekend Briefing)\n\nQuick Hits & Curiosities\n\n• AOC accidentally dyed her hair black after leaving a glossing treatment on too long. She was distracted by the Haley Stevens situation in Michigan. (Jessica DeFino)\n\n• Ballerina Farm's Hannah Neeleman launches a beef tallow body butter on November 17. (Jessica DeFino)\n\n• A bull named Achille and a donkey named Patroclo formed a selective, reciprocal socio-sexual bond in Ethiopia, complete with nuzzling, licking, and 51 mountings. (404 Media)\n\n• Solar generated 13% more electricity than nuclear worldwide over the past year, and now provides about 24% of Pakistan's electricity, up from under 2% in 2019. (Weekend Briefing)\n\n• Go see art this weekend: a Theresa Hak Kyung Cha retrospective at Artists Space through November 21, and Asad Raza's rat show at Times Gallery through December 12. (Exhibits in New York)\n\n• A leather wastepaper bin for $515 is the latest object of desire in Laurel Pantin's Saturday shopping list. (Earl Earl)\n\nSaturday, November 7, 2026 - Afternoon Edition\n\nToday's Numbers\n\n• 7: Senate seats Democrats flipped in Tuesday's midterms, and all seven winners ran a Substack during the race. The two races still too close to call have Substack-running challengers too.\n\n• 3 to 1: how badly Fred Wellman was outspent by the seven-term incumbent he beat in Missouri. The first-time candidate and 22-year Army veteran announced his run on Substack.\n\n• 13,000: people who watched Pete Buttigieg livestream a town hall on Substack during the cycle.\n\nQuotes of the Day\n\n• \"What can I do but oblige the wishes of the dying?\" (Phillip Picardi, on his cat Juniper, dying of cancer after nearly 12 years together)\n\n• \"I was quite literally the only person not on my phone, which gave me a God complex, obviously.\" (Stef Dag, three days into a month without doomscrolling)\n\n• \"Out of disdain, you might dismiss, but to dismiss is to kill you with ballet slippers on.\" (Jacqueline Novak, on the mouthfeel of the word \"dismiss\")\n\nMind Games\n\nA mentalist can plant a thought in your head, and his mom was a Vegas showgirl. Matt Cooper grew up backstage in Las Vegas, bottle-fed between his mother's numbers at Bally's, and inherited his grandfather's magic books after he died. The small mentalism section hooked him: not objects moving, but thoughts moving from one mind to another. For a recent piece he sent writer Nicolaia Rips out to Bleecker Street to get a random nine-digit number from a total stranger, then pulled off the reveal over coffee at the Washington Square Diner. He performed the same kind of mind reading at the Morgan Library, in front of rare books and a Tarot exhibition. (i-D)\n\nQuick Hits & Curiosities\n\n• Texas Sen.-elect James Talarico's first stop after winning: Whataburger. His Note about it pulled 28.7K likes. (Substack)\n\n• A postcard from October 1914, bought on Etsy, reads: \"Hello Hen. I suppose you thought that I was never going to answer. Been so busy having a good time that I never found time to dial the telephone. Peggy\" (Substack)\n\n• Kamala Harris launched her Substack as her book 107 Days came out, leading with an excerpt titled \"So, what do we do?\" (Substack)\n\n• Last day today: Asher Liftin's Recent Work at 125 Newbury. (Exhibits in New York)\n\nSaturday, November 7, 2026 - Evening Edition\n\nAnalog Is Back\n\nSony just relaunched the MDR-3R, its old-school headphones with the orange-padded earcups, now with a USB-C connection. The relaunch lands in the middle of a full analog rebound: alarm clocks, flip phones, and cassette players are all back as people look for a break from screens. (InsideHook)\n\nQuick Hits & Curiosities\n\n• New Balance dropped the 990v7, the latest version of its made-in-USA dad shoe. Pair it with the retro Sonys and you have the full Nathan Fielder look. (New Balance)",
           "blocks": [
             {
               "type": "heading_1",
@@ -246883,6 +246776,85 @@
                   "italic": false
                 }
               ]
+            },
+            {
+              "type": "heading_1",
+              "runs": [
+                {
+                  "text": "Saturday, November 7, 2026 - Evening Edition",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Analog Is Back",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Sony just relaunched the MDR-3R, its old-school headphones with the orange-padded earcups, now with a USB-C connection. The relaunch lands in the middle of a full analog rebound: alarm clocks, flip phones, and cassette players are all back as people look for a break from screens. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "InsideHook",
+                  "url": "https://www.insidehook.com/gear/products-week-11-06-2026",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Quick Hits & Curiosities",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "New Balance dropped the 990v7, the latest version of its made-in-USA dad shoe. Pair it with the retro Sonys and you have the full Nathan Fielder look. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "New Balance",
+                  "url": "https://www.newbalance.com/pd/made-in-usa-990v7/U990V7-53070-PMG-NA.html/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
             }
           ],
           "links": [
@@ -246981,6 +246953,14 @@
             {
               "title": "Substack",
               "url": "https://open.substack.com/users/386409469-kamala-harris"
+            },
+            {
+              "title": "InsideHook",
+              "url": "https://www.insidehook.com/gear/products-week-11-06-2026"
+            },
+            {
+              "title": "New Balance",
+              "url": "https://www.newbalance.com/pd/made-in-usa-990v7/U990V7-53070-PMG-NA.html/"
             }
           ]
         }
