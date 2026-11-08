@@ -1044,6 +1044,33 @@
       "url": "https://sfstandard.com/2026/10/30/colossus-glossy-quarterly-silicon-valley/",
       "publishedAt": "2026-11-06T20:23:00Z",
       "readingStatus": "To Read"
+    },
+    {
+      "id": "readlater-2b5fa093706d4416ac9787471b84a67a",
+      "channel": "articles",
+      "source": "notion",
+      "title": "Gwern",
+      "url": "https://gwern.net/",
+      "publishedAt": "2026-11-08T15:03:00Z",
+      "readingStatus": "To Read"
+    },
+    {
+      "id": "readlater-2cf1f1709d6444e2a332d33e31d06bc0",
+      "channel": "articles",
+      "source": "notion",
+      "title": "Potato Riffs Retrospective",
+      "url": "https://slimemoldtimemold.com/2025/02/02/potato-riffs-retrospective/",
+      "publishedAt": "2026-11-08T15:03:00Z",
+      "readingStatus": "To Read"
+    },
+    {
+      "id": "readlater-3f19664ea6a24e0bbc77abe7f4383a81",
+      "channel": "articles",
+      "source": "notion",
+      "title": "Dynomight",
+      "url": "https://dynomight.net/",
+      "publishedAt": "2026-11-08T15:03:00Z",
+      "readingStatus": "To Read"
     }
   ]
 }

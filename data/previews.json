@@ -964,6 +964,36 @@
       "domain": "sfstandard.com",
       "checkedAt": "2026-11-06T21:08:59.777275+00:00",
       "available": true
+    },
+    "https://gwern.net/": {
+      "title": "Essays",
+      "description": "Personal website of Gwern Branwen (writer, self-experimenter, and programmer): topics: psychology, statistics, technology, deep learning, anime. This index page is a categorized list of Gwern.net pages.",
+      "site": "",
+      "image": "https://gwern.net/static/img/logo/logo-whitebg-large-border.png",
+      "icon": "https://gwern.net/static/img/logo/logo-favicon-small.png",
+      "domain": "gwern.net",
+      "checkedAt": "2026-11-08T17:05:37.704600+00:00",
+      "available": true
+    },
+    "https://slimemoldtimemold.com/2025/02/02/potato-riffs-retrospective/": {
+      "title": "Potato Riffs Retrospective",
+      "description": "Background Just over a year ago we launched the Potato Diet Riff Trial, the first of its kind. The riff trial is a new type of study design. In most studies, all participants sign up for the same p…",
+      "site": "SLIME MOLD TIME MOLD",
+      "image": "https://slimemoldtimemold.com/wp-content/uploads/2025/02/mr-potato-head-962x600.jpg.webp",
+      "icon": "https://slimemoldtimemold.com/wp-content/uploads/2020/09/cropped-eaabtifuyaaxisk.jpeg?w=32",
+      "domain": "slimemoldtimemold.com",
+      "checkedAt": "2026-11-08T17:05:37.704600+00:00",
+      "available": true
+    },
+    "https://dynomight.net/": {
+      "title": "DYNOMIGHT INTERNET WEBSITE",
+      "description": "science and existential angst",
+      "site": "DYNOMIGHT",
+      "image": "https://dynomight.net/img/deathvalley/small.jpg",
+      "icon": "https://dynomight.net/favicon.png",
+      "domain": "dynomight.net",
+      "checkedAt": "2026-11-08T17:05:37.704600+00:00",
+      "available": true
     }
   }
 }
