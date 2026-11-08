@@ -250583,6 +250583,465 @@
           ]
         }
       }
+    },
+    {
+      "id": "digest-9c796b8b-7d0f-4940-ab2b-93ed81cf8ab4",
+      "channel": "newsletters",
+      "source": "notion",
+      "kind": "Agent-written digest",
+      "domain": "Daily newsletter digest",
+      "title": "The Token Fed, City Bakery & the Art of Getting Lost",
+      "url": "",
+      "description": "A Sunday dispatch assembled from the day’s newsletters: AI compute is starting to look like a monetary system, vanished New York institutions still haunt our kitchens, and the best antidote to algorithmic life may be getting gloriously lost on purpose.",
+      "body": "A Sunday dispatch assembled from the day’s newsletters: AI compute is starting to look like a monetary system, vanished New York institutions still haunt our kitchens, and the best antidote to algorithmic life may be getting gloriously lost on purpose.\n\nBest links\n\n• The Token Fed — Strange Loop Canon: Rohit’s provocative thought experiment treats model tokens as a real economy: heterogeneous demand, scarce GPU capacity, spot pricing, credit, FX desks, and routers acting like treasury desks. In his simulation, a “Token Fed” shifts compute away from low-urgency work, cuts waste, extends credit to startups, and outperforms today’s flat-rate status quo. The interesting idea is not that labs should literally become central banks; it’s that AI usage may soon need something closer to monetary policy than another subscription tier.\n\n• The infinite scroll was supposed to liberate us — Links I Would Gchat You If We Were Friends: A sharp bundle of links on surveillance pricing, microgig work, AI-screened job applications, and Facebook’s retreat from anti-vaccine moderation. The common thread: systems that look frictionless from the user side often monetize attention, uncertainty, or desperation underneath.\n\n• Arts criticism as class warfare — Deez Links: David Ehrlich’s close reading of Taika Waititi’s defensive Instagram post becomes a meditation on the collapsing power gap between creators and critics. Also: Yoshitomo Nara sculptures that look like giant children’s Play-Doh experiments, and a useful excuse to think about what “content creator” has swallowed.\n\nWorth reading\n\n• The Divorce Tapes — New York Magazine: Beth Raymer’s father secretly tapped the family phone lines and mailed copies of the recordings to relatives as evidence for a divorce. Years later, she listens and hears not just scandal but the texture of an ordinary vanished household: a cuckoo clock, coffee, gossip, and a family secret she had spent years misremembering. It’s a chilling story about surveillance that becomes, accidentally, an archive of memory.\n\n• Is Curiosity the Vice of Our Era? — The Republic of Letters: A case against confusing curiosity with wisdom. The essay asks whether our appetite for intimate podcast confessionals is really a hunger for truth—or just a socially acceptable form of voyeurism. A useful distinction for the feed era: pursue knowledge to become wiser, not to earn the right to mock strangers.\n\n• A woman, a dog, and 3,000 miles — Karley Sciortino: Three solo cross-country drives become a defense of the unoptimized life. Rebecca Solnit’s A Field Guide to Getting Lost supplies the theory: unfamiliar places force attention back online, making you notice the light, the local drawl, the weird signs, and even your own moods.\n\nFood & places\n\n• The City Bakery afterlife — Romilly’s Substack: Pretzel croissants, drinking chocolate with a gargantuan marshmallow, cold fried chicken, Boylan’s Creme Soda, and a childhood mapped onto 3 W 18th Street. The elegy’s best turn is its challenge: we can’t bring the past back, but we can make new places that feel warm, loved, and built to last.\n\n• A big pot of tomato soup — NYT Cooking: Melissa Clark writes about grief through a 30-minute lentil-tomato soup finished with brown butter and heavy cream. The practical insight is tender and convincing: cooking doesn’t solve sadness, but staying near the pot, seasoning carefully, and feeding other people can keep sadness from taking over.\n\n• A wedding at Shun Lee West — Dead Ringers: High-backed booths and giant columns turn a wedding into a very New York memory palace—part power lunch, part family dinner, part runway. The newsletter’s tiny restaurant-and-style dispatch is a good reminder that a room’s architecture can do half the work of a social scene.\n\nIdeas to steal\n\n• The 60–20–20 split — Lenny’s Newsletter: Tulsee Doshi’s framework for balancing what works now, what is almost working, and what might define the next frontier. A useful antidote to both pure maintenance and pure moonshot thinking.\n\n• Don’t punish honesty because flattery feels better — Brain Food: Also worth keeping: “Accepting help is an act of trust.” And the sharper operational version of ambition: the will to prepare matters more than the will to win.\n\nInternet oddities\n\n• Proton’s AI reckoning — 404 Media: A newsletter built around a strange modern collision: a privacy-minded company pushing hard into AI, while its users and employees reckon with what that means. The same issue points to the AO3 outage and the recurring phenomenon of ChatGPT sending people to 404 Media for tech support.\n\n• The newsletter that reviewed 2,780 links — Links I Would Gchat You If We Were Friends: A small miracle of human curation in a week dominated by automated recommendation. The anti-algorithm pitch is simple: someone actually read the pile first.\n\nOne-liners\n\n• “A world where imitated humanity is of limitless value, and actual humanity is an Achilles’ heel.” — Deez Links\n\n• “Fear-based thinking is a liar.” — Brain Food\n\n• The best new social network might be a café where nobody is filming the cookie.\n\n• If you’re lost, pay attention: the landscape is trying to reintroduce you to yourself.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "A Sunday dispatch assembled from the day’s newsletters: AI compute is starting to look like a monetary system, vanished New York institutions still haunt our kitchens, and the best antidote to algorithmic life may be getting gloriously lost on purpose.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "heading_2",
+          "runs": [
+            {
+              "text": "Best links",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "The Token Fed — ",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": "Strange Loop Canon",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": ": Rohit’s provocative thought experiment treats model tokens as a real economy: heterogeneous demand, scarce GPU capacity, spot pricing, credit, FX desks, and routers acting like treasury desks. In his simulation, a “Token Fed” shifts compute away from low-urgency work, cuts waste, extends credit to startups, and outperforms today’s flat-rate status quo. The interesting idea is not that labs should literally become central banks; it’s that AI usage may soon need something closer to monetary policy than another subscription tier.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "The infinite scroll was supposed to liberate us — ",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": "Links I Would Gchat You If We Were Friends",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": ": A sharp bundle of links on surveillance pricing, microgig work, AI-screened job applications, and Facebook’s retreat from anti-vaccine moderation. The common thread: systems that look frictionless from the user side often monetize attention, uncertainty, or desperation underneath.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Arts criticism as class warfare — ",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": "Deez Links",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": ": David Ehrlich’s close reading of Taika Waititi’s defensive Instagram post becomes a meditation on the collapsing power gap between creators and critics. Also: Yoshitomo Nara sculptures that look like giant children’s Play-Doh experiments, and a useful excuse to think about what “content creator” has swallowed.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "heading_2",
+          "runs": [
+            {
+              "text": "Worth reading",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "The Divorce Tapes — ",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": "New York Magazine",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": ": Beth Raymer’s father secretly tapped the family phone lines and mailed copies of the recordings to relatives as evidence for a divorce. Years later, she listens and hears not just scandal but the texture of an ordinary vanished household: a cuckoo clock, coffee, gossip, and a family secret she had spent years misremembering. It’s a chilling story about surveillance that becomes, accidentally, an archive of memory.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Is Curiosity the Vice of Our Era? — ",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": "The Republic of Letters",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": ": A case against confusing curiosity with wisdom. The essay asks whether our appetite for intimate podcast confessionals is really a hunger for truth—or just a socially acceptable form of voyeurism. A useful distinction for the feed era: pursue knowledge to become wiser, not to earn the right to mock strangers.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "A woman, a dog, and 3,000 miles — ",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": "Karley Sciortino",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": ": Three solo cross-country drives become a defense of the unoptimized life. Rebecca Solnit’s ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "A Field Guide to Getting Lost",
+              "url": "",
+              "bold": false,
+              "italic": true
+            },
+            {
+              "text": " supplies the theory: unfamiliar places force attention back online, making you notice the light, the local drawl, the weird signs, and even your own moods.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "heading_2",
+          "runs": [
+            {
+              "text": "Food & places",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "The City Bakery afterlife — ",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": "Romilly’s Substack",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": ": Pretzel croissants, drinking chocolate with a gargantuan marshmallow, cold fried chicken, Boylan’s Creme Soda, and a childhood mapped onto 3 W 18th Street. The elegy’s best turn is its challenge: we can’t bring the past back, but we can make new places that feel warm, loved, and built to last.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "A big pot of tomato soup — ",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": "NYT Cooking",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": ": Melissa Clark writes about grief through a 30-minute lentil-tomato soup finished with brown butter and heavy cream. The practical insight is tender and convincing: cooking doesn’t solve sadness, but staying near the pot, seasoning carefully, and feeding other people can keep sadness from taking over.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "A wedding at Shun Lee West — ",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": "Dead Ringers",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": ": High-backed booths and giant columns turn a wedding into a very New York memory palace—part power lunch, part family dinner, part runway. The newsletter’s tiny restaurant-and-style dispatch is a good reminder that a room’s architecture can do half the work of a social scene.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "heading_2",
+          "runs": [
+            {
+              "text": "Ideas to steal",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "The 60–20–20 split — ",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": "Lenny’s Newsletter",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": ": Tulsee Doshi’s framework for balancing what works now, what is almost working, and what might define the next frontier. A useful antidote to both pure maintenance and pure moonshot thinking.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Don’t punish honesty because flattery feels better — ",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": "Brain Food",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": ": Also worth keeping: “Accepting help is an act of trust.” And the sharper operational version of ambition: the will to prepare matters more than the will to win.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "heading_2",
+          "runs": [
+            {
+              "text": "Internet oddities",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Proton’s AI reckoning — ",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": "404 Media",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": ": A newsletter built around a strange modern collision: a privacy-minded company pushing hard into AI, while its users and employees reckon with what that means. The same issue points to the AO3 outage and the recurring phenomenon of ChatGPT sending people to 404 Media for tech support.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "The newsletter that reviewed 2,780 links — ",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": "Links I Would Gchat You If We Were Friends",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": ": A small miracle of human curation in a week dominated by automated recommendation. The anti-algorithm pitch is simple: someone actually read the pile first.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "heading_2",
+          "runs": [
+            {
+              "text": "One-liners",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "“A world where imitated humanity is of limitless value, and actual humanity is an Achilles’ heel.” — ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Deez Links",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "“Fear-based thinking is a liar.” — ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Brain Food",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "The best new social network might be a café where nobody is filming the cookie.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "If you’re lost, pay attention: the landscape is trying to reintroduce you to yourself.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        }
+      ],
+      "publishedAt": "2026-11-08T22:03:00Z",
+      "links": []
     }
   ]
 }
