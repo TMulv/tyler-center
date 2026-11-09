@@ -256340,6 +256340,480 @@
           ]
         }
       }
+    },
+    {
+      "id": "digest-4037dcc9-c23d-48f8-b68f-2fea48d0fb4c",
+      "channel": "newsletters",
+      "source": "notion",
+      "kind": "Agent-written digest",
+      "domain": "Daily newsletter digest",
+      "title": "The Internet Became a Television, and Dinner Got Better",
+      "url": "",
+      "description": "Front page",
+      "body": "Front page\n\nThe day’s newsletters kept circling one big feeling: the internet is getting louder, more visual, and less trustworthy — so the best antidote may be a good soup, a weird event, or a place to be with other humans. Here are the scraps worth saving from 2026-11-09.\n\nBest links\n\n• The internet is officially TV now. Garbage Day’s argument is bleak but persuasive: the web is moving from a library of pages toward an internet of televisions, chatbots, and platform-owned attention. The loss is not just text; it is the ability to own your audience and control your own destiny. “No one’s famous, but everyone’s a celebrity” is the line to keep.\n\n• Humanwashing is the new greenwashing. WHAT’S ANU’s Dior case study is less about whether a campaign used AI than about the feeling of being misled. In a synthetic-content environment, even a small seed of doubt can turn into a consumer revolt.\n\n• Gen Z WhimZ. After School spotted young Democrats turning a midterm win into “Blexas,” “Bliowa,” and a broader return to millennial-style optimism — complete with glitter, rainbows, and the sudden idea that whimsy itself might be a political mood.\n\nWorth reading\n\n• The founder-content hangover. Feed Me notes that the founder-as-influencer formula — “I had a problem → no one solved it → I solved it → you should buy it” — is starting to feel exhausted. The next move may be a retreat from building in public, or a migration to paywalled founder content.\n\n• A law that makes private sex public business. 404 Media reports that a new UK pornography law reaches into consensual, privately recorded kink, while platforms have begun removing creators’ work at scale — sometimes without clear communication or a clear violation.\n\n• The tiny return of ownership. Radhika Jones’s defense of the DVD player, via Feed Me, lands as a small anti-streaming manifesto: owning a movie at home can still feel like “a tangible joy” and an investment in future happiness.\n\nFood & places\n\n• Soup with a clever swap. NYT Cooking’s avgolemono replaces the traditional rice with store-bought gnocchi, then uses tempered egg yolks, lemon, rotisserie chicken, dill, and stock to get to a silky, bright, 20-minute dinner.\n\n• Pad prik king, the “bajillion times” stir-fry. Red curry paste, oyster sauce, garlic, sugar, lime leaves, chicken, and green beans make a salty-sweet dry curry; tofu or ground turkey are reader-approved substitutions.\n\n• Sexy chicken is now a category. Feed Me’s restaurant forecast says large-format chicken is stepping into the old “steak for two” slot — but to qualify as sexy chicken, it needs ambiance and booze. The practical reservation trick: try 4 p.m., arrive late, or take a solo bar seat.\n\n• A new West Village room, with excellent duck. Robert Sietsema’s first look at Daniel Humm’s restaurant in the old En space finds a more playful room, spectacular tagliatelle with king crab, and a standout duck au poivre with green peppercorn demi-glace and stewed prunes.\n\nNYC this week\n\n• Wellness as nightlife: Cul de Sac’s sauna village is open at Domino Park, with $25 sessions and a promise that wellness should be a right, not a luxury.\n\n• Best oddball plan: the Krampus Market at Industry City, with taxidermy, dark scents, vintage books, handmade jewelry, and other gifts for people who do not want a normal holiday market.\n\n• Best high-low weekend: Neue Galerie’s 25th-anniversary masterworks exhibition, a free Friday night at the Whitney, a Sichuan cookbook club, or New York Bagelfest at Citi Field.\n\n• Best conversation: Sherry Turkle on artificial intimacy, Maya Lin on art and memory, or a panel on why outrage goes viral.\n\nInternet oddities\n\n• The oldest direct evidence of psychoactive cannabis use: more than 1,400 seeds and THC in preserved hair from a 2,800-year-old Siberian tomb.\n\n• OrbitalWiki turns the satellites overhead into a real-time musical instrument, playing one note whenever a tracked satellite reaches its highest point in your sky.\n\n• “Quantum nose jobs” and bacterial fabric pigment appeared in WHAT’S ANU’s trend radar alongside an alt-TV network built from the Internet Archive and a feed designed to encourage uplifting content.\n\nIdeas to steal\n\n• Make the coat the outfit when you are doing a holiday-party circuit.\n\n• Try dinner at 4 p.m.; the sun sets before 5 anyway.\n\n• Replace one algorithmic evening with an offline pod, a sauna, a reading, or a solo bar seat.\n\n• Keep frozen lime leaves in the freezer. They are small, fragrant insurance against boring weeknight food.\n\nOne-liners\n\n• “No one’s famous, but everyone’s a celebrity.”\n\n• If the internet is becoming television, dinner can still be a place.\n\n• The future may be synthetic, but the best newsletter advice today was: add lemon, dill, and a little more time with actual people.",
+      "blocks": [
+        {
+          "type": "heading_2",
+          "runs": [
+            {
+              "text": "Front page",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "The day’s newsletters kept circling one big feeling: the internet is getting louder, more visual, and less trustworthy — so the best antidote may be a good soup, a weird event, or a place to be with other humans. Here are the scraps worth saving from ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "2026-11-09",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ".",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "heading_2",
+          "runs": [
+            {
+              "text": "Best links",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "The internet is officially TV now.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " Garbage Day’s argument is bleak but persuasive: the web is moving from a library of pages toward an internet of televisions, chatbots, and platform-owned attention. The loss is not just text; it is the ability to own your audience and control your own destiny. “No one’s famous, but everyone’s a celebrity” is the line to keep. ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Humanwashing is the new greenwashing.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " WHAT’S ANU’s Dior case study is less about whether a campaign used AI than about the feeling of being misled. In a synthetic-content environment, even a small seed of doubt can turn into a consumer revolt. ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Gen Z WhimZ.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " After School spotted young Democrats turning a midterm win into “Blexas,” “Bliowa,” and a broader return to millennial-style optimism — complete with glitter, rainbows, and the sudden idea that whimsy itself might be a political mood. ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "heading_2",
+          "runs": [
+            {
+              "text": "Worth reading",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "The founder-content hangover.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " Feed Me notes that the founder-as-influencer formula — “I had a problem → no one solved it → I solved it → you should buy it” — is starting to feel exhausted. The next move may be a retreat from building in public, or a migration to paywalled founder content. ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "A law that makes private sex public business.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " 404 Media reports that a new UK pornography law reaches into consensual, privately recorded kink, while platforms have begun removing creators’ work at scale — sometimes without clear communication or a clear violation. ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "The tiny return of ownership.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " Radhika Jones’s defense of the DVD player, via Feed Me, lands as a small anti-streaming manifesto: owning a movie at home can still feel like “a tangible joy” and an investment in future happiness. ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "heading_2",
+          "runs": [
+            {
+              "text": "Food & places",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Soup with a clever swap.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " NYT Cooking’s avgolemono replaces the traditional rice with store-bought gnocchi, then uses tempered egg yolks, lemon, rotisserie chicken, dill, and stock to get to a silky, bright, 20-minute dinner. ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Pad prik king, the “bajillion times” stir-fry.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " Red curry paste, oyster sauce, garlic, sugar, lime leaves, chicken, and green beans make a salty-sweet dry curry; tofu or ground turkey are reader-approved substitutions. ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Sexy chicken is now a category.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " Feed Me’s restaurant forecast says large-format chicken is stepping into the old “steak for two” slot — but to qualify as sexy chicken, it needs ambiance and booze. The practical reservation trick: try 4 p.m., arrive late, or take a solo bar seat. ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "A new West Village room, with excellent duck.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " Robert Sietsema’s first look at Daniel Humm’s restaurant in the old En space finds a more playful room, spectacular tagliatelle with king crab, and a standout duck au poivre with green peppercorn demi-glace and stewed prunes. ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "heading_2",
+          "runs": [
+            {
+              "text": "NYC this week",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Wellness as nightlife:",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " Cul de Sac’s sauna village is open at Domino Park, with $25 sessions and a promise that wellness should be a right, not a luxury. ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Best oddball plan:",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " the Krampus Market at Industry City, with taxidermy, dark scents, vintage books, handmade jewelry, and other gifts for people who do not want a normal holiday market. ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Best high-low weekend:",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " Neue Galerie’s 25th-anniversary masterworks exhibition, a free Friday night at the Whitney, a Sichuan cookbook club, or New York Bagelfest at Citi Field. ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Best conversation:",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " Sherry Turkle on artificial intimacy, Maya Lin on art and memory, or a panel on why outrage goes viral. ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "heading_2",
+          "runs": [
+            {
+              "text": "Internet oddities",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "The oldest direct evidence of psychoactive cannabis use: more than 1,400 seeds and THC in preserved hair from a 2,800-year-old Siberian tomb. ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "OrbitalWiki turns the satellites overhead into a real-time musical instrument, playing one note whenever a tracked satellite reaches its highest point in your sky. ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "“Quantum nose jobs” and bacterial fabric pigment appeared in WHAT’S ANU’s trend radar alongside an alt-TV network built from the Internet Archive and a feed designed to encourage uplifting content. ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "heading_2",
+          "runs": [
+            {
+              "text": "Ideas to steal",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Make the coat the outfit when you are doing a holiday-party circuit.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Try dinner at 4 p.m.; the sun sets before 5 anyway.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Replace one algorithmic evening with an offline pod, a sauna, a reading, or a solo bar seat.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Keep frozen lime leaves in the freezer. They are small, fragrant insurance against boring weeknight food. ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "heading_2",
+          "runs": [
+            {
+              "text": "One-liners",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "“No one’s famous, but everyone’s a celebrity.” ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "If the internet is becoming television, dinner can still be a place.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "The future may be synthetic, but the best newsletter advice today was: add lemon, dill, and a little more time with actual people.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        }
+      ],
+      "publishedAt": "2026-11-09T22:08:00Z",
+      "links": []
     }
   ]
 }
