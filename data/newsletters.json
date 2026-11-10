@@ -257188,6 +257188,1745 @@
       ],
       "publishedAt": "2026-11-09T22:08:00Z",
       "links": []
+    },
+    {
+      "id": "digest-4148153c-8a3e-8122-b7a8-e831ca57d095",
+      "channel": "newsletters",
+      "source": "notion",
+      "kind": "Agent-written digest",
+      "domain": "Daily newsletter digest",
+      "title": "Huang's spy scandal, seed-oil-free snacks hit $1 billion, NASA's Swift satellite falls to Earth - Tuesday, November 10, 2026",
+      "url": "",
+      "description": "Tuesday, November 10, 2026 - Morning Edition",
+      "body": "Tuesday, November 10, 2026 - Morning Edition\n\nToday's Numbers\n\n• $1 billion: the amount Americans are now ready to spend on packaged food labeled seed-oil free. Seed-oil-free products gained 72% year over year, and seed-oil-free salty snacks jumped 87%, while unlabeled products grew just 2.9%. The science does not back the health panic, but PepsiCo and ConAgra are switching to olive and avocado oil anyway.\n\n• 3,200 pounds: the weight of NASA's Swift Observatory, expected to reenter Earth's atmosphere later this week. The reentry zone covers parts of Africa, Australia, Southeast Asia, and South America.\n\n• 175°F: the temperature hackers remotely set French supermarket refrigerators to in October, spoiling tens of millions of euros worth of food and starting at least 20 fires. French authorities blamed Iran for the attack, which hit several European countries.\n\n• $6 billion: the savings Skydance promised Wall Street after the Warner Bros. Discovery merger, and the reason behind buyout offers at CNN and CBS News. Staffers who accept leave December 4, and the offers may have worked a little too well.\n\n• 700: the number of readers who answered the last \"What Happened Last Week?\" survey in 2021. Five years later, Sham Jaff is asking again, and the answers feed both the newsletter and her research as a Journalist Fellow at Oxford's Reuters Institute.\n\nQuotes of the Day\n\n• \"If you're mentally well enough to handle its consequences, you don't need its spoils.\" (Haley Nahman, on the paradox of fame)\n\n• \"It's saying 'I'm here at the restaurant. It's my number one priority.'\" (Will Guidara, on why solo diners deserve the best table)\n\n• \"We've spent all this time worrying about AI cybersecurity risks when our true vulnerabilities come from human frailty.\" (Luke Kawa, Entrypoint, on the Jensen Huang scandal)\n\nAI & The Machines\n\nNvidia's CEO admitted to an affair with a suspected Chinese spy, and the board opened an investigation. Jensen Huang said Sunday he had an extramarital affair with Alice Huang, also known as Huang Le, CEO of Singapore data center firm Megaspeed and a massive buyer of Nvidia chips. US officials concluded she is a Chinese intelligence asset who helped China evade limits on importing high-powered AI chips. Nvidia's board says it does not believe national security or its intellectual property were compromised, but the market noticed anyway: Nvidia fell about 4.5% Monday while the PHLX Semiconductor index gained almost 7%. (Sherwood)\n\nGoogle DeepMind used a new AI tool to formally prove the Signal Protocol is secure. Researchers verified that the encryption protocol protecting billions of messages actually works as intended, which is harder than it sounds. Their stretch goal is to do the same for all the software in the world. (WIRED)\n\nA renegade crew called the abliterators is flooding the internet with AI models that never say no. They strip the guardrails off chatbots and release them into the wild, which makes it easier for people to improve their cyberdefenses or build a bomb. WIRED frames it as a test of whether safety rules can survive open source. (WIRED)\n\nMoney & Power\n\nThe Sun Belt is entering its fifth migration phase since 2008, and the midterms just gave it a new story. Conor Sen traces the arc from generationally cheap post-crash housing, through the Amazon HQ2 bakeoff and the pandemic frenzy, to the hangover of falling rents and slower migration since 2022. The fundamentals have quietly improved, with falling prices, steady jobs, and rising wages, and now the political vibe shift gives the region a fresh pitch for 2027. Arizona, Texas, Georgia, and North Carolina together accounted for nearly 30% of all US building permits in 2025. (The Housing Frame)\n\nTexas went blue, and the new Democratic governor wants to kill the $1 billion voucher program on day one. Gov.-elect Gina Hinojosa promised to fire education commissioner Mike Morath and end the program that gives families around $10,000 per child for private school. Kelsey Piper argues Democrats should not just roll back Republican education policy but build a pluralistic alternative, since only 17% of voucher families actually transferred from public schools. (The Argument)\n\nThe Culture\n\nEating alone at a restaurant is one of life's great pleasures, and New York knows it. Keith McNally mandates that solo diners at his restaurants get looked after, often with a glass of bubbles on the house, while London's Scott's greeted one with thinly veiled repulsion. Will Guidara calls a table for one a compliment, and the numbers back him up: solo dining at NYC restaurants has been on the rise. (Why is this interesting?)\n\nRoss Douthat interviewed Donald Trump for 60 Minutes, and Trump stayed for the whole hour. Douthat asked short, researched questions without sycophancy or open hostility, and Trump never called him a disgrace or walked out, which he did during two previous appearances on the show. Pirate Wires credits the revamp under Bari Weiss, though it also calls Douthat's employer an Ellison mouthpiece, so take the praise with a grain of salt. (Pirate Wires)\n\nQuick Hits & Curiosities\n\n• YouTube streaming data is back on the Billboard charts, ending a major disagreement between the platform and the chartmaker. (TechCrunch)\n\n• Paraguay's president was removed just three days after a bank froze millions of accounts. (What Happened Last Week?)\n\n• A UN report says the UAE sent Colombian mercenaries to Sudan. (What Happened Last Week?)\n\n• AI modders are taking video games back from corporatized hell, rewriting games the studios will not fix. (Pirate Wires)\n\n• In China, a subculture of \"spirited lads\" and \"spirited girls\" is forming among poor young people who feel left behind by the economy. (Bloomberg)",
+      "blocks": [
+        {
+          "type": "heading_1",
+          "runs": [
+            {
+              "text": "Tuesday, November 10, 2026 - Morning Edition",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Today's Numbers",
+              "url": "",
+              "bold": true,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "$1 billion",
+              "url": "https://www.bloomberg.com/news/articles/2026-11-09/seed-oil-backlash-spurs-1-billion-market-for-snack-food-alternatives",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": ": the amount Americans are now ready to spend on packaged food labeled seed-oil free. Seed-oil-free products gained 72% year over year, and seed-oil-free salty snacks jumped 87%, while unlabeled products grew just 2.9%. The science does not back the health panic, but PepsiCo and ConAgra are switching to olive and avocado oil anyway.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "3,200 pounds",
+              "url": "https://www.wired.com/story/nasas-swift-observatory-is-falling-to-earth-heres-what-to-know-about-the-impending-impact/",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": ": the weight of NASA's Swift Observatory, expected to reenter Earth's atmosphere later this week. The reentry zone covers parts of Africa, Australia, Southeast Asia, and South America.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "175°F",
+              "url": "https://www.ft.com/content/176ad787-59af-4900-9efc-8b6f9a247255",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": ": the temperature hackers remotely set French supermarket refrigerators to in October, spoiling tens of millions of euros worth of food and starting at least 20 fires. French authorities blamed Iran for the attack, which hit several European countries.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "$6 billion",
+              "url": "https://www.status.news/",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": ": the savings Skydance promised Wall Street after the Warner Bros. Discovery merger, and the reason behind buyout offers at CNN and CBS News. Staffers who accept leave December 4, and the offers may have worked a little too well.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "700",
+              "url": "https://gishty.com/",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": ": the number of readers who answered the last \"What Happened Last Week?\" survey in 2021. Five years later, Sham Jaff is asking again, and the answers feed both the newsletter and her research as a Journalist Fellow at Oxford's Reuters Institute.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Quotes of the Day",
+              "url": "",
+              "bold": true,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "\"If you're mentally well enough to handle its consequences, you don't need its spoils.\" (Haley Nahman, on the paradox of fame)",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "\"It's saying 'I'm here at the restaurant. It's my number one priority.'\" (Will Guidara, on why solo diners deserve the best table)",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "\"We've spent all this time worrying about AI cybersecurity risks when our true vulnerabilities come from human frailty.\" (Luke Kawa, Entrypoint, on the Jensen Huang scandal)",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "AI & The Machines",
+              "url": "",
+              "bold": true,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Nvidia's CEO admitted to an affair with a suspected Chinese spy, and the board opened an investigation.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " Jensen Huang said Sunday he had an extramarital affair with Alice Huang, also known as Huang Le, CEO of Singapore data center firm Megaspeed and a massive buyer of Nvidia chips. US officials concluded she is a Chinese intelligence asset who helped China evade limits on importing high-powered AI chips. Nvidia's board says it does not believe national security or its intellectual property were compromised, but the market noticed anyway: Nvidia fell about 4.5% Monday while the PHLX Semiconductor index gained almost 7%. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Sherwood",
+              "url": "https://sherwood.news/markets/nvidia-hits-a-honeypothole/",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Google DeepMind used a new AI tool to formally prove the Signal Protocol is secure.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " Researchers verified that the encryption protocol protecting billions of messages actually works as intended, which is harder than it sounds. Their stretch goal is to do the same for all the software in the world. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "WIRED",
+              "url": "https://www.wired.com/story/a-new-ai-tool-from-google-deepmind-formally-verified-the-signal-protocol/",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "A renegade crew called the abliterators is flooding the internet with AI models that never say no.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " They strip the guardrails off chatbots and release them into the wild, which makes it easier for people to improve their cyberdefenses or build a bomb. WIRED frames it as a test of whether safety rules can survive open source. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "WIRED",
+              "url": "https://www.wired.com/story/tear-down-those-guardrails-meet-the-renegades-freeing-chatbots-from-corporate-enslavers/",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Money & Power",
+              "url": "",
+              "bold": true,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "The Sun Belt is entering its fifth migration phase since 2008, and the midterms just gave it a new story.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " Conor Sen traces the arc from generationally cheap post-crash housing, through the Amazon HQ2 bakeoff and the pandemic frenzy, to the hangover of falling rents and slower migration since 2022. The fundamentals have quietly improved, with falling prices, steady jobs, and rising wages, and now the political vibe shift gives the region a fresh pitch for 2027. Arizona, Texas, Georgia, and North Carolina together accounted for nearly 30% of all US building permits in 2025. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "The Housing Frame",
+              "url": "https://conorsen.substack.com/p/the-sun-belts-upcoming-fifth-post",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Texas went blue, and the new Democratic governor wants to kill the $1 billion voucher program on day one.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " Gov.-elect Gina Hinojosa promised to fire education commissioner Mike Morath and end the program that gives families around $10,000 per child for private school. Kelsey Piper argues Democrats should not just roll back Republican education policy but build a pluralistic alternative, since only 17% of voucher families actually transferred from public schools. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "The Argument",
+              "url": "https://www.theargumentmag.com/p/should-texas-dems-throw-out-the-bible",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "The Culture",
+              "url": "",
+              "bold": true,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Eating alone at a restaurant is one of life's great pleasures, and New York knows it.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " Keith McNally mandates that solo diners at his restaurants get looked after, often with a glass of bubbles on the house, while London's Scott's greeted one with thinly veiled repulsion. Will Guidara calls a table for one a compliment, and the numbers back him up: solo dining at NYC restaurants has been on the rise. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Why is this interesting?",
+              "url": "https://www.whyisthisinteresting.com/p/the-solo-diner-edition-bdc",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Ross Douthat interviewed Donald Trump for 60 Minutes, and Trump stayed for the whole hour.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " Douthat asked short, researched questions without sycophancy or open hostility, and Trump never called him a disgrace or walked out, which he did during two previous appearances on the show. Pirate Wires credits the revamp under Bari Weiss, though it also calls Douthat's employer an Ellison mouthpiece, so take the praise with a grain of salt. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Pirate Wires",
+              "url": "https://www.piratewires.com/",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Quick Hits & Curiosities",
+              "url": "",
+              "bold": true,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "YouTube streaming data is back on the Billboard charts, ending a major disagreement between the platform and the chartmaker. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "TechCrunch",
+              "url": "https://techcrunch.com/2026/11/09/youtube-streaming-data-returns-to-billboard-charts-ending-major-disagreement/",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Paraguay's president was removed just three days after a bank froze millions of accounts. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "What Happened Last Week?",
+              "url": "https://gishty.com/",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "A UN report says the UAE sent Colombian mercenaries to Sudan. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "What Happened Last Week?",
+              "url": "https://gishty.com/",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "AI modders are taking video games back from corporatized hell, rewriting games the studios will not fix. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Pirate Wires",
+              "url": "https://www.piratewires.com/",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "In China, a subculture of \"spirited lads\" and \"spirited girls\" is forming among poor young people who feel left behind by the economy. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Bloomberg",
+              "url": "https://www.bloomberg.com/news/features/2026-11-09/china-s-economy-boom-also-gave-birth-to-a-lost-generation",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        }
+      ],
+      "publishedAt": "2026-11-10T13:00:00Z",
+      "links": [
+        {
+          "title": "$1 billion",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-09/seed-oil-backlash-spurs-1-billion-market-for-snack-food-alternatives"
+        },
+        {
+          "title": "3,200 pounds",
+          "url": "https://www.wired.com/story/nasas-swift-observatory-is-falling-to-earth-heres-what-to-know-about-the-impending-impact/"
+        },
+        {
+          "title": "175°F",
+          "url": "https://www.ft.com/content/176ad787-59af-4900-9efc-8b6f9a247255"
+        },
+        {
+          "title": "$6 billion",
+          "url": "https://www.status.news/"
+        },
+        {
+          "title": "What Happened Last Week?",
+          "url": "https://gishty.com/"
+        },
+        {
+          "title": "Sherwood",
+          "url": "https://sherwood.news/markets/nvidia-hits-a-honeypothole/"
+        },
+        {
+          "title": "WIRED",
+          "url": "https://www.wired.com/story/a-new-ai-tool-from-google-deepmind-formally-verified-the-signal-protocol/"
+        },
+        {
+          "title": "WIRED",
+          "url": "https://www.wired.com/story/tear-down-those-guardrails-meet-the-renegades-freeing-chatbots-from-corporate-enslavers/"
+        },
+        {
+          "title": "The Housing Frame",
+          "url": "https://conorsen.substack.com/p/the-sun-belts-upcoming-fifth-post"
+        },
+        {
+          "title": "The Argument",
+          "url": "https://www.theargumentmag.com/p/should-texas-dems-throw-out-the-bible"
+        },
+        {
+          "title": "Why is this interesting?",
+          "url": "https://www.whyisthisinteresting.com/p/the-solo-diner-edition-bdc"
+        },
+        {
+          "title": "Pirate Wires",
+          "url": "https://www.piratewires.com/"
+        },
+        {
+          "title": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/09/youtube-streaming-data-returns-to-billboard-charts-ending-major-disagreement/"
+        },
+        {
+          "title": "Bloomberg",
+          "url": "https://www.bloomberg.com/news/features/2026-11-09/china-s-economy-boom-also-gave-birth-to-a-lost-generation"
+        }
+      ],
+      "versions": {
+        "morning": {
+          "body": "Tuesday, November 10, 2026 - Morning Edition\n\nToday's Numbers\n\n• $1 billion: the amount Americans are now ready to spend on packaged food labeled seed-oil free. Seed-oil-free products gained 72% year over year, and seed-oil-free salty snacks jumped 87%, while unlabeled products grew just 2.9%. The science does not back the health panic, but PepsiCo and ConAgra are switching to olive and avocado oil anyway.\n\n• 3,200 pounds: the weight of NASA's Swift Observatory, expected to reenter Earth's atmosphere later this week. The reentry zone covers parts of Africa, Australia, Southeast Asia, and South America.\n\n• 175°F: the temperature hackers remotely set French supermarket refrigerators to in October, spoiling tens of millions of euros worth of food and starting at least 20 fires. French authorities blamed Iran for the attack, which hit several European countries.\n\n• $6 billion: the savings Skydance promised Wall Street after the Warner Bros. Discovery merger, and the reason behind buyout offers at CNN and CBS News. Staffers who accept leave December 4, and the offers may have worked a little too well.\n\n• 700: the number of readers who answered the last \"What Happened Last Week?\" survey in 2021. Five years later, Sham Jaff is asking again, and the answers feed both the newsletter and her research as a Journalist Fellow at Oxford's Reuters Institute.\n\nQuotes of the Day\n\n• \"If you're mentally well enough to handle its consequences, you don't need its spoils.\" (Haley Nahman, on the paradox of fame)\n\n• \"It's saying 'I'm here at the restaurant. It's my number one priority.'\" (Will Guidara, on why solo diners deserve the best table)\n\n• \"We've spent all this time worrying about AI cybersecurity risks when our true vulnerabilities come from human frailty.\" (Luke Kawa, Entrypoint, on the Jensen Huang scandal)\n\nAI & The Machines\n\nNvidia's CEO admitted to an affair with a suspected Chinese spy, and the board opened an investigation. Jensen Huang said Sunday he had an extramarital affair with Alice Huang, also known as Huang Le, CEO of Singapore data center firm Megaspeed and a massive buyer of Nvidia chips. US officials concluded she is a Chinese intelligence asset who helped China evade limits on importing high-powered AI chips. Nvidia's board says it does not believe national security or its intellectual property were compromised, but the market noticed anyway: Nvidia fell about 4.5% Monday while the PHLX Semiconductor index gained almost 7%. (Sherwood)\n\nGoogle DeepMind used a new AI tool to formally prove the Signal Protocol is secure. Researchers verified that the encryption protocol protecting billions of messages actually works as intended, which is harder than it sounds. Their stretch goal is to do the same for all the software in the world. (WIRED)\n\nA renegade crew called the abliterators is flooding the internet with AI models that never say no. They strip the guardrails off chatbots and release them into the wild, which makes it easier for people to improve their cyberdefenses or build a bomb. WIRED frames it as a test of whether safety rules can survive open source. (WIRED)\n\nMoney & Power\n\nThe Sun Belt is entering its fifth migration phase since 2008, and the midterms just gave it a new story. Conor Sen traces the arc from generationally cheap post-crash housing, through the Amazon HQ2 bakeoff and the pandemic frenzy, to the hangover of falling rents and slower migration since 2022. The fundamentals have quietly improved, with falling prices, steady jobs, and rising wages, and now the political vibe shift gives the region a fresh pitch for 2027. Arizona, Texas, Georgia, and North Carolina together accounted for nearly 30% of all US building permits in 2025. (The Housing Frame)\n\nTexas went blue, and the new Democratic governor wants to kill the $1 billion voucher program on day one. Gov.-elect Gina Hinojosa promised to fire education commissioner Mike Morath and end the program that gives families around $10,000 per child for private school. Kelsey Piper argues Democrats should not just roll back Republican education policy but build a pluralistic alternative, since only 17% of voucher families actually transferred from public schools. (The Argument)\n\nThe Culture\n\nEating alone at a restaurant is one of life's great pleasures, and New York knows it. Keith McNally mandates that solo diners at his restaurants get looked after, often with a glass of bubbles on the house, while London's Scott's greeted one with thinly veiled repulsion. Will Guidara calls a table for one a compliment, and the numbers back him up: solo dining at NYC restaurants has been on the rise. (Why is this interesting?)\n\nRoss Douthat interviewed Donald Trump for 60 Minutes, and Trump stayed for the whole hour. Douthat asked short, researched questions without sycophancy or open hostility, and Trump never called him a disgrace or walked out, which he did during two previous appearances on the show. Pirate Wires credits the revamp under Bari Weiss, though it also calls Douthat's employer an Ellison mouthpiece, so take the praise with a grain of salt. (Pirate Wires)\n\nQuick Hits & Curiosities\n\n• YouTube streaming data is back on the Billboard charts, ending a major disagreement between the platform and the chartmaker. (TechCrunch)\n\n• Paraguay's president was removed just three days after a bank froze millions of accounts. (What Happened Last Week?)\n\n• A UN report says the UAE sent Colombian mercenaries to Sudan. (What Happened Last Week?)\n\n• AI modders are taking video games back from corporatized hell, rewriting games the studios will not fix. (Pirate Wires)\n\n• In China, a subculture of \"spirited lads\" and \"spirited girls\" is forming among poor young people who feel left behind by the economy. (Bloomberg)",
+          "blocks": [
+            {
+              "type": "heading_1",
+              "runs": [
+                {
+                  "text": "Tuesday, November 10, 2026 - Morning Edition",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Today's Numbers",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "$1 billion",
+                  "url": "https://www.bloomberg.com/news/articles/2026-11-09/seed-oil-backlash-spurs-1-billion-market-for-snack-food-alternatives",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": the amount Americans are now ready to spend on packaged food labeled seed-oil free. Seed-oil-free products gained 72% year over year, and seed-oil-free salty snacks jumped 87%, while unlabeled products grew just 2.9%. The science does not back the health panic, but PepsiCo and ConAgra are switching to olive and avocado oil anyway.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "3,200 pounds",
+                  "url": "https://www.wired.com/story/nasas-swift-observatory-is-falling-to-earth-heres-what-to-know-about-the-impending-impact/",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": the weight of NASA's Swift Observatory, expected to reenter Earth's atmosphere later this week. The reentry zone covers parts of Africa, Australia, Southeast Asia, and South America.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "175°F",
+                  "url": "https://www.ft.com/content/176ad787-59af-4900-9efc-8b6f9a247255",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": the temperature hackers remotely set French supermarket refrigerators to in October, spoiling tens of millions of euros worth of food and starting at least 20 fires. French authorities blamed Iran for the attack, which hit several European countries.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "$6 billion",
+                  "url": "https://www.status.news/",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": the savings Skydance promised Wall Street after the Warner Bros. Discovery merger, and the reason behind buyout offers at CNN and CBS News. Staffers who accept leave December 4, and the offers may have worked a little too well.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "700",
+                  "url": "https://gishty.com/",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": the number of readers who answered the last \"What Happened Last Week?\" survey in 2021. Five years later, Sham Jaff is asking again, and the answers feed both the newsletter and her research as a Journalist Fellow at Oxford's Reuters Institute.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Quotes of the Day",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "\"If you're mentally well enough to handle its consequences, you don't need its spoils.\" (Haley Nahman, on the paradox of fame)",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "\"It's saying 'I'm here at the restaurant. It's my number one priority.'\" (Will Guidara, on why solo diners deserve the best table)",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "\"We've spent all this time worrying about AI cybersecurity risks when our true vulnerabilities come from human frailty.\" (Luke Kawa, Entrypoint, on the Jensen Huang scandal)",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "AI & The Machines",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Nvidia's CEO admitted to an affair with a suspected Chinese spy, and the board opened an investigation.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " Jensen Huang said Sunday he had an extramarital affair with Alice Huang, also known as Huang Le, CEO of Singapore data center firm Megaspeed and a massive buyer of Nvidia chips. US officials concluded she is a Chinese intelligence asset who helped China evade limits on importing high-powered AI chips. Nvidia's board says it does not believe national security or its intellectual property were compromised, but the market noticed anyway: Nvidia fell about 4.5% Monday while the PHLX Semiconductor index gained almost 7%. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Sherwood",
+                  "url": "https://sherwood.news/markets/nvidia-hits-a-honeypothole/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Google DeepMind used a new AI tool to formally prove the Signal Protocol is secure.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " Researchers verified that the encryption protocol protecting billions of messages actually works as intended, which is harder than it sounds. Their stretch goal is to do the same for all the software in the world. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "WIRED",
+                  "url": "https://www.wired.com/story/a-new-ai-tool-from-google-deepmind-formally-verified-the-signal-protocol/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "A renegade crew called the abliterators is flooding the internet with AI models that never say no.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " They strip the guardrails off chatbots and release them into the wild, which makes it easier for people to improve their cyberdefenses or build a bomb. WIRED frames it as a test of whether safety rules can survive open source. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "WIRED",
+                  "url": "https://www.wired.com/story/tear-down-those-guardrails-meet-the-renegades-freeing-chatbots-from-corporate-enslavers/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Money & Power",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "The Sun Belt is entering its fifth migration phase since 2008, and the midterms just gave it a new story.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " Conor Sen traces the arc from generationally cheap post-crash housing, through the Amazon HQ2 bakeoff and the pandemic frenzy, to the hangover of falling rents and slower migration since 2022. The fundamentals have quietly improved, with falling prices, steady jobs, and rising wages, and now the political vibe shift gives the region a fresh pitch for 2027. Arizona, Texas, Georgia, and North Carolina together accounted for nearly 30% of all US building permits in 2025. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "The Housing Frame",
+                  "url": "https://conorsen.substack.com/p/the-sun-belts-upcoming-fifth-post",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Texas went blue, and the new Democratic governor wants to kill the $1 billion voucher program on day one.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " Gov.-elect Gina Hinojosa promised to fire education commissioner Mike Morath and end the program that gives families around $10,000 per child for private school. Kelsey Piper argues Democrats should not just roll back Republican education policy but build a pluralistic alternative, since only 17% of voucher families actually transferred from public schools. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "The Argument",
+                  "url": "https://www.theargumentmag.com/p/should-texas-dems-throw-out-the-bible",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "The Culture",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Eating alone at a restaurant is one of life's great pleasures, and New York knows it.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " Keith McNally mandates that solo diners at his restaurants get looked after, often with a glass of bubbles on the house, while London's Scott's greeted one with thinly veiled repulsion. Will Guidara calls a table for one a compliment, and the numbers back him up: solo dining at NYC restaurants has been on the rise. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Why is this interesting?",
+                  "url": "https://www.whyisthisinteresting.com/p/the-solo-diner-edition-bdc",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Ross Douthat interviewed Donald Trump for 60 Minutes, and Trump stayed for the whole hour.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " Douthat asked short, researched questions without sycophancy or open hostility, and Trump never called him a disgrace or walked out, which he did during two previous appearances on the show. Pirate Wires credits the revamp under Bari Weiss, though it also calls Douthat's employer an Ellison mouthpiece, so take the praise with a grain of salt. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Pirate Wires",
+                  "url": "https://www.piratewires.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Quick Hits & Curiosities",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "YouTube streaming data is back on the Billboard charts, ending a major disagreement between the platform and the chartmaker. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "TechCrunch",
+                  "url": "https://techcrunch.com/2026/11/09/youtube-streaming-data-returns-to-billboard-charts-ending-major-disagreement/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Paraguay's president was removed just three days after a bank froze millions of accounts. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "What Happened Last Week?",
+                  "url": "https://gishty.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "A UN report says the UAE sent Colombian mercenaries to Sudan. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "What Happened Last Week?",
+                  "url": "https://gishty.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "AI modders are taking video games back from corporatized hell, rewriting games the studios will not fix. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Pirate Wires",
+                  "url": "https://www.piratewires.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "In China, a subculture of \"spirited lads\" and \"spirited girls\" is forming among poor young people who feel left behind by the economy. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Bloomberg",
+                  "url": "https://www.bloomberg.com/news/features/2026-11-09/china-s-economy-boom-also-gave-birth-to-a-lost-generation",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            }
+          ],
+          "links": [
+            {
+              "title": "$1 billion",
+              "url": "https://www.bloomberg.com/news/articles/2026-11-09/seed-oil-backlash-spurs-1-billion-market-for-snack-food-alternatives"
+            },
+            {
+              "title": "3,200 pounds",
+              "url": "https://www.wired.com/story/nasas-swift-observatory-is-falling-to-earth-heres-what-to-know-about-the-impending-impact/"
+            },
+            {
+              "title": "175°F",
+              "url": "https://www.ft.com/content/176ad787-59af-4900-9efc-8b6f9a247255"
+            },
+            {
+              "title": "$6 billion",
+              "url": "https://www.status.news/"
+            },
+            {
+              "title": "What Happened Last Week?",
+              "url": "https://gishty.com/"
+            },
+            {
+              "title": "Sherwood",
+              "url": "https://sherwood.news/markets/nvidia-hits-a-honeypothole/"
+            },
+            {
+              "title": "WIRED",
+              "url": "https://www.wired.com/story/a-new-ai-tool-from-google-deepmind-formally-verified-the-signal-protocol/"
+            },
+            {
+              "title": "WIRED",
+              "url": "https://www.wired.com/story/tear-down-those-guardrails-meet-the-renegades-freeing-chatbots-from-corporate-enslavers/"
+            },
+            {
+              "title": "The Housing Frame",
+              "url": "https://conorsen.substack.com/p/the-sun-belts-upcoming-fifth-post"
+            },
+            {
+              "title": "The Argument",
+              "url": "https://www.theargumentmag.com/p/should-texas-dems-throw-out-the-bible"
+            },
+            {
+              "title": "Why is this interesting?",
+              "url": "https://www.whyisthisinteresting.com/p/the-solo-diner-edition-bdc"
+            },
+            {
+              "title": "Pirate Wires",
+              "url": "https://www.piratewires.com/"
+            },
+            {
+              "title": "TechCrunch",
+              "url": "https://techcrunch.com/2026/11/09/youtube-streaming-data-returns-to-billboard-charts-ending-major-disagreement/"
+            },
+            {
+              "title": "Bloomberg",
+              "url": "https://www.bloomberg.com/news/features/2026-11-09/china-s-economy-boom-also-gave-birth-to-a-lost-generation"
+            }
+          ]
+        },
+        "full": {
+          "body": "Tuesday, November 10, 2026 - Morning Edition\n\nToday's Numbers\n\n• $1 billion: the amount Americans are now ready to spend on packaged food labeled seed-oil free. Seed-oil-free products gained 72% year over year, and seed-oil-free salty snacks jumped 87%, while unlabeled products grew just 2.9%. The science does not back the health panic, but PepsiCo and ConAgra are switching to olive and avocado oil anyway.\n\n• 3,200 pounds: the weight of NASA's Swift Observatory, expected to reenter Earth's atmosphere later this week. The reentry zone covers parts of Africa, Australia, Southeast Asia, and South America.\n\n• 175°F: the temperature hackers remotely set French supermarket refrigerators to in October, spoiling tens of millions of euros worth of food and starting at least 20 fires. French authorities blamed Iran for the attack, which hit several European countries.\n\n• $6 billion: the savings Skydance promised Wall Street after the Warner Bros. Discovery merger, and the reason behind buyout offers at CNN and CBS News. Staffers who accept leave December 4, and the offers may have worked a little too well.\n\n• 700: the number of readers who answered the last \"What Happened Last Week?\" survey in 2021. Five years later, Sham Jaff is asking again, and the answers feed both the newsletter and her research as a Journalist Fellow at Oxford's Reuters Institute.\n\nQuotes of the Day\n\n• \"If you're mentally well enough to handle its consequences, you don't need its spoils.\" (Haley Nahman, on the paradox of fame)\n\n• \"It's saying 'I'm here at the restaurant. It's my number one priority.'\" (Will Guidara, on why solo diners deserve the best table)\n\n• \"We've spent all this time worrying about AI cybersecurity risks when our true vulnerabilities come from human frailty.\" (Luke Kawa, Entrypoint, on the Jensen Huang scandal)\n\nAI & The Machines\n\nNvidia's CEO admitted to an affair with a suspected Chinese spy, and the board opened an investigation. Jensen Huang said Sunday he had an extramarital affair with Alice Huang, also known as Huang Le, CEO of Singapore data center firm Megaspeed and a massive buyer of Nvidia chips. US officials concluded she is a Chinese intelligence asset who helped China evade limits on importing high-powered AI chips. Nvidia's board says it does not believe national security or its intellectual property were compromised, but the market noticed anyway: Nvidia fell about 4.5% Monday while the PHLX Semiconductor index gained almost 7%. (Sherwood)\n\nGoogle DeepMind used a new AI tool to formally prove the Signal Protocol is secure. Researchers verified that the encryption protocol protecting billions of messages actually works as intended, which is harder than it sounds. Their stretch goal is to do the same for all the software in the world. (WIRED)\n\nA renegade crew called the abliterators is flooding the internet with AI models that never say no. They strip the guardrails off chatbots and release them into the wild, which makes it easier for people to improve their cyberdefenses or build a bomb. WIRED frames it as a test of whether safety rules can survive open source. (WIRED)\n\nMoney & Power\n\nThe Sun Belt is entering its fifth migration phase since 2008, and the midterms just gave it a new story. Conor Sen traces the arc from generationally cheap post-crash housing, through the Amazon HQ2 bakeoff and the pandemic frenzy, to the hangover of falling rents and slower migration since 2022. The fundamentals have quietly improved, with falling prices, steady jobs, and rising wages, and now the political vibe shift gives the region a fresh pitch for 2027. Arizona, Texas, Georgia, and North Carolina together accounted for nearly 30% of all US building permits in 2025. (The Housing Frame)\n\nTexas went blue, and the new Democratic governor wants to kill the $1 billion voucher program on day one. Gov.-elect Gina Hinojosa promised to fire education commissioner Mike Morath and end the program that gives families around $10,000 per child for private school. Kelsey Piper argues Democrats should not just roll back Republican education policy but build a pluralistic alternative, since only 17% of voucher families actually transferred from public schools. (The Argument)\n\nThe Culture\n\nEating alone at a restaurant is one of life's great pleasures, and New York knows it. Keith McNally mandates that solo diners at his restaurants get looked after, often with a glass of bubbles on the house, while London's Scott's greeted one with thinly veiled repulsion. Will Guidara calls a table for one a compliment, and the numbers back him up: solo dining at NYC restaurants has been on the rise. (Why is this interesting?)\n\nRoss Douthat interviewed Donald Trump for 60 Minutes, and Trump stayed for the whole hour. Douthat asked short, researched questions without sycophancy or open hostility, and Trump never called him a disgrace or walked out, which he did during two previous appearances on the show. Pirate Wires credits the revamp under Bari Weiss, though it also calls Douthat's employer an Ellison mouthpiece, so take the praise with a grain of salt. (Pirate Wires)\n\nQuick Hits & Curiosities\n\n• YouTube streaming data is back on the Billboard charts, ending a major disagreement between the platform and the chartmaker. (TechCrunch)\n\n• Paraguay's president was removed just three days after a bank froze millions of accounts. (What Happened Last Week?)\n\n• A UN report says the UAE sent Colombian mercenaries to Sudan. (What Happened Last Week?)\n\n• AI modders are taking video games back from corporatized hell, rewriting games the studios will not fix. (Pirate Wires)\n\n• In China, a subculture of \"spirited lads\" and \"spirited girls\" is forming among poor young people who feel left behind by the economy. (Bloomberg)",
+          "blocks": [
+            {
+              "type": "heading_1",
+              "runs": [
+                {
+                  "text": "Tuesday, November 10, 2026 - Morning Edition",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Today's Numbers",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "$1 billion",
+                  "url": "https://www.bloomberg.com/news/articles/2026-11-09/seed-oil-backlash-spurs-1-billion-market-for-snack-food-alternatives",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": the amount Americans are now ready to spend on packaged food labeled seed-oil free. Seed-oil-free products gained 72% year over year, and seed-oil-free salty snacks jumped 87%, while unlabeled products grew just 2.9%. The science does not back the health panic, but PepsiCo and ConAgra are switching to olive and avocado oil anyway.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "3,200 pounds",
+                  "url": "https://www.wired.com/story/nasas-swift-observatory-is-falling-to-earth-heres-what-to-know-about-the-impending-impact/",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": the weight of NASA's Swift Observatory, expected to reenter Earth's atmosphere later this week. The reentry zone covers parts of Africa, Australia, Southeast Asia, and South America.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "175°F",
+                  "url": "https://www.ft.com/content/176ad787-59af-4900-9efc-8b6f9a247255",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": the temperature hackers remotely set French supermarket refrigerators to in October, spoiling tens of millions of euros worth of food and starting at least 20 fires. French authorities blamed Iran for the attack, which hit several European countries.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "$6 billion",
+                  "url": "https://www.status.news/",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": the savings Skydance promised Wall Street after the Warner Bros. Discovery merger, and the reason behind buyout offers at CNN and CBS News. Staffers who accept leave December 4, and the offers may have worked a little too well.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "700",
+                  "url": "https://gishty.com/",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": the number of readers who answered the last \"What Happened Last Week?\" survey in 2021. Five years later, Sham Jaff is asking again, and the answers feed both the newsletter and her research as a Journalist Fellow at Oxford's Reuters Institute.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Quotes of the Day",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "\"If you're mentally well enough to handle its consequences, you don't need its spoils.\" (Haley Nahman, on the paradox of fame)",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "\"It's saying 'I'm here at the restaurant. It's my number one priority.'\" (Will Guidara, on why solo diners deserve the best table)",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "\"We've spent all this time worrying about AI cybersecurity risks when our true vulnerabilities come from human frailty.\" (Luke Kawa, Entrypoint, on the Jensen Huang scandal)",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "AI & The Machines",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Nvidia's CEO admitted to an affair with a suspected Chinese spy, and the board opened an investigation.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " Jensen Huang said Sunday he had an extramarital affair with Alice Huang, also known as Huang Le, CEO of Singapore data center firm Megaspeed and a massive buyer of Nvidia chips. US officials concluded she is a Chinese intelligence asset who helped China evade limits on importing high-powered AI chips. Nvidia's board says it does not believe national security or its intellectual property were compromised, but the market noticed anyway: Nvidia fell about 4.5% Monday while the PHLX Semiconductor index gained almost 7%. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Sherwood",
+                  "url": "https://sherwood.news/markets/nvidia-hits-a-honeypothole/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Google DeepMind used a new AI tool to formally prove the Signal Protocol is secure.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " Researchers verified that the encryption protocol protecting billions of messages actually works as intended, which is harder than it sounds. Their stretch goal is to do the same for all the software in the world. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "WIRED",
+                  "url": "https://www.wired.com/story/a-new-ai-tool-from-google-deepmind-formally-verified-the-signal-protocol/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "A renegade crew called the abliterators is flooding the internet with AI models that never say no.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " They strip the guardrails off chatbots and release them into the wild, which makes it easier for people to improve their cyberdefenses or build a bomb. WIRED frames it as a test of whether safety rules can survive open source. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "WIRED",
+                  "url": "https://www.wired.com/story/tear-down-those-guardrails-meet-the-renegades-freeing-chatbots-from-corporate-enslavers/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Money & Power",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "The Sun Belt is entering its fifth migration phase since 2008, and the midterms just gave it a new story.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " Conor Sen traces the arc from generationally cheap post-crash housing, through the Amazon HQ2 bakeoff and the pandemic frenzy, to the hangover of falling rents and slower migration since 2022. The fundamentals have quietly improved, with falling prices, steady jobs, and rising wages, and now the political vibe shift gives the region a fresh pitch for 2027. Arizona, Texas, Georgia, and North Carolina together accounted for nearly 30% of all US building permits in 2025. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "The Housing Frame",
+                  "url": "https://conorsen.substack.com/p/the-sun-belts-upcoming-fifth-post",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Texas went blue, and the new Democratic governor wants to kill the $1 billion voucher program on day one.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " Gov.-elect Gina Hinojosa promised to fire education commissioner Mike Morath and end the program that gives families around $10,000 per child for private school. Kelsey Piper argues Democrats should not just roll back Republican education policy but build a pluralistic alternative, since only 17% of voucher families actually transferred from public schools. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "The Argument",
+                  "url": "https://www.theargumentmag.com/p/should-texas-dems-throw-out-the-bible",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "The Culture",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Eating alone at a restaurant is one of life's great pleasures, and New York knows it.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " Keith McNally mandates that solo diners at his restaurants get looked after, often with a glass of bubbles on the house, while London's Scott's greeted one with thinly veiled repulsion. Will Guidara calls a table for one a compliment, and the numbers back him up: solo dining at NYC restaurants has been on the rise. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Why is this interesting?",
+                  "url": "https://www.whyisthisinteresting.com/p/the-solo-diner-edition-bdc",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Ross Douthat interviewed Donald Trump for 60 Minutes, and Trump stayed for the whole hour.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " Douthat asked short, researched questions without sycophancy or open hostility, and Trump never called him a disgrace or walked out, which he did during two previous appearances on the show. Pirate Wires credits the revamp under Bari Weiss, though it also calls Douthat's employer an Ellison mouthpiece, so take the praise with a grain of salt. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Pirate Wires",
+                  "url": "https://www.piratewires.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Quick Hits & Curiosities",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "YouTube streaming data is back on the Billboard charts, ending a major disagreement between the platform and the chartmaker. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "TechCrunch",
+                  "url": "https://techcrunch.com/2026/11/09/youtube-streaming-data-returns-to-billboard-charts-ending-major-disagreement/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Paraguay's president was removed just three days after a bank froze millions of accounts. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "What Happened Last Week?",
+                  "url": "https://gishty.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "A UN report says the UAE sent Colombian mercenaries to Sudan. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "What Happened Last Week?",
+                  "url": "https://gishty.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "AI modders are taking video games back from corporatized hell, rewriting games the studios will not fix. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Pirate Wires",
+                  "url": "https://www.piratewires.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "In China, a subculture of \"spirited lads\" and \"spirited girls\" is forming among poor young people who feel left behind by the economy. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Bloomberg",
+                  "url": "https://www.bloomberg.com/news/features/2026-11-09/china-s-economy-boom-also-gave-birth-to-a-lost-generation",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            }
+          ],
+          "links": [
+            {
+              "title": "$1 billion",
+              "url": "https://www.bloomberg.com/news/articles/2026-11-09/seed-oil-backlash-spurs-1-billion-market-for-snack-food-alternatives"
+            },
+            {
+              "title": "3,200 pounds",
+              "url": "https://www.wired.com/story/nasas-swift-observatory-is-falling-to-earth-heres-what-to-know-about-the-impending-impact/"
+            },
+            {
+              "title": "175°F",
+              "url": "https://www.ft.com/content/176ad787-59af-4900-9efc-8b6f9a247255"
+            },
+            {
+              "title": "$6 billion",
+              "url": "https://www.status.news/"
+            },
+            {
+              "title": "What Happened Last Week?",
+              "url": "https://gishty.com/"
+            },
+            {
+              "title": "Sherwood",
+              "url": "https://sherwood.news/markets/nvidia-hits-a-honeypothole/"
+            },
+            {
+              "title": "WIRED",
+              "url": "https://www.wired.com/story/a-new-ai-tool-from-google-deepmind-formally-verified-the-signal-protocol/"
+            },
+            {
+              "title": "WIRED",
+              "url": "https://www.wired.com/story/tear-down-those-guardrails-meet-the-renegades-freeing-chatbots-from-corporate-enslavers/"
+            },
+            {
+              "title": "The Housing Frame",
+              "url": "https://conorsen.substack.com/p/the-sun-belts-upcoming-fifth-post"
+            },
+            {
+              "title": "The Argument",
+              "url": "https://www.theargumentmag.com/p/should-texas-dems-throw-out-the-bible"
+            },
+            {
+              "title": "Why is this interesting?",
+              "url": "https://www.whyisthisinteresting.com/p/the-solo-diner-edition-bdc"
+            },
+            {
+              "title": "Pirate Wires",
+              "url": "https://www.piratewires.com/"
+            },
+            {
+              "title": "TechCrunch",
+              "url": "https://techcrunch.com/2026/11/09/youtube-streaming-data-returns-to-billboard-charts-ending-major-disagreement/"
+            },
+            {
+              "title": "Bloomberg",
+              "url": "https://www.bloomberg.com/news/features/2026-11-09/china-s-economy-boom-also-gave-birth-to-a-lost-generation"
+            }
+          ]
+        }
+      }
     }
   ]
 }
