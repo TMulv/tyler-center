@@ -175,7 +175,8 @@ def parse_rss(xml):
 
 
 def writing_archive_page(offset):
-    query = f'?sort=new&offset={offset}&limit=20'
+    # Substack now rejects offset=0 as an invalid value; the first page omits it.
+    query = f'?sort=new&offset={offset}&limit=20' if offset else '?sort=new&limit=20'
     try:
         return json.loads(fetch(WRITING_ARCHIVE_URL + query, headers=SUBSTACK_HEADERS))
     except SourceHTTPError as error:
