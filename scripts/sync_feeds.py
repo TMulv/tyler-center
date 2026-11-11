@@ -198,7 +198,7 @@ def collect_writing_archive(latest_only=False):
     while True:
         page = writing_archive_page(offset)
         if not isinstance(page, list):
-            detail = ', '.join(f'{k}={str(v)[:60]!r}' for k, v in list(page.items())[:6]) if isinstance(page, dict) else ''
+            detail = ', '.join(f'{k}={str(v)[:300]!r}' for k, v in list(page.items())[:6]) if isinstance(page, dict) else ''
             raise ValueError(f'Unexpected archive response ({type(page).__name__}: {detail})')
         if not page:
             if not records:
@@ -595,5 +595,5 @@ if __name__ == '__main__':
         print(f'::error::{args.source} sync failed ({error_summary(error)}); previous snapshot kept.', file=sys.stderr)
         if args.source == 'rss' and isinstance(error, ValueError):
             # Writing source data is public Substack metadata; safe to show why it was rejected.
-            print(f'::error::rss detail: {str(error)[:200]}', file=sys.stderr)
+            print(f'::error::rss detail: {str(error)[:500]}', file=sys.stderr)
         sys.exit(1)
