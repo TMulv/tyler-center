@@ -260955,6 +260955,443 @@
           ]
         }
       }
+    },
+    {
+      "id": "digest-f75989ea-72c1-422f-ac07-98541d4cfb7d",
+      "channel": "newsletters",
+      "source": "notion",
+      "kind": "Agent-written digest",
+      "domain": "Daily newsletter digest",
+      "title": "The Footie Negligee, the Frutiger Rebellion, and the Solo Table",
+      "url": "",
+      "description": "A day in which the internet got both stranger and more tactile: AI companies are trying to close the door on the one genuinely fun use of their models, young people are pining for neon fish tanks and Nintendo 64s, and restaurants are being asked to remember that one person is still a party.",
+      "body": "A day in which the internet got both stranger and more tactile: AI companies are trying to close the door on the one genuinely fun use of their models, young people are pining for neon fish tanks and Nintendo 64s, and restaurants are being asked to remember that one person is still a party.\n\nBest links\n\n• The coolest AI use case is being quietly fenced off. 404 Media reports that people using Claude and Codex to reverse-engineer their own hardware—unbricking abandoned devices, replacing spyware-heavy software, and putting new life into old electronics—are hitting guardrails and account restrictions. The likely next chapter: local, open-weight models become the workshop tools for people who want to own their stuff again.\n\n• The return of the friendly future. After School finds “Frutiger Aero”—green hills, neon blues, fishy soap bottles, transparent plastic, and the old promise that technology could be playful—back at a search high. The mood is less nostalgia than protest: physical, legible, recognizably human tech over an AI-shaped fog.\n\n• A better reason to save the media. In The Substack Post, Hamish McKenzie argues that journalism’s deepest job is not merely to serve democracy or entertain, but to help people communicate and understand one another across distance and time. A small story about World War II veterans, he writes, can do the same civic work as a much bigger exposé.\n\nIdeas to steal\n\n• Make a one-page pitch before doing six weeks of work. Feed Me goes inside Acquired’s research process: identify the one genuinely new mental model, build a bibliography, split the work, and don’t commit until you can see the “quintessence” of the episode. The show’s larger lesson is ruthless focus: its founders believe the timeless archive is better than chasing every format or current-event spike.\n\n• Treat “no party reporting” as the new “no photos.” Feed Me also notes the emerging etiquette problem of guests turning weddings and private events into newsletter material. The camera ban is no longer enough; the real request may soon be: please don’t publish the night.\n\n• The job-market dashboard is a warning label. Lenny’s Newsletter finds PM openings up 75% from their 2023 low, engineering demand nearly stalled, product-design openings down 28% year over year, and only 14% of open tech roles offering remote work. The sharpest signal: “AI” is now a baseline skill, while the work itself is concentrating back in the Bay Area.\n\nFood & places\n\n• The solo table is not a consolation prize. Why is this interesting? makes a persuasive case for treating the solo diner as a restaurant’s ideal guest: they are there for the food, they are paying attention, and they have made the restaurant their number-one plan. A glass of bubbles for the person eating alone is not a gimmick; it is hospitality in its purest form.\n\n• Tonight’s dinner: NYT Cooking has roasted broccoli over garlicky white beans, finished with chile-bright pistachio breadcrumbs. Thirty-five minutes, restaurant energy, no meat required.\n\n• A small domestic luxury: Parker Posey’s Perfectly Imperfect recommendations are vintage afghan blankets, little kitchen cups, a chainmail sponge for cast iron, homemade licorice-lemongrass-mint tea, and handmade wooden spoons. The common thread is not shopping; it is the pleasure of puttering.\n\nCulture, style & internet oddities\n\n• Feet are having a moment. Dinner Party declares “foot undies”—lace socks worn with pumps—the next step after heel-only sandals, transparent shoes, ankle chains, and toe rings. The barrier to entry is roughly $8 and one small secret.\n\n• Please stop outsourcing your restaurant personality to AI. Dinner Party reports that restaurants are seeing chatbot-written complaints, manipulative table requests, macro-counting menu scans, and AI wine recommendations. The newsletter’s position is correct: the sommelier should still be allowed to flirt with you.\n\n• A useful line from the culture desk: the young want Nintendo 64s, not Life360. It neatly captures the split between technology as a shared object of play and technology as an invisible parent hovering over every location.\n\nOne-liners\n\n• “An investment can be a daily object.” — a Louise Carmen leather-journal customer, via After School.\n\n• Acquired’s operating rule: understand why the world is arranged the way it is before telling people what to think.\n\n• The best restaurant is one that can entertain one person all by itself.\n\n• Feet are the new butts.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "A day in which the internet got both stranger and more tactile: AI companies are trying to close the door on the one genuinely fun use of their models, young people are pining for neon fish tanks and Nintendo 64s, and restaurants are being asked to remember that one person is still a party.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "heading_2",
+          "runs": [
+            {
+              "text": "Best links",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "The coolest AI use case is being quietly fenced off.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "404 Media",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": " reports that people using Claude and Codex to reverse-engineer their own hardware—unbricking abandoned devices, replacing spyware-heavy software, and putting new life into old electronics—are hitting guardrails and account restrictions. The likely next chapter: local, open-weight models become the workshop tools for people who want to own their stuff again.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "The return of the friendly future.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "After School",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": " finds “Frutiger Aero”—green hills, neon blues, fishy soap bottles, transparent plastic, and the old promise that technology could be playful—back at a search high. The mood is less nostalgia than protest: physical, legible, recognizably human tech over an AI-shaped fog.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "A better reason to save the media.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " In ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "The Substack Post",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ", Hamish McKenzie argues that journalism’s deepest job is not merely to serve democracy or entertain, but to help people communicate and understand one another across distance and time. A small story about World War II veterans, he writes, can do the same civic work as a much bigger exposé.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "heading_2",
+          "runs": [
+            {
+              "text": "Ideas to steal",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Make a one-page pitch before doing six weeks of work.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Feed Me",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": " goes inside Acquired’s research process: identify the one genuinely new mental model, build a bibliography, split the work, and don’t commit until you can see the “quintessence” of the episode. The show’s larger lesson is ruthless focus: its founders believe the timeless archive is better than chasing every format or current-event spike.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Treat “no party reporting” as the new “no photos.”",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " Feed Me also notes the emerging etiquette problem of guests turning weddings and private events into newsletter material. The camera ban is no longer enough; the real request may soon be: please don’t publish the night.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "The job-market dashboard is a warning label.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Lenny’s Newsletter",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": " finds PM openings up 75% from their 2023 low, engineering demand nearly stalled, product-design openings down 28% year over year, and only 14% of open tech roles offering remote work. The sharpest signal: “AI” is now a baseline skill, while the work itself is concentrating back in the Bay Area.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "heading_2",
+          "runs": [
+            {
+              "text": "Food & places",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "The solo table is not a consolation prize.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Why is this interesting?",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": " makes a persuasive case for treating the solo diner as a restaurant’s ideal guest: they are there for the food, they are paying attention, and they have made the restaurant their number-one plan. A glass of bubbles for the person eating alone is not a gimmick; it is hospitality in its purest form.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Tonight’s dinner:",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "NYT Cooking",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": " has roasted broccoli over garlicky white beans, finished with chile-bright pistachio breadcrumbs. Thirty-five minutes, restaurant energy, no meat required.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "A small domestic luxury:",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " Parker Posey’s ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Perfectly Imperfect",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": " recommendations are vintage afghan blankets, little kitchen cups, a chainmail sponge for cast iron, homemade licorice-lemongrass-mint tea, and handmade wooden spoons. The common thread is not shopping; it is the pleasure of puttering.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "heading_2",
+          "runs": [
+            {
+              "text": "Culture, style & internet oddities",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Feet are having a moment.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Dinner Party",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": " declares “foot undies”—lace socks worn with pumps—the next step after heel-only sandals, transparent shoes, ankle chains, and toe rings. The barrier to entry is roughly $8 and one small secret.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Please stop outsourcing your restaurant personality to AI.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " Dinner Party reports that restaurants are seeing chatbot-written complaints, manipulative table requests, macro-counting menu scans, and AI wine recommendations. The newsletter’s position is correct: the sommelier should still be allowed to flirt with you.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "A useful line from the culture desk:",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " the young want Nintendo 64s, not Life360. It neatly captures the split between technology as a shared object of play and technology as an invisible parent hovering over every location.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "heading_2",
+          "runs": [
+            {
+              "text": "One-liners",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "“An investment can be a daily object.” — a Louise Carmen leather-journal customer, via After School.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Acquired’s operating rule: understand why the world is arranged the way it is before telling people what to think.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "The best restaurant is one that can entertain one person all by itself.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Feet are the new butts.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        }
+      ],
+      "publishedAt": "2026-11-10T22:11:00Z",
+      "links": []
     }
   ]
 }
