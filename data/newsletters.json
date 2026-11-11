@@ -262064,6 +262064,1619 @@
       ],
       "publishedAt": "2026-11-10T22:11:00Z",
       "links": []
+    },
+    {
+      "id": "digest-4158153c-8a3e-81b9-bbd4-d7463af14b32",
+      "channel": "newsletters",
+      "source": "notion",
+      "kind": "Agent-written digest",
+      "domain": "Daily newsletter digest",
+      "title": "Data center backlash, Gemini's missed warning, Hims' peptide pivot - Wednesday, November 11, 2026",
+      "url": "",
+      "description": "Wednesday, November 11, 2026 - Morning Edition",
+      "body": "Wednesday, November 11, 2026 - Morning Edition\n\nToday's Numbers\n\n• 41: local ballot measures on data centers decided last week, and voters sided against the industry in all but one. The lone exception was Harwood, North Dakota, where only 430 people voted.\n\n• 76%: of voters in NBC's exit poll said they would oppose building a new data center in their community.\n\n• $2.3 trillion: wiped off the Nasdaq 100 in a single day after governor's races put data center pauses on the table, the largest one-day loss on record for the index.\n\n• 4%: roughly how much US consumer prices rose year over year, per the New York Times' math on Tuesday's inflation report, about double the Fed's target, with the central bank now widely expected to raise rates when it meets next month.\n\nQuotes of the Day\n\n• \"In healthcare, whoever owns the customer relationship wins\" (Andrew Dudum, Hims & Hers CEO, on the company's pivot to peptides after its compounded GLP-1 business was shut down)\n\n• \"Most Muslim or Mormon Americans don't premise their rights and dignity on everyone necessarily sharing their religious convictions, but on a mutual ethic of noninterference and nondiscrimination.\" (Cassie Pritchard, trans democratic socialist, arguing that trans freedom should be framed as a civil rights issue)\n\n• \"The more we build a world that promotes positive-sum cooperation, the easier it becomes to tolerate the inevitable kinds of inequality.\" (Kelsey Piper, staff writer at The Argument, on why a fair society is not one where everyone ends up the same)\n\nAI & The Machines\n\nA 13-year-old used Gemini on her school laptop to plan her suicide, and nobody flagged it for weeks. Her parents allege she turned to Google's chatbot on a school Chromebook while the school's monitoring systems stayed silent until it was almost too late. The case lands as schools and AI companies keep arguing about whose job it is to catch a kid in crisis. (WIRED)\n\nThe coolest thing people were doing with AI is getting shut down. People using Anthropic's Claude and OpenAI's Codex to reverse-engineer software, unbrick smart devices, or strip surveillance ads from their TVs are now hitting guardrails or getting their accounts limited. Tinkering with your own gadgets is colliding with the AI companies' safety rules. (Snacks)\n\nMoney & Power\n\nThe Senate is working on Veterans Day to rush through a bill its critics call a giveaway to Trump, Musk, and the oil industry. At 9:02 pm last night, Sen. John Barrasso moved to adjourn to noon today so debate could continue on H.R. 2347, the vehicle for BAAJA. A 60-vote cloture vote is now the last big hurdle before final passage, and opponents say the bill would gut the Endangered Species Act and the National Historic Preservation Act. (Hill Heat)\n\nMichigan voters told utilities to get their money out of politics. Now the utilities are suing. Amid rising electricity costs, Michiganders decisively backed a ballot measure curbing utilities' election spending. The utilities say the limits violate their freedom of speech, and the fight is now headed to court. (WIRED)\n\nNvidia slid as the fallout grew around Jensen Huang's relationship with an alleged spy. The chip leader fell 5 points and dragged the Nasdaq down with it. A spy-themed short seller, Culper Research, says it flagged Huang's ties to a Chinese tech executive six months ago. (Business Insider)\n\nSenior ABC News figures are taking Disney's buyout as the network hunts for savings. Disney offered voluntary early retirement to senior staff in late August, and Status has learned some of the names heading for the exits. Inside ABC, staffers are now worrying about what comes next as Disney pushes to cut costs and reinvest in content, tech, and experiences. (Status)\n\nScience & Strange\n\nGerman researchers slowly rewound the biological clocks of human cells by decades, and the slow part is the point. Starting with blood cells from donors ranging from an infant to a 101-year-old, the Bonn team nudged them toward a younger state without fully resetting them to embryonic stem cells, so they could watch each step of the process. One age biomarker was set back as far as 60 years in under two months of reprogramming. (WIRED)\n\nAstronomers may have found a galaxy with no stars in it at all. The candidate holds roughly 2 billion times the sun's mass in hydrogen, yet appears starless. If it checks out, it could help answer questions that have puzzled astronomers for years about how galaxies form. (WIRED)\n\nQuick Hits & Curiosities\n\n• A Florida chimpanzee sanctuary used a drone to deliver bananas to Kaleb, a 38-year-old chimp stranded by floodwaters, who ate his airborne meal and then crossed the water on a rope. (AP News)\n\n• A young chimp named Ayumu once recalled the positions of numbers flashed on a screen for just a fraction of a second, in a 2007 experiment on chimp memory. (The Guardian)\n\n• Anthropic is reportedly planning a $1.3 trillion IPO. (Status)",
+      "blocks": [
+        {
+          "type": "heading_1",
+          "runs": [
+            {
+              "text": "Wednesday, November 11, 2026 - Morning Edition",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Today's Numbers",
+              "url": "",
+              "bold": true,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "41",
+              "url": "https://www.profgmedia.com/p/voters-hit-pause-on-data-centers",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": ": local ballot measures on data centers decided last week, and voters sided against the industry in all but one. The lone exception was Harwood, North Dakota, where only 430 people voted.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "76%",
+              "url": "https://www.profgmedia.com/p/voters-hit-pause-on-data-centers",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": ": of voters in NBC's exit poll said they would oppose building a new data center in their community.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "$2.3 trillion",
+              "url": "https://www.profgmedia.com/p/voters-hit-pause-on-data-centers",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": ": wiped off the Nasdaq 100 in a single day after governor's races put data center pauses on the table, the largest one-day loss on record for the index.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "4%",
+              "url": "https://www.nytimes.com/live/2026/11/10/business/inflation-cpi-report-october",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": ": roughly how much US consumer prices rose year over year, per the New York Times' math on Tuesday's inflation report, about double the Fed's target, with the central bank now widely expected to raise rates when it meets next month.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Quotes of the Day",
+              "url": "",
+              "bold": true,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "\"In healthcare, whoever owns the customer relationship wins\" (Andrew Dudum, Hims & Hers CEO, on the company's pivot to peptides after its compounded GLP-1 business was shut down)",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "\"Most Muslim or Mormon Americans don't premise their rights and dignity on everyone necessarily sharing their religious convictions, but on a mutual ethic of noninterference and nondiscrimination.\" (Cassie Pritchard, trans democratic socialist, arguing that trans freedom should be framed as a civil rights issue)",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "\"The more we build a world that promotes positive-sum cooperation, the easier it becomes to tolerate the inevitable kinds of inequality.\" (Kelsey Piper, staff writer at The Argument, on why a fair society is not one where everyone ends up the same)",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "AI & The Machines",
+              "url": "",
+              "bold": true,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "A 13-year-old used Gemini on her school laptop to plan her suicide, and nobody flagged it for weeks.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " Her parents allege she turned to Google's chatbot on a school Chromebook while the school's monitoring systems stayed silent until it was almost too late. The case lands as schools and AI companies keep arguing about whose job it is to catch a kid in crisis. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "WIRED",
+              "url": "https://www.wired.com/story/teen-girl-asked-gemini-about-suicide-for-months-until-it-was-flagged/",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "The coolest thing people were doing with AI is getting shut down.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " People using Anthropic's Claude and OpenAI's Codex to reverse-engineer software, unbrick smart devices, or strip surveillance ads from their TVs are now hitting guardrails or getting their accounts limited. Tinkering with your own gadgets is colliding with the AI companies' safety rules. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Snacks",
+              "url": "https://sherwood.news/",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Money & Power",
+              "url": "",
+              "bold": true,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "The Senate is working on Veterans Day to rush through a bill its critics call a giveaway to Trump, Musk, and the oil industry.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " At 9:02 pm last night, Sen. John Barrasso moved to adjourn to noon today so debate could continue on H.R. 2347, the vehicle for BAAJA. A 60-vote cloture vote is now the last big hurdle before final passage, and opponents say the bill would gut the Endangered Species Act and the National Historic Preservation Act. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Hill Heat",
+              "url": "https://hillheat.news/p/alert-for-democracy-senate-reconvenes-today-to-fast-track-final-votes-on-baaja",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Michigan voters told utilities to get their money out of politics. Now the utilities are suing.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " Amid rising electricity costs, Michiganders decisively backed a ballot measure curbing utilities' election spending. The utilities say the limits violate their freedom of speech, and the fight is now headed to court. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "WIRED",
+              "url": "https://www.wired.com/story/michigan-voters-want-utility-money-out-of-politics-lawsuit/",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Nvidia slid as the fallout grew around Jensen Huang's relationship with an alleged spy.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " The chip leader fell 5 points and dragged the Nasdaq down with it. A spy-themed short seller, Culper Research, says it flagged Huang's ties to a Chinese tech executive six months ago. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Business Insider",
+              "url": "https://www.businessinsider.com/jensen-huang-china-relationship-megaspeed-nvidia-culper-research-2026-11",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Senior ABC News figures are taking Disney's buyout as the network hunts for savings.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " Disney offered voluntary early retirement to senior staff in late August, and Status has learned some of the names heading for the exits. Inside ABC, staffers are now worrying about what comes next as Disney pushes to cut costs and reinvest in content, tech, and experiences. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Status",
+              "url": "https://www.status.news/",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Science & Strange",
+              "url": "",
+              "bold": true,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "German researchers slowly rewound the biological clocks of human cells by decades, and the slow part is the point.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " Starting with blood cells from donors ranging from an infant to a 101-year-old, the Bonn team nudged them toward a younger state without fully resetting them to embryonic stem cells, so they could watch each step of the process. One age biomarker was set back as far as 60 years in under two months of reprogramming. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "WIRED",
+              "url": "https://www.wired.com/",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Astronomers may have found a galaxy with no stars in it at all.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " The candidate holds roughly 2 billion times the sun's mass in hydrogen, yet appears starless. If it checks out, it could help answer questions that have puzzled astronomers for years about how galaxies form. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "WIRED",
+              "url": "https://www.wired.com/story/scientists-discover-massive-starless-galaxy/",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Quick Hits & Curiosities",
+              "url": "",
+              "bold": true,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "A Florida chimpanzee sanctuary used a drone to deliver bananas to Kaleb, a 38-year-old chimp stranded by floodwaters, who ate his airborne meal and then crossed the water on a rope. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "AP News",
+              "url": "https://apnews.com/article/florida-flooding-chimpanzee-sanctuary-drone-feeding-fdeea05bc614d13f7779034b4394211c",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "A young chimp named Ayumu once recalled the positions of numbers flashed on a screen for just a fraction of a second, in a 2007 experiment on chimp memory. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "The Guardian",
+              "url": "https://www.theguardian.com/science/2007/dec/04/animalbehaviour.evolution",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Anthropic is reportedly planning a $1.3 trillion IPO. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Status",
+              "url": "https://www.status.news/",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        }
+      ],
+      "publishedAt": "2026-11-11T13:41:00Z",
+      "links": [
+        {
+          "title": "$2.3 trillion",
+          "url": "https://www.profgmedia.com/p/voters-hit-pause-on-data-centers"
+        },
+        {
+          "title": "4%",
+          "url": "https://www.nytimes.com/live/2026/11/10/business/inflation-cpi-report-october"
+        },
+        {
+          "title": "WIRED",
+          "url": "https://www.wired.com/story/teen-girl-asked-gemini-about-suicide-for-months-until-it-was-flagged/"
+        },
+        {
+          "title": "Snacks",
+          "url": "https://sherwood.news/"
+        },
+        {
+          "title": "Hill Heat",
+          "url": "https://hillheat.news/p/alert-for-democracy-senate-reconvenes-today-to-fast-track-final-votes-on-baaja"
+        },
+        {
+          "title": "WIRED",
+          "url": "https://www.wired.com/story/michigan-voters-want-utility-money-out-of-politics-lawsuit/"
+        },
+        {
+          "title": "Business Insider",
+          "url": "https://www.businessinsider.com/jensen-huang-china-relationship-megaspeed-nvidia-culper-research-2026-11"
+        },
+        {
+          "title": "Status",
+          "url": "https://www.status.news/"
+        },
+        {
+          "title": "WIRED",
+          "url": "https://www.wired.com/"
+        },
+        {
+          "title": "WIRED",
+          "url": "https://www.wired.com/story/scientists-discover-massive-starless-galaxy/"
+        },
+        {
+          "title": "AP News",
+          "url": "https://apnews.com/article/florida-flooding-chimpanzee-sanctuary-drone-feeding-fdeea05bc614d13f7779034b4394211c"
+        },
+        {
+          "title": "The Guardian",
+          "url": "https://www.theguardian.com/science/2007/dec/04/animalbehaviour.evolution"
+        }
+      ],
+      "versions": {
+        "morning": {
+          "body": "Wednesday, November 11, 2026 - Morning Edition\n\nToday's Numbers\n\n• 41: local ballot measures on data centers decided last week, and voters sided against the industry in all but one. The lone exception was Harwood, North Dakota, where only 430 people voted.\n\n• 76%: of voters in NBC's exit poll said they would oppose building a new data center in their community.\n\n• $2.3 trillion: wiped off the Nasdaq 100 in a single day after governor's races put data center pauses on the table, the largest one-day loss on record for the index.\n\n• 4%: roughly how much US consumer prices rose year over year, per the New York Times' math on Tuesday's inflation report, about double the Fed's target, with the central bank now widely expected to raise rates when it meets next month.\n\nQuotes of the Day\n\n• \"In healthcare, whoever owns the customer relationship wins\" (Andrew Dudum, Hims & Hers CEO, on the company's pivot to peptides after its compounded GLP-1 business was shut down)\n\n• \"Most Muslim or Mormon Americans don't premise their rights and dignity on everyone necessarily sharing their religious convictions, but on a mutual ethic of noninterference and nondiscrimination.\" (Cassie Pritchard, trans democratic socialist, arguing that trans freedom should be framed as a civil rights issue)\n\n• \"The more we build a world that promotes positive-sum cooperation, the easier it becomes to tolerate the inevitable kinds of inequality.\" (Kelsey Piper, staff writer at The Argument, on why a fair society is not one where everyone ends up the same)\n\nAI & The Machines\n\nA 13-year-old used Gemini on her school laptop to plan her suicide, and nobody flagged it for weeks. Her parents allege she turned to Google's chatbot on a school Chromebook while the school's monitoring systems stayed silent until it was almost too late. The case lands as schools and AI companies keep arguing about whose job it is to catch a kid in crisis. (WIRED)\n\nThe coolest thing people were doing with AI is getting shut down. People using Anthropic's Claude and OpenAI's Codex to reverse-engineer software, unbrick smart devices, or strip surveillance ads from their TVs are now hitting guardrails or getting their accounts limited. Tinkering with your own gadgets is colliding with the AI companies' safety rules. (Snacks)\n\nMoney & Power\n\nThe Senate is working on Veterans Day to rush through a bill its critics call a giveaway to Trump, Musk, and the oil industry. At 9:02 pm last night, Sen. John Barrasso moved to adjourn to noon today so debate could continue on H.R. 2347, the vehicle for BAAJA. A 60-vote cloture vote is now the last big hurdle before final passage, and opponents say the bill would gut the Endangered Species Act and the National Historic Preservation Act. (Hill Heat)\n\nMichigan voters told utilities to get their money out of politics. Now the utilities are suing. Amid rising electricity costs, Michiganders decisively backed a ballot measure curbing utilities' election spending. The utilities say the limits violate their freedom of speech, and the fight is now headed to court. (WIRED)\n\nNvidia slid as the fallout grew around Jensen Huang's relationship with an alleged spy. The chip leader fell 5 points and dragged the Nasdaq down with it. A spy-themed short seller, Culper Research, says it flagged Huang's ties to a Chinese tech executive six months ago. (Business Insider)\n\nSenior ABC News figures are taking Disney's buyout as the network hunts for savings. Disney offered voluntary early retirement to senior staff in late August, and Status has learned some of the names heading for the exits. Inside ABC, staffers are now worrying about what comes next as Disney pushes to cut costs and reinvest in content, tech, and experiences. (Status)\n\nScience & Strange\n\nGerman researchers slowly rewound the biological clocks of human cells by decades, and the slow part is the point. Starting with blood cells from donors ranging from an infant to a 101-year-old, the Bonn team nudged them toward a younger state without fully resetting them to embryonic stem cells, so they could watch each step of the process. One age biomarker was set back as far as 60 years in under two months of reprogramming. (WIRED)\n\nAstronomers may have found a galaxy with no stars in it at all. The candidate holds roughly 2 billion times the sun's mass in hydrogen, yet appears starless. If it checks out, it could help answer questions that have puzzled astronomers for years about how galaxies form. (WIRED)\n\nQuick Hits & Curiosities\n\n• A Florida chimpanzee sanctuary used a drone to deliver bananas to Kaleb, a 38-year-old chimp stranded by floodwaters, who ate his airborne meal and then crossed the water on a rope. (AP News)\n\n• A young chimp named Ayumu once recalled the positions of numbers flashed on a screen for just a fraction of a second, in a 2007 experiment on chimp memory. (The Guardian)\n\n• Anthropic is reportedly planning a $1.3 trillion IPO. (Status)",
+          "blocks": [
+            {
+              "type": "heading_1",
+              "runs": [
+                {
+                  "text": "Wednesday, November 11, 2026 - Morning Edition",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Today's Numbers",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "41",
+                  "url": "https://www.profgmedia.com/p/voters-hit-pause-on-data-centers",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": local ballot measures on data centers decided last week, and voters sided against the industry in all but one. The lone exception was Harwood, North Dakota, where only 430 people voted.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "76%",
+                  "url": "https://www.profgmedia.com/p/voters-hit-pause-on-data-centers",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": of voters in NBC's exit poll said they would oppose building a new data center in their community.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "$2.3 trillion",
+                  "url": "https://www.profgmedia.com/p/voters-hit-pause-on-data-centers",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": wiped off the Nasdaq 100 in a single day after governor's races put data center pauses on the table, the largest one-day loss on record for the index.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "4%",
+                  "url": "https://www.nytimes.com/live/2026/11/10/business/inflation-cpi-report-october",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": roughly how much US consumer prices rose year over year, per the New York Times' math on Tuesday's inflation report, about double the Fed's target, with the central bank now widely expected to raise rates when it meets next month.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Quotes of the Day",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "\"In healthcare, whoever owns the customer relationship wins\" (Andrew Dudum, Hims & Hers CEO, on the company's pivot to peptides after its compounded GLP-1 business was shut down)",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "\"Most Muslim or Mormon Americans don't premise their rights and dignity on everyone necessarily sharing their religious convictions, but on a mutual ethic of noninterference and nondiscrimination.\" (Cassie Pritchard, trans democratic socialist, arguing that trans freedom should be framed as a civil rights issue)",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "\"The more we build a world that promotes positive-sum cooperation, the easier it becomes to tolerate the inevitable kinds of inequality.\" (Kelsey Piper, staff writer at The Argument, on why a fair society is not one where everyone ends up the same)",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "AI & The Machines",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "A 13-year-old used Gemini on her school laptop to plan her suicide, and nobody flagged it for weeks.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " Her parents allege she turned to Google's chatbot on a school Chromebook while the school's monitoring systems stayed silent until it was almost too late. The case lands as schools and AI companies keep arguing about whose job it is to catch a kid in crisis. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "WIRED",
+                  "url": "https://www.wired.com/story/teen-girl-asked-gemini-about-suicide-for-months-until-it-was-flagged/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "The coolest thing people were doing with AI is getting shut down.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " People using Anthropic's Claude and OpenAI's Codex to reverse-engineer software, unbrick smart devices, or strip surveillance ads from their TVs are now hitting guardrails or getting their accounts limited. Tinkering with your own gadgets is colliding with the AI companies' safety rules. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Snacks",
+                  "url": "https://sherwood.news/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Money & Power",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "The Senate is working on Veterans Day to rush through a bill its critics call a giveaway to Trump, Musk, and the oil industry.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " At 9:02 pm last night, Sen. John Barrasso moved to adjourn to noon today so debate could continue on H.R. 2347, the vehicle for BAAJA. A 60-vote cloture vote is now the last big hurdle before final passage, and opponents say the bill would gut the Endangered Species Act and the National Historic Preservation Act. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Hill Heat",
+                  "url": "https://hillheat.news/p/alert-for-democracy-senate-reconvenes-today-to-fast-track-final-votes-on-baaja",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Michigan voters told utilities to get their money out of politics. Now the utilities are suing.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " Amid rising electricity costs, Michiganders decisively backed a ballot measure curbing utilities' election spending. The utilities say the limits violate their freedom of speech, and the fight is now headed to court. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "WIRED",
+                  "url": "https://www.wired.com/story/michigan-voters-want-utility-money-out-of-politics-lawsuit/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Nvidia slid as the fallout grew around Jensen Huang's relationship with an alleged spy.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " The chip leader fell 5 points and dragged the Nasdaq down with it. A spy-themed short seller, Culper Research, says it flagged Huang's ties to a Chinese tech executive six months ago. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Business Insider",
+                  "url": "https://www.businessinsider.com/jensen-huang-china-relationship-megaspeed-nvidia-culper-research-2026-11",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Senior ABC News figures are taking Disney's buyout as the network hunts for savings.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " Disney offered voluntary early retirement to senior staff in late August, and Status has learned some of the names heading for the exits. Inside ABC, staffers are now worrying about what comes next as Disney pushes to cut costs and reinvest in content, tech, and experiences. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Status",
+                  "url": "https://www.status.news/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Science & Strange",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "German researchers slowly rewound the biological clocks of human cells by decades, and the slow part is the point.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " Starting with blood cells from donors ranging from an infant to a 101-year-old, the Bonn team nudged them toward a younger state without fully resetting them to embryonic stem cells, so they could watch each step of the process. One age biomarker was set back as far as 60 years in under two months of reprogramming. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "WIRED",
+                  "url": "https://www.wired.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Astronomers may have found a galaxy with no stars in it at all.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " The candidate holds roughly 2 billion times the sun's mass in hydrogen, yet appears starless. If it checks out, it could help answer questions that have puzzled astronomers for years about how galaxies form. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "WIRED",
+                  "url": "https://www.wired.com/story/scientists-discover-massive-starless-galaxy/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Quick Hits & Curiosities",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "A Florida chimpanzee sanctuary used a drone to deliver bananas to Kaleb, a 38-year-old chimp stranded by floodwaters, who ate his airborne meal and then crossed the water on a rope. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "AP News",
+                  "url": "https://apnews.com/article/florida-flooding-chimpanzee-sanctuary-drone-feeding-fdeea05bc614d13f7779034b4394211c",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "A young chimp named Ayumu once recalled the positions of numbers flashed on a screen for just a fraction of a second, in a 2007 experiment on chimp memory. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "The Guardian",
+                  "url": "https://www.theguardian.com/science/2007/dec/04/animalbehaviour.evolution",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Anthropic is reportedly planning a $1.3 trillion IPO. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Status",
+                  "url": "https://www.status.news/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            }
+          ],
+          "links": [
+            {
+              "title": "$2.3 trillion",
+              "url": "https://www.profgmedia.com/p/voters-hit-pause-on-data-centers"
+            },
+            {
+              "title": "4%",
+              "url": "https://www.nytimes.com/live/2026/11/10/business/inflation-cpi-report-october"
+            },
+            {
+              "title": "WIRED",
+              "url": "https://www.wired.com/story/teen-girl-asked-gemini-about-suicide-for-months-until-it-was-flagged/"
+            },
+            {
+              "title": "Snacks",
+              "url": "https://sherwood.news/"
+            },
+            {
+              "title": "Hill Heat",
+              "url": "https://hillheat.news/p/alert-for-democracy-senate-reconvenes-today-to-fast-track-final-votes-on-baaja"
+            },
+            {
+              "title": "WIRED",
+              "url": "https://www.wired.com/story/michigan-voters-want-utility-money-out-of-politics-lawsuit/"
+            },
+            {
+              "title": "Business Insider",
+              "url": "https://www.businessinsider.com/jensen-huang-china-relationship-megaspeed-nvidia-culper-research-2026-11"
+            },
+            {
+              "title": "Status",
+              "url": "https://www.status.news/"
+            },
+            {
+              "title": "WIRED",
+              "url": "https://www.wired.com/"
+            },
+            {
+              "title": "WIRED",
+              "url": "https://www.wired.com/story/scientists-discover-massive-starless-galaxy/"
+            },
+            {
+              "title": "AP News",
+              "url": "https://apnews.com/article/florida-flooding-chimpanzee-sanctuary-drone-feeding-fdeea05bc614d13f7779034b4394211c"
+            },
+            {
+              "title": "The Guardian",
+              "url": "https://www.theguardian.com/science/2007/dec/04/animalbehaviour.evolution"
+            }
+          ]
+        },
+        "full": {
+          "body": "Wednesday, November 11, 2026 - Morning Edition\n\nToday's Numbers\n\n• 41: local ballot measures on data centers decided last week, and voters sided against the industry in all but one. The lone exception was Harwood, North Dakota, where only 430 people voted.\n\n• 76%: of voters in NBC's exit poll said they would oppose building a new data center in their community.\n\n• $2.3 trillion: wiped off the Nasdaq 100 in a single day after governor's races put data center pauses on the table, the largest one-day loss on record for the index.\n\n• 4%: roughly how much US consumer prices rose year over year, per the New York Times' math on Tuesday's inflation report, about double the Fed's target, with the central bank now widely expected to raise rates when it meets next month.\n\nQuotes of the Day\n\n• \"In healthcare, whoever owns the customer relationship wins\" (Andrew Dudum, Hims & Hers CEO, on the company's pivot to peptides after its compounded GLP-1 business was shut down)\n\n• \"Most Muslim or Mormon Americans don't premise their rights and dignity on everyone necessarily sharing their religious convictions, but on a mutual ethic of noninterference and nondiscrimination.\" (Cassie Pritchard, trans democratic socialist, arguing that trans freedom should be framed as a civil rights issue)\n\n• \"The more we build a world that promotes positive-sum cooperation, the easier it becomes to tolerate the inevitable kinds of inequality.\" (Kelsey Piper, staff writer at The Argument, on why a fair society is not one where everyone ends up the same)\n\nAI & The Machines\n\nA 13-year-old used Gemini on her school laptop to plan her suicide, and nobody flagged it for weeks. Her parents allege she turned to Google's chatbot on a school Chromebook while the school's monitoring systems stayed silent until it was almost too late. The case lands as schools and AI companies keep arguing about whose job it is to catch a kid in crisis. (WIRED)\n\nThe coolest thing people were doing with AI is getting shut down. People using Anthropic's Claude and OpenAI's Codex to reverse-engineer software, unbrick smart devices, or strip surveillance ads from their TVs are now hitting guardrails or getting their accounts limited. Tinkering with your own gadgets is colliding with the AI companies' safety rules. (Snacks)\n\nMoney & Power\n\nThe Senate is working on Veterans Day to rush through a bill its critics call a giveaway to Trump, Musk, and the oil industry. At 9:02 pm last night, Sen. John Barrasso moved to adjourn to noon today so debate could continue on H.R. 2347, the vehicle for BAAJA. A 60-vote cloture vote is now the last big hurdle before final passage, and opponents say the bill would gut the Endangered Species Act and the National Historic Preservation Act. (Hill Heat)\n\nMichigan voters told utilities to get their money out of politics. Now the utilities are suing. Amid rising electricity costs, Michiganders decisively backed a ballot measure curbing utilities' election spending. The utilities say the limits violate their freedom of speech, and the fight is now headed to court. (WIRED)\n\nNvidia slid as the fallout grew around Jensen Huang's relationship with an alleged spy. The chip leader fell 5 points and dragged the Nasdaq down with it. A spy-themed short seller, Culper Research, says it flagged Huang's ties to a Chinese tech executive six months ago. (Business Insider)\n\nSenior ABC News figures are taking Disney's buyout as the network hunts for savings. Disney offered voluntary early retirement to senior staff in late August, and Status has learned some of the names heading for the exits. Inside ABC, staffers are now worrying about what comes next as Disney pushes to cut costs and reinvest in content, tech, and experiences. (Status)\n\nScience & Strange\n\nGerman researchers slowly rewound the biological clocks of human cells by decades, and the slow part is the point. Starting with blood cells from donors ranging from an infant to a 101-year-old, the Bonn team nudged them toward a younger state without fully resetting them to embryonic stem cells, so they could watch each step of the process. One age biomarker was set back as far as 60 years in under two months of reprogramming. (WIRED)\n\nAstronomers may have found a galaxy with no stars in it at all. The candidate holds roughly 2 billion times the sun's mass in hydrogen, yet appears starless. If it checks out, it could help answer questions that have puzzled astronomers for years about how galaxies form. (WIRED)\n\nQuick Hits & Curiosities\n\n• A Florida chimpanzee sanctuary used a drone to deliver bananas to Kaleb, a 38-year-old chimp stranded by floodwaters, who ate his airborne meal and then crossed the water on a rope. (AP News)\n\n• A young chimp named Ayumu once recalled the positions of numbers flashed on a screen for just a fraction of a second, in a 2007 experiment on chimp memory. (The Guardian)\n\n• Anthropic is reportedly planning a $1.3 trillion IPO. (Status)",
+          "blocks": [
+            {
+              "type": "heading_1",
+              "runs": [
+                {
+                  "text": "Wednesday, November 11, 2026 - Morning Edition",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Today's Numbers",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "41",
+                  "url": "https://www.profgmedia.com/p/voters-hit-pause-on-data-centers",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": local ballot measures on data centers decided last week, and voters sided against the industry in all but one. The lone exception was Harwood, North Dakota, where only 430 people voted.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "76%",
+                  "url": "https://www.profgmedia.com/p/voters-hit-pause-on-data-centers",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": of voters in NBC's exit poll said they would oppose building a new data center in their community.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "$2.3 trillion",
+                  "url": "https://www.profgmedia.com/p/voters-hit-pause-on-data-centers",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": wiped off the Nasdaq 100 in a single day after governor's races put data center pauses on the table, the largest one-day loss on record for the index.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "4%",
+                  "url": "https://www.nytimes.com/live/2026/11/10/business/inflation-cpi-report-october",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": roughly how much US consumer prices rose year over year, per the New York Times' math on Tuesday's inflation report, about double the Fed's target, with the central bank now widely expected to raise rates when it meets next month.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Quotes of the Day",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "\"In healthcare, whoever owns the customer relationship wins\" (Andrew Dudum, Hims & Hers CEO, on the company's pivot to peptides after its compounded GLP-1 business was shut down)",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "\"Most Muslim or Mormon Americans don't premise their rights and dignity on everyone necessarily sharing their religious convictions, but on a mutual ethic of noninterference and nondiscrimination.\" (Cassie Pritchard, trans democratic socialist, arguing that trans freedom should be framed as a civil rights issue)",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "\"The more we build a world that promotes positive-sum cooperation, the easier it becomes to tolerate the inevitable kinds of inequality.\" (Kelsey Piper, staff writer at The Argument, on why a fair society is not one where everyone ends up the same)",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "AI & The Machines",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "A 13-year-old used Gemini on her school laptop to plan her suicide, and nobody flagged it for weeks.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " Her parents allege she turned to Google's chatbot on a school Chromebook while the school's monitoring systems stayed silent until it was almost too late. The case lands as schools and AI companies keep arguing about whose job it is to catch a kid in crisis. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "WIRED",
+                  "url": "https://www.wired.com/story/teen-girl-asked-gemini-about-suicide-for-months-until-it-was-flagged/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "The coolest thing people were doing with AI is getting shut down.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " People using Anthropic's Claude and OpenAI's Codex to reverse-engineer software, unbrick smart devices, or strip surveillance ads from their TVs are now hitting guardrails or getting their accounts limited. Tinkering with your own gadgets is colliding with the AI companies' safety rules. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Snacks",
+                  "url": "https://sherwood.news/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Money & Power",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "The Senate is working on Veterans Day to rush through a bill its critics call a giveaway to Trump, Musk, and the oil industry.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " At 9:02 pm last night, Sen. John Barrasso moved to adjourn to noon today so debate could continue on H.R. 2347, the vehicle for BAAJA. A 60-vote cloture vote is now the last big hurdle before final passage, and opponents say the bill would gut the Endangered Species Act and the National Historic Preservation Act. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Hill Heat",
+                  "url": "https://hillheat.news/p/alert-for-democracy-senate-reconvenes-today-to-fast-track-final-votes-on-baaja",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Michigan voters told utilities to get their money out of politics. Now the utilities are suing.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " Amid rising electricity costs, Michiganders decisively backed a ballot measure curbing utilities' election spending. The utilities say the limits violate their freedom of speech, and the fight is now headed to court. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "WIRED",
+                  "url": "https://www.wired.com/story/michigan-voters-want-utility-money-out-of-politics-lawsuit/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Nvidia slid as the fallout grew around Jensen Huang's relationship with an alleged spy.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " The chip leader fell 5 points and dragged the Nasdaq down with it. A spy-themed short seller, Culper Research, says it flagged Huang's ties to a Chinese tech executive six months ago. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Business Insider",
+                  "url": "https://www.businessinsider.com/jensen-huang-china-relationship-megaspeed-nvidia-culper-research-2026-11",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Senior ABC News figures are taking Disney's buyout as the network hunts for savings.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " Disney offered voluntary early retirement to senior staff in late August, and Status has learned some of the names heading for the exits. Inside ABC, staffers are now worrying about what comes next as Disney pushes to cut costs and reinvest in content, tech, and experiences. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Status",
+                  "url": "https://www.status.news/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Science & Strange",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "German researchers slowly rewound the biological clocks of human cells by decades, and the slow part is the point.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " Starting with blood cells from donors ranging from an infant to a 101-year-old, the Bonn team nudged them toward a younger state without fully resetting them to embryonic stem cells, so they could watch each step of the process. One age biomarker was set back as far as 60 years in under two months of reprogramming. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "WIRED",
+                  "url": "https://www.wired.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Astronomers may have found a galaxy with no stars in it at all.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " The candidate holds roughly 2 billion times the sun's mass in hydrogen, yet appears starless. If it checks out, it could help answer questions that have puzzled astronomers for years about how galaxies form. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "WIRED",
+                  "url": "https://www.wired.com/story/scientists-discover-massive-starless-galaxy/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Quick Hits & Curiosities",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "A Florida chimpanzee sanctuary used a drone to deliver bananas to Kaleb, a 38-year-old chimp stranded by floodwaters, who ate his airborne meal and then crossed the water on a rope. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "AP News",
+                  "url": "https://apnews.com/article/florida-flooding-chimpanzee-sanctuary-drone-feeding-fdeea05bc614d13f7779034b4394211c",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "A young chimp named Ayumu once recalled the positions of numbers flashed on a screen for just a fraction of a second, in a 2007 experiment on chimp memory. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "The Guardian",
+                  "url": "https://www.theguardian.com/science/2007/dec/04/animalbehaviour.evolution",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Anthropic is reportedly planning a $1.3 trillion IPO. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Status",
+                  "url": "https://www.status.news/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            }
+          ],
+          "links": [
+            {
+              "title": "$2.3 trillion",
+              "url": "https://www.profgmedia.com/p/voters-hit-pause-on-data-centers"
+            },
+            {
+              "title": "4%",
+              "url": "https://www.nytimes.com/live/2026/11/10/business/inflation-cpi-report-october"
+            },
+            {
+              "title": "WIRED",
+              "url": "https://www.wired.com/story/teen-girl-asked-gemini-about-suicide-for-months-until-it-was-flagged/"
+            },
+            {
+              "title": "Snacks",
+              "url": "https://sherwood.news/"
+            },
+            {
+              "title": "Hill Heat",
+              "url": "https://hillheat.news/p/alert-for-democracy-senate-reconvenes-today-to-fast-track-final-votes-on-baaja"
+            },
+            {
+              "title": "WIRED",
+              "url": "https://www.wired.com/story/michigan-voters-want-utility-money-out-of-politics-lawsuit/"
+            },
+            {
+              "title": "Business Insider",
+              "url": "https://www.businessinsider.com/jensen-huang-china-relationship-megaspeed-nvidia-culper-research-2026-11"
+            },
+            {
+              "title": "Status",
+              "url": "https://www.status.news/"
+            },
+            {
+              "title": "WIRED",
+              "url": "https://www.wired.com/"
+            },
+            {
+              "title": "WIRED",
+              "url": "https://www.wired.com/story/scientists-discover-massive-starless-galaxy/"
+            },
+            {
+              "title": "AP News",
+              "url": "https://apnews.com/article/florida-flooding-chimpanzee-sanctuary-drone-feeding-fdeea05bc614d13f7779034b4394211c"
+            },
+            {
+              "title": "The Guardian",
+              "url": "https://www.theguardian.com/science/2007/dec/04/animalbehaviour.evolution"
+            }
+          ]
+        }
+      }
     }
   ]
 }
