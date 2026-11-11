@@ -187,7 +187,7 @@ def writing_archive_page(offset):
         source = f'URL Source: {WRITING_ARCHIVE_URL + query}\n'
         marker = '\nMarkdown Content:\n'
         if source not in response or marker not in response:
-            raise ValueError('Unexpected reader archive response')
+            raise ValueError(f'Unexpected reader archive response (source line: {source in response}, marker: {marker in response}, first line: {response[:80]!r})')
         return json.loads(response.split(marker, 1)[1])
 
 
@@ -198,7 +198,7 @@ def collect_writing_archive(latest_only=False):
     while True:
         page = writing_archive_page(offset)
         if not isinstance(page, list):
-            raise ValueError('Unexpected archive response')
+            raise ValueError(f'Unexpected archive response ({type(page).__name__})')
         if not page:
             if not records:
                 raise ValueError('Archive has no posts; keeping the previous snapshot')
@@ -207,7 +207,7 @@ def collect_writing_archive(latest_only=False):
         for post in page:
             url = public_url(post.get('canonical_url', ''))
             if not url or urlparse(url).hostname != 'bettingantelope.substack.com' or not urlparse(url).path.startswith('/p/'):
-                raise ValueError('Unexpected archive post URL')
+                raise ValueError(f'Unexpected archive post URL (host: {urlparse(url).hostname})')
             identity = url.split('?')[0].rstrip('/')
             title = plain_html(post.get('title') or '')
             if not title:
@@ -592,4 +592,7 @@ if __name__ == '__main__':
             sync_notion()
     except Exception as error:
         print(f'::error::{args.source} sync failed ({error_summary(error)}); previous snapshot kept.', file=sys.stderr)
+        if args.source == 'rss' and isinstance(error, ValueError):
+            # Writing source data is public Substack metadata; safe to show why it was rejected.
+            print(f'::error::rss detail: {str(error)[:200]}', file=sys.stderr)
         sys.exit(1)
