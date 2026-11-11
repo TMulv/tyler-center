@@ -13,7 +13,7 @@ import re
 import sys
 import time
 from urllib.error import HTTPError, URLError
-from urllib.parse import urlparse, parse_qsl, urlencode, urlunparse
+from urllib.parse import urlparse, parse_qsl, urlencode, urlunparse, quote, unquote
 from urllib.request import Request, urlopen
 import xml.etree.ElementTree as ET
 
@@ -174,9 +174,16 @@ def parse_rss(xml):
     return records
 
 
-def writing_archive_page(offset):
-    # Substack's archive API answers offset=0 with "Invalid value" (Nov 2026), so the first page omits offset.
-    query = f'?sort=new&offset={offset}&limit=20' if offset else '?sort=new&limit=20'
+def writing_archive_page(offset, cursor=None):
+    # Substack's archive API changed in Nov 2026: offset=0 answers "Invalid value", and the
+    # first page now returns {"posts": [...], "nextCursor": ...}. Older offset paging still
+    # returns a bare list, so both shapes are accepted.
+    if cursor:
+        query = f'?sort=new&limit=20&cursor={quote(cursor, safe="")}'
+    elif offset:
+        query = f'?sort=new&offset={offset}&limit=20'
+    else:
+        query = '?sort=new&limit=20'
     try:
         return json.loads(fetch(WRITING_ARCHIVE_URL + query, headers=SUBSTACK_HEADERS))
     except SourceHTTPError as error:
@@ -185,10 +192,11 @@ def writing_archive_page(offset):
         # GitHub's runner is blocked by Substack. The reader exposes the same
         # public JSON as text; check its source before trusting its contents.
         response = fetch(READER_ARCHIVE_URL + query, headers={'Accept': 'text/plain'}).decode()
-        source = f'URL Source: {WRITING_ARCHIVE_URL + query}\n'
+        sources = (f'URL Source: {WRITING_ARCHIVE_URL + query}\n',
+                   f'URL Source: {unquote(WRITING_ARCHIVE_URL + query)}\n')
         marker = '\nMarkdown Content:\n'
-        if source not in response or marker not in response:
-            raise ValueError(f'Unexpected reader archive response (source line: {source in response}, marker: {marker in response}, first line: {response[:80]!r})')
+        if not any(source in response for source in sources) or marker not in response:
+            raise ValueError(f'Unexpected reader archive response (source line: {any(source in response for source in sources)}, marker: {marker in response}, first line: {response[:80]!r})')
         return json.loads(response.split(marker, 1)[1])
 
 
@@ -196,8 +204,13 @@ def collect_writing_archive(latest_only=False):
     """Backfill public metadata only, including links to subscriber-only posts."""
     records = {}
     offset = 0
+    cursor = None
     while True:
-        page = writing_archive_page(offset)
+        page = writing_archive_page(offset, cursor)
+        cursor_mode = isinstance(page, dict) and isinstance(page.get('posts'), list)
+        if cursor_mode:
+            cursor = page.get('nextCursor') if isinstance(page.get('nextCursor'), str) else None
+            page = page['posts']
         if not isinstance(page, list):
             detail = ', '.join(f'{k}={str(v)[:300]!r}' for k, v in list(page.items())[:6]) if isinstance(page, dict) else ''
             raise ValueError(f'Unexpected archive response ({type(page).__name__}: {detail})')
@@ -230,7 +243,11 @@ def collect_writing_archive(latest_only=False):
             raise ValueError('Archive pagination did not advance')
         if latest_only:
             return list(records.values())
-        offset += len(page)
+        if cursor_mode:
+            if not cursor:
+                return list(records.values())
+        else:
+            offset += len(page)
 
 
 def sync_rss(xml=None, backfill=False):

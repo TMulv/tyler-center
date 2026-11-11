@@ -58,6 +58,20 @@ class SyncTests(unittest.TestCase):
             with self.assertRaises(ValueError):
                 sync.writing_archive_page(0)
 
+    def test_cursor_archive_shape_paginates_to_the_end(self):
+        def post(slug):
+            return {'title': slug, 'subtitle': '', 'canonical_url': f'https://bettingantelope.substack.com/p/{slug}',
+                    'post_date': '2026-11-01T12:00:00Z'}
+        pages = [json.dumps({'posts': [post('newer')], 'nextCursor': 'abc=='}).encode(),
+                 json.dumps({'posts': [post('older')]}).encode()]
+        with patch.object(sync, 'fetch', side_effect=pages) as fetch:
+            records = sync.collect_writing_archive()
+        self.assertEqual({r['title'] for r in records}, {'newer', 'older'})
+        self.assertNotIn('offset', fetch.call_args_list[0].args[0])
+        self.assertIn('cursor=abc%3D%3D', fetch.call_args_list[1].args[0])
+        with patch.object(sync, 'fetch', side_effect=pages[:1]):
+            self.assertEqual([r['title'] for r in sync.collect_writing_archive(latest_only=True)], ['newer'])
+
     def test_source_errors_only_log_safe_status_or_type(self):
         self.assertEqual(sync.error_summary(sync.SourceHTTPError(403)), 'HTTP 403')
         self.assertEqual(sync.error_summary(RuntimeError('secret or response body')), 'RuntimeError')
