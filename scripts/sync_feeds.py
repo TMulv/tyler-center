@@ -198,7 +198,8 @@ def collect_writing_archive(latest_only=False):
     while True:
         page = writing_archive_page(offset)
         if not isinstance(page, list):
-            raise ValueError(f'Unexpected archive response ({type(page).__name__})')
+            detail = ', '.join(f'{k}={str(v)[:60]!r}' for k, v in list(page.items())[:6]) if isinstance(page, dict) else ''
+            raise ValueError(f'Unexpected archive response ({type(page).__name__}: {detail})')
         if not page:
             if not records:
                 raise ValueError('Archive has no posts; keeping the previous snapshot')
