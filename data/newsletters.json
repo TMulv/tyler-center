@@ -267340,6 +267340,1778 @@
       ],
       "publishedAt": "2026-11-11T22:02:00Z",
       "links": []
+    },
+    {
+      "id": "digest-4168153c-8a3e-81f7-947c-edd22607ae79",
+      "channel": "newsletters",
+      "source": "notion",
+      "kind": "Agent-written digest",
+      "domain": "Daily newsletter digest",
+      "title": "NYT Eyes Letterboxd for $330M, Anthropic IPO at $1.4T, Trump Floats Legalization - Thursday, November 12, 2026",
+      "url": "",
+      "description": "Thursday, November 12, 2026 - Morning Edition",
+      "body": "Thursday, November 12, 2026 - Morning Edition\n\nToday's Numbers\n\n• $330 million: the price the New York Times is reportedly in advanced talks to pay for Letterboxd, the movie logging platform where about 30 million users track and review what they watch. Sony and A24 both circled the company first before the Times took the lead in exclusive negotiations.\n\n• 242: the number of podcast appearances Rep. Ro Khanna made across 175 shows between January 2025 and November 3, 2026, the most of any candidate in the cycle. Winning congressional candidates made almost three times as many podcast appearances as the ones who lost, and about 83% of all House and Senate candidates appeared on at least one standalone podcast.\n\n• $1.4 trillion: the valuation Anthropic is reportedly targeting in an IPO next week that would raise $100 billion, despite exploding compute costs and giant losses. The AI lab is pitching investors on artificial general superintelligence by the middle of 2027.\n\n• 3 points: the edge moderation still gave Democratic candidates in 2026, down from nearly 5 points between 2018 and 2024. The advantage is shrinking, but it likely decided close races like the still uncalled Senate contests in Mississippi and Alaska.\n\n• below 50%: support for the death penalty in a new Gallup poll, its joint lowest level since 1971. Fewer than half of Americans now favor the punishment for people convicted of murder, a survey taken shortly after Tennessee's failed execution of Christa Pike.\n\nQuotes of the Day\n\n• \"Get the killers out. Get all the rough ones out. Get the drug dealers out. But let the people that are here, and in some cases here for ten and 15 years, work a deal for them\" (President Donald Trump, floating a legalization deal on 60 Minutes)\n\n• \"Most of your choices are not final.\" (JA Westenberg, to 21-year-olds terrified about the future)\n\n• \"It's the Revenge of the Nerds, except this time the nerds are the bullies, they own the school, and they're charging everyone a subscription fee to attend.\" (Counterpoint, on billionaire tech founders in politics)\n\nAI & The Machines\n\n• The world's top AI executive fell for an old fashioned trap. WIRED digs into how Nvidia chief Jensen Huang got entangled with a woman US intelligence officials say is a Chinese spy. China's use of sexpionage is a well established intelligence tactic with recent high profile examples, which makes it stranger that the man building the world's most sophisticated AI missed something so analog. Huang reportedly hired a PR firm known for handling sex scandals last year, and the fallout has the AI industry reeling. (WIRED)\n\nMoney & Power\n\n• Musk's half billion bought nothing. Elon Musk spent nearly half a billion dollars trying to buy the midterm elections for Republicans, and his candidates went down in flames anyway. The voters were not for sale, but the political consultants who pocketed the money did just fine. (Counterpoint)\n\n• Mamdani wants Amazon's drivers on the payroll. New York City Mayor Mamdani is pushing a Delivery Protection Act that would require Amazon to hire its subcontracted delivery drivers, which would let them unionize. Amazon says the bill would force its delivery operations out of the city and push up costs and wait times. Mamdani frames it as workers rights, while critics read it as a bid to hand unions leverage over the biggest company in the world. (Pirate Wires)\n\nThe Culture\n\n• Hollywood is remaking You've Got Mail, and the joke writes itself. Warner Bros. is producing a new version of the 1998 romcom about two business rivals who fall in love anonymously online. The catch is that everyone dates online now, so nothing about that premise is novel anymore. Pirate Wires suggests the only truly fresh romcom left in 2026 is a couple who meets in person, falls in monogamous love, gets married, and buys a starter home they can actually afford. (Pirate Wires)\n\n• Anthropic employees are spending $500K to find love. With IPOs looming, Anthropic and OpenAI staff are paying elite matchmakers upwards of half a million dollars to find a partner in a city suddenly full of rich nerds and, per Pirate Wires, possible foreign assets. The new cottage industry caters to tech workers who can afford to outsource dating the way they outsource everything else. (Pirate Wires)\n\nQuick Hits & Curiosities\n\n• LinkedIn is testing a \"frequent viewer\" label that shows you who keeps checking out your profile. (WIRED)\n\n• The polar vortex is breaking down earlier in the season than ever recorded, and paired with an unprecedented El Nino, forecasters say weather from the UK to the US is about to get weird. (WIRED)\n\n• Papa Ganache, a vegan and gluten free bakery from the Jersey Shore, is coming to 509 Washington Street in Hoboken, with signage already up. (The Hoboken Girl)\n\n• Hoboken resident Christian Miller is training to run seven marathons on seven continents in seven days as part of The Great World Race in November 2027. (The Hoboken Girl)\n\n• A couple bikepacked a 400 mile loop around Washington's Olympic Mountains, with 50,000 feet of climbing, hot springs, black bears, and a birthday celebration at Sol Duc. (InsideHook)\n\n• Apres riding is a thing: Plum Sykes makes the case for the equestrian look, tall boots, hacking jackets, moth holes and all, with no horse required. (Plum Sykes)\n\n• Eddie Huang's new season of Huang's World kicks off at the Russian Tea Room, treating chefs as auteurs across all New York restaurants. (Canal Street Dreams)\n\n• The New York Times has watched video and podcast stars walk out the door, from Hard Fork hosts Casey Newton and Kevin Roose to Ross Douthat, and Status reports leadership tried to lure one big name back. (Status)",
+      "blocks": [
+        {
+          "type": "heading_1",
+          "runs": [
+            {
+              "text": "Thursday, November 12, 2026 - Morning Edition",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Today's Numbers",
+              "url": "",
+              "bold": true,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "$330 million",
+              "url": "https://www.nytimes.com/2026/11/05/business/media/letterboxd-new-york-times-company.html",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": ": the price the New York Times is reportedly in advanced talks to pay for Letterboxd, the movie logging platform where about 30 million users track and review what they watch. Sony and A24 both circled the company first before the Times took the lead in exclusive negotiations.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "242",
+              "url": "https://www.axios.com/2026/11/10/midterm-election-candidates-podcast-interviews",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": ": the number of podcast appearances Rep. Ro Khanna made across 175 shows between January 2025 and November 3, 2026, the most of any candidate in the cycle. Winning congressional candidates made almost three times as many podcast appearances as the ones who lost, and about 83% of all House and Senate candidates appeared on at least one standalone podcast.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "$1.4 trillion",
+              "url": "https://www.historyboomer.com/p/anthropics-ipo",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": ": the valuation Anthropic is reportedly targeting in an IPO next week that would raise $100 billion, despite exploding compute costs and giant losses. The AI lab is pitching investors on artificial general superintelligence by the middle of 2027.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "3 points",
+              "url": "https://www.theargumentmag.com/p/do-moderates-still-have-an-electability",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": ": the edge moderation still gave Democratic candidates in 2026, down from nearly 5 points between 2018 and 2024. The advantage is shrinking, but it likely decided close races like the still uncalled Senate contests in Mississippi and Alaska.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "below 50%",
+              "url": "https://news.gallup.com/poll/716483/death-penalty-support-drops-below-majority-level.aspx",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": ": support for the death penalty in a new Gallup poll, its joint lowest level since 1971. Fewer than half of Americans now favor the punishment for people convicted of murder, a survey taken shortly after Tennessee's failed execution of Christa Pike.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Quotes of the Day",
+              "url": "",
+              "bold": true,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "\"Get the killers out. Get all the rough ones out. Get the drug dealers out. But let the people that are here, and in some cases here for ten and 15 years, work a deal for them\" (President Donald Trump, floating a legalization deal on 60 Minutes)",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "\"Most of your choices are not final.\" (JA Westenberg, to 21-year-olds terrified about the future)",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "\"It's the Revenge of the Nerds, except this time the nerds are the bullies, they own the school, and they're charging everyone a subscription fee to attend.\" (Counterpoint, on billionaire tech founders in politics)",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "AI & The Machines",
+              "url": "",
+              "bold": true,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "The world's top AI executive fell for an old fashioned trap.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " WIRED digs into how Nvidia chief Jensen Huang got entangled with a woman US intelligence officials say is a Chinese spy. China's use of sexpionage is a well established intelligence tactic with recent high profile examples, which makes it stranger that the man building the world's most sophisticated AI missed something so analog. Huang reportedly hired a PR firm known for handling sex scandals last year, and the fallout has the AI industry reeling. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "WIRED",
+              "url": "https://www.wired.com/",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Money & Power",
+              "url": "",
+              "bold": true,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Musk's half billion bought nothing.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " Elon Musk spent nearly half a billion dollars trying to buy the midterm elections for Republicans, and his candidates went down in flames anyway. The voters were not for sale, but the political consultants who pocketed the money did just fine. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Counterpoint",
+              "url": "https://counterpoint.substack.com/p/revenge-of-the-nerds-edition",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Mamdani wants Amazon's drivers on the payroll.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " New York City Mayor Mamdani is pushing a Delivery Protection Act that would require Amazon to hire its subcontracted delivery drivers, which would let them unionize. Amazon says the bill would force its delivery operations out of the city and push up costs and wait times. Mamdani frames it as workers rights, while critics read it as a bid to hand unions leverage over the biggest company in the world. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Pirate Wires",
+              "url": "https://www.piratewires.com/",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "The Culture",
+              "url": "",
+              "bold": true,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Hollywood is remaking You've Got Mail, and the joke writes itself.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " Warner Bros. is producing a new version of the 1998 romcom about two business rivals who fall in love anonymously online. The catch is that everyone dates online now, so nothing about that premise is novel anymore. Pirate Wires suggests the only truly fresh romcom left in 2026 is a couple who meets in person, falls in monogamous love, gets married, and buys a starter home they can actually afford. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Pirate Wires",
+              "url": "https://www.piratewires.com/",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Anthropic employees are spending $500K to find love.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " With IPOs looming, Anthropic and OpenAI staff are paying elite matchmakers upwards of half a million dollars to find a partner in a city suddenly full of rich nerds and, per Pirate Wires, possible foreign assets. The new cottage industry caters to tech workers who can afford to outsource dating the way they outsource everything else. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Pirate Wires",
+              "url": "https://www.piratewires.com/",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Quick Hits & Curiosities",
+              "url": "",
+              "bold": true,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "LinkedIn is testing a \"frequent viewer\" label that shows you who keeps checking out your profile. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "WIRED",
+              "url": "https://www.wired.com/",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "The polar vortex is breaking down earlier in the season than ever recorded, and paired with an unprecedented El Nino, forecasters say weather from the UK to the US is about to get weird. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "WIRED",
+              "url": "https://www.wired.com/",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Papa Ganache, a vegan and gluten free bakery from the Jersey Shore, is coming to 509 Washington Street in Hoboken, with signage already up. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "The Hoboken Girl",
+              "url": "https://www.hobokengirl.com/papa-ganache-vegan-bakery-hoboken/",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Hoboken resident Christian Miller is training to run seven marathons on seven continents in seven days as part of The Great World Race in November 2027. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "The Hoboken Girl",
+              "url": "https://www.hobokengirl.com/hoboken-christian-miller-great-world-race/",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "A couple bikepacked a 400 mile loop around Washington's Olympic Mountains, with 50,000 feet of climbing, hot springs, black bears, and a birthday celebration at Sol Duc. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "InsideHook",
+              "url": "https://www.insidehook.com/",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Apres riding is a thing: Plum Sykes makes the case for the equestrian look, tall boots, hacking jackets, moth holes and all, with no horse required. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Plum Sykes",
+              "url": "https://plumsykes.substack.com/",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Eddie Huang's new season of Huang's World kicks off at the Russian Tea Room, treating chefs as auteurs across all New York restaurants. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Canal Street Dreams",
+              "url": "https://basedfob.substack.com/p/huangs-world-new-york-and-russian",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "The New York Times has watched video and podcast stars walk out the door, from Hard Fork hosts Casey Newton and Kevin Roose to Ross Douthat, and Status reports leadership tried to lure one big name back. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Status",
+              "url": "https://www.status.news/",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        }
+      ],
+      "publishedAt": "2026-11-12T13:01:00Z",
+      "links": [
+        {
+          "title": "$330 million",
+          "url": "https://www.nytimes.com/2026/11/05/business/media/letterboxd-new-york-times-company.html"
+        },
+        {
+          "title": "242",
+          "url": "https://www.axios.com/2026/11/10/midterm-election-candidates-podcast-interviews"
+        },
+        {
+          "title": "$1.4 trillion",
+          "url": "https://www.historyboomer.com/p/anthropics-ipo"
+        },
+        {
+          "title": "3 points",
+          "url": "https://www.theargumentmag.com/p/do-moderates-still-have-an-electability"
+        },
+        {
+          "title": "below 50%",
+          "url": "https://news.gallup.com/poll/716483/death-penalty-support-drops-below-majority-level.aspx"
+        },
+        {
+          "title": "WIRED",
+          "url": "https://www.wired.com/"
+        },
+        {
+          "title": "Counterpoint",
+          "url": "https://counterpoint.substack.com/p/revenge-of-the-nerds-edition"
+        },
+        {
+          "title": "Pirate Wires",
+          "url": "https://www.piratewires.com/"
+        },
+        {
+          "title": "The Hoboken Girl",
+          "url": "https://www.hobokengirl.com/papa-ganache-vegan-bakery-hoboken/"
+        },
+        {
+          "title": "The Hoboken Girl",
+          "url": "https://www.hobokengirl.com/hoboken-christian-miller-great-world-race/"
+        },
+        {
+          "title": "InsideHook",
+          "url": "https://www.insidehook.com/"
+        },
+        {
+          "title": "Plum Sykes",
+          "url": "https://plumsykes.substack.com/"
+        },
+        {
+          "title": "Canal Street Dreams",
+          "url": "https://basedfob.substack.com/p/huangs-world-new-york-and-russian"
+        },
+        {
+          "title": "Status",
+          "url": "https://www.status.news/"
+        }
+      ],
+      "versions": {
+        "morning": {
+          "body": "Thursday, November 12, 2026 - Morning Edition\n\nToday's Numbers\n\n• $330 million: the price the New York Times is reportedly in advanced talks to pay for Letterboxd, the movie logging platform where about 30 million users track and review what they watch. Sony and A24 both circled the company first before the Times took the lead in exclusive negotiations.\n\n• 242: the number of podcast appearances Rep. Ro Khanna made across 175 shows between January 2025 and November 3, 2026, the most of any candidate in the cycle. Winning congressional candidates made almost three times as many podcast appearances as the ones who lost, and about 83% of all House and Senate candidates appeared on at least one standalone podcast.\n\n• $1.4 trillion: the valuation Anthropic is reportedly targeting in an IPO next week that would raise $100 billion, despite exploding compute costs and giant losses. The AI lab is pitching investors on artificial general superintelligence by the middle of 2027.\n\n• 3 points: the edge moderation still gave Democratic candidates in 2026, down from nearly 5 points between 2018 and 2024. The advantage is shrinking, but it likely decided close races like the still uncalled Senate contests in Mississippi and Alaska.\n\n• below 50%: support for the death penalty in a new Gallup poll, its joint lowest level since 1971. Fewer than half of Americans now favor the punishment for people convicted of murder, a survey taken shortly after Tennessee's failed execution of Christa Pike.\n\nQuotes of the Day\n\n• \"Get the killers out. Get all the rough ones out. Get the drug dealers out. But let the people that are here, and in some cases here for ten and 15 years, work a deal for them\" (President Donald Trump, floating a legalization deal on 60 Minutes)\n\n• \"Most of your choices are not final.\" (JA Westenberg, to 21-year-olds terrified about the future)\n\n• \"It's the Revenge of the Nerds, except this time the nerds are the bullies, they own the school, and they're charging everyone a subscription fee to attend.\" (Counterpoint, on billionaire tech founders in politics)\n\nAI & The Machines\n\n• The world's top AI executive fell for an old fashioned trap. WIRED digs into how Nvidia chief Jensen Huang got entangled with a woman US intelligence officials say is a Chinese spy. China's use of sexpionage is a well established intelligence tactic with recent high profile examples, which makes it stranger that the man building the world's most sophisticated AI missed something so analog. Huang reportedly hired a PR firm known for handling sex scandals last year, and the fallout has the AI industry reeling. (WIRED)\n\nMoney & Power\n\n• Musk's half billion bought nothing. Elon Musk spent nearly half a billion dollars trying to buy the midterm elections for Republicans, and his candidates went down in flames anyway. The voters were not for sale, but the political consultants who pocketed the money did just fine. (Counterpoint)\n\n• Mamdani wants Amazon's drivers on the payroll. New York City Mayor Mamdani is pushing a Delivery Protection Act that would require Amazon to hire its subcontracted delivery drivers, which would let them unionize. Amazon says the bill would force its delivery operations out of the city and push up costs and wait times. Mamdani frames it as workers rights, while critics read it as a bid to hand unions leverage over the biggest company in the world. (Pirate Wires)\n\nThe Culture\n\n• Hollywood is remaking You've Got Mail, and the joke writes itself. Warner Bros. is producing a new version of the 1998 romcom about two business rivals who fall in love anonymously online. The catch is that everyone dates online now, so nothing about that premise is novel anymore. Pirate Wires suggests the only truly fresh romcom left in 2026 is a couple who meets in person, falls in monogamous love, gets married, and buys a starter home they can actually afford. (Pirate Wires)\n\n• Anthropic employees are spending $500K to find love. With IPOs looming, Anthropic and OpenAI staff are paying elite matchmakers upwards of half a million dollars to find a partner in a city suddenly full of rich nerds and, per Pirate Wires, possible foreign assets. The new cottage industry caters to tech workers who can afford to outsource dating the way they outsource everything else. (Pirate Wires)\n\nQuick Hits & Curiosities\n\n• LinkedIn is testing a \"frequent viewer\" label that shows you who keeps checking out your profile. (WIRED)\n\n• The polar vortex is breaking down earlier in the season than ever recorded, and paired with an unprecedented El Nino, forecasters say weather from the UK to the US is about to get weird. (WIRED)\n\n• Papa Ganache, a vegan and gluten free bakery from the Jersey Shore, is coming to 509 Washington Street in Hoboken, with signage already up. (The Hoboken Girl)\n\n• Hoboken resident Christian Miller is training to run seven marathons on seven continents in seven days as part of The Great World Race in November 2027. (The Hoboken Girl)\n\n• A couple bikepacked a 400 mile loop around Washington's Olympic Mountains, with 50,000 feet of climbing, hot springs, black bears, and a birthday celebration at Sol Duc. (InsideHook)\n\n• Apres riding is a thing: Plum Sykes makes the case for the equestrian look, tall boots, hacking jackets, moth holes and all, with no horse required. (Plum Sykes)\n\n• Eddie Huang's new season of Huang's World kicks off at the Russian Tea Room, treating chefs as auteurs across all New York restaurants. (Canal Street Dreams)\n\n• The New York Times has watched video and podcast stars walk out the door, from Hard Fork hosts Casey Newton and Kevin Roose to Ross Douthat, and Status reports leadership tried to lure one big name back. (Status)",
+          "blocks": [
+            {
+              "type": "heading_1",
+              "runs": [
+                {
+                  "text": "Thursday, November 12, 2026 - Morning Edition",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Today's Numbers",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "$330 million",
+                  "url": "https://www.nytimes.com/2026/11/05/business/media/letterboxd-new-york-times-company.html",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": the price the New York Times is reportedly in advanced talks to pay for Letterboxd, the movie logging platform where about 30 million users track and review what they watch. Sony and A24 both circled the company first before the Times took the lead in exclusive negotiations.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "242",
+                  "url": "https://www.axios.com/2026/11/10/midterm-election-candidates-podcast-interviews",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": the number of podcast appearances Rep. Ro Khanna made across 175 shows between January 2025 and November 3, 2026, the most of any candidate in the cycle. Winning congressional candidates made almost three times as many podcast appearances as the ones who lost, and about 83% of all House and Senate candidates appeared on at least one standalone podcast.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "$1.4 trillion",
+                  "url": "https://www.historyboomer.com/p/anthropics-ipo",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": the valuation Anthropic is reportedly targeting in an IPO next week that would raise $100 billion, despite exploding compute costs and giant losses. The AI lab is pitching investors on artificial general superintelligence by the middle of 2027.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "3 points",
+                  "url": "https://www.theargumentmag.com/p/do-moderates-still-have-an-electability",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": the edge moderation still gave Democratic candidates in 2026, down from nearly 5 points between 2018 and 2024. The advantage is shrinking, but it likely decided close races like the still uncalled Senate contests in Mississippi and Alaska.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "below 50%",
+                  "url": "https://news.gallup.com/poll/716483/death-penalty-support-drops-below-majority-level.aspx",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": support for the death penalty in a new Gallup poll, its joint lowest level since 1971. Fewer than half of Americans now favor the punishment for people convicted of murder, a survey taken shortly after Tennessee's failed execution of Christa Pike.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Quotes of the Day",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "\"Get the killers out. Get all the rough ones out. Get the drug dealers out. But let the people that are here, and in some cases here for ten and 15 years, work a deal for them\" (President Donald Trump, floating a legalization deal on 60 Minutes)",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "\"Most of your choices are not final.\" (JA Westenberg, to 21-year-olds terrified about the future)",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "\"It's the Revenge of the Nerds, except this time the nerds are the bullies, they own the school, and they're charging everyone a subscription fee to attend.\" (Counterpoint, on billionaire tech founders in politics)",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "AI & The Machines",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "The world's top AI executive fell for an old fashioned trap.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " WIRED digs into how Nvidia chief Jensen Huang got entangled with a woman US intelligence officials say is a Chinese spy. China's use of sexpionage is a well established intelligence tactic with recent high profile examples, which makes it stranger that the man building the world's most sophisticated AI missed something so analog. Huang reportedly hired a PR firm known for handling sex scandals last year, and the fallout has the AI industry reeling. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "WIRED",
+                  "url": "https://www.wired.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Money & Power",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Musk's half billion bought nothing.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " Elon Musk spent nearly half a billion dollars trying to buy the midterm elections for Republicans, and his candidates went down in flames anyway. The voters were not for sale, but the political consultants who pocketed the money did just fine. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Counterpoint",
+                  "url": "https://counterpoint.substack.com/p/revenge-of-the-nerds-edition",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Mamdani wants Amazon's drivers on the payroll.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " New York City Mayor Mamdani is pushing a Delivery Protection Act that would require Amazon to hire its subcontracted delivery drivers, which would let them unionize. Amazon says the bill would force its delivery operations out of the city and push up costs and wait times. Mamdani frames it as workers rights, while critics read it as a bid to hand unions leverage over the biggest company in the world. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Pirate Wires",
+                  "url": "https://www.piratewires.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "The Culture",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Hollywood is remaking You've Got Mail, and the joke writes itself.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " Warner Bros. is producing a new version of the 1998 romcom about two business rivals who fall in love anonymously online. The catch is that everyone dates online now, so nothing about that premise is novel anymore. Pirate Wires suggests the only truly fresh romcom left in 2026 is a couple who meets in person, falls in monogamous love, gets married, and buys a starter home they can actually afford. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Pirate Wires",
+                  "url": "https://www.piratewires.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Anthropic employees are spending $500K to find love.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " With IPOs looming, Anthropic and OpenAI staff are paying elite matchmakers upwards of half a million dollars to find a partner in a city suddenly full of rich nerds and, per Pirate Wires, possible foreign assets. The new cottage industry caters to tech workers who can afford to outsource dating the way they outsource everything else. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Pirate Wires",
+                  "url": "https://www.piratewires.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Quick Hits & Curiosities",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "LinkedIn is testing a \"frequent viewer\" label that shows you who keeps checking out your profile. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "WIRED",
+                  "url": "https://www.wired.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "The polar vortex is breaking down earlier in the season than ever recorded, and paired with an unprecedented El Nino, forecasters say weather from the UK to the US is about to get weird. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "WIRED",
+                  "url": "https://www.wired.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Papa Ganache, a vegan and gluten free bakery from the Jersey Shore, is coming to 509 Washington Street in Hoboken, with signage already up. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "The Hoboken Girl",
+                  "url": "https://www.hobokengirl.com/papa-ganache-vegan-bakery-hoboken/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Hoboken resident Christian Miller is training to run seven marathons on seven continents in seven days as part of The Great World Race in November 2027. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "The Hoboken Girl",
+                  "url": "https://www.hobokengirl.com/hoboken-christian-miller-great-world-race/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "A couple bikepacked a 400 mile loop around Washington's Olympic Mountains, with 50,000 feet of climbing, hot springs, black bears, and a birthday celebration at Sol Duc. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "InsideHook",
+                  "url": "https://www.insidehook.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Apres riding is a thing: Plum Sykes makes the case for the equestrian look, tall boots, hacking jackets, moth holes and all, with no horse required. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Plum Sykes",
+                  "url": "https://plumsykes.substack.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Eddie Huang's new season of Huang's World kicks off at the Russian Tea Room, treating chefs as auteurs across all New York restaurants. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Canal Street Dreams",
+                  "url": "https://basedfob.substack.com/p/huangs-world-new-york-and-russian",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "The New York Times has watched video and podcast stars walk out the door, from Hard Fork hosts Casey Newton and Kevin Roose to Ross Douthat, and Status reports leadership tried to lure one big name back. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Status",
+                  "url": "https://www.status.news/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            }
+          ],
+          "links": [
+            {
+              "title": "$330 million",
+              "url": "https://www.nytimes.com/2026/11/05/business/media/letterboxd-new-york-times-company.html"
+            },
+            {
+              "title": "242",
+              "url": "https://www.axios.com/2026/11/10/midterm-election-candidates-podcast-interviews"
+            },
+            {
+              "title": "$1.4 trillion",
+              "url": "https://www.historyboomer.com/p/anthropics-ipo"
+            },
+            {
+              "title": "3 points",
+              "url": "https://www.theargumentmag.com/p/do-moderates-still-have-an-electability"
+            },
+            {
+              "title": "below 50%",
+              "url": "https://news.gallup.com/poll/716483/death-penalty-support-drops-below-majority-level.aspx"
+            },
+            {
+              "title": "WIRED",
+              "url": "https://www.wired.com/"
+            },
+            {
+              "title": "Counterpoint",
+              "url": "https://counterpoint.substack.com/p/revenge-of-the-nerds-edition"
+            },
+            {
+              "title": "Pirate Wires",
+              "url": "https://www.piratewires.com/"
+            },
+            {
+              "title": "The Hoboken Girl",
+              "url": "https://www.hobokengirl.com/papa-ganache-vegan-bakery-hoboken/"
+            },
+            {
+              "title": "The Hoboken Girl",
+              "url": "https://www.hobokengirl.com/hoboken-christian-miller-great-world-race/"
+            },
+            {
+              "title": "InsideHook",
+              "url": "https://www.insidehook.com/"
+            },
+            {
+              "title": "Plum Sykes",
+              "url": "https://plumsykes.substack.com/"
+            },
+            {
+              "title": "Canal Street Dreams",
+              "url": "https://basedfob.substack.com/p/huangs-world-new-york-and-russian"
+            },
+            {
+              "title": "Status",
+              "url": "https://www.status.news/"
+            }
+          ]
+        },
+        "full": {
+          "body": "Thursday, November 12, 2026 - Morning Edition\n\nToday's Numbers\n\n• $330 million: the price the New York Times is reportedly in advanced talks to pay for Letterboxd, the movie logging platform where about 30 million users track and review what they watch. Sony and A24 both circled the company first before the Times took the lead in exclusive negotiations.\n\n• 242: the number of podcast appearances Rep. Ro Khanna made across 175 shows between January 2025 and November 3, 2026, the most of any candidate in the cycle. Winning congressional candidates made almost three times as many podcast appearances as the ones who lost, and about 83% of all House and Senate candidates appeared on at least one standalone podcast.\n\n• $1.4 trillion: the valuation Anthropic is reportedly targeting in an IPO next week that would raise $100 billion, despite exploding compute costs and giant losses. The AI lab is pitching investors on artificial general superintelligence by the middle of 2027.\n\n• 3 points: the edge moderation still gave Democratic candidates in 2026, down from nearly 5 points between 2018 and 2024. The advantage is shrinking, but it likely decided close races like the still uncalled Senate contests in Mississippi and Alaska.\n\n• below 50%: support for the death penalty in a new Gallup poll, its joint lowest level since 1971. Fewer than half of Americans now favor the punishment for people convicted of murder, a survey taken shortly after Tennessee's failed execution of Christa Pike.\n\nQuotes of the Day\n\n• \"Get the killers out. Get all the rough ones out. Get the drug dealers out. But let the people that are here, and in some cases here for ten and 15 years, work a deal for them\" (President Donald Trump, floating a legalization deal on 60 Minutes)\n\n• \"Most of your choices are not final.\" (JA Westenberg, to 21-year-olds terrified about the future)\n\n• \"It's the Revenge of the Nerds, except this time the nerds are the bullies, they own the school, and they're charging everyone a subscription fee to attend.\" (Counterpoint, on billionaire tech founders in politics)\n\nAI & The Machines\n\n• The world's top AI executive fell for an old fashioned trap. WIRED digs into how Nvidia chief Jensen Huang got entangled with a woman US intelligence officials say is a Chinese spy. China's use of sexpionage is a well established intelligence tactic with recent high profile examples, which makes it stranger that the man building the world's most sophisticated AI missed something so analog. Huang reportedly hired a PR firm known for handling sex scandals last year, and the fallout has the AI industry reeling. (WIRED)\n\nMoney & Power\n\n• Musk's half billion bought nothing. Elon Musk spent nearly half a billion dollars trying to buy the midterm elections for Republicans, and his candidates went down in flames anyway. The voters were not for sale, but the political consultants who pocketed the money did just fine. (Counterpoint)\n\n• Mamdani wants Amazon's drivers on the payroll. New York City Mayor Mamdani is pushing a Delivery Protection Act that would require Amazon to hire its subcontracted delivery drivers, which would let them unionize. Amazon says the bill would force its delivery operations out of the city and push up costs and wait times. Mamdani frames it as workers rights, while critics read it as a bid to hand unions leverage over the biggest company in the world. (Pirate Wires)\n\nThe Culture\n\n• Hollywood is remaking You've Got Mail, and the joke writes itself. Warner Bros. is producing a new version of the 1998 romcom about two business rivals who fall in love anonymously online. The catch is that everyone dates online now, so nothing about that premise is novel anymore. Pirate Wires suggests the only truly fresh romcom left in 2026 is a couple who meets in person, falls in monogamous love, gets married, and buys a starter home they can actually afford. (Pirate Wires)\n\n• Anthropic employees are spending $500K to find love. With IPOs looming, Anthropic and OpenAI staff are paying elite matchmakers upwards of half a million dollars to find a partner in a city suddenly full of rich nerds and, per Pirate Wires, possible foreign assets. The new cottage industry caters to tech workers who can afford to outsource dating the way they outsource everything else. (Pirate Wires)\n\nQuick Hits & Curiosities\n\n• LinkedIn is testing a \"frequent viewer\" label that shows you who keeps checking out your profile. (WIRED)\n\n• The polar vortex is breaking down earlier in the season than ever recorded, and paired with an unprecedented El Nino, forecasters say weather from the UK to the US is about to get weird. (WIRED)\n\n• Papa Ganache, a vegan and gluten free bakery from the Jersey Shore, is coming to 509 Washington Street in Hoboken, with signage already up. (The Hoboken Girl)\n\n• Hoboken resident Christian Miller is training to run seven marathons on seven continents in seven days as part of The Great World Race in November 2027. (The Hoboken Girl)\n\n• A couple bikepacked a 400 mile loop around Washington's Olympic Mountains, with 50,000 feet of climbing, hot springs, black bears, and a birthday celebration at Sol Duc. (InsideHook)\n\n• Apres riding is a thing: Plum Sykes makes the case for the equestrian look, tall boots, hacking jackets, moth holes and all, with no horse required. (Plum Sykes)\n\n• Eddie Huang's new season of Huang's World kicks off at the Russian Tea Room, treating chefs as auteurs across all New York restaurants. (Canal Street Dreams)\n\n• The New York Times has watched video and podcast stars walk out the door, from Hard Fork hosts Casey Newton and Kevin Roose to Ross Douthat, and Status reports leadership tried to lure one big name back. (Status)",
+          "blocks": [
+            {
+              "type": "heading_1",
+              "runs": [
+                {
+                  "text": "Thursday, November 12, 2026 - Morning Edition",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Today's Numbers",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "$330 million",
+                  "url": "https://www.nytimes.com/2026/11/05/business/media/letterboxd-new-york-times-company.html",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": the price the New York Times is reportedly in advanced talks to pay for Letterboxd, the movie logging platform where about 30 million users track and review what they watch. Sony and A24 both circled the company first before the Times took the lead in exclusive negotiations.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "242",
+                  "url": "https://www.axios.com/2026/11/10/midterm-election-candidates-podcast-interviews",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": the number of podcast appearances Rep. Ro Khanna made across 175 shows between January 2025 and November 3, 2026, the most of any candidate in the cycle. Winning congressional candidates made almost three times as many podcast appearances as the ones who lost, and about 83% of all House and Senate candidates appeared on at least one standalone podcast.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "$1.4 trillion",
+                  "url": "https://www.historyboomer.com/p/anthropics-ipo",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": the valuation Anthropic is reportedly targeting in an IPO next week that would raise $100 billion, despite exploding compute costs and giant losses. The AI lab is pitching investors on artificial general superintelligence by the middle of 2027.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "3 points",
+                  "url": "https://www.theargumentmag.com/p/do-moderates-still-have-an-electability",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": the edge moderation still gave Democratic candidates in 2026, down from nearly 5 points between 2018 and 2024. The advantage is shrinking, but it likely decided close races like the still uncalled Senate contests in Mississippi and Alaska.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "below 50%",
+                  "url": "https://news.gallup.com/poll/716483/death-penalty-support-drops-below-majority-level.aspx",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": support for the death penalty in a new Gallup poll, its joint lowest level since 1971. Fewer than half of Americans now favor the punishment for people convicted of murder, a survey taken shortly after Tennessee's failed execution of Christa Pike.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Quotes of the Day",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "\"Get the killers out. Get all the rough ones out. Get the drug dealers out. But let the people that are here, and in some cases here for ten and 15 years, work a deal for them\" (President Donald Trump, floating a legalization deal on 60 Minutes)",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "\"Most of your choices are not final.\" (JA Westenberg, to 21-year-olds terrified about the future)",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "\"It's the Revenge of the Nerds, except this time the nerds are the bullies, they own the school, and they're charging everyone a subscription fee to attend.\" (Counterpoint, on billionaire tech founders in politics)",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "AI & The Machines",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "The world's top AI executive fell for an old fashioned trap.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " WIRED digs into how Nvidia chief Jensen Huang got entangled with a woman US intelligence officials say is a Chinese spy. China's use of sexpionage is a well established intelligence tactic with recent high profile examples, which makes it stranger that the man building the world's most sophisticated AI missed something so analog. Huang reportedly hired a PR firm known for handling sex scandals last year, and the fallout has the AI industry reeling. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "WIRED",
+                  "url": "https://www.wired.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Money & Power",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Musk's half billion bought nothing.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " Elon Musk spent nearly half a billion dollars trying to buy the midterm elections for Republicans, and his candidates went down in flames anyway. The voters were not for sale, but the political consultants who pocketed the money did just fine. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Counterpoint",
+                  "url": "https://counterpoint.substack.com/p/revenge-of-the-nerds-edition",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Mamdani wants Amazon's drivers on the payroll.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " New York City Mayor Mamdani is pushing a Delivery Protection Act that would require Amazon to hire its subcontracted delivery drivers, which would let them unionize. Amazon says the bill would force its delivery operations out of the city and push up costs and wait times. Mamdani frames it as workers rights, while critics read it as a bid to hand unions leverage over the biggest company in the world. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Pirate Wires",
+                  "url": "https://www.piratewires.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "The Culture",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Hollywood is remaking You've Got Mail, and the joke writes itself.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " Warner Bros. is producing a new version of the 1998 romcom about two business rivals who fall in love anonymously online. The catch is that everyone dates online now, so nothing about that premise is novel anymore. Pirate Wires suggests the only truly fresh romcom left in 2026 is a couple who meets in person, falls in monogamous love, gets married, and buys a starter home they can actually afford. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Pirate Wires",
+                  "url": "https://www.piratewires.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Anthropic employees are spending $500K to find love.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " With IPOs looming, Anthropic and OpenAI staff are paying elite matchmakers upwards of half a million dollars to find a partner in a city suddenly full of rich nerds and, per Pirate Wires, possible foreign assets. The new cottage industry caters to tech workers who can afford to outsource dating the way they outsource everything else. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Pirate Wires",
+                  "url": "https://www.piratewires.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Quick Hits & Curiosities",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "LinkedIn is testing a \"frequent viewer\" label that shows you who keeps checking out your profile. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "WIRED",
+                  "url": "https://www.wired.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "The polar vortex is breaking down earlier in the season than ever recorded, and paired with an unprecedented El Nino, forecasters say weather from the UK to the US is about to get weird. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "WIRED",
+                  "url": "https://www.wired.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Papa Ganache, a vegan and gluten free bakery from the Jersey Shore, is coming to 509 Washington Street in Hoboken, with signage already up. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "The Hoboken Girl",
+                  "url": "https://www.hobokengirl.com/papa-ganache-vegan-bakery-hoboken/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Hoboken resident Christian Miller is training to run seven marathons on seven continents in seven days as part of The Great World Race in November 2027. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "The Hoboken Girl",
+                  "url": "https://www.hobokengirl.com/hoboken-christian-miller-great-world-race/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "A couple bikepacked a 400 mile loop around Washington's Olympic Mountains, with 50,000 feet of climbing, hot springs, black bears, and a birthday celebration at Sol Duc. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "InsideHook",
+                  "url": "https://www.insidehook.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Apres riding is a thing: Plum Sykes makes the case for the equestrian look, tall boots, hacking jackets, moth holes and all, with no horse required. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Plum Sykes",
+                  "url": "https://plumsykes.substack.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Eddie Huang's new season of Huang's World kicks off at the Russian Tea Room, treating chefs as auteurs across all New York restaurants. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Canal Street Dreams",
+                  "url": "https://basedfob.substack.com/p/huangs-world-new-york-and-russian",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "The New York Times has watched video and podcast stars walk out the door, from Hard Fork hosts Casey Newton and Kevin Roose to Ross Douthat, and Status reports leadership tried to lure one big name back. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Status",
+                  "url": "https://www.status.news/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            }
+          ],
+          "links": [
+            {
+              "title": "$330 million",
+              "url": "https://www.nytimes.com/2026/11/05/business/media/letterboxd-new-york-times-company.html"
+            },
+            {
+              "title": "242",
+              "url": "https://www.axios.com/2026/11/10/midterm-election-candidates-podcast-interviews"
+            },
+            {
+              "title": "$1.4 trillion",
+              "url": "https://www.historyboomer.com/p/anthropics-ipo"
+            },
+            {
+              "title": "3 points",
+              "url": "https://www.theargumentmag.com/p/do-moderates-still-have-an-electability"
+            },
+            {
+              "title": "below 50%",
+              "url": "https://news.gallup.com/poll/716483/death-penalty-support-drops-below-majority-level.aspx"
+            },
+            {
+              "title": "WIRED",
+              "url": "https://www.wired.com/"
+            },
+            {
+              "title": "Counterpoint",
+              "url": "https://counterpoint.substack.com/p/revenge-of-the-nerds-edition"
+            },
+            {
+              "title": "Pirate Wires",
+              "url": "https://www.piratewires.com/"
+            },
+            {
+              "title": "The Hoboken Girl",
+              "url": "https://www.hobokengirl.com/papa-ganache-vegan-bakery-hoboken/"
+            },
+            {
+              "title": "The Hoboken Girl",
+              "url": "https://www.hobokengirl.com/hoboken-christian-miller-great-world-race/"
+            },
+            {
+              "title": "InsideHook",
+              "url": "https://www.insidehook.com/"
+            },
+            {
+              "title": "Plum Sykes",
+              "url": "https://plumsykes.substack.com/"
+            },
+            {
+              "title": "Canal Street Dreams",
+              "url": "https://basedfob.substack.com/p/huangs-world-new-york-and-russian"
+            },
+            {
+              "title": "Status",
+              "url": "https://www.status.news/"
+            }
+          ]
+        }
+      }
     }
   ]
 }
