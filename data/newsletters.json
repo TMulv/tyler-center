@@ -273227,6 +273227,2264 @@
       ],
       "publishedAt": "2026-11-12T22:03:00Z",
       "links": []
+    },
+    {
+      "id": "digest-4178153c-8a3e-8188-a9d2-dce812ef4f6b",
+      "channel": "newsletters",
+      "source": "notion",
+      "kind": "Agent-written digest",
+      "domain": "Daily newsletter digest",
+      "title": "Nvidia Employees Want Jensen Back, the SS United States Becomes a Reef, HELOCs Boom - Friday, November 13, 2026",
+      "url": "",
+      "description": "Friday, November 13, 2026 - Morning Edition",
+      "body": "Friday, November 13, 2026 - Morning Edition\n\nToday's Numbers\n\n• $23 billion: the jump in home equity line of credit balances last quarter, the largest increase since 2005 and the 18th straight quarterly rise. Total HELOC balances now sit at $481 billion.\n\n• 13%: how far Reddit's traffic has fallen, partly because Google's AI Overviews answer questions before anyone clicks through to the site.\n\n• 41 mph: the average speed the SS United States held on its record-setting 1952 transatlantic crossing. The ship, bigger than the Titanic, was sunk this week off Pensacola to become an artificial reef.\n\n• 7.1 million: streams of Mariah Carey's \"All I Want for Christmas Is You\" last week, enough to put the song back on the Billboard Hot 100 in mid-November.\n\nQuotes of the Day\n\n• \"Any output from AI should take longer to produce than it does to consume.\" (Noah Brier, unveiling his new axiom at the BRXND.ai conference)\n\n• \"A 'non-material' amount of users are having their AI agents book Airbnb listings for them.\" (Brian Chesky, on an Airbnb earnings call)\n\n• \"For sex-realists, feminism begins with the bodily differences between men and women.\" (The Argument, introducing its debate on sex and gender)\n\nAI & The Machines\n\nJensen Huang is out, and his employees want him back. Nvidia CEO Jensen Huang resigned Thursday after reports of affairs with an alleged Chinese intelligence asset and with subordinates, and now an internal post urging the board to reinstall him has drawn more than 1,600 comments, mostly in support. CFO Colette Kress takes over as interim CEO while House Democrats open an investigation into Huang's dealings. Casey Newton argues the real scandal was never the sex, it was Silicon Valley's cult of the founder, the idea that a visionary CEO sits above normal governance. (Platformer)\n\nUnited Airlines just banned AI agents from booking flights. The airline says agents could expose customer data or make unintended purchases, and warns they could run afoul of federal rules requiring passengers to personally confirm they are not carrying explosives. Fair point on the explosives, but travel sites report AI-assisted users convert at twice the rate of everyone else, so United may be banning its best customers. (Pirate Wires)\n\nAI is breaking the trust between writers and readers. As literary scams multiply, authors no longer know whether their readers are real, and readers no longer know whether their authors are. The Atlantic looks at a publishing world where faked books, faked reviews, and faked audiences are now part of the business model. (The Atlantic)\n\nMoney & Power\n\nCongress may claw back the money behind the deportation machine. Rep. Lauren Underwood introduced the DHS Funding Accountability Act, a one-sentence bill that would rescind the unspent balances of eight sections of the One Big Beautiful Bill Act, including ICE's $45 billion for detention. It is the first bill aimed directly at the funding, not the policy, and it has been referred to three committees with no cosponsors yet. (Migrant Insider)\n\nSeventeen attorneys general are trying to stop BAAJA before its final votes. The Senate votes on cloture Monday afternoon around 6pm, then again in the wee hours of Wednesday around 1am, and the Democratic AGs want leadership to delay the bill to allow more debate over its threat to state and tribal sovereignty. New analyses find the bill would neither stop Trump's war on wind nor address skyrocketing energy bills. (Hill Heat)\n\nKraft Heinz has a comeback plan, and it involves cheesy ramen. The food giant is betting on cheesy ramen and high-protein Jell-O to win back shoppers who drifted away. (The Wall Street Journal)\n\nThe Culture\n\nCybertruck loyalists are in mourning, and they want answers from Elon Musk. Tesla is ready to move on from its most controversial vehicle, with production reportedly winding down in mid-2027, but owners who bought into the stainless steel dream are not letting Musk off the hook for the decision. (WIRED)\n\nIt took 42 years to bring Neuromancer to the screen. William Gibson's 1984 novel is finally becoming an Apple TV series, and WIRED has the exclusive on the long road there, with an assist from Drake. (WIRED)\n\nAnthropic employees are spending up to $500,000 on matchmakers. With IPOs looming, AI workers in San Francisco are paying elite matchmakers half a million dollars to find love in a city now teeming with attractive singles, some of whom, Pirate Wires jokes, might be foreign assets. (Pirate Wires)\n\nQuick Hits & Curiosities\n\n• A major Microsoft Outlook outage left people with email jobs unable to email, with Microsoft citing \"elevated loads\" as it raced to fix it. (WIRED)\n\n• Google DeepMind staff have tapped the UK government to escalate their unionization fight after talks with management stalled. (WIRED)\n\n• Brain-computer interface startup Synchron paused its clinical trials after its latest implant struggled to perform. (WIRED)\n\n• Google and Samsung's Android XR smart glasses are finally here, with Warby Parker frames at $395 and Gentle Monster at $449. (WIRED)\n\n• SoftBank's billion-dollar loss may have put a cap on AI's natural gas ambitions. (TechCrunch)\n\n• Beijing is trying to build a Chinese rival for insuring world shipping. (The Wall Street Journal)\n\n• Bosses trust employees less when they use AI, according to new research. (Futurism)\n\n• A whistleblower says illegal immigrants likely make up 80% of the field workers at Gavin Newsom's PlumpJack winery, per a Chris Rufo investigation. (Pirate Wires)\n\n• Gen Z is in its anti-algorithm era. (The 74)",
+      "blocks": [
+        {
+          "type": "heading_1",
+          "runs": [
+            {
+              "text": "Friday, November 13, 2026 - Morning Edition",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Today's Numbers",
+              "url": "",
+              "bold": true,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "$23 billion",
+              "url": "https://conorsen.substack.com/p/the-nascent-heloc-boom-isnt-a-replay",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": ": the jump in home equity line of credit balances last quarter, the largest increase since 2005 and the 18th straight quarterly rise. Total HELOC balances now sit at $481 billion.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "13%",
+              "url": "https://www.businessinsider.com/reddit-traffic-down-13-percent-similarweb-google-ai-overviews-2026-11",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": ": how far Reddit's traffic has fallen, partly because Google's AI Overviews answer questions before anyone clicks through to the site.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "41 mph",
+              "url": "https://apnews.com/article/ss-united-states-ocean-liner-artificial-reef-88773c4030b0e2e12f3d63f5426ad285",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": ": the average speed the SS United States held on its record-setting 1952 transatlantic crossing. The ship, bigger than the Titanic, was sunk this week off Pensacola to become an artificial reef.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "7.1 million",
+              "url": "https://sherwood.news/",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": ": streams of Mariah Carey's \"All I Want for Christmas Is You\" last week, enough to put the song back on the Billboard Hot 100 in mid-November.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Quotes of the Day",
+              "url": "",
+              "bold": true,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "\"Any output from AI should take longer to produce than it does to consume.\" (Noah Brier, unveiling his new axiom at the ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "BRXND.ai",
+              "url": "http://brxnd.ai/",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": " conference)",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "\"A 'non-material' amount of users are having their AI agents book Airbnb listings for them.\" (Brian Chesky, on an Airbnb earnings call)",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "\"For sex-realists, feminism begins with the bodily differences between men and women.\" (The Argument, introducing its debate on sex and gender)",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "AI & The Machines",
+              "url": "",
+              "bold": true,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Jensen Huang is out, and his employees want him back.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " Nvidia CEO Jensen Huang resigned Thursday after reports of affairs with an alleged Chinese intelligence asset and with subordinates, and now an internal post urging the board to reinstall him has drawn more than 1,600 comments, mostly in support. CFO Colette Kress takes over as interim CEO while House Democrats open an investigation into Huang's dealings. Casey Newton argues the real scandal was never the sex, it was Silicon Valley's cult of the founder, the idea that a visionary CEO sits above normal governance. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Platformer",
+              "url": "https://www.platformer.news/r/cfa1a5c0?m=56c6dd59-97d1-4fa0-90df-ea50f5c5e745",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "United Airlines just banned AI agents from booking flights.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " The airline says agents could expose customer data or make unintended purchases, and warns they could run afoul of federal rules requiring passengers to personally confirm they are not carrying explosives. Fair point on the explosives, but travel sites report AI-assisted users convert at twice the rate of everyone else, so United may be banning its best customers. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Pirate Wires",
+              "url": "https://www.piratewires.com/",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "AI is breaking the trust between writers and readers.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " As literary scams multiply, authors no longer know whether their readers are real, and readers no longer know whether their authors are. The Atlantic looks at a publishing world where faked books, faked reviews, and faked audiences are now part of the business model. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "The Atlantic",
+              "url": "https://substack.com/redirect/0668c71a-297a-4ae7-9601-30e36206e68c?j=eyJ1IjoiN2Q3enE4In0.7pbfBla92ey1YAw8kUidlNGoEo8Z6-07qYHrXDWvLkY",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Money & Power",
+              "url": "",
+              "bold": true,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Congress may claw back the money behind the deportation machine.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " Rep. Lauren Underwood introduced the DHS Funding Accountability Act, a one-sentence bill that would rescind the unspent balances of eight sections of the One Big Beautiful Bill Act, including ICE's $45 billion for detention. It is the first bill aimed directly at the funding, not the policy, and it has been referred to three committees with no cosponsors yet. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Migrant Insider",
+              "url": "https://migrantinsider.com/p/scoop-ice-funding-clawback-begins",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Seventeen attorneys general are trying to stop BAAJA before its final votes.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " The Senate votes on cloture Monday afternoon around 6pm, then again in the wee hours of Wednesday around 1am, and the Democratic AGs want leadership to delay the bill to allow more debate over its threat to state and tribal sovereignty. New analyses find the bill would neither stop Trump's war on wind nor address skyrocketing energy bills. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Hill Heat",
+              "url": "https://hillheat.news/",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Kraft Heinz has a comeback plan, and it involves cheesy ramen.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " The food giant is betting on cheesy ramen and high-protein Jell-O to win back shoppers who drifted away. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "The Wall Street Journal",
+              "url": "https://www.wsj.com/business/retail/kraft-heinz-has-a-comeback-plan-cheesy-ramen-and-high-protein-jell-o-6fbfc2f8?mod=WSJ_home_feature_2_pos_1",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "The Culture",
+              "url": "",
+              "bold": true,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Cybertruck loyalists are in mourning, and they want answers from Elon Musk.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " Tesla is ready to move on from its most controversial vehicle, with production reportedly winding down in mid-2027, but owners who bought into the stainless steel dream are not letting Musk off the hook for the decision. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "WIRED",
+              "url": "https://links.wired.com/z/c/977/e3849fb0417a47f99391398bbc40dfd1/0e0a01cab42a47a399e621355cbad206",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "It took 42 years to bring Neuromancer to the screen.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " William Gibson's 1984 novel is finally becoming an Apple TV series, and WIRED has the exclusive on the long road there, with an assist from Drake. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "WIRED",
+              "url": "https://links.wired.com/z/c/977/58884beba28e46cf900954672a4af063/6e5ab977e1b740ee9dd53fff5a5bcc61",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Anthropic employees are spending up to $500,000 on matchmakers.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " With IPOs looming, AI workers in San Francisco are paying elite matchmakers half a million dollars to find love in a city now teeming with attractive singles, some of whom, Pirate Wires jokes, might be foreign assets. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Pirate Wires",
+              "url": "https://www.piratewires.com/",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Quick Hits & Curiosities",
+              "url": "",
+              "bold": true,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "A major Microsoft Outlook outage left people with email jobs unable to email, with Microsoft citing \"elevated loads\" as it raced to fix it. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "WIRED",
+              "url": "https://links.wired.com/z/c/977/e3849fb0417a47f99391398bbc40dfd1/5b606033616d4bd9ab8650c5acf81111",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Google DeepMind staff have tapped the UK government to escalate their unionization fight after talks with management stalled. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "WIRED",
+              "url": "https://links.wired.com/z/c/977/e3849fb0417a47f99391398bbc40dfd1/5ca740080cc140c48c89b56cad8f72e0",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Brain-computer interface startup Synchron paused its clinical trials after its latest implant struggled to perform. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "WIRED",
+              "url": "https://links.wired.com/z/c/977/e3849fb0417a47f99391398bbc40dfd1/16993a339a7043f9bb6dc5bc08fabce7",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Google and Samsung's Android XR smart glasses are finally here, with Warby Parker frames at $395 and Gentle Monster at $449. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "WIRED",
+              "url": "https://links.wired.com/z/c/977/58884beba28e46cf900954672a4af063/cef3b8ff25184bb1b6cfcb99d419cff3",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "SoftBank's billion-dollar loss may have put a cap on AI's natural gas ambitions. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "TechCrunch",
+              "url": "https://techcrunch.com/2026/11/12/softbanks-billion-dollar-loss-may-have-put-a-cap-on-ais-natural-gas-ambitions/",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Beijing is trying to build a Chinese rival for insuring world shipping. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "The Wall Street Journal",
+              "url": "https://www.wsj.com/business/logistics/beijing-is-trying-to-build-a-chinese-rival-for-insuring-world-shipping-eaf8ccdb?mod=hp_lead_pos11",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Bosses trust employees less when they use AI, according to new research. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Futurism",
+              "url": "https://substack.com/redirect/893b6407-5b24-4cbe-adfc-25386dfb2d16?j=eyJ1IjoiN2Q3enE4In0.7pbfBla92ey1YAw8kUidlNGoEo8Z6-07qYHrXDWvLkY",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "A whistleblower says illegal immigrants likely make up 80% of the field workers at Gavin Newsom's PlumpJack winery, per a Chris Rufo investigation. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Pirate Wires",
+              "url": "https://www.piratewires.com/",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Gen Z is in its anti-algorithm era. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "The 74",
+              "url": "https://substack.com/redirect/2fb5c7be-8203-4ddd-a788-e477f6d9f268?j=eyJ1IjoiN2Q3enE4In0.7pbfBla92ey1YAw8kUidlNGoEo8Z6-07qYHrXDWvLkY",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        }
+      ],
+      "publishedAt": "2026-11-13T13:03:00Z",
+      "links": [
+        {
+          "title": "$23 billion",
+          "url": "https://conorsen.substack.com/p/the-nascent-heloc-boom-isnt-a-replay"
+        },
+        {
+          "title": "13%",
+          "url": "https://www.businessinsider.com/reddit-traffic-down-13-percent-similarweb-google-ai-overviews-2026-11"
+        },
+        {
+          "title": "41 mph",
+          "url": "https://apnews.com/article/ss-united-states-ocean-liner-artificial-reef-88773c4030b0e2e12f3d63f5426ad285"
+        },
+        {
+          "title": "7.1 million",
+          "url": "https://sherwood.news/"
+        },
+        {
+          "title": "BRXND.ai",
+          "url": "http://brxnd.ai/"
+        },
+        {
+          "title": "Platformer",
+          "url": "https://www.platformer.news/r/cfa1a5c0?m=56c6dd59-97d1-4fa0-90df-ea50f5c5e745"
+        },
+        {
+          "title": "Pirate Wires",
+          "url": "https://www.piratewires.com/"
+        },
+        {
+          "title": "The Atlantic",
+          "url": "https://substack.com/redirect/0668c71a-297a-4ae7-9601-30e36206e68c?j=eyJ1IjoiN2Q3enE4In0.7pbfBla92ey1YAw8kUidlNGoEo8Z6-07qYHrXDWvLkY"
+        },
+        {
+          "title": "Migrant Insider",
+          "url": "https://migrantinsider.com/p/scoop-ice-funding-clawback-begins"
+        },
+        {
+          "title": "Hill Heat",
+          "url": "https://hillheat.news/"
+        },
+        {
+          "title": "The Wall Street Journal",
+          "url": "https://www.wsj.com/business/retail/kraft-heinz-has-a-comeback-plan-cheesy-ramen-and-high-protein-jell-o-6fbfc2f8?mod=WSJ_home_feature_2_pos_1"
+        },
+        {
+          "title": "WIRED",
+          "url": "https://links.wired.com/z/c/977/e3849fb0417a47f99391398bbc40dfd1/0e0a01cab42a47a399e621355cbad206"
+        },
+        {
+          "title": "WIRED",
+          "url": "https://links.wired.com/z/c/977/58884beba28e46cf900954672a4af063/6e5ab977e1b740ee9dd53fff5a5bcc61"
+        },
+        {
+          "title": "WIRED",
+          "url": "https://links.wired.com/z/c/977/e3849fb0417a47f99391398bbc40dfd1/5b606033616d4bd9ab8650c5acf81111"
+        },
+        {
+          "title": "WIRED",
+          "url": "https://links.wired.com/z/c/977/e3849fb0417a47f99391398bbc40dfd1/5ca740080cc140c48c89b56cad8f72e0"
+        },
+        {
+          "title": "WIRED",
+          "url": "https://links.wired.com/z/c/977/e3849fb0417a47f99391398bbc40dfd1/16993a339a7043f9bb6dc5bc08fabce7"
+        },
+        {
+          "title": "WIRED",
+          "url": "https://links.wired.com/z/c/977/58884beba28e46cf900954672a4af063/cef3b8ff25184bb1b6cfcb99d419cff3"
+        },
+        {
+          "title": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/12/softbanks-billion-dollar-loss-may-have-put-a-cap-on-ais-natural-gas-ambitions/"
+        },
+        {
+          "title": "The Wall Street Journal",
+          "url": "https://www.wsj.com/business/logistics/beijing-is-trying-to-build-a-chinese-rival-for-insuring-world-shipping-eaf8ccdb?mod=hp_lead_pos11"
+        },
+        {
+          "title": "Futurism",
+          "url": "https://substack.com/redirect/893b6407-5b24-4cbe-adfc-25386dfb2d16?j=eyJ1IjoiN2Q3enE4In0.7pbfBla92ey1YAw8kUidlNGoEo8Z6-07qYHrXDWvLkY"
+        },
+        {
+          "title": "The 74",
+          "url": "https://substack.com/redirect/2fb5c7be-8203-4ddd-a788-e477f6d9f268?j=eyJ1IjoiN2Q3enE4In0.7pbfBla92ey1YAw8kUidlNGoEo8Z6-07qYHrXDWvLkY"
+        }
+      ],
+      "versions": {
+        "morning": {
+          "body": "Friday, November 13, 2026 - Morning Edition\n\nToday's Numbers\n\n• $23 billion: the jump in home equity line of credit balances last quarter, the largest increase since 2005 and the 18th straight quarterly rise. Total HELOC balances now sit at $481 billion.\n\n• 13%: how far Reddit's traffic has fallen, partly because Google's AI Overviews answer questions before anyone clicks through to the site.\n\n• 41 mph: the average speed the SS United States held on its record-setting 1952 transatlantic crossing. The ship, bigger than the Titanic, was sunk this week off Pensacola to become an artificial reef.\n\n• 7.1 million: streams of Mariah Carey's \"All I Want for Christmas Is You\" last week, enough to put the song back on the Billboard Hot 100 in mid-November.\n\nQuotes of the Day\n\n• \"Any output from AI should take longer to produce than it does to consume.\" (Noah Brier, unveiling his new axiom at the BRXND.ai conference)\n\n• \"A 'non-material' amount of users are having their AI agents book Airbnb listings for them.\" (Brian Chesky, on an Airbnb earnings call)\n\n• \"For sex-realists, feminism begins with the bodily differences between men and women.\" (The Argument, introducing its debate on sex and gender)\n\nAI & The Machines\n\nJensen Huang is out, and his employees want him back. Nvidia CEO Jensen Huang resigned Thursday after reports of affairs with an alleged Chinese intelligence asset and with subordinates, and now an internal post urging the board to reinstall him has drawn more than 1,600 comments, mostly in support. CFO Colette Kress takes over as interim CEO while House Democrats open an investigation into Huang's dealings. Casey Newton argues the real scandal was never the sex, it was Silicon Valley's cult of the founder, the idea that a visionary CEO sits above normal governance. (Platformer)\n\nUnited Airlines just banned AI agents from booking flights. The airline says agents could expose customer data or make unintended purchases, and warns they could run afoul of federal rules requiring passengers to personally confirm they are not carrying explosives. Fair point on the explosives, but travel sites report AI-assisted users convert at twice the rate of everyone else, so United may be banning its best customers. (Pirate Wires)\n\nAI is breaking the trust between writers and readers. As literary scams multiply, authors no longer know whether their readers are real, and readers no longer know whether their authors are. The Atlantic looks at a publishing world where faked books, faked reviews, and faked audiences are now part of the business model. (The Atlantic)\n\nMoney & Power\n\nCongress may claw back the money behind the deportation machine. Rep. Lauren Underwood introduced the DHS Funding Accountability Act, a one-sentence bill that would rescind the unspent balances of eight sections of the One Big Beautiful Bill Act, including ICE's $45 billion for detention. It is the first bill aimed directly at the funding, not the policy, and it has been referred to three committees with no cosponsors yet. (Migrant Insider)\n\nSeventeen attorneys general are trying to stop BAAJA before its final votes. The Senate votes on cloture Monday afternoon around 6pm, then again in the wee hours of Wednesday around 1am, and the Democratic AGs want leadership to delay the bill to allow more debate over its threat to state and tribal sovereignty. New analyses find the bill would neither stop Trump's war on wind nor address skyrocketing energy bills. (Hill Heat)\n\nKraft Heinz has a comeback plan, and it involves cheesy ramen. The food giant is betting on cheesy ramen and high-protein Jell-O to win back shoppers who drifted away. (The Wall Street Journal)\n\nThe Culture\n\nCybertruck loyalists are in mourning, and they want answers from Elon Musk. Tesla is ready to move on from its most controversial vehicle, with production reportedly winding down in mid-2027, but owners who bought into the stainless steel dream are not letting Musk off the hook for the decision. (WIRED)\n\nIt took 42 years to bring Neuromancer to the screen. William Gibson's 1984 novel is finally becoming an Apple TV series, and WIRED has the exclusive on the long road there, with an assist from Drake. (WIRED)\n\nAnthropic employees are spending up to $500,000 on matchmakers. With IPOs looming, AI workers in San Francisco are paying elite matchmakers half a million dollars to find love in a city now teeming with attractive singles, some of whom, Pirate Wires jokes, might be foreign assets. (Pirate Wires)\n\nQuick Hits & Curiosities\n\n• A major Microsoft Outlook outage left people with email jobs unable to email, with Microsoft citing \"elevated loads\" as it raced to fix it. (WIRED)\n\n• Google DeepMind staff have tapped the UK government to escalate their unionization fight after talks with management stalled. (WIRED)\n\n• Brain-computer interface startup Synchron paused its clinical trials after its latest implant struggled to perform. (WIRED)\n\n• Google and Samsung's Android XR smart glasses are finally here, with Warby Parker frames at $395 and Gentle Monster at $449. (WIRED)\n\n• SoftBank's billion-dollar loss may have put a cap on AI's natural gas ambitions. (TechCrunch)\n\n• Beijing is trying to build a Chinese rival for insuring world shipping. (The Wall Street Journal)\n\n• Bosses trust employees less when they use AI, according to new research. (Futurism)\n\n• A whistleblower says illegal immigrants likely make up 80% of the field workers at Gavin Newsom's PlumpJack winery, per a Chris Rufo investigation. (Pirate Wires)\n\n• Gen Z is in its anti-algorithm era. (The 74)",
+          "blocks": [
+            {
+              "type": "heading_1",
+              "runs": [
+                {
+                  "text": "Friday, November 13, 2026 - Morning Edition",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Today's Numbers",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "$23 billion",
+                  "url": "https://conorsen.substack.com/p/the-nascent-heloc-boom-isnt-a-replay",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": the jump in home equity line of credit balances last quarter, the largest increase since 2005 and the 18th straight quarterly rise. Total HELOC balances now sit at $481 billion.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "13%",
+                  "url": "https://www.businessinsider.com/reddit-traffic-down-13-percent-similarweb-google-ai-overviews-2026-11",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": how far Reddit's traffic has fallen, partly because Google's AI Overviews answer questions before anyone clicks through to the site.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "41 mph",
+                  "url": "https://apnews.com/article/ss-united-states-ocean-liner-artificial-reef-88773c4030b0e2e12f3d63f5426ad285",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": the average speed the SS United States held on its record-setting 1952 transatlantic crossing. The ship, bigger than the Titanic, was sunk this week off Pensacola to become an artificial reef.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "7.1 million",
+                  "url": "https://sherwood.news/",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": streams of Mariah Carey's \"All I Want for Christmas Is You\" last week, enough to put the song back on the Billboard Hot 100 in mid-November.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Quotes of the Day",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "\"Any output from AI should take longer to produce than it does to consume.\" (Noah Brier, unveiling his new axiom at the ",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "BRXND.ai",
+                  "url": "http://brxnd.ai/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": " conference)",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "\"A 'non-material' amount of users are having their AI agents book Airbnb listings for them.\" (Brian Chesky, on an Airbnb earnings call)",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "\"For sex-realists, feminism begins with the bodily differences between men and women.\" (The Argument, introducing its debate on sex and gender)",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "AI & The Machines",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Jensen Huang is out, and his employees want him back.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " Nvidia CEO Jensen Huang resigned Thursday after reports of affairs with an alleged Chinese intelligence asset and with subordinates, and now an internal post urging the board to reinstall him has drawn more than 1,600 comments, mostly in support. CFO Colette Kress takes over as interim CEO while House Democrats open an investigation into Huang's dealings. Casey Newton argues the real scandal was never the sex, it was Silicon Valley's cult of the founder, the idea that a visionary CEO sits above normal governance. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Platformer",
+                  "url": "https://www.platformer.news/r/cfa1a5c0?m=56c6dd59-97d1-4fa0-90df-ea50f5c5e745",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "United Airlines just banned AI agents from booking flights.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " The airline says agents could expose customer data or make unintended purchases, and warns they could run afoul of federal rules requiring passengers to personally confirm they are not carrying explosives. Fair point on the explosives, but travel sites report AI-assisted users convert at twice the rate of everyone else, so United may be banning its best customers. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Pirate Wires",
+                  "url": "https://www.piratewires.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "AI is breaking the trust between writers and readers.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " As literary scams multiply, authors no longer know whether their readers are real, and readers no longer know whether their authors are. The Atlantic looks at a publishing world where faked books, faked reviews, and faked audiences are now part of the business model. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "The Atlantic",
+                  "url": "https://substack.com/redirect/0668c71a-297a-4ae7-9601-30e36206e68c?j=eyJ1IjoiN2Q3enE4In0.7pbfBla92ey1YAw8kUidlNGoEo8Z6-07qYHrXDWvLkY",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Money & Power",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Congress may claw back the money behind the deportation machine.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " Rep. Lauren Underwood introduced the DHS Funding Accountability Act, a one-sentence bill that would rescind the unspent balances of eight sections of the One Big Beautiful Bill Act, including ICE's $45 billion for detention. It is the first bill aimed directly at the funding, not the policy, and it has been referred to three committees with no cosponsors yet. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Migrant Insider",
+                  "url": "https://migrantinsider.com/p/scoop-ice-funding-clawback-begins",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Seventeen attorneys general are trying to stop BAAJA before its final votes.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " The Senate votes on cloture Monday afternoon around 6pm, then again in the wee hours of Wednesday around 1am, and the Democratic AGs want leadership to delay the bill to allow more debate over its threat to state and tribal sovereignty. New analyses find the bill would neither stop Trump's war on wind nor address skyrocketing energy bills. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Hill Heat",
+                  "url": "https://hillheat.news/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Kraft Heinz has a comeback plan, and it involves cheesy ramen.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " The food giant is betting on cheesy ramen and high-protein Jell-O to win back shoppers who drifted away. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "The Wall Street Journal",
+                  "url": "https://www.wsj.com/business/retail/kraft-heinz-has-a-comeback-plan-cheesy-ramen-and-high-protein-jell-o-6fbfc2f8?mod=WSJ_home_feature_2_pos_1",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "The Culture",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Cybertruck loyalists are in mourning, and they want answers from Elon Musk.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " Tesla is ready to move on from its most controversial vehicle, with production reportedly winding down in mid-2027, but owners who bought into the stainless steel dream are not letting Musk off the hook for the decision. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "WIRED",
+                  "url": "https://links.wired.com/z/c/977/e3849fb0417a47f99391398bbc40dfd1/0e0a01cab42a47a399e621355cbad206",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "It took 42 years to bring Neuromancer to the screen.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " William Gibson's 1984 novel is finally becoming an Apple TV series, and WIRED has the exclusive on the long road there, with an assist from Drake. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "WIRED",
+                  "url": "https://links.wired.com/z/c/977/58884beba28e46cf900954672a4af063/6e5ab977e1b740ee9dd53fff5a5bcc61",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Anthropic employees are spending up to $500,000 on matchmakers.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " With IPOs looming, AI workers in San Francisco are paying elite matchmakers half a million dollars to find love in a city now teeming with attractive singles, some of whom, Pirate Wires jokes, might be foreign assets. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Pirate Wires",
+                  "url": "https://www.piratewires.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Quick Hits & Curiosities",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "A major Microsoft Outlook outage left people with email jobs unable to email, with Microsoft citing \"elevated loads\" as it raced to fix it. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "WIRED",
+                  "url": "https://links.wired.com/z/c/977/e3849fb0417a47f99391398bbc40dfd1/5b606033616d4bd9ab8650c5acf81111",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Google DeepMind staff have tapped the UK government to escalate their unionization fight after talks with management stalled. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "WIRED",
+                  "url": "https://links.wired.com/z/c/977/e3849fb0417a47f99391398bbc40dfd1/5ca740080cc140c48c89b56cad8f72e0",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Brain-computer interface startup Synchron paused its clinical trials after its latest implant struggled to perform. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "WIRED",
+                  "url": "https://links.wired.com/z/c/977/e3849fb0417a47f99391398bbc40dfd1/16993a339a7043f9bb6dc5bc08fabce7",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Google and Samsung's Android XR smart glasses are finally here, with Warby Parker frames at $395 and Gentle Monster at $449. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "WIRED",
+                  "url": "https://links.wired.com/z/c/977/58884beba28e46cf900954672a4af063/cef3b8ff25184bb1b6cfcb99d419cff3",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "SoftBank's billion-dollar loss may have put a cap on AI's natural gas ambitions. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "TechCrunch",
+                  "url": "https://techcrunch.com/2026/11/12/softbanks-billion-dollar-loss-may-have-put-a-cap-on-ais-natural-gas-ambitions/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Beijing is trying to build a Chinese rival for insuring world shipping. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "The Wall Street Journal",
+                  "url": "https://www.wsj.com/business/logistics/beijing-is-trying-to-build-a-chinese-rival-for-insuring-world-shipping-eaf8ccdb?mod=hp_lead_pos11",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Bosses trust employees less when they use AI, according to new research. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Futurism",
+                  "url": "https://substack.com/redirect/893b6407-5b24-4cbe-adfc-25386dfb2d16?j=eyJ1IjoiN2Q3enE4In0.7pbfBla92ey1YAw8kUidlNGoEo8Z6-07qYHrXDWvLkY",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "A whistleblower says illegal immigrants likely make up 80% of the field workers at Gavin Newsom's PlumpJack winery, per a Chris Rufo investigation. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Pirate Wires",
+                  "url": "https://www.piratewires.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Gen Z is in its anti-algorithm era. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "The 74",
+                  "url": "https://substack.com/redirect/2fb5c7be-8203-4ddd-a788-e477f6d9f268?j=eyJ1IjoiN2Q3enE4In0.7pbfBla92ey1YAw8kUidlNGoEo8Z6-07qYHrXDWvLkY",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            }
+          ],
+          "links": [
+            {
+              "title": "$23 billion",
+              "url": "https://conorsen.substack.com/p/the-nascent-heloc-boom-isnt-a-replay"
+            },
+            {
+              "title": "13%",
+              "url": "https://www.businessinsider.com/reddit-traffic-down-13-percent-similarweb-google-ai-overviews-2026-11"
+            },
+            {
+              "title": "41 mph",
+              "url": "https://apnews.com/article/ss-united-states-ocean-liner-artificial-reef-88773c4030b0e2e12f3d63f5426ad285"
+            },
+            {
+              "title": "7.1 million",
+              "url": "https://sherwood.news/"
+            },
+            {
+              "title": "BRXND.ai",
+              "url": "http://brxnd.ai/"
+            },
+            {
+              "title": "Platformer",
+              "url": "https://www.platformer.news/r/cfa1a5c0?m=56c6dd59-97d1-4fa0-90df-ea50f5c5e745"
+            },
+            {
+              "title": "Pirate Wires",
+              "url": "https://www.piratewires.com/"
+            },
+            {
+              "title": "The Atlantic",
+              "url": "https://substack.com/redirect/0668c71a-297a-4ae7-9601-30e36206e68c?j=eyJ1IjoiN2Q3enE4In0.7pbfBla92ey1YAw8kUidlNGoEo8Z6-07qYHrXDWvLkY"
+            },
+            {
+              "title": "Migrant Insider",
+              "url": "https://migrantinsider.com/p/scoop-ice-funding-clawback-begins"
+            },
+            {
+              "title": "Hill Heat",
+              "url": "https://hillheat.news/"
+            },
+            {
+              "title": "The Wall Street Journal",
+              "url": "https://www.wsj.com/business/retail/kraft-heinz-has-a-comeback-plan-cheesy-ramen-and-high-protein-jell-o-6fbfc2f8?mod=WSJ_home_feature_2_pos_1"
+            },
+            {
+              "title": "WIRED",
+              "url": "https://links.wired.com/z/c/977/e3849fb0417a47f99391398bbc40dfd1/0e0a01cab42a47a399e621355cbad206"
+            },
+            {
+              "title": "WIRED",
+              "url": "https://links.wired.com/z/c/977/58884beba28e46cf900954672a4af063/6e5ab977e1b740ee9dd53fff5a5bcc61"
+            },
+            {
+              "title": "WIRED",
+              "url": "https://links.wired.com/z/c/977/e3849fb0417a47f99391398bbc40dfd1/5b606033616d4bd9ab8650c5acf81111"
+            },
+            {
+              "title": "WIRED",
+              "url": "https://links.wired.com/z/c/977/e3849fb0417a47f99391398bbc40dfd1/5ca740080cc140c48c89b56cad8f72e0"
+            },
+            {
+              "title": "WIRED",
+              "url": "https://links.wired.com/z/c/977/e3849fb0417a47f99391398bbc40dfd1/16993a339a7043f9bb6dc5bc08fabce7"
+            },
+            {
+              "title": "WIRED",
+              "url": "https://links.wired.com/z/c/977/58884beba28e46cf900954672a4af063/cef3b8ff25184bb1b6cfcb99d419cff3"
+            },
+            {
+              "title": "TechCrunch",
+              "url": "https://techcrunch.com/2026/11/12/softbanks-billion-dollar-loss-may-have-put-a-cap-on-ais-natural-gas-ambitions/"
+            },
+            {
+              "title": "The Wall Street Journal",
+              "url": "https://www.wsj.com/business/logistics/beijing-is-trying-to-build-a-chinese-rival-for-insuring-world-shipping-eaf8ccdb?mod=hp_lead_pos11"
+            },
+            {
+              "title": "Futurism",
+              "url": "https://substack.com/redirect/893b6407-5b24-4cbe-adfc-25386dfb2d16?j=eyJ1IjoiN2Q3enE4In0.7pbfBla92ey1YAw8kUidlNGoEo8Z6-07qYHrXDWvLkY"
+            },
+            {
+              "title": "The 74",
+              "url": "https://substack.com/redirect/2fb5c7be-8203-4ddd-a788-e477f6d9f268?j=eyJ1IjoiN2Q3enE4In0.7pbfBla92ey1YAw8kUidlNGoEo8Z6-07qYHrXDWvLkY"
+            }
+          ]
+        },
+        "full": {
+          "body": "Friday, November 13, 2026 - Morning Edition\n\nToday's Numbers\n\n• $23 billion: the jump in home equity line of credit balances last quarter, the largest increase since 2005 and the 18th straight quarterly rise. Total HELOC balances now sit at $481 billion.\n\n• 13%: how far Reddit's traffic has fallen, partly because Google's AI Overviews answer questions before anyone clicks through to the site.\n\n• 41 mph: the average speed the SS United States held on its record-setting 1952 transatlantic crossing. The ship, bigger than the Titanic, was sunk this week off Pensacola to become an artificial reef.\n\n• 7.1 million: streams of Mariah Carey's \"All I Want for Christmas Is You\" last week, enough to put the song back on the Billboard Hot 100 in mid-November.\n\nQuotes of the Day\n\n• \"Any output from AI should take longer to produce than it does to consume.\" (Noah Brier, unveiling his new axiom at the BRXND.ai conference)\n\n• \"A 'non-material' amount of users are having their AI agents book Airbnb listings for them.\" (Brian Chesky, on an Airbnb earnings call)\n\n• \"For sex-realists, feminism begins with the bodily differences between men and women.\" (The Argument, introducing its debate on sex and gender)\n\nAI & The Machines\n\nJensen Huang is out, and his employees want him back. Nvidia CEO Jensen Huang resigned Thursday after reports of affairs with an alleged Chinese intelligence asset and with subordinates, and now an internal post urging the board to reinstall him has drawn more than 1,600 comments, mostly in support. CFO Colette Kress takes over as interim CEO while House Democrats open an investigation into Huang's dealings. Casey Newton argues the real scandal was never the sex, it was Silicon Valley's cult of the founder, the idea that a visionary CEO sits above normal governance. (Platformer)\n\nUnited Airlines just banned AI agents from booking flights. The airline says agents could expose customer data or make unintended purchases, and warns they could run afoul of federal rules requiring passengers to personally confirm they are not carrying explosives. Fair point on the explosives, but travel sites report AI-assisted users convert at twice the rate of everyone else, so United may be banning its best customers. (Pirate Wires)\n\nAI is breaking the trust between writers and readers. As literary scams multiply, authors no longer know whether their readers are real, and readers no longer know whether their authors are. The Atlantic looks at a publishing world where faked books, faked reviews, and faked audiences are now part of the business model. (The Atlantic)\n\nMoney & Power\n\nCongress may claw back the money behind the deportation machine. Rep. Lauren Underwood introduced the DHS Funding Accountability Act, a one-sentence bill that would rescind the unspent balances of eight sections of the One Big Beautiful Bill Act, including ICE's $45 billion for detention. It is the first bill aimed directly at the funding, not the policy, and it has been referred to three committees with no cosponsors yet. (Migrant Insider)\n\nSeventeen attorneys general are trying to stop BAAJA before its final votes. The Senate votes on cloture Monday afternoon around 6pm, then again in the wee hours of Wednesday around 1am, and the Democratic AGs want leadership to delay the bill to allow more debate over its threat to state and tribal sovereignty. New analyses find the bill would neither stop Trump's war on wind nor address skyrocketing energy bills. (Hill Heat)\n\nKraft Heinz has a comeback plan, and it involves cheesy ramen. The food giant is betting on cheesy ramen and high-protein Jell-O to win back shoppers who drifted away. (The Wall Street Journal)\n\nThe Culture\n\nCybertruck loyalists are in mourning, and they want answers from Elon Musk. Tesla is ready to move on from its most controversial vehicle, with production reportedly winding down in mid-2027, but owners who bought into the stainless steel dream are not letting Musk off the hook for the decision. (WIRED)\n\nIt took 42 years to bring Neuromancer to the screen. William Gibson's 1984 novel is finally becoming an Apple TV series, and WIRED has the exclusive on the long road there, with an assist from Drake. (WIRED)\n\nAnthropic employees are spending up to $500,000 on matchmakers. With IPOs looming, AI workers in San Francisco are paying elite matchmakers half a million dollars to find love in a city now teeming with attractive singles, some of whom, Pirate Wires jokes, might be foreign assets. (Pirate Wires)\n\nQuick Hits & Curiosities\n\n• A major Microsoft Outlook outage left people with email jobs unable to email, with Microsoft citing \"elevated loads\" as it raced to fix it. (WIRED)\n\n• Google DeepMind staff have tapped the UK government to escalate their unionization fight after talks with management stalled. (WIRED)\n\n• Brain-computer interface startup Synchron paused its clinical trials after its latest implant struggled to perform. (WIRED)\n\n• Google and Samsung's Android XR smart glasses are finally here, with Warby Parker frames at $395 and Gentle Monster at $449. (WIRED)\n\n• SoftBank's billion-dollar loss may have put a cap on AI's natural gas ambitions. (TechCrunch)\n\n• Beijing is trying to build a Chinese rival for insuring world shipping. (The Wall Street Journal)\n\n• Bosses trust employees less when they use AI, according to new research. (Futurism)\n\n• A whistleblower says illegal immigrants likely make up 80% of the field workers at Gavin Newsom's PlumpJack winery, per a Chris Rufo investigation. (Pirate Wires)\n\n• Gen Z is in its anti-algorithm era. (The 74)",
+          "blocks": [
+            {
+              "type": "heading_1",
+              "runs": [
+                {
+                  "text": "Friday, November 13, 2026 - Morning Edition",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Today's Numbers",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "$23 billion",
+                  "url": "https://conorsen.substack.com/p/the-nascent-heloc-boom-isnt-a-replay",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": the jump in home equity line of credit balances last quarter, the largest increase since 2005 and the 18th straight quarterly rise. Total HELOC balances now sit at $481 billion.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "13%",
+                  "url": "https://www.businessinsider.com/reddit-traffic-down-13-percent-similarweb-google-ai-overviews-2026-11",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": how far Reddit's traffic has fallen, partly because Google's AI Overviews answer questions before anyone clicks through to the site.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "41 mph",
+                  "url": "https://apnews.com/article/ss-united-states-ocean-liner-artificial-reef-88773c4030b0e2e12f3d63f5426ad285",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": the average speed the SS United States held on its record-setting 1952 transatlantic crossing. The ship, bigger than the Titanic, was sunk this week off Pensacola to become an artificial reef.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "7.1 million",
+                  "url": "https://sherwood.news/",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": streams of Mariah Carey's \"All I Want for Christmas Is You\" last week, enough to put the song back on the Billboard Hot 100 in mid-November.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Quotes of the Day",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "\"Any output from AI should take longer to produce than it does to consume.\" (Noah Brier, unveiling his new axiom at the ",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "BRXND.ai",
+                  "url": "http://brxnd.ai/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": " conference)",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "\"A 'non-material' amount of users are having their AI agents book Airbnb listings for them.\" (Brian Chesky, on an Airbnb earnings call)",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "\"For sex-realists, feminism begins with the bodily differences between men and women.\" (The Argument, introducing its debate on sex and gender)",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "AI & The Machines",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Jensen Huang is out, and his employees want him back.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " Nvidia CEO Jensen Huang resigned Thursday after reports of affairs with an alleged Chinese intelligence asset and with subordinates, and now an internal post urging the board to reinstall him has drawn more than 1,600 comments, mostly in support. CFO Colette Kress takes over as interim CEO while House Democrats open an investigation into Huang's dealings. Casey Newton argues the real scandal was never the sex, it was Silicon Valley's cult of the founder, the idea that a visionary CEO sits above normal governance. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Platformer",
+                  "url": "https://www.platformer.news/r/cfa1a5c0?m=56c6dd59-97d1-4fa0-90df-ea50f5c5e745",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "United Airlines just banned AI agents from booking flights.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " The airline says agents could expose customer data or make unintended purchases, and warns they could run afoul of federal rules requiring passengers to personally confirm they are not carrying explosives. Fair point on the explosives, but travel sites report AI-assisted users convert at twice the rate of everyone else, so United may be banning its best customers. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Pirate Wires",
+                  "url": "https://www.piratewires.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "AI is breaking the trust between writers and readers.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " As literary scams multiply, authors no longer know whether their readers are real, and readers no longer know whether their authors are. The Atlantic looks at a publishing world where faked books, faked reviews, and faked audiences are now part of the business model. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "The Atlantic",
+                  "url": "https://substack.com/redirect/0668c71a-297a-4ae7-9601-30e36206e68c?j=eyJ1IjoiN2Q3enE4In0.7pbfBla92ey1YAw8kUidlNGoEo8Z6-07qYHrXDWvLkY",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Money & Power",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Congress may claw back the money behind the deportation machine.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " Rep. Lauren Underwood introduced the DHS Funding Accountability Act, a one-sentence bill that would rescind the unspent balances of eight sections of the One Big Beautiful Bill Act, including ICE's $45 billion for detention. It is the first bill aimed directly at the funding, not the policy, and it has been referred to three committees with no cosponsors yet. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Migrant Insider",
+                  "url": "https://migrantinsider.com/p/scoop-ice-funding-clawback-begins",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Seventeen attorneys general are trying to stop BAAJA before its final votes.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " The Senate votes on cloture Monday afternoon around 6pm, then again in the wee hours of Wednesday around 1am, and the Democratic AGs want leadership to delay the bill to allow more debate over its threat to state and tribal sovereignty. New analyses find the bill would neither stop Trump's war on wind nor address skyrocketing energy bills. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Hill Heat",
+                  "url": "https://hillheat.news/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Kraft Heinz has a comeback plan, and it involves cheesy ramen.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " The food giant is betting on cheesy ramen and high-protein Jell-O to win back shoppers who drifted away. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "The Wall Street Journal",
+                  "url": "https://www.wsj.com/business/retail/kraft-heinz-has-a-comeback-plan-cheesy-ramen-and-high-protein-jell-o-6fbfc2f8?mod=WSJ_home_feature_2_pos_1",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "The Culture",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Cybertruck loyalists are in mourning, and they want answers from Elon Musk.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " Tesla is ready to move on from its most controversial vehicle, with production reportedly winding down in mid-2027, but owners who bought into the stainless steel dream are not letting Musk off the hook for the decision. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "WIRED",
+                  "url": "https://links.wired.com/z/c/977/e3849fb0417a47f99391398bbc40dfd1/0e0a01cab42a47a399e621355cbad206",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "It took 42 years to bring Neuromancer to the screen.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " William Gibson's 1984 novel is finally becoming an Apple TV series, and WIRED has the exclusive on the long road there, with an assist from Drake. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "WIRED",
+                  "url": "https://links.wired.com/z/c/977/58884beba28e46cf900954672a4af063/6e5ab977e1b740ee9dd53fff5a5bcc61",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Anthropic employees are spending up to $500,000 on matchmakers.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " With IPOs looming, AI workers in San Francisco are paying elite matchmakers half a million dollars to find love in a city now teeming with attractive singles, some of whom, Pirate Wires jokes, might be foreign assets. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Pirate Wires",
+                  "url": "https://www.piratewires.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Quick Hits & Curiosities",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "A major Microsoft Outlook outage left people with email jobs unable to email, with Microsoft citing \"elevated loads\" as it raced to fix it. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "WIRED",
+                  "url": "https://links.wired.com/z/c/977/e3849fb0417a47f99391398bbc40dfd1/5b606033616d4bd9ab8650c5acf81111",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Google DeepMind staff have tapped the UK government to escalate their unionization fight after talks with management stalled. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "WIRED",
+                  "url": "https://links.wired.com/z/c/977/e3849fb0417a47f99391398bbc40dfd1/5ca740080cc140c48c89b56cad8f72e0",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Brain-computer interface startup Synchron paused its clinical trials after its latest implant struggled to perform. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "WIRED",
+                  "url": "https://links.wired.com/z/c/977/e3849fb0417a47f99391398bbc40dfd1/16993a339a7043f9bb6dc5bc08fabce7",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Google and Samsung's Android XR smart glasses are finally here, with Warby Parker frames at $395 and Gentle Monster at $449. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "WIRED",
+                  "url": "https://links.wired.com/z/c/977/58884beba28e46cf900954672a4af063/cef3b8ff25184bb1b6cfcb99d419cff3",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "SoftBank's billion-dollar loss may have put a cap on AI's natural gas ambitions. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "TechCrunch",
+                  "url": "https://techcrunch.com/2026/11/12/softbanks-billion-dollar-loss-may-have-put-a-cap-on-ais-natural-gas-ambitions/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Beijing is trying to build a Chinese rival for insuring world shipping. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "The Wall Street Journal",
+                  "url": "https://www.wsj.com/business/logistics/beijing-is-trying-to-build-a-chinese-rival-for-insuring-world-shipping-eaf8ccdb?mod=hp_lead_pos11",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Bosses trust employees less when they use AI, according to new research. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Futurism",
+                  "url": "https://substack.com/redirect/893b6407-5b24-4cbe-adfc-25386dfb2d16?j=eyJ1IjoiN2Q3enE4In0.7pbfBla92ey1YAw8kUidlNGoEo8Z6-07qYHrXDWvLkY",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "A whistleblower says illegal immigrants likely make up 80% of the field workers at Gavin Newsom's PlumpJack winery, per a Chris Rufo investigation. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Pirate Wires",
+                  "url": "https://www.piratewires.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Gen Z is in its anti-algorithm era. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "The 74",
+                  "url": "https://substack.com/redirect/2fb5c7be-8203-4ddd-a788-e477f6d9f268?j=eyJ1IjoiN2Q3enE4In0.7pbfBla92ey1YAw8kUidlNGoEo8Z6-07qYHrXDWvLkY",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            }
+          ],
+          "links": [
+            {
+              "title": "$23 billion",
+              "url": "https://conorsen.substack.com/p/the-nascent-heloc-boom-isnt-a-replay"
+            },
+            {
+              "title": "13%",
+              "url": "https://www.businessinsider.com/reddit-traffic-down-13-percent-similarweb-google-ai-overviews-2026-11"
+            },
+            {
+              "title": "41 mph",
+              "url": "https://apnews.com/article/ss-united-states-ocean-liner-artificial-reef-88773c4030b0e2e12f3d63f5426ad285"
+            },
+            {
+              "title": "7.1 million",
+              "url": "https://sherwood.news/"
+            },
+            {
+              "title": "BRXND.ai",
+              "url": "http://brxnd.ai/"
+            },
+            {
+              "title": "Platformer",
+              "url": "https://www.platformer.news/r/cfa1a5c0?m=56c6dd59-97d1-4fa0-90df-ea50f5c5e745"
+            },
+            {
+              "title": "Pirate Wires",
+              "url": "https://www.piratewires.com/"
+            },
+            {
+              "title": "The Atlantic",
+              "url": "https://substack.com/redirect/0668c71a-297a-4ae7-9601-30e36206e68c?j=eyJ1IjoiN2Q3enE4In0.7pbfBla92ey1YAw8kUidlNGoEo8Z6-07qYHrXDWvLkY"
+            },
+            {
+              "title": "Migrant Insider",
+              "url": "https://migrantinsider.com/p/scoop-ice-funding-clawback-begins"
+            },
+            {
+              "title": "Hill Heat",
+              "url": "https://hillheat.news/"
+            },
+            {
+              "title": "The Wall Street Journal",
+              "url": "https://www.wsj.com/business/retail/kraft-heinz-has-a-comeback-plan-cheesy-ramen-and-high-protein-jell-o-6fbfc2f8?mod=WSJ_home_feature_2_pos_1"
+            },
+            {
+              "title": "WIRED",
+              "url": "https://links.wired.com/z/c/977/e3849fb0417a47f99391398bbc40dfd1/0e0a01cab42a47a399e621355cbad206"
+            },
+            {
+              "title": "WIRED",
+              "url": "https://links.wired.com/z/c/977/58884beba28e46cf900954672a4af063/6e5ab977e1b740ee9dd53fff5a5bcc61"
+            },
+            {
+              "title": "WIRED",
+              "url": "https://links.wired.com/z/c/977/e3849fb0417a47f99391398bbc40dfd1/5b606033616d4bd9ab8650c5acf81111"
+            },
+            {
+              "title": "WIRED",
+              "url": "https://links.wired.com/z/c/977/e3849fb0417a47f99391398bbc40dfd1/5ca740080cc140c48c89b56cad8f72e0"
+            },
+            {
+              "title": "WIRED",
+              "url": "https://links.wired.com/z/c/977/e3849fb0417a47f99391398bbc40dfd1/16993a339a7043f9bb6dc5bc08fabce7"
+            },
+            {
+              "title": "WIRED",
+              "url": "https://links.wired.com/z/c/977/58884beba28e46cf900954672a4af063/cef3b8ff25184bb1b6cfcb99d419cff3"
+            },
+            {
+              "title": "TechCrunch",
+              "url": "https://techcrunch.com/2026/11/12/softbanks-billion-dollar-loss-may-have-put-a-cap-on-ais-natural-gas-ambitions/"
+            },
+            {
+              "title": "The Wall Street Journal",
+              "url": "https://www.wsj.com/business/logistics/beijing-is-trying-to-build-a-chinese-rival-for-insuring-world-shipping-eaf8ccdb?mod=hp_lead_pos11"
+            },
+            {
+              "title": "Futurism",
+              "url": "https://substack.com/redirect/893b6407-5b24-4cbe-adfc-25386dfb2d16?j=eyJ1IjoiN2Q3enE4In0.7pbfBla92ey1YAw8kUidlNGoEo8Z6-07qYHrXDWvLkY"
+            },
+            {
+              "title": "The 74",
+              "url": "https://substack.com/redirect/2fb5c7be-8203-4ddd-a788-e477f6d9f268?j=eyJ1IjoiN2Q3enE4In0.7pbfBla92ey1YAw8kUidlNGoEo8Z6-07qYHrXDWvLkY"
+            }
+          ]
+        }
+      }
     }
   ]
 }
