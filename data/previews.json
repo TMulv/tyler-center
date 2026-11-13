@@ -964,8 +964,14 @@
       "available": true
     },
     "https://www.lrb.co.uk/the-paper/v48/n20/adam-phillips/is-curiosity-good-for-us": {
-      "checkedAt": "2026-11-06T21:08:59.777275+00:00",
-      "available": false
+      "checkedAt": "2026-11-13T21:12:15.445868+00:00",
+      "available": true,
+      "title": "Adam Phillips · Is curiosity good for us?",
+      "description": "The superego – and its precursor, conscience – refers to the part of us that has no curiosity about ourselves. It’...",
+      "site": "London Review of Books",
+      "image": "https://www.lrb.co.uk/storage/social_image/images/3/1/8/9/31119813-1-eng-GB/7d7f99caf88b-Phillips1.jpg",
+      "icon": "https://www.lrb.co.uk/assets/icons/favicon-32x32.png",
+      "domain": "www.lrb.co.uk"
     },
     "https://sfstandard.com/2026/10/30/colossus-glossy-quarterly-silicon-valley/": {
       "title": "Silicon Valley’s ‘in-flight magazine’: Colossus gives moguls the coverage they crave",
@@ -974,7 +980,7 @@
       "image": "https://assets.sfstandard.com/image/994911177489/image_l6om3i77f560574ritlsr0ql0q/-S1200x630-FPNG",
       "icon": "https://sfstandard.com/favicon/favicon-32x32-1.png",
       "domain": "sfstandard.com",
-      "checkedAt": "2026-11-06T21:08:59.777275+00:00",
+      "checkedAt": "2026-11-13T21:12:15.445868+00:00",
       "available": true
     },
     "https://gwern.net/": {
