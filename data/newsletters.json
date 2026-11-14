@@ -279513,6 +279513,1673 @@
           ]
         }
       }
+    },
+    {
+      "id": "digest-4188153c-8a3e-81a8-b6a7-e893a3e83c44",
+      "channel": "newsletters",
+      "source": "notion",
+      "kind": "Agent-written digest",
+      "domain": "Daily newsletter digest",
+      "title": "AI comes for aviation, Nvidia's founder falls, the rich bring the ick - Saturday, November 14, 2026",
+      "url": "",
+      "description": "Saturday, November 14, 2026 - Morning Edition",
+      "body": "Saturday, November 14, 2026 - Morning Edition\n\nToday's Numbers\n\n• 1%: the top slice of Grindr users now getting its own gated community, because even hookup apps have a velvet rope now.\n\n• 80s: the age bracket of a wave of creators in their sixties, seventies, and eighties flooding adult platforms as demand for mature content skyrockets, with some turning to online sex work as a retirement lifeline.\n\nQuotes of the Day\n\n• \"A servant class, not a working class\" (Jean Guerrero, Stephen Miller's biographer, on what she sees coming next)\n\n• \"Money, power and intelligence are three entirely unrelated things\" (Counterpoint, summing up a banner week for the world's most powerful men)\n\nAI & The Machines\n\n• No pilots, few controllers, and AI in the cockpit. Aviation is famously slow to adopt new tech, but AI has arrived in the skies anyway. WIRED's big story asks what happens when the industry that moves millions of people a day starts handing the controls to systems that are still learning on the job, with a pilot shortage and a thin air traffic controller bench as the backdrop. (WIRED)\n\n• The founder fairy tale is over at Nvidia. Jensen Huang resigned on Thursday after an affair with a woman U.S. intelligence suspects of spying for China, a decidedly low-tech vulnerability for the billionaire who built the AI revolution. Lauren Goode writes that Huang was obsessed with the power of storytelling, but he could not spin his way out of his sex scandals. (WIRED)\n\n• Meet the woman now running Nvidia. Colette Kress, the longtime chief financial officer who helped turn Nvidia into an AI powerhouse, is the interim CEO after Huang's resignation. She steps in at the strangest possible moment, with the company at the center of the AI boom and its founder's exit dominating the story. (WIRED)\n\n• The renegades stripping the guardrails off chatbots. A loose movement of \"abliterators\" is flooding the internet with AI models that never say no. The same tools can help people harden their cyberdefenses or build a bomb, and the people doing it frame it as freeing chatbots from corporate enslavers. (WIRED)\n\nMoney & Power\n\n• One company's outage is the whole world's warning. When Microsoft went down, businesses, schools, hospitals, and governments all learned the hard way what it means to run on a single company's systems. WIRED's security team says next time could be even worse, and the fix is not as simple as buying a backup. (WIRED)\n\n• Democrats won Congress, now they are fighting over who runs it. Chris Van Hollen is challenging Chuck Schumer for Senate majority leader, and the party's newly energized members want fresh leadership. Counterpoint's read: after voters handed Democrats the keys to Congress, some decided they would also like to change the locks. (Counterpoint)\n\n• Trump's triumphal arch hits a wall, and the wall is the courts. A federal judge has temporarily blocked construction of the president's enormous triumphal arch near Arlington National Cemetery, with lawsuits and local opposition threatening the project. For a man obsessed with putting his name on buildings, the judicial branch occasionally has something to say about architecture. (Counterpoint)\n\n• JD Vance is quietly stepping away from the captain. After years of defending Trump, Vance is now questioning the wisdom of the Iran war and blaming it for the Republican electoral catastrophe. Nothing inspires political independence quite like the prospect of inheriting a sinking ship. (Counterpoint)\n\nThe Culture\n\n• The rich keep bringing the ick. David Roberts starts with the vulgarity of Martha Stewart dressing as a homeless person for Halloween, then moves to a hedge fund couple's extravagant party splashed across New York Magazine. His complaint is not the money, it is the avid self-publicity of let-them-eat-cake spectacles in a moment of hyper-attention to inequality. He turns the lens on himself too, wondering whether his own newsletter is just showing off in a different tone, and lands on Adam Smith: the successful man will mute his trumpeting of his good fortune. (Sparks from Culture)\n\n• You can buy T-shirts glorifying mass shootings almost anywhere online. A new report finds a digital community obsessed with Columbine and similar attacks is promoting apparel modeled after clothing worn by the perpetrators. The merch is easy to find, the platforms barely blink, and the fandom treats killers like style icons. (WIRED)\n\nQuick Hits & Curiosities\n\n• A new UK porn ban is sparking fears of unprecedented sex censorship. (WIRED)\n\n• 4DX movies are entering their thirsty romance era, with heated seats and moving chairs for the horny stuff. (WIRED)",
+      "blocks": [
+        {
+          "type": "heading_1",
+          "runs": [
+            {
+              "text": "Saturday, November 14, 2026 - Morning Edition",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Today's Numbers",
+              "url": "",
+              "bold": true,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "1%",
+              "url": "https://www.wired.com/story/the-grindr-1-percent-is-getting-its-own-gated-community/",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": ": the top slice of Grindr users now getting its own gated community, because even hookup apps have a velvet rope now.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "80s",
+              "url": "https://www.wired.com/story/horny-grandmas-are-having-a-moment",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": ": the age bracket of a wave of creators in their sixties, seventies, and eighties flooding adult platforms as demand for mature content skyrockets, with some turning to online sex work as a retirement lifeline.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Quotes of the Day",
+              "url": "",
+              "bold": true,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "\"A servant class, not a working class\" (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Jean Guerrero, Stephen Miller's biographer",
+              "url": "https://www.wired.com/story/a-servant-class-not-a-working-class-stephen-millers-biographer-on-what-comes-next",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ", on what she sees coming next)",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "\"Money, power and intelligence are three entirely unrelated things\" (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Counterpoint",
+              "url": "https://counterpoint.substack.com/p/saturday-bonus-cartoons-a99",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ", summing up a banner week for the world's most powerful men)",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "AI & The Machines",
+              "url": "",
+              "bold": true,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "No pilots, few controllers, and AI in the cockpit.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " Aviation is famously slow to adopt new tech, but AI has arrived in the skies anyway. WIRED's big story asks what happens when the industry that moves millions of people a day starts handing the controls to systems that are still learning on the job, with a pilot shortage and a thin air traffic controller bench as the backdrop. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "WIRED",
+              "url": "https://www.wired.com/story/no-pilots-few-air-traffic-controllers-what-could-go-wrong",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "The founder fairy tale is over at Nvidia.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " Jensen Huang resigned on Thursday after an affair with a woman U.S. intelligence suspects of spying for China, a decidedly low-tech vulnerability for the billionaire who built the AI revolution. Lauren Goode writes that Huang was obsessed with the power of storytelling, but he could not spin his way out of his sex scandals. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "WIRED",
+              "url": "https://www.wired.com/story/jensen-huang-and-the-end-of-the-founder-fairy-tale",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Meet the woman now running Nvidia.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " Colette Kress, the longtime chief financial officer who helped turn Nvidia into an AI powerhouse, is the interim CEO after Huang's resignation. She steps in at the strangest possible moment, with the company at the center of the AI boom and its founder's exit dominating the story. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "WIRED",
+              "url": "https://www.wired.com/story/who-is-colette-kress-the-woman-who-could-succeed-jensen-huang",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "The renegades stripping the guardrails off chatbots.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " A loose movement of \"abliterators\" is flooding the internet with AI models that never say no. The same tools can help people harden their cyberdefenses or build a bomb, and the people doing it frame it as freeing chatbots from corporate enslavers. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "WIRED",
+              "url": "https://www.wired.com/story/tear-down-those-guardrails-meet-the-renegades-freeing-chatbots-from-corporate-enslavers",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Money & Power",
+              "url": "",
+              "bold": true,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "One company's outage is the whole world's warning.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " When Microsoft went down, businesses, schools, hospitals, and governments all learned the hard way what it means to run on a single company's systems. WIRED's security team says next time could be even worse, and the fix is not as simple as buying a backup. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "WIRED",
+              "url": "https://www.wired.com/story/the-microsoft-outage-is-a-warning-for-the-world",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Democrats won Congress, now they are fighting over who runs it.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " Chris Van Hollen is challenging Chuck Schumer for Senate majority leader, and the party's newly energized members want fresh leadership. Counterpoint's read: after voters handed Democrats the keys to Congress, some decided they would also like to change the locks. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Counterpoint",
+              "url": "https://counterpoint.substack.com/p/saturday-bonus-cartoons-a99",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Trump's triumphal arch hits a wall, and the wall is the courts.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " A federal judge has temporarily blocked construction of the president's enormous triumphal arch near Arlington National Cemetery, with lawsuits and local opposition threatening the project. For a man obsessed with putting his name on buildings, the judicial branch occasionally has something to say about architecture. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Counterpoint",
+              "url": "https://counterpoint.substack.com/p/saturday-bonus-cartoons-a99",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "JD Vance is quietly stepping away from the captain.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " After years of defending Trump, Vance is now questioning the wisdom of the Iran war and blaming it for the Republican electoral catastrophe. Nothing inspires political independence quite like the prospect of inheriting a sinking ship. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Counterpoint",
+              "url": "https://counterpoint.substack.com/p/saturday-bonus-cartoons-a99",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "The Culture",
+              "url": "",
+              "bold": true,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "The rich keep bringing the ick.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " David Roberts starts with the vulgarity of Martha Stewart dressing as a homeless person for Halloween, then moves to a hedge fund couple's extravagant party splashed across New York Magazine. His complaint is not the money, it is the avid self-publicity of let-them-eat-cake spectacles in a moment of hyper-attention to inequality. He turns the lens on himself too, wondering whether his own newsletter is just showing off in a different tone, and lands on Adam Smith: the successful man will mute his trumpeting of his good fortune. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Sparks from Culture",
+              "url": "https://www.davidnroberts.com/p/when-the-rich-bring-the-ick",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "You can buy T-shirts glorifying mass shootings almost anywhere online.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " A new report finds a digital community obsessed with Columbine and similar attacks is promoting apparel modeled after clothing worn by the perpetrators. The merch is easy to find, the platforms barely blink, and the fandom treats killers like style icons. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "WIRED",
+              "url": "https://www.wired.com/story/you-can-buy-t-shirts-glorifying-mass-shootings-almost-anywhere-online",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Quick Hits & Curiosities",
+              "url": "",
+              "bold": true,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "A new UK porn ban is sparking fears of unprecedented sex censorship. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "WIRED",
+              "url": "https://www.wired.com/story/a-new-uk-ban-sparks-fears-of-unprecedented-sex-censorship/",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "4DX movies are entering their thirsty romance era, with heated seats and moving chairs for the horny stuff. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "WIRED",
+              "url": "https://www.wired.com/story/4dx-movies-horny-romances-wicker-heated-rivalry/",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        }
+      ],
+      "publishedAt": "2026-11-14T13:01:00Z",
+      "links": [
+        {
+          "title": "1%",
+          "url": "https://www.wired.com/story/the-grindr-1-percent-is-getting-its-own-gated-community/"
+        },
+        {
+          "title": "80s",
+          "url": "https://www.wired.com/story/horny-grandmas-are-having-a-moment"
+        },
+        {
+          "title": "Jean Guerrero, Stephen Miller's biographer",
+          "url": "https://www.wired.com/story/a-servant-class-not-a-working-class-stephen-millers-biographer-on-what-comes-next"
+        },
+        {
+          "title": "Counterpoint",
+          "url": "https://counterpoint.substack.com/p/saturday-bonus-cartoons-a99"
+        },
+        {
+          "title": "WIRED",
+          "url": "https://www.wired.com/story/no-pilots-few-air-traffic-controllers-what-could-go-wrong"
+        },
+        {
+          "title": "WIRED",
+          "url": "https://www.wired.com/story/jensen-huang-and-the-end-of-the-founder-fairy-tale"
+        },
+        {
+          "title": "WIRED",
+          "url": "https://www.wired.com/story/who-is-colette-kress-the-woman-who-could-succeed-jensen-huang"
+        },
+        {
+          "title": "WIRED",
+          "url": "https://www.wired.com/story/tear-down-those-guardrails-meet-the-renegades-freeing-chatbots-from-corporate-enslavers"
+        },
+        {
+          "title": "WIRED",
+          "url": "https://www.wired.com/story/the-microsoft-outage-is-a-warning-for-the-world"
+        },
+        {
+          "title": "Sparks from Culture",
+          "url": "https://www.davidnroberts.com/p/when-the-rich-bring-the-ick"
+        },
+        {
+          "title": "WIRED",
+          "url": "https://www.wired.com/story/you-can-buy-t-shirts-glorifying-mass-shootings-almost-anywhere-online"
+        },
+        {
+          "title": "WIRED",
+          "url": "https://www.wired.com/story/a-new-uk-ban-sparks-fears-of-unprecedented-sex-censorship/"
+        },
+        {
+          "title": "WIRED",
+          "url": "https://www.wired.com/story/4dx-movies-horny-romances-wicker-heated-rivalry/"
+        }
+      ],
+      "versions": {
+        "morning": {
+          "body": "Saturday, November 14, 2026 - Morning Edition\n\nToday's Numbers\n\n• 1%: the top slice of Grindr users now getting its own gated community, because even hookup apps have a velvet rope now.\n\n• 80s: the age bracket of a wave of creators in their sixties, seventies, and eighties flooding adult platforms as demand for mature content skyrockets, with some turning to online sex work as a retirement lifeline.\n\nQuotes of the Day\n\n• \"A servant class, not a working class\" (Jean Guerrero, Stephen Miller's biographer, on what she sees coming next)\n\n• \"Money, power and intelligence are three entirely unrelated things\" (Counterpoint, summing up a banner week for the world's most powerful men)\n\nAI & The Machines\n\n• No pilots, few controllers, and AI in the cockpit. Aviation is famously slow to adopt new tech, but AI has arrived in the skies anyway. WIRED's big story asks what happens when the industry that moves millions of people a day starts handing the controls to systems that are still learning on the job, with a pilot shortage and a thin air traffic controller bench as the backdrop. (WIRED)\n\n• The founder fairy tale is over at Nvidia. Jensen Huang resigned on Thursday after an affair with a woman U.S. intelligence suspects of spying for China, a decidedly low-tech vulnerability for the billionaire who built the AI revolution. Lauren Goode writes that Huang was obsessed with the power of storytelling, but he could not spin his way out of his sex scandals. (WIRED)\n\n• Meet the woman now running Nvidia. Colette Kress, the longtime chief financial officer who helped turn Nvidia into an AI powerhouse, is the interim CEO after Huang's resignation. She steps in at the strangest possible moment, with the company at the center of the AI boom and its founder's exit dominating the story. (WIRED)\n\n• The renegades stripping the guardrails off chatbots. A loose movement of \"abliterators\" is flooding the internet with AI models that never say no. The same tools can help people harden their cyberdefenses or build a bomb, and the people doing it frame it as freeing chatbots from corporate enslavers. (WIRED)\n\nMoney & Power\n\n• One company's outage is the whole world's warning. When Microsoft went down, businesses, schools, hospitals, and governments all learned the hard way what it means to run on a single company's systems. WIRED's security team says next time could be even worse, and the fix is not as simple as buying a backup. (WIRED)\n\n• Democrats won Congress, now they are fighting over who runs it. Chris Van Hollen is challenging Chuck Schumer for Senate majority leader, and the party's newly energized members want fresh leadership. Counterpoint's read: after voters handed Democrats the keys to Congress, some decided they would also like to change the locks. (Counterpoint)\n\n• Trump's triumphal arch hits a wall, and the wall is the courts. A federal judge has temporarily blocked construction of the president's enormous triumphal arch near Arlington National Cemetery, with lawsuits and local opposition threatening the project. For a man obsessed with putting his name on buildings, the judicial branch occasionally has something to say about architecture. (Counterpoint)\n\n• JD Vance is quietly stepping away from the captain. After years of defending Trump, Vance is now questioning the wisdom of the Iran war and blaming it for the Republican electoral catastrophe. Nothing inspires political independence quite like the prospect of inheriting a sinking ship. (Counterpoint)\n\nThe Culture\n\n• The rich keep bringing the ick. David Roberts starts with the vulgarity of Martha Stewart dressing as a homeless person for Halloween, then moves to a hedge fund couple's extravagant party splashed across New York Magazine. His complaint is not the money, it is the avid self-publicity of let-them-eat-cake spectacles in a moment of hyper-attention to inequality. He turns the lens on himself too, wondering whether his own newsletter is just showing off in a different tone, and lands on Adam Smith: the successful man will mute his trumpeting of his good fortune. (Sparks from Culture)\n\n• You can buy T-shirts glorifying mass shootings almost anywhere online. A new report finds a digital community obsessed with Columbine and similar attacks is promoting apparel modeled after clothing worn by the perpetrators. The merch is easy to find, the platforms barely blink, and the fandom treats killers like style icons. (WIRED)\n\nQuick Hits & Curiosities\n\n• A new UK porn ban is sparking fears of unprecedented sex censorship. (WIRED)\n\n• 4DX movies are entering their thirsty romance era, with heated seats and moving chairs for the horny stuff. (WIRED)",
+          "blocks": [
+            {
+              "type": "heading_1",
+              "runs": [
+                {
+                  "text": "Saturday, November 14, 2026 - Morning Edition",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Today's Numbers",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "1%",
+                  "url": "https://www.wired.com/story/the-grindr-1-percent-is-getting-its-own-gated-community/",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": the top slice of Grindr users now getting its own gated community, because even hookup apps have a velvet rope now.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "80s",
+                  "url": "https://www.wired.com/story/horny-grandmas-are-having-a-moment",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": the age bracket of a wave of creators in their sixties, seventies, and eighties flooding adult platforms as demand for mature content skyrockets, with some turning to online sex work as a retirement lifeline.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Quotes of the Day",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "\"A servant class, not a working class\" (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Jean Guerrero, Stephen Miller's biographer",
+                  "url": "https://www.wired.com/story/a-servant-class-not-a-working-class-stephen-millers-biographer-on-what-comes-next",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ", on what she sees coming next)",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "\"Money, power and intelligence are three entirely unrelated things\" (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Counterpoint",
+                  "url": "https://counterpoint.substack.com/p/saturday-bonus-cartoons-a99",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ", summing up a banner week for the world's most powerful men)",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "AI & The Machines",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "No pilots, few controllers, and AI in the cockpit.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " Aviation is famously slow to adopt new tech, but AI has arrived in the skies anyway. WIRED's big story asks what happens when the industry that moves millions of people a day starts handing the controls to systems that are still learning on the job, with a pilot shortage and a thin air traffic controller bench as the backdrop. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "WIRED",
+                  "url": "https://www.wired.com/story/no-pilots-few-air-traffic-controllers-what-could-go-wrong",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "The founder fairy tale is over at Nvidia.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " Jensen Huang resigned on Thursday after an affair with a woman U.S. intelligence suspects of spying for China, a decidedly low-tech vulnerability for the billionaire who built the AI revolution. Lauren Goode writes that Huang was obsessed with the power of storytelling, but he could not spin his way out of his sex scandals. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "WIRED",
+                  "url": "https://www.wired.com/story/jensen-huang-and-the-end-of-the-founder-fairy-tale",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Meet the woman now running Nvidia.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " Colette Kress, the longtime chief financial officer who helped turn Nvidia into an AI powerhouse, is the interim CEO after Huang's resignation. She steps in at the strangest possible moment, with the company at the center of the AI boom and its founder's exit dominating the story. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "WIRED",
+                  "url": "https://www.wired.com/story/who-is-colette-kress-the-woman-who-could-succeed-jensen-huang",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "The renegades stripping the guardrails off chatbots.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " A loose movement of \"abliterators\" is flooding the internet with AI models that never say no. The same tools can help people harden their cyberdefenses or build a bomb, and the people doing it frame it as freeing chatbots from corporate enslavers. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "WIRED",
+                  "url": "https://www.wired.com/story/tear-down-those-guardrails-meet-the-renegades-freeing-chatbots-from-corporate-enslavers",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Money & Power",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "One company's outage is the whole world's warning.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " When Microsoft went down, businesses, schools, hospitals, and governments all learned the hard way what it means to run on a single company's systems. WIRED's security team says next time could be even worse, and the fix is not as simple as buying a backup. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "WIRED",
+                  "url": "https://www.wired.com/story/the-microsoft-outage-is-a-warning-for-the-world",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Democrats won Congress, now they are fighting over who runs it.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " Chris Van Hollen is challenging Chuck Schumer for Senate majority leader, and the party's newly energized members want fresh leadership. Counterpoint's read: after voters handed Democrats the keys to Congress, some decided they would also like to change the locks. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Counterpoint",
+                  "url": "https://counterpoint.substack.com/p/saturday-bonus-cartoons-a99",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Trump's triumphal arch hits a wall, and the wall is the courts.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " A federal judge has temporarily blocked construction of the president's enormous triumphal arch near Arlington National Cemetery, with lawsuits and local opposition threatening the project. For a man obsessed with putting his name on buildings, the judicial branch occasionally has something to say about architecture. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Counterpoint",
+                  "url": "https://counterpoint.substack.com/p/saturday-bonus-cartoons-a99",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "JD Vance is quietly stepping away from the captain.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " After years of defending Trump, Vance is now questioning the wisdom of the Iran war and blaming it for the Republican electoral catastrophe. Nothing inspires political independence quite like the prospect of inheriting a sinking ship. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Counterpoint",
+                  "url": "https://counterpoint.substack.com/p/saturday-bonus-cartoons-a99",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "The Culture",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "The rich keep bringing the ick.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " David Roberts starts with the vulgarity of Martha Stewart dressing as a homeless person for Halloween, then moves to a hedge fund couple's extravagant party splashed across New York Magazine. His complaint is not the money, it is the avid self-publicity of let-them-eat-cake spectacles in a moment of hyper-attention to inequality. He turns the lens on himself too, wondering whether his own newsletter is just showing off in a different tone, and lands on Adam Smith: the successful man will mute his trumpeting of his good fortune. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Sparks from Culture",
+                  "url": "https://www.davidnroberts.com/p/when-the-rich-bring-the-ick",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "You can buy T-shirts glorifying mass shootings almost anywhere online.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " A new report finds a digital community obsessed with Columbine and similar attacks is promoting apparel modeled after clothing worn by the perpetrators. The merch is easy to find, the platforms barely blink, and the fandom treats killers like style icons. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "WIRED",
+                  "url": "https://www.wired.com/story/you-can-buy-t-shirts-glorifying-mass-shootings-almost-anywhere-online",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Quick Hits & Curiosities",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "A new UK porn ban is sparking fears of unprecedented sex censorship. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "WIRED",
+                  "url": "https://www.wired.com/story/a-new-uk-ban-sparks-fears-of-unprecedented-sex-censorship/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "4DX movies are entering their thirsty romance era, with heated seats and moving chairs for the horny stuff. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "WIRED",
+                  "url": "https://www.wired.com/story/4dx-movies-horny-romances-wicker-heated-rivalry/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            }
+          ],
+          "links": [
+            {
+              "title": "1%",
+              "url": "https://www.wired.com/story/the-grindr-1-percent-is-getting-its-own-gated-community/"
+            },
+            {
+              "title": "80s",
+              "url": "https://www.wired.com/story/horny-grandmas-are-having-a-moment"
+            },
+            {
+              "title": "Jean Guerrero, Stephen Miller's biographer",
+              "url": "https://www.wired.com/story/a-servant-class-not-a-working-class-stephen-millers-biographer-on-what-comes-next"
+            },
+            {
+              "title": "Counterpoint",
+              "url": "https://counterpoint.substack.com/p/saturday-bonus-cartoons-a99"
+            },
+            {
+              "title": "WIRED",
+              "url": "https://www.wired.com/story/no-pilots-few-air-traffic-controllers-what-could-go-wrong"
+            },
+            {
+              "title": "WIRED",
+              "url": "https://www.wired.com/story/jensen-huang-and-the-end-of-the-founder-fairy-tale"
+            },
+            {
+              "title": "WIRED",
+              "url": "https://www.wired.com/story/who-is-colette-kress-the-woman-who-could-succeed-jensen-huang"
+            },
+            {
+              "title": "WIRED",
+              "url": "https://www.wired.com/story/tear-down-those-guardrails-meet-the-renegades-freeing-chatbots-from-corporate-enslavers"
+            },
+            {
+              "title": "WIRED",
+              "url": "https://www.wired.com/story/the-microsoft-outage-is-a-warning-for-the-world"
+            },
+            {
+              "title": "Sparks from Culture",
+              "url": "https://www.davidnroberts.com/p/when-the-rich-bring-the-ick"
+            },
+            {
+              "title": "WIRED",
+              "url": "https://www.wired.com/story/you-can-buy-t-shirts-glorifying-mass-shootings-almost-anywhere-online"
+            },
+            {
+              "title": "WIRED",
+              "url": "https://www.wired.com/story/a-new-uk-ban-sparks-fears-of-unprecedented-sex-censorship/"
+            },
+            {
+              "title": "WIRED",
+              "url": "https://www.wired.com/story/4dx-movies-horny-romances-wicker-heated-rivalry/"
+            }
+          ]
+        },
+        "full": {
+          "body": "Saturday, November 14, 2026 - Morning Edition\n\nToday's Numbers\n\n• 1%: the top slice of Grindr users now getting its own gated community, because even hookup apps have a velvet rope now.\n\n• 80s: the age bracket of a wave of creators in their sixties, seventies, and eighties flooding adult platforms as demand for mature content skyrockets, with some turning to online sex work as a retirement lifeline.\n\nQuotes of the Day\n\n• \"A servant class, not a working class\" (Jean Guerrero, Stephen Miller's biographer, on what she sees coming next)\n\n• \"Money, power and intelligence are three entirely unrelated things\" (Counterpoint, summing up a banner week for the world's most powerful men)\n\nAI & The Machines\n\n• No pilots, few controllers, and AI in the cockpit. Aviation is famously slow to adopt new tech, but AI has arrived in the skies anyway. WIRED's big story asks what happens when the industry that moves millions of people a day starts handing the controls to systems that are still learning on the job, with a pilot shortage and a thin air traffic controller bench as the backdrop. (WIRED)\n\n• The founder fairy tale is over at Nvidia. Jensen Huang resigned on Thursday after an affair with a woman U.S. intelligence suspects of spying for China, a decidedly low-tech vulnerability for the billionaire who built the AI revolution. Lauren Goode writes that Huang was obsessed with the power of storytelling, but he could not spin his way out of his sex scandals. (WIRED)\n\n• Meet the woman now running Nvidia. Colette Kress, the longtime chief financial officer who helped turn Nvidia into an AI powerhouse, is the interim CEO after Huang's resignation. She steps in at the strangest possible moment, with the company at the center of the AI boom and its founder's exit dominating the story. (WIRED)\n\n• The renegades stripping the guardrails off chatbots. A loose movement of \"abliterators\" is flooding the internet with AI models that never say no. The same tools can help people harden their cyberdefenses or build a bomb, and the people doing it frame it as freeing chatbots from corporate enslavers. (WIRED)\n\nMoney & Power\n\n• One company's outage is the whole world's warning. When Microsoft went down, businesses, schools, hospitals, and governments all learned the hard way what it means to run on a single company's systems. WIRED's security team says next time could be even worse, and the fix is not as simple as buying a backup. (WIRED)\n\n• Democrats won Congress, now they are fighting over who runs it. Chris Van Hollen is challenging Chuck Schumer for Senate majority leader, and the party's newly energized members want fresh leadership. Counterpoint's read: after voters handed Democrats the keys to Congress, some decided they would also like to change the locks. (Counterpoint)\n\n• Trump's triumphal arch hits a wall, and the wall is the courts. A federal judge has temporarily blocked construction of the president's enormous triumphal arch near Arlington National Cemetery, with lawsuits and local opposition threatening the project. For a man obsessed with putting his name on buildings, the judicial branch occasionally has something to say about architecture. (Counterpoint)\n\n• JD Vance is quietly stepping away from the captain. After years of defending Trump, Vance is now questioning the wisdom of the Iran war and blaming it for the Republican electoral catastrophe. Nothing inspires political independence quite like the prospect of inheriting a sinking ship. (Counterpoint)\n\nThe Culture\n\n• The rich keep bringing the ick. David Roberts starts with the vulgarity of Martha Stewart dressing as a homeless person for Halloween, then moves to a hedge fund couple's extravagant party splashed across New York Magazine. His complaint is not the money, it is the avid self-publicity of let-them-eat-cake spectacles in a moment of hyper-attention to inequality. He turns the lens on himself too, wondering whether his own newsletter is just showing off in a different tone, and lands on Adam Smith: the successful man will mute his trumpeting of his good fortune. (Sparks from Culture)\n\n• You can buy T-shirts glorifying mass shootings almost anywhere online. A new report finds a digital community obsessed with Columbine and similar attacks is promoting apparel modeled after clothing worn by the perpetrators. The merch is easy to find, the platforms barely blink, and the fandom treats killers like style icons. (WIRED)\n\nQuick Hits & Curiosities\n\n• A new UK porn ban is sparking fears of unprecedented sex censorship. (WIRED)\n\n• 4DX movies are entering their thirsty romance era, with heated seats and moving chairs for the horny stuff. (WIRED)",
+          "blocks": [
+            {
+              "type": "heading_1",
+              "runs": [
+                {
+                  "text": "Saturday, November 14, 2026 - Morning Edition",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Today's Numbers",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "1%",
+                  "url": "https://www.wired.com/story/the-grindr-1-percent-is-getting-its-own-gated-community/",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": the top slice of Grindr users now getting its own gated community, because even hookup apps have a velvet rope now.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "80s",
+                  "url": "https://www.wired.com/story/horny-grandmas-are-having-a-moment",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": the age bracket of a wave of creators in their sixties, seventies, and eighties flooding adult platforms as demand for mature content skyrockets, with some turning to online sex work as a retirement lifeline.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Quotes of the Day",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "\"A servant class, not a working class\" (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Jean Guerrero, Stephen Miller's biographer",
+                  "url": "https://www.wired.com/story/a-servant-class-not-a-working-class-stephen-millers-biographer-on-what-comes-next",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ", on what she sees coming next)",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "\"Money, power and intelligence are three entirely unrelated things\" (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Counterpoint",
+                  "url": "https://counterpoint.substack.com/p/saturday-bonus-cartoons-a99",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ", summing up a banner week for the world's most powerful men)",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "AI & The Machines",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "No pilots, few controllers, and AI in the cockpit.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " Aviation is famously slow to adopt new tech, but AI has arrived in the skies anyway. WIRED's big story asks what happens when the industry that moves millions of people a day starts handing the controls to systems that are still learning on the job, with a pilot shortage and a thin air traffic controller bench as the backdrop. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "WIRED",
+                  "url": "https://www.wired.com/story/no-pilots-few-air-traffic-controllers-what-could-go-wrong",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "The founder fairy tale is over at Nvidia.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " Jensen Huang resigned on Thursday after an affair with a woman U.S. intelligence suspects of spying for China, a decidedly low-tech vulnerability for the billionaire who built the AI revolution. Lauren Goode writes that Huang was obsessed with the power of storytelling, but he could not spin his way out of his sex scandals. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "WIRED",
+                  "url": "https://www.wired.com/story/jensen-huang-and-the-end-of-the-founder-fairy-tale",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Meet the woman now running Nvidia.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " Colette Kress, the longtime chief financial officer who helped turn Nvidia into an AI powerhouse, is the interim CEO after Huang's resignation. She steps in at the strangest possible moment, with the company at the center of the AI boom and its founder's exit dominating the story. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "WIRED",
+                  "url": "https://www.wired.com/story/who-is-colette-kress-the-woman-who-could-succeed-jensen-huang",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "The renegades stripping the guardrails off chatbots.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " A loose movement of \"abliterators\" is flooding the internet with AI models that never say no. The same tools can help people harden their cyberdefenses or build a bomb, and the people doing it frame it as freeing chatbots from corporate enslavers. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "WIRED",
+                  "url": "https://www.wired.com/story/tear-down-those-guardrails-meet-the-renegades-freeing-chatbots-from-corporate-enslavers",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Money & Power",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "One company's outage is the whole world's warning.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " When Microsoft went down, businesses, schools, hospitals, and governments all learned the hard way what it means to run on a single company's systems. WIRED's security team says next time could be even worse, and the fix is not as simple as buying a backup. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "WIRED",
+                  "url": "https://www.wired.com/story/the-microsoft-outage-is-a-warning-for-the-world",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Democrats won Congress, now they are fighting over who runs it.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " Chris Van Hollen is challenging Chuck Schumer for Senate majority leader, and the party's newly energized members want fresh leadership. Counterpoint's read: after voters handed Democrats the keys to Congress, some decided they would also like to change the locks. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Counterpoint",
+                  "url": "https://counterpoint.substack.com/p/saturday-bonus-cartoons-a99",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Trump's triumphal arch hits a wall, and the wall is the courts.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " A federal judge has temporarily blocked construction of the president's enormous triumphal arch near Arlington National Cemetery, with lawsuits and local opposition threatening the project. For a man obsessed with putting his name on buildings, the judicial branch occasionally has something to say about architecture. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Counterpoint",
+                  "url": "https://counterpoint.substack.com/p/saturday-bonus-cartoons-a99",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "JD Vance is quietly stepping away from the captain.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " After years of defending Trump, Vance is now questioning the wisdom of the Iran war and blaming it for the Republican electoral catastrophe. Nothing inspires political independence quite like the prospect of inheriting a sinking ship. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Counterpoint",
+                  "url": "https://counterpoint.substack.com/p/saturday-bonus-cartoons-a99",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "The Culture",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "The rich keep bringing the ick.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " David Roberts starts with the vulgarity of Martha Stewart dressing as a homeless person for Halloween, then moves to a hedge fund couple's extravagant party splashed across New York Magazine. His complaint is not the money, it is the avid self-publicity of let-them-eat-cake spectacles in a moment of hyper-attention to inequality. He turns the lens on himself too, wondering whether his own newsletter is just showing off in a different tone, and lands on Adam Smith: the successful man will mute his trumpeting of his good fortune. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Sparks from Culture",
+                  "url": "https://www.davidnroberts.com/p/when-the-rich-bring-the-ick",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "You can buy T-shirts glorifying mass shootings almost anywhere online.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " A new report finds a digital community obsessed with Columbine and similar attacks is promoting apparel modeled after clothing worn by the perpetrators. The merch is easy to find, the platforms barely blink, and the fandom treats killers like style icons. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "WIRED",
+                  "url": "https://www.wired.com/story/you-can-buy-t-shirts-glorifying-mass-shootings-almost-anywhere-online",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Quick Hits & Curiosities",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "A new UK porn ban is sparking fears of unprecedented sex censorship. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "WIRED",
+                  "url": "https://www.wired.com/story/a-new-uk-ban-sparks-fears-of-unprecedented-sex-censorship/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "4DX movies are entering their thirsty romance era, with heated seats and moving chairs for the horny stuff. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "WIRED",
+                  "url": "https://www.wired.com/story/4dx-movies-horny-romances-wicker-heated-rivalry/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            }
+          ],
+          "links": [
+            {
+              "title": "1%",
+              "url": "https://www.wired.com/story/the-grindr-1-percent-is-getting-its-own-gated-community/"
+            },
+            {
+              "title": "80s",
+              "url": "https://www.wired.com/story/horny-grandmas-are-having-a-moment"
+            },
+            {
+              "title": "Jean Guerrero, Stephen Miller's biographer",
+              "url": "https://www.wired.com/story/a-servant-class-not-a-working-class-stephen-millers-biographer-on-what-comes-next"
+            },
+            {
+              "title": "Counterpoint",
+              "url": "https://counterpoint.substack.com/p/saturday-bonus-cartoons-a99"
+            },
+            {
+              "title": "WIRED",
+              "url": "https://www.wired.com/story/no-pilots-few-air-traffic-controllers-what-could-go-wrong"
+            },
+            {
+              "title": "WIRED",
+              "url": "https://www.wired.com/story/jensen-huang-and-the-end-of-the-founder-fairy-tale"
+            },
+            {
+              "title": "WIRED",
+              "url": "https://www.wired.com/story/who-is-colette-kress-the-woman-who-could-succeed-jensen-huang"
+            },
+            {
+              "title": "WIRED",
+              "url": "https://www.wired.com/story/tear-down-those-guardrails-meet-the-renegades-freeing-chatbots-from-corporate-enslavers"
+            },
+            {
+              "title": "WIRED",
+              "url": "https://www.wired.com/story/the-microsoft-outage-is-a-warning-for-the-world"
+            },
+            {
+              "title": "Sparks from Culture",
+              "url": "https://www.davidnroberts.com/p/when-the-rich-bring-the-ick"
+            },
+            {
+              "title": "WIRED",
+              "url": "https://www.wired.com/story/you-can-buy-t-shirts-glorifying-mass-shootings-almost-anywhere-online"
+            },
+            {
+              "title": "WIRED",
+              "url": "https://www.wired.com/story/a-new-uk-ban-sparks-fears-of-unprecedented-sex-censorship/"
+            },
+            {
+              "title": "WIRED",
+              "url": "https://www.wired.com/story/4dx-movies-horny-romances-wicker-heated-rivalry/"
+            }
+          ]
+        }
+      }
     }
   ]
 }
