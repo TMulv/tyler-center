@@ -798,8 +798,14 @@
       "available": false
     },
     "https://www.nytimes.com/2026/10/02/podcasts/stephen-king-the-talisman.html?smid=nytcore-ios-share": {
-      "checkedAt": "2026-11-08T07:08:31.907746+00:00",
-      "available": false
+      "checkedAt": "2026-11-15T07:46:14.210383+00:00",
+      "available": true,
+      "title": "Decades Later, Stephen King Is Finishing What He and Peter Straub Started",
+      "description": "The author speaks about his new book, “Other Worlds Than These,” which completes a trilogy he began with his friend and co-writer in 1984.",
+      "site": "",
+      "image": "https://static01.nyt.com/images/2026/10/02/podcasts/02tbr-podcast-stephen-king/02tbr-podcast-stephen-king-facebookJumbo.png?play-overlay=",
+      "icon": "https://static01.nyt.com/vi-assets/static-assets/assets/favicon-NXM0N6-N.ico",
+      "domain": "www.nytimes.com"
     },
     "https://www.joanwestenberg.com/p/unbruised-prosperity-makes-you-weak": {
       "title": "Unbruised Prosperity Makes You Weak",
