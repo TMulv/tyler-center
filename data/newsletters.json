@@ -283983,6 +283983,1070 @@
       ],
       "publishedAt": "2026-11-14T22:12:00Z",
       "links": []
+    },
+    {
+      "id": "digest-4198153c-8a3e-8105-aeb2-f3bb2d8c8e65",
+      "channel": "newsletters",
+      "source": "notion",
+      "kind": "Agent-written digest",
+      "domain": "Daily newsletter digest",
+      "title": "AI ransomware boom, Hubble's 2034 countdown, the hypebeast era ends - Sunday, November 15, 2026",
+      "url": "",
+      "description": "Sunday, November 15, 2026 - Morning Edition",
+      "body": "Sunday, November 15, 2026 - Morning Edition\n\nToday's Numbers\n\n• 2034: the year Hubble is expected to fall back into Earth's atmosphere if nothing changes, so NASA is asking commercial space companies for proposals to keep the telescope flying.\n\n• 1 million: people who read Farnam Street's Brain Food every week, making Shane Parrish's Sunday note one of the widest read letters about thinking clearly.\n\nQuotes of the Day\n\n• \"If you do not work on an important problem, it's unlikely you'll do important work.\" (Richard Hamming, on picking what to work on)\n\n• \"There are only three ways a smart person can go broke: liquor, ladies and leverage.\" (Charlie Munger, on how to destroy your life)\n\n• \"Honesty sounds like disrespect when you are demanding worship.\" (Shane Parrish, Brain Food)\n\nAI & The Machines\n\nFully automated ransomware has not arrived yet, but AI is already doing the heavy lifting for attackers who barely know what they are doing. WIRED reports that seemingly unsophisticated attackers are using AI tools to wreak havoc, which means the barrier to entry for ransomware keeps dropping even before full automation shows up. The next wave of attacks may come from people who could never have pulled them off a few years ago, and defenders are still catching up. (WIRED)\n\nMoney & Power\n\nFloods in Gaza are forcing an impossible choice between clean drinking water and pumping out raw sewage. Israeli restrictions are limiting repairs, so fuel gets diverted from wells to drainage pumps and residents lose either way. It is a stark look at how infrastructure becomes both a casualty and a weapon in the same crisis. (WIRED)\n\nThe Culture\n\nReddit co-founder Alexis Ohanian says building social media apps is \"not cool anymore.\" He is trying to figure out what comes next for user-generated content now that so much of the internet feels compromised by AI slop and bots. The founder of one of the web's biggest forums is basically admitting the era he helped build has run its course. (WIRED)\n\nA new Hulu docuseries follows the deadly toll of looksmaxxing, the online movement obsessed with maximizing male attractiveness. Get Huge: Looksmaxxing to Death traces the mysterious deaths and disappearances of a group of male influencers in Thailand, and the leader at the center of it all. It is a grim look at what happens when self-improvement content curdles into something dangerous. (WIRED)\n\nThe hypebeast era is over, and even its survivors are moving on. InsideHook's Paolo Sandoval says the appetite for logo-splashed streetwear and ultra-limited drops has finally been sated, but Aimé Leon Dore escaped the crash by growing into a full menswear operation. Its latest move is a shearling-lined leather slipper with Ugg, a moccasin-inspired collab that still leans on the drop playbook without living or dying by it. (InsideHook)\n\nQuick Hits & Curiosities\n\n• Jon McNeill, the former president of Tesla and co-founder of DVx Ventures, talks speed, short emails, marketing with no budget, and how Neuralink got started on the latest Knowledge Project. (Farnam Street)",
+      "blocks": [
+        {
+          "type": "heading_1",
+          "runs": [
+            {
+              "text": "Sunday, November 15, 2026 - Morning Edition",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Today's Numbers",
+              "url": "",
+              "bold": true,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "2034",
+              "url": "https://www.wired.com/story/nasa-wants-to-keep-the-hubble-space-telescope-afloat/",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": ": the year Hubble is expected to fall back into Earth's atmosphere if nothing changes, so NASA is asking commercial space companies for proposals to keep the telescope flying.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "1 million",
+              "url": "https://fs.blog/brain-food/november-15-2026/",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": ": people who read Farnam Street's Brain Food every week, making Shane Parrish's Sunday note one of the widest read letters about thinking clearly.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Quotes of the Day",
+              "url": "",
+              "bold": true,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "\"If you do not work on an important problem, it's unlikely you'll do important work.\" (Richard Hamming, on picking what to work on)",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "\"There are only three ways a smart person can go broke: liquor, ladies and leverage.\" (Charlie Munger, on how to destroy your life)",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "\"Honesty sounds like disrespect when you are demanding worship.\" (Shane Parrish, Brain Food)",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "AI & The Machines",
+              "url": "",
+              "bold": true,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Fully automated ransomware has not arrived yet, but AI is already doing the heavy lifting for attackers who barely know what they are doing.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " WIRED reports that seemingly unsophisticated attackers are using AI tools to wreak havoc, which means the barrier to entry for ransomware keeps dropping even before full automation shows up. The next wave of attacks may come from people who could never have pulled them off a few years ago, and defenders are still catching up. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "WIRED",
+              "url": "https://www.wired.com/story/beware-the-new-ai-fueled-ransomware-boom/",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Money & Power",
+              "url": "",
+              "bold": true,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Floods in Gaza are forcing an impossible choice between clean drinking water and pumping out raw sewage.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " Israeli restrictions are limiting repairs, so fuel gets diverted from wells to drainage pumps and residents lose either way. It is a stark look at how infrastructure becomes both a casualty and a weapon in the same crisis. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "WIRED",
+              "url": "https://www.wired.com/story/gaza-floods-are-forcing-a-choice-between-pumping-out-sewage-and-pumping-in-water/",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "The Culture",
+              "url": "",
+              "bold": true,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Reddit co-founder Alexis Ohanian says building social media apps is \"not cool anymore.\"",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " He is trying to figure out what comes next for user-generated content now that so much of the internet feels compromised by AI slop and bots. The founder of one of the web's biggest forums is basically admitting the era he helped build has run its course. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "WIRED",
+              "url": "https://www.wired.com/story/wired-world-fair-2026-alexis-ohanian/",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "A new Hulu docuseries follows the deadly toll of looksmaxxing, the online movement obsessed with maximizing male attractiveness.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " Get Huge: Looksmaxxing to Death traces the mysterious deaths and disappearances of a group of male influencers in Thailand, and the leader at the center of it all. It is a grim look at what happens when self-improvement content curdles into something dangerous. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "WIRED",
+              "url": "https://www.wired.com/story/hulu-doc-get-huge-shows-the-deadly-toll-of-looksmaxxing/",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "The hypebeast era is over, and even its survivors are moving on.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " InsideHook's Paolo Sandoval says the appetite for logo-splashed streetwear and ultra-limited drops has finally been sated, but Aimé Leon Dore escaped the crash by growing into a full menswear operation. Its latest move is a shearling-lined leather slipper with Ugg, a moccasin-inspired collab that still leans on the drop playbook without living or dying by it. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "InsideHook",
+              "url": "https://www.insidehook.com/gear/products-week-11-12-2026",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Quick Hits & Curiosities",
+              "url": "",
+              "bold": true,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Jon McNeill, the former president of Tesla and co-founder of DVx Ventures, talks speed, short emails, marketing with no budget, and how Neuralink got started on the latest Knowledge Project. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Farnam Street",
+              "url": "https://fs.blog/knowledge-project-podcast/jon-mcneill/",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        }
+      ],
+      "publishedAt": "2026-11-15T13:01:00Z",
+      "links": [
+        {
+          "title": "2034",
+          "url": "https://www.wired.com/story/nasa-wants-to-keep-the-hubble-space-telescope-afloat/"
+        },
+        {
+          "title": "1 million",
+          "url": "https://fs.blog/brain-food/november-15-2026/"
+        },
+        {
+          "title": "WIRED",
+          "url": "https://www.wired.com/story/beware-the-new-ai-fueled-ransomware-boom/"
+        },
+        {
+          "title": "WIRED",
+          "url": "https://www.wired.com/story/gaza-floods-are-forcing-a-choice-between-pumping-out-sewage-and-pumping-in-water/"
+        },
+        {
+          "title": "WIRED",
+          "url": "https://www.wired.com/story/wired-world-fair-2026-alexis-ohanian/"
+        },
+        {
+          "title": "WIRED",
+          "url": "https://www.wired.com/story/hulu-doc-get-huge-shows-the-deadly-toll-of-looksmaxxing/"
+        },
+        {
+          "title": "InsideHook",
+          "url": "https://www.insidehook.com/gear/products-week-11-12-2026"
+        },
+        {
+          "title": "Farnam Street",
+          "url": "https://fs.blog/knowledge-project-podcast/jon-mcneill/"
+        }
+      ],
+      "versions": {
+        "morning": {
+          "body": "Sunday, November 15, 2026 - Morning Edition\n\nToday's Numbers\n\n• 2034: the year Hubble is expected to fall back into Earth's atmosphere if nothing changes, so NASA is asking commercial space companies for proposals to keep the telescope flying.\n\n• 1 million: people who read Farnam Street's Brain Food every week, making Shane Parrish's Sunday note one of the widest read letters about thinking clearly.\n\nQuotes of the Day\n\n• \"If you do not work on an important problem, it's unlikely you'll do important work.\" (Richard Hamming, on picking what to work on)\n\n• \"There are only three ways a smart person can go broke: liquor, ladies and leverage.\" (Charlie Munger, on how to destroy your life)\n\n• \"Honesty sounds like disrespect when you are demanding worship.\" (Shane Parrish, Brain Food)\n\nAI & The Machines\n\nFully automated ransomware has not arrived yet, but AI is already doing the heavy lifting for attackers who barely know what they are doing. WIRED reports that seemingly unsophisticated attackers are using AI tools to wreak havoc, which means the barrier to entry for ransomware keeps dropping even before full automation shows up. The next wave of attacks may come from people who could never have pulled them off a few years ago, and defenders are still catching up. (WIRED)\n\nMoney & Power\n\nFloods in Gaza are forcing an impossible choice between clean drinking water and pumping out raw sewage. Israeli restrictions are limiting repairs, so fuel gets diverted from wells to drainage pumps and residents lose either way. It is a stark look at how infrastructure becomes both a casualty and a weapon in the same crisis. (WIRED)\n\nThe Culture\n\nReddit co-founder Alexis Ohanian says building social media apps is \"not cool anymore.\" He is trying to figure out what comes next for user-generated content now that so much of the internet feels compromised by AI slop and bots. The founder of one of the web's biggest forums is basically admitting the era he helped build has run its course. (WIRED)\n\nA new Hulu docuseries follows the deadly toll of looksmaxxing, the online movement obsessed with maximizing male attractiveness. Get Huge: Looksmaxxing to Death traces the mysterious deaths and disappearances of a group of male influencers in Thailand, and the leader at the center of it all. It is a grim look at what happens when self-improvement content curdles into something dangerous. (WIRED)\n\nThe hypebeast era is over, and even its survivors are moving on. InsideHook's Paolo Sandoval says the appetite for logo-splashed streetwear and ultra-limited drops has finally been sated, but Aimé Leon Dore escaped the crash by growing into a full menswear operation. Its latest move is a shearling-lined leather slipper with Ugg, a moccasin-inspired collab that still leans on the drop playbook without living or dying by it. (InsideHook)\n\nQuick Hits & Curiosities\n\n• Jon McNeill, the former president of Tesla and co-founder of DVx Ventures, talks speed, short emails, marketing with no budget, and how Neuralink got started on the latest Knowledge Project. (Farnam Street)",
+          "blocks": [
+            {
+              "type": "heading_1",
+              "runs": [
+                {
+                  "text": "Sunday, November 15, 2026 - Morning Edition",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Today's Numbers",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "2034",
+                  "url": "https://www.wired.com/story/nasa-wants-to-keep-the-hubble-space-telescope-afloat/",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": the year Hubble is expected to fall back into Earth's atmosphere if nothing changes, so NASA is asking commercial space companies for proposals to keep the telescope flying.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "1 million",
+                  "url": "https://fs.blog/brain-food/november-15-2026/",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": people who read Farnam Street's Brain Food every week, making Shane Parrish's Sunday note one of the widest read letters about thinking clearly.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Quotes of the Day",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "\"If you do not work on an important problem, it's unlikely you'll do important work.\" (Richard Hamming, on picking what to work on)",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "\"There are only three ways a smart person can go broke: liquor, ladies and leverage.\" (Charlie Munger, on how to destroy your life)",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "\"Honesty sounds like disrespect when you are demanding worship.\" (Shane Parrish, Brain Food)",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "AI & The Machines",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Fully automated ransomware has not arrived yet, but AI is already doing the heavy lifting for attackers who barely know what they are doing.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " WIRED reports that seemingly unsophisticated attackers are using AI tools to wreak havoc, which means the barrier to entry for ransomware keeps dropping even before full automation shows up. The next wave of attacks may come from people who could never have pulled them off a few years ago, and defenders are still catching up. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "WIRED",
+                  "url": "https://www.wired.com/story/beware-the-new-ai-fueled-ransomware-boom/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Money & Power",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Floods in Gaza are forcing an impossible choice between clean drinking water and pumping out raw sewage.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " Israeli restrictions are limiting repairs, so fuel gets diverted from wells to drainage pumps and residents lose either way. It is a stark look at how infrastructure becomes both a casualty and a weapon in the same crisis. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "WIRED",
+                  "url": "https://www.wired.com/story/gaza-floods-are-forcing-a-choice-between-pumping-out-sewage-and-pumping-in-water/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "The Culture",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Reddit co-founder Alexis Ohanian says building social media apps is \"not cool anymore.\"",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " He is trying to figure out what comes next for user-generated content now that so much of the internet feels compromised by AI slop and bots. The founder of one of the web's biggest forums is basically admitting the era he helped build has run its course. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "WIRED",
+                  "url": "https://www.wired.com/story/wired-world-fair-2026-alexis-ohanian/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "A new Hulu docuseries follows the deadly toll of looksmaxxing, the online movement obsessed with maximizing male attractiveness.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " Get Huge: Looksmaxxing to Death traces the mysterious deaths and disappearances of a group of male influencers in Thailand, and the leader at the center of it all. It is a grim look at what happens when self-improvement content curdles into something dangerous. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "WIRED",
+                  "url": "https://www.wired.com/story/hulu-doc-get-huge-shows-the-deadly-toll-of-looksmaxxing/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "The hypebeast era is over, and even its survivors are moving on.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " InsideHook's Paolo Sandoval says the appetite for logo-splashed streetwear and ultra-limited drops has finally been sated, but Aimé Leon Dore escaped the crash by growing into a full menswear operation. Its latest move is a shearling-lined leather slipper with Ugg, a moccasin-inspired collab that still leans on the drop playbook without living or dying by it. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "InsideHook",
+                  "url": "https://www.insidehook.com/gear/products-week-11-12-2026",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Quick Hits & Curiosities",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Jon McNeill, the former president of Tesla and co-founder of DVx Ventures, talks speed, short emails, marketing with no budget, and how Neuralink got started on the latest Knowledge Project. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Farnam Street",
+                  "url": "https://fs.blog/knowledge-project-podcast/jon-mcneill/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            }
+          ],
+          "links": [
+            {
+              "title": "2034",
+              "url": "https://www.wired.com/story/nasa-wants-to-keep-the-hubble-space-telescope-afloat/"
+            },
+            {
+              "title": "1 million",
+              "url": "https://fs.blog/brain-food/november-15-2026/"
+            },
+            {
+              "title": "WIRED",
+              "url": "https://www.wired.com/story/beware-the-new-ai-fueled-ransomware-boom/"
+            },
+            {
+              "title": "WIRED",
+              "url": "https://www.wired.com/story/gaza-floods-are-forcing-a-choice-between-pumping-out-sewage-and-pumping-in-water/"
+            },
+            {
+              "title": "WIRED",
+              "url": "https://www.wired.com/story/wired-world-fair-2026-alexis-ohanian/"
+            },
+            {
+              "title": "WIRED",
+              "url": "https://www.wired.com/story/hulu-doc-get-huge-shows-the-deadly-toll-of-looksmaxxing/"
+            },
+            {
+              "title": "InsideHook",
+              "url": "https://www.insidehook.com/gear/products-week-11-12-2026"
+            },
+            {
+              "title": "Farnam Street",
+              "url": "https://fs.blog/knowledge-project-podcast/jon-mcneill/"
+            }
+          ]
+        },
+        "full": {
+          "body": "Sunday, November 15, 2026 - Morning Edition\n\nToday's Numbers\n\n• 2034: the year Hubble is expected to fall back into Earth's atmosphere if nothing changes, so NASA is asking commercial space companies for proposals to keep the telescope flying.\n\n• 1 million: people who read Farnam Street's Brain Food every week, making Shane Parrish's Sunday note one of the widest read letters about thinking clearly.\n\nQuotes of the Day\n\n• \"If you do not work on an important problem, it's unlikely you'll do important work.\" (Richard Hamming, on picking what to work on)\n\n• \"There are only three ways a smart person can go broke: liquor, ladies and leverage.\" (Charlie Munger, on how to destroy your life)\n\n• \"Honesty sounds like disrespect when you are demanding worship.\" (Shane Parrish, Brain Food)\n\nAI & The Machines\n\nFully automated ransomware has not arrived yet, but AI is already doing the heavy lifting for attackers who barely know what they are doing. WIRED reports that seemingly unsophisticated attackers are using AI tools to wreak havoc, which means the barrier to entry for ransomware keeps dropping even before full automation shows up. The next wave of attacks may come from people who could never have pulled them off a few years ago, and defenders are still catching up. (WIRED)\n\nMoney & Power\n\nFloods in Gaza are forcing an impossible choice between clean drinking water and pumping out raw sewage. Israeli restrictions are limiting repairs, so fuel gets diverted from wells to drainage pumps and residents lose either way. It is a stark look at how infrastructure becomes both a casualty and a weapon in the same crisis. (WIRED)\n\nThe Culture\n\nReddit co-founder Alexis Ohanian says building social media apps is \"not cool anymore.\" He is trying to figure out what comes next for user-generated content now that so much of the internet feels compromised by AI slop and bots. The founder of one of the web's biggest forums is basically admitting the era he helped build has run its course. (WIRED)\n\nA new Hulu docuseries follows the deadly toll of looksmaxxing, the online movement obsessed with maximizing male attractiveness. Get Huge: Looksmaxxing to Death traces the mysterious deaths and disappearances of a group of male influencers in Thailand, and the leader at the center of it all. It is a grim look at what happens when self-improvement content curdles into something dangerous. (WIRED)\n\nThe hypebeast era is over, and even its survivors are moving on. InsideHook's Paolo Sandoval says the appetite for logo-splashed streetwear and ultra-limited drops has finally been sated, but Aimé Leon Dore escaped the crash by growing into a full menswear operation. Its latest move is a shearling-lined leather slipper with Ugg, a moccasin-inspired collab that still leans on the drop playbook without living or dying by it. (InsideHook)\n\nQuick Hits & Curiosities\n\n• Jon McNeill, the former president of Tesla and co-founder of DVx Ventures, talks speed, short emails, marketing with no budget, and how Neuralink got started on the latest Knowledge Project. (Farnam Street)",
+          "blocks": [
+            {
+              "type": "heading_1",
+              "runs": [
+                {
+                  "text": "Sunday, November 15, 2026 - Morning Edition",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Today's Numbers",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "2034",
+                  "url": "https://www.wired.com/story/nasa-wants-to-keep-the-hubble-space-telescope-afloat/",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": the year Hubble is expected to fall back into Earth's atmosphere if nothing changes, so NASA is asking commercial space companies for proposals to keep the telescope flying.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "1 million",
+                  "url": "https://fs.blog/brain-food/november-15-2026/",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": people who read Farnam Street's Brain Food every week, making Shane Parrish's Sunday note one of the widest read letters about thinking clearly.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Quotes of the Day",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "\"If you do not work on an important problem, it's unlikely you'll do important work.\" (Richard Hamming, on picking what to work on)",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "\"There are only three ways a smart person can go broke: liquor, ladies and leverage.\" (Charlie Munger, on how to destroy your life)",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "\"Honesty sounds like disrespect when you are demanding worship.\" (Shane Parrish, Brain Food)",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "AI & The Machines",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Fully automated ransomware has not arrived yet, but AI is already doing the heavy lifting for attackers who barely know what they are doing.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " WIRED reports that seemingly unsophisticated attackers are using AI tools to wreak havoc, which means the barrier to entry for ransomware keeps dropping even before full automation shows up. The next wave of attacks may come from people who could never have pulled them off a few years ago, and defenders are still catching up. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "WIRED",
+                  "url": "https://www.wired.com/story/beware-the-new-ai-fueled-ransomware-boom/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Money & Power",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Floods in Gaza are forcing an impossible choice between clean drinking water and pumping out raw sewage.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " Israeli restrictions are limiting repairs, so fuel gets diverted from wells to drainage pumps and residents lose either way. It is a stark look at how infrastructure becomes both a casualty and a weapon in the same crisis. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "WIRED",
+                  "url": "https://www.wired.com/story/gaza-floods-are-forcing-a-choice-between-pumping-out-sewage-and-pumping-in-water/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "The Culture",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Reddit co-founder Alexis Ohanian says building social media apps is \"not cool anymore.\"",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " He is trying to figure out what comes next for user-generated content now that so much of the internet feels compromised by AI slop and bots. The founder of one of the web's biggest forums is basically admitting the era he helped build has run its course. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "WIRED",
+                  "url": "https://www.wired.com/story/wired-world-fair-2026-alexis-ohanian/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "A new Hulu docuseries follows the deadly toll of looksmaxxing, the online movement obsessed with maximizing male attractiveness.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " Get Huge: Looksmaxxing to Death traces the mysterious deaths and disappearances of a group of male influencers in Thailand, and the leader at the center of it all. It is a grim look at what happens when self-improvement content curdles into something dangerous. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "WIRED",
+                  "url": "https://www.wired.com/story/hulu-doc-get-huge-shows-the-deadly-toll-of-looksmaxxing/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "The hypebeast era is over, and even its survivors are moving on.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " InsideHook's Paolo Sandoval says the appetite for logo-splashed streetwear and ultra-limited drops has finally been sated, but Aimé Leon Dore escaped the crash by growing into a full menswear operation. Its latest move is a shearling-lined leather slipper with Ugg, a moccasin-inspired collab that still leans on the drop playbook without living or dying by it. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "InsideHook",
+                  "url": "https://www.insidehook.com/gear/products-week-11-12-2026",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Quick Hits & Curiosities",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Jon McNeill, the former president of Tesla and co-founder of DVx Ventures, talks speed, short emails, marketing with no budget, and how Neuralink got started on the latest Knowledge Project. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Farnam Street",
+                  "url": "https://fs.blog/knowledge-project-podcast/jon-mcneill/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            }
+          ],
+          "links": [
+            {
+              "title": "2034",
+              "url": "https://www.wired.com/story/nasa-wants-to-keep-the-hubble-space-telescope-afloat/"
+            },
+            {
+              "title": "1 million",
+              "url": "https://fs.blog/brain-food/november-15-2026/"
+            },
+            {
+              "title": "WIRED",
+              "url": "https://www.wired.com/story/beware-the-new-ai-fueled-ransomware-boom/"
+            },
+            {
+              "title": "WIRED",
+              "url": "https://www.wired.com/story/gaza-floods-are-forcing-a-choice-between-pumping-out-sewage-and-pumping-in-water/"
+            },
+            {
+              "title": "WIRED",
+              "url": "https://www.wired.com/story/wired-world-fair-2026-alexis-ohanian/"
+            },
+            {
+              "title": "WIRED",
+              "url": "https://www.wired.com/story/hulu-doc-get-huge-shows-the-deadly-toll-of-looksmaxxing/"
+            },
+            {
+              "title": "InsideHook",
+              "url": "https://www.insidehook.com/gear/products-week-11-12-2026"
+            },
+            {
+              "title": "Farnam Street",
+              "url": "https://fs.blog/knowledge-project-podcast/jon-mcneill/"
+            }
+          ]
+        }
+      }
     }
   ]
 }
