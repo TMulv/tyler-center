@@ -283399,6 +283399,627 @@
           ]
         }
       }
+    },
+    {
+      "id": "digest-86a8153c-8a3e-82af-99cc-01a3bba16a1f",
+      "channel": "newsletters",
+      "source": "notion",
+      "kind": "Agent-written digest",
+      "domain": "Daily newsletter digest",
+      "title": "The Minion Brain, the Bluejean Return & a Very Weird Saturday",
+      "url": "",
+      "description": "Saturday, November 14, 2026",
+      "body": "Saturday, November 14, 2026\n\nA Saturday pileup of monkey neuroscience, algorithm anxiety, art worth leaving the house for, and the sudden realization that jeans may be fun again. The day's newsletters kept circling one question: how do we stay human when feeds, founders, fashion, and even airport systems keep trying to decide what we should want?\n\nBest links\n\n• Monkeys watching Minions. 404 Media's science roundup reports on humans and two macaques watching films and short clips while researchers tracked eye movements and brain activity. The interesting bit: vision looks less like a flipbook of isolated snapshots and more like a continuous process, with the brain reacting to new meaning as it arrives. The irresistible unanswered question is what the macaques made of the Minions. Read the Abstract from 404 Media\n\n• The ants that age backward. A 34-year study of 3,285 western harvester-ant colonies found “negative senescence”: as the colony gets older, its survival and reproduction can increase. Individual ants still die normally; the colony is the strange, durable superorganism. Read 404 Media's roundup\n\n• Plastic may be leaving a signature from space. Weekend Briefing highlights research suggesting that the Great Pacific Garbage Patch may have altered the ocean's blue-green color enough to show up in satellite observations. The useful caveat: the pattern is striking, but direct sampling is still needed to prove plastic caused it. Read Weekend Briefing\n\nWorth reading\n\n• The will to build—and the price of building. Weekend Briefing points to Robert Caro's conversation with Dwarkesh Patel: the same determination that produces roads, parks, and political victories can turn ruthless when other people become obstacles. The practical question underneath the biography is excellent: who controls the money, who can grant the favor, and who pays when the builder insists on getting things done? Read Weekend Briefing\n\n• Anthropic's accountability problem. A proposed structure would protect the company's public-benefit mission through an independent trust and founder-controlled voting power. That may shelter safety goals from short-term shareholder pressure, but it leaves a sharper question: who gets to hold the people representing “humanity” accountable? Read the governance item\n\n• The feed is not neutral. One essay in the same briefing argues that 2016 was a turning point: platforms increasingly optimized feeds for attention, making fear and outrage as valuable as delight. The memorable inversion is that we think our viewing choices shape the feed, while the feed gradually shapes the person watching. Read the recommendation\n\n• Silicon Valley's wardrobe change. Status describes tech leaders who cozied up to Trump suddenly signaling leftward as Democrats prepare to take power. The sharp point is less “politicians changed sides” than “a few statements and personnel moves do not erase two years of incentives.” Read Status\n\nIdeas to steal\n\n• Make the algorithm defend itself in court. The Weekly Scroll's useful frame for the California feed lawsuits: platforms want personalized feeds treated as speech, while plaintiffs increasingly describe them as products that can be defective. That distinction could shape the next decade of internet regulation. Read The Weekly Scroll\n\n• Don't trust “last normal year” rhetoric too quickly. The newsletters are full of end-of-an-era language, but Weekend Briefing's treatment of 2016 makes the better case: not that one year caused every crisis, but that it changed the conditions under which we encounter them. Read the briefing\n\n• Dress for interest, not seriousness. The New York Times' fashion dispatch is a tiny manifesto for changing your mind. One writer abandoned jeans to look grown-up, then returned to battered vintage denim and found that the fear of looking unserious had outlived the office dress code. Read The Morning\n\nFood & places\n\n• The make-ahead Thanksgiving MVP: NYT Cooking's elotes-ish street corn pudding with roasted jalapeños, crema, Tajín, and queso fresco. Bake it, cool it, refrigerate it for up to a week, then reheat at 325°F and finish it just before serving. Get the recipe\n\n• Go see something. Exhibits in New York is nudging readers toward Na Mira's No Smoking at MoMA, Brancusi at MoMA, and Teresa Margolles's At the Scene at MoMA PS1—the last one marked a must-see. The broader gift is a weekend route through Chelsea, Tribeca, the Lower East Side, Harlem, Brooklyn, and Queens. See the full list\n\n• A recipe for Sunday: The New York Times' Saturday morning edition suggests maple-roasted chicken thighs, with maple syrup, cider vinegar, and smoked paprika doing the sweet-smoky work. Marinate tonight; let tomorrow's dinner feel premeditated. Read The Morning\n\nInternet oddities\n\n• Trash-can wheel rims. Why is this interesting? offers a Saturday selection that includes exactly what it promises, alongside an explainer on indie rock and a look at the revival of the French outdoor brand Galibier. The wheel rims are the day's purest internet artifact: a tiny object, a whole rabbit hole. Open the selection\n\n• The colony is the organism. The ant study is also a useful internet-age metaphor: individual units can be fragile while the network grows more capable with time. Good science, slightly unsettling management advice. Read 404 Media's roundup\n\n• A monkey's semantic novelty. Somewhere in a lab, a macaque watched a Minion movie in Hungarian while electrodes recorded the brain's response to new conceptual information. There are sentences that simply make the week better. Read the study roundup\n\nOne-liners\n\n• The Weekender: A person's archive—journals, blueprints, slides, postcards—can turn grief into a continuing act of discovery.\n\n• The Weekender: The Pre-Raphaelites hated “slosh,” which is a spectacular name for art that has been polished past the point of life.\n\n• Earl Earl: When stuck in a style rut, start with one weird skirt, one bright turtleneck, or a jacket with pockets good enough to build an identity around. Read the Saturday Snack\n\n• New York Magazine: Cheating is apparently unforgivable until fifty years of true love rebrands it as destiny. Read the essay\n\n• WIRED: AI is moving into aviation, while the founder fairy tale is having a very bad week. Read WIRED Daily\n\n• The Substack Weekender: An MFA may help with access and community, but the evidence for transforming the writing itself is much murkier. Read The Weekender",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Saturday, November 14, 2026",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "A Saturday pileup of monkey neuroscience, algorithm anxiety, art worth leaving the house for, and the sudden realization that jeans may be fun again. The day's newsletters kept circling one question: how do we stay human when feeds, founders, fashion, and even airport systems keep trying to decide what we should want?",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "heading_2",
+          "runs": [
+            {
+              "text": "Best links",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Monkeys watching Minions.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " 404 Media's science roundup reports on humans and two macaques watching films and short clips while researchers tracked eye movements and brain activity. The interesting bit: vision looks less like a flipbook of isolated snapshots and more like a continuous process, with the brain reacting to new meaning as it arrives. The irresistible unanswered question is what the macaques made of the Minions. ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Read the Abstract from 404 Media",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "The ants that age backward.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " A 34-year study of 3,285 western harvester-ant colonies found “negative senescence”: as the colony gets older, its survival and reproduction can increase. Individual ants still die normally; the colony is the strange, durable superorganism. ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Read 404 Media's roundup",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Plastic may be leaving a signature from space.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " Weekend Briefing highlights research suggesting that the Great Pacific Garbage Patch may have altered the ocean's blue-green color enough to show up in satellite observations. The useful caveat: the pattern is striking, but direct sampling is still needed to prove plastic caused it. ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Read Weekend Briefing",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "heading_2",
+          "runs": [
+            {
+              "text": "Worth reading",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "The will to build—and the price of building.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " Weekend Briefing points to Robert Caro's conversation with Dwarkesh Patel: the same determination that produces roads, parks, and political victories can turn ruthless when other people become obstacles. The practical question underneath the biography is excellent: who controls the money, who can grant the favor, and who pays when the builder insists on getting things done? ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Read Weekend Briefing",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Anthropic's accountability problem.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " A proposed structure would protect the company's public-benefit mission through an independent trust and founder-controlled voting power. That may shelter safety goals from short-term shareholder pressure, but it leaves a sharper question: who gets to hold the people representing “humanity” accountable? ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Read the governance item",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "The feed is not neutral.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " One essay in the same briefing argues that 2016 was a turning point: platforms increasingly optimized feeds for attention, making fear and outrage as valuable as delight. The memorable inversion is that we think our viewing choices shape the feed, while the feed gradually shapes the person watching. ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Read the recommendation",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Silicon Valley's wardrobe change.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " Status describes tech leaders who cozied up to Trump suddenly signaling leftward as Democrats prepare to take power. The sharp point is less “politicians changed sides” than “a few statements and personnel moves do not erase two years of incentives.” ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Read Status",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "heading_2",
+          "runs": [
+            {
+              "text": "Ideas to steal",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Make the algorithm defend itself in court.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " The Weekly Scroll's useful frame for the California feed lawsuits: platforms want personalized feeds treated as speech, while plaintiffs increasingly describe them as products that can be defective. That distinction could shape the next decade of internet regulation. ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Read The Weekly Scroll",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Don't trust “last normal year” rhetoric too quickly.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " The newsletters are full of end-of-an-era language, but Weekend Briefing's treatment of 2016 makes the better case: not that one year caused every crisis, but that it changed the conditions under which we encounter them. ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Read the briefing",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Dress for interest, not seriousness.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " The New York Times' fashion dispatch is a tiny manifesto for changing your mind. One writer abandoned jeans to look grown-up, then returned to battered vintage denim and found that the fear of looking unserious had outlived the office dress code. ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Read The Morning",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "heading_2",
+          "runs": [
+            {
+              "text": "Food & places",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "The make-ahead Thanksgiving MVP:",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " NYT Cooking's elotes-ish street corn pudding with roasted jalapeños, crema, Tajín, and queso fresco. Bake it, cool it, refrigerate it for up to a week, then reheat at 325°F and finish it just before serving. ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Get the recipe",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Go see something.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " Exhibits in New York is nudging readers toward Na Mira's ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "No Smoking",
+              "url": "",
+              "bold": false,
+              "italic": true
+            },
+            {
+              "text": " at MoMA, Brancusi at MoMA, and Teresa Margolles's ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "At the Scene",
+              "url": "",
+              "bold": false,
+              "italic": true
+            },
+            {
+              "text": " at MoMA PS1—the last one marked a must-see. The broader gift is a weekend route through Chelsea, Tribeca, the Lower East Side, Harlem, Brooklyn, and Queens. ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "See the full list",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "A recipe for Sunday:",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " The New York Times' Saturday morning edition suggests maple-roasted chicken thighs, with maple syrup, cider vinegar, and smoked paprika doing the sweet-smoky work. Marinate tonight; let tomorrow's dinner feel premeditated. ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Read The Morning",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "heading_2",
+          "runs": [
+            {
+              "text": "Internet oddities",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Trash-can wheel rims.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " Why is this interesting? offers a Saturday selection that includes exactly what it promises, alongside an explainer on indie rock and a look at the revival of the French outdoor brand Galibier. The wheel rims are the day's purest internet artifact: a tiny object, a whole rabbit hole. ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Open the selection",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "The colony is the organism.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " The ant study is also a useful internet-age metaphor: individual units can be fragile while the network grows more capable with time. Good science, slightly unsettling management advice. ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Read 404 Media's roundup",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "A monkey's semantic novelty.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " Somewhere in a lab, a macaque watched a Minion movie in Hungarian while electrodes recorded the brain's response to new conceptual information. There are sentences that simply make the week better. ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Read the study roundup",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "heading_2",
+          "runs": [
+            {
+              "text": "One-liners",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "The Weekender:",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " A person's archive—journals, blueprints, slides, postcards—can turn grief into a continuing act of discovery.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "The Weekender:",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " The Pre-Raphaelites hated “slosh,” which is a spectacular name for art that has been polished past the point of life.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Earl Earl:",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " When stuck in a style rut, start with one weird skirt, one bright turtleneck, or a jacket with pockets good enough to build an identity around. ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Read the Saturday Snack",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "New York Magazine:",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " Cheating is apparently unforgivable until fifty years of true love rebrands it as destiny. ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Read the essay",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "WIRED:",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " AI is moving into aviation, while the founder fairy tale is having a very bad week. ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Read WIRED Daily",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "The Substack Weekender:",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " An MFA may help with access and community, but the evidence for transforming the writing itself is much murkier. ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Read The Weekender",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        }
+      ],
+      "publishedAt": "2026-11-14T22:12:00Z",
+      "links": []
     }
   ]
 }
