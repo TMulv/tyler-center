@@ -292019,6 +292019,564 @@
           ]
         }
       }
+    },
+    {
+      "id": "digest-5468153c-8a3e-83ae-85d2-811c0daf6d7a",
+      "channel": "newsletters",
+      "source": "notion",
+      "kind": "Agent-written digest",
+      "domain": "Daily newsletter digest",
+      "title": "The AI Bulldozer, a 28-Year Walk, and the $6 Dinner",
+      "url": "",
+      "description": "Today’s newsletters arrived like a newspaper assembled by a very online raccoon: AI infrastructure on trial, a Wikipedia vandal rewriting history, a 57-year-old finally coming home after walking around the world, and enough cheap food to make Brooklyn feel briefly affordable.",
+      "body": "Today’s newsletters arrived like a newspaper assembled by a very online raccoon: AI infrastructure on trial, a Wikipedia vandal rewriting history, a 57-year-old finally coming home after walking around the world, and enough cheap food to make Brooklyn feel briefly affordable.\n\nFront page: the machine is everywhere\n\n• The AI industry’s “physical” problem. Semafor’s interview with Sam Altman is unusually candid: he says the backlash to data centers is really about people wanting to stay “in control of the future,” and admits that the industry’s engagement with communities is not working. His answer is still more buildout—but with adaptation. Read the Semafor email\n\n• The bulldozer behind the bulldozer. Hill Heat’s warning about BAAJA says the bill would accelerate fossil-fueled data-center construction while weakening environmental review, historic-preservation protections, and judicial remedies. The newsletter points to letters from 18 state attorneys general and 99 legal scholars urging the Senate to slow down. Read Hill Heat\n\n• Nvidia’s troubles are bigger than one CEO scandal. WIRED’s useful framing: competitors are catching up, and the Jensen Huang chaos is arriving at exactly the wrong moment. Meanwhile, AI-generated DJs are trying to turn playlists into awkward synthetic radio. Read WIRED Daily\n\nBest links & rabbit holes\n\n• How an AI content mill put a real musician through copyright hell. Samantha Shokin’s cover of the public-domain Bulgarian folk song “Bre Petrunko” reached 125,000 YouTube views—then an AI-heavy rights company claimed it, took the video down, and left her unable to reach a human. The grim lesson: automated enforcement is now capable of both inventing ownership and enforcing it. Read 404 Media\n\n• The Wikipedia editor who made history wobble. Pirate Wires profiles “Jagged_85,” a rogue editor who made more than 87,000 edits and seeded hundreds of dubious claims about inventions attributed to the Islamic Golden Age. The internet’s oldest problem remains the most durable: a confident sentence with a citation-shaped shadow behind it. Read Pirate Wires\n\n• The fake spontaneous airplane concert. The videos of Hoobastank, The Used, and Simple Plan playing mid-flight were not an improvised response to the FAA ground stop. They were Southwest’s preplanned “Live at 35” series, partnered with Warped Tour—a marketing stunt wearing a disaster costume. Read Garbage Day\n\nIdeas to steal\n\n• Build a household brain, not a longer chat history. Lenny’s newsletter details Scott Farrar’s Claude Code + Obsidian system: appliance photos become searchable warranty records; insurance quotes get compared against actual household context; one master task list gets surfaced on a wall display. The good idea is not “let AI run the house.” It is “put the memory in inspectable Markdown files so the house can remember.” Read Lenny’s Newsletter\n\n• Try analogmaxxing without making it a personality. After School describes “brain stacking”: a timed rotation of journaling, Sudoku, reading, and other offline activities. It is elaborate, slightly performative, and still probably better than three hours of Reels. Read After School\n\n• Use AI where spatial reasoning matters. In Lenny’s Fable 5.2 review, a model turns low-resolution photos of unassembled furniture into a usable assembly sequence—and builds a working 3D typewriter in one shot. The model is apparently better at “what goes where?” than at designing an attractive website unaided. Read the review roundup\n\nFood & places\n\n• Tonight’s 30-minute move: cottage-cheese turkey meatballs. Cottage cheese replaces the usual egg and breadcrumbs, broiling browns the tops, and a quick simmer in jarred marinara keeps everything tender. Put them over pasta, polenta, or beans and greens. Read NYT Cooking\n\n• The cheap-eats map is still alive. Robert Sietsema’s New York round-up has a $6.50 three-filet catfish sandwich at JLR Seafood in Bushwick; $6–$9 Jamaican plates at King Barka in Harlem; $5 bean-and-cheese tacos at Tacos Domingo; and a $5 salt-cod-and-butter-beans bake at Exquisite Supreme in Midwood. This is the kind of list that turns a random Saturday into an itinerary. Read the full list\n\n• Holiday object, not holiday panic: Ruby’s gift guide is unusually practical—Camp Snap for film-like photos without the film hassle, a custom book stamp, a mini Japanese colander, tongue scrapers, and a Chef Press for crisping things. Read Ruby’s Recs\n\nCulture desk\n\n• Madonna was snubbed; Robert Pattinson is Bond; P-Valley returns. New York Magazine’s Dinner Party newsletter treats all three as one coherent emotional weather system. The strongest item is the P-Valley note: season three exists at all after strikes, contraction, and a radically less adventurous TV business. Read Dinner Party\n\n• Boys Noize’s compact canon. Asked what he’s into, the producer named Thomas Bangalter, Trent Reznor, 2manyDJs, his modular system, and Terminator 2. A good reminder that taste is often a handful of obsessions held together by cables. Read Perfectly Imperfect\n\n• Walk until the map becomes your life. Karl Bushby has just finished a 31,000-mile, 28-year walk from the southern tip of South America back to Hull, including a foot crossing of the Bering Strait. His practical advice is wonderfully unromantic: conversations become lines on maps; lines become math; then you start. Read Champ\n\nOne-liners\n\n• “If defeat is an orphan, victory has many parents.” — The New York Times on Democrats fighting over credit for a midterm win. Read The Morning\n\n• The AI business is selling compute; fraud is therefore not a support problem but a margin problem. — Lenny’s Newsletter\n\n• The best internet artifact today was a fake airplane miracle that turned out to be a branded concert series. — Garbage Day\n\n• A 28-year walk ends with a man back home, without a bank account or a working phone number. — Champ\n\n• Dinner can still be a $5 taco, a $6 plate, or a 30-minute meatball situation. — Robert Sietsema and NYT Cooking",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Today’s newsletters arrived like a newspaper assembled by a very online raccoon: AI infrastructure on trial, a Wikipedia vandal rewriting history, a 57-year-old finally coming home after walking around the world, and enough cheap food to make Brooklyn feel briefly affordable.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "heading_2",
+          "runs": [
+            {
+              "text": "Front page: the machine is everywhere",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "The AI industry’s “physical” problem.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " Semafor’s interview with Sam Altman is unusually candid: he says the backlash to data centers is really about people wanting to stay “in control of the future,” and admits that the industry’s engagement with communities is not working. His answer is still more buildout—but with adaptation. ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Read the Semafor email",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "The bulldozer behind the bulldozer.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " Hill Heat’s warning about BAAJA says the bill would accelerate fossil-fueled data-center construction while weakening environmental review, historic-preservation protections, and judicial remedies. The newsletter points to letters from 18 state attorneys general and 99 legal scholars urging the Senate to slow down. ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Read Hill Heat",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Nvidia’s troubles are bigger than one CEO scandal.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " WIRED’s useful framing: competitors are catching up, and the Jensen Huang chaos is arriving at exactly the wrong moment. Meanwhile, AI-generated DJs are trying to turn playlists into awkward synthetic radio. ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Read WIRED Daily",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "heading_2",
+          "runs": [
+            {
+              "text": "Best links & rabbit holes",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "How an AI content mill put a real musician through copyright hell.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " Samantha Shokin’s cover of the public-domain Bulgarian folk song “Bre Petrunko” reached 125,000 YouTube views—then an AI-heavy rights company claimed it, took the video down, and left her unable to reach a human. The grim lesson: automated enforcement is now capable of both inventing ownership and enforcing it. ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Read 404 Media",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "The Wikipedia editor who made history wobble.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " Pirate Wires profiles “Jagged_85,” a rogue editor who made more than 87,000 edits and seeded hundreds of dubious claims about inventions attributed to the Islamic Golden Age. The internet’s oldest problem remains the most durable: a confident sentence with a citation-shaped shadow behind it. ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Read Pirate Wires",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "The fake spontaneous airplane concert.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " The videos of Hoobastank, The Used, and Simple Plan playing mid-flight were not an improvised response to the FAA ground stop. They were Southwest’s preplanned “Live at 35” series, partnered with Warped Tour—a marketing stunt wearing a disaster costume. ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Read Garbage Day",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "heading_2",
+          "runs": [
+            {
+              "text": "Ideas to steal",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Build a household brain, not a longer chat history.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " Lenny’s newsletter details Scott Farrar’s Claude Code + Obsidian system: appliance photos become searchable warranty records; insurance quotes get compared against actual household context; one master task list gets surfaced on a wall display. The good idea is not “let AI run the house.” It is “put the memory in inspectable Markdown files so the house can remember.” ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Read Lenny’s Newsletter",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Try analogmaxxing without making it a personality.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " After School describes “brain stacking”: a timed rotation of journaling, Sudoku, reading, and other offline activities. It is elaborate, slightly performative, and still probably better than three hours of Reels. ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Read After School",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Use AI where spatial reasoning matters.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " In Lenny’s Fable 5.2 review, a model turns low-resolution photos of unassembled furniture into a usable assembly sequence—and builds a working 3D typewriter in one shot. The model is apparently better at “what goes where?” than at designing an attractive website unaided. ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Read the review roundup",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "heading_2",
+          "runs": [
+            {
+              "text": "Food & places",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Tonight’s 30-minute move:",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " cottage-cheese turkey meatballs. Cottage cheese replaces the usual egg and breadcrumbs, broiling browns the tops, and a quick simmer in jarred marinara keeps everything tender. Put them over pasta, polenta, or beans and greens. ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Read NYT Cooking",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "The cheap-eats map is still alive.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " Robert Sietsema’s New York round-up has a $6.50 three-filet catfish sandwich at JLR Seafood in Bushwick; $6–$9 Jamaican plates at King Barka in Harlem; $5 bean-and-cheese tacos at Tacos Domingo; and a $5 salt-cod-and-butter-beans bake at Exquisite Supreme in Midwood. This is the kind of list that turns a random Saturday into an itinerary. ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Read the full list",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Holiday object, not holiday panic:",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " Ruby’s gift guide is unusually practical—Camp Snap for film-like photos without the film hassle, a custom book stamp, a mini Japanese colander, tongue scrapers, and a Chef Press for crisping things. ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Read Ruby’s Recs",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "heading_2",
+          "runs": [
+            {
+              "text": "Culture desk",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Madonna was snubbed; Robert Pattinson is Bond; P-Valley returns.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " New York Magazine’s Dinner Party newsletter treats all three as one coherent emotional weather system. The strongest item is the P-Valley note: season three exists at all after strikes, contraction, and a radically less adventurous TV business. ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Read Dinner Party",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Boys Noize’s compact canon.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " Asked what he’s into, the producer named Thomas Bangalter, Trent Reznor, 2manyDJs, his modular system, and ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Terminator 2",
+              "url": "",
+              "bold": false,
+              "italic": true
+            },
+            {
+              "text": ". A good reminder that taste is often a handful of obsessions held together by cables. ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Read Perfectly Imperfect",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Walk until the map becomes your life.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " Karl Bushby has just finished a 31,000-mile, 28-year walk from the southern tip of South America back to Hull, including a foot crossing of the Bering Strait. His practical advice is wonderfully unromantic: conversations become lines on maps; lines become math; then you start. ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Read Champ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "heading_2",
+          "runs": [
+            {
+              "text": "One-liners",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "“If defeat is an orphan, victory has many parents.” — ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "The New York Times",
+              "url": "",
+              "bold": false,
+              "italic": true
+            },
+            {
+              "text": " on Democrats fighting over credit for a midterm win. ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Read The Morning",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "The AI business is selling compute; fraud is therefore not a support problem but a margin problem. — ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Lenny’s Newsletter",
+              "url": "",
+              "bold": false,
+              "italic": true
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "The best internet artifact today was a fake airplane miracle that turned out to be a branded concert series. — ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Garbage Day",
+              "url": "",
+              "bold": false,
+              "italic": true
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "A 28-year walk ends with a man back home, without a bank account or a working phone number. — ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Champ",
+              "url": "",
+              "bold": false,
+              "italic": true
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Dinner can still be a $5 taco, a $6 plate, or a 30-minute meatball situation. — ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Robert Sietsema",
+              "url": "",
+              "bold": false,
+              "italic": true
+            },
+            {
+              "text": " and ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "NYT Cooking",
+              "url": "",
+              "bold": false,
+              "italic": true
+            }
+          ]
+        }
+      ],
+      "publishedAt": "2026-11-16T22:13:00Z",
+      "links": []
     }
   ]
 }
