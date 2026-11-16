@@ -286383,6 +286383,567 @@
           ]
         }
       }
+    },
+    {
+      "id": "digest-2c38153c-8a3e-822f-b927-81be7ddd2f64",
+      "channel": "newsletters",
+      "source": "notion",
+      "kind": "Agent-written digest",
+      "domain": "Daily newsletter digest",
+      "title": "The Abliterator, the Unlived Life, and Dinner Rolls That Win Thanksgiving",
+      "url": "",
+      "description": "A Sunday dispatch assembled from today’s newsletters: a little anti-algorithmic resistance, a little literary autopsy, a little AI skepticism, and a very persuasive argument for putting honey in everything.",
+      "body": "A Sunday dispatch assembled from today’s newsletters: a little anti-algorithmic resistance, a little literary autopsy, a little AI skepticism, and a very persuasive argument for putting honey in everything.\n\nBest links\n\n• Read a comic about fighting the future’s worst people. Exploit, Laura Hudson and Tim Leong’s new “journalism nerdcore” thriller, puts an intern, a hacker, a cybermercenary, a hostile tech billionaire, and a collapsing print newsroom in the same pressure cooker. The creators’ best argument is also the book’s: despair is a tool, and refusing to feel helpless is a form of resistance. — 404 Media\n\n• Visit the internet’s attic. Private torrent trackers are described as invitation-only, highly organized archives where people preserve obscure films, old motorsports footage, and other cultural flotsam that might otherwise vanish. The best metaphor: an attic full of film reels, maintained by obsessive strangers. — Links I Would Gchat You If We Were Friends\n\n• Watch the Big Bear bald-eagle nest cam. It has apparently carried viewers through death, divorce, and chemotherapy—and helped save the last undeveloped shoreline around California’s Big Bear Lake. A dark, motionless nest can be a surprisingly sturdy public utility. — Links I Would Gchat You If We Were Friends\n\nIdeas to steal\n\n• Test AI on your own turf. The sharpest idea in shit you should care about is “Expertise Bias”: we distrust AI when it touches our own work, then grant it supernatural competence everywhere else because we cannot see its mistakes. Try it on something you know deeply; if it confidently flubs the basics, downgrade the halo.\n\n• Keep some things human on purpose. The same essay’s practical advice: don’t outsource every difficult or slightly inefficient activity. Writing, thinking, and making can be “strength training for the brain,” not just tasks to optimize. — shit you should care about\n\n• Look for the living form, not the respectable one. A long, funny, merciless essay on T. S. Eliot argues that his early music-hall experiments had more pulse than his later, more “serious” plays. Beckett, by contrast, kept the folk rhythms alive and made them strange. The lesson for anyone making anything: a borrowed form can be a safety net—or a cage. — The Republic of Letters\n\n• Study the launch, not just the launch-day mythology. Lenny’s interview with Meta product leader Mona Sarantakos traces Muse from a weekend OpenClaw experiment to a product that waited seven months before launch. The useful bits are the operating questions: how agent swarms surface user insight, how a placeholder avatar became an icon, and which two activation levers matter for an AI agent. — Lenny’s Newsletter\n\nFood & places\n\n• Make fish in spicy garlic broth. Melissa Clark’s weeknight template is almost aggressively practical: adaptable fish, pantry ingredients, a fast aromatic broth, and enough good liquid to justify serving bread alongside it. Also filed under “recipes that can survive whatever is in the fridge.” — NYT Cooking\n\n• Put honey in the dinner rolls three times. Genevieve Ko’s no-knead Thanksgiving rolls use honey in the dough, on top, and whipped into the butter. Low effort, high reward, and a strong case for letting one ingredient do a full supporting-cast tour. — NYT Cooking\n\n• The next handmade-weekend lead: Etsy’s Creative Chalet is scheduled for November 21–22 at 64 Dobbin St. in Greenpoint, with on-the-spot portraits, custom holiday cards, felt ornaments, hot cocoa, and a market of six Etsy sellers. Walk-ins are welcome subject to capacity. — Perfectly Imperfect\n\nInternet oddities\n\n• A 78-year-old professor is facing down food-delivery robots in Philadelphia—and got a disorderly-conduct ticket for it. The newsletter’s framing is perfect: a tiny street fight over what kind of city automated convenience is allowed to make. — Links I Would Gchat You If We Were Friends\n\n• The restaurant AI creep is already here: guests use models to book reservations, write lawyerly complaint letters, choose wine, and scan menus to count macros. The dining room remains physical; the weirdness around it is increasingly synthetic. — Links I Would Gchat You If We Were Friends\n\n• WIRED’s “abliterator” is a renegade engineer who strips away a model’s guardrails. The newsletter pitches the act as peeking behind the curtain; the same issue also points toward the less cinematic question of what happens when autonomous systems move from surveillance toward violence. — WIRED Big Story\n\nOne-liners\n\n• “Honesty sounds like disrespect when you are demanding worship.” — Brain Food\n\n• “Open-minded people update when the evidence changes, not when the person making the argument does.” — Brain Food\n\n• The person who never makes their art can become cynical about the people who do. — Brain Food, paraphrasing Carl Jung\n\n• No one is coming to save us—especially not billionaires. — Laura Hudson, via 404 Media\n\nThe day’s mood: Make the thing, check the machine, preserve the weird archive, and serve the broth with bread.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "A Sunday dispatch assembled from today’s newsletters: a little anti-algorithmic resistance, a little literary autopsy, a little AI skepticism, and a very persuasive argument for putting honey in everything.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "heading_2",
+          "runs": [
+            {
+              "text": "Best links",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Read a comic about fighting the future’s worst people.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Exploit",
+              "url": "",
+              "bold": false,
+              "italic": true
+            },
+            {
+              "text": ", Laura Hudson and Tim Leong’s new “journalism nerdcore” thriller, puts an intern, a hacker, a cybermercenary, a hostile tech billionaire, and a collapsing print newsroom in the same pressure cooker. The creators’ best argument is also the book’s: despair is a tool, and refusing to feel helpless is a form of resistance. — ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "404 Media",
+              "url": "",
+              "bold": false,
+              "italic": true
+            },
+            {
+              "text": " ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Visit the internet’s attic.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " Private torrent trackers are described as invitation-only, highly organized archives where people preserve obscure films, old motorsports footage, and other cultural flotsam that might otherwise vanish. The best metaphor: an attic full of film reels, maintained by obsessive strangers. — ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Links I Would Gchat You If We Were Friends",
+              "url": "",
+              "bold": false,
+              "italic": true
+            },
+            {
+              "text": " ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Watch the Big Bear bald-eagle nest cam.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " It has apparently carried viewers through death, divorce, and chemotherapy—and helped save the last undeveloped shoreline around California’s Big Bear Lake. A dark, motionless nest can be a surprisingly sturdy public utility. — ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Links I Would Gchat You If We Were Friends",
+              "url": "",
+              "bold": false,
+              "italic": true
+            },
+            {
+              "text": " ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "heading_2",
+          "runs": [
+            {
+              "text": "Ideas to steal",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Test AI on your own turf.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " The sharpest idea in ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "shit you should care about",
+              "url": "",
+              "bold": false,
+              "italic": true
+            },
+            {
+              "text": " is “Expertise Bias”: we distrust AI when it touches our own work, then grant it supernatural competence everywhere else because we cannot see its mistakes. Try it on something you know deeply; if it confidently flubs the basics, downgrade the halo.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Keep some things human on purpose.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " The same essay’s practical advice: don’t outsource every difficult or slightly inefficient activity. Writing, thinking, and making can be “strength training for the brain,” not just tasks to optimize. — ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "shit you should care about",
+              "url": "",
+              "bold": false,
+              "italic": true
+            },
+            {
+              "text": " ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Look for the living form, not the respectable one.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " A long, funny, merciless essay on T. S. Eliot argues that his early music-hall experiments had more pulse than his later, more “serious” plays. Beckett, by contrast, kept the folk rhythms alive and made them strange. The lesson for anyone making anything: a borrowed form can be a safety net—or a cage. — ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "The Republic of Letters",
+              "url": "",
+              "bold": false,
+              "italic": true
+            },
+            {
+              "text": " ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Study the launch, not just the launch-day mythology.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " Lenny’s interview with Meta product leader Mona Sarantakos traces Muse from a weekend OpenClaw experiment to a product that waited seven months before launch. The useful bits are the operating questions: how agent swarms surface user insight, how a placeholder avatar became an icon, and which two activation levers matter for an AI agent. — ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Lenny’s Newsletter",
+              "url": "",
+              "bold": false,
+              "italic": true
+            },
+            {
+              "text": " ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "heading_2",
+          "runs": [
+            {
+              "text": "Food & places",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Make fish in spicy garlic broth.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " Melissa Clark’s weeknight template is almost aggressively practical: adaptable fish, pantry ingredients, a fast aromatic broth, and enough good liquid to justify serving bread alongside it. Also filed under “recipes that can survive whatever is in the fridge.” — ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "NYT Cooking",
+              "url": "",
+              "bold": false,
+              "italic": true
+            },
+            {
+              "text": " ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Put honey in the dinner rolls three times.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " Genevieve Ko’s no-knead Thanksgiving rolls use honey in the dough, on top, and whipped into the butter. Low effort, high reward, and a strong case for letting one ingredient do a full supporting-cast tour. — ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "NYT Cooking",
+              "url": "",
+              "bold": false,
+              "italic": true
+            },
+            {
+              "text": " ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "The next handmade-weekend lead:",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " Etsy’s Creative Chalet is scheduled for November 21–22 at 64 Dobbin St. in Greenpoint, with on-the-spot portraits, custom holiday cards, felt ornaments, hot cocoa, and a market of six Etsy sellers. Walk-ins are welcome subject to capacity. — ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Perfectly Imperfect",
+              "url": "",
+              "bold": false,
+              "italic": true
+            },
+            {
+              "text": " ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "heading_2",
+          "runs": [
+            {
+              "text": "Internet oddities",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "A 78-year-old professor is facing down food-delivery robots in Philadelphia—and got a disorderly-conduct ticket for it. The newsletter’s framing is perfect: a tiny street fight over what kind of city automated convenience is allowed to make. — ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Links I Would Gchat You If We Were Friends",
+              "url": "",
+              "bold": false,
+              "italic": true
+            },
+            {
+              "text": " ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "The restaurant AI creep is already here: guests use models to book reservations, write lawyerly complaint letters, choose wine, and scan menus to count macros. The dining room remains physical; the weirdness around it is increasingly synthetic. — ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Links I Would Gchat You If We Were Friends",
+              "url": "",
+              "bold": false,
+              "italic": true
+            },
+            {
+              "text": " ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "WIRED’s “abliterator” is a renegade engineer who strips away a model’s guardrails. The newsletter pitches the act as peeking behind the curtain; the same issue also points toward the less cinematic question of what happens when autonomous systems move from surveillance toward violence. — ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "WIRED Big Story",
+              "url": "",
+              "bold": false,
+              "italic": true
+            },
+            {
+              "text": " ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "heading_2",
+          "runs": [
+            {
+              "text": "One-liners",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "“Honesty sounds like disrespect when you are demanding worship.” — ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Brain Food",
+              "url": "",
+              "bold": false,
+              "italic": true
+            },
+            {
+              "text": " ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "“Open-minded people update when the evidence changes, not when the person making the argument does.” — ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Brain Food",
+              "url": "",
+              "bold": false,
+              "italic": true
+            },
+            {
+              "text": " ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "The person who never makes their art can become cynical about the people who do. — ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Brain Food",
+              "url": "",
+              "bold": false,
+              "italic": true
+            },
+            {
+              "text": ", paraphrasing Carl Jung ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "No one is coming to save us—especially not billionaires. — Laura Hudson, via ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "404 Media",
+              "url": "",
+              "bold": false,
+              "italic": true
+            },
+            {
+              "text": " ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "The day’s mood:",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " Make the thing, check the machine, preserve the weird archive, and serve the broth with bread.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        }
+      ],
+      "publishedAt": "2026-11-15T22:04:00Z",
+      "links": []
     }
   ]
 }
