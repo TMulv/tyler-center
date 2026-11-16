@@ -283992,14 +283992,14 @@
       "domain": "Daily newsletter digest",
       "title": "AI ransomware boom, Hubble's 2034 countdown, the hypebeast era ends - Sunday, November 15, 2026",
       "url": "",
-      "description": "Sunday, November 15, 2026 - Afternoon Edition",
-      "body": "Sunday, November 15, 2026 - Afternoon Edition\n\nToday's Numbers\n\n• 180: women who answered Karley Sciortino's survey on what makes a man great in bed, ranking the qualities their best lovers had in common and what the worst get wrong.\n\n• 95% vs 65%: the orgasm gap. 95% of straight men say they usually or always orgasm during sex, versus 65% of straight women. In one study of college students, it was just 39% of women.\n\nQuotes of the Day\n\n• \"Some holiday traditions get handed down. Others you start yourself.\" (Perfectly Imperfect, inviting readers to the Etsy Creative Chalet)\n\n• \"fuckin expensive but excellent pool hall\" (Tyler, recommending Amsterdam Billiards in New York)\n\nMake It Yourself\n\nThe Etsy Creative Chalet takes over Greenpoint next weekend. Perfectly Imperfect is opening a two-day handmade holiday market with Etsy on November 21 and 22, 11am to 6pm at 64 Dobbin St in Brooklyn. Inside there is a holiday card studio with portraits printed on the spot, a DIY felt ornament workshop by the fire, a cocoa cart from Peddler Coffee, and a market with six Etsy sellers. Bring your people, or come on your own. Walk-ins welcome, based on capacity. (Perfectly Imperfect)\n\nQuick Hits & Curiosities\n\n• Yume Ga Arukara is Tyler's favorite udon spot from Cambridge, Massachusetts, and it earned a shout in this week's Perfectly Imperfect recs. (Perfectly Imperfect)\n\n• Corey Dubrowa's best girl Honeybee is a New Yorker now, and she approves of the place. (Perfectly Imperfect)",
+      "description": "Sunday, November 15, 2026 - Evening Edition",
+      "body": "Sunday, November 15, 2026 - Evening Edition\n\nToday's Numbers\n\n• 85%: Nvidia's share of the AI chip market, per Azeem Azhar. Jensen Huang resigned this week after revelations of an affair with a suspected Chinese spy, and the man who was the linchpin of the AI boom is out.\n\n• 29%: how far Nvidia's stock has fallen over the last six months. Oracle is down 35%, CoreWeave is down 54%, and Anthropic's perceived valuation has dropped 25% in a matter of weeks. Gary Marcus says those numbers look like a bubble popping.\n\n• 8: times Palantir CEO Alex Karp called himself, his company, or his worldview \"progressive\" in a 22-minute podcast appearance. He gave $360,000 to a Biden-Harris committee in 2023, then $1 million to MAGA Inc. in 2024.\n\n• 97.6%: of Meta's revenue that came from ads last quarter, $63.06 billion out of $64.60 billion. Every consumer app eventually becomes an ad company.\n\nQuotes of the Day\n\n• \"a consequential sex scandal at last!\" (Tina Brown, on the Nvidia honey trap)\n\n• \"They didn't just lose the podcast bros. They lost most of the country.\" (Joe Rogan, on the GOP's midterm wipeout)\n\nThe Free Press Has a Standards Problem\n\nBari Weiss's other publication is having a rough month. A reporter used ChatGPT to \"brighten and sharpen\" an election night photo, then admitted it after Vanity Fair's fashion desk flagged the image. The outlet posted, then retracted, a video that falsely claimed Michigan senator-elect Abdul El-Sayed delivered his victory speech in Arabic (he used Arabic for 0.27% of it, mostly to say his own name). And the publication shelved a taped interview with author Anand Giridharadas about his book on the Daniel Penny trial, then went quiet for a month when he asked why. The Free Press was acquired by Skydance for $150 million in 2025. Its editors did not respond to requests for comment. (Status)\n\nQuick Hits & Curiosities\n\n• Transportation Secretary Sean Duffy had a rough weekend: a nationwide ground stop on Friday, a press conference derailed by tech issues, then the rare \"Full Ginsburg,\" appearing on all five major Sunday morning shows. (Status)\n\n• Johnny Depp is back on top of the box office. \"Ebenezer,\" his take on \"A Christmas Carol,\" opened at No. 1 with $19 million. (Status)\n\n• The Elizabeth Holmes documentary \"You Can See Everything\" took in nearly $5.5 million and is approaching $90 million domestically. Her partner Billy Evans gave his first interview since its release, reacting to Amanda Seyfried's portrayal of Holmes. (Status)\n\n• Parisians are nice now? Emilia Petrarca spent three days shopping across Paris and found almost everyone ridiculously, shockingly nice, a sharp break from the eye rolls and small arguments of past trips. (Emilia Petrarca)",
       "blocks": [
         {
           "type": "heading_1",
           "runs": [
             {
-              "text": "Sunday, November 15, 2026 - Afternoon Edition",
+              "text": "Sunday, November 15, 2026 - Evening Edition",
               "url": "",
               "bold": false,
               "italic": false
@@ -284021,13 +284021,13 @@
           "type": "bulleted_list_item",
           "runs": [
             {
-              "text": "180",
-              "url": "https://karleysciortino.substack.com/p/what-makes-a-man-great-in-bed",
+              "text": "85%",
+              "url": "https://post.substack.com/p/a-consequential-sex-scandal-at-last",
               "bold": true,
               "italic": false
             },
             {
-              "text": ": women who answered Karley Sciortino's survey on what makes a man great in bed, ranking the qualities their best lovers had in common and what the worst get wrong.",
+              "text": ": Nvidia's share of the AI chip market, per Azeem Azhar. Jensen Huang resigned this week after revelations of an affair with a suspected Chinese spy, and the man who was the linchpin of the AI boom is out.",
               "url": "",
               "bold": false,
               "italic": false
@@ -284038,13 +284038,47 @@
           "type": "bulleted_list_item",
           "runs": [
             {
-              "text": "95% vs 65%",
-              "url": "https://karleysciortino.substack.com/p/what-makes-a-man-great-in-bed",
+              "text": "29%",
+              "url": "https://post.substack.com/p/a-consequential-sex-scandal-at-last",
               "bold": true,
               "italic": false
             },
             {
-              "text": ": the orgasm gap. 95% of straight men say they usually or always orgasm during sex, versus 65% of straight women. In one study of college students, it was just 39% of women.",
+              "text": ": how far Nvidia's stock has fallen over the last six months. Oracle is down 35%, CoreWeave is down 54%, and Anthropic's perceived valuation has dropped 25% in a matter of weeks. Gary Marcus says those numbers look like a bubble popping.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "8",
+              "url": "https://www.theargumentmag.com/p/total-cultural-victory-again",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": ": times Palantir CEO Alex Karp called himself, his company, or his worldview \"progressive\" in a 22-minute podcast appearance. He gave $360,000 to a Biden-Harris committee in 2023, then $1 million to MAGA Inc. in 2024.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "97.6%",
+              "url": "https://jawestenberg.substack.com/",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": ": of Meta's revenue that came from ads last quarter, $63.06 billion out of $64.60 billion. Every consumer app eventually becomes an ad company.",
               "url": "",
               "bold": false,
               "italic": false
@@ -284066,7 +284100,7 @@
           "type": "bulleted_list_item",
           "runs": [
             {
-              "text": "\"Some holiday traditions get handed down. Others you start yourself.\" (Perfectly Imperfect, inviting readers to the Etsy Creative Chalet)",
+              "text": "\"a consequential sex scandal at last!\" (Tina Brown, on the Nvidia honey trap)",
               "url": "",
               "bold": false,
               "italic": false
@@ -284077,7 +284111,7 @@
           "type": "bulleted_list_item",
           "runs": [
             {
-              "text": "\"fuckin expensive but excellent pool hall\" (Tyler, recommending Amsterdam Billiards in New York)",
+              "text": "\"They didn't just lose the podcast bros. They lost most of the country.\" (Joe Rogan, on the GOP's midterm wipeout)",
               "url": "",
               "bold": false,
               "italic": false
@@ -284088,7 +284122,7 @@
           "type": "paragraph",
           "runs": [
             {
-              "text": "Make It Yourself",
+              "text": "The Free Press Has a Standards Problem",
               "url": "",
               "bold": true,
               "italic": false
@@ -284099,20 +284133,14 @@
           "type": "paragraph",
           "runs": [
             {
-              "text": "The Etsy Creative Chalet takes over Greenpoint next weekend.",
-              "url": "",
-              "bold": true,
-              "italic": false
-            },
-            {
-              "text": " Perfectly Imperfect is opening a two-day handmade holiday market with Etsy on November 21 and 22, 11am to 6pm at 64 Dobbin St in Brooklyn. Inside there is a holiday card studio with portraits printed on the spot, a DIY felt ornament workshop by the fire, a cocoa cart from Peddler Coffee, and a market with six Etsy sellers. Bring your people, or come on your own. Walk-ins welcome, based on capacity. (",
+              "text": "Bari Weiss's other publication is having a rough month. A reporter used ChatGPT to \"brighten and sharpen\" an election night photo, then admitted it after Vanity Fair's fashion desk flagged the image. The outlet posted, then retracted, a video that falsely claimed Michigan senator-elect Abdul El-Sayed delivered his victory speech in Arabic (he used Arabic for 0.27% of it, mostly to say his own name). And the publication shelved a taped interview with author Anand Giridharadas about his book on the Daniel Penny trial, then went quiet for a month when he asked why. The Free Press was acquired by Skydance for $150 million in 2025. Its editors did not respond to requests for comment. (",
               "url": "",
               "bold": false,
               "italic": false
             },
             {
-              "text": "Perfectly Imperfect",
-              "url": "https://www.etsy.com/featured/creativechalet",
+              "text": "Status",
+              "url": "https://www.status.news/",
               "bold": false,
               "italic": false
             },
@@ -284139,14 +284167,14 @@
           "type": "bulleted_list_item",
           "runs": [
             {
-              "text": "Yume Ga Arukara is Tyler's favorite udon spot from Cambridge, Massachusetts, and it earned a shout in this week's Perfectly Imperfect recs. (",
+              "text": "Transportation Secretary Sean Duffy had a rough weekend: a nationwide ground stop on Friday, a press conference derailed by tech issues, then the rare \"Full Ginsburg,\" appearing on all five major Sunday morning shows. (",
               "url": "",
               "bold": false,
               "italic": false
             },
             {
-              "text": "Perfectly Imperfect",
-              "url": "https://www.pi.fyi/",
+              "text": "Status",
+              "url": "https://www.status.news/",
               "bold": false,
               "italic": false
             },
@@ -284162,14 +284190,60 @@
           "type": "bulleted_list_item",
           "runs": [
             {
-              "text": "Corey Dubrowa's best girl Honeybee is a New Yorker now, and she approves of the place. (",
+              "text": "Johnny Depp is back on top of the box office. \"Ebenezer,\" his take on \"A Christmas Carol,\" opened at No. 1 with $19 million. (",
               "url": "",
               "bold": false,
               "italic": false
             },
             {
-              "text": "Perfectly Imperfect",
-              "url": "https://www.pi.fyi/",
+              "text": "Status",
+              "url": "https://www.status.news/",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "The Elizabeth Holmes documentary \"You Can See Everything\" took in nearly $5.5 million and is approaching $90 million domestically. Her partner Billy Evans gave his first interview since its release, reacting to Amanda Seyfried's portrayal of Holmes. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Status",
+              "url": "https://www.status.news/",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Parisians are nice now? Emilia Petrarca spent three days shopping across Paris and found almost everyone ridiculously, shockingly nice, a sharp break from the eye rolls and small arguments of past trips. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Emilia Petrarca",
+              "url": "https://emiliapetrarca.substack.com/p/parisians-are-so-nice-now",
               "bold": false,
               "italic": false
             },
@@ -284185,16 +284259,24 @@
       "publishedAt": "2026-11-15T13:01:00Z",
       "links": [
         {
-          "title": "95% vs 65%",
-          "url": "https://karleysciortino.substack.com/p/what-makes-a-man-great-in-bed"
+          "title": "29%",
+          "url": "https://post.substack.com/p/a-consequential-sex-scandal-at-last"
         },
         {
-          "title": "Perfectly Imperfect",
-          "url": "https://www.etsy.com/featured/creativechalet"
+          "title": "8",
+          "url": "https://www.theargumentmag.com/p/total-cultural-victory-again"
         },
         {
-          "title": "Perfectly Imperfect",
-          "url": "https://www.pi.fyi/"
+          "title": "97.6%",
+          "url": "https://jawestenberg.substack.com/"
+        },
+        {
+          "title": "Status",
+          "url": "https://www.status.news/"
+        },
+        {
+          "title": "Emilia Petrarca",
+          "url": "https://emiliapetrarca.substack.com/p/parisians-are-so-nice-now"
         }
       ],
       "versions": {
@@ -285297,8 +285379,295 @@
             }
           ]
         },
+        "evening": {
+          "body": "Sunday, November 15, 2026 - Evening Edition\n\nToday's Numbers\n\n• 85%: Nvidia's share of the AI chip market, per Azeem Azhar. Jensen Huang resigned this week after revelations of an affair with a suspected Chinese spy, and the man who was the linchpin of the AI boom is out.\n\n• 29%: how far Nvidia's stock has fallen over the last six months. Oracle is down 35%, CoreWeave is down 54%, and Anthropic's perceived valuation has dropped 25% in a matter of weeks. Gary Marcus says those numbers look like a bubble popping.\n\n• 8: times Palantir CEO Alex Karp called himself, his company, or his worldview \"progressive\" in a 22-minute podcast appearance. He gave $360,000 to a Biden-Harris committee in 2023, then $1 million to MAGA Inc. in 2024.\n\n• 97.6%: of Meta's revenue that came from ads last quarter, $63.06 billion out of $64.60 billion. Every consumer app eventually becomes an ad company.\n\nQuotes of the Day\n\n• \"a consequential sex scandal at last!\" (Tina Brown, on the Nvidia honey trap)\n\n• \"They didn't just lose the podcast bros. They lost most of the country.\" (Joe Rogan, on the GOP's midterm wipeout)\n\nThe Free Press Has a Standards Problem\n\nBari Weiss's other publication is having a rough month. A reporter used ChatGPT to \"brighten and sharpen\" an election night photo, then admitted it after Vanity Fair's fashion desk flagged the image. The outlet posted, then retracted, a video that falsely claimed Michigan senator-elect Abdul El-Sayed delivered his victory speech in Arabic (he used Arabic for 0.27% of it, mostly to say his own name). And the publication shelved a taped interview with author Anand Giridharadas about his book on the Daniel Penny trial, then went quiet for a month when he asked why. The Free Press was acquired by Skydance for $150 million in 2025. Its editors did not respond to requests for comment. (Status)\n\nQuick Hits & Curiosities\n\n• Transportation Secretary Sean Duffy had a rough weekend: a nationwide ground stop on Friday, a press conference derailed by tech issues, then the rare \"Full Ginsburg,\" appearing on all five major Sunday morning shows. (Status)\n\n• Johnny Depp is back on top of the box office. \"Ebenezer,\" his take on \"A Christmas Carol,\" opened at No. 1 with $19 million. (Status)\n\n• The Elizabeth Holmes documentary \"You Can See Everything\" took in nearly $5.5 million and is approaching $90 million domestically. Her partner Billy Evans gave his first interview since its release, reacting to Amanda Seyfried's portrayal of Holmes. (Status)\n\n• Parisians are nice now? Emilia Petrarca spent three days shopping across Paris and found almost everyone ridiculously, shockingly nice, a sharp break from the eye rolls and small arguments of past trips. (Emilia Petrarca)",
+          "blocks": [
+            {
+              "type": "heading_1",
+              "runs": [
+                {
+                  "text": "Sunday, November 15, 2026 - Evening Edition",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Today's Numbers",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "85%",
+                  "url": "https://post.substack.com/p/a-consequential-sex-scandal-at-last",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": Nvidia's share of the AI chip market, per Azeem Azhar. Jensen Huang resigned this week after revelations of an affair with a suspected Chinese spy, and the man who was the linchpin of the AI boom is out.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "29%",
+                  "url": "https://post.substack.com/p/a-consequential-sex-scandal-at-last",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": how far Nvidia's stock has fallen over the last six months. Oracle is down 35%, CoreWeave is down 54%, and Anthropic's perceived valuation has dropped 25% in a matter of weeks. Gary Marcus says those numbers look like a bubble popping.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "8",
+                  "url": "https://www.theargumentmag.com/p/total-cultural-victory-again",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": times Palantir CEO Alex Karp called himself, his company, or his worldview \"progressive\" in a 22-minute podcast appearance. He gave $360,000 to a Biden-Harris committee in 2023, then $1 million to MAGA Inc. in 2024.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "97.6%",
+                  "url": "https://jawestenberg.substack.com/",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": of Meta's revenue that came from ads last quarter, $63.06 billion out of $64.60 billion. Every consumer app eventually becomes an ad company.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Quotes of the Day",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "\"a consequential sex scandal at last!\" (Tina Brown, on the Nvidia honey trap)",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "\"They didn't just lose the podcast bros. They lost most of the country.\" (Joe Rogan, on the GOP's midterm wipeout)",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "The Free Press Has a Standards Problem",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Bari Weiss's other publication is having a rough month. A reporter used ChatGPT to \"brighten and sharpen\" an election night photo, then admitted it after Vanity Fair's fashion desk flagged the image. The outlet posted, then retracted, a video that falsely claimed Michigan senator-elect Abdul El-Sayed delivered his victory speech in Arabic (he used Arabic for 0.27% of it, mostly to say his own name). And the publication shelved a taped interview with author Anand Giridharadas about his book on the Daniel Penny trial, then went quiet for a month when he asked why. The Free Press was acquired by Skydance for $150 million in 2025. Its editors did not respond to requests for comment. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Status",
+                  "url": "https://www.status.news/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Quick Hits & Curiosities",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Transportation Secretary Sean Duffy had a rough weekend: a nationwide ground stop on Friday, a press conference derailed by tech issues, then the rare \"Full Ginsburg,\" appearing on all five major Sunday morning shows. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Status",
+                  "url": "https://www.status.news/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Johnny Depp is back on top of the box office. \"Ebenezer,\" his take on \"A Christmas Carol,\" opened at No. 1 with $19 million. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Status",
+                  "url": "https://www.status.news/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "The Elizabeth Holmes documentary \"You Can See Everything\" took in nearly $5.5 million and is approaching $90 million domestically. Her partner Billy Evans gave his first interview since its release, reacting to Amanda Seyfried's portrayal of Holmes. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Status",
+                  "url": "https://www.status.news/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Parisians are nice now? Emilia Petrarca spent three days shopping across Paris and found almost everyone ridiculously, shockingly nice, a sharp break from the eye rolls and small arguments of past trips. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Emilia Petrarca",
+                  "url": "https://emiliapetrarca.substack.com/p/parisians-are-so-nice-now",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            }
+          ],
+          "links": [
+            {
+              "title": "29%",
+              "url": "https://post.substack.com/p/a-consequential-sex-scandal-at-last"
+            },
+            {
+              "title": "8",
+              "url": "https://www.theargumentmag.com/p/total-cultural-victory-again"
+            },
+            {
+              "title": "97.6%",
+              "url": "https://jawestenberg.substack.com/"
+            },
+            {
+              "title": "Status",
+              "url": "https://www.status.news/"
+            },
+            {
+              "title": "Emilia Petrarca",
+              "url": "https://emiliapetrarca.substack.com/p/parisians-are-so-nice-now"
+            }
+          ]
+        },
         "full": {
-          "body": "Sunday, November 15, 2026 - Morning Edition\n\nToday's Numbers\n\n• 2034: the year Hubble is expected to fall back into Earth's atmosphere if nothing changes, so NASA is asking commercial space companies for proposals to keep the telescope flying.\n\n• 1 million: people who read Farnam Street's Brain Food every week, making Shane Parrish's Sunday note one of the widest read letters about thinking clearly.\n\nQuotes of the Day\n\n• \"If you do not work on an important problem, it's unlikely you'll do important work.\" (Richard Hamming, on picking what to work on)\n\n• \"There are only three ways a smart person can go broke: liquor, ladies and leverage.\" (Charlie Munger, on how to destroy your life)\n\n• \"Honesty sounds like disrespect when you are demanding worship.\" (Shane Parrish, Brain Food)\n\nAI & The Machines\n\nFully automated ransomware has not arrived yet, but AI is already doing the heavy lifting for attackers who barely know what they are doing. WIRED reports that seemingly unsophisticated attackers are using AI tools to wreak havoc, which means the barrier to entry for ransomware keeps dropping even before full automation shows up. The next wave of attacks may come from people who could never have pulled them off a few years ago, and defenders are still catching up. (WIRED)\n\nMoney & Power\n\nFloods in Gaza are forcing an impossible choice between clean drinking water and pumping out raw sewage. Israeli restrictions are limiting repairs, so fuel gets diverted from wells to drainage pumps and residents lose either way. It is a stark look at how infrastructure becomes both a casualty and a weapon in the same crisis. (WIRED)\n\nThe Culture\n\nReddit co-founder Alexis Ohanian says building social media apps is \"not cool anymore.\" He is trying to figure out what comes next for user-generated content now that so much of the internet feels compromised by AI slop and bots. The founder of one of the web's biggest forums is basically admitting the era he helped build has run its course. (WIRED)\n\nA new Hulu docuseries follows the deadly toll of looksmaxxing, the online movement obsessed with maximizing male attractiveness. Get Huge: Looksmaxxing to Death traces the mysterious deaths and disappearances of a group of male influencers in Thailand, and the leader at the center of it all. It is a grim look at what happens when self-improvement content curdles into something dangerous. (WIRED)\n\nThe hypebeast era is over, and even its survivors are moving on. InsideHook's Paolo Sandoval says the appetite for logo-splashed streetwear and ultra-limited drops has finally been sated, but Aimé Leon Dore escaped the crash by growing into a full menswear operation. Its latest move is a shearling-lined leather slipper with Ugg, a moccasin-inspired collab that still leans on the drop playbook without living or dying by it. (InsideHook)\n\nQuick Hits & Curiosities\n\n• Jon McNeill, the former president of Tesla and co-founder of DVx Ventures, talks speed, short emails, marketing with no budget, and how Neuralink got started on the latest Knowledge Project. (Farnam Street)\n\nSunday, November 15, 2026 - Midday Edition\n\nToday's Numbers\n\n• 291: NYC DSA delegates voted 291 to 123 for a resolution urging Rep. Alexandria Ocasio-Cortez to run for president in 2028, and laying the groundwork to challenge Gov. Kathy Hochul, Sen. Kirsten Gillibrand and Sen. Chuck Schumer in future races.\n\n• 26: Starlink V3 satellites deployed by Starship Flight 15, whose upper stage SpaceX caught with the launch tower's chopstick arms for the first time, about 22.5 hours after launch. The Super Heavy booster diverted to a splashdown in the Gulf after a low fuel alarm.\n\n• 2,135: links reviewed by Links I Would Gchat You this week, pulled from 283 sources, to build one anti-algorithmic newsletter.\n\n• 78: the age of Carolyn Marvin, the professor who got a disorderly-conduct ticket for facing down food-delivery robots on the streets of Philadelphia.\n\nQuotes of the Day\n\n• \"A decade of politics that began with 'When they go low, we go high,' has concluded with 'shut up you ugly fuck.'\" (Max Tani, Semafor, on the DNC's new social media tone)\n\n• \"The immediacy and intimacy of the phone call produce different results than a text or direct message.\" (Esquire, on the unexpected benefits of an old-fashioned phone call)\n\n• \"There's nothing less cool in 2026 than going on vacation to New York City.\" (Biz Sherbert, on NYC tourism)\n\nAI & The Machines\n\nWe give AI a free pass outside our own lane, because we don't have the expertise to spot the mistakes. That is the core of \"expertise bias,\" the AI version of Gell-Mann amnesia. Lawyers will tell you AI gets the law wrong, then praise it for marketing copy. Writers call AI prose bland, then trust it for travel plans. Sacha Judd asked ChatGPT where Romeo and Juliet had been performed in the most unusual places, and it invented 30 performances, each wilder than the last. The fix is simple: test AI on your own turf first, and if it flubs the basics there, assume it flubs elsewhere too. (Shit You Should Care About)\n\nMeta's Muse went from a weekend project to the fastest-growing consumer AI product in history. Mona Sarantakos, VP of Product at Meta Superintelligence Labs, tells Lenny Rachitsky how a weekend with OpenClaw on a Raspberry Pi turned into Muse, now the #1 app in the App Store. The team waited seven months to launch even though they started before most competitors, and Jolly, a placeholder avatar, became the product's icon. The episode also gets into the \"agent swarms\" the team uses to surface user insights at scale. (Lenny's Newsletter)\n\nRenegade engineers are stripping the guardrails off AI models, and WIRED's Will Knight joined them. The \"abliterators\" use a few keystrokes to unshackle models from corporate safety layers, and Knight's Big Story makes it hard not to root for them. The piece is part of WIRED's series on the existential threats of AI, and it lands on a useful reminder: the companies want you to believe they are communing with machine gods whose powers must be contained, but you can peer behind the curtain yourself. (WIRED)\n\nPolitics & Power\n\nNate Silver watched 27 Democratic candidates and found a better split than progressive vs. moderate: fighter vs. uniter. Gavin Newsom is the pure fighter, all Trump-style counterpunching. Zohran Mamdani is a hybrid who leans uniter, signaling he wants to be mayor for all New Yorkers. The surprise was Kentucky Gov. Andy Beshear, mild-mannered until he starts talking about JD Vance. Only one candidate, Kansas Sen.-elect Adam Hamilton, rated a pure 7 out of 7 uniter. Silver's hunch is that uniter is the more natural gear for Democrats, a big tent party that has won a Senate race in 43 states since 2008. (Silver Bulletin)\n\nThe Culture\n\nA new comic is journalism nerdcore, and it is furious. Exploit, from Laura Hudson and Tim Leong with illustrator Emiliana Pinna, follows editorial intern Kirby Kuo at a WIRED-style print magazine, chasing her first byline before the newsroom's new owner, a thin-skinned cyberlibertarian turned technofascist, wipes it out. Hudson and Leong both worked at WIRED, and the plot points are pulled from real episodes in tech and cybersecurity. The tagline says it all: \"Don't Bury The Lede. Bury Your Enemies!\" (404 Media)\n\nQuick Hits & Curiosities\n\n• A Lexington County sheriff's deputy working security at a South Carolina gun show was shot by a patron, then returned fire and killed the attacker. The deputy is in stable condition after surgery. (NLDR Media)\n\n• A UPS Boeing 767 and a Copa Boeing 737 clipped wings on a Miami taxiway Saturday night, a day after a nationwide FAA ground stop. No injuries, and the UPS pilot admitted on air traffic control audio that he went too far. (NLDR Media)\n\n• Private torrent trackers are the internet's secret attics: invite-only file-sharing clubs where you might have to pass an interview to trade obscure Chinese movies and old motorsports clips. One academic compares them to the attics where people stashed reels of silent films that only survive because somebody held on to them. (The Verge)\n\n• The Big Bear bald eagle nest cam has carried fans through death, divorce and chemotherapy, and helped save the last undeveloped stretch of shoreline on California's Big Bear Lake. It has been streaming since 2015. (The New York Times)\n\n• AI ruined Google Search by burying useful links under AI answers, and now a wave of startups and plug-ins promises to make the web navigable again. The author's own fix is asking ChatGPT to search the web and link sources, which is exactly the loop that got us here. (The New Yorker)\n\n• AI is creeping into restaurants around the edges: guests use it to book reservations, write long lawyerly complaint emails, pick wine and scan menus to count macros. (Grub Street)\n\n• T.S. Eliot failed as a playwright, and the attempt left great details: he once played Jane Austen's Mr. Woodhouse in an amateur production of Emma, and wore face powder with a greenish tinge when seeing friends, presumably to heighten the impression of great suffering. (The Republic of Letters)\n\nSunday, November 15, 2026 - Afternoon Edition\n\nToday's Numbers\n\n• 180: women who answered Karley Sciortino's survey on what makes a man great in bed, ranking the qualities their best lovers had in common and what the worst get wrong.\n\n• 95% vs 65%: the orgasm gap. 95% of straight men say they usually or always orgasm during sex, versus 65% of straight women. In one study of college students, it was just 39% of women.\n\nQuotes of the Day\n\n• \"Some holiday traditions get handed down. Others you start yourself.\" (Perfectly Imperfect, inviting readers to the Etsy Creative Chalet)\n\n• \"fuckin expensive but excellent pool hall\" (Tyler, recommending Amsterdam Billiards in New York)\n\nMake It Yourself\n\nThe Etsy Creative Chalet takes over Greenpoint next weekend. Perfectly Imperfect is opening a two-day handmade holiday market with Etsy on November 21 and 22, 11am to 6pm at 64 Dobbin St in Brooklyn. Inside there is a holiday card studio with portraits printed on the spot, a DIY felt ornament workshop by the fire, a cocoa cart from Peddler Coffee, and a market with six Etsy sellers. Bring your people, or come on your own. Walk-ins welcome, based on capacity. (Perfectly Imperfect)\n\nQuick Hits & Curiosities\n\n• Yume Ga Arukara is Tyler's favorite udon spot from Cambridge, Massachusetts, and it earned a shout in this week's Perfectly Imperfect recs. (Perfectly Imperfect)\n\n• Corey Dubrowa's best girl Honeybee is a New Yorker now, and she approves of the place. (Perfectly Imperfect)",
+          "body": "Sunday, November 15, 2026 - Morning Edition\n\nToday's Numbers\n\n• 2034: the year Hubble is expected to fall back into Earth's atmosphere if nothing changes, so NASA is asking commercial space companies for proposals to keep the telescope flying.\n\n• 1 million: people who read Farnam Street's Brain Food every week, making Shane Parrish's Sunday note one of the widest read letters about thinking clearly.\n\nQuotes of the Day\n\n• \"If you do not work on an important problem, it's unlikely you'll do important work.\" (Richard Hamming, on picking what to work on)\n\n• \"There are only three ways a smart person can go broke: liquor, ladies and leverage.\" (Charlie Munger, on how to destroy your life)\n\n• \"Honesty sounds like disrespect when you are demanding worship.\" (Shane Parrish, Brain Food)\n\nAI & The Machines\n\nFully automated ransomware has not arrived yet, but AI is already doing the heavy lifting for attackers who barely know what they are doing. WIRED reports that seemingly unsophisticated attackers are using AI tools to wreak havoc, which means the barrier to entry for ransomware keeps dropping even before full automation shows up. The next wave of attacks may come from people who could never have pulled them off a few years ago, and defenders are still catching up. (WIRED)\n\nMoney & Power\n\nFloods in Gaza are forcing an impossible choice between clean drinking water and pumping out raw sewage. Israeli restrictions are limiting repairs, so fuel gets diverted from wells to drainage pumps and residents lose either way. It is a stark look at how infrastructure becomes both a casualty and a weapon in the same crisis. (WIRED)\n\nThe Culture\n\nReddit co-founder Alexis Ohanian says building social media apps is \"not cool anymore.\" He is trying to figure out what comes next for user-generated content now that so much of the internet feels compromised by AI slop and bots. The founder of one of the web's biggest forums is basically admitting the era he helped build has run its course. (WIRED)\n\nA new Hulu docuseries follows the deadly toll of looksmaxxing, the online movement obsessed with maximizing male attractiveness. Get Huge: Looksmaxxing to Death traces the mysterious deaths and disappearances of a group of male influencers in Thailand, and the leader at the center of it all. It is a grim look at what happens when self-improvement content curdles into something dangerous. (WIRED)\n\nThe hypebeast era is over, and even its survivors are moving on. InsideHook's Paolo Sandoval says the appetite for logo-splashed streetwear and ultra-limited drops has finally been sated, but Aimé Leon Dore escaped the crash by growing into a full menswear operation. Its latest move is a shearling-lined leather slipper with Ugg, a moccasin-inspired collab that still leans on the drop playbook without living or dying by it. (InsideHook)\n\nQuick Hits & Curiosities\n\n• Jon McNeill, the former president of Tesla and co-founder of DVx Ventures, talks speed, short emails, marketing with no budget, and how Neuralink got started on the latest Knowledge Project. (Farnam Street)\n\nSunday, November 15, 2026 - Midday Edition\n\nToday's Numbers\n\n• 291: NYC DSA delegates voted 291 to 123 for a resolution urging Rep. Alexandria Ocasio-Cortez to run for president in 2028, and laying the groundwork to challenge Gov. Kathy Hochul, Sen. Kirsten Gillibrand and Sen. Chuck Schumer in future races.\n\n• 26: Starlink V3 satellites deployed by Starship Flight 15, whose upper stage SpaceX caught with the launch tower's chopstick arms for the first time, about 22.5 hours after launch. The Super Heavy booster diverted to a splashdown in the Gulf after a low fuel alarm.\n\n• 2,135: links reviewed by Links I Would Gchat You this week, pulled from 283 sources, to build one anti-algorithmic newsletter.\n\n• 78: the age of Carolyn Marvin, the professor who got a disorderly-conduct ticket for facing down food-delivery robots on the streets of Philadelphia.\n\nQuotes of the Day\n\n• \"A decade of politics that began with 'When they go low, we go high,' has concluded with 'shut up you ugly fuck.'\" (Max Tani, Semafor, on the DNC's new social media tone)\n\n• \"The immediacy and intimacy of the phone call produce different results than a text or direct message.\" (Esquire, on the unexpected benefits of an old-fashioned phone call)\n\n• \"There's nothing less cool in 2026 than going on vacation to New York City.\" (Biz Sherbert, on NYC tourism)\n\nAI & The Machines\n\nWe give AI a free pass outside our own lane, because we don't have the expertise to spot the mistakes. That is the core of \"expertise bias,\" the AI version of Gell-Mann amnesia. Lawyers will tell you AI gets the law wrong, then praise it for marketing copy. Writers call AI prose bland, then trust it for travel plans. Sacha Judd asked ChatGPT where Romeo and Juliet had been performed in the most unusual places, and it invented 30 performances, each wilder than the last. The fix is simple: test AI on your own turf first, and if it flubs the basics there, assume it flubs elsewhere too. (Shit You Should Care About)\n\nMeta's Muse went from a weekend project to the fastest-growing consumer AI product in history. Mona Sarantakos, VP of Product at Meta Superintelligence Labs, tells Lenny Rachitsky how a weekend with OpenClaw on a Raspberry Pi turned into Muse, now the #1 app in the App Store. The team waited seven months to launch even though they started before most competitors, and Jolly, a placeholder avatar, became the product's icon. The episode also gets into the \"agent swarms\" the team uses to surface user insights at scale. (Lenny's Newsletter)\n\nRenegade engineers are stripping the guardrails off AI models, and WIRED's Will Knight joined them. The \"abliterators\" use a few keystrokes to unshackle models from corporate safety layers, and Knight's Big Story makes it hard not to root for them. The piece is part of WIRED's series on the existential threats of AI, and it lands on a useful reminder: the companies want you to believe they are communing with machine gods whose powers must be contained, but you can peer behind the curtain yourself. (WIRED)\n\nPolitics & Power\n\nNate Silver watched 27 Democratic candidates and found a better split than progressive vs. moderate: fighter vs. uniter. Gavin Newsom is the pure fighter, all Trump-style counterpunching. Zohran Mamdani is a hybrid who leans uniter, signaling he wants to be mayor for all New Yorkers. The surprise was Kentucky Gov. Andy Beshear, mild-mannered until he starts talking about JD Vance. Only one candidate, Kansas Sen.-elect Adam Hamilton, rated a pure 7 out of 7 uniter. Silver's hunch is that uniter is the more natural gear for Democrats, a big tent party that has won a Senate race in 43 states since 2008. (Silver Bulletin)\n\nThe Culture\n\nA new comic is journalism nerdcore, and it is furious. Exploit, from Laura Hudson and Tim Leong with illustrator Emiliana Pinna, follows editorial intern Kirby Kuo at a WIRED-style print magazine, chasing her first byline before the newsroom's new owner, a thin-skinned cyberlibertarian turned technofascist, wipes it out. Hudson and Leong both worked at WIRED, and the plot points are pulled from real episodes in tech and cybersecurity. The tagline says it all: \"Don't Bury The Lede. Bury Your Enemies!\" (404 Media)\n\nQuick Hits & Curiosities\n\n• A Lexington County sheriff's deputy working security at a South Carolina gun show was shot by a patron, then returned fire and killed the attacker. The deputy is in stable condition after surgery. (NLDR Media)\n\n• A UPS Boeing 767 and a Copa Boeing 737 clipped wings on a Miami taxiway Saturday night, a day after a nationwide FAA ground stop. No injuries, and the UPS pilot admitted on air traffic control audio that he went too far. (NLDR Media)\n\n• Private torrent trackers are the internet's secret attics: invite-only file-sharing clubs where you might have to pass an interview to trade obscure Chinese movies and old motorsports clips. One academic compares them to the attics where people stashed reels of silent films that only survive because somebody held on to them. (The Verge)\n\n• The Big Bear bald eagle nest cam has carried fans through death, divorce and chemotherapy, and helped save the last undeveloped stretch of shoreline on California's Big Bear Lake. It has been streaming since 2015. (The New York Times)\n\n• AI ruined Google Search by burying useful links under AI answers, and now a wave of startups and plug-ins promises to make the web navigable again. The author's own fix is asking ChatGPT to search the web and link sources, which is exactly the loop that got us here. (The New Yorker)\n\n• AI is creeping into restaurants around the edges: guests use it to book reservations, write long lawyerly complaint emails, pick wine and scan menus to count macros. (Grub Street)\n\n• T.S. Eliot failed as a playwright, and the attempt left great details: he once played Jane Austen's Mr. Woodhouse in an amateur production of Emma, and wore face powder with a greenish tinge when seeing friends, presumably to heighten the impression of great suffering. (The Republic of Letters)\n\nSunday, November 15, 2026 - Afternoon Edition\n\nToday's Numbers\n\n• 180: women who answered Karley Sciortino's survey on what makes a man great in bed, ranking the qualities their best lovers had in common and what the worst get wrong.\n\n• 95% vs 65%: the orgasm gap. 95% of straight men say they usually or always orgasm during sex, versus 65% of straight women. In one study of college students, it was just 39% of women.\n\nQuotes of the Day\n\n• \"Some holiday traditions get handed down. Others you start yourself.\" (Perfectly Imperfect, inviting readers to the Etsy Creative Chalet)\n\n• \"fuckin expensive but excellent pool hall\" (Tyler, recommending Amsterdam Billiards in New York)\n\nMake It Yourself\n\nThe Etsy Creative Chalet takes over Greenpoint next weekend. Perfectly Imperfect is opening a two-day handmade holiday market with Etsy on November 21 and 22, 11am to 6pm at 64 Dobbin St in Brooklyn. Inside there is a holiday card studio with portraits printed on the spot, a DIY felt ornament workshop by the fire, a cocoa cart from Peddler Coffee, and a market with six Etsy sellers. Bring your people, or come on your own. Walk-ins welcome, based on capacity. (Perfectly Imperfect)\n\nQuick Hits & Curiosities\n\n• Yume Ga Arukara is Tyler's favorite udon spot from Cambridge, Massachusetts, and it earned a shout in this week's Perfectly Imperfect recs. (Perfectly Imperfect)\n\n• Corey Dubrowa's best girl Honeybee is a New Yorker now, and she approves of the place. (Perfectly Imperfect)\n\nSunday, November 15, 2026 - Evening Edition\n\nToday's Numbers\n\n• 85%: Nvidia's share of the AI chip market, per Azeem Azhar. Jensen Huang resigned this week after revelations of an affair with a suspected Chinese spy, and the man who was the linchpin of the AI boom is out.\n\n• 29%: how far Nvidia's stock has fallen over the last six months. Oracle is down 35%, CoreWeave is down 54%, and Anthropic's perceived valuation has dropped 25% in a matter of weeks. Gary Marcus says those numbers look like a bubble popping.\n\n• 8: times Palantir CEO Alex Karp called himself, his company, or his worldview \"progressive\" in a 22-minute podcast appearance. He gave $360,000 to a Biden-Harris committee in 2023, then $1 million to MAGA Inc. in 2024.\n\n• 97.6%: of Meta's revenue that came from ads last quarter, $63.06 billion out of $64.60 billion. Every consumer app eventually becomes an ad company.\n\nQuotes of the Day\n\n• \"a consequential sex scandal at last!\" (Tina Brown, on the Nvidia honey trap)\n\n• \"They didn't just lose the podcast bros. They lost most of the country.\" (Joe Rogan, on the GOP's midterm wipeout)\n\nThe Free Press Has a Standards Problem\n\nBari Weiss's other publication is having a rough month. A reporter used ChatGPT to \"brighten and sharpen\" an election night photo, then admitted it after Vanity Fair's fashion desk flagged the image. The outlet posted, then retracted, a video that falsely claimed Michigan senator-elect Abdul El-Sayed delivered his victory speech in Arabic (he used Arabic for 0.27% of it, mostly to say his own name). And the publication shelved a taped interview with author Anand Giridharadas about his book on the Daniel Penny trial, then went quiet for a month when he asked why. The Free Press was acquired by Skydance for $150 million in 2025. Its editors did not respond to requests for comment. (Status)\n\nQuick Hits & Curiosities\n\n• Transportation Secretary Sean Duffy had a rough weekend: a nationwide ground stop on Friday, a press conference derailed by tech issues, then the rare \"Full Ginsburg,\" appearing on all five major Sunday morning shows. (Status)\n\n• Johnny Depp is back on top of the box office. \"Ebenezer,\" his take on \"A Christmas Carol,\" opened at No. 1 with $19 million. (Status)\n\n• The Elizabeth Holmes documentary \"You Can See Everything\" took in nearly $5.5 million and is approaching $90 million domestically. Her partner Billy Evans gave his first interview since its release, reacting to Amanda Seyfried's portrayal of Holmes. (Status)\n\n• Parisians are nice now? Emilia Petrarca spent three days shopping across Paris and found almost everyone ridiculously, shockingly nice, a sharp break from the eye rolls and small arguments of past trips. (Emilia Petrarca)",
           "blocks": [
             {
               "type": "heading_1",
@@ -286281,6 +286650,266 @@
                   "italic": false
                 }
               ]
+            },
+            {
+              "type": "heading_1",
+              "runs": [
+                {
+                  "text": "Sunday, November 15, 2026 - Evening Edition",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Today's Numbers",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "85%",
+                  "url": "https://post.substack.com/p/a-consequential-sex-scandal-at-last",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": Nvidia's share of the AI chip market, per Azeem Azhar. Jensen Huang resigned this week after revelations of an affair with a suspected Chinese spy, and the man who was the linchpin of the AI boom is out.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "29%",
+                  "url": "https://post.substack.com/p/a-consequential-sex-scandal-at-last",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": how far Nvidia's stock has fallen over the last six months. Oracle is down 35%, CoreWeave is down 54%, and Anthropic's perceived valuation has dropped 25% in a matter of weeks. Gary Marcus says those numbers look like a bubble popping.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "8",
+                  "url": "https://www.theargumentmag.com/p/total-cultural-victory-again",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": times Palantir CEO Alex Karp called himself, his company, or his worldview \"progressive\" in a 22-minute podcast appearance. He gave $360,000 to a Biden-Harris committee in 2023, then $1 million to MAGA Inc. in 2024.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "97.6%",
+                  "url": "https://jawestenberg.substack.com/",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": of Meta's revenue that came from ads last quarter, $63.06 billion out of $64.60 billion. Every consumer app eventually becomes an ad company.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Quotes of the Day",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "\"a consequential sex scandal at last!\" (Tina Brown, on the Nvidia honey trap)",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "\"They didn't just lose the podcast bros. They lost most of the country.\" (Joe Rogan, on the GOP's midterm wipeout)",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "The Free Press Has a Standards Problem",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Bari Weiss's other publication is having a rough month. A reporter used ChatGPT to \"brighten and sharpen\" an election night photo, then admitted it after Vanity Fair's fashion desk flagged the image. The outlet posted, then retracted, a video that falsely claimed Michigan senator-elect Abdul El-Sayed delivered his victory speech in Arabic (he used Arabic for 0.27% of it, mostly to say his own name). And the publication shelved a taped interview with author Anand Giridharadas about his book on the Daniel Penny trial, then went quiet for a month when he asked why. The Free Press was acquired by Skydance for $150 million in 2025. Its editors did not respond to requests for comment. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Status",
+                  "url": "https://www.status.news/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Quick Hits & Curiosities",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Transportation Secretary Sean Duffy had a rough weekend: a nationwide ground stop on Friday, a press conference derailed by tech issues, then the rare \"Full Ginsburg,\" appearing on all five major Sunday morning shows. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Status",
+                  "url": "https://www.status.news/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Johnny Depp is back on top of the box office. \"Ebenezer,\" his take on \"A Christmas Carol,\" opened at No. 1 with $19 million. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Status",
+                  "url": "https://www.status.news/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "The Elizabeth Holmes documentary \"You Can See Everything\" took in nearly $5.5 million and is approaching $90 million domestically. Her partner Billy Evans gave his first interview since its release, reacting to Amanda Seyfried's portrayal of Holmes. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Status",
+                  "url": "https://www.status.news/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Parisians are nice now? Emilia Petrarca spent three days shopping across Paris and found almost everyone ridiculously, shockingly nice, a sharp break from the eye rolls and small arguments of past trips. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Emilia Petrarca",
+                  "url": "https://emiliapetrarca.substack.com/p/parisians-are-so-nice-now",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
             }
           ],
           "links": [
@@ -286379,6 +287008,26 @@
             {
               "title": "Perfectly Imperfect",
               "url": "https://www.pi.fyi/"
+            },
+            {
+              "title": "29%",
+              "url": "https://post.substack.com/p/a-consequential-sex-scandal-at-last"
+            },
+            {
+              "title": "8",
+              "url": "https://www.theargumentmag.com/p/total-cultural-victory-again"
+            },
+            {
+              "title": "97.6%",
+              "url": "https://jawestenberg.substack.com/"
+            },
+            {
+              "title": "Status",
+              "url": "https://www.status.news/"
+            },
+            {
+              "title": "Emilia Petrarca",
+              "url": "https://emiliapetrarca.substack.com/p/parisians-are-so-nice-now"
             }
           ]
         }
