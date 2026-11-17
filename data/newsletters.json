@@ -292577,6 +292577,1814 @@
       ],
       "publishedAt": "2026-11-16T22:13:00Z",
       "links": []
+    },
+    {
+      "id": "digest-41b8153c-8a3e-81f1-93da-dad812e3322b",
+      "channel": "newsletters",
+      "source": "notion",
+      "kind": "Agent-written digest",
+      "domain": "Daily newsletter digest",
+      "title": "Disney builds a navy, the AI bubble gets a date of death, 400 data centers vs Michigan - Tuesday, November 17, 2026",
+      "url": "",
+      "description": "Tuesday, November 17, 2026 - Morning Edition",
+      "body": "Tuesday, November 17, 2026 - Morning Edition\n\nToday's Numbers\n\n• 400: US data centers that now use more electricity than the entire state of Michigan, according to new Harvard research, and the count leaves out facilities running off-grid gas plants, so the real footprint is bigger.\n\n• $71.5 billion: the Union Pacific and Norfolk Southern merger now wobbling after a recording caught the Union Pacific CEO saying he would jack up prices on customers who opposed the deal, which is exactly the kind of thing regulators do not love to hear.\n\n• 70%: the chance prediction markets now give Democrats of winning the presidency in 2028, up from 60 percent two weeks ago, with Kalshi pricing 58 Democratic Senate seats.\n\n• 18 million: works of fan fiction hosted by Archive of Our Own, which is back online after a weeks-long shutdown, with some limitations, to the relief of a very online corner of the internet.\n\nQuotes of the Day\n\n• \"As of December 31st, it's a surreal thing to say, it's a sad thing to say out loud, but I will not be on 'Morning Joe.'\" (Willie Geist, announcing his departure from Morning Joe after two decades)\n\n• \"Modernizing America's air traffic control system is a little like performing open-heart surgery on a patient while he's running a marathon, except the patient is 70 years old, the equipment dates to the Carter administration, and Congress has spent decades arguing over who should pay for the operation.\" (Counterpoint, on Friday's four-hour nationwide ground stop)\n\n• \"There's no problem in the housing market that lower mortgage rates can't fix.\" (Conor Sen, on why housing looks forward to 2029)\n\nAI & The Machines\n\nDid Jensen Huang just pop the AI bubble? Derek Thompson says the honest answer is maybe, and the date of death might be November 2026. The case against a bubble is strong: the S&P 500 is up about 135 percent since the end of 2019 while earnings rose about 125 percent, Nvidia trades at less than 13 times earnings, and H100 rental prices are up more than 50 percent since last December, which is what excess demand looks like, not excess supply. The case for a pop is four shocks landing at once: Huang's resignation, rising borrowing costs slowing the data center buildout, slowing revenue growth at the frontier labs, and the 2026 election empowering anti-AI politicians. As Paul Kedrosky notes, the chip business runs on very long design cycles, so years of Nvidia product are already in the works no matter who sits in the CEO chair. (Derek Thompson)\n\nThe happiest version of superintelligence might still be a bad deal. Kelsey Piper sets aside the doom scenarios and asks what happens if we actually build a benign superintelligence, and finds even the sunny endings thin. The dominant optimistic vision is \"handover,\" where humanity cedes control of its future to a godlike AI and lives as comfortably maintained inhabitants of a civilization it no longer steers, a future some, like Scott Alexander, actively defend. Piper's alternatives are exit (a Shire-like pastoral breakaway), integration (uploading yourself and merging with the machines), or pluralism, where humans stay in charge and pick which technologies serve them, Amish-style, a habit her friends have already started with rules like no recording casual conversations and no algorithmic feeds. (Kelsey Piper)\n\nNvidia is cheap because nobody believes its 2028 earnings. That is Conor Sen's read on the chipmaker trading at less than 8 times Wall Street's calendar 2028 earnings estimates, a discount that says investors expect a compute glut, not a shortage. A wave of new capacity comes online in 2027, export politics are turning against shipping high-powered tech to Asia, and money is getting tighter for AI companies. Unless big new compute-hungry uses show up in 2027, the pricing power AI companies have enjoyed starts to crack. (Conor Sen)\n\nMoney & Power\n\nDisney is building a navy, and cruises are the reason. Disney reports earnings today, but the real story is the water: two new ships bring the fleet to 8, with 5 more on order by 2031, and the Experiences segment was 37 percent of revenue last year but a full 60 percent of profit. A cruise ship is a floating theme park Disney can sail anywhere, which dodges the constraints of land parks (Shanghai took decades of negotiation and a five-year build, and the Chinese state owns 57 percent of it, while even Florida squeezed Disney after the DeSantis fight). Ships let Disney follow demand, surge-price like an amusement park, and operate with near-sovereignty in international waters. (Snacks)\n\nYour bank's outage might be Chase's fault. Hundreds of reports of US bank outages piled up, and JPMorganChase says a technical \"issue\" with its \"on-premise hardware systems\" may be slowing transactions at outside banks. One bank's plumbing can ripple across the whole system, which means the outage hitting your bank may have nothing to do with your bank at all. (WIRED)\n\nTesla's Cybercab is a subscription, not a car. Tesla has invited some buyers to reserve a personal robotaxi, but the arrangement looks less like owning a car and more like signing up for a service, with big questions about what car ownership even means when the vehicle answers to the company that built it. (WIRED)\n\nThe Culture\n\nRobert Pattinson is the new James Bond. Amazon's MGM and director Denis Villeneuve tapped the 40-year-old to pick up the Walther PPK, and Snacks makes the case from his resume: he survived the chaos of Twilight fandom, played an international man of mystery in Tenet, and has spent a career risking life and limb for the British aristocracy, from Harry Potter to Mickey 17. (Snacks)\n\nSpaceX caught a rocket with chopsticks, and a critic says money did it. On Saturday, the giant Mechazilla arms caught the Starship booster after 22 hours in orbit and more than two dozen Starlink satellites deployed. Antitrust writer Matt Stoller called the feat the \"normal consequence\" of having boatloads of capital, a take Pirate Wires mocks by pointing out that throwing money at problems does not automatically solve them, as California's homeless population and high-speed rail show. (Pirate Wires)\n\nQuick Hits & Curiosities\n\n• Voyager 1 is about to sit one light-day from Earth, which means a radio signal will take a full 24 hours to reach it. (Numlock)\n\n• Mamdani announced he is disbanding the NYPD's Strategic Response Group, the unit that handles counter-terrorism and protest management, and replacing part of it with a civilian Community Dialogue and De-escalation Division. (Pirate Wires)\n\n• Readers voted, and the winner is The Snowy Day: Haley Nahman sorted 350-plus reader comments into a spreadsheet of 220 children's books, and Ezra Jack Keats's 1962 classic took 18 recommendations, more than any other book. (Haley Nahman)\n\n• Marlowe Granados wants to bring back bitchy glamour, the old-Hollywood kind, and she makes the case with Illeana Douglas's new book Jungle Red!, about the making of The Women (1939), a film where women complain about men without a single man ever appearing onscreen. (Marlowe Granados)\n\n• Some \"ghostly\" galaxies have lost their dark matter, and astronomers are trying to figure out why. (WIRED)\n\n• Oobah Butler, the man who can sell you anything, talked to WIRED about his new HBO show. (WIRED)",
+      "blocks": [
+        {
+          "type": "heading_1",
+          "runs": [
+            {
+              "text": "Tuesday, November 17, 2026 - Morning Edition",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Today's Numbers",
+              "url": "",
+              "bold": true,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "400",
+              "url": "https://www.wired.com/",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": ": US data centers that now use more electricity than the entire state of Michigan, according to new Harvard research, and the count leaves out facilities running off-grid gas plants, so the real footprint is bigger.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "$71.5 billion",
+              "url": "https://www.wsj.com/business/deals/railroad-ceos-loose-lips-threaten-to-torpedo-his-72-billion-megadeal-30162207",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": ": the Union Pacific and Norfolk Southern merger now wobbling after a recording caught the Union Pacific CEO saying he would jack up prices on customers who opposed the deal, which is exactly the kind of thing regulators do not love to hear.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "70%",
+              "url": "https://conorsen.substack.com/p/why-markets-care-more-about-2029",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": ": the chance prediction markets now give Democrats of winning the presidency in 2028, up from 60 percent two weeks ago, with Kalshi pricing 58 Democratic Senate seats.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "18 million",
+              "url": "https://www.wired.com/",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": ": works of fan fiction hosted by Archive of Our Own, which is back online after a weeks-long shutdown, with some limitations, to the relief of a very online corner of the internet.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Quotes of the Day",
+              "url": "",
+              "bold": true,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "\"As of December 31st, it's a surreal thing to say, it's a sad thing to say out loud, but I will not be on 'Morning Joe.'\" (Willie Geist, announcing his departure from Morning Joe after two decades)",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "\"Modernizing America's air traffic control system is a little like performing open-heart surgery on a patient while he's running a marathon, except the patient is 70 years old, the equipment dates to the Carter administration, and Congress has spent decades arguing over who should pay for the operation.\" (Counterpoint, on Friday's four-hour nationwide ground stop)",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "\"There's no problem in the housing market that lower mortgage rates can't fix.\" (Conor Sen, on why housing looks forward to 2029)",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "AI & The Machines",
+              "url": "",
+              "bold": true,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Did Jensen Huang just pop the AI bubble? Derek Thompson says the honest answer is maybe, and the date of death might be November 2026.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " The case against a bubble is strong: the S&P 500 is up about 135 percent since the end of 2019 while earnings rose about 125 percent, Nvidia trades at less than 13 times earnings, and H100 rental prices are up more than 50 percent since last December, which is what excess demand looks like, not excess supply. The case for a pop is four shocks landing at once: Huang's resignation, rising borrowing costs slowing the data center buildout, slowing revenue growth at the frontier labs, and the 2026 election empowering anti-AI politicians. As Paul Kedrosky notes, the chip business runs on very long design cycles, so years of Nvidia product are already in the works no matter who sits in the CEO chair. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Derek Thompson",
+              "url": "https://www.derekthompson.org/p/did-jensen-huang-just-pop-the-ai",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "The happiest version of superintelligence might still be a bad deal.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " Kelsey Piper sets aside the doom scenarios and asks what happens if we actually build a benign superintelligence, and finds even the sunny endings thin. The dominant optimistic vision is \"handover,\" where humanity cedes control of its future to a godlike AI and lives as comfortably maintained inhabitants of a civilization it no longer steers, a future some, like Scott Alexander, actively defend. Piper's alternatives are exit (a Shire-like pastoral breakaway), integration (uploading yourself and merging with the machines), or pluralism, where humans stay in charge and pick which technologies serve them, Amish-style, a habit her friends have already started with rules like no recording casual conversations and no algorithmic feeds. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Kelsey Piper",
+              "url": "https://www.theargumentmag.com/p/what-happens-if-we-build-it-and-nobody",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Nvidia is cheap because nobody believes its 2028 earnings.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " That is Conor Sen's read on the chipmaker trading at less than 8 times Wall Street's calendar 2028 earnings estimates, a discount that says investors expect a compute glut, not a shortage. A wave of new capacity comes online in 2027, export politics are turning against shipping high-powered tech to Asia, and money is getting tighter for AI companies. Unless big new compute-hungry uses show up in 2027, the pricing power AI companies have enjoyed starts to crack. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Conor Sen",
+              "url": "https://conorsen.substack.com/p/why-markets-care-more-about-2029",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Money & Power",
+              "url": "",
+              "bold": true,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Disney is building a navy, and cruises are the reason.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " Disney reports earnings today, but the real story is the water: two new ships bring the fleet to 8, with 5 more on order by 2031, and the Experiences segment was 37 percent of revenue last year but a full 60 percent of profit. A cruise ship is a floating theme park Disney can sail anywhere, which dodges the constraints of land parks (Shanghai took decades of negotiation and a five-year build, and the Chinese state owns 57 percent of it, while even Florida squeezed Disney after the DeSantis fight). Ships let Disney follow demand, surge-price like an amusement park, and operate with near-sovereignty in international waters. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Snacks",
+              "url": "https://thewaltdisneycompany.com/press-releases/the-walt-disney-company-reports-fourth-quarter-and-full-year-earnings-for-fiscal-2025/",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Your bank's outage might be Chase's fault.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " Hundreds of reports of US bank outages piled up, and JPMorganChase says a technical \"issue\" with its \"on-premise hardware systems\" may be slowing transactions at outside banks. One bank's plumbing can ripple across the whole system, which means the outage hitting your bank may have nothing to do with your bank at all. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "WIRED",
+              "url": "https://www.wired.com/",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Tesla's Cybercab is a subscription, not a car.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " Tesla has invited some buyers to reserve a personal robotaxi, but the arrangement looks less like owning a car and more like signing up for a service, with big questions about what car ownership even means when the vehicle answers to the company that built it. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "WIRED",
+              "url": "https://www.wired.com/",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "The Culture",
+              "url": "",
+              "bold": true,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Robert Pattinson is the new James Bond.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " Amazon's MGM and director Denis Villeneuve tapped the 40-year-old to pick up the Walther PPK, and Snacks makes the case from his resume: he survived the chaos of Twilight fandom, played an international man of mystery in Tenet, and has spent a career risking life and limb for the British aristocracy, from Harry Potter to Mickey 17. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Snacks",
+              "url": "https://variety.com/2026/film/global/robert-pattinson-new-james-bond-007-1236946655/",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "SpaceX caught a rocket with chopsticks, and a critic says money did it.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " On Saturday, the giant Mechazilla arms caught the Starship booster after 22 hours in orbit and more than two dozen Starlink satellites deployed. Antitrust writer Matt Stoller called the feat the \"normal consequence\" of having boatloads of capital, a take Pirate Wires mocks by pointing out that throwing money at problems does not automatically solve them, as California's homeless population and high-speed rail show. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Pirate Wires",
+              "url": "https://piratewires.com/",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Quick Hits & Curiosities",
+              "url": "",
+              "bold": true,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Voyager 1 is about to sit one light-day from Earth, which means a radio signal will take a full 24 hours to reach it. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Numlock",
+              "url": "https://www.numlock.com/p/numlock-news-november-16-2026-voyager",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Mamdani announced he is disbanding the NYPD's Strategic Response Group, the unit that handles counter-terrorism and protest management, and replacing part of it with a civilian Community Dialogue and De-escalation Division. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Pirate Wires",
+              "url": "https://piratewires.com/",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Readers voted, and the winner is The Snowy Day: Haley Nahman sorted 350-plus reader comments into a spreadsheet of 220 children's books, and Ezra Jack Keats's 1962 classic took 18 recommendations, more than any other book. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Haley Nahman",
+              "url": "https://haleynahman.substack.com/p/the-best-childrens-books-according",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Marlowe Granados wants to bring back bitchy glamour, the old-Hollywood kind, and she makes the case with Illeana Douglas's new book Jungle Red!, about the making of The Women (1939), a film where women complain about men without a single man ever appearing onscreen. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Marlowe Granados",
+              "url": "https://marlowegranados.substack.com/p/bring-back-bitchy-glamour",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Some \"ghostly\" galaxies have lost their dark matter, and astronomers are trying to figure out why. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "WIRED",
+              "url": "https://www.wired.com/",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Oobah Butler, the man who can sell you anything, talked to WIRED about his new HBO show. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "WIRED",
+              "url": "https://www.wired.com/",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        }
+      ],
+      "publishedAt": "2026-11-17T13:11:00Z",
+      "links": [
+        {
+          "title": "WIRED",
+          "url": "https://www.wired.com/"
+        },
+        {
+          "title": "$71.5 billion",
+          "url": "https://www.wsj.com/business/deals/railroad-ceos-loose-lips-threaten-to-torpedo-his-72-billion-megadeal-30162207"
+        },
+        {
+          "title": "Conor Sen",
+          "url": "https://conorsen.substack.com/p/why-markets-care-more-about-2029"
+        },
+        {
+          "title": "Derek Thompson",
+          "url": "https://www.derekthompson.org/p/did-jensen-huang-just-pop-the-ai"
+        },
+        {
+          "title": "Kelsey Piper",
+          "url": "https://www.theargumentmag.com/p/what-happens-if-we-build-it-and-nobody"
+        },
+        {
+          "title": "Snacks",
+          "url": "https://thewaltdisneycompany.com/press-releases/the-walt-disney-company-reports-fourth-quarter-and-full-year-earnings-for-fiscal-2025/"
+        },
+        {
+          "title": "Snacks",
+          "url": "https://variety.com/2026/film/global/robert-pattinson-new-james-bond-007-1236946655/"
+        },
+        {
+          "title": "Pirate Wires",
+          "url": "https://piratewires.com/"
+        },
+        {
+          "title": "Numlock",
+          "url": "https://www.numlock.com/p/numlock-news-november-16-2026-voyager"
+        },
+        {
+          "title": "Haley Nahman",
+          "url": "https://haleynahman.substack.com/p/the-best-childrens-books-according"
+        },
+        {
+          "title": "Marlowe Granados",
+          "url": "https://marlowegranados.substack.com/p/bring-back-bitchy-glamour"
+        }
+      ],
+      "versions": {
+        "morning": {
+          "body": "Tuesday, November 17, 2026 - Morning Edition\n\nToday's Numbers\n\n• 400: US data centers that now use more electricity than the entire state of Michigan, according to new Harvard research, and the count leaves out facilities running off-grid gas plants, so the real footprint is bigger.\n\n• $71.5 billion: the Union Pacific and Norfolk Southern merger now wobbling after a recording caught the Union Pacific CEO saying he would jack up prices on customers who opposed the deal, which is exactly the kind of thing regulators do not love to hear.\n\n• 70%: the chance prediction markets now give Democrats of winning the presidency in 2028, up from 60 percent two weeks ago, with Kalshi pricing 58 Democratic Senate seats.\n\n• 18 million: works of fan fiction hosted by Archive of Our Own, which is back online after a weeks-long shutdown, with some limitations, to the relief of a very online corner of the internet.\n\nQuotes of the Day\n\n• \"As of December 31st, it's a surreal thing to say, it's a sad thing to say out loud, but I will not be on 'Morning Joe.'\" (Willie Geist, announcing his departure from Morning Joe after two decades)\n\n• \"Modernizing America's air traffic control system is a little like performing open-heart surgery on a patient while he's running a marathon, except the patient is 70 years old, the equipment dates to the Carter administration, and Congress has spent decades arguing over who should pay for the operation.\" (Counterpoint, on Friday's four-hour nationwide ground stop)\n\n• \"There's no problem in the housing market that lower mortgage rates can't fix.\" (Conor Sen, on why housing looks forward to 2029)\n\nAI & The Machines\n\nDid Jensen Huang just pop the AI bubble? Derek Thompson says the honest answer is maybe, and the date of death might be November 2026. The case against a bubble is strong: the S&P 500 is up about 135 percent since the end of 2019 while earnings rose about 125 percent, Nvidia trades at less than 13 times earnings, and H100 rental prices are up more than 50 percent since last December, which is what excess demand looks like, not excess supply. The case for a pop is four shocks landing at once: Huang's resignation, rising borrowing costs slowing the data center buildout, slowing revenue growth at the frontier labs, and the 2026 election empowering anti-AI politicians. As Paul Kedrosky notes, the chip business runs on very long design cycles, so years of Nvidia product are already in the works no matter who sits in the CEO chair. (Derek Thompson)\n\nThe happiest version of superintelligence might still be a bad deal. Kelsey Piper sets aside the doom scenarios and asks what happens if we actually build a benign superintelligence, and finds even the sunny endings thin. The dominant optimistic vision is \"handover,\" where humanity cedes control of its future to a godlike AI and lives as comfortably maintained inhabitants of a civilization it no longer steers, a future some, like Scott Alexander, actively defend. Piper's alternatives are exit (a Shire-like pastoral breakaway), integration (uploading yourself and merging with the machines), or pluralism, where humans stay in charge and pick which technologies serve them, Amish-style, a habit her friends have already started with rules like no recording casual conversations and no algorithmic feeds. (Kelsey Piper)\n\nNvidia is cheap because nobody believes its 2028 earnings. That is Conor Sen's read on the chipmaker trading at less than 8 times Wall Street's calendar 2028 earnings estimates, a discount that says investors expect a compute glut, not a shortage. A wave of new capacity comes online in 2027, export politics are turning against shipping high-powered tech to Asia, and money is getting tighter for AI companies. Unless big new compute-hungry uses show up in 2027, the pricing power AI companies have enjoyed starts to crack. (Conor Sen)\n\nMoney & Power\n\nDisney is building a navy, and cruises are the reason. Disney reports earnings today, but the real story is the water: two new ships bring the fleet to 8, with 5 more on order by 2031, and the Experiences segment was 37 percent of revenue last year but a full 60 percent of profit. A cruise ship is a floating theme park Disney can sail anywhere, which dodges the constraints of land parks (Shanghai took decades of negotiation and a five-year build, and the Chinese state owns 57 percent of it, while even Florida squeezed Disney after the DeSantis fight). Ships let Disney follow demand, surge-price like an amusement park, and operate with near-sovereignty in international waters. (Snacks)\n\nYour bank's outage might be Chase's fault. Hundreds of reports of US bank outages piled up, and JPMorganChase says a technical \"issue\" with its \"on-premise hardware systems\" may be slowing transactions at outside banks. One bank's plumbing can ripple across the whole system, which means the outage hitting your bank may have nothing to do with your bank at all. (WIRED)\n\nTesla's Cybercab is a subscription, not a car. Tesla has invited some buyers to reserve a personal robotaxi, but the arrangement looks less like owning a car and more like signing up for a service, with big questions about what car ownership even means when the vehicle answers to the company that built it. (WIRED)\n\nThe Culture\n\nRobert Pattinson is the new James Bond. Amazon's MGM and director Denis Villeneuve tapped the 40-year-old to pick up the Walther PPK, and Snacks makes the case from his resume: he survived the chaos of Twilight fandom, played an international man of mystery in Tenet, and has spent a career risking life and limb for the British aristocracy, from Harry Potter to Mickey 17. (Snacks)\n\nSpaceX caught a rocket with chopsticks, and a critic says money did it. On Saturday, the giant Mechazilla arms caught the Starship booster after 22 hours in orbit and more than two dozen Starlink satellites deployed. Antitrust writer Matt Stoller called the feat the \"normal consequence\" of having boatloads of capital, a take Pirate Wires mocks by pointing out that throwing money at problems does not automatically solve them, as California's homeless population and high-speed rail show. (Pirate Wires)\n\nQuick Hits & Curiosities\n\n• Voyager 1 is about to sit one light-day from Earth, which means a radio signal will take a full 24 hours to reach it. (Numlock)\n\n• Mamdani announced he is disbanding the NYPD's Strategic Response Group, the unit that handles counter-terrorism and protest management, and replacing part of it with a civilian Community Dialogue and De-escalation Division. (Pirate Wires)\n\n• Readers voted, and the winner is The Snowy Day: Haley Nahman sorted 350-plus reader comments into a spreadsheet of 220 children's books, and Ezra Jack Keats's 1962 classic took 18 recommendations, more than any other book. (Haley Nahman)\n\n• Marlowe Granados wants to bring back bitchy glamour, the old-Hollywood kind, and she makes the case with Illeana Douglas's new book Jungle Red!, about the making of The Women (1939), a film where women complain about men without a single man ever appearing onscreen. (Marlowe Granados)\n\n• Some \"ghostly\" galaxies have lost their dark matter, and astronomers are trying to figure out why. (WIRED)\n\n• Oobah Butler, the man who can sell you anything, talked to WIRED about his new HBO show. (WIRED)",
+          "blocks": [
+            {
+              "type": "heading_1",
+              "runs": [
+                {
+                  "text": "Tuesday, November 17, 2026 - Morning Edition",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Today's Numbers",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "400",
+                  "url": "https://www.wired.com/",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": US data centers that now use more electricity than the entire state of Michigan, according to new Harvard research, and the count leaves out facilities running off-grid gas plants, so the real footprint is bigger.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "$71.5 billion",
+                  "url": "https://www.wsj.com/business/deals/railroad-ceos-loose-lips-threaten-to-torpedo-his-72-billion-megadeal-30162207",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": the Union Pacific and Norfolk Southern merger now wobbling after a recording caught the Union Pacific CEO saying he would jack up prices on customers who opposed the deal, which is exactly the kind of thing regulators do not love to hear.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "70%",
+                  "url": "https://conorsen.substack.com/p/why-markets-care-more-about-2029",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": the chance prediction markets now give Democrats of winning the presidency in 2028, up from 60 percent two weeks ago, with Kalshi pricing 58 Democratic Senate seats.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "18 million",
+                  "url": "https://www.wired.com/",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": works of fan fiction hosted by Archive of Our Own, which is back online after a weeks-long shutdown, with some limitations, to the relief of a very online corner of the internet.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Quotes of the Day",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "\"As of December 31st, it's a surreal thing to say, it's a sad thing to say out loud, but I will not be on 'Morning Joe.'\" (Willie Geist, announcing his departure from Morning Joe after two decades)",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "\"Modernizing America's air traffic control system is a little like performing open-heart surgery on a patient while he's running a marathon, except the patient is 70 years old, the equipment dates to the Carter administration, and Congress has spent decades arguing over who should pay for the operation.\" (Counterpoint, on Friday's four-hour nationwide ground stop)",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "\"There's no problem in the housing market that lower mortgage rates can't fix.\" (Conor Sen, on why housing looks forward to 2029)",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "AI & The Machines",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Did Jensen Huang just pop the AI bubble? Derek Thompson says the honest answer is maybe, and the date of death might be November 2026.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " The case against a bubble is strong: the S&P 500 is up about 135 percent since the end of 2019 while earnings rose about 125 percent, Nvidia trades at less than 13 times earnings, and H100 rental prices are up more than 50 percent since last December, which is what excess demand looks like, not excess supply. The case for a pop is four shocks landing at once: Huang's resignation, rising borrowing costs slowing the data center buildout, slowing revenue growth at the frontier labs, and the 2026 election empowering anti-AI politicians. As Paul Kedrosky notes, the chip business runs on very long design cycles, so years of Nvidia product are already in the works no matter who sits in the CEO chair. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Derek Thompson",
+                  "url": "https://www.derekthompson.org/p/did-jensen-huang-just-pop-the-ai",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "The happiest version of superintelligence might still be a bad deal.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " Kelsey Piper sets aside the doom scenarios and asks what happens if we actually build a benign superintelligence, and finds even the sunny endings thin. The dominant optimistic vision is \"handover,\" where humanity cedes control of its future to a godlike AI and lives as comfortably maintained inhabitants of a civilization it no longer steers, a future some, like Scott Alexander, actively defend. Piper's alternatives are exit (a Shire-like pastoral breakaway), integration (uploading yourself and merging with the machines), or pluralism, where humans stay in charge and pick which technologies serve them, Amish-style, a habit her friends have already started with rules like no recording casual conversations and no algorithmic feeds. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Kelsey Piper",
+                  "url": "https://www.theargumentmag.com/p/what-happens-if-we-build-it-and-nobody",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Nvidia is cheap because nobody believes its 2028 earnings.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " That is Conor Sen's read on the chipmaker trading at less than 8 times Wall Street's calendar 2028 earnings estimates, a discount that says investors expect a compute glut, not a shortage. A wave of new capacity comes online in 2027, export politics are turning against shipping high-powered tech to Asia, and money is getting tighter for AI companies. Unless big new compute-hungry uses show up in 2027, the pricing power AI companies have enjoyed starts to crack. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Conor Sen",
+                  "url": "https://conorsen.substack.com/p/why-markets-care-more-about-2029",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Money & Power",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Disney is building a navy, and cruises are the reason.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " Disney reports earnings today, but the real story is the water: two new ships bring the fleet to 8, with 5 more on order by 2031, and the Experiences segment was 37 percent of revenue last year but a full 60 percent of profit. A cruise ship is a floating theme park Disney can sail anywhere, which dodges the constraints of land parks (Shanghai took decades of negotiation and a five-year build, and the Chinese state owns 57 percent of it, while even Florida squeezed Disney after the DeSantis fight). Ships let Disney follow demand, surge-price like an amusement park, and operate with near-sovereignty in international waters. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Snacks",
+                  "url": "https://thewaltdisneycompany.com/press-releases/the-walt-disney-company-reports-fourth-quarter-and-full-year-earnings-for-fiscal-2025/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Your bank's outage might be Chase's fault.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " Hundreds of reports of US bank outages piled up, and JPMorganChase says a technical \"issue\" with its \"on-premise hardware systems\" may be slowing transactions at outside banks. One bank's plumbing can ripple across the whole system, which means the outage hitting your bank may have nothing to do with your bank at all. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "WIRED",
+                  "url": "https://www.wired.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Tesla's Cybercab is a subscription, not a car.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " Tesla has invited some buyers to reserve a personal robotaxi, but the arrangement looks less like owning a car and more like signing up for a service, with big questions about what car ownership even means when the vehicle answers to the company that built it. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "WIRED",
+                  "url": "https://www.wired.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "The Culture",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Robert Pattinson is the new James Bond.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " Amazon's MGM and director Denis Villeneuve tapped the 40-year-old to pick up the Walther PPK, and Snacks makes the case from his resume: he survived the chaos of Twilight fandom, played an international man of mystery in Tenet, and has spent a career risking life and limb for the British aristocracy, from Harry Potter to Mickey 17. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Snacks",
+                  "url": "https://variety.com/2026/film/global/robert-pattinson-new-james-bond-007-1236946655/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "SpaceX caught a rocket with chopsticks, and a critic says money did it.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " On Saturday, the giant Mechazilla arms caught the Starship booster after 22 hours in orbit and more than two dozen Starlink satellites deployed. Antitrust writer Matt Stoller called the feat the \"normal consequence\" of having boatloads of capital, a take Pirate Wires mocks by pointing out that throwing money at problems does not automatically solve them, as California's homeless population and high-speed rail show. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Pirate Wires",
+                  "url": "https://piratewires.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Quick Hits & Curiosities",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Voyager 1 is about to sit one light-day from Earth, which means a radio signal will take a full 24 hours to reach it. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Numlock",
+                  "url": "https://www.numlock.com/p/numlock-news-november-16-2026-voyager",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Mamdani announced he is disbanding the NYPD's Strategic Response Group, the unit that handles counter-terrorism and protest management, and replacing part of it with a civilian Community Dialogue and De-escalation Division. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Pirate Wires",
+                  "url": "https://piratewires.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Readers voted, and the winner is The Snowy Day: Haley Nahman sorted 350-plus reader comments into a spreadsheet of 220 children's books, and Ezra Jack Keats's 1962 classic took 18 recommendations, more than any other book. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Haley Nahman",
+                  "url": "https://haleynahman.substack.com/p/the-best-childrens-books-according",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Marlowe Granados wants to bring back bitchy glamour, the old-Hollywood kind, and she makes the case with Illeana Douglas's new book Jungle Red!, about the making of The Women (1939), a film where women complain about men without a single man ever appearing onscreen. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Marlowe Granados",
+                  "url": "https://marlowegranados.substack.com/p/bring-back-bitchy-glamour",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Some \"ghostly\" galaxies have lost their dark matter, and astronomers are trying to figure out why. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "WIRED",
+                  "url": "https://www.wired.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Oobah Butler, the man who can sell you anything, talked to WIRED about his new HBO show. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "WIRED",
+                  "url": "https://www.wired.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            }
+          ],
+          "links": [
+            {
+              "title": "WIRED",
+              "url": "https://www.wired.com/"
+            },
+            {
+              "title": "$71.5 billion",
+              "url": "https://www.wsj.com/business/deals/railroad-ceos-loose-lips-threaten-to-torpedo-his-72-billion-megadeal-30162207"
+            },
+            {
+              "title": "Conor Sen",
+              "url": "https://conorsen.substack.com/p/why-markets-care-more-about-2029"
+            },
+            {
+              "title": "Derek Thompson",
+              "url": "https://www.derekthompson.org/p/did-jensen-huang-just-pop-the-ai"
+            },
+            {
+              "title": "Kelsey Piper",
+              "url": "https://www.theargumentmag.com/p/what-happens-if-we-build-it-and-nobody"
+            },
+            {
+              "title": "Snacks",
+              "url": "https://thewaltdisneycompany.com/press-releases/the-walt-disney-company-reports-fourth-quarter-and-full-year-earnings-for-fiscal-2025/"
+            },
+            {
+              "title": "Snacks",
+              "url": "https://variety.com/2026/film/global/robert-pattinson-new-james-bond-007-1236946655/"
+            },
+            {
+              "title": "Pirate Wires",
+              "url": "https://piratewires.com/"
+            },
+            {
+              "title": "Numlock",
+              "url": "https://www.numlock.com/p/numlock-news-november-16-2026-voyager"
+            },
+            {
+              "title": "Haley Nahman",
+              "url": "https://haleynahman.substack.com/p/the-best-childrens-books-according"
+            },
+            {
+              "title": "Marlowe Granados",
+              "url": "https://marlowegranados.substack.com/p/bring-back-bitchy-glamour"
+            }
+          ]
+        },
+        "full": {
+          "body": "Tuesday, November 17, 2026 - Morning Edition\n\nToday's Numbers\n\n• 400: US data centers that now use more electricity than the entire state of Michigan, according to new Harvard research, and the count leaves out facilities running off-grid gas plants, so the real footprint is bigger.\n\n• $71.5 billion: the Union Pacific and Norfolk Southern merger now wobbling after a recording caught the Union Pacific CEO saying he would jack up prices on customers who opposed the deal, which is exactly the kind of thing regulators do not love to hear.\n\n• 70%: the chance prediction markets now give Democrats of winning the presidency in 2028, up from 60 percent two weeks ago, with Kalshi pricing 58 Democratic Senate seats.\n\n• 18 million: works of fan fiction hosted by Archive of Our Own, which is back online after a weeks-long shutdown, with some limitations, to the relief of a very online corner of the internet.\n\nQuotes of the Day\n\n• \"As of December 31st, it's a surreal thing to say, it's a sad thing to say out loud, but I will not be on 'Morning Joe.'\" (Willie Geist, announcing his departure from Morning Joe after two decades)\n\n• \"Modernizing America's air traffic control system is a little like performing open-heart surgery on a patient while he's running a marathon, except the patient is 70 years old, the equipment dates to the Carter administration, and Congress has spent decades arguing over who should pay for the operation.\" (Counterpoint, on Friday's four-hour nationwide ground stop)\n\n• \"There's no problem in the housing market that lower mortgage rates can't fix.\" (Conor Sen, on why housing looks forward to 2029)\n\nAI & The Machines\n\nDid Jensen Huang just pop the AI bubble? Derek Thompson says the honest answer is maybe, and the date of death might be November 2026. The case against a bubble is strong: the S&P 500 is up about 135 percent since the end of 2019 while earnings rose about 125 percent, Nvidia trades at less than 13 times earnings, and H100 rental prices are up more than 50 percent since last December, which is what excess demand looks like, not excess supply. The case for a pop is four shocks landing at once: Huang's resignation, rising borrowing costs slowing the data center buildout, slowing revenue growth at the frontier labs, and the 2026 election empowering anti-AI politicians. As Paul Kedrosky notes, the chip business runs on very long design cycles, so years of Nvidia product are already in the works no matter who sits in the CEO chair. (Derek Thompson)\n\nThe happiest version of superintelligence might still be a bad deal. Kelsey Piper sets aside the doom scenarios and asks what happens if we actually build a benign superintelligence, and finds even the sunny endings thin. The dominant optimistic vision is \"handover,\" where humanity cedes control of its future to a godlike AI and lives as comfortably maintained inhabitants of a civilization it no longer steers, a future some, like Scott Alexander, actively defend. Piper's alternatives are exit (a Shire-like pastoral breakaway), integration (uploading yourself and merging with the machines), or pluralism, where humans stay in charge and pick which technologies serve them, Amish-style, a habit her friends have already started with rules like no recording casual conversations and no algorithmic feeds. (Kelsey Piper)\n\nNvidia is cheap because nobody believes its 2028 earnings. That is Conor Sen's read on the chipmaker trading at less than 8 times Wall Street's calendar 2028 earnings estimates, a discount that says investors expect a compute glut, not a shortage. A wave of new capacity comes online in 2027, export politics are turning against shipping high-powered tech to Asia, and money is getting tighter for AI companies. Unless big new compute-hungry uses show up in 2027, the pricing power AI companies have enjoyed starts to crack. (Conor Sen)\n\nMoney & Power\n\nDisney is building a navy, and cruises are the reason. Disney reports earnings today, but the real story is the water: two new ships bring the fleet to 8, with 5 more on order by 2031, and the Experiences segment was 37 percent of revenue last year but a full 60 percent of profit. A cruise ship is a floating theme park Disney can sail anywhere, which dodges the constraints of land parks (Shanghai took decades of negotiation and a five-year build, and the Chinese state owns 57 percent of it, while even Florida squeezed Disney after the DeSantis fight). Ships let Disney follow demand, surge-price like an amusement park, and operate with near-sovereignty in international waters. (Snacks)\n\nYour bank's outage might be Chase's fault. Hundreds of reports of US bank outages piled up, and JPMorganChase says a technical \"issue\" with its \"on-premise hardware systems\" may be slowing transactions at outside banks. One bank's plumbing can ripple across the whole system, which means the outage hitting your bank may have nothing to do with your bank at all. (WIRED)\n\nTesla's Cybercab is a subscription, not a car. Tesla has invited some buyers to reserve a personal robotaxi, but the arrangement looks less like owning a car and more like signing up for a service, with big questions about what car ownership even means when the vehicle answers to the company that built it. (WIRED)\n\nThe Culture\n\nRobert Pattinson is the new James Bond. Amazon's MGM and director Denis Villeneuve tapped the 40-year-old to pick up the Walther PPK, and Snacks makes the case from his resume: he survived the chaos of Twilight fandom, played an international man of mystery in Tenet, and has spent a career risking life and limb for the British aristocracy, from Harry Potter to Mickey 17. (Snacks)\n\nSpaceX caught a rocket with chopsticks, and a critic says money did it. On Saturday, the giant Mechazilla arms caught the Starship booster after 22 hours in orbit and more than two dozen Starlink satellites deployed. Antitrust writer Matt Stoller called the feat the \"normal consequence\" of having boatloads of capital, a take Pirate Wires mocks by pointing out that throwing money at problems does not automatically solve them, as California's homeless population and high-speed rail show. (Pirate Wires)\n\nQuick Hits & Curiosities\n\n• Voyager 1 is about to sit one light-day from Earth, which means a radio signal will take a full 24 hours to reach it. (Numlock)\n\n• Mamdani announced he is disbanding the NYPD's Strategic Response Group, the unit that handles counter-terrorism and protest management, and replacing part of it with a civilian Community Dialogue and De-escalation Division. (Pirate Wires)\n\n• Readers voted, and the winner is The Snowy Day: Haley Nahman sorted 350-plus reader comments into a spreadsheet of 220 children's books, and Ezra Jack Keats's 1962 classic took 18 recommendations, more than any other book. (Haley Nahman)\n\n• Marlowe Granados wants to bring back bitchy glamour, the old-Hollywood kind, and she makes the case with Illeana Douglas's new book Jungle Red!, about the making of The Women (1939), a film where women complain about men without a single man ever appearing onscreen. (Marlowe Granados)\n\n• Some \"ghostly\" galaxies have lost their dark matter, and astronomers are trying to figure out why. (WIRED)\n\n• Oobah Butler, the man who can sell you anything, talked to WIRED about his new HBO show. (WIRED)",
+          "blocks": [
+            {
+              "type": "heading_1",
+              "runs": [
+                {
+                  "text": "Tuesday, November 17, 2026 - Morning Edition",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Today's Numbers",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "400",
+                  "url": "https://www.wired.com/",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": US data centers that now use more electricity than the entire state of Michigan, according to new Harvard research, and the count leaves out facilities running off-grid gas plants, so the real footprint is bigger.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "$71.5 billion",
+                  "url": "https://www.wsj.com/business/deals/railroad-ceos-loose-lips-threaten-to-torpedo-his-72-billion-megadeal-30162207",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": the Union Pacific and Norfolk Southern merger now wobbling after a recording caught the Union Pacific CEO saying he would jack up prices on customers who opposed the deal, which is exactly the kind of thing regulators do not love to hear.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "70%",
+                  "url": "https://conorsen.substack.com/p/why-markets-care-more-about-2029",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": the chance prediction markets now give Democrats of winning the presidency in 2028, up from 60 percent two weeks ago, with Kalshi pricing 58 Democratic Senate seats.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "18 million",
+                  "url": "https://www.wired.com/",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": works of fan fiction hosted by Archive of Our Own, which is back online after a weeks-long shutdown, with some limitations, to the relief of a very online corner of the internet.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Quotes of the Day",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "\"As of December 31st, it's a surreal thing to say, it's a sad thing to say out loud, but I will not be on 'Morning Joe.'\" (Willie Geist, announcing his departure from Morning Joe after two decades)",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "\"Modernizing America's air traffic control system is a little like performing open-heart surgery on a patient while he's running a marathon, except the patient is 70 years old, the equipment dates to the Carter administration, and Congress has spent decades arguing over who should pay for the operation.\" (Counterpoint, on Friday's four-hour nationwide ground stop)",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "\"There's no problem in the housing market that lower mortgage rates can't fix.\" (Conor Sen, on why housing looks forward to 2029)",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "AI & The Machines",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Did Jensen Huang just pop the AI bubble? Derek Thompson says the honest answer is maybe, and the date of death might be November 2026.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " The case against a bubble is strong: the S&P 500 is up about 135 percent since the end of 2019 while earnings rose about 125 percent, Nvidia trades at less than 13 times earnings, and H100 rental prices are up more than 50 percent since last December, which is what excess demand looks like, not excess supply. The case for a pop is four shocks landing at once: Huang's resignation, rising borrowing costs slowing the data center buildout, slowing revenue growth at the frontier labs, and the 2026 election empowering anti-AI politicians. As Paul Kedrosky notes, the chip business runs on very long design cycles, so years of Nvidia product are already in the works no matter who sits in the CEO chair. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Derek Thompson",
+                  "url": "https://www.derekthompson.org/p/did-jensen-huang-just-pop-the-ai",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "The happiest version of superintelligence might still be a bad deal.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " Kelsey Piper sets aside the doom scenarios and asks what happens if we actually build a benign superintelligence, and finds even the sunny endings thin. The dominant optimistic vision is \"handover,\" where humanity cedes control of its future to a godlike AI and lives as comfortably maintained inhabitants of a civilization it no longer steers, a future some, like Scott Alexander, actively defend. Piper's alternatives are exit (a Shire-like pastoral breakaway), integration (uploading yourself and merging with the machines), or pluralism, where humans stay in charge and pick which technologies serve them, Amish-style, a habit her friends have already started with rules like no recording casual conversations and no algorithmic feeds. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Kelsey Piper",
+                  "url": "https://www.theargumentmag.com/p/what-happens-if-we-build-it-and-nobody",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Nvidia is cheap because nobody believes its 2028 earnings.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " That is Conor Sen's read on the chipmaker trading at less than 8 times Wall Street's calendar 2028 earnings estimates, a discount that says investors expect a compute glut, not a shortage. A wave of new capacity comes online in 2027, export politics are turning against shipping high-powered tech to Asia, and money is getting tighter for AI companies. Unless big new compute-hungry uses show up in 2027, the pricing power AI companies have enjoyed starts to crack. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Conor Sen",
+                  "url": "https://conorsen.substack.com/p/why-markets-care-more-about-2029",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Money & Power",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Disney is building a navy, and cruises are the reason.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " Disney reports earnings today, but the real story is the water: two new ships bring the fleet to 8, with 5 more on order by 2031, and the Experiences segment was 37 percent of revenue last year but a full 60 percent of profit. A cruise ship is a floating theme park Disney can sail anywhere, which dodges the constraints of land parks (Shanghai took decades of negotiation and a five-year build, and the Chinese state owns 57 percent of it, while even Florida squeezed Disney after the DeSantis fight). Ships let Disney follow demand, surge-price like an amusement park, and operate with near-sovereignty in international waters. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Snacks",
+                  "url": "https://thewaltdisneycompany.com/press-releases/the-walt-disney-company-reports-fourth-quarter-and-full-year-earnings-for-fiscal-2025/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Your bank's outage might be Chase's fault.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " Hundreds of reports of US bank outages piled up, and JPMorganChase says a technical \"issue\" with its \"on-premise hardware systems\" may be slowing transactions at outside banks. One bank's plumbing can ripple across the whole system, which means the outage hitting your bank may have nothing to do with your bank at all. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "WIRED",
+                  "url": "https://www.wired.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Tesla's Cybercab is a subscription, not a car.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " Tesla has invited some buyers to reserve a personal robotaxi, but the arrangement looks less like owning a car and more like signing up for a service, with big questions about what car ownership even means when the vehicle answers to the company that built it. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "WIRED",
+                  "url": "https://www.wired.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "The Culture",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Robert Pattinson is the new James Bond.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " Amazon's MGM and director Denis Villeneuve tapped the 40-year-old to pick up the Walther PPK, and Snacks makes the case from his resume: he survived the chaos of Twilight fandom, played an international man of mystery in Tenet, and has spent a career risking life and limb for the British aristocracy, from Harry Potter to Mickey 17. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Snacks",
+                  "url": "https://variety.com/2026/film/global/robert-pattinson-new-james-bond-007-1236946655/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "SpaceX caught a rocket with chopsticks, and a critic says money did it.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " On Saturday, the giant Mechazilla arms caught the Starship booster after 22 hours in orbit and more than two dozen Starlink satellites deployed. Antitrust writer Matt Stoller called the feat the \"normal consequence\" of having boatloads of capital, a take Pirate Wires mocks by pointing out that throwing money at problems does not automatically solve them, as California's homeless population and high-speed rail show. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Pirate Wires",
+                  "url": "https://piratewires.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Quick Hits & Curiosities",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Voyager 1 is about to sit one light-day from Earth, which means a radio signal will take a full 24 hours to reach it. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Numlock",
+                  "url": "https://www.numlock.com/p/numlock-news-november-16-2026-voyager",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Mamdani announced he is disbanding the NYPD's Strategic Response Group, the unit that handles counter-terrorism and protest management, and replacing part of it with a civilian Community Dialogue and De-escalation Division. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Pirate Wires",
+                  "url": "https://piratewires.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Readers voted, and the winner is The Snowy Day: Haley Nahman sorted 350-plus reader comments into a spreadsheet of 220 children's books, and Ezra Jack Keats's 1962 classic took 18 recommendations, more than any other book. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Haley Nahman",
+                  "url": "https://haleynahman.substack.com/p/the-best-childrens-books-according",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Marlowe Granados wants to bring back bitchy glamour, the old-Hollywood kind, and she makes the case with Illeana Douglas's new book Jungle Red!, about the making of The Women (1939), a film where women complain about men without a single man ever appearing onscreen. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Marlowe Granados",
+                  "url": "https://marlowegranados.substack.com/p/bring-back-bitchy-glamour",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Some \"ghostly\" galaxies have lost their dark matter, and astronomers are trying to figure out why. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "WIRED",
+                  "url": "https://www.wired.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Oobah Butler, the man who can sell you anything, talked to WIRED about his new HBO show. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "WIRED",
+                  "url": "https://www.wired.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            }
+          ],
+          "links": [
+            {
+              "title": "WIRED",
+              "url": "https://www.wired.com/"
+            },
+            {
+              "title": "$71.5 billion",
+              "url": "https://www.wsj.com/business/deals/railroad-ceos-loose-lips-threaten-to-torpedo-his-72-billion-megadeal-30162207"
+            },
+            {
+              "title": "Conor Sen",
+              "url": "https://conorsen.substack.com/p/why-markets-care-more-about-2029"
+            },
+            {
+              "title": "Derek Thompson",
+              "url": "https://www.derekthompson.org/p/did-jensen-huang-just-pop-the-ai"
+            },
+            {
+              "title": "Kelsey Piper",
+              "url": "https://www.theargumentmag.com/p/what-happens-if-we-build-it-and-nobody"
+            },
+            {
+              "title": "Snacks",
+              "url": "https://thewaltdisneycompany.com/press-releases/the-walt-disney-company-reports-fourth-quarter-and-full-year-earnings-for-fiscal-2025/"
+            },
+            {
+              "title": "Snacks",
+              "url": "https://variety.com/2026/film/global/robert-pattinson-new-james-bond-007-1236946655/"
+            },
+            {
+              "title": "Pirate Wires",
+              "url": "https://piratewires.com/"
+            },
+            {
+              "title": "Numlock",
+              "url": "https://www.numlock.com/p/numlock-news-november-16-2026-voyager"
+            },
+            {
+              "title": "Haley Nahman",
+              "url": "https://haleynahman.substack.com/p/the-best-childrens-books-according"
+            },
+            {
+              "title": "Marlowe Granados",
+              "url": "https://marlowegranados.substack.com/p/bring-back-bitchy-glamour"
+            }
+          ]
+        }
+      }
     }
   ]
 }
