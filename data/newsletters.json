@@ -298579,6 +298579,1823 @@
           "url": "https://wantmymtv.org/"
         }
       ]
+    },
+    {
+      "id": "digest-41c8153c-8a3e-8165-8c62-f3418637f94c",
+      "channel": "newsletters",
+      "source": "notion",
+      "kind": "Agent-written digest",
+      "domain": "Daily newsletter digest",
+      "title": "Nvidia's China chip scandal, the AI podcast firm that hired humans, Gen Z's AI friendships - Wednesday, November 18, 2026",
+      "url": "",
+      "description": "Wednesday, November 18, 2026 - Morning Edition",
+      "body": "Wednesday, November 18, 2026 - Morning Edition\n\nToday's Numbers\n\n• 87%: the odds markets give Grand Theft Auto VI of winning Game of the Year, even though the game does not come out until tomorrow. Resident Evil Requiem trails at 6%.\n\n• More than a third: the share of Gen Z who rely on AI for friendship, according to a new Gallup report. Young people with online-only friends or AI companions report higher odds of loneliness than those without them.\n\n• $500,000: what Anthropic and OpenAI employees are spending on elite matchmakers, according to Pirate Wires, as IPO season turns San Francisco dating into a cottage industry for the newly rich.\n\n• 15 million: leaked Deutsche Bank documents behind a four-part Financial Times series, which also details the bank accidentally leaking President Trump's tax returns.\n\nQuotes of the Day\n\n• \"honored\" to return as CEO (Jensen Huang, former Nvidia chief, in a post on X after scrubbing the title from his bio)\n\n• \"Accelerate, yes, but also: Retvrn.\" (Pirate Wires, on the wave of outages hitting the NSA, JPMorgan, Zoom, and Salesforce)\n\nAI & The Machines\n\nTrump wants the China chip sales to keep flowing. The Nvidia scandal could upend chip sales to China, but Commerce Secretary Howard Lutnick is under attack for not blacklisting a company caught up in the Jensen Huang saga, and Trump is on board with keeping the policy going. Nvidia's board has no plans to bring Huang back, and Huang is set to testify before Congress on Dec. 1 alongside Nvidia's general counsel. The fallout keeps the chipmaker at the center of Washington's fight over China. (Business Insider)\n\nThe robots got fired. Startup Inception AI built a podcast empire with no humans: 15,000 AI-generated shows, more than 50 AI personalities, 3,000 episodes a week, all for $1 an episode or less. Then it discovered what every listener already knew. Nobody wanted 350,000 episodes of digital chum, so the company pivoted to the radical strategy of hiring human hosts. Audiences liked them way more. (The Hollywood Reporter)\n\nProbably not a cyberattack. Email, flights, and banks keep glitching, and WIRED's Andy Greenberg and Lily Hay Newman explain how investigators tell a real attack from a plain old outage. The short version is that it is usually not hackers, even when the failures pile up on the same week. Useful to keep in your pocket the next time your apps all die at once and the group chat starts theorizing. (WIRED)\n\nMoney & Power\n\nAmerica's wallet gets a vibe check. October retail sales slowed as big ticket purchases like cars and furniture slipped, according to the Commerce Department. Home Depot beat expectations but narrowed its profit guidance, with high mortgage rates squeezing the home improvement crowd. Target and TJX report today, Walmart reports Thursday, and the University of Michigan's consumer sentiment reading lands Friday after hovering near historic lows all year. After this week, investors will know whether shoppers are pulling back or just getting pickier. (CNBC)\n\nNo, the midterms did not validate economic populism. That is Jerusalem Demsas's argument in The Argument, and her evidence is a year of monthly voter surveys. Cost of living was the top issue every single month, and it was not close. Voters want a burger and fries at a diner to cost $10, and pundits keep dressing that up as a mandate for price caps, $20 minimum wages, and a war on corporate power. The surveys say otherwise. In May, 63% of Americans viewed Amazon favorably, and majorities liked Google and Microsoft too. Voters are mad about prices, not about free enterprise. (The Argument)\n\nThe Culture\n\nTomorrow is Grandthropic o'clock. Anthropic goes public tomorrow, and so does Grand Theft Auto VI, which Pirate Wires notes is a much anticipated video game threatening to tank the already anemic birth rate. The IPO prospectus for the AI lab reportedly said it was \"maybe\" gonna end humanity, which makes for a strange pairing with the biggest game launch in history on the same day. Stock up on food, water, and weapons, or at least on snacks, and survive until Thursday. (Pirate Wires)\n\n\"The predators are real.\" That was the message at a Senate hearing slamming Roblox over child sex abuse on the massive gaming platform. Senators Josh Hawley and Dick Durbin have introduced legislation to make it easier for families to sue if their child has been harmed through Roblox. The hearing put the platform's safety record in front of Congress in the bluntest terms yet. (WIRED)\n\nQuick Hits & Curiosities\n\n• Voyager 1 is still working a light-day away from Earth, beating the odds decades after launch. (WIRED)\n\n• Waymo suspended freeway rides nationwide after a California DMV order. (TechCrunch)\n\n• The FAA paused installation of new routers after a ground stop. (CNBC)\n\n• Alaska residents reportedly spotted a jellyfish-shaped UFO near a rainbow, and a viral video from Mexico purported to show a pterodactyl flying over a neighborhood. Online fact-checkers say the dino video was edited with AI, but Pirate Wires is not so sure. (Pirate Wires)\n\n• ABC News wrapped its internal probe into the botched Donald Trump Jr. story, and Status reports there were serious consequences. The network had published without even contacting Trump Jr.'s firm, 1789 Capital, for comment. (Status)\n\n• Stan Druckenmiller told the TomorrowX Summit he has sold out or sold short the AI and copper positions he held earlier this year. Classic Druckenmiller: self-deprecating, introspective, and already on to the next trade. (Fireside Alpha)\n\n• Plum Sykes is obsessed with a bag that acts like a private member's club: square-shaped, calfskin leather, suede lining, one geometric brass clasp, and no logo anywhere. In a world of monogram soup, anonymity is the new status symbol. (P.S. by Plum Sykes)",
+      "blocks": [
+        {
+          "type": "heading_1",
+          "runs": [
+            {
+              "text": "Wednesday, November 18, 2026 - Morning Edition",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Today's Numbers",
+              "url": "",
+              "bold": true,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "87%",
+              "url": "https://applink.robinhood.com/event_contracts?id=c60d7102-4b3b-4035-94d4-acaeba5ac605",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": ": the odds markets give Grand Theft Auto VI of winning Game of the Year, even though the game does not come out until tomorrow. Resident Evil Requiem trails at 6%.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "More than a third",
+              "url": "https://www.wired.com/story/over-a-third-of-gen-z-rely-on-ai-for-friendship/",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": ": the share of Gen Z who rely on AI for friendship, according to a new Gallup report. Young people with online-only friends or AI companions report higher odds of loneliness than those without them.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "$500,000",
+              "url": "https://www.piratewires.com/",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": ": what Anthropic and OpenAI employees are spending on elite matchmakers, according to Pirate Wires, as IPO season turns San Francisco dating into a cottage industry for the newly rich.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "15 million",
+              "url": "https://www.ft.com/content/df518845-ed97-4a38-8a38-7fa9d4d24003",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": ": leaked Deutsche Bank documents behind a four-part Financial Times series, which also details the bank accidentally leaking President Trump's tax returns.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Quotes of the Day",
+              "url": "",
+              "bold": true,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "\"honored\" to return as CEO (Jensen Huang, former Nvidia chief, in a post on X after scrubbing the title from his bio)",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "\"Accelerate, yes, but also: Retvrn.\" (Pirate Wires, on the wave of outages hitting the NSA, JPMorgan, Zoom, and Salesforce)",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "AI & The Machines",
+              "url": "",
+              "bold": true,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Trump wants the China chip sales to keep flowing.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " The Nvidia scandal could upend chip sales to China, but Commerce Secretary Howard Lutnick is under attack for not blacklisting a company caught up in the Jensen Huang saga, and Trump is on board with keeping the policy going. Nvidia's board has no plans to bring Huang back, and Huang is set to testify before Congress on Dec. 1 alongside Nvidia's general counsel. The fallout keeps the chipmaker at the center of Washington's fight over China. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Business Insider",
+              "url": "https://www.businessinsider.com/nvidia-earnings-jensen-huang-departure-nvda-stock-2026-11",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "The robots got fired.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " Startup Inception AI built a podcast empire with no humans: 15,000 AI-generated shows, more than 50 AI personalities, 3,000 episodes a week, all for $1 an episode or less. Then it discovered what every listener already knew. Nobody wanted 350,000 episodes of digital chum, so the company pivoted to the radical strategy of hiring human hosts. Audiences liked them way more. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "The Hollywood Reporter",
+              "url": "https://www.hollywoodreporter.com/business/digital/the-5000-episodes-a-week-ai-podcast-company-pivot-1236754759/",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Probably not a cyberattack.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " Email, flights, and banks keep glitching, and WIRED's Andy Greenberg and Lily Hay Newman explain how investigators tell a real attack from a plain old outage. The short version is that it is usually not hackers, even when the failures pile up on the same week. Useful to keep in your pocket the next time your apps all die at once and the group chat starts theorizing. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "WIRED",
+              "url": "https://www.wired.com/story/how-to-tell-if-its-a-cyberattack-or-just-an-outage/",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Money & Power",
+              "url": "",
+              "bold": true,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "America's wallet gets a vibe check.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " October retail sales slowed as big ticket purchases like cars and furniture slipped, according to the Commerce Department. Home Depot beat expectations but narrowed its profit guidance, with high mortgage rates squeezing the home improvement crowd. Target and TJX report today, Walmart reports Thursday, and the University of Michigan's consumer sentiment reading lands Friday after hovering near historic lows all year. After this week, investors will know whether shoppers are pulling back or just getting pickier. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "CNBC",
+              "url": "https://www.cnbc.com/2026/11/17/home-depot-hd-q3-earnings-2026.html",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "No, the midterms did not validate economic populism.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " That is Jerusalem Demsas's argument in The Argument, and her evidence is a year of monthly voter surveys. Cost of living was the top issue every single month, and it was not close. Voters want a burger and fries at a diner to cost $10, and pundits keep dressing that up as a mandate for price caps, $20 minimum wages, and a war on corporate power. The surveys say otherwise. In May, 63% of Americans viewed Amazon favorably, and majorities liked Google and Microsoft too. Voters are mad about prices, not about free enterprise. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "The Argument",
+              "url": "https://www.theargumentmag.com/p/how-to-misread-a-blue-wave",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "The Culture",
+              "url": "",
+              "bold": true,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Tomorrow is Grandthropic o'clock.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " Anthropic goes public tomorrow, and so does Grand Theft Auto VI, which Pirate Wires notes is a much anticipated video game threatening to tank the already anemic birth rate. The IPO prospectus for the AI lab reportedly said it was \"maybe\" gonna end humanity, which makes for a strange pairing with the biggest game launch in history on the same day. Stock up on food, water, and weapons, or at least on snacks, and survive until Thursday. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Pirate Wires",
+              "url": "https://www.piratewires.com/",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "\"The predators are real.\"",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " That was the message at a Senate hearing slamming Roblox over child sex abuse on the massive gaming platform. Senators Josh Hawley and Dick Durbin have introduced legislation to make it easier for families to sue if their child has been harmed through Roblox. The hearing put the platform's safety record in front of Congress in the bluntest terms yet. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "WIRED",
+              "url": "https://www.wired.com/",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Quick Hits & Curiosities",
+              "url": "",
+              "bold": true,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Voyager 1 is still working a light-day away from Earth, beating the odds decades after launch. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "WIRED",
+              "url": "https://www.wired.com/story/voyager-1-beat-still-working-light-day-away/",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Waymo suspended freeway rides nationwide after a California DMV order. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "TechCrunch",
+              "url": "https://techcrunch.com/2026/11/17/waymo-suspends-freeway-rides-nationwide-after-california-dmv-order/",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "The FAA paused installation of new routers after a ground stop. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "CNBC",
+              "url": "https://www.cnbc.com/2026/11/17/faa-ground-stop-routers.html",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Alaska residents reportedly spotted a jellyfish-shaped UFO near a rainbow, and a viral video from Mexico purported to show a pterodactyl flying over a neighborhood. Online fact-checkers say the dino video was edited with AI, but Pirate Wires is not so sure. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Pirate Wires",
+              "url": "https://www.piratewires.com/",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "ABC News wrapped its internal probe into the botched Donald Trump Jr. story, and Status reports there were serious consequences. The network had published without even contacting Trump Jr.'s firm, 1789 Capital, for comment. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Status",
+              "url": "https://www.status.news/",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Stan Druckenmiller told the TomorrowX Summit he has sold out or sold short the AI and copper positions he held earlier this year. Classic Druckenmiller: self-deprecating, introspective, and already on to the next trade. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Fireside Alpha",
+              "url": "https://firesidealpha.substack.com/p/fireside-chat-stan-druckenmiller",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Plum Sykes is obsessed with a bag that acts like a private member's club: square-shaped, calfskin leather, suede lining, one geometric brass clasp, and no logo anywhere. In a world of monogram soup, anonymity is the new status symbol. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "P.S. by Plum Sykes",
+              "url": "https://plumsykes.substack.com/p/the-purse-thats-a-private-members",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        }
+      ],
+      "publishedAt": "2026-11-18T13:13:00Z",
+      "links": [
+        {
+          "title": "87%",
+          "url": "https://applink.robinhood.com/event_contracts?id=c60d7102-4b3b-4035-94d4-acaeba5ac605"
+        },
+        {
+          "title": "More than a third",
+          "url": "https://www.wired.com/story/over-a-third-of-gen-z-rely-on-ai-for-friendship/"
+        },
+        {
+          "title": "Pirate Wires",
+          "url": "https://www.piratewires.com/"
+        },
+        {
+          "title": "15 million",
+          "url": "https://www.ft.com/content/df518845-ed97-4a38-8a38-7fa9d4d24003"
+        },
+        {
+          "title": "Business Insider",
+          "url": "https://www.businessinsider.com/nvidia-earnings-jensen-huang-departure-nvda-stock-2026-11"
+        },
+        {
+          "title": "The Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/business/digital/the-5000-episodes-a-week-ai-podcast-company-pivot-1236754759/"
+        },
+        {
+          "title": "WIRED",
+          "url": "https://www.wired.com/story/how-to-tell-if-its-a-cyberattack-or-just-an-outage/"
+        },
+        {
+          "title": "CNBC",
+          "url": "https://www.cnbc.com/2026/11/17/home-depot-hd-q3-earnings-2026.html"
+        },
+        {
+          "title": "The Argument",
+          "url": "https://www.theargumentmag.com/p/how-to-misread-a-blue-wave"
+        },
+        {
+          "title": "WIRED",
+          "url": "https://www.wired.com/"
+        },
+        {
+          "title": "WIRED",
+          "url": "https://www.wired.com/story/voyager-1-beat-still-working-light-day-away/"
+        },
+        {
+          "title": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/17/waymo-suspends-freeway-rides-nationwide-after-california-dmv-order/"
+        },
+        {
+          "title": "CNBC",
+          "url": "https://www.cnbc.com/2026/11/17/faa-ground-stop-routers.html"
+        },
+        {
+          "title": "Status",
+          "url": "https://www.status.news/"
+        },
+        {
+          "title": "Fireside Alpha",
+          "url": "https://firesidealpha.substack.com/p/fireside-chat-stan-druckenmiller"
+        },
+        {
+          "title": "P.S. by Plum Sykes",
+          "url": "https://plumsykes.substack.com/p/the-purse-thats-a-private-members"
+        }
+      ],
+      "versions": {
+        "morning": {
+          "body": "Wednesday, November 18, 2026 - Morning Edition\n\nToday's Numbers\n\n• 87%: the odds markets give Grand Theft Auto VI of winning Game of the Year, even though the game does not come out until tomorrow. Resident Evil Requiem trails at 6%.\n\n• More than a third: the share of Gen Z who rely on AI for friendship, according to a new Gallup report. Young people with online-only friends or AI companions report higher odds of loneliness than those without them.\n\n• $500,000: what Anthropic and OpenAI employees are spending on elite matchmakers, according to Pirate Wires, as IPO season turns San Francisco dating into a cottage industry for the newly rich.\n\n• 15 million: leaked Deutsche Bank documents behind a four-part Financial Times series, which also details the bank accidentally leaking President Trump's tax returns.\n\nQuotes of the Day\n\n• \"honored\" to return as CEO (Jensen Huang, former Nvidia chief, in a post on X after scrubbing the title from his bio)\n\n• \"Accelerate, yes, but also: Retvrn.\" (Pirate Wires, on the wave of outages hitting the NSA, JPMorgan, Zoom, and Salesforce)\n\nAI & The Machines\n\nTrump wants the China chip sales to keep flowing. The Nvidia scandal could upend chip sales to China, but Commerce Secretary Howard Lutnick is under attack for not blacklisting a company caught up in the Jensen Huang saga, and Trump is on board with keeping the policy going. Nvidia's board has no plans to bring Huang back, and Huang is set to testify before Congress on Dec. 1 alongside Nvidia's general counsel. The fallout keeps the chipmaker at the center of Washington's fight over China. (Business Insider)\n\nThe robots got fired. Startup Inception AI built a podcast empire with no humans: 15,000 AI-generated shows, more than 50 AI personalities, 3,000 episodes a week, all for $1 an episode or less. Then it discovered what every listener already knew. Nobody wanted 350,000 episodes of digital chum, so the company pivoted to the radical strategy of hiring human hosts. Audiences liked them way more. (The Hollywood Reporter)\n\nProbably not a cyberattack. Email, flights, and banks keep glitching, and WIRED's Andy Greenberg and Lily Hay Newman explain how investigators tell a real attack from a plain old outage. The short version is that it is usually not hackers, even when the failures pile up on the same week. Useful to keep in your pocket the next time your apps all die at once and the group chat starts theorizing. (WIRED)\n\nMoney & Power\n\nAmerica's wallet gets a vibe check. October retail sales slowed as big ticket purchases like cars and furniture slipped, according to the Commerce Department. Home Depot beat expectations but narrowed its profit guidance, with high mortgage rates squeezing the home improvement crowd. Target and TJX report today, Walmart reports Thursday, and the University of Michigan's consumer sentiment reading lands Friday after hovering near historic lows all year. After this week, investors will know whether shoppers are pulling back or just getting pickier. (CNBC)\n\nNo, the midterms did not validate economic populism. That is Jerusalem Demsas's argument in The Argument, and her evidence is a year of monthly voter surveys. Cost of living was the top issue every single month, and it was not close. Voters want a burger and fries at a diner to cost $10, and pundits keep dressing that up as a mandate for price caps, $20 minimum wages, and a war on corporate power. The surveys say otherwise. In May, 63% of Americans viewed Amazon favorably, and majorities liked Google and Microsoft too. Voters are mad about prices, not about free enterprise. (The Argument)\n\nThe Culture\n\nTomorrow is Grandthropic o'clock. Anthropic goes public tomorrow, and so does Grand Theft Auto VI, which Pirate Wires notes is a much anticipated video game threatening to tank the already anemic birth rate. The IPO prospectus for the AI lab reportedly said it was \"maybe\" gonna end humanity, which makes for a strange pairing with the biggest game launch in history on the same day. Stock up on food, water, and weapons, or at least on snacks, and survive until Thursday. (Pirate Wires)\n\n\"The predators are real.\" That was the message at a Senate hearing slamming Roblox over child sex abuse on the massive gaming platform. Senators Josh Hawley and Dick Durbin have introduced legislation to make it easier for families to sue if their child has been harmed through Roblox. The hearing put the platform's safety record in front of Congress in the bluntest terms yet. (WIRED)\n\nQuick Hits & Curiosities\n\n• Voyager 1 is still working a light-day away from Earth, beating the odds decades after launch. (WIRED)\n\n• Waymo suspended freeway rides nationwide after a California DMV order. (TechCrunch)\n\n• The FAA paused installation of new routers after a ground stop. (CNBC)\n\n• Alaska residents reportedly spotted a jellyfish-shaped UFO near a rainbow, and a viral video from Mexico purported to show a pterodactyl flying over a neighborhood. Online fact-checkers say the dino video was edited with AI, but Pirate Wires is not so sure. (Pirate Wires)\n\n• ABC News wrapped its internal probe into the botched Donald Trump Jr. story, and Status reports there were serious consequences. The network had published without even contacting Trump Jr.'s firm, 1789 Capital, for comment. (Status)\n\n• Stan Druckenmiller told the TomorrowX Summit he has sold out or sold short the AI and copper positions he held earlier this year. Classic Druckenmiller: self-deprecating, introspective, and already on to the next trade. (Fireside Alpha)\n\n• Plum Sykes is obsessed with a bag that acts like a private member's club: square-shaped, calfskin leather, suede lining, one geometric brass clasp, and no logo anywhere. In a world of monogram soup, anonymity is the new status symbol. (P.S. by Plum Sykes)",
+          "blocks": [
+            {
+              "type": "heading_1",
+              "runs": [
+                {
+                  "text": "Wednesday, November 18, 2026 - Morning Edition",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Today's Numbers",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "87%",
+                  "url": "https://applink.robinhood.com/event_contracts?id=c60d7102-4b3b-4035-94d4-acaeba5ac605",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": the odds markets give Grand Theft Auto VI of winning Game of the Year, even though the game does not come out until tomorrow. Resident Evil Requiem trails at 6%.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "More than a third",
+                  "url": "https://www.wired.com/story/over-a-third-of-gen-z-rely-on-ai-for-friendship/",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": the share of Gen Z who rely on AI for friendship, according to a new Gallup report. Young people with online-only friends or AI companions report higher odds of loneliness than those without them.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "$500,000",
+                  "url": "https://www.piratewires.com/",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": what Anthropic and OpenAI employees are spending on elite matchmakers, according to Pirate Wires, as IPO season turns San Francisco dating into a cottage industry for the newly rich.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "15 million",
+                  "url": "https://www.ft.com/content/df518845-ed97-4a38-8a38-7fa9d4d24003",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": leaked Deutsche Bank documents behind a four-part Financial Times series, which also details the bank accidentally leaking President Trump's tax returns.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Quotes of the Day",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "\"honored\" to return as CEO (Jensen Huang, former Nvidia chief, in a post on X after scrubbing the title from his bio)",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "\"Accelerate, yes, but also: Retvrn.\" (Pirate Wires, on the wave of outages hitting the NSA, JPMorgan, Zoom, and Salesforce)",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "AI & The Machines",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Trump wants the China chip sales to keep flowing.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " The Nvidia scandal could upend chip sales to China, but Commerce Secretary Howard Lutnick is under attack for not blacklisting a company caught up in the Jensen Huang saga, and Trump is on board with keeping the policy going. Nvidia's board has no plans to bring Huang back, and Huang is set to testify before Congress on Dec. 1 alongside Nvidia's general counsel. The fallout keeps the chipmaker at the center of Washington's fight over China. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Business Insider",
+                  "url": "https://www.businessinsider.com/nvidia-earnings-jensen-huang-departure-nvda-stock-2026-11",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "The robots got fired.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " Startup Inception AI built a podcast empire with no humans: 15,000 AI-generated shows, more than 50 AI personalities, 3,000 episodes a week, all for $1 an episode or less. Then it discovered what every listener already knew. Nobody wanted 350,000 episodes of digital chum, so the company pivoted to the radical strategy of hiring human hosts. Audiences liked them way more. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "The Hollywood Reporter",
+                  "url": "https://www.hollywoodreporter.com/business/digital/the-5000-episodes-a-week-ai-podcast-company-pivot-1236754759/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Probably not a cyberattack.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " Email, flights, and banks keep glitching, and WIRED's Andy Greenberg and Lily Hay Newman explain how investigators tell a real attack from a plain old outage. The short version is that it is usually not hackers, even when the failures pile up on the same week. Useful to keep in your pocket the next time your apps all die at once and the group chat starts theorizing. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "WIRED",
+                  "url": "https://www.wired.com/story/how-to-tell-if-its-a-cyberattack-or-just-an-outage/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Money & Power",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "America's wallet gets a vibe check.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " October retail sales slowed as big ticket purchases like cars and furniture slipped, according to the Commerce Department. Home Depot beat expectations but narrowed its profit guidance, with high mortgage rates squeezing the home improvement crowd. Target and TJX report today, Walmart reports Thursday, and the University of Michigan's consumer sentiment reading lands Friday after hovering near historic lows all year. After this week, investors will know whether shoppers are pulling back or just getting pickier. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "CNBC",
+                  "url": "https://www.cnbc.com/2026/11/17/home-depot-hd-q3-earnings-2026.html",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "No, the midterms did not validate economic populism.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " That is Jerusalem Demsas's argument in The Argument, and her evidence is a year of monthly voter surveys. Cost of living was the top issue every single month, and it was not close. Voters want a burger and fries at a diner to cost $10, and pundits keep dressing that up as a mandate for price caps, $20 minimum wages, and a war on corporate power. The surveys say otherwise. In May, 63% of Americans viewed Amazon favorably, and majorities liked Google and Microsoft too. Voters are mad about prices, not about free enterprise. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "The Argument",
+                  "url": "https://www.theargumentmag.com/p/how-to-misread-a-blue-wave",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "The Culture",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Tomorrow is Grandthropic o'clock.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " Anthropic goes public tomorrow, and so does Grand Theft Auto VI, which Pirate Wires notes is a much anticipated video game threatening to tank the already anemic birth rate. The IPO prospectus for the AI lab reportedly said it was \"maybe\" gonna end humanity, which makes for a strange pairing with the biggest game launch in history on the same day. Stock up on food, water, and weapons, or at least on snacks, and survive until Thursday. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Pirate Wires",
+                  "url": "https://www.piratewires.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "\"The predators are real.\"",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " That was the message at a Senate hearing slamming Roblox over child sex abuse on the massive gaming platform. Senators Josh Hawley and Dick Durbin have introduced legislation to make it easier for families to sue if their child has been harmed through Roblox. The hearing put the platform's safety record in front of Congress in the bluntest terms yet. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "WIRED",
+                  "url": "https://www.wired.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Quick Hits & Curiosities",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Voyager 1 is still working a light-day away from Earth, beating the odds decades after launch. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "WIRED",
+                  "url": "https://www.wired.com/story/voyager-1-beat-still-working-light-day-away/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Waymo suspended freeway rides nationwide after a California DMV order. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "TechCrunch",
+                  "url": "https://techcrunch.com/2026/11/17/waymo-suspends-freeway-rides-nationwide-after-california-dmv-order/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "The FAA paused installation of new routers after a ground stop. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "CNBC",
+                  "url": "https://www.cnbc.com/2026/11/17/faa-ground-stop-routers.html",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Alaska residents reportedly spotted a jellyfish-shaped UFO near a rainbow, and a viral video from Mexico purported to show a pterodactyl flying over a neighborhood. Online fact-checkers say the dino video was edited with AI, but Pirate Wires is not so sure. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Pirate Wires",
+                  "url": "https://www.piratewires.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "ABC News wrapped its internal probe into the botched Donald Trump Jr. story, and Status reports there were serious consequences. The network had published without even contacting Trump Jr.'s firm, 1789 Capital, for comment. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Status",
+                  "url": "https://www.status.news/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Stan Druckenmiller told the TomorrowX Summit he has sold out or sold short the AI and copper positions he held earlier this year. Classic Druckenmiller: self-deprecating, introspective, and already on to the next trade. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Fireside Alpha",
+                  "url": "https://firesidealpha.substack.com/p/fireside-chat-stan-druckenmiller",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Plum Sykes is obsessed with a bag that acts like a private member's club: square-shaped, calfskin leather, suede lining, one geometric brass clasp, and no logo anywhere. In a world of monogram soup, anonymity is the new status symbol. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "P.S. by Plum Sykes",
+                  "url": "https://plumsykes.substack.com/p/the-purse-thats-a-private-members",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            }
+          ],
+          "links": [
+            {
+              "title": "87%",
+              "url": "https://applink.robinhood.com/event_contracts?id=c60d7102-4b3b-4035-94d4-acaeba5ac605"
+            },
+            {
+              "title": "More than a third",
+              "url": "https://www.wired.com/story/over-a-third-of-gen-z-rely-on-ai-for-friendship/"
+            },
+            {
+              "title": "Pirate Wires",
+              "url": "https://www.piratewires.com/"
+            },
+            {
+              "title": "15 million",
+              "url": "https://www.ft.com/content/df518845-ed97-4a38-8a38-7fa9d4d24003"
+            },
+            {
+              "title": "Business Insider",
+              "url": "https://www.businessinsider.com/nvidia-earnings-jensen-huang-departure-nvda-stock-2026-11"
+            },
+            {
+              "title": "The Hollywood Reporter",
+              "url": "https://www.hollywoodreporter.com/business/digital/the-5000-episodes-a-week-ai-podcast-company-pivot-1236754759/"
+            },
+            {
+              "title": "WIRED",
+              "url": "https://www.wired.com/story/how-to-tell-if-its-a-cyberattack-or-just-an-outage/"
+            },
+            {
+              "title": "CNBC",
+              "url": "https://www.cnbc.com/2026/11/17/home-depot-hd-q3-earnings-2026.html"
+            },
+            {
+              "title": "The Argument",
+              "url": "https://www.theargumentmag.com/p/how-to-misread-a-blue-wave"
+            },
+            {
+              "title": "WIRED",
+              "url": "https://www.wired.com/"
+            },
+            {
+              "title": "WIRED",
+              "url": "https://www.wired.com/story/voyager-1-beat-still-working-light-day-away/"
+            },
+            {
+              "title": "TechCrunch",
+              "url": "https://techcrunch.com/2026/11/17/waymo-suspends-freeway-rides-nationwide-after-california-dmv-order/"
+            },
+            {
+              "title": "CNBC",
+              "url": "https://www.cnbc.com/2026/11/17/faa-ground-stop-routers.html"
+            },
+            {
+              "title": "Status",
+              "url": "https://www.status.news/"
+            },
+            {
+              "title": "Fireside Alpha",
+              "url": "https://firesidealpha.substack.com/p/fireside-chat-stan-druckenmiller"
+            },
+            {
+              "title": "P.S. by Plum Sykes",
+              "url": "https://plumsykes.substack.com/p/the-purse-thats-a-private-members"
+            }
+          ]
+        },
+        "full": {
+          "body": "Wednesday, November 18, 2026 - Morning Edition\n\nToday's Numbers\n\n• 87%: the odds markets give Grand Theft Auto VI of winning Game of the Year, even though the game does not come out until tomorrow. Resident Evil Requiem trails at 6%.\n\n• More than a third: the share of Gen Z who rely on AI for friendship, according to a new Gallup report. Young people with online-only friends or AI companions report higher odds of loneliness than those without them.\n\n• $500,000: what Anthropic and OpenAI employees are spending on elite matchmakers, according to Pirate Wires, as IPO season turns San Francisco dating into a cottage industry for the newly rich.\n\n• 15 million: leaked Deutsche Bank documents behind a four-part Financial Times series, which also details the bank accidentally leaking President Trump's tax returns.\n\nQuotes of the Day\n\n• \"honored\" to return as CEO (Jensen Huang, former Nvidia chief, in a post on X after scrubbing the title from his bio)\n\n• \"Accelerate, yes, but also: Retvrn.\" (Pirate Wires, on the wave of outages hitting the NSA, JPMorgan, Zoom, and Salesforce)\n\nAI & The Machines\n\nTrump wants the China chip sales to keep flowing. The Nvidia scandal could upend chip sales to China, but Commerce Secretary Howard Lutnick is under attack for not blacklisting a company caught up in the Jensen Huang saga, and Trump is on board with keeping the policy going. Nvidia's board has no plans to bring Huang back, and Huang is set to testify before Congress on Dec. 1 alongside Nvidia's general counsel. The fallout keeps the chipmaker at the center of Washington's fight over China. (Business Insider)\n\nThe robots got fired. Startup Inception AI built a podcast empire with no humans: 15,000 AI-generated shows, more than 50 AI personalities, 3,000 episodes a week, all for $1 an episode or less. Then it discovered what every listener already knew. Nobody wanted 350,000 episodes of digital chum, so the company pivoted to the radical strategy of hiring human hosts. Audiences liked them way more. (The Hollywood Reporter)\n\nProbably not a cyberattack. Email, flights, and banks keep glitching, and WIRED's Andy Greenberg and Lily Hay Newman explain how investigators tell a real attack from a plain old outage. The short version is that it is usually not hackers, even when the failures pile up on the same week. Useful to keep in your pocket the next time your apps all die at once and the group chat starts theorizing. (WIRED)\n\nMoney & Power\n\nAmerica's wallet gets a vibe check. October retail sales slowed as big ticket purchases like cars and furniture slipped, according to the Commerce Department. Home Depot beat expectations but narrowed its profit guidance, with high mortgage rates squeezing the home improvement crowd. Target and TJX report today, Walmart reports Thursday, and the University of Michigan's consumer sentiment reading lands Friday after hovering near historic lows all year. After this week, investors will know whether shoppers are pulling back or just getting pickier. (CNBC)\n\nNo, the midterms did not validate economic populism. That is Jerusalem Demsas's argument in The Argument, and her evidence is a year of monthly voter surveys. Cost of living was the top issue every single month, and it was not close. Voters want a burger and fries at a diner to cost $10, and pundits keep dressing that up as a mandate for price caps, $20 minimum wages, and a war on corporate power. The surveys say otherwise. In May, 63% of Americans viewed Amazon favorably, and majorities liked Google and Microsoft too. Voters are mad about prices, not about free enterprise. (The Argument)\n\nThe Culture\n\nTomorrow is Grandthropic o'clock. Anthropic goes public tomorrow, and so does Grand Theft Auto VI, which Pirate Wires notes is a much anticipated video game threatening to tank the already anemic birth rate. The IPO prospectus for the AI lab reportedly said it was \"maybe\" gonna end humanity, which makes for a strange pairing with the biggest game launch in history on the same day. Stock up on food, water, and weapons, or at least on snacks, and survive until Thursday. (Pirate Wires)\n\n\"The predators are real.\" That was the message at a Senate hearing slamming Roblox over child sex abuse on the massive gaming platform. Senators Josh Hawley and Dick Durbin have introduced legislation to make it easier for families to sue if their child has been harmed through Roblox. The hearing put the platform's safety record in front of Congress in the bluntest terms yet. (WIRED)\n\nQuick Hits & Curiosities\n\n• Voyager 1 is still working a light-day away from Earth, beating the odds decades after launch. (WIRED)\n\n• Waymo suspended freeway rides nationwide after a California DMV order. (TechCrunch)\n\n• The FAA paused installation of new routers after a ground stop. (CNBC)\n\n• Alaska residents reportedly spotted a jellyfish-shaped UFO near a rainbow, and a viral video from Mexico purported to show a pterodactyl flying over a neighborhood. Online fact-checkers say the dino video was edited with AI, but Pirate Wires is not so sure. (Pirate Wires)\n\n• ABC News wrapped its internal probe into the botched Donald Trump Jr. story, and Status reports there were serious consequences. The network had published without even contacting Trump Jr.'s firm, 1789 Capital, for comment. (Status)\n\n• Stan Druckenmiller told the TomorrowX Summit he has sold out or sold short the AI and copper positions he held earlier this year. Classic Druckenmiller: self-deprecating, introspective, and already on to the next trade. (Fireside Alpha)\n\n• Plum Sykes is obsessed with a bag that acts like a private member's club: square-shaped, calfskin leather, suede lining, one geometric brass clasp, and no logo anywhere. In a world of monogram soup, anonymity is the new status symbol. (P.S. by Plum Sykes)",
+          "blocks": [
+            {
+              "type": "heading_1",
+              "runs": [
+                {
+                  "text": "Wednesday, November 18, 2026 - Morning Edition",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Today's Numbers",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "87%",
+                  "url": "https://applink.robinhood.com/event_contracts?id=c60d7102-4b3b-4035-94d4-acaeba5ac605",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": the odds markets give Grand Theft Auto VI of winning Game of the Year, even though the game does not come out until tomorrow. Resident Evil Requiem trails at 6%.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "More than a third",
+                  "url": "https://www.wired.com/story/over-a-third-of-gen-z-rely-on-ai-for-friendship/",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": the share of Gen Z who rely on AI for friendship, according to a new Gallup report. Young people with online-only friends or AI companions report higher odds of loneliness than those without them.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "$500,000",
+                  "url": "https://www.piratewires.com/",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": what Anthropic and OpenAI employees are spending on elite matchmakers, according to Pirate Wires, as IPO season turns San Francisco dating into a cottage industry for the newly rich.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "15 million",
+                  "url": "https://www.ft.com/content/df518845-ed97-4a38-8a38-7fa9d4d24003",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": leaked Deutsche Bank documents behind a four-part Financial Times series, which also details the bank accidentally leaking President Trump's tax returns.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Quotes of the Day",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "\"honored\" to return as CEO (Jensen Huang, former Nvidia chief, in a post on X after scrubbing the title from his bio)",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "\"Accelerate, yes, but also: Retvrn.\" (Pirate Wires, on the wave of outages hitting the NSA, JPMorgan, Zoom, and Salesforce)",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "AI & The Machines",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Trump wants the China chip sales to keep flowing.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " The Nvidia scandal could upend chip sales to China, but Commerce Secretary Howard Lutnick is under attack for not blacklisting a company caught up in the Jensen Huang saga, and Trump is on board with keeping the policy going. Nvidia's board has no plans to bring Huang back, and Huang is set to testify before Congress on Dec. 1 alongside Nvidia's general counsel. The fallout keeps the chipmaker at the center of Washington's fight over China. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Business Insider",
+                  "url": "https://www.businessinsider.com/nvidia-earnings-jensen-huang-departure-nvda-stock-2026-11",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "The robots got fired.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " Startup Inception AI built a podcast empire with no humans: 15,000 AI-generated shows, more than 50 AI personalities, 3,000 episodes a week, all for $1 an episode or less. Then it discovered what every listener already knew. Nobody wanted 350,000 episodes of digital chum, so the company pivoted to the radical strategy of hiring human hosts. Audiences liked them way more. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "The Hollywood Reporter",
+                  "url": "https://www.hollywoodreporter.com/business/digital/the-5000-episodes-a-week-ai-podcast-company-pivot-1236754759/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Probably not a cyberattack.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " Email, flights, and banks keep glitching, and WIRED's Andy Greenberg and Lily Hay Newman explain how investigators tell a real attack from a plain old outage. The short version is that it is usually not hackers, even when the failures pile up on the same week. Useful to keep in your pocket the next time your apps all die at once and the group chat starts theorizing. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "WIRED",
+                  "url": "https://www.wired.com/story/how-to-tell-if-its-a-cyberattack-or-just-an-outage/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Money & Power",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "America's wallet gets a vibe check.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " October retail sales slowed as big ticket purchases like cars and furniture slipped, according to the Commerce Department. Home Depot beat expectations but narrowed its profit guidance, with high mortgage rates squeezing the home improvement crowd. Target and TJX report today, Walmart reports Thursday, and the University of Michigan's consumer sentiment reading lands Friday after hovering near historic lows all year. After this week, investors will know whether shoppers are pulling back or just getting pickier. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "CNBC",
+                  "url": "https://www.cnbc.com/2026/11/17/home-depot-hd-q3-earnings-2026.html",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "No, the midterms did not validate economic populism.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " That is Jerusalem Demsas's argument in The Argument, and her evidence is a year of monthly voter surveys. Cost of living was the top issue every single month, and it was not close. Voters want a burger and fries at a diner to cost $10, and pundits keep dressing that up as a mandate for price caps, $20 minimum wages, and a war on corporate power. The surveys say otherwise. In May, 63% of Americans viewed Amazon favorably, and majorities liked Google and Microsoft too. Voters are mad about prices, not about free enterprise. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "The Argument",
+                  "url": "https://www.theargumentmag.com/p/how-to-misread-a-blue-wave",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "The Culture",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Tomorrow is Grandthropic o'clock.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " Anthropic goes public tomorrow, and so does Grand Theft Auto VI, which Pirate Wires notes is a much anticipated video game threatening to tank the already anemic birth rate. The IPO prospectus for the AI lab reportedly said it was \"maybe\" gonna end humanity, which makes for a strange pairing with the biggest game launch in history on the same day. Stock up on food, water, and weapons, or at least on snacks, and survive until Thursday. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Pirate Wires",
+                  "url": "https://www.piratewires.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "\"The predators are real.\"",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " That was the message at a Senate hearing slamming Roblox over child sex abuse on the massive gaming platform. Senators Josh Hawley and Dick Durbin have introduced legislation to make it easier for families to sue if their child has been harmed through Roblox. The hearing put the platform's safety record in front of Congress in the bluntest terms yet. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "WIRED",
+                  "url": "https://www.wired.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Quick Hits & Curiosities",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Voyager 1 is still working a light-day away from Earth, beating the odds decades after launch. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "WIRED",
+                  "url": "https://www.wired.com/story/voyager-1-beat-still-working-light-day-away/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Waymo suspended freeway rides nationwide after a California DMV order. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "TechCrunch",
+                  "url": "https://techcrunch.com/2026/11/17/waymo-suspends-freeway-rides-nationwide-after-california-dmv-order/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "The FAA paused installation of new routers after a ground stop. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "CNBC",
+                  "url": "https://www.cnbc.com/2026/11/17/faa-ground-stop-routers.html",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Alaska residents reportedly spotted a jellyfish-shaped UFO near a rainbow, and a viral video from Mexico purported to show a pterodactyl flying over a neighborhood. Online fact-checkers say the dino video was edited with AI, but Pirate Wires is not so sure. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Pirate Wires",
+                  "url": "https://www.piratewires.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "ABC News wrapped its internal probe into the botched Donald Trump Jr. story, and Status reports there were serious consequences. The network had published without even contacting Trump Jr.'s firm, 1789 Capital, for comment. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Status",
+                  "url": "https://www.status.news/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Stan Druckenmiller told the TomorrowX Summit he has sold out or sold short the AI and copper positions he held earlier this year. Classic Druckenmiller: self-deprecating, introspective, and already on to the next trade. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Fireside Alpha",
+                  "url": "https://firesidealpha.substack.com/p/fireside-chat-stan-druckenmiller",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Plum Sykes is obsessed with a bag that acts like a private member's club: square-shaped, calfskin leather, suede lining, one geometric brass clasp, and no logo anywhere. In a world of monogram soup, anonymity is the new status symbol. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "P.S. by Plum Sykes",
+                  "url": "https://plumsykes.substack.com/p/the-purse-thats-a-private-members",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            }
+          ],
+          "links": [
+            {
+              "title": "87%",
+              "url": "https://applink.robinhood.com/event_contracts?id=c60d7102-4b3b-4035-94d4-acaeba5ac605"
+            },
+            {
+              "title": "More than a third",
+              "url": "https://www.wired.com/story/over-a-third-of-gen-z-rely-on-ai-for-friendship/"
+            },
+            {
+              "title": "Pirate Wires",
+              "url": "https://www.piratewires.com/"
+            },
+            {
+              "title": "15 million",
+              "url": "https://www.ft.com/content/df518845-ed97-4a38-8a38-7fa9d4d24003"
+            },
+            {
+              "title": "Business Insider",
+              "url": "https://www.businessinsider.com/nvidia-earnings-jensen-huang-departure-nvda-stock-2026-11"
+            },
+            {
+              "title": "The Hollywood Reporter",
+              "url": "https://www.hollywoodreporter.com/business/digital/the-5000-episodes-a-week-ai-podcast-company-pivot-1236754759/"
+            },
+            {
+              "title": "WIRED",
+              "url": "https://www.wired.com/story/how-to-tell-if-its-a-cyberattack-or-just-an-outage/"
+            },
+            {
+              "title": "CNBC",
+              "url": "https://www.cnbc.com/2026/11/17/home-depot-hd-q3-earnings-2026.html"
+            },
+            {
+              "title": "The Argument",
+              "url": "https://www.theargumentmag.com/p/how-to-misread-a-blue-wave"
+            },
+            {
+              "title": "WIRED",
+              "url": "https://www.wired.com/"
+            },
+            {
+              "title": "WIRED",
+              "url": "https://www.wired.com/story/voyager-1-beat-still-working-light-day-away/"
+            },
+            {
+              "title": "TechCrunch",
+              "url": "https://techcrunch.com/2026/11/17/waymo-suspends-freeway-rides-nationwide-after-california-dmv-order/"
+            },
+            {
+              "title": "CNBC",
+              "url": "https://www.cnbc.com/2026/11/17/faa-ground-stop-routers.html"
+            },
+            {
+              "title": "Status",
+              "url": "https://www.status.news/"
+            },
+            {
+              "title": "Fireside Alpha",
+              "url": "https://firesidealpha.substack.com/p/fireside-chat-stan-druckenmiller"
+            },
+            {
+              "title": "P.S. by Plum Sykes",
+              "url": "https://plumsykes.substack.com/p/the-purse-thats-a-private-members"
+            }
+          ]
+        }
+      }
     }
   ]
 }
