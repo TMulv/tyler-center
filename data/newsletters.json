@@ -305433,6 +305433,2069 @@
       ],
       "publishedAt": "2026-11-18T22:08:00Z",
       "links": []
+    },
+    {
+      "id": "digest-41d8153c-8a3e-81aa-a9fc-cc09192e6a67",
+      "channel": "newsletters",
+      "source": "notion",
+      "kind": "Agent-written digest",
+      "domain": "Daily newsletter digest",
+      "title": "Anthropic's $107B IPO, Nvidia's Jensen drama, GTA VI drops - Thursday, November 19, 2026",
+      "url": "",
+      "description": "Thursday, November 19, 2026 - Morning Edition",
+      "body": "Thursday, November 19, 2026 - Morning Edition\n\nToday's Numbers\n\n• $107 billion: the size of Anthropic's record-breaking IPO. Investors betting that much money have to weigh whether the company's safety-first strategy and the growing public anger at its data centers will slow its growth.\n\n• D+6.6: how much better Democrat Scott Colom did in Mississippi's Senate race than a generic Democrat would have. The baseline said a standard Democrat loses by 6 in a blue wave year. Colom won by about a point.\n\n• 6.6 million: accounts exposed by vulnerabilities in the AI debt collection platform CreditNirvana, along with 315,000 call recordings, emails, texts, and credit reports.\n\n• 23: days of stopgap funding left for the Department of Homeland Security. The current stopgap expires December 11, and Secretary Markwayne Mullin is spending five of those days on an unannounced trip to Jordan, Azerbaijan, and the UAE.\n\n• $80,000: the monthly base pay Deutsche Bank gave a prominent member of the Qatari royal family, sent to a Swiss bank account, to help win business with state-owned Qatari enterprises, according to leaked documents reported by the FT.\n\nQuotes of the Day\n\n• \"Demand did not resign\" (Dan Ives, on Nvidia's quarter after Jensen Huang's ouster)\n\n• \"You think your pain and your heartbreak are unprecedented in the history of the world, but then you read.\" (James Baldwin, quoted in Dazed on surviving a situationship)\n\n• \"I end up writing a book about the thing that had prevented me from writing a book.\" (Nick Paumgarten, on his beer league hockey memoir The Intangibles)\n\nAI & The Machines\n\n• Nvidia beat Wall Street, and the Jensen saga still is not over. The chip giant topped earnings and revenue expectations in one of the most anticipated reports in years, and issued guidance ahead of estimates. Five days after resigning, Jensen Huang said he is open to returning as CEO. The board says it has ruled that out and has approached Arm CEO Rene Haas through a recruitment firm. Interim CEO Colette Kress is trying to steady the ship with pay raises and more equity. (AP)\n\n• Leaked documents show how Silicon Valley elites bankrolled a propaganda machine. Visegrad24, an obscure Polish influence operation, became one of Elon Musk's favorite sources of fake news. The documents reveal the inner workings of an anti-migrant, pro-Israel operation funded by tech money. (WIRED)\n\n• China's top AI labs trained on chips they were not supposed to have. Former OpenAI researcher Will DePue found concrete evidence that several of China's leading labs used export-controlled Nvidia Blackwell chips to train their models. His conclusion is blunt: the export controls are clearly not working. (Pirate Wires)\n\nMoney & Power\n\n• KFC's chicken slump is bankrupting its franchisees. Tasty Chick'n LLC, which runs 75 KFCs and 9 Taco Bells across 10 states, is filing for bankruptcy. It owes Yum Brands more than $15 million in unpaid royalties, and the root looks like franchise agreements that force operators to pay for remodels and upgrades while sales keep falling. When a big chain tries a turnaround, the regional operators often foot the bill. (Yahoo Finance)\n\n• Trump, Putin, and Xi are sitting down together in China. Trump arrives hoping to broker a grand bargain on nuclear weapons, Ukraine, and Iran. Putin wants concessions on Ukraine, preferably without consulting Ukrainians. Xi wants to strengthen China's standing while avoiding any commitment that gets in his way. America's democratic allies are watching from the sidelines, wondering if their futures are being negotiated by three men who treat borders as speed bumps. (Counterpoint)\n\nThe Culture\n\n• GTA VI is finally here, and American men are taking the day off. After 13 years of anticipation, the game many call the most successful of all time has dropped. Fans are burning sick days and vacation days, and some are even playing at the office. The reviews are near perfect. The game is famously about robbing banks and mowing down pedestrians with a stolen Mustang, but America has always had a soft spot for the crime thrill, from Bonnie and Clyde onward. (Pirate Wires)\n\n• A New Yorker writer turned beer league hockey into a book. Nick Paumgarten's The Intangibles is a memoir about the catharsis, camaraderie, and comedy of rec hockey. He kept putting the book off because he was playing so much hockey, then realized the hockey was the book. Landon Donovan told InsideHook that one of the five best moments of his life was playing roller hockey with his dad in a Nashville rec league, decades after his dad's semi-pro career ended. (InsideHook)\n\nClose to Home\n\n• Hoboken built the Macy's Thanksgiving Day Parade. Before the giant balloons floated down the streets of New York, they got their start in a building at 15th Street and Willow Avenue in Hoboken. That is 43 years of Thanksgiving magic with roots in the Mile Square City. (The Hoboken Girl)\n\n• Larry David is coming to Jersey City. The Seinfeld co-creator will take the stage at the newly reopened Loew's Jersey Theatre on February 20, 2027, for a conversation moderated by his daughter. (The Hoboken Girl)\n\nQuick Hits & Curiosities\n\n• The Caine Prize winner's story was flagged as about 98 percent AI-generated by detector Pangram. The committee cleared it after a \"human-centered\" investigation, then its own Instagram post announcing the decision scored 99 percent AI. (Pirate Wires)\n\n• The Wall Street Journal is quietly building DJTV, a flagship video news show led by Dow Jones chief growth officer Scott Havens. (Status)\n\n• Dazed rounded up five novels for when you cannot get over your situationship, led by Sally Rooney's Normal People. (Dazed)\n\n• The Goal is to Eat made four slogan tees with vintage graphics from old American restaurant menus and matchbooks. You can order by email on November 28 and 29. (The Goal is to Eat)\n\n• Google paid for the employment records of the now-defunct Spirit Airlines, and will use them to train its AI models. (The New York Times)\n\n• The Texans are an 85 percent favorite over the Colts tonight on Thursday Night Football. (Snacks)",
+      "blocks": [
+        {
+          "type": "heading_1",
+          "runs": [
+            {
+              "text": "Thursday, November 19, 2026 - Morning Edition",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Today's Numbers",
+              "url": "",
+              "bold": true,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "$107 billion",
+              "url": "https://www.wired.com/story/anthropics-record-breaking-ipo-highlights-the-ai-giants-worst-enemy-itself/",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": ": the size of Anthropic's record-breaking IPO. Investors betting that much money have to weigh whether the company's safety-first strategy and the growing public anger at its data centers will slow its growth.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "D+6.6",
+              "url": "https://www.theargumentmag.com/p/the-best-and-worst-midterm-candidates",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": ": how much better Democrat Scott Colom did in Mississippi's Senate race than a generic Democrat would have. The baseline said a standard Democrat loses by 6 in a blue wave year. Colom won by about a point.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "6.6 million",
+              "url": "https://www.wired.com/story/ai-debt-collection-service-exposed-66-million-accounts-and-315000-call-recordings/",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": ": accounts exposed by vulnerabilities in the AI debt collection platform CreditNirvana, along with 315,000 call recordings, emails, texts, and credit reports.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "23",
+              "url": "https://migrantinsider.com/p/scoop-markwayne-mullin-heads-to-middle",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": ": days of stopgap funding left for the Department of Homeland Security. The current stopgap expires December 11, and Secretary Markwayne Mullin is spending five of those days on an unannounced trip to Jordan, Azerbaijan, and the UAE.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "$80,000",
+              "url": "https://www.ft.com/",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": ": the monthly base pay Deutsche Bank gave a prominent member of the Qatari royal family, sent to a Swiss bank account, to help win business with state-owned Qatari enterprises, according to leaked documents reported by the FT.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Quotes of the Day",
+              "url": "",
+              "bold": true,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "\"Demand did not resign\" (Dan Ives, on Nvidia's quarter after Jensen Huang's ouster)",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "\"You think your pain and your heartbreak are unprecedented in the history of the world, but then you read.\" (James Baldwin, quoted in Dazed on surviving a situationship)",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "\"I end up writing a book about the thing that had prevented me from writing a book.\" (Nick Paumgarten, on his beer league hockey memoir The Intangibles)",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "AI & The Machines",
+              "url": "",
+              "bold": true,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Nvidia beat Wall Street, and the Jensen saga still is not over.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " The chip giant topped earnings and revenue expectations in one of the most anticipated reports in years, and issued guidance ahead of estimates. Five days after resigning, Jensen Huang said he is open to returning as CEO. The board says it has ruled that out and has approached Arm CEO Rene Haas through a recruitment firm. Interim CEO Colette Kress is trying to steady the ship with pay raises and more equity. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "AP",
+              "url": "https://apnews.com/article/nvidia-jensen-huang-china-national-security-chips-3026bcbe04ab57b844884382e583422a",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Leaked documents show how Silicon Valley elites bankrolled a propaganda machine.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " Visegrad24, an obscure Polish influence operation, became one of Elon Musk's favorite sources of fake news. The documents reveal the inner workings of an anti-migrant, pro-Israel operation funded by tech money. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "WIRED",
+              "url": "https://www.wired.com/story/leaked-how-silicon-valley-elites-bankrolled-anti-migrant-pro-israel-propaganda-machine/",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "China's top AI labs trained on chips they were not supposed to have.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " Former OpenAI researcher Will DePue found concrete evidence that several of China's leading labs used export-controlled Nvidia Blackwell chips to train their models. His conclusion is blunt: the export controls are clearly not working. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Pirate Wires",
+              "url": "https://piratewires.substack.com/",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Money & Power",
+              "url": "",
+              "bold": true,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "KFC's chicken slump is bankrupting its franchisees.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " Tasty Chick'n LLC, which runs 75 KFCs and 9 Taco Bells across 10 states, is filing for bankruptcy. It owes Yum Brands more than $15 million in unpaid royalties, and the root looks like franchise agreements that force operators to pay for remodels and upgrades while sales keep falling. When a big chain tries a turnaround, the regional operators often foot the bill. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Yahoo Finance",
+              "url": "https://finance.yahoo.com/small-business/articles/major-fried-chicken-chain-franchisee-161700582.html",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Trump, Putin, and Xi are sitting down together in China.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " Trump arrives hoping to broker a grand bargain on nuclear weapons, Ukraine, and Iran. Putin wants concessions on Ukraine, preferably without consulting Ukrainians. Xi wants to strengthen China's standing while avoiding any commitment that gets in his way. America's democratic allies are watching from the sidelines, wondering if their futures are being negotiated by three men who treat borders as speed bumps. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Counterpoint",
+              "url": "https://counterpoint.substack.com/p/trilateral-summit-edition",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "The Culture",
+              "url": "",
+              "bold": true,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "GTA VI is finally here, and American men are taking the day off.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " After 13 years of anticipation, the game many call the most successful of all time has dropped. Fans are burning sick days and vacation days, and some are even playing at the office. The reviews are near perfect. The game is famously about robbing banks and mowing down pedestrians with a stolen Mustang, but America has always had a soft spot for the crime thrill, from Bonnie and Clyde onward. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Pirate Wires",
+              "url": "https://piratewires.substack.com/",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "A New Yorker writer turned beer league hockey into a book.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " Nick Paumgarten's The Intangibles is a memoir about the catharsis, camaraderie, and comedy of rec hockey. He kept putting the book off because he was playing so much hockey, then realized the hockey was the book. Landon Donovan told InsideHook that one of the five best moments of his life was playing roller hockey with his dad in a Nashville rec league, decades after his dad's semi-pro career ended. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "InsideHook",
+              "url": "https://www.insidehook.com/",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Close to Home",
+              "url": "",
+              "bold": true,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Hoboken built the Macy's Thanksgiving Day Parade.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " Before the giant balloons floated down the streets of New York, they got their start in a building at 15th Street and Willow Avenue in Hoboken. That is 43 years of Thanksgiving magic with roots in the Mile Square City. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "The Hoboken Girl",
+              "url": "https://www.hobokengirl.com/macys-thanksgiving-day-parade-hoboken-nj/",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Larry David is coming to Jersey City.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " The Seinfeld co-creator will take the stage at the newly reopened Loew's Jersey Theatre on February 20, 2027, for a conversation moderated by his daughter. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "The Hoboken Girl",
+              "url": "https://www.hobokengirl.com/larry-david-loews-jersey-theatre-jersey-city-2027/",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Quick Hits & Curiosities",
+              "url": "",
+              "bold": true,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "The Caine Prize winner's story was flagged as about 98 percent AI-generated by detector Pangram. The committee cleared it after a \"human-centered\" investigation, then its own Instagram post announcing the decision scored 99 percent AI. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Pirate Wires",
+              "url": "https://piratewires.substack.com/",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "The Wall Street Journal is quietly building DJTV, a flagship video news show led by Dow Jones chief growth officer Scott Havens. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Status",
+              "url": "https://www.status.news/",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Dazed rounded up five novels for when you cannot get over your situationship, led by Sally Rooney's Normal People. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Dazed",
+              "url": "https://dazed.substack.com/",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "The Goal is to Eat made four slogan tees with vintage graphics from old American restaurant menus and matchbooks. You can order by email on November 28 and 29. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "The Goal is to Eat",
+              "url": "https://tgite.substack.com/",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Google paid for the employment records of the now-defunct Spirit Airlines, and will use them to train its AI models. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "The New York Times",
+              "url": "https://www.nytimes.com/",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "The Texans are an 85 percent favorite over the Colts tonight on Thursday Night Football. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Snacks",
+              "url": "https://sherwood.news/",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        }
+      ],
+      "publishedAt": "2026-11-19T13:00:00Z",
+      "links": [
+        {
+          "title": "$107 billion",
+          "url": "https://www.wired.com/story/anthropics-record-breaking-ipo-highlights-the-ai-giants-worst-enemy-itself/"
+        },
+        {
+          "title": "D+6.6",
+          "url": "https://www.theargumentmag.com/p/the-best-and-worst-midterm-candidates"
+        },
+        {
+          "title": "6.6 million",
+          "url": "https://www.wired.com/story/ai-debt-collection-service-exposed-66-million-accounts-and-315000-call-recordings/"
+        },
+        {
+          "title": "23",
+          "url": "https://migrantinsider.com/p/scoop-markwayne-mullin-heads-to-middle"
+        },
+        {
+          "title": "$80,000",
+          "url": "https://www.ft.com/"
+        },
+        {
+          "title": "AP",
+          "url": "https://apnews.com/article/nvidia-jensen-huang-china-national-security-chips-3026bcbe04ab57b844884382e583422a"
+        },
+        {
+          "title": "WIRED",
+          "url": "https://www.wired.com/story/leaked-how-silicon-valley-elites-bankrolled-anti-migrant-pro-israel-propaganda-machine/"
+        },
+        {
+          "title": "Pirate Wires",
+          "url": "https://piratewires.substack.com/"
+        },
+        {
+          "title": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/small-business/articles/major-fried-chicken-chain-franchisee-161700582.html"
+        },
+        {
+          "title": "Counterpoint",
+          "url": "https://counterpoint.substack.com/p/trilateral-summit-edition"
+        },
+        {
+          "title": "InsideHook",
+          "url": "https://www.insidehook.com/"
+        },
+        {
+          "title": "The Hoboken Girl",
+          "url": "https://www.hobokengirl.com/macys-thanksgiving-day-parade-hoboken-nj/"
+        },
+        {
+          "title": "The Hoboken Girl",
+          "url": "https://www.hobokengirl.com/larry-david-loews-jersey-theatre-jersey-city-2027/"
+        },
+        {
+          "title": "Status",
+          "url": "https://www.status.news/"
+        },
+        {
+          "title": "Dazed",
+          "url": "https://dazed.substack.com/"
+        },
+        {
+          "title": "The Goal is to Eat",
+          "url": "https://tgite.substack.com/"
+        },
+        {
+          "title": "The New York Times",
+          "url": "https://www.nytimes.com/"
+        },
+        {
+          "title": "Snacks",
+          "url": "https://sherwood.news/"
+        }
+      ],
+      "versions": {
+        "morning": {
+          "body": "Thursday, November 19, 2026 - Morning Edition\n\nToday's Numbers\n\n• $107 billion: the size of Anthropic's record-breaking IPO. Investors betting that much money have to weigh whether the company's safety-first strategy and the growing public anger at its data centers will slow its growth.\n\n• D+6.6: how much better Democrat Scott Colom did in Mississippi's Senate race than a generic Democrat would have. The baseline said a standard Democrat loses by 6 in a blue wave year. Colom won by about a point.\n\n• 6.6 million: accounts exposed by vulnerabilities in the AI debt collection platform CreditNirvana, along with 315,000 call recordings, emails, texts, and credit reports.\n\n• 23: days of stopgap funding left for the Department of Homeland Security. The current stopgap expires December 11, and Secretary Markwayne Mullin is spending five of those days on an unannounced trip to Jordan, Azerbaijan, and the UAE.\n\n• $80,000: the monthly base pay Deutsche Bank gave a prominent member of the Qatari royal family, sent to a Swiss bank account, to help win business with state-owned Qatari enterprises, according to leaked documents reported by the FT.\n\nQuotes of the Day\n\n• \"Demand did not resign\" (Dan Ives, on Nvidia's quarter after Jensen Huang's ouster)\n\n• \"You think your pain and your heartbreak are unprecedented in the history of the world, but then you read.\" (James Baldwin, quoted in Dazed on surviving a situationship)\n\n• \"I end up writing a book about the thing that had prevented me from writing a book.\" (Nick Paumgarten, on his beer league hockey memoir The Intangibles)\n\nAI & The Machines\n\n• Nvidia beat Wall Street, and the Jensen saga still is not over. The chip giant topped earnings and revenue expectations in one of the most anticipated reports in years, and issued guidance ahead of estimates. Five days after resigning, Jensen Huang said he is open to returning as CEO. The board says it has ruled that out and has approached Arm CEO Rene Haas through a recruitment firm. Interim CEO Colette Kress is trying to steady the ship with pay raises and more equity. (AP)\n\n• Leaked documents show how Silicon Valley elites bankrolled a propaganda machine. Visegrad24, an obscure Polish influence operation, became one of Elon Musk's favorite sources of fake news. The documents reveal the inner workings of an anti-migrant, pro-Israel operation funded by tech money. (WIRED)\n\n• China's top AI labs trained on chips they were not supposed to have. Former OpenAI researcher Will DePue found concrete evidence that several of China's leading labs used export-controlled Nvidia Blackwell chips to train their models. His conclusion is blunt: the export controls are clearly not working. (Pirate Wires)\n\nMoney & Power\n\n• KFC's chicken slump is bankrupting its franchisees. Tasty Chick'n LLC, which runs 75 KFCs and 9 Taco Bells across 10 states, is filing for bankruptcy. It owes Yum Brands more than $15 million in unpaid royalties, and the root looks like franchise agreements that force operators to pay for remodels and upgrades while sales keep falling. When a big chain tries a turnaround, the regional operators often foot the bill. (Yahoo Finance)\n\n• Trump, Putin, and Xi are sitting down together in China. Trump arrives hoping to broker a grand bargain on nuclear weapons, Ukraine, and Iran. Putin wants concessions on Ukraine, preferably without consulting Ukrainians. Xi wants to strengthen China's standing while avoiding any commitment that gets in his way. America's democratic allies are watching from the sidelines, wondering if their futures are being negotiated by three men who treat borders as speed bumps. (Counterpoint)\n\nThe Culture\n\n• GTA VI is finally here, and American men are taking the day off. After 13 years of anticipation, the game many call the most successful of all time has dropped. Fans are burning sick days and vacation days, and some are even playing at the office. The reviews are near perfect. The game is famously about robbing banks and mowing down pedestrians with a stolen Mustang, but America has always had a soft spot for the crime thrill, from Bonnie and Clyde onward. (Pirate Wires)\n\n• A New Yorker writer turned beer league hockey into a book. Nick Paumgarten's The Intangibles is a memoir about the catharsis, camaraderie, and comedy of rec hockey. He kept putting the book off because he was playing so much hockey, then realized the hockey was the book. Landon Donovan told InsideHook that one of the five best moments of his life was playing roller hockey with his dad in a Nashville rec league, decades after his dad's semi-pro career ended. (InsideHook)\n\nClose to Home\n\n• Hoboken built the Macy's Thanksgiving Day Parade. Before the giant balloons floated down the streets of New York, they got their start in a building at 15th Street and Willow Avenue in Hoboken. That is 43 years of Thanksgiving magic with roots in the Mile Square City. (The Hoboken Girl)\n\n• Larry David is coming to Jersey City. The Seinfeld co-creator will take the stage at the newly reopened Loew's Jersey Theatre on February 20, 2027, for a conversation moderated by his daughter. (The Hoboken Girl)\n\nQuick Hits & Curiosities\n\n• The Caine Prize winner's story was flagged as about 98 percent AI-generated by detector Pangram. The committee cleared it after a \"human-centered\" investigation, then its own Instagram post announcing the decision scored 99 percent AI. (Pirate Wires)\n\n• The Wall Street Journal is quietly building DJTV, a flagship video news show led by Dow Jones chief growth officer Scott Havens. (Status)\n\n• Dazed rounded up five novels for when you cannot get over your situationship, led by Sally Rooney's Normal People. (Dazed)\n\n• The Goal is to Eat made four slogan tees with vintage graphics from old American restaurant menus and matchbooks. You can order by email on November 28 and 29. (The Goal is to Eat)\n\n• Google paid for the employment records of the now-defunct Spirit Airlines, and will use them to train its AI models. (The New York Times)\n\n• The Texans are an 85 percent favorite over the Colts tonight on Thursday Night Football. (Snacks)",
+          "blocks": [
+            {
+              "type": "heading_1",
+              "runs": [
+                {
+                  "text": "Thursday, November 19, 2026 - Morning Edition",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Today's Numbers",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "$107 billion",
+                  "url": "https://www.wired.com/story/anthropics-record-breaking-ipo-highlights-the-ai-giants-worst-enemy-itself/",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": the size of Anthropic's record-breaking IPO. Investors betting that much money have to weigh whether the company's safety-first strategy and the growing public anger at its data centers will slow its growth.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "D+6.6",
+                  "url": "https://www.theargumentmag.com/p/the-best-and-worst-midterm-candidates",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": how much better Democrat Scott Colom did in Mississippi's Senate race than a generic Democrat would have. The baseline said a standard Democrat loses by 6 in a blue wave year. Colom won by about a point.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "6.6 million",
+                  "url": "https://www.wired.com/story/ai-debt-collection-service-exposed-66-million-accounts-and-315000-call-recordings/",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": accounts exposed by vulnerabilities in the AI debt collection platform CreditNirvana, along with 315,000 call recordings, emails, texts, and credit reports.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "23",
+                  "url": "https://migrantinsider.com/p/scoop-markwayne-mullin-heads-to-middle",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": days of stopgap funding left for the Department of Homeland Security. The current stopgap expires December 11, and Secretary Markwayne Mullin is spending five of those days on an unannounced trip to Jordan, Azerbaijan, and the UAE.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "$80,000",
+                  "url": "https://www.ft.com/",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": the monthly base pay Deutsche Bank gave a prominent member of the Qatari royal family, sent to a Swiss bank account, to help win business with state-owned Qatari enterprises, according to leaked documents reported by the FT.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Quotes of the Day",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "\"Demand did not resign\" (Dan Ives, on Nvidia's quarter after Jensen Huang's ouster)",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "\"You think your pain and your heartbreak are unprecedented in the history of the world, but then you read.\" (James Baldwin, quoted in Dazed on surviving a situationship)",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "\"I end up writing a book about the thing that had prevented me from writing a book.\" (Nick Paumgarten, on his beer league hockey memoir The Intangibles)",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "AI & The Machines",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Nvidia beat Wall Street, and the Jensen saga still is not over.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " The chip giant topped earnings and revenue expectations in one of the most anticipated reports in years, and issued guidance ahead of estimates. Five days after resigning, Jensen Huang said he is open to returning as CEO. The board says it has ruled that out and has approached Arm CEO Rene Haas through a recruitment firm. Interim CEO Colette Kress is trying to steady the ship with pay raises and more equity. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "AP",
+                  "url": "https://apnews.com/article/nvidia-jensen-huang-china-national-security-chips-3026bcbe04ab57b844884382e583422a",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Leaked documents show how Silicon Valley elites bankrolled a propaganda machine.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " Visegrad24, an obscure Polish influence operation, became one of Elon Musk's favorite sources of fake news. The documents reveal the inner workings of an anti-migrant, pro-Israel operation funded by tech money. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "WIRED",
+                  "url": "https://www.wired.com/story/leaked-how-silicon-valley-elites-bankrolled-anti-migrant-pro-israel-propaganda-machine/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "China's top AI labs trained on chips they were not supposed to have.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " Former OpenAI researcher Will DePue found concrete evidence that several of China's leading labs used export-controlled Nvidia Blackwell chips to train their models. His conclusion is blunt: the export controls are clearly not working. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Pirate Wires",
+                  "url": "https://piratewires.substack.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Money & Power",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "KFC's chicken slump is bankrupting its franchisees.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " Tasty Chick'n LLC, which runs 75 KFCs and 9 Taco Bells across 10 states, is filing for bankruptcy. It owes Yum Brands more than $15 million in unpaid royalties, and the root looks like franchise agreements that force operators to pay for remodels and upgrades while sales keep falling. When a big chain tries a turnaround, the regional operators often foot the bill. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Yahoo Finance",
+                  "url": "https://finance.yahoo.com/small-business/articles/major-fried-chicken-chain-franchisee-161700582.html",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Trump, Putin, and Xi are sitting down together in China.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " Trump arrives hoping to broker a grand bargain on nuclear weapons, Ukraine, and Iran. Putin wants concessions on Ukraine, preferably without consulting Ukrainians. Xi wants to strengthen China's standing while avoiding any commitment that gets in his way. America's democratic allies are watching from the sidelines, wondering if their futures are being negotiated by three men who treat borders as speed bumps. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Counterpoint",
+                  "url": "https://counterpoint.substack.com/p/trilateral-summit-edition",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "The Culture",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "GTA VI is finally here, and American men are taking the day off.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " After 13 years of anticipation, the game many call the most successful of all time has dropped. Fans are burning sick days and vacation days, and some are even playing at the office. The reviews are near perfect. The game is famously about robbing banks and mowing down pedestrians with a stolen Mustang, but America has always had a soft spot for the crime thrill, from Bonnie and Clyde onward. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Pirate Wires",
+                  "url": "https://piratewires.substack.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "A New Yorker writer turned beer league hockey into a book.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " Nick Paumgarten's The Intangibles is a memoir about the catharsis, camaraderie, and comedy of rec hockey. He kept putting the book off because he was playing so much hockey, then realized the hockey was the book. Landon Donovan told InsideHook that one of the five best moments of his life was playing roller hockey with his dad in a Nashville rec league, decades after his dad's semi-pro career ended. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "InsideHook",
+                  "url": "https://www.insidehook.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Close to Home",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Hoboken built the Macy's Thanksgiving Day Parade.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " Before the giant balloons floated down the streets of New York, they got their start in a building at 15th Street and Willow Avenue in Hoboken. That is 43 years of Thanksgiving magic with roots in the Mile Square City. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "The Hoboken Girl",
+                  "url": "https://www.hobokengirl.com/macys-thanksgiving-day-parade-hoboken-nj/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Larry David is coming to Jersey City.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " The Seinfeld co-creator will take the stage at the newly reopened Loew's Jersey Theatre on February 20, 2027, for a conversation moderated by his daughter. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "The Hoboken Girl",
+                  "url": "https://www.hobokengirl.com/larry-david-loews-jersey-theatre-jersey-city-2027/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Quick Hits & Curiosities",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "The Caine Prize winner's story was flagged as about 98 percent AI-generated by detector Pangram. The committee cleared it after a \"human-centered\" investigation, then its own Instagram post announcing the decision scored 99 percent AI. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Pirate Wires",
+                  "url": "https://piratewires.substack.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "The Wall Street Journal is quietly building DJTV, a flagship video news show led by Dow Jones chief growth officer Scott Havens. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Status",
+                  "url": "https://www.status.news/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Dazed rounded up five novels for when you cannot get over your situationship, led by Sally Rooney's Normal People. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Dazed",
+                  "url": "https://dazed.substack.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "The Goal is to Eat made four slogan tees with vintage graphics from old American restaurant menus and matchbooks. You can order by email on November 28 and 29. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "The Goal is to Eat",
+                  "url": "https://tgite.substack.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Google paid for the employment records of the now-defunct Spirit Airlines, and will use them to train its AI models. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "The New York Times",
+                  "url": "https://www.nytimes.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "The Texans are an 85 percent favorite over the Colts tonight on Thursday Night Football. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Snacks",
+                  "url": "https://sherwood.news/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            }
+          ],
+          "links": [
+            {
+              "title": "$107 billion",
+              "url": "https://www.wired.com/story/anthropics-record-breaking-ipo-highlights-the-ai-giants-worst-enemy-itself/"
+            },
+            {
+              "title": "D+6.6",
+              "url": "https://www.theargumentmag.com/p/the-best-and-worst-midterm-candidates"
+            },
+            {
+              "title": "6.6 million",
+              "url": "https://www.wired.com/story/ai-debt-collection-service-exposed-66-million-accounts-and-315000-call-recordings/"
+            },
+            {
+              "title": "23",
+              "url": "https://migrantinsider.com/p/scoop-markwayne-mullin-heads-to-middle"
+            },
+            {
+              "title": "$80,000",
+              "url": "https://www.ft.com/"
+            },
+            {
+              "title": "AP",
+              "url": "https://apnews.com/article/nvidia-jensen-huang-china-national-security-chips-3026bcbe04ab57b844884382e583422a"
+            },
+            {
+              "title": "WIRED",
+              "url": "https://www.wired.com/story/leaked-how-silicon-valley-elites-bankrolled-anti-migrant-pro-israel-propaganda-machine/"
+            },
+            {
+              "title": "Pirate Wires",
+              "url": "https://piratewires.substack.com/"
+            },
+            {
+              "title": "Yahoo Finance",
+              "url": "https://finance.yahoo.com/small-business/articles/major-fried-chicken-chain-franchisee-161700582.html"
+            },
+            {
+              "title": "Counterpoint",
+              "url": "https://counterpoint.substack.com/p/trilateral-summit-edition"
+            },
+            {
+              "title": "InsideHook",
+              "url": "https://www.insidehook.com/"
+            },
+            {
+              "title": "The Hoboken Girl",
+              "url": "https://www.hobokengirl.com/macys-thanksgiving-day-parade-hoboken-nj/"
+            },
+            {
+              "title": "The Hoboken Girl",
+              "url": "https://www.hobokengirl.com/larry-david-loews-jersey-theatre-jersey-city-2027/"
+            },
+            {
+              "title": "Status",
+              "url": "https://www.status.news/"
+            },
+            {
+              "title": "Dazed",
+              "url": "https://dazed.substack.com/"
+            },
+            {
+              "title": "The Goal is to Eat",
+              "url": "https://tgite.substack.com/"
+            },
+            {
+              "title": "The New York Times",
+              "url": "https://www.nytimes.com/"
+            },
+            {
+              "title": "Snacks",
+              "url": "https://sherwood.news/"
+            }
+          ]
+        },
+        "full": {
+          "body": "Thursday, November 19, 2026 - Morning Edition\n\nToday's Numbers\n\n• $107 billion: the size of Anthropic's record-breaking IPO. Investors betting that much money have to weigh whether the company's safety-first strategy and the growing public anger at its data centers will slow its growth.\n\n• D+6.6: how much better Democrat Scott Colom did in Mississippi's Senate race than a generic Democrat would have. The baseline said a standard Democrat loses by 6 in a blue wave year. Colom won by about a point.\n\n• 6.6 million: accounts exposed by vulnerabilities in the AI debt collection platform CreditNirvana, along with 315,000 call recordings, emails, texts, and credit reports.\n\n• 23: days of stopgap funding left for the Department of Homeland Security. The current stopgap expires December 11, and Secretary Markwayne Mullin is spending five of those days on an unannounced trip to Jordan, Azerbaijan, and the UAE.\n\n• $80,000: the monthly base pay Deutsche Bank gave a prominent member of the Qatari royal family, sent to a Swiss bank account, to help win business with state-owned Qatari enterprises, according to leaked documents reported by the FT.\n\nQuotes of the Day\n\n• \"Demand did not resign\" (Dan Ives, on Nvidia's quarter after Jensen Huang's ouster)\n\n• \"You think your pain and your heartbreak are unprecedented in the history of the world, but then you read.\" (James Baldwin, quoted in Dazed on surviving a situationship)\n\n• \"I end up writing a book about the thing that had prevented me from writing a book.\" (Nick Paumgarten, on his beer league hockey memoir The Intangibles)\n\nAI & The Machines\n\n• Nvidia beat Wall Street, and the Jensen saga still is not over. The chip giant topped earnings and revenue expectations in one of the most anticipated reports in years, and issued guidance ahead of estimates. Five days after resigning, Jensen Huang said he is open to returning as CEO. The board says it has ruled that out and has approached Arm CEO Rene Haas through a recruitment firm. Interim CEO Colette Kress is trying to steady the ship with pay raises and more equity. (AP)\n\n• Leaked documents show how Silicon Valley elites bankrolled a propaganda machine. Visegrad24, an obscure Polish influence operation, became one of Elon Musk's favorite sources of fake news. The documents reveal the inner workings of an anti-migrant, pro-Israel operation funded by tech money. (WIRED)\n\n• China's top AI labs trained on chips they were not supposed to have. Former OpenAI researcher Will DePue found concrete evidence that several of China's leading labs used export-controlled Nvidia Blackwell chips to train their models. His conclusion is blunt: the export controls are clearly not working. (Pirate Wires)\n\nMoney & Power\n\n• KFC's chicken slump is bankrupting its franchisees. Tasty Chick'n LLC, which runs 75 KFCs and 9 Taco Bells across 10 states, is filing for bankruptcy. It owes Yum Brands more than $15 million in unpaid royalties, and the root looks like franchise agreements that force operators to pay for remodels and upgrades while sales keep falling. When a big chain tries a turnaround, the regional operators often foot the bill. (Yahoo Finance)\n\n• Trump, Putin, and Xi are sitting down together in China. Trump arrives hoping to broker a grand bargain on nuclear weapons, Ukraine, and Iran. Putin wants concessions on Ukraine, preferably without consulting Ukrainians. Xi wants to strengthen China's standing while avoiding any commitment that gets in his way. America's democratic allies are watching from the sidelines, wondering if their futures are being negotiated by three men who treat borders as speed bumps. (Counterpoint)\n\nThe Culture\n\n• GTA VI is finally here, and American men are taking the day off. After 13 years of anticipation, the game many call the most successful of all time has dropped. Fans are burning sick days and vacation days, and some are even playing at the office. The reviews are near perfect. The game is famously about robbing banks and mowing down pedestrians with a stolen Mustang, but America has always had a soft spot for the crime thrill, from Bonnie and Clyde onward. (Pirate Wires)\n\n• A New Yorker writer turned beer league hockey into a book. Nick Paumgarten's The Intangibles is a memoir about the catharsis, camaraderie, and comedy of rec hockey. He kept putting the book off because he was playing so much hockey, then realized the hockey was the book. Landon Donovan told InsideHook that one of the five best moments of his life was playing roller hockey with his dad in a Nashville rec league, decades after his dad's semi-pro career ended. (InsideHook)\n\nClose to Home\n\n• Hoboken built the Macy's Thanksgiving Day Parade. Before the giant balloons floated down the streets of New York, they got their start in a building at 15th Street and Willow Avenue in Hoboken. That is 43 years of Thanksgiving magic with roots in the Mile Square City. (The Hoboken Girl)\n\n• Larry David is coming to Jersey City. The Seinfeld co-creator will take the stage at the newly reopened Loew's Jersey Theatre on February 20, 2027, for a conversation moderated by his daughter. (The Hoboken Girl)\n\nQuick Hits & Curiosities\n\n• The Caine Prize winner's story was flagged as about 98 percent AI-generated by detector Pangram. The committee cleared it after a \"human-centered\" investigation, then its own Instagram post announcing the decision scored 99 percent AI. (Pirate Wires)\n\n• The Wall Street Journal is quietly building DJTV, a flagship video news show led by Dow Jones chief growth officer Scott Havens. (Status)\n\n• Dazed rounded up five novels for when you cannot get over your situationship, led by Sally Rooney's Normal People. (Dazed)\n\n• The Goal is to Eat made four slogan tees with vintage graphics from old American restaurant menus and matchbooks. You can order by email on November 28 and 29. (The Goal is to Eat)\n\n• Google paid for the employment records of the now-defunct Spirit Airlines, and will use them to train its AI models. (The New York Times)\n\n• The Texans are an 85 percent favorite over the Colts tonight on Thursday Night Football. (Snacks)",
+          "blocks": [
+            {
+              "type": "heading_1",
+              "runs": [
+                {
+                  "text": "Thursday, November 19, 2026 - Morning Edition",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Today's Numbers",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "$107 billion",
+                  "url": "https://www.wired.com/story/anthropics-record-breaking-ipo-highlights-the-ai-giants-worst-enemy-itself/",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": the size of Anthropic's record-breaking IPO. Investors betting that much money have to weigh whether the company's safety-first strategy and the growing public anger at its data centers will slow its growth.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "D+6.6",
+                  "url": "https://www.theargumentmag.com/p/the-best-and-worst-midterm-candidates",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": how much better Democrat Scott Colom did in Mississippi's Senate race than a generic Democrat would have. The baseline said a standard Democrat loses by 6 in a blue wave year. Colom won by about a point.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "6.6 million",
+                  "url": "https://www.wired.com/story/ai-debt-collection-service-exposed-66-million-accounts-and-315000-call-recordings/",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": accounts exposed by vulnerabilities in the AI debt collection platform CreditNirvana, along with 315,000 call recordings, emails, texts, and credit reports.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "23",
+                  "url": "https://migrantinsider.com/p/scoop-markwayne-mullin-heads-to-middle",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": days of stopgap funding left for the Department of Homeland Security. The current stopgap expires December 11, and Secretary Markwayne Mullin is spending five of those days on an unannounced trip to Jordan, Azerbaijan, and the UAE.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "$80,000",
+                  "url": "https://www.ft.com/",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": the monthly base pay Deutsche Bank gave a prominent member of the Qatari royal family, sent to a Swiss bank account, to help win business with state-owned Qatari enterprises, according to leaked documents reported by the FT.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Quotes of the Day",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "\"Demand did not resign\" (Dan Ives, on Nvidia's quarter after Jensen Huang's ouster)",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "\"You think your pain and your heartbreak are unprecedented in the history of the world, but then you read.\" (James Baldwin, quoted in Dazed on surviving a situationship)",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "\"I end up writing a book about the thing that had prevented me from writing a book.\" (Nick Paumgarten, on his beer league hockey memoir The Intangibles)",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "AI & The Machines",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Nvidia beat Wall Street, and the Jensen saga still is not over.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " The chip giant topped earnings and revenue expectations in one of the most anticipated reports in years, and issued guidance ahead of estimates. Five days after resigning, Jensen Huang said he is open to returning as CEO. The board says it has ruled that out and has approached Arm CEO Rene Haas through a recruitment firm. Interim CEO Colette Kress is trying to steady the ship with pay raises and more equity. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "AP",
+                  "url": "https://apnews.com/article/nvidia-jensen-huang-china-national-security-chips-3026bcbe04ab57b844884382e583422a",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Leaked documents show how Silicon Valley elites bankrolled a propaganda machine.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " Visegrad24, an obscure Polish influence operation, became one of Elon Musk's favorite sources of fake news. The documents reveal the inner workings of an anti-migrant, pro-Israel operation funded by tech money. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "WIRED",
+                  "url": "https://www.wired.com/story/leaked-how-silicon-valley-elites-bankrolled-anti-migrant-pro-israel-propaganda-machine/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "China's top AI labs trained on chips they were not supposed to have.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " Former OpenAI researcher Will DePue found concrete evidence that several of China's leading labs used export-controlled Nvidia Blackwell chips to train their models. His conclusion is blunt: the export controls are clearly not working. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Pirate Wires",
+                  "url": "https://piratewires.substack.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Money & Power",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "KFC's chicken slump is bankrupting its franchisees.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " Tasty Chick'n LLC, which runs 75 KFCs and 9 Taco Bells across 10 states, is filing for bankruptcy. It owes Yum Brands more than $15 million in unpaid royalties, and the root looks like franchise agreements that force operators to pay for remodels and upgrades while sales keep falling. When a big chain tries a turnaround, the regional operators often foot the bill. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Yahoo Finance",
+                  "url": "https://finance.yahoo.com/small-business/articles/major-fried-chicken-chain-franchisee-161700582.html",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Trump, Putin, and Xi are sitting down together in China.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " Trump arrives hoping to broker a grand bargain on nuclear weapons, Ukraine, and Iran. Putin wants concessions on Ukraine, preferably without consulting Ukrainians. Xi wants to strengthen China's standing while avoiding any commitment that gets in his way. America's democratic allies are watching from the sidelines, wondering if their futures are being negotiated by three men who treat borders as speed bumps. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Counterpoint",
+                  "url": "https://counterpoint.substack.com/p/trilateral-summit-edition",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "The Culture",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "GTA VI is finally here, and American men are taking the day off.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " After 13 years of anticipation, the game many call the most successful of all time has dropped. Fans are burning sick days and vacation days, and some are even playing at the office. The reviews are near perfect. The game is famously about robbing banks and mowing down pedestrians with a stolen Mustang, but America has always had a soft spot for the crime thrill, from Bonnie and Clyde onward. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Pirate Wires",
+                  "url": "https://piratewires.substack.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "A New Yorker writer turned beer league hockey into a book.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " Nick Paumgarten's The Intangibles is a memoir about the catharsis, camaraderie, and comedy of rec hockey. He kept putting the book off because he was playing so much hockey, then realized the hockey was the book. Landon Donovan told InsideHook that one of the five best moments of his life was playing roller hockey with his dad in a Nashville rec league, decades after his dad's semi-pro career ended. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "InsideHook",
+                  "url": "https://www.insidehook.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Close to Home",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Hoboken built the Macy's Thanksgiving Day Parade.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " Before the giant balloons floated down the streets of New York, they got their start in a building at 15th Street and Willow Avenue in Hoboken. That is 43 years of Thanksgiving magic with roots in the Mile Square City. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "The Hoboken Girl",
+                  "url": "https://www.hobokengirl.com/macys-thanksgiving-day-parade-hoboken-nj/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Larry David is coming to Jersey City.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " The Seinfeld co-creator will take the stage at the newly reopened Loew's Jersey Theatre on February 20, 2027, for a conversation moderated by his daughter. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "The Hoboken Girl",
+                  "url": "https://www.hobokengirl.com/larry-david-loews-jersey-theatre-jersey-city-2027/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Quick Hits & Curiosities",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "The Caine Prize winner's story was flagged as about 98 percent AI-generated by detector Pangram. The committee cleared it after a \"human-centered\" investigation, then its own Instagram post announcing the decision scored 99 percent AI. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Pirate Wires",
+                  "url": "https://piratewires.substack.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "The Wall Street Journal is quietly building DJTV, a flagship video news show led by Dow Jones chief growth officer Scott Havens. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Status",
+                  "url": "https://www.status.news/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Dazed rounded up five novels for when you cannot get over your situationship, led by Sally Rooney's Normal People. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Dazed",
+                  "url": "https://dazed.substack.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "The Goal is to Eat made four slogan tees with vintage graphics from old American restaurant menus and matchbooks. You can order by email on November 28 and 29. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "The Goal is to Eat",
+                  "url": "https://tgite.substack.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Google paid for the employment records of the now-defunct Spirit Airlines, and will use them to train its AI models. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "The New York Times",
+                  "url": "https://www.nytimes.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "The Texans are an 85 percent favorite over the Colts tonight on Thursday Night Football. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Snacks",
+                  "url": "https://sherwood.news/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            }
+          ],
+          "links": [
+            {
+              "title": "$107 billion",
+              "url": "https://www.wired.com/story/anthropics-record-breaking-ipo-highlights-the-ai-giants-worst-enemy-itself/"
+            },
+            {
+              "title": "D+6.6",
+              "url": "https://www.theargumentmag.com/p/the-best-and-worst-midterm-candidates"
+            },
+            {
+              "title": "6.6 million",
+              "url": "https://www.wired.com/story/ai-debt-collection-service-exposed-66-million-accounts-and-315000-call-recordings/"
+            },
+            {
+              "title": "23",
+              "url": "https://migrantinsider.com/p/scoop-markwayne-mullin-heads-to-middle"
+            },
+            {
+              "title": "$80,000",
+              "url": "https://www.ft.com/"
+            },
+            {
+              "title": "AP",
+              "url": "https://apnews.com/article/nvidia-jensen-huang-china-national-security-chips-3026bcbe04ab57b844884382e583422a"
+            },
+            {
+              "title": "WIRED",
+              "url": "https://www.wired.com/story/leaked-how-silicon-valley-elites-bankrolled-anti-migrant-pro-israel-propaganda-machine/"
+            },
+            {
+              "title": "Pirate Wires",
+              "url": "https://piratewires.substack.com/"
+            },
+            {
+              "title": "Yahoo Finance",
+              "url": "https://finance.yahoo.com/small-business/articles/major-fried-chicken-chain-franchisee-161700582.html"
+            },
+            {
+              "title": "Counterpoint",
+              "url": "https://counterpoint.substack.com/p/trilateral-summit-edition"
+            },
+            {
+              "title": "InsideHook",
+              "url": "https://www.insidehook.com/"
+            },
+            {
+              "title": "The Hoboken Girl",
+              "url": "https://www.hobokengirl.com/macys-thanksgiving-day-parade-hoboken-nj/"
+            },
+            {
+              "title": "The Hoboken Girl",
+              "url": "https://www.hobokengirl.com/larry-david-loews-jersey-theatre-jersey-city-2027/"
+            },
+            {
+              "title": "Status",
+              "url": "https://www.status.news/"
+            },
+            {
+              "title": "Dazed",
+              "url": "https://dazed.substack.com/"
+            },
+            {
+              "title": "The Goal is to Eat",
+              "url": "https://tgite.substack.com/"
+            },
+            {
+              "title": "The New York Times",
+              "url": "https://www.nytimes.com/"
+            },
+            {
+              "title": "Snacks",
+              "url": "https://sherwood.news/"
+            }
+          ]
+        }
+      }
     }
   ]
 }
