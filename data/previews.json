@@ -1024,6 +1024,40 @@
       "domain": "dynomight.net",
       "checkedAt": "2026-11-15T17:09:01.154458+00:00",
       "available": true
+    },
+    "https://web.archive.org/web/20261107013442/https://www.theatlantic.com/family/2026/11/school-apps-communication-broken/689312/": {
+      "title": "The School Apps Are Out of Control",
+      "description": "But they’re not the only thing that’s broken about communication with parents.",
+      "site": "The Atlantic",
+      "image": "https://web.archive.org/web/20261107013442im_/https://cdn.theatlantic.com/thumbor/Nx5GJwiIFprl-L8Fvo3dEEKvJbs=/0x28:1998x1069/1200x625/media/img/mt/2026/11/1102_School_Comms_2_2000x1125/original.png",
+      "icon": "https://web.archive.org/web/20261107013442im_/https://cdn.theatlantic.com/_next/static/images/favicon-3888b0e329526a975703e3059a02b92d.ico",
+      "domain": "web.archive.org",
+      "checkedAt": "2026-11-19T17:11:34.984002+00:00",
+      "available": true
+    },
+    "https://emergencemagazine.org/essay/benchmarking/": {
+      "title": "Benchma(r)king – James Bridle",
+      "description": "Technologist and artist James Bridle conducts a simple chair-building experiment to explore how our embodied intelligence could meet AI’s disembodied knowledge in more meaningful ways.",
+      "site": "Emergence Magazine",
+      "image": "https://emergencemagazine.org/app/uploads/2026/09/Bridle_Chair_SEO.jpg",
+      "icon": "https://emergencemagazine.org/app/themes/emergence/favicon/favicon-32x32.png",
+      "domain": "emergencemagazine.org",
+      "checkedAt": "2026-11-19T17:11:34.984002+00:00",
+      "available": true
+    },
+    "https://www.nytimes.com/2025/10/09/technology/nvidia-chips-china-megaspeed.html": {
+      "checkedAt": "2026-11-19T17:11:34.984002+00:00",
+      "available": false
+    },
+    "https://www.newyorker.com/magazine/2026/11/16/the-nba-player-who-got-hooked-on-sports-betting": {
+      "title": "An N.B.A. Player Got Hooked on Sports Betting. Soon, He Became the Bet",
+      "description": "The N.B.A. player Jontay Porter got deep into FanDuel, and in debt to the wrong people. The only way out, it seemed, was to gamble on himself.",
+      "site": "The New Yorker",
+      "image": "https://media.newyorker.com/photos/6aed04748eacf0c37c6270b7/16:9/w_1280,c_limit/r50700.png",
+      "icon": "https://www.newyorker.com/verso/static/thenewyorker-us/assets/favicon.ico",
+      "domain": "www.newyorker.com",
+      "checkedAt": "2026-11-19T17:11:34.984002+00:00",
+      "available": true
     }
   }
 }

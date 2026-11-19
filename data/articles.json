@@ -1071,6 +1071,42 @@
       "url": "https://dynomight.net/",
       "publishedAt": "2026-11-08T15:03:00Z",
       "readingStatus": "To Read"
+    },
+    {
+      "id": "readlater-c308153c8a3e835bbed301eb3ea706ce",
+      "channel": "articles",
+      "source": "notion",
+      "title": "The School Apps Are Out of Control",
+      "url": "https://web.archive.org/web/20261107013442/https://www.theatlantic.com/family/2026/11/school-apps-communication-broken/689312/",
+      "publishedAt": "2026-11-19T16:33:00Z",
+      "readingStatus": "To Read"
+    },
+    {
+      "id": "readlater-1e38153c8a3e820a82bc01ad9a5da495",
+      "channel": "articles",
+      "source": "notion",
+      "title": "Benchmarking — Emergence Magazine",
+      "url": "https://emergencemagazine.org/essay/benchmarking/",
+      "publishedAt": "2026-11-19T16:35:00Z",
+      "readingStatus": "To Read"
+    },
+    {
+      "id": "readlater-9648153c8a3e830c801901938520b007",
+      "channel": "articles",
+      "source": "notion",
+      "title": "Nvidia, China, and Megaspeed — The New York Times",
+      "url": "https://www.nytimes.com/2025/10/09/technology/nvidia-chips-china-megaspeed.html",
+      "publishedAt": "2026-11-19T16:35:00Z",
+      "readingStatus": "To Read"
+    },
+    {
+      "id": "readlater-bd68153c8a3e823290f8015f780e8f3b",
+      "channel": "articles",
+      "source": "notion",
+      "title": "The NBA Player Who Got Hooked on Sports Betting",
+      "url": "https://www.newyorker.com/magazine/2026/11/16/the-nba-player-who-got-hooked-on-sports-betting",
+      "publishedAt": "2026-11-19T16:35:00Z",
+      "readingStatus": "To Read"
     }
   ]
 }
