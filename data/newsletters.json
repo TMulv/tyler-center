@@ -312251,6 +312251,1907 @@
       ],
       "publishedAt": "2026-11-19T22:08:00Z",
       "links": []
+    },
+    {
+      "id": "digest-41e8153c-8a3e-8118-99f2-dbff14e699ed",
+      "channel": "newsletters",
+      "source": "notion",
+      "kind": "Agent-written digest",
+      "domain": "Daily newsletter digest",
+      "title": "A teenager builds AI missiles, Wall Street pledges $500B and spends $0, the religious left that isn't - Friday, November 20, 2026",
+      "url": "",
+      "description": "Friday, November 20, 2026 - Morning Edition",
+      "body": "Friday, November 20, 2026 - Morning Edition\n\nToday's Numbers\n\n• $81.3 billion: what Anthropic raised in its Nasdaq debut on Thursday, the largest IPO ever, closing the day valued at $1.76 trillion.\n\n• $500 billion: what Wall Street pledged to finance Nvidia chip purchases for customers, with zero dollars actually deployed so far, per the Wall Street Journal.\n\n• 1 to 2 weeks: extra learning per year for students in schools that ban phones bell to bell, per a Harvard study of 4,600 schools.\n\n• 7,700: measles cases reported in the US since January 2025, as the country loses its measles elimination status.\n\nQuotes of the Day\n\n• \"We will not bend to either business nor political pressure.\" (Dario Amodei, Anthropic CEO, in his Nasdaq speech on IPO day)\n\n• \"Cari and I invested in Anthropic to promote safety, not racing.\" (Dustin Moskovitz, Facebook co-founder and early Anthropic investor, to the New York Times)\n\n• \"Just ridiculous.\" (Thomas Nagel, philosopher and Berggruen Prize winner, on claims about AI consciousness)\n\nAI & The Machines\n\nA 16-year-old dropped out of high school to build AI missiles, and his pitch is cost per kill. Henrijs Dandzbergs joined Y Combinator and founded a startup building a new breed of missile designed to make killing as efficient as possible for the US and its allies. The defense tech gold rush has now reached teenage founders, and framing lethality as an efficiency metric is the kind of thing people will argue about all day. (WIRED)\n\nGoogle built a fake internet so its AI agents can practice without breaking the real one. The company built a giant mirror copy of the web as a sandbox where Chrome AI agents can click, browse, and act without going rogue on live sites. It is a weird and telling piece of infrastructure: the agents are powerful enough to need their own alternate universe to train in. (WIRED)\n\nAnthropic's own AI research is now moving twice as fast, and that crosses its own safety line. AI auditor METR found the rate of Anthropic's AI research progress roughly doubled because AI is doing the research itself, which passes the risk threshold in the company's Responsible Scaling Policy for automated R&D. Crossing that line is supposed to trigger new safety audits, security policies, and transparent reporting, except the policy is not binding. (METR)\n\nWhile Anthropic rang the Nasdaq bell, more than 100 protesters gathered outside its San Francisco headquarters. Demonstrators held signs reading \"Stop the AI race,\" \"Earth is in danger,\" and \"Please stop,\" and four people were arrested for allegedly blocking the office entrance. One protester, Jacob Coxon, went viral earlier for quitting Anthropic over safety concerns. The safety movement has moved from tweets to the street on the day the lab became a public company. (Platformer)\n\nMoney & Power\n\nThe Fed is done cutting and may start hiking, and housing will not help bring inflation down. Markets now fully expect a 25 basis point hike in December, with a 70 percent chance of another in January, 40 percent in March, and about 30 percent in the second quarter of 2027. The problem is that a recovering rental market means housing inflation stops cooling, so the rest of core inflation has to do the heavy lifting to get from around 3 percent to 2 percent. (Conor Sen)\n\nShoppers feel broke, but retailers are having a great quarter anyway. Walmart beat estimates and raised its outlook as US e-commerce sales jumped 23 percent, Target posted its best sales growth in five years, and TJX beat too. Home Depot and Lowe's did well on small repairs while big renovations stayed weak. The trick is value: cut prices, give penny-pinching families something they love at a price that feels right, and they will spend. (Snacks)\n\nAnthropic would need more than $600 billion a year in revenue to earn its valuation. That is the Financial Times math: to return 20 percent on invested capital like its peers, the company needs annual revenue above $600 billion, while Apple generates $478 billion. The gap explains why the pressure to keep building ever more capable systems will be intense, no matter what the CEO promised about pacing the frontier. (Platformer)\n\nThe Culture\n\nDemocrats elected a bunch of pastors, and the press declared a new religious left. The data says no. Adam Hamilton, a Methodist pastor, became the first Democrat in almost a century to win a Senate seat in Kansas, and incoming Texas senator James Talarico is a Presbyterian seminarian. But religion scholar Ryan Burge, who fielded 16 reporter calls in 48 hours after the midterms, says the party has not found God and religious voters have not come back. Mainline Christianity has collapsed numerically over 75 years, disaffiliation keeps growing, and a Christian appeal may help at the margins in close races, but it is a hammer with vanishingly few nails. (The Argument)\n\nThe Jensen Huang scandal has regular tech workers worried about honeypots. Newly rich and powerful tech workers were already anxious, but the fallout from Huang's resignation has turned dating paranoia into a whole vibe: are the people pursuing you interested in you, or in your stock options? The scandal has officially trickled down from the boardroom to everyday Silicon Valley dating life. (WIRED)\n\nHollywood made a movie about OpenAI's founding, and Sam Altman is the flamboyant villain. The trailer for Luca Guadagnino's \"Artificial\" stars Andrew Garfield as Altman, shown sipping iced matcha lattes, playing Candy Crush, and interrupting meetings for vodka shots while deferring to Ilya Sutskever as the real mastermind. Pirate Wires calls the portrayal borderline homophobic and says the real Altman is a calculating, hyper-self-aware operator, not an unserious bimbo. The film gives the AI wars a 100 percent probability of doom, with a side of getting slayed by the evil AI overlord. (Pirate Wires)\n\nQuick Hits & Curiosities\n\n• Meta's AI assistant Muse can track Instagram users who do not follow you back, and some people are using it to settle petty unfollow grudges. (WIRED)\n\n• Former OpenAI researcher Will Depue found evidence that several of China's top AI labs trained models on export-controlled Nvidia Blackwell chips, and says the controls are clearly not working. (Pirate Wires)\n\n• Disney is out of the running for 2030 World Cup broadcast rights, and Netflix, Amazon, and Fox are expected to bid up to $1.5 billion. (CNBC)\n\n• After backing California's SB 53, Anthropic filed a weaker safety framework under it, recasting its bigger commitments as voluntary ones. (Platformer)\n\n• Instagram is bringing Amazon affiliate links directly to Reels and posts, so creators can sell you things without you ever leaving the app. (WIRED)",
+      "blocks": [
+        {
+          "type": "heading_1",
+          "runs": [
+            {
+              "text": "Friday, November 20, 2026 - Morning Edition",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Today's Numbers",
+              "url": "",
+              "bold": true,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "$81.3 billion",
+              "url": "https://www.platformer.news/anthropic-goes-public/",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": ": what Anthropic raised in its Nasdaq debut on Thursday, the largest IPO ever, closing the day valued at $1.76 trillion.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "$500 billion",
+              "url": "https://www.wsj.com/finance/wall-street-pledged-to-mobilize-500-billion-for-nvidiabut-hasnt-put-up-a-dime-1e41f276",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": ": what Wall Street pledged to finance Nvidia chip purchases for customers, with zero dollars actually deployed so far, per the Wall Street Journal.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "1 to 2 weeks",
+              "url": "https://www.wsj.com/us-news/education/school-cellphone-bans-boost-students-learning-study-suggests-7de6d809",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": ": extra learning per year for students in schools that ban phones bell to bell, per a Harvard study of 4,600 schools.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "7,700",
+              "url": "https://www.piratewires.com/",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": ": measles cases reported in the US since January 2025, as the country loses its measles elimination status.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Quotes of the Day",
+              "url": "",
+              "bold": true,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "\"We will not bend to either business nor political pressure.\" (Dario Amodei, Anthropic CEO, in his Nasdaq speech on IPO day)",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "\"Cari and I invested in Anthropic to promote safety, not racing.\" (Dustin Moskovitz, Facebook co-founder and early Anthropic investor, to the New York Times)",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "\"Just ridiculous.\" (Thomas Nagel, philosopher and Berggruen Prize winner, on claims about AI consciousness)",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "AI & The Machines",
+              "url": "",
+              "bold": true,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "A 16-year-old dropped out of high school to build AI missiles, and his pitch is cost per kill.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " Henrijs Dandzbergs joined Y Combinator and founded a startup building a new breed of missile designed to make killing as efficient as possible for the US and its allies. The defense tech gold rush has now reached teenage founders, and framing lethality as an efficiency metric is the kind of thing people will argue about all day. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "WIRED",
+              "url": "https://www.wired.com/",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Google built a fake internet so its AI agents can practice without breaking the real one.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " The company built a giant mirror copy of the web as a sandbox where Chrome AI agents can click, browse, and act without going rogue on live sites. It is a weird and telling piece of infrastructure: the agents are powerful enough to need their own alternate universe to train in. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "WIRED",
+              "url": "https://www.wired.com/",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Anthropic's own AI research is now moving twice as fast, and that crosses its own safety line.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " AI auditor METR found the rate of Anthropic's AI research progress roughly doubled because AI is doing the research itself, which passes the risk threshold in the company's Responsible Scaling Policy for automated R&D. Crossing that line is supposed to trigger new safety audits, security policies, and transparent reporting, except the policy is not binding. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "METR",
+              "url": "https://metr.org/blog/2026-11-05-anthropic-ai-rd-acceleration-assessment/",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "While Anthropic rang the Nasdaq bell, more than 100 protesters gathered outside its San Francisco headquarters.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " Demonstrators held signs reading \"Stop the AI race,\" \"Earth is in danger,\" and \"Please stop,\" and four people were arrested for allegedly blocking the office entrance. One protester, Jacob Coxon, went viral earlier for quitting Anthropic over safety concerns. The safety movement has moved from tweets to the street on the day the lab became a public company. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Platformer",
+              "url": "https://www.platformer.news/anthropic-goes-public/",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Money & Power",
+              "url": "",
+              "bold": true,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "The Fed is done cutting and may start hiking, and housing will not help bring inflation down.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " Markets now fully expect a 25 basis point hike in December, with a 70 percent chance of another in January, 40 percent in March, and about 30 percent in the second quarter of 2027. The problem is that a recovering rental market means housing inflation stops cooling, so the rest of core inflation has to do the heavy lifting to get from around 3 percent to 2 percent. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Conor Sen",
+              "url": "https://conorsen.substack.com/p/the-fed-cant-count-on-housing-in",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Shoppers feel broke, but retailers are having a great quarter anyway.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " Walmart beat estimates and raised its outlook as US e-commerce sales jumped 23 percent, Target posted its best sales growth in five years, and TJX beat too. Home Depot and Lowe's did well on small repairs while big renovations stayed weak. The trick is value: cut prices, give penny-pinching families something they love at a price that feels right, and they will spend. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Snacks",
+              "url": "https://sherwood.news/snacks/newsletters/retail-vibe-check/",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Anthropic would need more than $600 billion a year in revenue to earn its valuation.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " That is the Financial Times math: to return 20 percent on invested capital like its peers, the company needs annual revenue above $600 billion, while Apple generates $478 billion. The gap explains why the pressure to keep building ever more capable systems will be intense, no matter what the CEO promised about pacing the frontier. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Platformer",
+              "url": "https://www.platformer.news/anthropic-goes-public/",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "The Culture",
+              "url": "",
+              "bold": true,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Democrats elected a bunch of pastors, and the press declared a new religious left. The data says no.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " Adam Hamilton, a Methodist pastor, became the first Democrat in almost a century to win a Senate seat in Kansas, and incoming Texas senator James Talarico is a Presbyterian seminarian. But religion scholar Ryan Burge, who fielded 16 reporter calls in 48 hours after the midterms, says the party has not found God and religious voters have not come back. Mainline Christianity has collapsed numerically over 75 years, disaffiliation keeps growing, and a Christian appeal may help at the margins in close races, but it is a hammer with vanishingly few nails. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "The Argument",
+              "url": "https://www.theargumentmag.com/p/democratic-candidates-found-god-but",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "The Jensen Huang scandal has regular tech workers worried about honeypots.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " Newly rich and powerful tech workers were already anxious, but the fallout from Huang's resignation has turned dating paranoia into a whole vibe: are the people pursuing you interested in you, or in your stock options? The scandal has officially trickled down from the boardroom to everyday Silicon Valley dating life. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "WIRED",
+              "url": "https://www.wired.com/",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Hollywood made a movie about OpenAI's founding, and Sam Altman is the flamboyant villain.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " The trailer for Luca Guadagnino's \"Artificial\" stars Andrew Garfield as Altman, shown sipping iced matcha lattes, playing Candy Crush, and interrupting meetings for vodka shots while deferring to Ilya Sutskever as the real mastermind. Pirate Wires calls the portrayal borderline homophobic and says the real Altman is a calculating, hyper-self-aware operator, not an unserious bimbo. The film gives the AI wars a 100 percent probability of doom, with a side of getting slayed by the evil AI overlord. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Pirate Wires",
+              "url": "https://www.piratewires.com/",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Quick Hits & Curiosities",
+              "url": "",
+              "bold": true,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Meta's AI assistant Muse can track Instagram users who do not follow you back, and some people are using it to settle petty unfollow grudges. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "WIRED",
+              "url": "https://www.wired.com/",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Former OpenAI researcher Will Depue found evidence that several of China's top AI labs trained models on export-controlled Nvidia Blackwell chips, and says the controls are clearly not working. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Pirate Wires",
+              "url": "https://www.piratewires.com/",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Disney is out of the running for 2030 World Cup broadcast rights, and Netflix, Amazon, and Fox are expected to bid up to $1.5 billion. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "CNBC",
+              "url": "https://www.cnbc.com/2026/11/19/netflix-amazon-fox-bid-for-2030-mens-world-cup-rights-disney-out.html",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "After backing California's SB 53, Anthropic filed a weaker safety framework under it, recasting its bigger commitments as voluntary ones. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Platformer",
+              "url": "https://www.platformer.news/anthropic-goes-public/",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Instagram is bringing Amazon affiliate links directly to Reels and posts, so creators can sell you things without you ever leaving the app. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "WIRED",
+              "url": "https://www.wired.com/",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        }
+      ],
+      "publishedAt": "2026-11-20T13:09:00Z",
+      "links": [
+        {
+          "title": "Platformer",
+          "url": "https://www.platformer.news/anthropic-goes-public/"
+        },
+        {
+          "title": "$500 billion",
+          "url": "https://www.wsj.com/finance/wall-street-pledged-to-mobilize-500-billion-for-nvidiabut-hasnt-put-up-a-dime-1e41f276"
+        },
+        {
+          "title": "1 to 2 weeks",
+          "url": "https://www.wsj.com/us-news/education/school-cellphone-bans-boost-students-learning-study-suggests-7de6d809"
+        },
+        {
+          "title": "Pirate Wires",
+          "url": "https://www.piratewires.com/"
+        },
+        {
+          "title": "WIRED",
+          "url": "https://www.wired.com/"
+        },
+        {
+          "title": "METR",
+          "url": "https://metr.org/blog/2026-11-05-anthropic-ai-rd-acceleration-assessment/"
+        },
+        {
+          "title": "Conor Sen",
+          "url": "https://conorsen.substack.com/p/the-fed-cant-count-on-housing-in"
+        },
+        {
+          "title": "Snacks",
+          "url": "https://sherwood.news/snacks/newsletters/retail-vibe-check/"
+        },
+        {
+          "title": "The Argument",
+          "url": "https://www.theargumentmag.com/p/democratic-candidates-found-god-but"
+        },
+        {
+          "title": "CNBC",
+          "url": "https://www.cnbc.com/2026/11/19/netflix-amazon-fox-bid-for-2030-mens-world-cup-rights-disney-out.html"
+        }
+      ],
+      "versions": {
+        "morning": {
+          "body": "Friday, November 20, 2026 - Morning Edition\n\nToday's Numbers\n\n• $81.3 billion: what Anthropic raised in its Nasdaq debut on Thursday, the largest IPO ever, closing the day valued at $1.76 trillion.\n\n• $500 billion: what Wall Street pledged to finance Nvidia chip purchases for customers, with zero dollars actually deployed so far, per the Wall Street Journal.\n\n• 1 to 2 weeks: extra learning per year for students in schools that ban phones bell to bell, per a Harvard study of 4,600 schools.\n\n• 7,700: measles cases reported in the US since January 2025, as the country loses its measles elimination status.\n\nQuotes of the Day\n\n• \"We will not bend to either business nor political pressure.\" (Dario Amodei, Anthropic CEO, in his Nasdaq speech on IPO day)\n\n• \"Cari and I invested in Anthropic to promote safety, not racing.\" (Dustin Moskovitz, Facebook co-founder and early Anthropic investor, to the New York Times)\n\n• \"Just ridiculous.\" (Thomas Nagel, philosopher and Berggruen Prize winner, on claims about AI consciousness)\n\nAI & The Machines\n\nA 16-year-old dropped out of high school to build AI missiles, and his pitch is cost per kill. Henrijs Dandzbergs joined Y Combinator and founded a startup building a new breed of missile designed to make killing as efficient as possible for the US and its allies. The defense tech gold rush has now reached teenage founders, and framing lethality as an efficiency metric is the kind of thing people will argue about all day. (WIRED)\n\nGoogle built a fake internet so its AI agents can practice without breaking the real one. The company built a giant mirror copy of the web as a sandbox where Chrome AI agents can click, browse, and act without going rogue on live sites. It is a weird and telling piece of infrastructure: the agents are powerful enough to need their own alternate universe to train in. (WIRED)\n\nAnthropic's own AI research is now moving twice as fast, and that crosses its own safety line. AI auditor METR found the rate of Anthropic's AI research progress roughly doubled because AI is doing the research itself, which passes the risk threshold in the company's Responsible Scaling Policy for automated R&D. Crossing that line is supposed to trigger new safety audits, security policies, and transparent reporting, except the policy is not binding. (METR)\n\nWhile Anthropic rang the Nasdaq bell, more than 100 protesters gathered outside its San Francisco headquarters. Demonstrators held signs reading \"Stop the AI race,\" \"Earth is in danger,\" and \"Please stop,\" and four people were arrested for allegedly blocking the office entrance. One protester, Jacob Coxon, went viral earlier for quitting Anthropic over safety concerns. The safety movement has moved from tweets to the street on the day the lab became a public company. (Platformer)\n\nMoney & Power\n\nThe Fed is done cutting and may start hiking, and housing will not help bring inflation down. Markets now fully expect a 25 basis point hike in December, with a 70 percent chance of another in January, 40 percent in March, and about 30 percent in the second quarter of 2027. The problem is that a recovering rental market means housing inflation stops cooling, so the rest of core inflation has to do the heavy lifting to get from around 3 percent to 2 percent. (Conor Sen)\n\nShoppers feel broke, but retailers are having a great quarter anyway. Walmart beat estimates and raised its outlook as US e-commerce sales jumped 23 percent, Target posted its best sales growth in five years, and TJX beat too. Home Depot and Lowe's did well on small repairs while big renovations stayed weak. The trick is value: cut prices, give penny-pinching families something they love at a price that feels right, and they will spend. (Snacks)\n\nAnthropic would need more than $600 billion a year in revenue to earn its valuation. That is the Financial Times math: to return 20 percent on invested capital like its peers, the company needs annual revenue above $600 billion, while Apple generates $478 billion. The gap explains why the pressure to keep building ever more capable systems will be intense, no matter what the CEO promised about pacing the frontier. (Platformer)\n\nThe Culture\n\nDemocrats elected a bunch of pastors, and the press declared a new religious left. The data says no. Adam Hamilton, a Methodist pastor, became the first Democrat in almost a century to win a Senate seat in Kansas, and incoming Texas senator James Talarico is a Presbyterian seminarian. But religion scholar Ryan Burge, who fielded 16 reporter calls in 48 hours after the midterms, says the party has not found God and religious voters have not come back. Mainline Christianity has collapsed numerically over 75 years, disaffiliation keeps growing, and a Christian appeal may help at the margins in close races, but it is a hammer with vanishingly few nails. (The Argument)\n\nThe Jensen Huang scandal has regular tech workers worried about honeypots. Newly rich and powerful tech workers were already anxious, but the fallout from Huang's resignation has turned dating paranoia into a whole vibe: are the people pursuing you interested in you, or in your stock options? The scandal has officially trickled down from the boardroom to everyday Silicon Valley dating life. (WIRED)\n\nHollywood made a movie about OpenAI's founding, and Sam Altman is the flamboyant villain. The trailer for Luca Guadagnino's \"Artificial\" stars Andrew Garfield as Altman, shown sipping iced matcha lattes, playing Candy Crush, and interrupting meetings for vodka shots while deferring to Ilya Sutskever as the real mastermind. Pirate Wires calls the portrayal borderline homophobic and says the real Altman is a calculating, hyper-self-aware operator, not an unserious bimbo. The film gives the AI wars a 100 percent probability of doom, with a side of getting slayed by the evil AI overlord. (Pirate Wires)\n\nQuick Hits & Curiosities\n\n• Meta's AI assistant Muse can track Instagram users who do not follow you back, and some people are using it to settle petty unfollow grudges. (WIRED)\n\n• Former OpenAI researcher Will Depue found evidence that several of China's top AI labs trained models on export-controlled Nvidia Blackwell chips, and says the controls are clearly not working. (Pirate Wires)\n\n• Disney is out of the running for 2030 World Cup broadcast rights, and Netflix, Amazon, and Fox are expected to bid up to $1.5 billion. (CNBC)\n\n• After backing California's SB 53, Anthropic filed a weaker safety framework under it, recasting its bigger commitments as voluntary ones. (Platformer)\n\n• Instagram is bringing Amazon affiliate links directly to Reels and posts, so creators can sell you things without you ever leaving the app. (WIRED)",
+          "blocks": [
+            {
+              "type": "heading_1",
+              "runs": [
+                {
+                  "text": "Friday, November 20, 2026 - Morning Edition",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Today's Numbers",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "$81.3 billion",
+                  "url": "https://www.platformer.news/anthropic-goes-public/",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": what Anthropic raised in its Nasdaq debut on Thursday, the largest IPO ever, closing the day valued at $1.76 trillion.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "$500 billion",
+                  "url": "https://www.wsj.com/finance/wall-street-pledged-to-mobilize-500-billion-for-nvidiabut-hasnt-put-up-a-dime-1e41f276",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": what Wall Street pledged to finance Nvidia chip purchases for customers, with zero dollars actually deployed so far, per the Wall Street Journal.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "1 to 2 weeks",
+                  "url": "https://www.wsj.com/us-news/education/school-cellphone-bans-boost-students-learning-study-suggests-7de6d809",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": extra learning per year for students in schools that ban phones bell to bell, per a Harvard study of 4,600 schools.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "7,700",
+                  "url": "https://www.piratewires.com/",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": measles cases reported in the US since January 2025, as the country loses its measles elimination status.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Quotes of the Day",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "\"We will not bend to either business nor political pressure.\" (Dario Amodei, Anthropic CEO, in his Nasdaq speech on IPO day)",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "\"Cari and I invested in Anthropic to promote safety, not racing.\" (Dustin Moskovitz, Facebook co-founder and early Anthropic investor, to the New York Times)",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "\"Just ridiculous.\" (Thomas Nagel, philosopher and Berggruen Prize winner, on claims about AI consciousness)",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "AI & The Machines",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "A 16-year-old dropped out of high school to build AI missiles, and his pitch is cost per kill.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " Henrijs Dandzbergs joined Y Combinator and founded a startup building a new breed of missile designed to make killing as efficient as possible for the US and its allies. The defense tech gold rush has now reached teenage founders, and framing lethality as an efficiency metric is the kind of thing people will argue about all day. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "WIRED",
+                  "url": "https://www.wired.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Google built a fake internet so its AI agents can practice without breaking the real one.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " The company built a giant mirror copy of the web as a sandbox where Chrome AI agents can click, browse, and act without going rogue on live sites. It is a weird and telling piece of infrastructure: the agents are powerful enough to need their own alternate universe to train in. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "WIRED",
+                  "url": "https://www.wired.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Anthropic's own AI research is now moving twice as fast, and that crosses its own safety line.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " AI auditor METR found the rate of Anthropic's AI research progress roughly doubled because AI is doing the research itself, which passes the risk threshold in the company's Responsible Scaling Policy for automated R&D. Crossing that line is supposed to trigger new safety audits, security policies, and transparent reporting, except the policy is not binding. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "METR",
+                  "url": "https://metr.org/blog/2026-11-05-anthropic-ai-rd-acceleration-assessment/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "While Anthropic rang the Nasdaq bell, more than 100 protesters gathered outside its San Francisco headquarters.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " Demonstrators held signs reading \"Stop the AI race,\" \"Earth is in danger,\" and \"Please stop,\" and four people were arrested for allegedly blocking the office entrance. One protester, Jacob Coxon, went viral earlier for quitting Anthropic over safety concerns. The safety movement has moved from tweets to the street on the day the lab became a public company. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Platformer",
+                  "url": "https://www.platformer.news/anthropic-goes-public/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Money & Power",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "The Fed is done cutting and may start hiking, and housing will not help bring inflation down.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " Markets now fully expect a 25 basis point hike in December, with a 70 percent chance of another in January, 40 percent in March, and about 30 percent in the second quarter of 2027. The problem is that a recovering rental market means housing inflation stops cooling, so the rest of core inflation has to do the heavy lifting to get from around 3 percent to 2 percent. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Conor Sen",
+                  "url": "https://conorsen.substack.com/p/the-fed-cant-count-on-housing-in",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Shoppers feel broke, but retailers are having a great quarter anyway.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " Walmart beat estimates and raised its outlook as US e-commerce sales jumped 23 percent, Target posted its best sales growth in five years, and TJX beat too. Home Depot and Lowe's did well on small repairs while big renovations stayed weak. The trick is value: cut prices, give penny-pinching families something they love at a price that feels right, and they will spend. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Snacks",
+                  "url": "https://sherwood.news/snacks/newsletters/retail-vibe-check/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Anthropic would need more than $600 billion a year in revenue to earn its valuation.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " That is the Financial Times math: to return 20 percent on invested capital like its peers, the company needs annual revenue above $600 billion, while Apple generates $478 billion. The gap explains why the pressure to keep building ever more capable systems will be intense, no matter what the CEO promised about pacing the frontier. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Platformer",
+                  "url": "https://www.platformer.news/anthropic-goes-public/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "The Culture",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Democrats elected a bunch of pastors, and the press declared a new religious left. The data says no.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " Adam Hamilton, a Methodist pastor, became the first Democrat in almost a century to win a Senate seat in Kansas, and incoming Texas senator James Talarico is a Presbyterian seminarian. But religion scholar Ryan Burge, who fielded 16 reporter calls in 48 hours after the midterms, says the party has not found God and religious voters have not come back. Mainline Christianity has collapsed numerically over 75 years, disaffiliation keeps growing, and a Christian appeal may help at the margins in close races, but it is a hammer with vanishingly few nails. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "The Argument",
+                  "url": "https://www.theargumentmag.com/p/democratic-candidates-found-god-but",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "The Jensen Huang scandal has regular tech workers worried about honeypots.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " Newly rich and powerful tech workers were already anxious, but the fallout from Huang's resignation has turned dating paranoia into a whole vibe: are the people pursuing you interested in you, or in your stock options? The scandal has officially trickled down from the boardroom to everyday Silicon Valley dating life. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "WIRED",
+                  "url": "https://www.wired.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Hollywood made a movie about OpenAI's founding, and Sam Altman is the flamboyant villain.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " The trailer for Luca Guadagnino's \"Artificial\" stars Andrew Garfield as Altman, shown sipping iced matcha lattes, playing Candy Crush, and interrupting meetings for vodka shots while deferring to Ilya Sutskever as the real mastermind. Pirate Wires calls the portrayal borderline homophobic and says the real Altman is a calculating, hyper-self-aware operator, not an unserious bimbo. The film gives the AI wars a 100 percent probability of doom, with a side of getting slayed by the evil AI overlord. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Pirate Wires",
+                  "url": "https://www.piratewires.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Quick Hits & Curiosities",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Meta's AI assistant Muse can track Instagram users who do not follow you back, and some people are using it to settle petty unfollow grudges. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "WIRED",
+                  "url": "https://www.wired.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Former OpenAI researcher Will Depue found evidence that several of China's top AI labs trained models on export-controlled Nvidia Blackwell chips, and says the controls are clearly not working. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Pirate Wires",
+                  "url": "https://www.piratewires.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Disney is out of the running for 2030 World Cup broadcast rights, and Netflix, Amazon, and Fox are expected to bid up to $1.5 billion. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "CNBC",
+                  "url": "https://www.cnbc.com/2026/11/19/netflix-amazon-fox-bid-for-2030-mens-world-cup-rights-disney-out.html",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "After backing California's SB 53, Anthropic filed a weaker safety framework under it, recasting its bigger commitments as voluntary ones. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Platformer",
+                  "url": "https://www.platformer.news/anthropic-goes-public/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Instagram is bringing Amazon affiliate links directly to Reels and posts, so creators can sell you things without you ever leaving the app. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "WIRED",
+                  "url": "https://www.wired.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            }
+          ],
+          "links": [
+            {
+              "title": "Platformer",
+              "url": "https://www.platformer.news/anthropic-goes-public/"
+            },
+            {
+              "title": "$500 billion",
+              "url": "https://www.wsj.com/finance/wall-street-pledged-to-mobilize-500-billion-for-nvidiabut-hasnt-put-up-a-dime-1e41f276"
+            },
+            {
+              "title": "1 to 2 weeks",
+              "url": "https://www.wsj.com/us-news/education/school-cellphone-bans-boost-students-learning-study-suggests-7de6d809"
+            },
+            {
+              "title": "Pirate Wires",
+              "url": "https://www.piratewires.com/"
+            },
+            {
+              "title": "WIRED",
+              "url": "https://www.wired.com/"
+            },
+            {
+              "title": "METR",
+              "url": "https://metr.org/blog/2026-11-05-anthropic-ai-rd-acceleration-assessment/"
+            },
+            {
+              "title": "Conor Sen",
+              "url": "https://conorsen.substack.com/p/the-fed-cant-count-on-housing-in"
+            },
+            {
+              "title": "Snacks",
+              "url": "https://sherwood.news/snacks/newsletters/retail-vibe-check/"
+            },
+            {
+              "title": "The Argument",
+              "url": "https://www.theargumentmag.com/p/democratic-candidates-found-god-but"
+            },
+            {
+              "title": "CNBC",
+              "url": "https://www.cnbc.com/2026/11/19/netflix-amazon-fox-bid-for-2030-mens-world-cup-rights-disney-out.html"
+            }
+          ]
+        },
+        "full": {
+          "body": "Friday, November 20, 2026 - Morning Edition\n\nToday's Numbers\n\n• $81.3 billion: what Anthropic raised in its Nasdaq debut on Thursday, the largest IPO ever, closing the day valued at $1.76 trillion.\n\n• $500 billion: what Wall Street pledged to finance Nvidia chip purchases for customers, with zero dollars actually deployed so far, per the Wall Street Journal.\n\n• 1 to 2 weeks: extra learning per year for students in schools that ban phones bell to bell, per a Harvard study of 4,600 schools.\n\n• 7,700: measles cases reported in the US since January 2025, as the country loses its measles elimination status.\n\nQuotes of the Day\n\n• \"We will not bend to either business nor political pressure.\" (Dario Amodei, Anthropic CEO, in his Nasdaq speech on IPO day)\n\n• \"Cari and I invested in Anthropic to promote safety, not racing.\" (Dustin Moskovitz, Facebook co-founder and early Anthropic investor, to the New York Times)\n\n• \"Just ridiculous.\" (Thomas Nagel, philosopher and Berggruen Prize winner, on claims about AI consciousness)\n\nAI & The Machines\n\nA 16-year-old dropped out of high school to build AI missiles, and his pitch is cost per kill. Henrijs Dandzbergs joined Y Combinator and founded a startup building a new breed of missile designed to make killing as efficient as possible for the US and its allies. The defense tech gold rush has now reached teenage founders, and framing lethality as an efficiency metric is the kind of thing people will argue about all day. (WIRED)\n\nGoogle built a fake internet so its AI agents can practice without breaking the real one. The company built a giant mirror copy of the web as a sandbox where Chrome AI agents can click, browse, and act without going rogue on live sites. It is a weird and telling piece of infrastructure: the agents are powerful enough to need their own alternate universe to train in. (WIRED)\n\nAnthropic's own AI research is now moving twice as fast, and that crosses its own safety line. AI auditor METR found the rate of Anthropic's AI research progress roughly doubled because AI is doing the research itself, which passes the risk threshold in the company's Responsible Scaling Policy for automated R&D. Crossing that line is supposed to trigger new safety audits, security policies, and transparent reporting, except the policy is not binding. (METR)\n\nWhile Anthropic rang the Nasdaq bell, more than 100 protesters gathered outside its San Francisco headquarters. Demonstrators held signs reading \"Stop the AI race,\" \"Earth is in danger,\" and \"Please stop,\" and four people were arrested for allegedly blocking the office entrance. One protester, Jacob Coxon, went viral earlier for quitting Anthropic over safety concerns. The safety movement has moved from tweets to the street on the day the lab became a public company. (Platformer)\n\nMoney & Power\n\nThe Fed is done cutting and may start hiking, and housing will not help bring inflation down. Markets now fully expect a 25 basis point hike in December, with a 70 percent chance of another in January, 40 percent in March, and about 30 percent in the second quarter of 2027. The problem is that a recovering rental market means housing inflation stops cooling, so the rest of core inflation has to do the heavy lifting to get from around 3 percent to 2 percent. (Conor Sen)\n\nShoppers feel broke, but retailers are having a great quarter anyway. Walmart beat estimates and raised its outlook as US e-commerce sales jumped 23 percent, Target posted its best sales growth in five years, and TJX beat too. Home Depot and Lowe's did well on small repairs while big renovations stayed weak. The trick is value: cut prices, give penny-pinching families something they love at a price that feels right, and they will spend. (Snacks)\n\nAnthropic would need more than $600 billion a year in revenue to earn its valuation. That is the Financial Times math: to return 20 percent on invested capital like its peers, the company needs annual revenue above $600 billion, while Apple generates $478 billion. The gap explains why the pressure to keep building ever more capable systems will be intense, no matter what the CEO promised about pacing the frontier. (Platformer)\n\nThe Culture\n\nDemocrats elected a bunch of pastors, and the press declared a new religious left. The data says no. Adam Hamilton, a Methodist pastor, became the first Democrat in almost a century to win a Senate seat in Kansas, and incoming Texas senator James Talarico is a Presbyterian seminarian. But religion scholar Ryan Burge, who fielded 16 reporter calls in 48 hours after the midterms, says the party has not found God and religious voters have not come back. Mainline Christianity has collapsed numerically over 75 years, disaffiliation keeps growing, and a Christian appeal may help at the margins in close races, but it is a hammer with vanishingly few nails. (The Argument)\n\nThe Jensen Huang scandal has regular tech workers worried about honeypots. Newly rich and powerful tech workers were already anxious, but the fallout from Huang's resignation has turned dating paranoia into a whole vibe: are the people pursuing you interested in you, or in your stock options? The scandal has officially trickled down from the boardroom to everyday Silicon Valley dating life. (WIRED)\n\nHollywood made a movie about OpenAI's founding, and Sam Altman is the flamboyant villain. The trailer for Luca Guadagnino's \"Artificial\" stars Andrew Garfield as Altman, shown sipping iced matcha lattes, playing Candy Crush, and interrupting meetings for vodka shots while deferring to Ilya Sutskever as the real mastermind. Pirate Wires calls the portrayal borderline homophobic and says the real Altman is a calculating, hyper-self-aware operator, not an unserious bimbo. The film gives the AI wars a 100 percent probability of doom, with a side of getting slayed by the evil AI overlord. (Pirate Wires)\n\nQuick Hits & Curiosities\n\n• Meta's AI assistant Muse can track Instagram users who do not follow you back, and some people are using it to settle petty unfollow grudges. (WIRED)\n\n• Former OpenAI researcher Will Depue found evidence that several of China's top AI labs trained models on export-controlled Nvidia Blackwell chips, and says the controls are clearly not working. (Pirate Wires)\n\n• Disney is out of the running for 2030 World Cup broadcast rights, and Netflix, Amazon, and Fox are expected to bid up to $1.5 billion. (CNBC)\n\n• After backing California's SB 53, Anthropic filed a weaker safety framework under it, recasting its bigger commitments as voluntary ones. (Platformer)\n\n• Instagram is bringing Amazon affiliate links directly to Reels and posts, so creators can sell you things without you ever leaving the app. (WIRED)",
+          "blocks": [
+            {
+              "type": "heading_1",
+              "runs": [
+                {
+                  "text": "Friday, November 20, 2026 - Morning Edition",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Today's Numbers",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "$81.3 billion",
+                  "url": "https://www.platformer.news/anthropic-goes-public/",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": what Anthropic raised in its Nasdaq debut on Thursday, the largest IPO ever, closing the day valued at $1.76 trillion.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "$500 billion",
+                  "url": "https://www.wsj.com/finance/wall-street-pledged-to-mobilize-500-billion-for-nvidiabut-hasnt-put-up-a-dime-1e41f276",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": what Wall Street pledged to finance Nvidia chip purchases for customers, with zero dollars actually deployed so far, per the Wall Street Journal.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "1 to 2 weeks",
+                  "url": "https://www.wsj.com/us-news/education/school-cellphone-bans-boost-students-learning-study-suggests-7de6d809",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": extra learning per year for students in schools that ban phones bell to bell, per a Harvard study of 4,600 schools.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "7,700",
+                  "url": "https://www.piratewires.com/",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": measles cases reported in the US since January 2025, as the country loses its measles elimination status.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Quotes of the Day",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "\"We will not bend to either business nor political pressure.\" (Dario Amodei, Anthropic CEO, in his Nasdaq speech on IPO day)",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "\"Cari and I invested in Anthropic to promote safety, not racing.\" (Dustin Moskovitz, Facebook co-founder and early Anthropic investor, to the New York Times)",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "\"Just ridiculous.\" (Thomas Nagel, philosopher and Berggruen Prize winner, on claims about AI consciousness)",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "AI & The Machines",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "A 16-year-old dropped out of high school to build AI missiles, and his pitch is cost per kill.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " Henrijs Dandzbergs joined Y Combinator and founded a startup building a new breed of missile designed to make killing as efficient as possible for the US and its allies. The defense tech gold rush has now reached teenage founders, and framing lethality as an efficiency metric is the kind of thing people will argue about all day. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "WIRED",
+                  "url": "https://www.wired.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Google built a fake internet so its AI agents can practice without breaking the real one.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " The company built a giant mirror copy of the web as a sandbox where Chrome AI agents can click, browse, and act without going rogue on live sites. It is a weird and telling piece of infrastructure: the agents are powerful enough to need their own alternate universe to train in. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "WIRED",
+                  "url": "https://www.wired.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Anthropic's own AI research is now moving twice as fast, and that crosses its own safety line.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " AI auditor METR found the rate of Anthropic's AI research progress roughly doubled because AI is doing the research itself, which passes the risk threshold in the company's Responsible Scaling Policy for automated R&D. Crossing that line is supposed to trigger new safety audits, security policies, and transparent reporting, except the policy is not binding. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "METR",
+                  "url": "https://metr.org/blog/2026-11-05-anthropic-ai-rd-acceleration-assessment/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "While Anthropic rang the Nasdaq bell, more than 100 protesters gathered outside its San Francisco headquarters.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " Demonstrators held signs reading \"Stop the AI race,\" \"Earth is in danger,\" and \"Please stop,\" and four people were arrested for allegedly blocking the office entrance. One protester, Jacob Coxon, went viral earlier for quitting Anthropic over safety concerns. The safety movement has moved from tweets to the street on the day the lab became a public company. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Platformer",
+                  "url": "https://www.platformer.news/anthropic-goes-public/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Money & Power",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "The Fed is done cutting and may start hiking, and housing will not help bring inflation down.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " Markets now fully expect a 25 basis point hike in December, with a 70 percent chance of another in January, 40 percent in March, and about 30 percent in the second quarter of 2027. The problem is that a recovering rental market means housing inflation stops cooling, so the rest of core inflation has to do the heavy lifting to get from around 3 percent to 2 percent. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Conor Sen",
+                  "url": "https://conorsen.substack.com/p/the-fed-cant-count-on-housing-in",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Shoppers feel broke, but retailers are having a great quarter anyway.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " Walmart beat estimates and raised its outlook as US e-commerce sales jumped 23 percent, Target posted its best sales growth in five years, and TJX beat too. Home Depot and Lowe's did well on small repairs while big renovations stayed weak. The trick is value: cut prices, give penny-pinching families something they love at a price that feels right, and they will spend. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Snacks",
+                  "url": "https://sherwood.news/snacks/newsletters/retail-vibe-check/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Anthropic would need more than $600 billion a year in revenue to earn its valuation.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " That is the Financial Times math: to return 20 percent on invested capital like its peers, the company needs annual revenue above $600 billion, while Apple generates $478 billion. The gap explains why the pressure to keep building ever more capable systems will be intense, no matter what the CEO promised about pacing the frontier. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Platformer",
+                  "url": "https://www.platformer.news/anthropic-goes-public/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "The Culture",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Democrats elected a bunch of pastors, and the press declared a new religious left. The data says no.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " Adam Hamilton, a Methodist pastor, became the first Democrat in almost a century to win a Senate seat in Kansas, and incoming Texas senator James Talarico is a Presbyterian seminarian. But religion scholar Ryan Burge, who fielded 16 reporter calls in 48 hours after the midterms, says the party has not found God and religious voters have not come back. Mainline Christianity has collapsed numerically over 75 years, disaffiliation keeps growing, and a Christian appeal may help at the margins in close races, but it is a hammer with vanishingly few nails. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "The Argument",
+                  "url": "https://www.theargumentmag.com/p/democratic-candidates-found-god-but",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "The Jensen Huang scandal has regular tech workers worried about honeypots.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " Newly rich and powerful tech workers were already anxious, but the fallout from Huang's resignation has turned dating paranoia into a whole vibe: are the people pursuing you interested in you, or in your stock options? The scandal has officially trickled down from the boardroom to everyday Silicon Valley dating life. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "WIRED",
+                  "url": "https://www.wired.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Hollywood made a movie about OpenAI's founding, and Sam Altman is the flamboyant villain.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " The trailer for Luca Guadagnino's \"Artificial\" stars Andrew Garfield as Altman, shown sipping iced matcha lattes, playing Candy Crush, and interrupting meetings for vodka shots while deferring to Ilya Sutskever as the real mastermind. Pirate Wires calls the portrayal borderline homophobic and says the real Altman is a calculating, hyper-self-aware operator, not an unserious bimbo. The film gives the AI wars a 100 percent probability of doom, with a side of getting slayed by the evil AI overlord. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Pirate Wires",
+                  "url": "https://www.piratewires.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Quick Hits & Curiosities",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Meta's AI assistant Muse can track Instagram users who do not follow you back, and some people are using it to settle petty unfollow grudges. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "WIRED",
+                  "url": "https://www.wired.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Former OpenAI researcher Will Depue found evidence that several of China's top AI labs trained models on export-controlled Nvidia Blackwell chips, and says the controls are clearly not working. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Pirate Wires",
+                  "url": "https://www.piratewires.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Disney is out of the running for 2030 World Cup broadcast rights, and Netflix, Amazon, and Fox are expected to bid up to $1.5 billion. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "CNBC",
+                  "url": "https://www.cnbc.com/2026/11/19/netflix-amazon-fox-bid-for-2030-mens-world-cup-rights-disney-out.html",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "After backing California's SB 53, Anthropic filed a weaker safety framework under it, recasting its bigger commitments as voluntary ones. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Platformer",
+                  "url": "https://www.platformer.news/anthropic-goes-public/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Instagram is bringing Amazon affiliate links directly to Reels and posts, so creators can sell you things without you ever leaving the app. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "WIRED",
+                  "url": "https://www.wired.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            }
+          ],
+          "links": [
+            {
+              "title": "Platformer",
+              "url": "https://www.platformer.news/anthropic-goes-public/"
+            },
+            {
+              "title": "$500 billion",
+              "url": "https://www.wsj.com/finance/wall-street-pledged-to-mobilize-500-billion-for-nvidiabut-hasnt-put-up-a-dime-1e41f276"
+            },
+            {
+              "title": "1 to 2 weeks",
+              "url": "https://www.wsj.com/us-news/education/school-cellphone-bans-boost-students-learning-study-suggests-7de6d809"
+            },
+            {
+              "title": "Pirate Wires",
+              "url": "https://www.piratewires.com/"
+            },
+            {
+              "title": "WIRED",
+              "url": "https://www.wired.com/"
+            },
+            {
+              "title": "METR",
+              "url": "https://metr.org/blog/2026-11-05-anthropic-ai-rd-acceleration-assessment/"
+            },
+            {
+              "title": "Conor Sen",
+              "url": "https://conorsen.substack.com/p/the-fed-cant-count-on-housing-in"
+            },
+            {
+              "title": "Snacks",
+              "url": "https://sherwood.news/snacks/newsletters/retail-vibe-check/"
+            },
+            {
+              "title": "The Argument",
+              "url": "https://www.theargumentmag.com/p/democratic-candidates-found-god-but"
+            },
+            {
+              "title": "CNBC",
+              "url": "https://www.cnbc.com/2026/11/19/netflix-amazon-fox-bid-for-2030-mens-world-cup-rights-disney-out.html"
+            }
+          ]
+        }
+      }
     }
   ]
 }
