@@ -317947,6 +317947,1709 @@
       ],
       "publishedAt": "2026-11-20T22:08:00Z",
       "links": []
+    },
+    {
+      "id": "digest-41f8153c-8a3e-8104-9d7f-e345b7a84914",
+      "channel": "newsletters",
+      "source": "notion",
+      "kind": "Agent-written digest",
+      "domain": "Daily newsletter digest",
+      "title": "Anthropic's $100B IPO, eagles hunting baboons, Jensen Huang out at Nvidia - Saturday, November 21, 2026",
+      "url": "",
+      "description": "Saturday, November 21, 2026 - Morning Edition",
+      "body": "Saturday, November 21, 2026 - Morning Edition\n\nToday's Numbers\n\n• $100 billion: what Anthropic raised on Wednesday evening by selling about 6 percent of itself to new investors in its IPO. The sale valued the AI company at roughly $1.5 trillion, and the stock swung as high as a $2.0 trillion valuation in its first two trading days, even though the company still runs a slight operating loss and analysts do not expect it to turn a profit until 2029.\n\n• 57 pounds: the weight of adult olive baboons that Verreaux's eagles in Chad appear to be hunting. Researchers found baboon remains with talon punctures on the skull, suggesting birds of prey attacked human ancestors far more recently than previously thought.\n\n• 233: the number of undergraduates surveyed in a new study on songs and memory. Students with similar backgrounds gave remarkably similar answers about which memories songs stirred up, which suggests the recollections are less personal than they feel.\n\n• 26 years: how long the United States held measles elimination status before losing it this week. Declining vaccination rates let the highly contagious disease spread again, and WIRED reports it may take years to win the status back.\n\n• 49: the votes that confirmed Richard Wesley Bennett to the Southern District of Texas on Friday, 49 to 43, as Senate Republicans rushed to confirm judges in the lame duck session before Democrats take control in January.\n\nQuotes of the Day\n\n• \"It's been another remarkable week in America, where the future looks increasingly like a collision between The Jetsons, Dr. Strangelove and The Three Stooges.\" (Counterpoint)\n\n• \"The future is here. Unfortunately, it appears to be running on Windows 95, with a side of measles and a trillion-dollar chatbot.\" (Counterpoint)\n\nAI & The Machines\n\nTrump says he will ban or heavily tax AI data centers built abroad. At a press conference, President Trump said American companies will be barred from building AI data centers in other countries, and those that build abroad anyway will face a tremendous tax. He named a planned project in Finland, admitted the announcement was news to his own staff, and gave no details on how it would work or under what authority. Alphabet, Amazon, Microsoft, Meta, and Oracle already run data centers overseas, and the Nasdaq 100 added to its losses after the remarks. (NLDR Media)\n\nJensen Huang is out at Nvidia, and the board's problem was his lack of candor. WIRED reports the former CEO resigned amid allegations of multiple affairs, including with a direct report and an alleged Chinese intelligence asset, but sources say the board's main issue was that Huang lied to them. The exit ends the run of one of tech's most famous founders, and WIRED's own Backchannel column has already weighed in with a blunt headline: don't bring him back. (WIRED)\n\nMoney & Power\n\nMamdani's Rikers plan asks for five more years, and the math does not add up. New York Mayor Zohran Mamdani released the city's first comprehensive plan to close Rikers Island, asking the City Council to push the legal deadline from August 2027 to 2032. Four borough-based jails would replace it, with Brooklyn opening in 2029 and the rest by 2032, plus $146 million next year for mental health treatment in city jails. The catch is that the replacement jails have already cost about $16 billion, and their roughly 4,100 beds fall far short of the current Rikers population of about 6,650, which means state law would not allow closure even after they are built. (NLDR Media)\n\nThe Senate rammed through the biggest anti-environmental rollback in US history. With tribal leaders jailed and young activists storming Senate offices, Senate Republicans forced through BAAJA, the AI infrastructure deregulation bill, on Thursday night, with 15 Democrats voting along. The bill strips communities of power over data center permitting, and the campaign to pass it was led by Democratic Minority Leader Chuck Schumer. Protesters were arrested in the offices of Sen. Martin Heinrich and Majority Leader John Thune. (Hill Heat)\n\nA mother is suing Fairfax County after her daughter was killed at a bus stop. The America First Policy Institute filed a federal wrongful death suit for Cheryl Minter, whose daughter Stephanie, a 41-year-old single mother, was stabbed to death earlier this year. The man charged, Abdul Jalloh, has been arrested more than 30 times and has had a final deportation order since 2020. The suit says Fairfax police warned prosecutors in writing at least three times that Jalloh would hurt or kill someone, and in November 2025 wrote that it was not a question of if, but when. (NLDR Media)\n\nThe Culture\n\nThe manosphere is not ready for brothercore. WIRED visits Hey Brother House, a content incubator where chiseled guys trauma dump, hug it out, and play Mario Kart. It is vulnerable, affirming, and deeply weird, and it might be the first sign that the online masculinity economy is shifting toward something softer. (WIRED)\n\nScience & The Strange\n\nAstronomers watched a star eat another star. In a binary system nicknamed Bao in the outskirts of the Andromeda galaxy, a dying red giant pulled its companion into a deadly spiral and swallowed it last year, flaring up in a bright eruption. It is the first time scientists have directly observed this kind of stellar inspiral, and the merged pair is now shining as a single new mega-star. (404 Media)\n\nQuick Hits & Curiosities\n\n• Scientists flew drones through whale blow, the mucus whales exhale, and sequenced whole humpback genomes from the snot, a non-invasive way to study whales without darting them. (404 Media)\n\n• Fiona the hippo, the Cincinnati Zoo's beloved 9-year-old who survived premature birth, died after eating a knit hat. Vets explain how a 2,500-pound animal can be killed by something so small. (WIRED)\n\n• Grand Theft Auto 6 is now the largest entertainment release of all time, and the monoculture is officially back. (Pirate Wires)\n\n• Gig work has moved into nursing homes, and inspection reports show that little to no onboarding can lead to dangerous mistakes and overwhelmed nurses, according to a WIRED and Proof News investigation. (WIRED)\n\n• Lovable, the Swedish startup that rode the vibe-coding boom, now wants to help users run vibe-coded businesses instead of just building apps. (WIRED)",
+      "blocks": [
+        {
+          "type": "heading_1",
+          "runs": [
+            {
+              "text": "Saturday, November 21, 2026 - Morning Edition",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Today's Numbers",
+              "url": "",
+              "bold": true,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "$100 billion",
+              "url": "https://www.davidnroberts.com/p/the-mighty-anthropic-goes-public",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": ": what Anthropic raised on Wednesday evening by selling about 6 percent of itself to new investors in its IPO. The sale valued the AI company at roughly $1.5 trillion, and the stock swung as high as a $2.0 trillion valuation in its first two trading days, even though the company still runs a slight operating loss and analysts do not expect it to turn a profit until 2029.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "57 pounds",
+              "url": "https://www.404media.co/scientists-discover-new-and-horrible-eagle-based-way-our-ancestors-died/",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": ": the weight of adult olive baboons that Verreaux's eagles in Chad appear to be hunting. Researchers found baboon remains with talon punctures on the skull, suggesting birds of prey attacked human ancestors far more recently than previously thought.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "233",
+              "url": "https://www.404media.co/scientists-discover-new-and-horrible-eagle-based-way-our-ancestors-died/",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": ": the number of undergraduates surveyed in a new study on songs and memory. Students with similar backgrounds gave remarkably similar answers about which memories songs stirred up, which suggests the recollections are less personal than they feel.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "26 years",
+              "url": "https://www.wired.com/story/us-lost-measles-elimination-status-years-to-recover/",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": ": how long the United States held measles elimination status before losing it this week. Declining vaccination rates let the highly contagious disease spread again, and WIRED reports it may take years to win the status back.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "49",
+              "url": "https://thejefferymead.substack.com/p/morning-briefing-november-21-2026",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": ": the votes that confirmed Richard Wesley Bennett to the Southern District of Texas on Friday, 49 to 43, as Senate Republicans rushed to confirm judges in the lame duck session before Democrats take control in January.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Quotes of the Day",
+              "url": "",
+              "bold": true,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "\"It's been another remarkable week in America, where the future looks increasingly like a collision between The Jetsons, Dr. Strangelove and The Three Stooges.\" (Counterpoint)",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "\"The future is here. Unfortunately, it appears to be running on Windows 95, with a side of measles and a trillion-dollar chatbot.\" (Counterpoint)",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "AI & The Machines",
+              "url": "",
+              "bold": true,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Trump says he will ban or heavily tax AI data centers built abroad.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " At a press conference, President Trump said American companies will be barred from building AI data centers in other countries, and those that build abroad anyway will face a tremendous tax. He named a planned project in Finland, admitted the announcement was news to his own staff, and gave no details on how it would work or under what authority. Alphabet, Amazon, Microsoft, Meta, and Oracle already run data centers overseas, and the Nasdaq 100 added to its losses after the remarks. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "NLDR Media",
+              "url": "https://thejefferymead.substack.com/p/morning-briefing-november-21-2026",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Jensen Huang is out at Nvidia, and the board's problem was his lack of candor.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " WIRED reports the former CEO resigned amid allegations of multiple affairs, including with a direct report and an alleged Chinese intelligence asset, but sources say the board's main issue was that Huang lied to them. The exit ends the run of one of tech's most famous founders, and WIRED's own Backchannel column has already weighed in with a blunt headline: don't bring him back. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "WIRED",
+              "url": "https://www.wired.com/story/jensen-huangs-lying-alarmed-nvidia-board-ahead-of-his-resignation/",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Money & Power",
+              "url": "",
+              "bold": true,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Mamdani's Rikers plan asks for five more years, and the math does not add up.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " New York Mayor Zohran Mamdani released the city's first comprehensive plan to close Rikers Island, asking the City Council to push the legal deadline from August 2027 to 2032. Four borough-based jails would replace it, with Brooklyn opening in 2029 and the rest by 2032, plus $146 million next year for mental health treatment in city jails. The catch is that the replacement jails have already cost about $16 billion, and their roughly 4,100 beds fall far short of the current Rikers population of about 6,650, which means state law would not allow closure even after they are built. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "NLDR Media",
+              "url": "https://thejefferymead.substack.com/p/morning-briefing-november-21-2026",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "The Senate rammed through the biggest anti-environmental rollback in US history.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " With tribal leaders jailed and young activists storming Senate offices, Senate Republicans forced through BAAJA, the AI infrastructure deregulation bill, on Thursday night, with 15 Democrats voting along. The bill strips communities of power over data center permitting, and the campaign to pass it was led by Democratic Minority Leader Chuck Schumer. Protesters were arrested in the offices of Sen. Martin Heinrich and Majority Leader John Thune. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Hill Heat",
+              "url": "https://hillheat.news/",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "A mother is suing Fairfax County after her daughter was killed at a bus stop.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " The America First Policy Institute filed a federal wrongful death suit for Cheryl Minter, whose daughter Stephanie, a 41-year-old single mother, was stabbed to death earlier this year. The man charged, Abdul Jalloh, has been arrested more than 30 times and has had a final deportation order since 2020. The suit says Fairfax police warned prosecutors in writing at least three times that Jalloh would hurt or kill someone, and in November 2025 wrote that it was not a question of if, but when. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "NLDR Media",
+              "url": "https://thejefferymead.substack.com/p/morning-briefing-november-21-2026",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "The Culture",
+              "url": "",
+              "bold": true,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "The manosphere is not ready for brothercore.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " WIRED visits Hey Brother House, a content incubator where chiseled guys trauma dump, hug it out, and play Mario Kart. It is vulnerable, affirming, and deeply weird, and it might be the first sign that the online masculinity economy is shifting toward something softer. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "WIRED",
+              "url": "https://www.wired.com/story/hey-brother-house-manosphere-content/",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Science & The Strange",
+              "url": "",
+              "bold": true,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Astronomers watched a star eat another star.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " In a binary system nicknamed Bao in the outskirts of the Andromeda galaxy, a dying red giant pulled its companion into a deadly spiral and swallowed it last year, flaring up in a bright eruption. It is the first time scientists have directly observed this kind of stellar inspiral, and the merged pair is now shining as a single new mega-star. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "404 Media",
+              "url": "https://www.404media.co/scientists-discover-new-and-horrible-eagle-based-way-our-ancestors-died/",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Quick Hits & Curiosities",
+              "url": "",
+              "bold": true,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Scientists flew drones through whale blow, the mucus whales exhale, and sequenced whole humpback genomes from the snot, a non-invasive way to study whales without darting them. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "404 Media",
+              "url": "https://www.404media.co/scientists-discover-new-and-horrible-eagle-based-way-our-ancestors-died/",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Fiona the hippo, the Cincinnati Zoo's beloved 9-year-old who survived premature birth, died after eating a knit hat. Vets explain how a 2,500-pound animal can be killed by something so small. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "WIRED",
+              "url": "https://www.wired.com/story/fiona-the-hippo-died-after-eating-a-hat-but-how-does-a-hat-kill-a-hippo/",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Grand Theft Auto 6 is now the largest entertainment release of all time, and the monoculture is officially back. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Pirate Wires",
+              "url": "https://piratewires.substack.com/p/something-is-very-wrong-right-now",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Gig work has moved into nursing homes, and inspection reports show that little to no onboarding can lead to dangerous mistakes and overwhelmed nurses, according to a WIRED and Proof News investigation. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "WIRED",
+              "url": "https://www.wired.com/story/shiftkey-gig-nursing/",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Lovable, the Swedish startup that rode the vibe-coding boom, now wants to help users run vibe-coded businesses instead of just building apps. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "WIRED",
+              "url": "https://www.wired.com/story/lovable-wants-you-to-vibe-code-a-living/",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        }
+      ],
+      "publishedAt": "2026-11-21T13:04:00Z",
+      "links": [
+        {
+          "title": "$100 billion",
+          "url": "https://www.davidnroberts.com/p/the-mighty-anthropic-goes-public"
+        },
+        {
+          "title": "404 Media",
+          "url": "https://www.404media.co/scientists-discover-new-and-horrible-eagle-based-way-our-ancestors-died/"
+        },
+        {
+          "title": "26 years",
+          "url": "https://www.wired.com/story/us-lost-measles-elimination-status-years-to-recover/"
+        },
+        {
+          "title": "NLDR Media",
+          "url": "https://thejefferymead.substack.com/p/morning-briefing-november-21-2026"
+        },
+        {
+          "title": "WIRED",
+          "url": "https://www.wired.com/story/jensen-huangs-lying-alarmed-nvidia-board-ahead-of-his-resignation/"
+        },
+        {
+          "title": "Hill Heat",
+          "url": "https://hillheat.news/"
+        },
+        {
+          "title": "WIRED",
+          "url": "https://www.wired.com/story/hey-brother-house-manosphere-content/"
+        },
+        {
+          "title": "WIRED",
+          "url": "https://www.wired.com/story/fiona-the-hippo-died-after-eating-a-hat-but-how-does-a-hat-kill-a-hippo/"
+        },
+        {
+          "title": "Pirate Wires",
+          "url": "https://piratewires.substack.com/p/something-is-very-wrong-right-now"
+        },
+        {
+          "title": "WIRED",
+          "url": "https://www.wired.com/story/shiftkey-gig-nursing/"
+        },
+        {
+          "title": "WIRED",
+          "url": "https://www.wired.com/story/lovable-wants-you-to-vibe-code-a-living/"
+        }
+      ],
+      "versions": {
+        "morning": {
+          "body": "Saturday, November 21, 2026 - Morning Edition\n\nToday's Numbers\n\n• $100 billion: what Anthropic raised on Wednesday evening by selling about 6 percent of itself to new investors in its IPO. The sale valued the AI company at roughly $1.5 trillion, and the stock swung as high as a $2.0 trillion valuation in its first two trading days, even though the company still runs a slight operating loss and analysts do not expect it to turn a profit until 2029.\n\n• 57 pounds: the weight of adult olive baboons that Verreaux's eagles in Chad appear to be hunting. Researchers found baboon remains with talon punctures on the skull, suggesting birds of prey attacked human ancestors far more recently than previously thought.\n\n• 233: the number of undergraduates surveyed in a new study on songs and memory. Students with similar backgrounds gave remarkably similar answers about which memories songs stirred up, which suggests the recollections are less personal than they feel.\n\n• 26 years: how long the United States held measles elimination status before losing it this week. Declining vaccination rates let the highly contagious disease spread again, and WIRED reports it may take years to win the status back.\n\n• 49: the votes that confirmed Richard Wesley Bennett to the Southern District of Texas on Friday, 49 to 43, as Senate Republicans rushed to confirm judges in the lame duck session before Democrats take control in January.\n\nQuotes of the Day\n\n• \"It's been another remarkable week in America, where the future looks increasingly like a collision between The Jetsons, Dr. Strangelove and The Three Stooges.\" (Counterpoint)\n\n• \"The future is here. Unfortunately, it appears to be running on Windows 95, with a side of measles and a trillion-dollar chatbot.\" (Counterpoint)\n\nAI & The Machines\n\nTrump says he will ban or heavily tax AI data centers built abroad. At a press conference, President Trump said American companies will be barred from building AI data centers in other countries, and those that build abroad anyway will face a tremendous tax. He named a planned project in Finland, admitted the announcement was news to his own staff, and gave no details on how it would work or under what authority. Alphabet, Amazon, Microsoft, Meta, and Oracle already run data centers overseas, and the Nasdaq 100 added to its losses after the remarks. (NLDR Media)\n\nJensen Huang is out at Nvidia, and the board's problem was his lack of candor. WIRED reports the former CEO resigned amid allegations of multiple affairs, including with a direct report and an alleged Chinese intelligence asset, but sources say the board's main issue was that Huang lied to them. The exit ends the run of one of tech's most famous founders, and WIRED's own Backchannel column has already weighed in with a blunt headline: don't bring him back. (WIRED)\n\nMoney & Power\n\nMamdani's Rikers plan asks for five more years, and the math does not add up. New York Mayor Zohran Mamdani released the city's first comprehensive plan to close Rikers Island, asking the City Council to push the legal deadline from August 2027 to 2032. Four borough-based jails would replace it, with Brooklyn opening in 2029 and the rest by 2032, plus $146 million next year for mental health treatment in city jails. The catch is that the replacement jails have already cost about $16 billion, and their roughly 4,100 beds fall far short of the current Rikers population of about 6,650, which means state law would not allow closure even after they are built. (NLDR Media)\n\nThe Senate rammed through the biggest anti-environmental rollback in US history. With tribal leaders jailed and young activists storming Senate offices, Senate Republicans forced through BAAJA, the AI infrastructure deregulation bill, on Thursday night, with 15 Democrats voting along. The bill strips communities of power over data center permitting, and the campaign to pass it was led by Democratic Minority Leader Chuck Schumer. Protesters were arrested in the offices of Sen. Martin Heinrich and Majority Leader John Thune. (Hill Heat)\n\nA mother is suing Fairfax County after her daughter was killed at a bus stop. The America First Policy Institute filed a federal wrongful death suit for Cheryl Minter, whose daughter Stephanie, a 41-year-old single mother, was stabbed to death earlier this year. The man charged, Abdul Jalloh, has been arrested more than 30 times and has had a final deportation order since 2020. The suit says Fairfax police warned prosecutors in writing at least three times that Jalloh would hurt or kill someone, and in November 2025 wrote that it was not a question of if, but when. (NLDR Media)\n\nThe Culture\n\nThe manosphere is not ready for brothercore. WIRED visits Hey Brother House, a content incubator where chiseled guys trauma dump, hug it out, and play Mario Kart. It is vulnerable, affirming, and deeply weird, and it might be the first sign that the online masculinity economy is shifting toward something softer. (WIRED)\n\nScience & The Strange\n\nAstronomers watched a star eat another star. In a binary system nicknamed Bao in the outskirts of the Andromeda galaxy, a dying red giant pulled its companion into a deadly spiral and swallowed it last year, flaring up in a bright eruption. It is the first time scientists have directly observed this kind of stellar inspiral, and the merged pair is now shining as a single new mega-star. (404 Media)\n\nQuick Hits & Curiosities\n\n• Scientists flew drones through whale blow, the mucus whales exhale, and sequenced whole humpback genomes from the snot, a non-invasive way to study whales without darting them. (404 Media)\n\n• Fiona the hippo, the Cincinnati Zoo's beloved 9-year-old who survived premature birth, died after eating a knit hat. Vets explain how a 2,500-pound animal can be killed by something so small. (WIRED)\n\n• Grand Theft Auto 6 is now the largest entertainment release of all time, and the monoculture is officially back. (Pirate Wires)\n\n• Gig work has moved into nursing homes, and inspection reports show that little to no onboarding can lead to dangerous mistakes and overwhelmed nurses, according to a WIRED and Proof News investigation. (WIRED)\n\n• Lovable, the Swedish startup that rode the vibe-coding boom, now wants to help users run vibe-coded businesses instead of just building apps. (WIRED)",
+          "blocks": [
+            {
+              "type": "heading_1",
+              "runs": [
+                {
+                  "text": "Saturday, November 21, 2026 - Morning Edition",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Today's Numbers",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "$100 billion",
+                  "url": "https://www.davidnroberts.com/p/the-mighty-anthropic-goes-public",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": what Anthropic raised on Wednesday evening by selling about 6 percent of itself to new investors in its IPO. The sale valued the AI company at roughly $1.5 trillion, and the stock swung as high as a $2.0 trillion valuation in its first two trading days, even though the company still runs a slight operating loss and analysts do not expect it to turn a profit until 2029.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "57 pounds",
+                  "url": "https://www.404media.co/scientists-discover-new-and-horrible-eagle-based-way-our-ancestors-died/",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": the weight of adult olive baboons that Verreaux's eagles in Chad appear to be hunting. Researchers found baboon remains with talon punctures on the skull, suggesting birds of prey attacked human ancestors far more recently than previously thought.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "233",
+                  "url": "https://www.404media.co/scientists-discover-new-and-horrible-eagle-based-way-our-ancestors-died/",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": the number of undergraduates surveyed in a new study on songs and memory. Students with similar backgrounds gave remarkably similar answers about which memories songs stirred up, which suggests the recollections are less personal than they feel.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "26 years",
+                  "url": "https://www.wired.com/story/us-lost-measles-elimination-status-years-to-recover/",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": how long the United States held measles elimination status before losing it this week. Declining vaccination rates let the highly contagious disease spread again, and WIRED reports it may take years to win the status back.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "49",
+                  "url": "https://thejefferymead.substack.com/p/morning-briefing-november-21-2026",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": the votes that confirmed Richard Wesley Bennett to the Southern District of Texas on Friday, 49 to 43, as Senate Republicans rushed to confirm judges in the lame duck session before Democrats take control in January.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Quotes of the Day",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "\"It's been another remarkable week in America, where the future looks increasingly like a collision between The Jetsons, Dr. Strangelove and The Three Stooges.\" (Counterpoint)",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "\"The future is here. Unfortunately, it appears to be running on Windows 95, with a side of measles and a trillion-dollar chatbot.\" (Counterpoint)",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "AI & The Machines",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Trump says he will ban or heavily tax AI data centers built abroad.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " At a press conference, President Trump said American companies will be barred from building AI data centers in other countries, and those that build abroad anyway will face a tremendous tax. He named a planned project in Finland, admitted the announcement was news to his own staff, and gave no details on how it would work or under what authority. Alphabet, Amazon, Microsoft, Meta, and Oracle already run data centers overseas, and the Nasdaq 100 added to its losses after the remarks. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "NLDR Media",
+                  "url": "https://thejefferymead.substack.com/p/morning-briefing-november-21-2026",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Jensen Huang is out at Nvidia, and the board's problem was his lack of candor.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " WIRED reports the former CEO resigned amid allegations of multiple affairs, including with a direct report and an alleged Chinese intelligence asset, but sources say the board's main issue was that Huang lied to them. The exit ends the run of one of tech's most famous founders, and WIRED's own Backchannel column has already weighed in with a blunt headline: don't bring him back. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "WIRED",
+                  "url": "https://www.wired.com/story/jensen-huangs-lying-alarmed-nvidia-board-ahead-of-his-resignation/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Money & Power",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Mamdani's Rikers plan asks for five more years, and the math does not add up.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " New York Mayor Zohran Mamdani released the city's first comprehensive plan to close Rikers Island, asking the City Council to push the legal deadline from August 2027 to 2032. Four borough-based jails would replace it, with Brooklyn opening in 2029 and the rest by 2032, plus $146 million next year for mental health treatment in city jails. The catch is that the replacement jails have already cost about $16 billion, and their roughly 4,100 beds fall far short of the current Rikers population of about 6,650, which means state law would not allow closure even after they are built. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "NLDR Media",
+                  "url": "https://thejefferymead.substack.com/p/morning-briefing-november-21-2026",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "The Senate rammed through the biggest anti-environmental rollback in US history.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " With tribal leaders jailed and young activists storming Senate offices, Senate Republicans forced through BAAJA, the AI infrastructure deregulation bill, on Thursday night, with 15 Democrats voting along. The bill strips communities of power over data center permitting, and the campaign to pass it was led by Democratic Minority Leader Chuck Schumer. Protesters were arrested in the offices of Sen. Martin Heinrich and Majority Leader John Thune. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Hill Heat",
+                  "url": "https://hillheat.news/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "A mother is suing Fairfax County after her daughter was killed at a bus stop.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " The America First Policy Institute filed a federal wrongful death suit for Cheryl Minter, whose daughter Stephanie, a 41-year-old single mother, was stabbed to death earlier this year. The man charged, Abdul Jalloh, has been arrested more than 30 times and has had a final deportation order since 2020. The suit says Fairfax police warned prosecutors in writing at least three times that Jalloh would hurt or kill someone, and in November 2025 wrote that it was not a question of if, but when. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "NLDR Media",
+                  "url": "https://thejefferymead.substack.com/p/morning-briefing-november-21-2026",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "The Culture",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "The manosphere is not ready for brothercore.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " WIRED visits Hey Brother House, a content incubator where chiseled guys trauma dump, hug it out, and play Mario Kart. It is vulnerable, affirming, and deeply weird, and it might be the first sign that the online masculinity economy is shifting toward something softer. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "WIRED",
+                  "url": "https://www.wired.com/story/hey-brother-house-manosphere-content/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Science & The Strange",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Astronomers watched a star eat another star.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " In a binary system nicknamed Bao in the outskirts of the Andromeda galaxy, a dying red giant pulled its companion into a deadly spiral and swallowed it last year, flaring up in a bright eruption. It is the first time scientists have directly observed this kind of stellar inspiral, and the merged pair is now shining as a single new mega-star. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "404 Media",
+                  "url": "https://www.404media.co/scientists-discover-new-and-horrible-eagle-based-way-our-ancestors-died/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Quick Hits & Curiosities",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Scientists flew drones through whale blow, the mucus whales exhale, and sequenced whole humpback genomes from the snot, a non-invasive way to study whales without darting them. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "404 Media",
+                  "url": "https://www.404media.co/scientists-discover-new-and-horrible-eagle-based-way-our-ancestors-died/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Fiona the hippo, the Cincinnati Zoo's beloved 9-year-old who survived premature birth, died after eating a knit hat. Vets explain how a 2,500-pound animal can be killed by something so small. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "WIRED",
+                  "url": "https://www.wired.com/story/fiona-the-hippo-died-after-eating-a-hat-but-how-does-a-hat-kill-a-hippo/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Grand Theft Auto 6 is now the largest entertainment release of all time, and the monoculture is officially back. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Pirate Wires",
+                  "url": "https://piratewires.substack.com/p/something-is-very-wrong-right-now",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Gig work has moved into nursing homes, and inspection reports show that little to no onboarding can lead to dangerous mistakes and overwhelmed nurses, according to a WIRED and Proof News investigation. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "WIRED",
+                  "url": "https://www.wired.com/story/shiftkey-gig-nursing/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Lovable, the Swedish startup that rode the vibe-coding boom, now wants to help users run vibe-coded businesses instead of just building apps. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "WIRED",
+                  "url": "https://www.wired.com/story/lovable-wants-you-to-vibe-code-a-living/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            }
+          ],
+          "links": [
+            {
+              "title": "$100 billion",
+              "url": "https://www.davidnroberts.com/p/the-mighty-anthropic-goes-public"
+            },
+            {
+              "title": "404 Media",
+              "url": "https://www.404media.co/scientists-discover-new-and-horrible-eagle-based-way-our-ancestors-died/"
+            },
+            {
+              "title": "26 years",
+              "url": "https://www.wired.com/story/us-lost-measles-elimination-status-years-to-recover/"
+            },
+            {
+              "title": "NLDR Media",
+              "url": "https://thejefferymead.substack.com/p/morning-briefing-november-21-2026"
+            },
+            {
+              "title": "WIRED",
+              "url": "https://www.wired.com/story/jensen-huangs-lying-alarmed-nvidia-board-ahead-of-his-resignation/"
+            },
+            {
+              "title": "Hill Heat",
+              "url": "https://hillheat.news/"
+            },
+            {
+              "title": "WIRED",
+              "url": "https://www.wired.com/story/hey-brother-house-manosphere-content/"
+            },
+            {
+              "title": "WIRED",
+              "url": "https://www.wired.com/story/fiona-the-hippo-died-after-eating-a-hat-but-how-does-a-hat-kill-a-hippo/"
+            },
+            {
+              "title": "Pirate Wires",
+              "url": "https://piratewires.substack.com/p/something-is-very-wrong-right-now"
+            },
+            {
+              "title": "WIRED",
+              "url": "https://www.wired.com/story/shiftkey-gig-nursing/"
+            },
+            {
+              "title": "WIRED",
+              "url": "https://www.wired.com/story/lovable-wants-you-to-vibe-code-a-living/"
+            }
+          ]
+        },
+        "full": {
+          "body": "Saturday, November 21, 2026 - Morning Edition\n\nToday's Numbers\n\n• $100 billion: what Anthropic raised on Wednesday evening by selling about 6 percent of itself to new investors in its IPO. The sale valued the AI company at roughly $1.5 trillion, and the stock swung as high as a $2.0 trillion valuation in its first two trading days, even though the company still runs a slight operating loss and analysts do not expect it to turn a profit until 2029.\n\n• 57 pounds: the weight of adult olive baboons that Verreaux's eagles in Chad appear to be hunting. Researchers found baboon remains with talon punctures on the skull, suggesting birds of prey attacked human ancestors far more recently than previously thought.\n\n• 233: the number of undergraduates surveyed in a new study on songs and memory. Students with similar backgrounds gave remarkably similar answers about which memories songs stirred up, which suggests the recollections are less personal than they feel.\n\n• 26 years: how long the United States held measles elimination status before losing it this week. Declining vaccination rates let the highly contagious disease spread again, and WIRED reports it may take years to win the status back.\n\n• 49: the votes that confirmed Richard Wesley Bennett to the Southern District of Texas on Friday, 49 to 43, as Senate Republicans rushed to confirm judges in the lame duck session before Democrats take control in January.\n\nQuotes of the Day\n\n• \"It's been another remarkable week in America, where the future looks increasingly like a collision between The Jetsons, Dr. Strangelove and The Three Stooges.\" (Counterpoint)\n\n• \"The future is here. Unfortunately, it appears to be running on Windows 95, with a side of measles and a trillion-dollar chatbot.\" (Counterpoint)\n\nAI & The Machines\n\nTrump says he will ban or heavily tax AI data centers built abroad. At a press conference, President Trump said American companies will be barred from building AI data centers in other countries, and those that build abroad anyway will face a tremendous tax. He named a planned project in Finland, admitted the announcement was news to his own staff, and gave no details on how it would work or under what authority. Alphabet, Amazon, Microsoft, Meta, and Oracle already run data centers overseas, and the Nasdaq 100 added to its losses after the remarks. (NLDR Media)\n\nJensen Huang is out at Nvidia, and the board's problem was his lack of candor. WIRED reports the former CEO resigned amid allegations of multiple affairs, including with a direct report and an alleged Chinese intelligence asset, but sources say the board's main issue was that Huang lied to them. The exit ends the run of one of tech's most famous founders, and WIRED's own Backchannel column has already weighed in with a blunt headline: don't bring him back. (WIRED)\n\nMoney & Power\n\nMamdani's Rikers plan asks for five more years, and the math does not add up. New York Mayor Zohran Mamdani released the city's first comprehensive plan to close Rikers Island, asking the City Council to push the legal deadline from August 2027 to 2032. Four borough-based jails would replace it, with Brooklyn opening in 2029 and the rest by 2032, plus $146 million next year for mental health treatment in city jails. The catch is that the replacement jails have already cost about $16 billion, and their roughly 4,100 beds fall far short of the current Rikers population of about 6,650, which means state law would not allow closure even after they are built. (NLDR Media)\n\nThe Senate rammed through the biggest anti-environmental rollback in US history. With tribal leaders jailed and young activists storming Senate offices, Senate Republicans forced through BAAJA, the AI infrastructure deregulation bill, on Thursday night, with 15 Democrats voting along. The bill strips communities of power over data center permitting, and the campaign to pass it was led by Democratic Minority Leader Chuck Schumer. Protesters were arrested in the offices of Sen. Martin Heinrich and Majority Leader John Thune. (Hill Heat)\n\nA mother is suing Fairfax County after her daughter was killed at a bus stop. The America First Policy Institute filed a federal wrongful death suit for Cheryl Minter, whose daughter Stephanie, a 41-year-old single mother, was stabbed to death earlier this year. The man charged, Abdul Jalloh, has been arrested more than 30 times and has had a final deportation order since 2020. The suit says Fairfax police warned prosecutors in writing at least three times that Jalloh would hurt or kill someone, and in November 2025 wrote that it was not a question of if, but when. (NLDR Media)\n\nThe Culture\n\nThe manosphere is not ready for brothercore. WIRED visits Hey Brother House, a content incubator where chiseled guys trauma dump, hug it out, and play Mario Kart. It is vulnerable, affirming, and deeply weird, and it might be the first sign that the online masculinity economy is shifting toward something softer. (WIRED)\n\nScience & The Strange\n\nAstronomers watched a star eat another star. In a binary system nicknamed Bao in the outskirts of the Andromeda galaxy, a dying red giant pulled its companion into a deadly spiral and swallowed it last year, flaring up in a bright eruption. It is the first time scientists have directly observed this kind of stellar inspiral, and the merged pair is now shining as a single new mega-star. (404 Media)\n\nQuick Hits & Curiosities\n\n• Scientists flew drones through whale blow, the mucus whales exhale, and sequenced whole humpback genomes from the snot, a non-invasive way to study whales without darting them. (404 Media)\n\n• Fiona the hippo, the Cincinnati Zoo's beloved 9-year-old who survived premature birth, died after eating a knit hat. Vets explain how a 2,500-pound animal can be killed by something so small. (WIRED)\n\n• Grand Theft Auto 6 is now the largest entertainment release of all time, and the monoculture is officially back. (Pirate Wires)\n\n• Gig work has moved into nursing homes, and inspection reports show that little to no onboarding can lead to dangerous mistakes and overwhelmed nurses, according to a WIRED and Proof News investigation. (WIRED)\n\n• Lovable, the Swedish startup that rode the vibe-coding boom, now wants to help users run vibe-coded businesses instead of just building apps. (WIRED)",
+          "blocks": [
+            {
+              "type": "heading_1",
+              "runs": [
+                {
+                  "text": "Saturday, November 21, 2026 - Morning Edition",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Today's Numbers",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "$100 billion",
+                  "url": "https://www.davidnroberts.com/p/the-mighty-anthropic-goes-public",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": what Anthropic raised on Wednesday evening by selling about 6 percent of itself to new investors in its IPO. The sale valued the AI company at roughly $1.5 trillion, and the stock swung as high as a $2.0 trillion valuation in its first two trading days, even though the company still runs a slight operating loss and analysts do not expect it to turn a profit until 2029.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "57 pounds",
+                  "url": "https://www.404media.co/scientists-discover-new-and-horrible-eagle-based-way-our-ancestors-died/",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": the weight of adult olive baboons that Verreaux's eagles in Chad appear to be hunting. Researchers found baboon remains with talon punctures on the skull, suggesting birds of prey attacked human ancestors far more recently than previously thought.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "233",
+                  "url": "https://www.404media.co/scientists-discover-new-and-horrible-eagle-based-way-our-ancestors-died/",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": the number of undergraduates surveyed in a new study on songs and memory. Students with similar backgrounds gave remarkably similar answers about which memories songs stirred up, which suggests the recollections are less personal than they feel.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "26 years",
+                  "url": "https://www.wired.com/story/us-lost-measles-elimination-status-years-to-recover/",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": how long the United States held measles elimination status before losing it this week. Declining vaccination rates let the highly contagious disease spread again, and WIRED reports it may take years to win the status back.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "49",
+                  "url": "https://thejefferymead.substack.com/p/morning-briefing-november-21-2026",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": the votes that confirmed Richard Wesley Bennett to the Southern District of Texas on Friday, 49 to 43, as Senate Republicans rushed to confirm judges in the lame duck session before Democrats take control in January.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Quotes of the Day",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "\"It's been another remarkable week in America, where the future looks increasingly like a collision between The Jetsons, Dr. Strangelove and The Three Stooges.\" (Counterpoint)",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "\"The future is here. Unfortunately, it appears to be running on Windows 95, with a side of measles and a trillion-dollar chatbot.\" (Counterpoint)",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "AI & The Machines",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Trump says he will ban or heavily tax AI data centers built abroad.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " At a press conference, President Trump said American companies will be barred from building AI data centers in other countries, and those that build abroad anyway will face a tremendous tax. He named a planned project in Finland, admitted the announcement was news to his own staff, and gave no details on how it would work or under what authority. Alphabet, Amazon, Microsoft, Meta, and Oracle already run data centers overseas, and the Nasdaq 100 added to its losses after the remarks. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "NLDR Media",
+                  "url": "https://thejefferymead.substack.com/p/morning-briefing-november-21-2026",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Jensen Huang is out at Nvidia, and the board's problem was his lack of candor.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " WIRED reports the former CEO resigned amid allegations of multiple affairs, including with a direct report and an alleged Chinese intelligence asset, but sources say the board's main issue was that Huang lied to them. The exit ends the run of one of tech's most famous founders, and WIRED's own Backchannel column has already weighed in with a blunt headline: don't bring him back. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "WIRED",
+                  "url": "https://www.wired.com/story/jensen-huangs-lying-alarmed-nvidia-board-ahead-of-his-resignation/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Money & Power",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Mamdani's Rikers plan asks for five more years, and the math does not add up.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " New York Mayor Zohran Mamdani released the city's first comprehensive plan to close Rikers Island, asking the City Council to push the legal deadline from August 2027 to 2032. Four borough-based jails would replace it, with Brooklyn opening in 2029 and the rest by 2032, plus $146 million next year for mental health treatment in city jails. The catch is that the replacement jails have already cost about $16 billion, and their roughly 4,100 beds fall far short of the current Rikers population of about 6,650, which means state law would not allow closure even after they are built. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "NLDR Media",
+                  "url": "https://thejefferymead.substack.com/p/morning-briefing-november-21-2026",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "The Senate rammed through the biggest anti-environmental rollback in US history.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " With tribal leaders jailed and young activists storming Senate offices, Senate Republicans forced through BAAJA, the AI infrastructure deregulation bill, on Thursday night, with 15 Democrats voting along. The bill strips communities of power over data center permitting, and the campaign to pass it was led by Democratic Minority Leader Chuck Schumer. Protesters were arrested in the offices of Sen. Martin Heinrich and Majority Leader John Thune. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Hill Heat",
+                  "url": "https://hillheat.news/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "A mother is suing Fairfax County after her daughter was killed at a bus stop.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " The America First Policy Institute filed a federal wrongful death suit for Cheryl Minter, whose daughter Stephanie, a 41-year-old single mother, was stabbed to death earlier this year. The man charged, Abdul Jalloh, has been arrested more than 30 times and has had a final deportation order since 2020. The suit says Fairfax police warned prosecutors in writing at least three times that Jalloh would hurt or kill someone, and in November 2025 wrote that it was not a question of if, but when. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "NLDR Media",
+                  "url": "https://thejefferymead.substack.com/p/morning-briefing-november-21-2026",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "The Culture",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "The manosphere is not ready for brothercore.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " WIRED visits Hey Brother House, a content incubator where chiseled guys trauma dump, hug it out, and play Mario Kart. It is vulnerable, affirming, and deeply weird, and it might be the first sign that the online masculinity economy is shifting toward something softer. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "WIRED",
+                  "url": "https://www.wired.com/story/hey-brother-house-manosphere-content/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Science & The Strange",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Astronomers watched a star eat another star.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " In a binary system nicknamed Bao in the outskirts of the Andromeda galaxy, a dying red giant pulled its companion into a deadly spiral and swallowed it last year, flaring up in a bright eruption. It is the first time scientists have directly observed this kind of stellar inspiral, and the merged pair is now shining as a single new mega-star. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "404 Media",
+                  "url": "https://www.404media.co/scientists-discover-new-and-horrible-eagle-based-way-our-ancestors-died/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Quick Hits & Curiosities",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Scientists flew drones through whale blow, the mucus whales exhale, and sequenced whole humpback genomes from the snot, a non-invasive way to study whales without darting them. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "404 Media",
+                  "url": "https://www.404media.co/scientists-discover-new-and-horrible-eagle-based-way-our-ancestors-died/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Fiona the hippo, the Cincinnati Zoo's beloved 9-year-old who survived premature birth, died after eating a knit hat. Vets explain how a 2,500-pound animal can be killed by something so small. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "WIRED",
+                  "url": "https://www.wired.com/story/fiona-the-hippo-died-after-eating-a-hat-but-how-does-a-hat-kill-a-hippo/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Grand Theft Auto 6 is now the largest entertainment release of all time, and the monoculture is officially back. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Pirate Wires",
+                  "url": "https://piratewires.substack.com/p/something-is-very-wrong-right-now",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Gig work has moved into nursing homes, and inspection reports show that little to no onboarding can lead to dangerous mistakes and overwhelmed nurses, according to a WIRED and Proof News investigation. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "WIRED",
+                  "url": "https://www.wired.com/story/shiftkey-gig-nursing/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Lovable, the Swedish startup that rode the vibe-coding boom, now wants to help users run vibe-coded businesses instead of just building apps. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "WIRED",
+                  "url": "https://www.wired.com/story/lovable-wants-you-to-vibe-code-a-living/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            }
+          ],
+          "links": [
+            {
+              "title": "$100 billion",
+              "url": "https://www.davidnroberts.com/p/the-mighty-anthropic-goes-public"
+            },
+            {
+              "title": "404 Media",
+              "url": "https://www.404media.co/scientists-discover-new-and-horrible-eagle-based-way-our-ancestors-died/"
+            },
+            {
+              "title": "26 years",
+              "url": "https://www.wired.com/story/us-lost-measles-elimination-status-years-to-recover/"
+            },
+            {
+              "title": "NLDR Media",
+              "url": "https://thejefferymead.substack.com/p/morning-briefing-november-21-2026"
+            },
+            {
+              "title": "WIRED",
+              "url": "https://www.wired.com/story/jensen-huangs-lying-alarmed-nvidia-board-ahead-of-his-resignation/"
+            },
+            {
+              "title": "Hill Heat",
+              "url": "https://hillheat.news/"
+            },
+            {
+              "title": "WIRED",
+              "url": "https://www.wired.com/story/hey-brother-house-manosphere-content/"
+            },
+            {
+              "title": "WIRED",
+              "url": "https://www.wired.com/story/fiona-the-hippo-died-after-eating-a-hat-but-how-does-a-hat-kill-a-hippo/"
+            },
+            {
+              "title": "Pirate Wires",
+              "url": "https://piratewires.substack.com/p/something-is-very-wrong-right-now"
+            },
+            {
+              "title": "WIRED",
+              "url": "https://www.wired.com/story/shiftkey-gig-nursing/"
+            },
+            {
+              "title": "WIRED",
+              "url": "https://www.wired.com/story/lovable-wants-you-to-vibe-code-a-living/"
+            }
+          ]
+        }
+      }
     }
   ]
 }
