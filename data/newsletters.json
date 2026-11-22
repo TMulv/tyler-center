@@ -321211,6 +321211,539 @@
           ]
         }
       }
+    },
+    {
+      "id": "digest-9558153c-8a3e-8239-8643-813f971de88f",
+      "channel": "newsletters",
+      "source": "notion",
+      "kind": "Agent-written digest",
+      "domain": "Daily newsletter digest",
+      "title": "The Eagle Attack, the Anthropic Trillion-Dollar Question, and a Better Saturday",
+      "url": "",
+      "description": "Saturday’s inbox had a strong thesis: the future is arriving at full volume, but the past is still hiding in the weirdest places. Today’s haul runs from a star eating another star to an eagle apparently hunting adult baboons, with a practical breakfast, a few excellent New York rooms, and one very g",
+      "body": "Saturday’s inbox had a strong thesis: the future is arriving at full volume, but the past is still hiding in the weirdest places. Today’s haul runs from a star eating another star to an eagle apparently hunting adult baboons, with a practical breakfast, a few excellent New York rooms, and one very good argument for doing less.\n\nBest links\n\n• The eagle has entered the chat. 404 Media’s Abstract reports that Verreaux’s eagles in Chad appear to hunt adult olive baboons weighing up to 57 pounds. The old “birds can’t carry heavy prey” objection misses the grisly tactic: land, grip, ride, exhaust. Also in the same dispatch: a star swallowing its companion and drones collecting whole whale genomes from blow. Science remains gloriously gross.\n\n• Anthropic’s IPO, minus the incense. Sparks from Culture makes the clean distinction the hype cycle keeps blurring: revenue is not profit, and a huge valuation is a bet on future earnings, not proof of them. The useful framing is neither “AI is god” nor “AI is nothing”—it is a technology likely to reshape knowledge work, with an enormous bill attached.\n\n• Grand Theft Auto as a civilization-scale event. The Weekly Scroll argues that GTA VI is not a niche game launch but a mass-media event: the industry’s economics dwarf film, and the first-day sales reportedly landed at a scale no movie has approached. The sharper side note is that mobile games may be more psychologically predatory than the supposedly dangerous crime simulator—slot machines with better onboarding.\n\nWorth reading\n\n• Systems should outlive their founders. In PM Researcher’s “Waystar with No Succession”, the Roy family’s disaster becomes a compact lesson in institutional design: authority concentrated in one person creates a system with too little “variety” to handle its own complexity. Write the succession rules before the crisis, not during it.\n\n• The internet is closing its own book. The Substack Post’s Weekender says goodbye to Salon, documents the first manic hours of GTA VI, and revisits the strange corporate/legal machinery behind Goosebumps. The best essay may be the one about letting the ambition monster die: less striving, more present-tense life, and—counterintuitively—better work.\n\n• A warning label for “AI detection.” The Weekly Scroll’s Caine Prize discussion is a useful reminder that cultural institutions are now being asked to arbitrate authorship with imperfect tools, while every side arrives with a ready-made moral story. Treat certainty as the suspicious part.\n\nFood & places\n\n• Saturday-night prep, Sunday-morning payoff. NYT Cooking offers an herby cottage-cheese egg bake: eggs, cottage cheese, herbs, scallions, salt, and pepper, mixed the night before and baked in the morning. The leftovers are explicitly endorsed as a sandwich filling. The supporting cast is strong too: maple-harissa chicken, cabbage-and-paprika orecchiette, caramelized-garlic fish, and halloumi-sweet-potato tacos.\n\n• An exhibition route worth stealing. exhibits in new york points to Goddesses in the Machine: Fashion in American Silent Film at Bard Graduate Center, the Photography Triennial at the Museum of the City of New York, Architects of Liberation at MoMA, and a last-day must-see: Theresa Hak Kyung Cha at Artists Space. One small rule for the weekend: go see one thing before you read another recommendation.\n\n• A gift guide with an actual point of view. Feed Me asks readers for the best gift they have ever given or received. The winning category is not “expensive”; it is “takes care of me in the in-between moments”—pajamas, a travel jewelry case, a tiny watercolor set. Good gift filter: what recurring friction does this quietly remove?\n\nInternet oddities\n\n• A plastic bottle of yellow liquid, preserved for a decade in a tree above the Forest Avenue M stop, has become one New Yorker’s private monument to resilience. It appears in Perfectly Imperfect’s Gnarcissists issue, alongside a band’s love of an offline Sony voice recorder and a new EP recorded at Sean Ono Lennon’s home studio. The internet is still good at finding the sacred in the extremely questionable.\n\n• The best anti-algorithm recommendation engine is still a person with taste. Earl Earl is technically a Black Friday sales roundup, but the useful bit is the editor’s method: shop for one bonkers object at Ssense, one everyday luxury, one excellent basic, and stop before the list turns into a second job.\n\nIdeas to steal\n\n• Build succession into the structure, not the personality.\n\n• Make one weekend breakfast a Saturday-night task.\n\n• Keep an offline device for thoughts that do not need to become content.\n\n• Choose gifts by the small daily problem they solve.\n\n• When the feed gets loud, go to a room with walls and look at something made by hand.\n\nOne-liners\n\n• “You can’t eat revenues.” — a useful sentence for every current tech valuation.\n\n• R.L. Stine’s anti-writer’s-block system: outline twenty pages, then keep going uphill until the draft exists.\n\n• The ancient fear of being eaten by a bird is apparently not ancient enough.\n\n• The best thing in a gift guide may be a present that makes you feel like the person who has their life together.\n\n• This week’s governing principle: less doomscrolling, more egg bake.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Saturday’s inbox had a strong thesis: the future is arriving at full volume, but the past is still hiding in the weirdest places. Today’s haul runs from a star eating another star to an eagle apparently hunting adult baboons, with a practical breakfast, a few excellent New York rooms, and one very good argument for doing less.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "heading_2",
+          "runs": [
+            {
+              "text": "Best links",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "The eagle has entered the chat.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "404 Media’s Abstract",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": " reports that Verreaux’s eagles in Chad appear to hunt adult olive baboons weighing up to 57 pounds. The old “birds can’t carry heavy prey” objection misses the grisly tactic: land, grip, ride, exhaust. Also in the same dispatch: a star swallowing its companion and drones collecting whole whale genomes from blow. Science remains gloriously gross.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Anthropic’s IPO, minus the incense.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Sparks from Culture",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": " makes the clean distinction the hype cycle keeps blurring: revenue is not profit, and a huge valuation is a bet on future earnings, not proof of them. The useful framing is neither “AI is god” nor “AI is nothing”—it is a technology likely to reshape knowledge work, with an enormous bill attached.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Grand Theft Auto as a civilization-scale event.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "The Weekly Scroll",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": " argues that GTA VI is not a niche game launch but a mass-media event: the industry’s economics dwarf film, and the first-day sales reportedly landed at a scale no movie has approached. The sharper side note is that mobile games may be more psychologically predatory than the supposedly dangerous crime simulator—slot machines with better onboarding.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "heading_2",
+          "runs": [
+            {
+              "text": "Worth reading",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Systems should outlive their founders.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " In ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "PM Researcher’s “Waystar with No Succession”",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ", the Roy family’s disaster becomes a compact lesson in institutional design: authority concentrated in one person creates a system with too little “variety” to handle its own complexity. Write the succession rules before the crisis, not during it.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "The internet is closing its own book.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "The Substack Post’s Weekender",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": " says goodbye to Salon, documents the first manic hours of GTA VI, and revisits the strange corporate/legal machinery behind Goosebumps. The best essay may be the one about letting the ambition monster die: less striving, more present-tense life, and—counterintuitively—better work.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "A warning label for “AI detection.”",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " The Weekly Scroll’s Caine Prize discussion is a useful reminder that cultural institutions are now being asked to arbitrate authorship with imperfect tools, while every side arrives with a ready-made moral story. Treat certainty as the suspicious part.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "heading_2",
+          "runs": [
+            {
+              "text": "Food & places",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Saturday-night prep, Sunday-morning payoff.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "NYT Cooking",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": " offers an herby cottage-cheese egg bake: eggs, cottage cheese, herbs, scallions, salt, and pepper, mixed the night before and baked in the morning. The leftovers are explicitly endorsed as a sandwich filling. The supporting cast is strong too: maple-harissa chicken, cabbage-and-paprika orecchiette, caramelized-garlic fish, and halloumi-sweet-potato tacos.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "An exhibition route worth stealing.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "exhibits in new york",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": " points to ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Goddesses in the Machine: Fashion in American Silent Film",
+              "url": "",
+              "bold": false,
+              "italic": true
+            },
+            {
+              "text": " at Bard Graduate Center, the Photography Triennial at the Museum of the City of New York, ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Architects of Liberation",
+              "url": "",
+              "bold": false,
+              "italic": true
+            },
+            {
+              "text": " at MoMA, and a last-day must-see: Theresa Hak Kyung Cha at Artists Space. One small rule for the weekend: go see one thing before you read another recommendation.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "A gift guide with an actual point of view.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Feed Me",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": " asks readers for the best gift they have ever given or received. The winning category is not “expensive”; it is “takes care of me in the in-between moments”—pajamas, a travel jewelry case, a tiny watercolor set. Good gift filter: what recurring friction does this quietly remove?",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "heading_2",
+          "runs": [
+            {
+              "text": "Internet oddities",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "A plastic bottle of yellow liquid, preserved for a decade in a tree above the Forest Avenue M stop, has become one New Yorker’s private monument to resilience.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " It appears in ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Perfectly Imperfect’s Gnarcissists issue",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ", alongside a band’s love of an offline Sony voice recorder and a new EP recorded at Sean Ono Lennon’s home studio. The internet is still good at finding the sacred in the extremely questionable.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "The best anti-algorithm recommendation engine is still a person with taste.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Earl Earl",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": " is technically a Black Friday sales roundup, but the useful bit is the editor’s method: shop for one bonkers object at Ssense, one everyday luxury, one excellent basic, and stop before the list turns into a second job.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "heading_2",
+          "runs": [
+            {
+              "text": "Ideas to steal",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Build succession into the structure, not the personality.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Make one weekend breakfast a Saturday-night task.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Keep an offline device for thoughts that do not need to become content.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Choose gifts by the small daily problem they solve.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "When the feed gets loud, go to a room with walls and look at something made by hand.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "heading_2",
+          "runs": [
+            {
+              "text": "One-liners",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "“You can’t eat revenues.” — a useful sentence for every current tech valuation.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "R.L. Stine’s anti-writer’s-block system: outline twenty pages, then keep going uphill until the draft exists.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "The ancient fear of being eaten by a bird is apparently not ancient enough.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "The best thing in a gift guide may be a present that makes you feel like the person who has their life together.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "This week’s governing principle: less doomscrolling, more egg bake.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        }
+      ],
+      "publishedAt": "2026-11-21T22:07:00Z",
+      "links": []
     }
   ]
 }
