@@ -324047,6 +324047,531 @@
           ]
         }
       }
+    },
+    {
+      "id": "digest-dc78153c-8a3e-823f-9da7-81083159db15",
+      "channel": "newsletters",
+      "source": "notion",
+      "kind": "Agent-written digest",
+      "domain": "Daily newsletter digest",
+      "title": "The Human Taste Test, the AI Fraud Kingpin, and a Potato That Stands Up",
+      "url": "",
+      "description": "Sunday’s inbox made a surprisingly coherent argument: in an age of AI sameness, the things worth saving are the ones with taste, friction, specificity, and a little weirdness. Also, one potato recipe has been engineered to deliver both creamy middle and crispy edge.",
+      "body": "Sunday’s inbox made a surprisingly coherent argument: in an age of AI sameness, the things worth saving are the ones with taste, friction, specificity, and a little weirdness. Also, one potato recipe has been engineered to deliver both creamy middle and crispy edge.\n\nBest links\n\n• Grand Theft Auto VI as accidental cultural criticism. The game’s meticulously rendered world, working phone, 62 bird species, and themes of class, policing, and surveillance have even a non-gamer newsletter editor intrigued. That is a powerful review from someone who says video games are basically a foreign language. — Links I Would Gchat You If We Were Friends\n\n• The salt wars. A reporter staked out Maldon’s production site and concluded that its supposedly pure sea-salt flakes were mixed with imported German rock salt. The newsletter reports that the $4-a-cup salt community responded with “UTTER CHAOS,” which is exactly the right scale of internet melodrama. — Links I Would Gchat You If We Were Friends\n\n• The fraud economy gets a profile. 404 Media’s podcast leads with the creator of OnlyFake, the AI-powered fake-ID site, then points to a Muse AI agent suing Meta and the Justice Department using Pangram against defense attorneys. — 404 Media\n\nWorth reading\n\n• Taste is not just a mood board. The New York Times’ conversation about AI and aesthetic judgment lands on a useful distinction: taste is cultivated through time, effort, criticism, and other people. The emerging “Chatbot Canon” may recommend the consensus pick, but human taste is partly the record of how you became someone who likes a thing.\n\n• Make for one person, not an abstract audience. JA Westenberg’s six rules for making things people care about are blunt and good: care before asking anyone else to, want the verb rather than the noun, test whether you can tolerate the boring middle, choose one person to make it for, put in a minimum daily effort, and keep making. The best practical test: work on it in silence for 30 days. — JA Westenberg\n\n• Writing is a thinking tool, not a transcript of thought. Brain Food collects a sharp cluster of reminders: action creates information; decide what success looks like before deciding; deliver bad news fast; keep postmortems clinical; and ask people to explain how they solved the problem, not merely what the answer was.\n\nIdeas to steal\n\n• Build a “shared brain.” Lenny’s interview with Atlassian’s Sherif Mansour frames a PM’s No. 1 job as building shared context, then distinguishes three PM modes — artist, scientist, and GM. The interesting hiring signal: Atlassian is bringing in more juniors in the AI era, not fewer. — Lenny’s Newsletter\n\n• Turn goals into verbs. “Be a founder” is identity theater; “ship one feature a week” is a practice. A good goal should tell you what to do on the least glamorous Tuesday.\n\n• Add friction on purpose. The Links newsletter highlights an “effort paradox”: the work that feels effortful is often what makes an experience feel meaningful in retrospect. The anti-algorithm may simply be choosing the harder, more memorable route.\n\nFood & places\n\n• The Thanksgiving side with a structural advantage. Kenji López-Alt’s Hasselback-gratin hybrid packs sliced potatoes vertically so every bite gets creamy interior, browned top, and singed ridges. Bring extra potatoes; the whole trick depends on packing them tightly and keeping them upright. — NYT Cooking\n\n• Red curry noodles for the non-holiday nights. Store-bought Thai red curry paste does the heavy lifting in a fast, flavor-packed dinner. The same dispatch also recommends sheet-pan pierogies with Brussels sprouts — or cabbage and kimchi, a swap the editor says produced an especially good texture. — NYT Cooking\n\nInternet oddities\n\n• Only humans could be this weird. The Times newsletter’s cultural mascot is Angine de Poitrine, a French Canadian duo in polka-dot costumes making microtonal math-rock with loop pedals and extraterrestrial alter egos. It is either pretentious affectation or a tiny revolt against AI content — possibly both. — The New York Times\n\n• The neighbor network beats the smart lock. One link argues that the best defense against package theft is still friendly relationships with the people next door. A useful reminder that “infrastructure” can mean knowing who lives upstairs.\n\nOne-liners\n\n• “The feeling is a fact, but the story is a guess.” — Brain Food\n\n• “You’re not stuck where you started. You’re stuck where you stopped.” — Brain Food\n\n• The best test of whether you want the noun is whether you enjoy the verb. — distilled from JA Westenberg\n\nCompiled from today’s Gmail messages labeled Newsletters.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Sunday’s inbox made a surprisingly coherent argument: in an age of AI sameness, the things worth saving are the ones with taste, friction, specificity, and a little weirdness. Also, one potato recipe has been engineered to deliver both creamy middle and crispy edge.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "heading_2",
+          "runs": [
+            {
+              "text": "Best links",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Grand Theft Auto VI as accidental cultural criticism.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " The game’s meticulously rendered world, working phone, 62 bird species, and themes of class, policing, and surveillance have even a non-gamer newsletter editor intrigued. That is a powerful review from someone who says video games are basically a foreign language. — ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Links I Would Gchat You If We Were Friends",
+              "url": "",
+              "bold": false,
+              "italic": true
+            },
+            {
+              "text": " ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "The salt wars.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " A reporter staked out Maldon’s production site and concluded that its supposedly pure sea-salt flakes were mixed with imported German rock salt. The newsletter reports that the $4-a-cup salt community responded with “UTTER CHAOS,” which is exactly the right scale of internet melodrama. — ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Links I Would Gchat You If We Were Friends",
+              "url": "",
+              "bold": false,
+              "italic": true
+            },
+            {
+              "text": " ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "The fraud economy gets a profile.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " 404 Media’s podcast leads with the creator of OnlyFake, the AI-powered fake-ID site, then points to a Muse AI agent suing Meta and the Justice Department using Pangram against defense attorneys. — ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "404 Media",
+              "url": "",
+              "bold": false,
+              "italic": true
+            },
+            {
+              "text": " ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "heading_2",
+          "runs": [
+            {
+              "text": "Worth reading",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Taste is not just a mood board.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " The ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "New York Times",
+              "url": "",
+              "bold": false,
+              "italic": true
+            },
+            {
+              "text": "’ conversation about AI and aesthetic judgment lands on a useful distinction: taste is cultivated through time, effort, criticism, and other people. The emerging “Chatbot Canon” may recommend the consensus pick, but human taste is partly the record of how you became someone who likes a thing. ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Make for one person, not an abstract audience.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " JA Westenberg’s six rules for making things people care about are blunt and good: care before asking anyone else to, want the verb rather than the noun, test whether you can tolerate the boring middle, choose one person to make it for, put in a minimum daily effort, and keep making. The best practical test: work on it in silence for 30 days. — ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "JA Westenberg",
+              "url": "",
+              "bold": false,
+              "italic": true
+            },
+            {
+              "text": " ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Writing is a thinking tool, not a transcript of thought.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Brain Food",
+              "url": "",
+              "bold": false,
+              "italic": true
+            },
+            {
+              "text": " collects a sharp cluster of reminders: action creates information; decide what success looks like before deciding; deliver bad news fast; keep postmortems clinical; and ask people to explain how they solved the problem, not merely what the answer was. ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "heading_2",
+          "runs": [
+            {
+              "text": "Ideas to steal",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Build a “shared brain.”",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " Lenny’s interview with Atlassian’s Sherif Mansour frames a PM’s No. 1 job as building shared context, then distinguishes three PM modes — artist, scientist, and GM. The interesting hiring signal: Atlassian is bringing in more juniors in the AI era, not fewer. — ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Lenny’s Newsletter",
+              "url": "",
+              "bold": false,
+              "italic": true
+            },
+            {
+              "text": " ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Turn goals into verbs.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " “Be a founder” is identity theater; “ship one feature a week” is a practice. A good goal should tell you what to do on the least glamorous Tuesday.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Add friction on purpose.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " The Links newsletter highlights an “effort paradox”: the work that feels effortful is often what makes an experience feel meaningful in retrospect. The anti-algorithm may simply be choosing the harder, more memorable route.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "heading_2",
+          "runs": [
+            {
+              "text": "Food & places",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "The Thanksgiving side with a structural advantage.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " Kenji López-Alt’s Hasselback-gratin hybrid packs sliced potatoes vertically so every bite gets creamy interior, browned top, and singed ridges. Bring extra potatoes; the whole trick depends on packing them tightly and keeping them upright. — ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "NYT Cooking",
+              "url": "",
+              "bold": false,
+              "italic": true
+            },
+            {
+              "text": " ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Red curry noodles for the non-holiday nights.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " Store-bought Thai red curry paste does the heavy lifting in a fast, flavor-packed dinner. The same dispatch also recommends sheet-pan pierogies with Brussels sprouts — or cabbage and kimchi, a swap the editor says produced an especially good texture. — ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "NYT Cooking",
+              "url": "",
+              "bold": false,
+              "italic": true
+            },
+            {
+              "text": " ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "heading_2",
+          "runs": [
+            {
+              "text": "Internet oddities",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Only humans could be this weird.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " The ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Times",
+              "url": "",
+              "bold": false,
+              "italic": true
+            },
+            {
+              "text": " newsletter’s cultural mascot is Angine de Poitrine, a French Canadian duo in polka-dot costumes making microtonal math-rock with loop pedals and extraterrestrial alter egos. It is either pretentious affectation or a tiny revolt against AI content — possibly both. — ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "The New York Times",
+              "url": "",
+              "bold": false,
+              "italic": true
+            },
+            {
+              "text": " ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "The neighbor network beats the smart lock.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " One link argues that the best defense against package theft is still friendly relationships with the people next door. A useful reminder that “infrastructure” can mean knowing who lives upstairs.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "heading_2",
+          "runs": [
+            {
+              "text": "One-liners",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "“The feeling is a fact, but the story is a guess.” — ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Brain Food",
+              "url": "",
+              "bold": false,
+              "italic": true
+            },
+            {
+              "text": " ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "“You’re not stuck where you started. You’re stuck where you stopped.” — ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Brain Food",
+              "url": "",
+              "bold": false,
+              "italic": true
+            },
+            {
+              "text": " ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "The best test of whether you want the noun is whether you enjoy the verb. — distilled from ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "JA Westenberg",
+              "url": "",
+              "bold": false,
+              "italic": true
+            },
+            {
+              "text": " ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Compiled from today’s Gmail messages labeled Newsletters.",
+              "url": "",
+              "bold": false,
+              "italic": true
+            }
+          ]
+        }
+      ],
+      "publishedAt": "2026-11-22T22:06:00Z",
+      "links": []
     }
   ]
 }

@@ -1064,6 +1064,16 @@
       "domain": "www.newyorker.com",
       "checkedAt": "2026-11-19T17:11:34.984002+00:00",
       "available": true
+    },
+    "https://www.newyorker.com/culture/the-weekend-essay/good-enough-for-a-tuesday-night": {
+      "title": "Good Enough for a Tuesday Night",
+      "description": "An affair with an economist exposed the calculus of modern dating.",
+      "site": "The New Yorker",
+      "image": "https://media.newyorker.com/photos/6aede75911476724e624a140/16:9/w_1280,c_limit/Economist.jpg",
+      "icon": "https://www.newyorker.com/verso/static/thenewyorker-us/assets/favicon.ico",
+      "domain": "www.newyorker.com",
+      "checkedAt": "2026-11-23T01:04:13.614747+00:00",
+      "available": true
     }
   }
 }
