@@ -1116,6 +1116,24 @@
       "url": "https://www.newyorker.com/culture/the-weekend-essay/good-enough-for-a-tuesday-night",
       "publishedAt": "2026-11-22T22:42:00Z",
       "readingStatus": "To Read"
+    },
+    {
+      "id": "readlater-2408153c8a3e8300b5ff013ca92377c9",
+      "channel": "articles",
+      "source": "notion",
+      "title": "We Need Smart People Who Give a Shit",
+      "url": "https://violetpixel.com/blog/2026-11-17-we-need-smart-people-who-give-a-shit/",
+      "publishedAt": "2026-11-23T16:50:00Z",
+      "readingStatus": "To Read"
+    },
+    {
+      "id": "readlater-8678153c8a3e8216a4bd814deb36026e",
+      "channel": "articles",
+      "source": "notion",
+      "title": "Smart People Who Give a Shit Use Tools",
+      "url": "https://www.iankduncan.com/engineering/2026-11-19-smart-people-who-give-a-shit-use-tools",
+      "publishedAt": "2026-11-23T16:50:00Z",
+      "readingStatus": "To Read"
     }
   ]
 }

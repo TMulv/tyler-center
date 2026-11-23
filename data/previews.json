@@ -1074,6 +1074,26 @@
       "domain": "www.newyorker.com",
       "checkedAt": "2026-11-23T01:04:13.614747+00:00",
       "available": true
+    },
+    "https://violetpixel.com/blog/2026-11-17-we-need-smart-people-who-give-a-shit/": {
+      "title": "🧠 We Need Smart People Who Give a Shit • VioletPixel",
+      "description": "",
+      "site": "",
+      "image": "",
+      "icon": "https://violetpixel.com/favicon.ico",
+      "domain": "violetpixel.com",
+      "checkedAt": "2026-11-23T17:21:37.894705+00:00",
+      "available": true
+    },
+    "https://www.iankduncan.com/engineering/2026-11-19-smart-people-who-give-a-shit-use-tools": {
+      "title": "Smart People Who Give a Shit Use Tools - Ian Duncan",
+      "description": "LLMs mostly amplify whoever is sitting at the keyboard. Deeply curious, caring engineers multiply what they can build and verify; lazy ones can, for now, coast as meat proxies.",
+      "site": "Ian Duncan",
+      "image": "https://iankduncan.com/portrait.jpg",
+      "icon": "https://www.iankduncan.com/favicon.jpg",
+      "domain": "www.iankduncan.com",
+      "checkedAt": "2026-11-23T17:21:37.894705+00:00",
+      "available": true
     }
   }
 }
