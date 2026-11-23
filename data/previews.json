@@ -1094,6 +1094,16 @@
       "domain": "www.iankduncan.com",
       "checkedAt": "2026-11-23T17:21:37.894705+00:00",
       "available": true
+    },
+    "https://www.vanityfair.com/story/the-mastermind": {
+      "title": "What If We Told You She’s a Mastermind? A Tale of Pop Stardom",
+      "description": "Once upon a time, a country girl became the biggest star on the planet. But after speaking to over 100 sources, May Jeong finds there’s more than one version of this fairy tale.",
+      "site": "Vanity Fair",
+      "image": "https://media.vanityfair.com/photos/6afce0e000b965df01e205a8/16:9/w_1280,c_limit/MR-Selects-12_2026_0512%20Vanity%20Fair%20Pop%20Fandom%20Jacket71862_rR.png",
+      "icon": "https://www.vanityfair.com/verso/static/vanityfair-global/assets/favicon.ico",
+      "domain": "www.vanityfair.com",
+      "checkedAt": "2026-11-23T21:10:22.918489+00:00",
+      "available": true
     }
   }
 }
