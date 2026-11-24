@@ -331118,6 +331118,1262 @@
       ],
       "publishedAt": "2026-11-23T22:11:00Z",
       "links": []
+    },
+    {
+      "id": "digest-4228153c-8a3e-8102-a798-fcd33fbab6e7",
+      "channel": "newsletters",
+      "source": "notion",
+      "kind": "Agent-written digest",
+      "domain": "Daily newsletter digest",
+      "title": "Huang's $1 Trillion Comeback, AI Cracks Riemann, Cyberpocalypse Prepping - Tuesday, November 24, 2026",
+      "url": "",
+      "description": "Tuesday, November 24, 2026 - Morning Edition",
+      "body": "Tuesday, November 24, 2026 - Morning Edition\n\nToday's Numbers\n\n• 31%: Nvidia shares jumped Monday after the board reinstated Jensen Huang as CEO, just 12 days after he resigned in scandal.\n\n• $1 trillion: the market value Nvidia added in a single day on the news, nearly.\n\n• 17 million: lines in the \"alien\" solution an Anthropic researcher produced for the Riemann hypothesis, math's most famous problem. Mathematicians will need months to understand it.\n\n• 3.5 billion: usernames, passwords, and documents exposed by a pair of unsecured databases, including data that could let attackers take over a victim's whole digital life.\n\nQuotes of the Day\n\n• \"If thank you is the only prayer you say in your life, that's enough\" (Liv, Breath Club, reflecting on turning 30)\n\n• \"In politics, you can never be cynical enough\" (a Scottsdale city councilman, as recalled by Casey Newton in Platformer)\n\n• \"There's a real, real problem here\" (Ben McKenzie, launching a nonprofit to take on prediction markets, via WIRED)\n\nMoney & Power\n\nHomeowners have stopped waiting. Home Depot and Lowe's just reported surprisingly resilient earnings even as home sales stay frozen, because after four and a half years of high rates, fixing the roof is no longer optional. Home Depot's CEO put it plainly back in 2024: at some point, housing spend shifts from discretionary to something you simply must do. The evidence says that point has arrived, and it softens the worst case outlook for housing spending in 2027. (The Housing Frame)\n\nAI & The Machines\n\nThe case for prepping for a cyberpocalypse. Kelsey Piper runs through a grim pileup: the first $6 billion crypto heist, cyberattacks on European supermarkets, a targeted attack on a Norwegian oil and gas operation, an intrusion into the FBI's national criminal justice database, and an apparent attack attempt on an Illinois dam. AI is finding software vulnerabilities far faster than humans can, and the number of critical flaws being discovered is way up. Her pitch is not a bunker. It is cash, food, and water on hand so you can ride out a week without power, water, or electronic payments, and so you are not the person emergency services have to rescue. (The Argument)\n\nThe Culture\n\nWas being an only child so bad? Danny Nelson, guest-writing for Maybe Baby, takes on the question from a reader couple weighing zero kids, two kids, or just one. His answer is wry and unsentimental: the nastiest traits pinned on only children show up in siblings just as often, and the real difference is that only children grow up without a separate kid world at home. They live in the adult world, for better and worse, and they absorb the full psychic pressure of their parents with no sibling to split it. (Maybe Baby)\n\nQuick Hits & Curiosities\n\n• A billionaire in Chicago's Lincoln Park is paying workers in matching latex gloves to scatter nuts and seeds for the squirrels she adores. Her neighbors are less charmed, since the feast has also attracted rats. (The Wall Street Journal)\n\n• Influencers keep showing off fake luxury furniture bought direct from China for a tenth of the price. WIRED went to the city where the dupes are made. (WIRED)\n\n• Super Bowl 61 will play in Imax theaters, with ESPN and the NFL putting the big game on the biggest screens. (CNBC)\n\n• A telehealth clinic is now selling orforglipron, the active ingredient in Eli Lilly's weight-loss pill, in edible chocolate squares. Lilly is not amused. (WIRED)\n\n• GTA VI sold more in a single day than Avengers: Endgame and Avatar grossed at the box office over their entire lifetimes. (Sherwood Snacks)",
+      "blocks": [
+        {
+          "type": "heading_1",
+          "runs": [
+            {
+              "text": "Tuesday, November 24, 2026 - Morning Edition",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Today's Numbers",
+              "url": "",
+              "bold": true,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "31%",
+              "url": "https://sherwood.news/",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": ": Nvidia shares jumped Monday after the board reinstated Jensen Huang as CEO, just 12 days after he resigned in scandal.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "$1 trillion",
+              "url": "https://sherwood.news/",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": ": the market value Nvidia added in a single day on the news, nearly.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "17 million",
+              "url": "https://www.wired.com/",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": ": lines in the \"alien\" solution an Anthropic researcher produced for the Riemann hypothesis, math's most famous problem. Mathematicians will need months to understand it.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "3.5 billion",
+              "url": "https://www.wired.com/",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": ": usernames, passwords, and documents exposed by a pair of unsecured databases, including data that could let attackers take over a victim's whole digital life.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Quotes of the Day",
+              "url": "",
+              "bold": true,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "\"If thank you is the only prayer you say in your life, that's enough\" (Liv, Breath Club, reflecting on turning 30)",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "\"In politics, you can never be cynical enough\" (a Scottsdale city councilman, as recalled by Casey Newton in Platformer)",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "\"There's a real, real problem here\" (Ben McKenzie, launching a nonprofit to take on prediction markets, via WIRED)",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Money & Power",
+              "url": "",
+              "bold": true,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Homeowners have stopped waiting.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " Home Depot and Lowe's just reported surprisingly resilient earnings even as home sales stay frozen, because after four and a half years of high rates, fixing the roof is no longer optional. Home Depot's CEO put it plainly back in 2024: at some point, housing spend shifts from discretionary to something you simply must do. The evidence says that point has arrived, and it softens the worst case outlook for housing spending in 2027. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "The Housing Frame",
+              "url": "https://conorsen.substack.com/p/home-repair-is-recovering-ahead-of",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "AI & The Machines",
+              "url": "",
+              "bold": true,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "The case for prepping for a cyberpocalypse.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " Kelsey Piper runs through a grim pileup: the first $6 billion crypto heist, cyberattacks on European supermarkets, a targeted attack on a Norwegian oil and gas operation, an intrusion into the FBI's national criminal justice database, and an apparent attack attempt on an Illinois dam. AI is finding software vulnerabilities far faster than humans can, and the number of critical flaws being discovered is way up. Her pitch is not a bunker. It is cash, food, and water on hand so you can ride out a week without power, water, or electronic payments, and so you are not the person emergency services have to rescue. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "The Argument",
+              "url": "https://www.theargumentmag.com/p/the-case-for-cyberpocalypse-prepping",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "The Culture",
+              "url": "",
+              "bold": true,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Was being an only child so bad?",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " Danny Nelson, guest-writing for Maybe Baby, takes on the question from a reader couple weighing zero kids, two kids, or just one. His answer is wry and unsentimental: the nastiest traits pinned on only children show up in siblings just as often, and the real difference is that only children grow up without a separate kid world at home. They live in the adult world, for better and worse, and they absorb the full psychic pressure of their parents with no sibling to split it. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Maybe Baby",
+              "url": "https://haleynahman.substack.com/",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Quick Hits & Curiosities",
+              "url": "",
+              "bold": true,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "A billionaire in Chicago's Lincoln Park is paying workers in matching latex gloves to scatter nuts and seeds for the squirrels she adores. Her neighbors are less charmed, since the feast has also attracted rats. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "The Wall Street Journal",
+              "url": "https://www.wsj.com/us-news/a-wealthy-woman-and-her-chicago-neighbors-are-at-war-over-rats-b99b2766",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Influencers keep showing off fake luxury furniture bought direct from China for a tenth of the price. WIRED went to the city where the dupes are made. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "WIRED",
+              "url": "https://www.wired.com/",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Super Bowl 61 will play in Imax theaters, with ESPN and the NFL putting the big game on the biggest screens. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "CNBC",
+              "url": "https://www.cnbc.com/2026/11/23/espn-nfl-super-bowl-imax.html",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "A telehealth clinic is now selling orforglipron, the active ingredient in Eli Lilly's weight-loss pill, in edible chocolate squares. Lilly is not amused. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "WIRED",
+              "url": "https://www.wired.com/",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "GTA VI sold more in a single day than Avengers: Endgame and Avatar grossed at the box office over their entire lifetimes. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Sherwood Snacks",
+              "url": "https://sherwood.news/",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        }
+      ],
+      "publishedAt": "2026-11-24T13:06:00Z",
+      "links": [
+        {
+          "title": "Sherwood Snacks",
+          "url": "https://sherwood.news/"
+        },
+        {
+          "title": "WIRED",
+          "url": "https://www.wired.com/"
+        },
+        {
+          "title": "The Housing Frame",
+          "url": "https://conorsen.substack.com/p/home-repair-is-recovering-ahead-of"
+        },
+        {
+          "title": "The Argument",
+          "url": "https://www.theargumentmag.com/p/the-case-for-cyberpocalypse-prepping"
+        },
+        {
+          "title": "Maybe Baby",
+          "url": "https://haleynahman.substack.com/"
+        },
+        {
+          "title": "The Wall Street Journal",
+          "url": "https://www.wsj.com/us-news/a-wealthy-woman-and-her-chicago-neighbors-are-at-war-over-rats-b99b2766"
+        },
+        {
+          "title": "CNBC",
+          "url": "https://www.cnbc.com/2026/11/23/espn-nfl-super-bowl-imax.html"
+        }
+      ],
+      "versions": {
+        "morning": {
+          "body": "Tuesday, November 24, 2026 - Morning Edition\n\nToday's Numbers\n\n• 31%: Nvidia shares jumped Monday after the board reinstated Jensen Huang as CEO, just 12 days after he resigned in scandal.\n\n• $1 trillion: the market value Nvidia added in a single day on the news, nearly.\n\n• 17 million: lines in the \"alien\" solution an Anthropic researcher produced for the Riemann hypothesis, math's most famous problem. Mathematicians will need months to understand it.\n\n• 3.5 billion: usernames, passwords, and documents exposed by a pair of unsecured databases, including data that could let attackers take over a victim's whole digital life.\n\nQuotes of the Day\n\n• \"If thank you is the only prayer you say in your life, that's enough\" (Liv, Breath Club, reflecting on turning 30)\n\n• \"In politics, you can never be cynical enough\" (a Scottsdale city councilman, as recalled by Casey Newton in Platformer)\n\n• \"There's a real, real problem here\" (Ben McKenzie, launching a nonprofit to take on prediction markets, via WIRED)\n\nMoney & Power\n\nHomeowners have stopped waiting. Home Depot and Lowe's just reported surprisingly resilient earnings even as home sales stay frozen, because after four and a half years of high rates, fixing the roof is no longer optional. Home Depot's CEO put it plainly back in 2024: at some point, housing spend shifts from discretionary to something you simply must do. The evidence says that point has arrived, and it softens the worst case outlook for housing spending in 2027. (The Housing Frame)\n\nAI & The Machines\n\nThe case for prepping for a cyberpocalypse. Kelsey Piper runs through a grim pileup: the first $6 billion crypto heist, cyberattacks on European supermarkets, a targeted attack on a Norwegian oil and gas operation, an intrusion into the FBI's national criminal justice database, and an apparent attack attempt on an Illinois dam. AI is finding software vulnerabilities far faster than humans can, and the number of critical flaws being discovered is way up. Her pitch is not a bunker. It is cash, food, and water on hand so you can ride out a week without power, water, or electronic payments, and so you are not the person emergency services have to rescue. (The Argument)\n\nThe Culture\n\nWas being an only child so bad? Danny Nelson, guest-writing for Maybe Baby, takes on the question from a reader couple weighing zero kids, two kids, or just one. His answer is wry and unsentimental: the nastiest traits pinned on only children show up in siblings just as often, and the real difference is that only children grow up without a separate kid world at home. They live in the adult world, for better and worse, and they absorb the full psychic pressure of their parents with no sibling to split it. (Maybe Baby)\n\nQuick Hits & Curiosities\n\n• A billionaire in Chicago's Lincoln Park is paying workers in matching latex gloves to scatter nuts and seeds for the squirrels she adores. Her neighbors are less charmed, since the feast has also attracted rats. (The Wall Street Journal)\n\n• Influencers keep showing off fake luxury furniture bought direct from China for a tenth of the price. WIRED went to the city where the dupes are made. (WIRED)\n\n• Super Bowl 61 will play in Imax theaters, with ESPN and the NFL putting the big game on the biggest screens. (CNBC)\n\n• A telehealth clinic is now selling orforglipron, the active ingredient in Eli Lilly's weight-loss pill, in edible chocolate squares. Lilly is not amused. (WIRED)\n\n• GTA VI sold more in a single day than Avengers: Endgame and Avatar grossed at the box office over their entire lifetimes. (Sherwood Snacks)",
+          "blocks": [
+            {
+              "type": "heading_1",
+              "runs": [
+                {
+                  "text": "Tuesday, November 24, 2026 - Morning Edition",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Today's Numbers",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "31%",
+                  "url": "https://sherwood.news/",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": Nvidia shares jumped Monday after the board reinstated Jensen Huang as CEO, just 12 days after he resigned in scandal.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "$1 trillion",
+                  "url": "https://sherwood.news/",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": the market value Nvidia added in a single day on the news, nearly.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "17 million",
+                  "url": "https://www.wired.com/",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": lines in the \"alien\" solution an Anthropic researcher produced for the Riemann hypothesis, math's most famous problem. Mathematicians will need months to understand it.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "3.5 billion",
+                  "url": "https://www.wired.com/",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": usernames, passwords, and documents exposed by a pair of unsecured databases, including data that could let attackers take over a victim's whole digital life.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Quotes of the Day",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "\"If thank you is the only prayer you say in your life, that's enough\" (Liv, Breath Club, reflecting on turning 30)",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "\"In politics, you can never be cynical enough\" (a Scottsdale city councilman, as recalled by Casey Newton in Platformer)",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "\"There's a real, real problem here\" (Ben McKenzie, launching a nonprofit to take on prediction markets, via WIRED)",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Money & Power",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Homeowners have stopped waiting.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " Home Depot and Lowe's just reported surprisingly resilient earnings even as home sales stay frozen, because after four and a half years of high rates, fixing the roof is no longer optional. Home Depot's CEO put it plainly back in 2024: at some point, housing spend shifts from discretionary to something you simply must do. The evidence says that point has arrived, and it softens the worst case outlook for housing spending in 2027. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "The Housing Frame",
+                  "url": "https://conorsen.substack.com/p/home-repair-is-recovering-ahead-of",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "AI & The Machines",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "The case for prepping for a cyberpocalypse.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " Kelsey Piper runs through a grim pileup: the first $6 billion crypto heist, cyberattacks on European supermarkets, a targeted attack on a Norwegian oil and gas operation, an intrusion into the FBI's national criminal justice database, and an apparent attack attempt on an Illinois dam. AI is finding software vulnerabilities far faster than humans can, and the number of critical flaws being discovered is way up. Her pitch is not a bunker. It is cash, food, and water on hand so you can ride out a week without power, water, or electronic payments, and so you are not the person emergency services have to rescue. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "The Argument",
+                  "url": "https://www.theargumentmag.com/p/the-case-for-cyberpocalypse-prepping",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "The Culture",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Was being an only child so bad?",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " Danny Nelson, guest-writing for Maybe Baby, takes on the question from a reader couple weighing zero kids, two kids, or just one. His answer is wry and unsentimental: the nastiest traits pinned on only children show up in siblings just as often, and the real difference is that only children grow up without a separate kid world at home. They live in the adult world, for better and worse, and they absorb the full psychic pressure of their parents with no sibling to split it. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Maybe Baby",
+                  "url": "https://haleynahman.substack.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Quick Hits & Curiosities",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "A billionaire in Chicago's Lincoln Park is paying workers in matching latex gloves to scatter nuts and seeds for the squirrels she adores. Her neighbors are less charmed, since the feast has also attracted rats. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "The Wall Street Journal",
+                  "url": "https://www.wsj.com/us-news/a-wealthy-woman-and-her-chicago-neighbors-are-at-war-over-rats-b99b2766",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Influencers keep showing off fake luxury furniture bought direct from China for a tenth of the price. WIRED went to the city where the dupes are made. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "WIRED",
+                  "url": "https://www.wired.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Super Bowl 61 will play in Imax theaters, with ESPN and the NFL putting the big game on the biggest screens. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "CNBC",
+                  "url": "https://www.cnbc.com/2026/11/23/espn-nfl-super-bowl-imax.html",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "A telehealth clinic is now selling orforglipron, the active ingredient in Eli Lilly's weight-loss pill, in edible chocolate squares. Lilly is not amused. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "WIRED",
+                  "url": "https://www.wired.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "GTA VI sold more in a single day than Avengers: Endgame and Avatar grossed at the box office over their entire lifetimes. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Sherwood Snacks",
+                  "url": "https://sherwood.news/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            }
+          ],
+          "links": [
+            {
+              "title": "Sherwood Snacks",
+              "url": "https://sherwood.news/"
+            },
+            {
+              "title": "WIRED",
+              "url": "https://www.wired.com/"
+            },
+            {
+              "title": "The Housing Frame",
+              "url": "https://conorsen.substack.com/p/home-repair-is-recovering-ahead-of"
+            },
+            {
+              "title": "The Argument",
+              "url": "https://www.theargumentmag.com/p/the-case-for-cyberpocalypse-prepping"
+            },
+            {
+              "title": "Maybe Baby",
+              "url": "https://haleynahman.substack.com/"
+            },
+            {
+              "title": "The Wall Street Journal",
+              "url": "https://www.wsj.com/us-news/a-wealthy-woman-and-her-chicago-neighbors-are-at-war-over-rats-b99b2766"
+            },
+            {
+              "title": "CNBC",
+              "url": "https://www.cnbc.com/2026/11/23/espn-nfl-super-bowl-imax.html"
+            }
+          ]
+        },
+        "full": {
+          "body": "Tuesday, November 24, 2026 - Morning Edition\n\nToday's Numbers\n\n• 31%: Nvidia shares jumped Monday after the board reinstated Jensen Huang as CEO, just 12 days after he resigned in scandal.\n\n• $1 trillion: the market value Nvidia added in a single day on the news, nearly.\n\n• 17 million: lines in the \"alien\" solution an Anthropic researcher produced for the Riemann hypothesis, math's most famous problem. Mathematicians will need months to understand it.\n\n• 3.5 billion: usernames, passwords, and documents exposed by a pair of unsecured databases, including data that could let attackers take over a victim's whole digital life.\n\nQuotes of the Day\n\n• \"If thank you is the only prayer you say in your life, that's enough\" (Liv, Breath Club, reflecting on turning 30)\n\n• \"In politics, you can never be cynical enough\" (a Scottsdale city councilman, as recalled by Casey Newton in Platformer)\n\n• \"There's a real, real problem here\" (Ben McKenzie, launching a nonprofit to take on prediction markets, via WIRED)\n\nMoney & Power\n\nHomeowners have stopped waiting. Home Depot and Lowe's just reported surprisingly resilient earnings even as home sales stay frozen, because after four and a half years of high rates, fixing the roof is no longer optional. Home Depot's CEO put it plainly back in 2024: at some point, housing spend shifts from discretionary to something you simply must do. The evidence says that point has arrived, and it softens the worst case outlook for housing spending in 2027. (The Housing Frame)\n\nAI & The Machines\n\nThe case for prepping for a cyberpocalypse. Kelsey Piper runs through a grim pileup: the first $6 billion crypto heist, cyberattacks on European supermarkets, a targeted attack on a Norwegian oil and gas operation, an intrusion into the FBI's national criminal justice database, and an apparent attack attempt on an Illinois dam. AI is finding software vulnerabilities far faster than humans can, and the number of critical flaws being discovered is way up. Her pitch is not a bunker. It is cash, food, and water on hand so you can ride out a week without power, water, or electronic payments, and so you are not the person emergency services have to rescue. (The Argument)\n\nThe Culture\n\nWas being an only child so bad? Danny Nelson, guest-writing for Maybe Baby, takes on the question from a reader couple weighing zero kids, two kids, or just one. His answer is wry and unsentimental: the nastiest traits pinned on only children show up in siblings just as often, and the real difference is that only children grow up without a separate kid world at home. They live in the adult world, for better and worse, and they absorb the full psychic pressure of their parents with no sibling to split it. (Maybe Baby)\n\nQuick Hits & Curiosities\n\n• A billionaire in Chicago's Lincoln Park is paying workers in matching latex gloves to scatter nuts and seeds for the squirrels she adores. Her neighbors are less charmed, since the feast has also attracted rats. (The Wall Street Journal)\n\n• Influencers keep showing off fake luxury furniture bought direct from China for a tenth of the price. WIRED went to the city where the dupes are made. (WIRED)\n\n• Super Bowl 61 will play in Imax theaters, with ESPN and the NFL putting the big game on the biggest screens. (CNBC)\n\n• A telehealth clinic is now selling orforglipron, the active ingredient in Eli Lilly's weight-loss pill, in edible chocolate squares. Lilly is not amused. (WIRED)\n\n• GTA VI sold more in a single day than Avengers: Endgame and Avatar grossed at the box office over their entire lifetimes. (Sherwood Snacks)",
+          "blocks": [
+            {
+              "type": "heading_1",
+              "runs": [
+                {
+                  "text": "Tuesday, November 24, 2026 - Morning Edition",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Today's Numbers",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "31%",
+                  "url": "https://sherwood.news/",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": Nvidia shares jumped Monday after the board reinstated Jensen Huang as CEO, just 12 days after he resigned in scandal.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "$1 trillion",
+                  "url": "https://sherwood.news/",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": the market value Nvidia added in a single day on the news, nearly.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "17 million",
+                  "url": "https://www.wired.com/",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": lines in the \"alien\" solution an Anthropic researcher produced for the Riemann hypothesis, math's most famous problem. Mathematicians will need months to understand it.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "3.5 billion",
+                  "url": "https://www.wired.com/",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": usernames, passwords, and documents exposed by a pair of unsecured databases, including data that could let attackers take over a victim's whole digital life.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Quotes of the Day",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "\"If thank you is the only prayer you say in your life, that's enough\" (Liv, Breath Club, reflecting on turning 30)",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "\"In politics, you can never be cynical enough\" (a Scottsdale city councilman, as recalled by Casey Newton in Platformer)",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "\"There's a real, real problem here\" (Ben McKenzie, launching a nonprofit to take on prediction markets, via WIRED)",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Money & Power",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Homeowners have stopped waiting.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " Home Depot and Lowe's just reported surprisingly resilient earnings even as home sales stay frozen, because after four and a half years of high rates, fixing the roof is no longer optional. Home Depot's CEO put it plainly back in 2024: at some point, housing spend shifts from discretionary to something you simply must do. The evidence says that point has arrived, and it softens the worst case outlook for housing spending in 2027. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "The Housing Frame",
+                  "url": "https://conorsen.substack.com/p/home-repair-is-recovering-ahead-of",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "AI & The Machines",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "The case for prepping for a cyberpocalypse.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " Kelsey Piper runs through a grim pileup: the first $6 billion crypto heist, cyberattacks on European supermarkets, a targeted attack on a Norwegian oil and gas operation, an intrusion into the FBI's national criminal justice database, and an apparent attack attempt on an Illinois dam. AI is finding software vulnerabilities far faster than humans can, and the number of critical flaws being discovered is way up. Her pitch is not a bunker. It is cash, food, and water on hand so you can ride out a week without power, water, or electronic payments, and so you are not the person emergency services have to rescue. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "The Argument",
+                  "url": "https://www.theargumentmag.com/p/the-case-for-cyberpocalypse-prepping",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "The Culture",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Was being an only child so bad?",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " Danny Nelson, guest-writing for Maybe Baby, takes on the question from a reader couple weighing zero kids, two kids, or just one. His answer is wry and unsentimental: the nastiest traits pinned on only children show up in siblings just as often, and the real difference is that only children grow up without a separate kid world at home. They live in the adult world, for better and worse, and they absorb the full psychic pressure of their parents with no sibling to split it. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Maybe Baby",
+                  "url": "https://haleynahman.substack.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Quick Hits & Curiosities",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "A billionaire in Chicago's Lincoln Park is paying workers in matching latex gloves to scatter nuts and seeds for the squirrels she adores. Her neighbors are less charmed, since the feast has also attracted rats. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "The Wall Street Journal",
+                  "url": "https://www.wsj.com/us-news/a-wealthy-woman-and-her-chicago-neighbors-are-at-war-over-rats-b99b2766",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Influencers keep showing off fake luxury furniture bought direct from China for a tenth of the price. WIRED went to the city where the dupes are made. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "WIRED",
+                  "url": "https://www.wired.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Super Bowl 61 will play in Imax theaters, with ESPN and the NFL putting the big game on the biggest screens. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "CNBC",
+                  "url": "https://www.cnbc.com/2026/11/23/espn-nfl-super-bowl-imax.html",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "A telehealth clinic is now selling orforglipron, the active ingredient in Eli Lilly's weight-loss pill, in edible chocolate squares. Lilly is not amused. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "WIRED",
+                  "url": "https://www.wired.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "GTA VI sold more in a single day than Avengers: Endgame and Avatar grossed at the box office over their entire lifetimes. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Sherwood Snacks",
+                  "url": "https://sherwood.news/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            }
+          ],
+          "links": [
+            {
+              "title": "Sherwood Snacks",
+              "url": "https://sherwood.news/"
+            },
+            {
+              "title": "WIRED",
+              "url": "https://www.wired.com/"
+            },
+            {
+              "title": "The Housing Frame",
+              "url": "https://conorsen.substack.com/p/home-repair-is-recovering-ahead-of"
+            },
+            {
+              "title": "The Argument",
+              "url": "https://www.theargumentmag.com/p/the-case-for-cyberpocalypse-prepping"
+            },
+            {
+              "title": "Maybe Baby",
+              "url": "https://haleynahman.substack.com/"
+            },
+            {
+              "title": "The Wall Street Journal",
+              "url": "https://www.wsj.com/us-news/a-wealthy-woman-and-her-chicago-neighbors-are-at-war-over-rats-b99b2766"
+            },
+            {
+              "title": "CNBC",
+              "url": "https://www.cnbc.com/2026/11/23/espn-nfl-super-bowl-imax.html"
+            }
+          ]
+        }
+      }
     }
   ]
 }
