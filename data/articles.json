@@ -1143,6 +1143,33 @@
       "url": "https://www.vanityfair.com/story/the-mastermind",
       "publishedAt": "2026-11-23T21:04:00Z",
       "readingStatus": "Not marked"
+    },
+    {
+      "id": "readlater-d498153c8a3e82c4859381508656c7a2",
+      "channel": "articles",
+      "source": "notion",
+      "title": "Inside the Chinese City Where Furniture Dupes Are Made | WIRED",
+      "url": "https://www.wired.com/story/foshan-china-dupes-furniture/",
+      "publishedAt": "2026-11-24T14:46:00Z",
+      "readingStatus": "To Read"
+    },
+    {
+      "id": "readlater-0b48153c8a3e83ac903a01b000cbcd7b",
+      "channel": "articles",
+      "source": "notion",
+      "title": "Jared Kushner’s Wars | New York Magazine",
+      "url": "https://nymag.com/intelligencer/article/jared-kushner-profile-diplomacy-trump.html",
+      "publishedAt": "2026-11-24T14:47:00Z",
+      "readingStatus": "To Read"
+    },
+    {
+      "id": "readlater-0838153c8a3e83f0ab6b81604a983c65",
+      "channel": "articles",
+      "source": "notion",
+      "title": "Becoming a Magician | Autotranslucence",
+      "url": "https://autotranslucence.wordpress.com/2018/03/30/becoming-a-magician/",
+      "publishedAt": "2026-11-24T15:15:00Z",
+      "readingStatus": "To Read"
     }
   ]
 }

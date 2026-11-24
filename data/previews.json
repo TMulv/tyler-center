@@ -1104,6 +1104,36 @@
       "domain": "www.vanityfair.com",
       "checkedAt": "2026-11-23T21:10:22.918489+00:00",
       "available": true
+    },
+    "https://www.wired.com/story/foshan-china-dupes-furniture/": {
+      "title": "Inside the Chinese City Where Furniture Dupes Are Made",
+      "description": "Across social media, influencers share the fake luxury pieces they got directly from China—for one-tenth the price. Here’s where that viral sofa came from.",
+      "site": "WIRED",
+      "image": "https://media.wired.com/photos/6afd988f1a9a899b59991c80/191:100/w_1280,c_limit/WIRED_Dupes_AmyLuo_06.jpg",
+      "icon": "https://www.wired.com/verso/static/wired-us/assets/favicon.ico",
+      "domain": "www.wired.com",
+      "checkedAt": "2026-11-24T17:08:42.939092+00:00",
+      "available": true
+    },
+    "https://nymag.com/intelligencer/article/jared-kushner-profile-diplomacy-trump.html": {
+      "title": "Jared Kushner’s Wars",
+      "description": "The president’s son-in-law mixes diplomacy and business. Democrats call it corruption — Kushner thinks he can “manifest impossible things.”",
+      "site": "Intelligencer",
+      "image": "https://pyxis.nymag.com/v1/imgs/d52/80e/5f19ea5ff9d4b0280d3888dcde00e18ff4-JK-NYM-E-01-FF.1x.rsocial.w1200.jpg",
+      "icon": "https://assets.nymag.com/media/sites/intelligencer/icon.196x196.png",
+      "domain": "nymag.com",
+      "checkedAt": "2026-11-24T17:08:42.939092+00:00",
+      "available": true
+    },
+    "https://autotranslucence.wordpress.com/2018/03/30/becoming-a-magician/": {
+      "title": "Becoming a magician",
+      "description": "When I was a teenager I often used fantasy as a vehicle for escapism. Some people, when they fantasise, think about sex or dragons or wildly unlikely events like winning the lottery. I fantasised a…",
+      "site": "Autotranslucence",
+      "image": "https://autotranslucence.wordpress.com/wp-content/uploads/2023/02/cropped-gravatar.jpg?w=200",
+      "icon": "https://autotranslucence.wordpress.com/wp-content/uploads/2023/02/cropped-gravatar.jpg?w=32",
+      "domain": "autotranslucence.wordpress.com",
+      "checkedAt": "2026-11-24T17:08:42.939092+00:00",
+      "available": true
     }
   }
 }
