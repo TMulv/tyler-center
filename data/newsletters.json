@@ -334316,6 +334316,679 @@
           ]
         }
       }
+    },
+    {
+      "id": "digest-a088153c-8a3e-82e5-b409-81e8dcc05320",
+      "channel": "newsletters",
+      "source": "notion",
+      "kind": "Agent-written digest",
+      "domain": "Daily newsletter digest",
+      "title": "The Entropy Budget, the Personalized TV Channel & the Thanksgiving Side Quest",
+      "url": "",
+      "description": "Today’s newsletters shared one big mood: everything is becoming more personalized, more automated, and more in need of maintenance. The machines are accelerating; the people, parks, friendships, and dinner tables still require tending.",
+      "body": "Today’s newsletters shared one big mood: everything is becoming more personalized, more automated, and more in need of maintenance. The machines are accelerating; the people, parks, friendships, and dinner tables still require tending.\n\nFront page\n\nThe most unnerving idea of the day came from 404 Media: Google has filed a patent for a 24/7 AI TV channel that would generate shows starring you, shaped by your watch history and preferences, with ads stitched into the result. It is only a patent—not a product—but it is a crisp picture of the entertainment future tech companies keep imagining: everyone gets a private reality, generated on demand. Read the 404 Media newsletter\n\nBest links\n\n• The Short Titles Act — Why is this interesting? dug up the 1892 British law that renamed 851 long, florid Acts into compact titles. “An Act for preventing Tumults and riotous Assemblies...” became The Riot Act; a law with a title that basically said “the one beginning with these words and ending with those words” became The Parish Overseer’s Act. Bureaucracy, but with copy-editing instincts. Read the edition\n\n• Character-Actor Yahtzee — Dinner Party makes a sport of recognizing the actor you know from three different prestige shows. Elizabeth Marvel wins the author’s personal card: The Good Wife, Law & Order: SVU, The Gilded Age, plus a deep bench of quietly excellent work. Read Dinner Party\n\n• The restaurant reservation is becoming a human service again. Feed Me reports that the team behind Estela and Altro Paradiso has quietly built Broome Street Concierge, a phone/text/email operation handling reservations for restaurants. Meanwhile, the Upper East Side is arguing over whether a frozen-yogurt shop has replaced a 66-year-old bar as the neighborhood’s social center. Read Feed Me\n\nWorth reading\n\n• “Decay is the default.” JA Westenberg’s essay turns entropy into practical life advice: everything you care about—health, money, software, friendships, a business—degrades unless someone keeps putting energy into it. The useful move is not to maintain everything; choose what matters, define the smallest effective dose, build slack, and deliberately let the rest rot. Read “Assume Entropy”\n\n• Nate Silver is having the “26 hours in a day” problem. AI coding tools have moved from unreliable commuter train to genuine productivity multiplier for Silver Bulletin’s tiny modeling team. His unease is that the tools are improving faster than institutions can absorb—and that “superintelligent coding” may be getting mistaken for general intelligence. Read Silver Bulletin\n\n• Ed Zitron’s counterpoint: the Nvidia CEO reinstatement may look like a market rescue, but in his reading it is evidence of an AI economy held together by circular financing, political pressure, and the need to keep a brittle story moving. The argument is deliberately furious; the memorable thesis is that a symbolic bounce does not solve a liquidity problem. Read “Defective Accelerationism”\n\n• A marketplace sneak peek. [SIC] Day previews Iris Alonzo’s beta-stage iris.market, alongside a useful sidebar of cultural signals: more people expecting freelance income, “hardware layers” for AI agents, executive assistants as an underrated human technology, matchbooks returning to New York restaurants, and consumers spending for fun rather than merely utility. Read [SIC] Day\n\nFood & places\n\n• Tonight’s answer: burritos. NYT Cooking’s version is a saucy, savory filling of ground beef, beans, and cheese—no rice, guacamole, sour cream, or raw vegetables—so it freezes well for up to three months. The recipe also invites birria, tinga de pollo, or a bean-and-cheese vegetarian swap. Read NYT Cooking\n\n• Thanksgiving, stripped to five ingredients. The Times collected 25 low-complexity recipes for turkey, sides, and more. The governing principle: spend less time staging a culinary military operation and more time eating. See the five-ingredient list\n\n• A playlist for the sides. The Amplifier’s nine-song Thanksgiving set includes James Brown’s “(Do the) Mashed Potatoes,” the J.B.’s “Pass the Peas,” Kacey Musgraves’s “Biscuits,” The Cranberries’ “Dreams,” and Destiny’s Child’s “Apple Pie à la Mode.” The correct soundtrack to peeling potatoes is apparently funk. Read The Amplifier\n\nInternet oddities\n\n• A Google patent imagines personalized crime capers, romantic comedies, sci-fi adventures, and action films with the viewer as protagonist—and a separate ad server inserting commercials into the generated narrative. The 404 Media report\n\n• The same 404 Media dispatch flags an AI-assisted experiment in finding a real security vulnerability, dangerous AI-enabled toys pulled from shelves, a suspended 800,000-member DeFlock account, and someone hacking a 2009 iPod Nano. More from 404\n\n• Newcomer reports that AI-search platform Exa is in talks to raise a Series D at around a $7 billion valuation, with Menlo Ventures set to lead—though the newsletter preview stops at the paywall. Read the scoop\n\nIdeas to steal\n\n• Give maintenance a budget. Westenberg suggests a weekly maintenance block, visible checklists, and a “smallest effective dose” for the things worth keeping alive.\n\n• Use “GOMO.” Feed Me’s Derek Blasberg asks: Is tonight’s event worth how you’ll feel tomorrow? Sometimes the right answer is Gratitude Of Missing Out.\n\n• Develop taste by pulling threads. Pick one artist, restaurant, subject, or object you genuinely respond to; follow its influences and descendants. You do not need permission or a degree to decide that you like—or hate—something.\n\n• Build human friction where it helps. Broome Street Concierge is a small reminder that an actual person answering the phone can be a feature, not a regression.\n\nOne-liners\n\n• “Consistently mediocre is better than intermittently great.” — Assume Entropy\n\n• “Mind your own biscuits and life will be gravy.” — Kacey Musgraves, via The Amplifier\n\n• “Go out with an open mind.” — Derek Blasberg\n\n• If you have met someone before, say “Great to see you,” not “Nice to meet you.”\n\n• The best thing to leave a party? Bad lighting.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Today’s newsletters shared one big mood: everything is becoming more personalized, more automated, and more in need of maintenance. The machines are accelerating; the people, parks, friendships, and dinner tables still require tending.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "heading_2",
+          "runs": [
+            {
+              "text": "Front page",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "The most unnerving idea of the day came from ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "404 Media",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": ": Google has filed a patent for a 24/7 AI TV channel that would generate shows starring you, shaped by your watch history and preferences, with ads stitched into the result. It is only a patent—not a product—but it is a crisp picture of the entertainment future tech companies keep imagining: everyone gets a private reality, generated on demand. ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Read the 404 Media newsletter",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "heading_2",
+          "runs": [
+            {
+              "text": "Best links",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "The Short Titles Act",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " — ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Why is this interesting?",
+              "url": "",
+              "bold": false,
+              "italic": true
+            },
+            {
+              "text": " dug up the 1892 British law that renamed 851 long, florid Acts into compact titles. “An Act for preventing Tumults and riotous Assemblies...” became ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "The Riot Act",
+              "url": "",
+              "bold": false,
+              "italic": true
+            },
+            {
+              "text": "; a law with a title that basically said “the one beginning with these words and ending with those words” became ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "The Parish Overseer’s Act",
+              "url": "",
+              "bold": false,
+              "italic": true
+            },
+            {
+              "text": ". Bureaucracy, but with copy-editing instincts. ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Read the edition",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Character-Actor Yahtzee",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " — ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Dinner Party",
+              "url": "",
+              "bold": false,
+              "italic": true
+            },
+            {
+              "text": " makes a sport of recognizing the actor you know from three different prestige shows. Elizabeth Marvel wins the author’s personal card: ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "The Good Wife",
+              "url": "",
+              "bold": false,
+              "italic": true
+            },
+            {
+              "text": ", ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Law & Order: SVU",
+              "url": "",
+              "bold": false,
+              "italic": true
+            },
+            {
+              "text": ", ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "The Gilded Age",
+              "url": "",
+              "bold": false,
+              "italic": true
+            },
+            {
+              "text": ", plus a deep bench of quietly excellent work. ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Read Dinner Party",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "The restaurant reservation is becoming a human service again.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Feed Me",
+              "url": "",
+              "bold": false,
+              "italic": true
+            },
+            {
+              "text": " reports that the team behind Estela and Altro Paradiso has quietly built Broome Street Concierge, a phone/text/email operation handling reservations for restaurants. Meanwhile, the Upper East Side is arguing over whether a frozen-yogurt shop has replaced a 66-year-old bar as the neighborhood’s social center. ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Read Feed Me",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "heading_2",
+          "runs": [
+            {
+              "text": "Worth reading",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "“Decay is the default.”",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " JA Westenberg’s essay turns entropy into practical life advice: everything you care about—health, money, software, friendships, a business—degrades unless someone keeps putting energy into it. The useful move is not to maintain everything; choose what matters, define the smallest effective dose, build slack, and deliberately let the rest rot. ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Read “Assume Entropy”",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Nate Silver is having the “26 hours in a day” problem.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " AI coding tools have moved from unreliable commuter train to genuine productivity multiplier for Silver Bulletin’s tiny modeling team. His unease is that the tools are improving faster than institutions can absorb—and that “superintelligent coding” may be getting mistaken for general intelligence. ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Read Silver Bulletin",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Ed Zitron’s counterpoint:",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " the Nvidia CEO reinstatement may look like a market rescue, but in his reading it is evidence of an AI economy held together by circular financing, political pressure, and the need to keep a brittle story moving. The argument is deliberately furious; the memorable thesis is that a symbolic bounce does not solve a liquidity problem. ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Read “Defective Accelerationism”",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "A marketplace sneak peek.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "[SIC] Day",
+              "url": "",
+              "bold": false,
+              "italic": true
+            },
+            {
+              "text": " previews Iris Alonzo’s beta-stage ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "iris.market",
+              "url": "http://iris.market/",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ", alongside a useful sidebar of cultural signals: more people expecting freelance income, “hardware layers” for AI agents, executive assistants as an underrated human technology, matchbooks returning to New York restaurants, and consumers spending for fun rather than merely utility. ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Read [SIC] Day",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "heading_2",
+          "runs": [
+            {
+              "text": "Food & places",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Tonight’s answer: burritos.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " NYT Cooking’s version is a saucy, savory filling of ground beef, beans, and cheese—no rice, guacamole, sour cream, or raw vegetables—so it freezes well for up to three months. The recipe also invites birria, tinga de pollo, or a bean-and-cheese vegetarian swap. ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Read NYT Cooking",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Thanksgiving, stripped to five ingredients.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " The Times collected 25 low-complexity recipes for turkey, sides, and more. The governing principle: spend less time staging a culinary military operation and more time eating. ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "See the five-ingredient list",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "A playlist for the sides.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " The Amplifier’s nine-song Thanksgiving set includes James Brown’s “(Do the) Mashed Potatoes,” the J.B.’s “Pass the Peas,” Kacey Musgraves’s “Biscuits,” The Cranberries’ “Dreams,” and Destiny’s Child’s “Apple Pie à la Mode.” The correct soundtrack to peeling potatoes is apparently funk. ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Read The Amplifier",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "heading_2",
+          "runs": [
+            {
+              "text": "Internet oddities",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "A Google patent imagines personalized crime capers, romantic comedies, sci-fi adventures, and action films with the viewer as protagonist—and a separate ad server inserting commercials into the generated narrative. ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "The 404 Media report",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "The same 404 Media dispatch flags an AI-assisted experiment in finding a real security vulnerability, dangerous AI-enabled toys pulled from shelves, a suspended 800,000-member DeFlock account, and someone hacking a 2009 iPod Nano. ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "More from 404",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Newcomer reports that AI-search platform Exa is in talks to raise a Series D at around a $7 billion valuation, with Menlo Ventures set to lead—though the newsletter preview stops at the paywall. ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Read the scoop",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "heading_2",
+          "runs": [
+            {
+              "text": "Ideas to steal",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "numbered_list_item",
+          "runs": [
+            {
+              "text": "Give maintenance a budget.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " Westenberg suggests a weekly maintenance block, visible checklists, and a “smallest effective dose” for the things worth keeping alive.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "numbered_list_item",
+          "runs": [
+            {
+              "text": "Use “GOMO.”",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " Feed Me’s Derek Blasberg asks: Is tonight’s event worth how you’ll feel tomorrow? Sometimes the right answer is Gratitude Of Missing Out.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "numbered_list_item",
+          "runs": [
+            {
+              "text": "Develop taste by pulling threads.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " Pick one artist, restaurant, subject, or object you genuinely respond to; follow its influences and descendants. You do not need permission or a degree to decide that you like—or hate—something.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "numbered_list_item",
+          "runs": [
+            {
+              "text": "Build human friction where it helps.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " Broome Street Concierge is a small reminder that an actual person answering the phone can be a feature, not a regression.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "heading_2",
+          "runs": [
+            {
+              "text": "One-liners",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "“Consistently mediocre is better than intermittently great.” — ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Assume Entropy",
+              "url": "",
+              "bold": false,
+              "italic": true
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "“Mind your own biscuits and life will be gravy.” — Kacey Musgraves, via ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "The Amplifier",
+              "url": "",
+              "bold": false,
+              "italic": true
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "“Go out with an open mind.” — Derek Blasberg",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "If you have met someone before, say “Great to see you,” not “Nice to meet you.”",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "The best thing to leave a party? Bad lighting.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        }
+      ],
+      "publishedAt": "2026-11-24T22:13:00Z",
+      "links": [
+        {
+          "title": "iris.market",
+          "url": "http://iris.market/"
+        }
+      ]
     }
   ]
 }
