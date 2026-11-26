@@ -341595,6 +341595,1469 @@
           "url": "http://coolstuff.nyc/"
         }
       ]
+    },
+    {
+      "id": "digest-4248153c-8a3e-8113-a8e9-cdfbf5fd4ebf",
+      "channel": "newsletters",
+      "source": "notion",
+      "kind": "Agent-written digest",
+      "domain": "Daily newsletter digest",
+      "title": "Swift's Vanity Fair storm, AI at the Thanksgiving table, the Iowa lead detonation - Thursday, November 26, 2026",
+      "url": "",
+      "description": "Thursday, November 26, 2026 - Morning Edition",
+      "body": "Thursday, November 26, 2026 - Morning Edition\n\nToday's Numbers\n\n• 100+: people reporter May Jeong interviewed for Vanity Fair's \"The Mastermind,\" a profile of Taylor Swift that never once names her, calling her only \"The Star.\" Swift's camp and fans have waged a scorched-earth campaign against the magazine since it published Monday, and the Committee to Protect Journalists has checked in with Jeong as a precaution. (Status)\n\n• 25: the top speed, in mph, of the Fiat Topolino, a $15,000 electric quadricycle built for beach towns and gated communities. A WIRED writer took it across the Manhattan Bridge anyway. (WIRED)\n\n• 4%: the share of historical carbon emissions the UK is responsible for, despite holding less than 1% of the world's population. Bangladesh and Pakistan, two former colonies, hold more than five times the people between them and account for under 0.5% of emissions. (The Argument)\n\nQuotes of the Day\n\n• \"being Trump's vice president is a little like being a turkey invited to Thanksgiving dinner\" (Counterpoint, on JD Vance in its Thanksgiving edition)\n\n• \"Happy Thanksgiving from your exceptional, talented, witty, genius, magnificent, humble team at Pirate Wires\" (Pirate Wires, Thanksgiving greeting)\n\nAI & The Machines\n\n• Don't bring up AI at the Thanksgiving table. Young people anxious about their futures say they are increasingly frustrated with their pro-AI parents, and they are worried the topic will make holiday gatherings very tense. The generational split over AI has become a dinner table landmine, right up there with politics. (WIRED)\n\n• Meta would not let the UK test Muse. The UK's financial watchdog complained after Meta declined a request for joint testing of its personal agent ahead of the UK rollout on Tuesday. The FCA warned against \"another force of attack\" from agents it cannot inspect. (WIRED)\n\nThe Culture\n\n• The jump-roping toy soldiers took over your FYP. Holiday theme park performers started posting their own AI fan videos as an inside joke. They did not expect it to actually catch on, and now the videos are everywhere. (WIRED)\n\n• Mario Batali, explained. Journalist Adam Robb joins Eddie Huang to break down his Batali piece, then rolls through his other stories as a self-described hunter of bad men, including running into an alleged billionaire human trafficker in a Brickell bathroom and hopping on an ex-warlord's private yacht. (Canal Street Dreams)\n\nScience & Space\n\n• The Iowa lead detonation happened. Early results show minimal signs of lead in the environment, though it will take days for more rigorous testing to confirm anything. The feds left Iowans in the dark about plans to blow up tons of lead in the first place. (WIRED)\n\n• A space probe is heading back to the asteroids NASA shot at. Several years ago, NASA tested systems for deterring dangerous space rocks. Now a probe from the European Space Agency is returning to the scene to investigate what happened. (WIRED)\n\nThe Internet\n\n• The true crime community is inspiring real attacks. Attacks linked to a network of young people obsessed with mass shooters are greatly increasing, research shared with WIRED shows. The nihilistic group uses TikTok and AI to spread its message. (WIRED)\n\nQuick Hits & Curiosities\n\n• CBS News is moving to settle a defamation suit, while buyouts rock its Washington bureau and top leadership heads for the exit. (Status)\n\n• \"Hunger Games\" is set for the Thanksgiving box office crown. (Status)\n\n• Legendary Washington Post reporter Bob Woodward is torching owner Jeff Bezos for kowtowing to Donald Trump. (Status)",
+      "blocks": [
+        {
+          "type": "heading_1",
+          "runs": [
+            {
+              "text": "Thursday, November 26, 2026 - Morning Edition",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Today's Numbers",
+              "url": "",
+              "bold": true,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "100+",
+              "url": "https://www.vanityfair.com/story/the-mastermind",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": ": people reporter May Jeong interviewed for Vanity Fair's \"The Mastermind,\" a profile of Taylor Swift that never once names her, calling her only \"The Star.\" Swift's camp and fans have waged a scorched-earth campaign against the magazine since it published Monday, and the Committee to Protect Journalists has checked in with Jeong as a precaution. (Status)",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "25",
+              "url": "https://www.wired.com/story/fiat-topolino-first-drive/",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": ": the top speed, in mph, of the Fiat Topolino, a $15,000 electric quadricycle built for beach towns and gated communities. A WIRED writer took it across the Manhattan Bridge anyway. (WIRED)",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "4%",
+              "url": "https://www.theargumentmag.com/p/i-was-wrong-about-global-warming",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": ": the share of historical carbon emissions the UK is responsible for, despite holding less than 1% of the world's population. Bangladesh and Pakistan, two former colonies, hold more than five times the people between them and account for under 0.5% of emissions. (The Argument)",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Quotes of the Day",
+              "url": "",
+              "bold": true,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "\"being Trump's vice president is a little like being a turkey invited to Thanksgiving dinner\" (Counterpoint, on JD Vance in its Thanksgiving edition)",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "\"Happy Thanksgiving from your exceptional, talented, witty, genius, magnificent, humble team at Pirate Wires\" (Pirate Wires, Thanksgiving greeting)",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "AI & The Machines",
+              "url": "",
+              "bold": true,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Don't bring up AI at the Thanksgiving table.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " Young people anxious about their futures say they are increasingly frustrated with their pro-AI parents, and they are worried the topic will make holiday gatherings very tense. The generational split over AI has become a dinner table landmine, right up there with politics. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "WIRED",
+              "url": "https://www.wired.com/story/dont-bring-up-ai-if-you-want-to-enjoy-your-thanksgiving/",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Meta would not let the UK test Muse.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " The UK's financial watchdog complained after Meta declined a request for joint testing of its personal agent ahead of the UK rollout on Tuesday. The FCA warned against \"another force of attack\" from agents it cannot inspect. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "WIRED",
+              "url": "https://www.wired.com/story/meta-refused-to-share-muse-for-testing-uk-financial-watchdog-complains/",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "The Culture",
+              "url": "",
+              "bold": true,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "The jump-roping toy soldiers took over your FYP.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " Holiday theme park performers started posting their own AI fan videos as an inside joke. They did not expect it to actually catch on, and now the videos are everywhere. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "WIRED",
+              "url": "https://www.wired.com/story/hot-jump-roping-toy-soldiers-accidentally-made-their-own-psyop/",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Mario Batali, explained.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " Journalist Adam Robb joins Eddie Huang to break down his Batali piece, then rolls through his other stories as a self-described hunter of bad men, including running into an alleged billionaire human trafficker in a Brickell bathroom and hopping on an ex-warlord's private yacht. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Canal Street Dreams",
+              "url": "https://basedfob.substack.com/p/mario-batali-explained-busting-billionaires",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Science & Space",
+              "url": "",
+              "bold": true,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "The Iowa lead detonation happened.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " Early results show minimal signs of lead in the environment, though it will take days for more rigorous testing to confirm anything. The feds left Iowans in the dark about plans to blow up tons of lead in the first place. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "WIRED",
+              "url": "https://www.wired.com/story/iowa-lead-detonation-real-monitoring-work-begins/",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "A space probe is heading back to the asteroids NASA shot at.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " Several years ago, NASA tested systems for deterring dangerous space rocks. Now a probe from the European Space Agency is returning to the scene to investigate what happened. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "WIRED",
+              "url": "https://www.wired.com/story/a-space-probe-returns-to-astroids-where-nasa-tested-planetary-defense-systems/",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "The Internet",
+              "url": "",
+              "bold": true,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "The true crime community is inspiring real attacks.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " Attacks linked to a network of young people obsessed with mass shooters are greatly increasing, research shared with WIRED shows. The nihilistic group uses TikTok and AI to spread its message. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "WIRED",
+              "url": "https://www.wired.com/story/the-true-crime-community-is-inspiring-violent-attacks-through-tiktok/",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Quick Hits & Curiosities",
+              "url": "",
+              "bold": true,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "CBS News is moving to settle a defamation suit, while buyouts rock its Washington bureau and top leadership heads for the exit. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Status",
+              "url": "https://www.status.news/",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "\"Hunger Games\" is set for the Thanksgiving box office crown. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Status",
+              "url": "https://www.status.news/",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Legendary Washington Post reporter Bob Woodward is torching owner Jeff Bezos for kowtowing to Donald Trump. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Status",
+              "url": "https://www.status.news/",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        }
+      ],
+      "publishedAt": "2026-11-26T13:05:00Z",
+      "links": [
+        {
+          "title": "100+",
+          "url": "https://www.vanityfair.com/story/the-mastermind"
+        },
+        {
+          "title": "25",
+          "url": "https://www.wired.com/story/fiat-topolino-first-drive/"
+        },
+        {
+          "title": "4%",
+          "url": "https://www.theargumentmag.com/p/i-was-wrong-about-global-warming"
+        },
+        {
+          "title": "WIRED",
+          "url": "https://www.wired.com/story/dont-bring-up-ai-if-you-want-to-enjoy-your-thanksgiving/"
+        },
+        {
+          "title": "WIRED",
+          "url": "https://www.wired.com/story/meta-refused-to-share-muse-for-testing-uk-financial-watchdog-complains/"
+        },
+        {
+          "title": "WIRED",
+          "url": "https://www.wired.com/story/hot-jump-roping-toy-soldiers-accidentally-made-their-own-psyop/"
+        },
+        {
+          "title": "Canal Street Dreams",
+          "url": "https://basedfob.substack.com/p/mario-batali-explained-busting-billionaires"
+        },
+        {
+          "title": "WIRED",
+          "url": "https://www.wired.com/story/iowa-lead-detonation-real-monitoring-work-begins/"
+        },
+        {
+          "title": "WIRED",
+          "url": "https://www.wired.com/story/a-space-probe-returns-to-astroids-where-nasa-tested-planetary-defense-systems/"
+        },
+        {
+          "title": "WIRED",
+          "url": "https://www.wired.com/story/the-true-crime-community-is-inspiring-violent-attacks-through-tiktok/"
+        },
+        {
+          "title": "Status",
+          "url": "https://www.status.news/"
+        }
+      ],
+      "versions": {
+        "morning": {
+          "body": "Thursday, November 26, 2026 - Morning Edition\n\nToday's Numbers\n\n• 100+: people reporter May Jeong interviewed for Vanity Fair's \"The Mastermind,\" a profile of Taylor Swift that never once names her, calling her only \"The Star.\" Swift's camp and fans have waged a scorched-earth campaign against the magazine since it published Monday, and the Committee to Protect Journalists has checked in with Jeong as a precaution. (Status)\n\n• 25: the top speed, in mph, of the Fiat Topolino, a $15,000 electric quadricycle built for beach towns and gated communities. A WIRED writer took it across the Manhattan Bridge anyway. (WIRED)\n\n• 4%: the share of historical carbon emissions the UK is responsible for, despite holding less than 1% of the world's population. Bangladesh and Pakistan, two former colonies, hold more than five times the people between them and account for under 0.5% of emissions. (The Argument)\n\nQuotes of the Day\n\n• \"being Trump's vice president is a little like being a turkey invited to Thanksgiving dinner\" (Counterpoint, on JD Vance in its Thanksgiving edition)\n\n• \"Happy Thanksgiving from your exceptional, talented, witty, genius, magnificent, humble team at Pirate Wires\" (Pirate Wires, Thanksgiving greeting)\n\nAI & The Machines\n\n• Don't bring up AI at the Thanksgiving table. Young people anxious about their futures say they are increasingly frustrated with their pro-AI parents, and they are worried the topic will make holiday gatherings very tense. The generational split over AI has become a dinner table landmine, right up there with politics. (WIRED)\n\n• Meta would not let the UK test Muse. The UK's financial watchdog complained after Meta declined a request for joint testing of its personal agent ahead of the UK rollout on Tuesday. The FCA warned against \"another force of attack\" from agents it cannot inspect. (WIRED)\n\nThe Culture\n\n• The jump-roping toy soldiers took over your FYP. Holiday theme park performers started posting their own AI fan videos as an inside joke. They did not expect it to actually catch on, and now the videos are everywhere. (WIRED)\n\n• Mario Batali, explained. Journalist Adam Robb joins Eddie Huang to break down his Batali piece, then rolls through his other stories as a self-described hunter of bad men, including running into an alleged billionaire human trafficker in a Brickell bathroom and hopping on an ex-warlord's private yacht. (Canal Street Dreams)\n\nScience & Space\n\n• The Iowa lead detonation happened. Early results show minimal signs of lead in the environment, though it will take days for more rigorous testing to confirm anything. The feds left Iowans in the dark about plans to blow up tons of lead in the first place. (WIRED)\n\n• A space probe is heading back to the asteroids NASA shot at. Several years ago, NASA tested systems for deterring dangerous space rocks. Now a probe from the European Space Agency is returning to the scene to investigate what happened. (WIRED)\n\nThe Internet\n\n• The true crime community is inspiring real attacks. Attacks linked to a network of young people obsessed with mass shooters are greatly increasing, research shared with WIRED shows. The nihilistic group uses TikTok and AI to spread its message. (WIRED)\n\nQuick Hits & Curiosities\n\n• CBS News is moving to settle a defamation suit, while buyouts rock its Washington bureau and top leadership heads for the exit. (Status)\n\n• \"Hunger Games\" is set for the Thanksgiving box office crown. (Status)\n\n• Legendary Washington Post reporter Bob Woodward is torching owner Jeff Bezos for kowtowing to Donald Trump. (Status)",
+          "blocks": [
+            {
+              "type": "heading_1",
+              "runs": [
+                {
+                  "text": "Thursday, November 26, 2026 - Morning Edition",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Today's Numbers",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "100+",
+                  "url": "https://www.vanityfair.com/story/the-mastermind",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": people reporter May Jeong interviewed for Vanity Fair's \"The Mastermind,\" a profile of Taylor Swift that never once names her, calling her only \"The Star.\" Swift's camp and fans have waged a scorched-earth campaign against the magazine since it published Monday, and the Committee to Protect Journalists has checked in with Jeong as a precaution. (Status)",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "25",
+                  "url": "https://www.wired.com/story/fiat-topolino-first-drive/",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": the top speed, in mph, of the Fiat Topolino, a $15,000 electric quadricycle built for beach towns and gated communities. A WIRED writer took it across the Manhattan Bridge anyway. (WIRED)",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "4%",
+                  "url": "https://www.theargumentmag.com/p/i-was-wrong-about-global-warming",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": the share of historical carbon emissions the UK is responsible for, despite holding less than 1% of the world's population. Bangladesh and Pakistan, two former colonies, hold more than five times the people between them and account for under 0.5% of emissions. (The Argument)",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Quotes of the Day",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "\"being Trump's vice president is a little like being a turkey invited to Thanksgiving dinner\" (Counterpoint, on JD Vance in its Thanksgiving edition)",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "\"Happy Thanksgiving from your exceptional, talented, witty, genius, magnificent, humble team at Pirate Wires\" (Pirate Wires, Thanksgiving greeting)",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "AI & The Machines",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Don't bring up AI at the Thanksgiving table.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " Young people anxious about their futures say they are increasingly frustrated with their pro-AI parents, and they are worried the topic will make holiday gatherings very tense. The generational split over AI has become a dinner table landmine, right up there with politics. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "WIRED",
+                  "url": "https://www.wired.com/story/dont-bring-up-ai-if-you-want-to-enjoy-your-thanksgiving/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Meta would not let the UK test Muse.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " The UK's financial watchdog complained after Meta declined a request for joint testing of its personal agent ahead of the UK rollout on Tuesday. The FCA warned against \"another force of attack\" from agents it cannot inspect. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "WIRED",
+                  "url": "https://www.wired.com/story/meta-refused-to-share-muse-for-testing-uk-financial-watchdog-complains/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "The Culture",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "The jump-roping toy soldiers took over your FYP.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " Holiday theme park performers started posting their own AI fan videos as an inside joke. They did not expect it to actually catch on, and now the videos are everywhere. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "WIRED",
+                  "url": "https://www.wired.com/story/hot-jump-roping-toy-soldiers-accidentally-made-their-own-psyop/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Mario Batali, explained.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " Journalist Adam Robb joins Eddie Huang to break down his Batali piece, then rolls through his other stories as a self-described hunter of bad men, including running into an alleged billionaire human trafficker in a Brickell bathroom and hopping on an ex-warlord's private yacht. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Canal Street Dreams",
+                  "url": "https://basedfob.substack.com/p/mario-batali-explained-busting-billionaires",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Science & Space",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "The Iowa lead detonation happened.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " Early results show minimal signs of lead in the environment, though it will take days for more rigorous testing to confirm anything. The feds left Iowans in the dark about plans to blow up tons of lead in the first place. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "WIRED",
+                  "url": "https://www.wired.com/story/iowa-lead-detonation-real-monitoring-work-begins/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "A space probe is heading back to the asteroids NASA shot at.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " Several years ago, NASA tested systems for deterring dangerous space rocks. Now a probe from the European Space Agency is returning to the scene to investigate what happened. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "WIRED",
+                  "url": "https://www.wired.com/story/a-space-probe-returns-to-astroids-where-nasa-tested-planetary-defense-systems/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "The Internet",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "The true crime community is inspiring real attacks.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " Attacks linked to a network of young people obsessed with mass shooters are greatly increasing, research shared with WIRED shows. The nihilistic group uses TikTok and AI to spread its message. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "WIRED",
+                  "url": "https://www.wired.com/story/the-true-crime-community-is-inspiring-violent-attacks-through-tiktok/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Quick Hits & Curiosities",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "CBS News is moving to settle a defamation suit, while buyouts rock its Washington bureau and top leadership heads for the exit. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Status",
+                  "url": "https://www.status.news/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "\"Hunger Games\" is set for the Thanksgiving box office crown. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Status",
+                  "url": "https://www.status.news/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Legendary Washington Post reporter Bob Woodward is torching owner Jeff Bezos for kowtowing to Donald Trump. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Status",
+                  "url": "https://www.status.news/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            }
+          ],
+          "links": [
+            {
+              "title": "100+",
+              "url": "https://www.vanityfair.com/story/the-mastermind"
+            },
+            {
+              "title": "25",
+              "url": "https://www.wired.com/story/fiat-topolino-first-drive/"
+            },
+            {
+              "title": "4%",
+              "url": "https://www.theargumentmag.com/p/i-was-wrong-about-global-warming"
+            },
+            {
+              "title": "WIRED",
+              "url": "https://www.wired.com/story/dont-bring-up-ai-if-you-want-to-enjoy-your-thanksgiving/"
+            },
+            {
+              "title": "WIRED",
+              "url": "https://www.wired.com/story/meta-refused-to-share-muse-for-testing-uk-financial-watchdog-complains/"
+            },
+            {
+              "title": "WIRED",
+              "url": "https://www.wired.com/story/hot-jump-roping-toy-soldiers-accidentally-made-their-own-psyop/"
+            },
+            {
+              "title": "Canal Street Dreams",
+              "url": "https://basedfob.substack.com/p/mario-batali-explained-busting-billionaires"
+            },
+            {
+              "title": "WIRED",
+              "url": "https://www.wired.com/story/iowa-lead-detonation-real-monitoring-work-begins/"
+            },
+            {
+              "title": "WIRED",
+              "url": "https://www.wired.com/story/a-space-probe-returns-to-astroids-where-nasa-tested-planetary-defense-systems/"
+            },
+            {
+              "title": "WIRED",
+              "url": "https://www.wired.com/story/the-true-crime-community-is-inspiring-violent-attacks-through-tiktok/"
+            },
+            {
+              "title": "Status",
+              "url": "https://www.status.news/"
+            }
+          ]
+        },
+        "full": {
+          "body": "Thursday, November 26, 2026 - Morning Edition\n\nToday's Numbers\n\n• 100+: people reporter May Jeong interviewed for Vanity Fair's \"The Mastermind,\" a profile of Taylor Swift that never once names her, calling her only \"The Star.\" Swift's camp and fans have waged a scorched-earth campaign against the magazine since it published Monday, and the Committee to Protect Journalists has checked in with Jeong as a precaution. (Status)\n\n• 25: the top speed, in mph, of the Fiat Topolino, a $15,000 electric quadricycle built for beach towns and gated communities. A WIRED writer took it across the Manhattan Bridge anyway. (WIRED)\n\n• 4%: the share of historical carbon emissions the UK is responsible for, despite holding less than 1% of the world's population. Bangladesh and Pakistan, two former colonies, hold more than five times the people between them and account for under 0.5% of emissions. (The Argument)\n\nQuotes of the Day\n\n• \"being Trump's vice president is a little like being a turkey invited to Thanksgiving dinner\" (Counterpoint, on JD Vance in its Thanksgiving edition)\n\n• \"Happy Thanksgiving from your exceptional, talented, witty, genius, magnificent, humble team at Pirate Wires\" (Pirate Wires, Thanksgiving greeting)\n\nAI & The Machines\n\n• Don't bring up AI at the Thanksgiving table. Young people anxious about their futures say they are increasingly frustrated with their pro-AI parents, and they are worried the topic will make holiday gatherings very tense. The generational split over AI has become a dinner table landmine, right up there with politics. (WIRED)\n\n• Meta would not let the UK test Muse. The UK's financial watchdog complained after Meta declined a request for joint testing of its personal agent ahead of the UK rollout on Tuesday. The FCA warned against \"another force of attack\" from agents it cannot inspect. (WIRED)\n\nThe Culture\n\n• The jump-roping toy soldiers took over your FYP. Holiday theme park performers started posting their own AI fan videos as an inside joke. They did not expect it to actually catch on, and now the videos are everywhere. (WIRED)\n\n• Mario Batali, explained. Journalist Adam Robb joins Eddie Huang to break down his Batali piece, then rolls through his other stories as a self-described hunter of bad men, including running into an alleged billionaire human trafficker in a Brickell bathroom and hopping on an ex-warlord's private yacht. (Canal Street Dreams)\n\nScience & Space\n\n• The Iowa lead detonation happened. Early results show minimal signs of lead in the environment, though it will take days for more rigorous testing to confirm anything. The feds left Iowans in the dark about plans to blow up tons of lead in the first place. (WIRED)\n\n• A space probe is heading back to the asteroids NASA shot at. Several years ago, NASA tested systems for deterring dangerous space rocks. Now a probe from the European Space Agency is returning to the scene to investigate what happened. (WIRED)\n\nThe Internet\n\n• The true crime community is inspiring real attacks. Attacks linked to a network of young people obsessed with mass shooters are greatly increasing, research shared with WIRED shows. The nihilistic group uses TikTok and AI to spread its message. (WIRED)\n\nQuick Hits & Curiosities\n\n• CBS News is moving to settle a defamation suit, while buyouts rock its Washington bureau and top leadership heads for the exit. (Status)\n\n• \"Hunger Games\" is set for the Thanksgiving box office crown. (Status)\n\n• Legendary Washington Post reporter Bob Woodward is torching owner Jeff Bezos for kowtowing to Donald Trump. (Status)",
+          "blocks": [
+            {
+              "type": "heading_1",
+              "runs": [
+                {
+                  "text": "Thursday, November 26, 2026 - Morning Edition",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Today's Numbers",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "100+",
+                  "url": "https://www.vanityfair.com/story/the-mastermind",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": people reporter May Jeong interviewed for Vanity Fair's \"The Mastermind,\" a profile of Taylor Swift that never once names her, calling her only \"The Star.\" Swift's camp and fans have waged a scorched-earth campaign against the magazine since it published Monday, and the Committee to Protect Journalists has checked in with Jeong as a precaution. (Status)",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "25",
+                  "url": "https://www.wired.com/story/fiat-topolino-first-drive/",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": the top speed, in mph, of the Fiat Topolino, a $15,000 electric quadricycle built for beach towns and gated communities. A WIRED writer took it across the Manhattan Bridge anyway. (WIRED)",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "4%",
+                  "url": "https://www.theargumentmag.com/p/i-was-wrong-about-global-warming",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": the share of historical carbon emissions the UK is responsible for, despite holding less than 1% of the world's population. Bangladesh and Pakistan, two former colonies, hold more than five times the people between them and account for under 0.5% of emissions. (The Argument)",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Quotes of the Day",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "\"being Trump's vice president is a little like being a turkey invited to Thanksgiving dinner\" (Counterpoint, on JD Vance in its Thanksgiving edition)",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "\"Happy Thanksgiving from your exceptional, talented, witty, genius, magnificent, humble team at Pirate Wires\" (Pirate Wires, Thanksgiving greeting)",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "AI & The Machines",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Don't bring up AI at the Thanksgiving table.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " Young people anxious about their futures say they are increasingly frustrated with their pro-AI parents, and they are worried the topic will make holiday gatherings very tense. The generational split over AI has become a dinner table landmine, right up there with politics. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "WIRED",
+                  "url": "https://www.wired.com/story/dont-bring-up-ai-if-you-want-to-enjoy-your-thanksgiving/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Meta would not let the UK test Muse.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " The UK's financial watchdog complained after Meta declined a request for joint testing of its personal agent ahead of the UK rollout on Tuesday. The FCA warned against \"another force of attack\" from agents it cannot inspect. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "WIRED",
+                  "url": "https://www.wired.com/story/meta-refused-to-share-muse-for-testing-uk-financial-watchdog-complains/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "The Culture",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "The jump-roping toy soldiers took over your FYP.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " Holiday theme park performers started posting their own AI fan videos as an inside joke. They did not expect it to actually catch on, and now the videos are everywhere. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "WIRED",
+                  "url": "https://www.wired.com/story/hot-jump-roping-toy-soldiers-accidentally-made-their-own-psyop/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Mario Batali, explained.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " Journalist Adam Robb joins Eddie Huang to break down his Batali piece, then rolls through his other stories as a self-described hunter of bad men, including running into an alleged billionaire human trafficker in a Brickell bathroom and hopping on an ex-warlord's private yacht. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Canal Street Dreams",
+                  "url": "https://basedfob.substack.com/p/mario-batali-explained-busting-billionaires",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Science & Space",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "The Iowa lead detonation happened.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " Early results show minimal signs of lead in the environment, though it will take days for more rigorous testing to confirm anything. The feds left Iowans in the dark about plans to blow up tons of lead in the first place. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "WIRED",
+                  "url": "https://www.wired.com/story/iowa-lead-detonation-real-monitoring-work-begins/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "A space probe is heading back to the asteroids NASA shot at.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " Several years ago, NASA tested systems for deterring dangerous space rocks. Now a probe from the European Space Agency is returning to the scene to investigate what happened. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "WIRED",
+                  "url": "https://www.wired.com/story/a-space-probe-returns-to-astroids-where-nasa-tested-planetary-defense-systems/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "The Internet",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "The true crime community is inspiring real attacks.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " Attacks linked to a network of young people obsessed with mass shooters are greatly increasing, research shared with WIRED shows. The nihilistic group uses TikTok and AI to spread its message. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "WIRED",
+                  "url": "https://www.wired.com/story/the-true-crime-community-is-inspiring-violent-attacks-through-tiktok/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Quick Hits & Curiosities",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "CBS News is moving to settle a defamation suit, while buyouts rock its Washington bureau and top leadership heads for the exit. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Status",
+                  "url": "https://www.status.news/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "\"Hunger Games\" is set for the Thanksgiving box office crown. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Status",
+                  "url": "https://www.status.news/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Legendary Washington Post reporter Bob Woodward is torching owner Jeff Bezos for kowtowing to Donald Trump. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Status",
+                  "url": "https://www.status.news/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            }
+          ],
+          "links": [
+            {
+              "title": "100+",
+              "url": "https://www.vanityfair.com/story/the-mastermind"
+            },
+            {
+              "title": "25",
+              "url": "https://www.wired.com/story/fiat-topolino-first-drive/"
+            },
+            {
+              "title": "4%",
+              "url": "https://www.theargumentmag.com/p/i-was-wrong-about-global-warming"
+            },
+            {
+              "title": "WIRED",
+              "url": "https://www.wired.com/story/dont-bring-up-ai-if-you-want-to-enjoy-your-thanksgiving/"
+            },
+            {
+              "title": "WIRED",
+              "url": "https://www.wired.com/story/meta-refused-to-share-muse-for-testing-uk-financial-watchdog-complains/"
+            },
+            {
+              "title": "WIRED",
+              "url": "https://www.wired.com/story/hot-jump-roping-toy-soldiers-accidentally-made-their-own-psyop/"
+            },
+            {
+              "title": "Canal Street Dreams",
+              "url": "https://basedfob.substack.com/p/mario-batali-explained-busting-billionaires"
+            },
+            {
+              "title": "WIRED",
+              "url": "https://www.wired.com/story/iowa-lead-detonation-real-monitoring-work-begins/"
+            },
+            {
+              "title": "WIRED",
+              "url": "https://www.wired.com/story/a-space-probe-returns-to-astroids-where-nasa-tested-planetary-defense-systems/"
+            },
+            {
+              "title": "WIRED",
+              "url": "https://www.wired.com/story/the-true-crime-community-is-inspiring-violent-attacks-through-tiktok/"
+            },
+            {
+              "title": "Status",
+              "url": "https://www.status.news/"
+            }
+          ]
+        }
+      }
     }
   ]
 }
