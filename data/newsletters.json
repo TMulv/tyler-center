@@ -344539,6 +344539,602 @@
           ]
         }
       }
+    },
+    {
+      "id": "digest-9cf8153c-8a3e-830c-b8de-81ce9073c8ef",
+      "channel": "newsletters",
+      "source": "notion",
+      "kind": "Agent-written digest",
+      "domain": "Daily newsletter digest",
+      "title": "The Thanksgiving AI Argument, the GTA Book Club & the $15 City Car",
+      "url": "",
+      "description": "Thanksgiving’s inbox arrived with a very 2026 menu: AI as religion, AI as a family argument, GTA as a shared domestic hobby, and a $15,000 quadricycle invading Manhattan. Beneath the holiday gloss, several writers were asking the same question: what is still worth reading, owning, or doing yourself?",
+      "body": "Thanksgiving’s inbox arrived with a very 2026 menu: AI as religion, AI as a family argument, GTA as a shared domestic hobby, and a $15,000 quadricycle invading Manhattan. Beneath the holiday gloss, several writers were asking the same question: what is still worth reading, owning, or doing yourself?\n\nBest links\n\n• AI has become a belief system. The New Yorker’s profile of MAPLE turns Silicon Valley’s apocalypse-versus-utopia debate into a story about religious revival: artificial gods, prophecy, souls, and the promise that a sufficiently large computer might deliver a messianic age. The New Yorker\n\n• GTA VI is now a relationship format. 404 Media finds couples with one console dividing playtime, comparing choices like a book club, and occasionally giving one partner priority because they need the decompression more. The game is not just entertainment; it is a new domestic scheduling problem. 404 Media\n\n• The personal-computer backlash is getting practical. In its Thanksgiving “Rantsgiving,” 404 Media argues for keeping important files on offline storage rather than trusting the cloud alone—and, for serious AI tinkering, considering local open-source models as companies lock down flagship systems. 404 Media\n\nWorth reading\n\n• The holiday dinner nobody wants to have: WIRED reports on young people who are anxious about their futures and increasingly frustrated with pro-AI parents, making Thanksgiving another front in the technology culture war. WIRED Daily\n\n• A science story with an uncomfortable second act: WIRED says early results after Iowa’s lead detonation showed minimal environmental lead, while warning that more rigorous testing would take days. WIRED Daily\n\n• The business of being deliberately niche: An archival Acquired holiday special explains why the show stopped making generic specials, kept interviews tied to subjects it had deeply researched, and chose to be “the podcast about great companies” rather than chase everyone. Acquired Briefing\n\nFood & places\n\n• Cooking is substitution. NYT Cooking’s Thanksgiving lesson is less a recipe than a life skill: the kitchen’s most important tool is adaptability. Their guide is a confidence-builder for the moment the pantry quietly refuses to cooperate. NYT Cooking\n\n• The city car that sounds like a dare: WIRED’s Fiat Topolino is a $15,000, 25-mph electric quadricycle designed for beach towns and gated communities—then driven across the Manhattan Bridge. WIRED Daily\n\nInternet oddities\n\n• Governments cannot meme GTA. 404 Media collects AI-generated GTA-style government posts from around the world, including a Scottish political scandal. The uncanny valley has acquired a public-sector communications budget. 404 Media\n\n• Toy soldiers went viral by accident. WIRED’s holiday-park performers began making AI fan videos as an inside joke; then the joke escaped onto people’s feeds. WIRED Daily\n\n• Beauty’s product pipeline has entered surrealist territory. FLESH WORLD’s Thanksgiving dispatch is thankful for dry shampoo for pants, an ingestible lip mask, a wrinkle-free Christmas ornament, and a Maybelline tagline that sounds like a chatbot trying to sound certain. The Don’t Buy List\n\nIdeas to steal\n\n• Buy the thing with the right fit, not the right aura. Wardrobe’s Clarke Rudick is tired of the high-fashion merry-go-round: he wanted the exact right overcoat, found a convincing one at COS, and is happy to let the Gap win when it actually does. Wardrobe\n\n• Make “N of 1” work. Acquired’s durable thesis: build the thing that exists nowhere else, instead of producing a commodity version of whatever is hot today. Acquired Briefing\n\n• Keep a private archive. A few disconnected drives under the bed is suddenly less paranoid than it used to sound. 404 Media\n\nOne-liners\n\n• “It’s about the feelings, not the content.” — the therapist’s advice preserved by Acquired. Acquired Briefing\n\n• “Do not relocate your factories.” — the anti-law from The Luxury Strategy that Acquired keeps on its desk. Acquired Briefing\n\n• “A good recommendation is a feminist act.” — a beauty-store endcap, quoted by FLESH WORLD. The Don’t Buy List\n\n• Today’s real headline: the future may be less about artificial general intelligence than about who gets to control the TV, the console, the cloud backup, and the Thanksgiving conversation.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Thanksgiving’s inbox arrived with a very 2026 menu: AI as religion, AI as a family argument, GTA as a shared domestic hobby, and a $15,000 quadricycle invading Manhattan. Beneath the holiday gloss, several writers were asking the same question: what is still worth reading, owning, or doing yourself?",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "heading_2",
+          "runs": [
+            {
+              "text": "Best links",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "AI has become a belief system.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " The New Yorker’s profile of MAPLE turns Silicon Valley’s apocalypse-versus-utopia debate into a story about religious revival: artificial gods, prophecy, souls, and the promise that a sufficiently large computer might deliver a messianic age. ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "The New Yorker",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": " ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "GTA VI is now a relationship format.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " 404 Media finds couples with one console dividing playtime, comparing choices like a book club, and occasionally giving one partner priority because they need the decompression more. The game is not just entertainment; it is a new domestic scheduling problem. ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "404 Media",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": " ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "The personal-computer backlash is getting practical.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " In its Thanksgiving “Rantsgiving,” 404 Media argues for keeping important files on offline storage rather than trusting the cloud alone—and, for serious AI tinkering, considering local open-source models as companies lock down flagship systems. ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "404 Media",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": " ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "heading_2",
+          "runs": [
+            {
+              "text": "Worth reading",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "The holiday dinner nobody wants to have:",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " WIRED reports on young people who are anxious about their futures and increasingly frustrated with pro-AI parents, making Thanksgiving another front in the technology culture war. ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "WIRED Daily",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": " ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "A science story with an uncomfortable second act:",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " WIRED says early results after Iowa’s lead detonation showed minimal environmental lead, while warning that more rigorous testing would take days. ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "WIRED Daily",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": " ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "The business of being deliberately niche:",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " An archival Acquired holiday special explains why the show stopped making generic specials, kept interviews tied to subjects it had deeply researched, and chose to be “the podcast about great companies” rather than chase everyone. ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Acquired Briefing",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": " ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "heading_2",
+          "runs": [
+            {
+              "text": "Food & places",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Cooking is substitution.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " NYT Cooking’s Thanksgiving lesson is less a recipe than a life skill: the kitchen’s most important tool is adaptability. Their guide is a confidence-builder for the moment the pantry quietly refuses to cooperate. ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "NYT Cooking",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": " ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "The city car that sounds like a dare:",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " WIRED’s Fiat Topolino is a $15,000, 25-mph electric quadricycle designed for beach towns and gated communities—then driven across the Manhattan Bridge. ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "WIRED Daily",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": " ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "heading_2",
+          "runs": [
+            {
+              "text": "Internet oddities",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Governments cannot meme GTA.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " 404 Media collects AI-generated GTA-style government posts from around the world, including a Scottish political scandal. The uncanny valley has acquired a public-sector communications budget. ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "404 Media",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": " ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Toy soldiers went viral by accident.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " WIRED’s holiday-park performers began making AI fan videos as an inside joke; then the joke escaped onto people’s feeds. ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "WIRED Daily",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": " ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Beauty’s product pipeline has entered surrealist territory.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " FLESH WORLD’s Thanksgiving dispatch is thankful for dry shampoo for pants, an ingestible lip mask, a wrinkle-free Christmas ornament, and a Maybelline tagline that sounds like a chatbot trying to sound certain. ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "The Don’t Buy List",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": " ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "heading_2",
+          "runs": [
+            {
+              "text": "Ideas to steal",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Buy the thing with the right fit, not the right aura.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " Wardrobe’s Clarke Rudick is tired of the high-fashion merry-go-round: he wanted the exact right overcoat, found a convincing one at COS, and is happy to let the Gap win when it actually does. ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Wardrobe",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": " ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Make “N of 1” work.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " Acquired’s durable thesis: build the thing that exists nowhere else, instead of producing a commodity version of whatever is hot today. ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Acquired Briefing",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": " ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Keep a private archive.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " A few disconnected drives under the bed is suddenly less paranoid than it used to sound. ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "404 Media",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": " ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "heading_2",
+          "runs": [
+            {
+              "text": "One-liners",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "“It’s about the feelings, not the content.” — the therapist’s advice preserved by Acquired. ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Acquired Briefing",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": " ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "“Do not relocate your factories.” — the anti-law from ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "The Luxury Strategy",
+              "url": "",
+              "bold": false,
+              "italic": true
+            },
+            {
+              "text": " that Acquired keeps on its desk. ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Acquired Briefing",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": " ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "“A good recommendation is a feminist act.” — a beauty-store endcap, quoted by FLESH WORLD. ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "The Don’t Buy List",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": " ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Today’s real headline:",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " the future may be less about artificial general intelligence than about who gets to control the TV, the console, the cloud backup, and the Thanksgiving conversation.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        }
+      ],
+      "publishedAt": "2026-11-26T22:10:00Z",
+      "links": []
     }
   ]
 }
