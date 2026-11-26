@@ -340675,6 +340675,487 @@
           ]
         }
       }
+    },
+    {
+      "id": "digest-b568153c-8a3e-83e3-bee6-819c5e35e1ae",
+      "channel": "newsletters",
+      "source": "notion",
+      "kind": "Agent-written digest",
+      "domain": "Daily newsletter digest",
+      "title": "The Turducken, the AI Bubble, and a Lamp Like a Solar Eclipse",
+      "url": "",
+      "description": "The inbox arrives at Thanksgiving Eve with the correct ratio of gravy to chaos: AI markets wobbling, football becoming a five-day holiday, a sex toy playing “Sandstorm,” and enough leftover turkey to keep the republic alive. Here is what survived the promotional fog.",
+      "body": "The inbox arrives at Thanksgiving Eve with the correct ratio of gravy to chaos: AI markets wobbling, football becoming a five-day holiday, a sex toy playing “Sandstorm,” and enough leftover turkey to keep the republic alive. Here is what survived the promotional fog.\n\nFront page\n\nAI is most useful when it stays in its lane\n\nA writer in The Republic of Letters has arrived at a sane truce with AI: keep it away from the parts of life that are meant to express a human voice, but use it shamelessly for the annoying middle layer. The practical examples are excellent—car repairs, sticky doors, lab-result questions, injury-aware exercise plans, food planning, and spreadsheet automation. The governing principle: let the machine make you more capable, then verify its work against the physical world.\n\nThe best anecdote is an ABS-brake repair on a Hyundai Elantra: the AI sounded confident, but described conditions that did not exist. Three hours of improvisation later, the lesson was less “AI is useless” than “AI needs a body of human knowledge underneath it.” That is a useful boundary for the whole technology: outsource friction, not judgment.\n\nThe AI bubble has a private-market afterlife\n\nNewcomer finds a strange split-screen. Public investors are souring on AI while private valuations keep floating upward; inference companies, meanwhile, are being asked to pay as much as 50% up front for compute. The interesting question is not whether the party is over, but how long venture funds can keep pretending the music is still on.\n\nThe same newsletter’s account of Claude’s alleged Riemann-hypothesis breakthrough is a good reminder to distrust the victory lap. Silicon Valley sees a machine god; mathematicians see a tool that may have produced a technically correct proof without a humanly elegant explanation. “Superintelligence” is doing a lot of work in that gap.\n\nIdeas to steal\n\n• Make the gift guide the product. Feed Me reports that SSENSE built a bespoke, animated gift-guide site in about two months, with objects falling across the page like snow. The lesson is not “add animation”; it is to give browsing a point of view and make discovery feel like an event.\n\n• Collect on purpose. Cosmos’ “cabinet of curiosities” essay makes a convincing case for treating saved images, objects, scans, and references as a designed room rather than a junk drawer. A collection is a worldview with the items placed next to each other.\n\n• Call it what it is. Feed Me’s Jack Mankiewicz refuses Netflix’s “Thanksgiving Eve” and names it “Blackout Wednesday”—then approaches the new Wednesday/Friday NFL sprawl as a “turducken” of a schedule. Sometimes a sharp name is half the analysis.\n\nFood & places\n\nThe leftover machine\n\nAlison Roman’s answer to Thanksgiving abundance is a skillet pie: wilted kale or chard, leftover vegetables, gravy, turkey, and puff pastry, baked until the filling bubbles through the crust. Her second move is brighter—a shortcut turkey pozole with tomatillos, hominy, broth, jalapeño, cilantro, and lime. The editorial advice is as good as the recipes: you are probably making too many things, nobody will know if one does not happen, and the turkey is good.\n\nTwo escapes from the city\n\n• Prospect Berkshires is the anchor of coolstuff.nyc’s Western Massachusetts guide: standalone cabins, a Cliff House restaurant, lakeside saunas, tennis, and a spa, roughly 2.5 hours from New York. The full guide is paywalled, but the stay-first planning idea is free and useful.\n\n• Taftoon in Kips Bay is Robert Sietsema’s Iranian “palace of pizza,” inspired by Tehran street food and named for a flatbread. The small detail that sticks: the restaurant identifies itself as Iranian rather than Persian, and the welcome feels especially meaningful in the current political weather.\n\nInternet oddities\n\n• 404 Media reviewed the Groove Thing, a device that turns music into vibration patterns. The headline finding: “Sandstorm” contains far more downtime than you remember when you are waiting for the bass drop inside your body. The same issue flags AI-generated “pink slime” news sites, and reports that Tidal plans to remove wholly AI-generated tracks after detecting that 43% of recent distributed music was AI-generated.\n\n• Garbage Day marked a wild year by recounting an ICE-occupation trip, sold-out live shows, a new COO, an independent podcast, and a forthcoming book called Good Screen, Bad Screen. Then, as a postscript, it linked to a video about jump-roping toy soldiers at SeaWorld Orlando. The internet remains capable of ending on exactly the right note.\n\n• Cosmos’ object of the day: HueGah Home’s Simi table lamp, three pieces of brushed aluminum arranged so a warm bulb bounces off a reflector. It is a $200 miniature solar eclipse for a side table—proof that “industrial” and “cozy” do not have to be enemies.\n\nWorth reading\n\n• Penance, Eliza Clark’s December pick from shit you should care about, is pitched as a book for the Tumblr teenagers who stayed up until 3 a.m. reposting millennial humor and iPhone 6 photography. A strong case for choosing books by emotional weather rather than literary homework.\n\n• The New York Times Morning has the most useful travel line of the day: “Get in line, but don’t rely on the line.” If a flight collapses, work the counter, phone, and airline app at the same time; the screen may rescue you before the queue does.\n\nOne-liners\n\n• Steve Aoki quit his “real job” search after two hours and one cover letter, then declared an “intentional micro-sabbatical.”\n\n• Nantucket is getting a basket museum next summer.\n\n• A dinner-party newsletter says Alison Roman is going on tour to discuss recipes, writing with integrity, brick-and-mortar businesses, and sustaining a creative life “amongst all this racket.”\n\n• The best Thanksgiving rule remains the simplest: send people home with leftovers. You will not miss them.\n\nThat is the evening edition: a little less faith in the machine, a little more faith in leftovers, and a standing invitation to put stranger things next to each other until they become a world.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "The inbox arrives at Thanksgiving Eve with the correct ratio of gravy to chaos: AI markets wobbling, football becoming a five-day holiday, a sex toy playing “Sandstorm,” and enough leftover turkey to keep the republic alive. Here is what survived the promotional fog.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "heading_2",
+          "runs": [
+            {
+              "text": "Front page",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "heading_3",
+          "runs": [
+            {
+              "text": "AI is most useful when it stays in its lane",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "A writer in ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "The Republic of Letters",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " has arrived at a sane truce with AI: keep it away from the parts of life that are meant to express a human voice, but use it shamelessly for the annoying middle layer. The practical examples are excellent—car repairs, sticky doors, lab-result questions, injury-aware exercise plans, food planning, and spreadsheet automation. The governing principle: let the machine make you more capable, then verify its work against the physical world. ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "The best anecdote is an ABS-brake repair on a Hyundai Elantra: the AI sounded confident, but described conditions that did not exist. Three hours of improvisation later, the lesson was less “AI is useless” than “AI needs a body of human knowledge underneath it.” That is a useful boundary for the whole technology: outsource friction, not judgment.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "heading_3",
+          "runs": [
+            {
+              "text": "The AI bubble has a private-market afterlife",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Newcomer",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " finds a strange split-screen. Public investors are souring on AI while private valuations keep floating upward; inference companies, meanwhile, are being asked to pay as much as 50% up front for compute. The interesting question is not whether the party is over, but how long venture funds can keep pretending the music is still on. ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "The same newsletter’s account of Claude’s alleged Riemann-hypothesis breakthrough is a good reminder to distrust the victory lap. Silicon Valley sees a machine god; mathematicians see a tool that may have produced a technically correct proof without a humanly elegant explanation. “Superintelligence” is doing a lot of work in that gap.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "heading_2",
+          "runs": [
+            {
+              "text": "Ideas to steal",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Make the gift guide the product.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " Feed Me reports that SSENSE built a bespoke, animated gift-guide site in about two months, with objects falling across the page like snow. The lesson is not “add animation”; it is to give browsing a point of view and make discovery feel like an event. ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Collect on purpose.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " Cosmos’ “cabinet of curiosities” essay makes a convincing case for treating saved images, objects, scans, and references as a designed room rather than a junk drawer. A collection is a worldview with the items placed next to each other. ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Call it what it is.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " Feed Me’s Jack Mankiewicz refuses Netflix’s “Thanksgiving Eve” and names it “Blackout Wednesday”—then approaches the new Wednesday/Friday NFL sprawl as a “turducken” of a schedule. Sometimes a sharp name is half the analysis. ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "heading_2",
+          "runs": [
+            {
+              "text": "Food & places",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "heading_3",
+          "runs": [
+            {
+              "text": "The leftover machine",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Alison Roman’s answer to Thanksgiving abundance is a skillet pie: wilted kale or chard, leftover vegetables, gravy, turkey, and puff pastry, baked until the filling bubbles through the crust. Her second move is brighter—a shortcut turkey pozole with tomatillos, hominy, broth, jalapeño, cilantro, and lime. The editorial advice is as good as the recipes: you are probably making too many things, nobody will know if one does not happen, and the turkey is good. ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "heading_3",
+          "runs": [
+            {
+              "text": "Two escapes from the city",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Prospect Berkshires",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " is the anchor of ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "coolstuff.nyc",
+              "url": "http://coolstuff.nyc/",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "’s Western Massachusetts guide: standalone cabins, a Cliff House restaurant, lakeside saunas, tennis, and a spa, roughly 2.5 hours from New York. The full guide is paywalled, but the stay-first planning idea is free and useful. ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Taftoon",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " in Kips Bay is Robert Sietsema’s Iranian “palace of pizza,” inspired by Tehran street food and named for a flatbread. The small detail that sticks: the restaurant identifies itself as Iranian rather than Persian, and the welcome feels especially meaningful in the current political weather. ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "heading_2",
+          "runs": [
+            {
+              "text": "Internet oddities",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "404 Media",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " reviewed the Groove Thing, a device that turns music into vibration patterns. The headline finding: “Sandstorm” contains far more downtime than you remember when you are waiting for the bass drop inside your body. The same issue flags AI-generated “pink slime” news sites, and reports that Tidal plans to remove wholly AI-generated tracks after detecting that 43% of recent distributed music was AI-generated. ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Garbage Day",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " marked a wild year by recounting an ICE-occupation trip, sold-out live shows, a new COO, an independent podcast, and a forthcoming book called ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Good Screen, Bad Screen",
+              "url": "",
+              "bold": false,
+              "italic": true
+            },
+            {
+              "text": ". Then, as a postscript, it linked to a video about jump-roping toy soldiers at SeaWorld Orlando. The internet remains capable of ending on exactly the right note. ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Cosmos’ object of the day:",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " HueGah Home’s Simi table lamp, three pieces of brushed aluminum arranged so a warm bulb bounces off a reflector. It is a $200 miniature solar eclipse for a side table—proof that “industrial” and “cozy” do not have to be enemies. ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "heading_2",
+          "runs": [
+            {
+              "text": "Worth reading",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Penance",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": ", Eliza Clark’s December pick from ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "shit you should care about",
+              "url": "",
+              "bold": false,
+              "italic": true
+            },
+            {
+              "text": ", is pitched as a book for the Tumblr teenagers who stayed up until 3 a.m. reposting millennial humor and iPhone 6 photography. A strong case for choosing books by emotional weather rather than literary homework. ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "The ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "New York Times Morning",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " has the most useful travel line of the day: “Get in line, but don’t rely on the line.” If a flight collapses, work the counter, phone, and airline app at the same time; the screen may rescue you before the queue does. ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "heading_2",
+          "runs": [
+            {
+              "text": "One-liners",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Steve Aoki quit his “real job” search after two hours and one cover letter, then declared an “intentional micro-sabbatical.” ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Nantucket is getting a basket museum next summer. ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "A dinner-party newsletter says Alison Roman is going on tour to discuss recipes, writing with integrity, brick-and-mortar businesses, and sustaining a creative life “amongst all this racket.” ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "The best Thanksgiving rule remains the simplest: send people home with leftovers. You will not miss them. ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "That is the evening edition: a little less faith in the machine, a little more faith in leftovers, and a standing invitation to put stranger things next to each other until they become a world.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        }
+      ],
+      "publishedAt": "2026-11-25T22:03:00Z",
+      "links": [
+        {
+          "title": "coolstuff.nyc",
+          "url": "http://coolstuff.nyc/"
+        }
+      ]
     }
   ]
 }
