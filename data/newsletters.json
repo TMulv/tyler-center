@@ -341604,14 +341604,14 @@
       "domain": "Daily newsletter digest",
       "title": "Swift's Vanity Fair storm, AI at the Thanksgiving table, the Iowa lead detonation - Thursday, November 26, 2026",
       "url": "",
-      "description": "Thursday, November 26, 2026 - Afternoon Edition",
-      "body": "Thursday, November 26, 2026 - Afternoon Edition\n\nToday's Numbers\n\n• 16: the years Amanda Gabriele has spent writing about food, drinks, travel and style. She edits InsideHook's IRL newsletter, where today's note is a short Thanksgiving hello before the gift guides take over. (InsideHook)\n\n• $145: the sale price of a Snake River Farms wagyu tomahawk steak, down from $165, leading InsideHook's gift guide for the snack obsessed and the gourmand. (InsideHook)\n\nQuotes of the Day\n\n• \"It could happen at any time, tornado, earthquake, Armageddon. It could happen. Or sunshine, love, salvation.\" (William Stafford, \"Yes,\" reposted by Lydia Laurenson for Thanksgiving)\n\n• \"You don't have to prove anything. Just be ready for what God sends.\" (William Stafford's mother, quoted in his last poem, \"Are You Mr. William Stafford?\")\n\nThanksgiving, Remixed\n\n• Amanda Gabriele remixed her great aunt's chestnut stuffing with venison. The InsideHook senior editor keeps the family recipe but swaps the beef for venison, her version of a tradition made her own. She kept today's note short, since everyone has roasted meats and flavor-rich sides to get back to. (InsideHook)\n\n• Lydia Laurenson is grateful for the little corners of new culture. The Solar Light writer thanked her readers and everyone trying to make or support small pockets of new culture, and asked readers to share the cultural items or trailheads that inspired them this year. Last Thanksgiving she wrote about PTSD recovery; this year she says her life changed a lot, for the better, and she hardly knows how to be grateful enough. (Solar Light)\n\nQuick Hits & Curiosities\n\n• InsideHook rounded up every Black Friday sale worth your time in one digest for the biggest online shopping weekend of the year. (InsideHook)\n\n• Charleston's most stylish restaurateur, the man behind Melfi's and Leon's Oyster Shop, talks Chuck Taylors, Dries Van Noten suits, and collegiate rowing merch. (InsideHook)\n\n• Amanda Gabriele is hunting for a new festive cocktail recipe and asked readers to reply with theirs. (InsideHook)",
+      "description": "Thursday, November 26, 2026 - Evening Edition",
+      "body": "Thursday, November 26, 2026 - Evening Edition\n\nToday's Numbers\n\n• 100,000: YouTube subscribers passed by Status's Power Lines podcast this year, a community that has grown to roughly 150,000. (Status)\n\n• $74.97: the Black Friday price for a first year of Status, half off the usual rate, which works out to $1.44 a week. (Status)\n\nQuotes of the Day\n\n• \"Frankly, I've always believed that if we're not ruffling a few feathers, we're probably not doing our jobs.\" (Oliver Darcy, founder of Status, on independent media) (Status)\n\n• \"Thanksgiving is really just Black Friday now.\" (Paolo Sandoval, editor of The Goods at InsideHook, on the season's sales starting early) (InsideHook)\n\nA Year of Media Scoops\n\n• CBS News got a full overhaul, and Status was all over it. David Ellison empowered Bari Weiss to remake the network, and Status got the audio of Scott Pelley confronting his 60 Minutes bosses after the \"Black Thursday\" firings, plus Lesley Stahl's heated clashes with Weiss, the real reason Anderson Cooper walked away, a scripted October 7 story handed to Holly Williams, and foreign editor Shayndi Raice unloading on staff. (Status)\n\n• JD Vance was unmasked as a secret source for POLITICO. Status revealed the vice president helped inform a story the White House then used to justify evicting the outlet from its grounds. (Status)\n\n• Cable news had a rough year on both sides. Status reported what really led to Maria Bartiromo's ouster from Fox News, and chronicled the anxiety gripping CNN over its new Skydance ownership. (Status)\n\nQuick Hits & Curiosities\n\n• Just in the past month, Status broke news on security concerns from Newsmax staffers sent on a propaganda trip to Ukraine, Fox News' midterm ratings woes, and ABC News suspending two journalists after botched reporting on Donald Trump Jr. (Status)",
       "blocks": [
         {
           "type": "heading_1",
           "runs": [
             {
-              "text": "Thursday, November 26, 2026 - Afternoon Edition",
+              "text": "Thursday, November 26, 2026 - Evening Edition",
               "url": "",
               "bold": false,
               "italic": false
@@ -341633,13 +341633,13 @@
           "type": "bulleted_list_item",
           "runs": [
             {
-              "text": "16",
-              "url": "https://www.insidehook.com/",
+              "text": "100,000",
+              "url": "https://status.news/",
               "bold": true,
               "italic": false
             },
             {
-              "text": ": the years Amanda Gabriele has spent writing about food, drinks, travel and style. She edits InsideHook's IRL newsletter, where today's note is a short Thanksgiving hello before the gift guides take over. (InsideHook)",
+              "text": ": YouTube subscribers passed by Status's Power Lines podcast this year, a community that has grown to roughly 150,000. (Status)",
               "url": "",
               "bold": false,
               "italic": false
@@ -341650,13 +341650,13 @@
           "type": "bulleted_list_item",
           "runs": [
             {
-              "text": "$145",
-              "url": "https://www.insidehook.com/",
+              "text": "$74.97",
+              "url": "https://status.news/",
               "bold": true,
               "italic": false
             },
             {
-              "text": ": the sale price of a Snake River Farms wagyu tomahawk steak, down from $165, leading InsideHook's gift guide for the snack obsessed and the gourmand. (InsideHook)",
+              "text": ": the Black Friday price for a first year of Status, half off the usual rate, which works out to $1.44 a week. (Status)",
               "url": "",
               "bold": false,
               "italic": false
@@ -341678,46 +341678,30 @@
           "type": "bulleted_list_item",
           "runs": [
             {
-              "text": "\"It could happen at any time, tornado, earthquake, Armageddon. It could happen. Or sunshine, love, salvation.\" (William Stafford, \"Yes,\" reposted by Lydia Laurenson for Thanksgiving)",
+              "text": "\"Frankly, I've always believed that if we're not ruffling a few feathers, we're probably not doing our jobs.\" (Oliver Darcy, founder of Status, on independent media) (",
               "url": "",
               "bold": false,
-              "italic": false
-            }
-          ]
-        },
-        {
-          "type": "bulleted_list_item",
-          "runs": [
-            {
-              "text": "\"You don't have to prove anything. Just be ready for what God sends.\" (William Stafford's mother, quoted in his last poem, \"Are You Mr. William Stafford?\")",
-              "url": "",
-              "bold": false,
-              "italic": false
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "runs": [
-            {
-              "text": "Thanksgiving, Remixed",
-              "url": "",
-              "bold": true,
-              "italic": false
-            }
-          ]
-        },
-        {
-          "type": "bulleted_list_item",
-          "runs": [
-            {
-              "text": "Amanda Gabriele remixed her great aunt's chestnut stuffing with venison.",
-              "url": "",
-              "bold": true,
               "italic": false
             },
             {
-              "text": " The InsideHook senior editor keeps the family recipe but swaps the beef for venison, her version of a tradition made her own. She kept today's note short, since everyone has roasted meats and flavor-rich sides to get back to. (",
+              "text": "Status",
+              "url": "https://status.news/",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "\"Thanksgiving is really just Black Friday now.\" (Paolo Sandoval, editor of The Goods at InsideHook, on the season's sales starting early) (",
               "url": "",
               "bold": false,
               "italic": false
@@ -341737,23 +341721,92 @@
           ]
         },
         {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "A Year of Media Scoops",
+              "url": "",
+              "bold": true,
+              "italic": false
+            }
+          ]
+        },
+        {
           "type": "bulleted_list_item",
           "runs": [
             {
-              "text": "Lydia Laurenson is grateful for the little corners of new culture.",
+              "text": "CBS News got a full overhaul, and Status was all over it.",
               "url": "",
               "bold": true,
               "italic": false
             },
             {
-              "text": " The Solar Light writer thanked her readers and everyone trying to make or support small pockets of new culture, and asked readers to share the cultural items or trailheads that inspired them this year. Last Thanksgiving she wrote about PTSD recovery; this year she says her life changed a lot, for the better, and she hardly knows how to be grateful enough. (",
+              "text": " David Ellison empowered Bari Weiss to remake the network, and Status got the audio of Scott Pelley confronting his 60 Minutes bosses after the \"Black Thursday\" firings, plus Lesley Stahl's heated clashes with Weiss, the real reason Anderson Cooper walked away, a scripted October 7 story handed to Holly Williams, and foreign editor Shayndi Raice unloading on staff. (",
               "url": "",
               "bold": false,
               "italic": false
             },
             {
-              "text": "Solar Light",
-              "url": "https://lydialaurenson.substack.com/p/happy-thanksgiving",
+              "text": "Status",
+              "url": "https://status.news/",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "JD Vance was unmasked as a secret source for POLITICO.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " Status revealed the vice president helped inform a story the White House then used to justify evicting the outlet from its grounds. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Status",
+              "url": "https://status.news/",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Cable news had a rough year on both sides.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " Status reported what really led to Maria Bartiromo's ouster from Fox News, and chronicled the anxiety gripping CNN over its new Skydance ownership. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Status",
+              "url": "https://status.news/",
               "bold": false,
               "italic": false
             },
@@ -341780,60 +341833,14 @@
           "type": "bulleted_list_item",
           "runs": [
             {
-              "text": "InsideHook rounded up every Black Friday sale worth your time in one digest for the biggest online shopping weekend of the year. (",
+              "text": "Just in the past month, Status broke news on security concerns from Newsmax staffers sent on a propaganda trip to Ukraine, Fox News' midterm ratings woes, and ABC News suspending two journalists after botched reporting on Donald Trump Jr. (",
               "url": "",
               "bold": false,
               "italic": false
             },
             {
-              "text": "InsideHook",
-              "url": "https://www.insidehook.com/advice/black-friday-deals-cyber-monday",
-              "bold": false,
-              "italic": false
-            },
-            {
-              "text": ")",
-              "url": "",
-              "bold": false,
-              "italic": false
-            }
-          ]
-        },
-        {
-          "type": "bulleted_list_item",
-          "runs": [
-            {
-              "text": "Charleston's most stylish restaurateur, the man behind Melfi's and Leon's Oyster Shop, talks Chuck Taylors, Dries Van Noten suits, and collegiate rowing merch. (",
-              "url": "",
-              "bold": false,
-              "italic": false
-            },
-            {
-              "text": "InsideHook",
-              "url": "https://www.insidehook.com/style-commentary/charlestons-most-stylish-restaurateur",
-              "bold": false,
-              "italic": false
-            },
-            {
-              "text": ")",
-              "url": "",
-              "bold": false,
-              "italic": false
-            }
-          ]
-        },
-        {
-          "type": "bulleted_list_item",
-          "runs": [
-            {
-              "text": "Amanda Gabriele is hunting for a new festive cocktail recipe and asked readers to reply with theirs. (",
-              "url": "",
-              "bold": false,
-              "italic": false
-            },
-            {
-              "text": "InsideHook",
-              "url": "https://www.insidehook.com/",
+              "text": "Status",
+              "url": "https://status.news/",
               "bold": false,
               "italic": false
             },
@@ -341849,20 +341856,12 @@
       "publishedAt": "2026-11-26T13:05:00Z",
       "links": [
         {
+          "title": "Status",
+          "url": "https://status.news/"
+        },
+        {
           "title": "InsideHook",
           "url": "https://www.insidehook.com/"
-        },
-        {
-          "title": "Solar Light",
-          "url": "https://lydialaurenson.substack.com/p/happy-thanksgiving"
-        },
-        {
-          "title": "InsideHook",
-          "url": "https://www.insidehook.com/advice/black-friday-deals-cyber-monday"
-        },
-        {
-          "title": "InsideHook",
-          "url": "https://www.insidehook.com/style-commentary/charlestons-most-stylish-restaurateur"
         }
       ],
       "versions": {
@@ -343209,8 +343208,268 @@
             }
           ]
         },
+        "evening": {
+          "body": "Thursday, November 26, 2026 - Evening Edition\n\nToday's Numbers\n\n• 100,000: YouTube subscribers passed by Status's Power Lines podcast this year, a community that has grown to roughly 150,000. (Status)\n\n• $74.97: the Black Friday price for a first year of Status, half off the usual rate, which works out to $1.44 a week. (Status)\n\nQuotes of the Day\n\n• \"Frankly, I've always believed that if we're not ruffling a few feathers, we're probably not doing our jobs.\" (Oliver Darcy, founder of Status, on independent media) (Status)\n\n• \"Thanksgiving is really just Black Friday now.\" (Paolo Sandoval, editor of The Goods at InsideHook, on the season's sales starting early) (InsideHook)\n\nA Year of Media Scoops\n\n• CBS News got a full overhaul, and Status was all over it. David Ellison empowered Bari Weiss to remake the network, and Status got the audio of Scott Pelley confronting his 60 Minutes bosses after the \"Black Thursday\" firings, plus Lesley Stahl's heated clashes with Weiss, the real reason Anderson Cooper walked away, a scripted October 7 story handed to Holly Williams, and foreign editor Shayndi Raice unloading on staff. (Status)\n\n• JD Vance was unmasked as a secret source for POLITICO. Status revealed the vice president helped inform a story the White House then used to justify evicting the outlet from its grounds. (Status)\n\n• Cable news had a rough year on both sides. Status reported what really led to Maria Bartiromo's ouster from Fox News, and chronicled the anxiety gripping CNN over its new Skydance ownership. (Status)\n\nQuick Hits & Curiosities\n\n• Just in the past month, Status broke news on security concerns from Newsmax staffers sent on a propaganda trip to Ukraine, Fox News' midterm ratings woes, and ABC News suspending two journalists after botched reporting on Donald Trump Jr. (Status)",
+          "blocks": [
+            {
+              "type": "heading_1",
+              "runs": [
+                {
+                  "text": "Thursday, November 26, 2026 - Evening Edition",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Today's Numbers",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "100,000",
+                  "url": "https://status.news/",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": YouTube subscribers passed by Status's Power Lines podcast this year, a community that has grown to roughly 150,000. (Status)",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "$74.97",
+                  "url": "https://status.news/",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": the Black Friday price for a first year of Status, half off the usual rate, which works out to $1.44 a week. (Status)",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Quotes of the Day",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "\"Frankly, I've always believed that if we're not ruffling a few feathers, we're probably not doing our jobs.\" (Oliver Darcy, founder of Status, on independent media) (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Status",
+                  "url": "https://status.news/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "\"Thanksgiving is really just Black Friday now.\" (Paolo Sandoval, editor of The Goods at InsideHook, on the season's sales starting early) (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "InsideHook",
+                  "url": "https://www.insidehook.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "A Year of Media Scoops",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "CBS News got a full overhaul, and Status was all over it.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " David Ellison empowered Bari Weiss to remake the network, and Status got the audio of Scott Pelley confronting his 60 Minutes bosses after the \"Black Thursday\" firings, plus Lesley Stahl's heated clashes with Weiss, the real reason Anderson Cooper walked away, a scripted October 7 story handed to Holly Williams, and foreign editor Shayndi Raice unloading on staff. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Status",
+                  "url": "https://status.news/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "JD Vance was unmasked as a secret source for POLITICO.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " Status revealed the vice president helped inform a story the White House then used to justify evicting the outlet from its grounds. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Status",
+                  "url": "https://status.news/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Cable news had a rough year on both sides.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " Status reported what really led to Maria Bartiromo's ouster from Fox News, and chronicled the anxiety gripping CNN over its new Skydance ownership. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Status",
+                  "url": "https://status.news/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Quick Hits & Curiosities",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Just in the past month, Status broke news on security concerns from Newsmax staffers sent on a propaganda trip to Ukraine, Fox News' midterm ratings woes, and ABC News suspending two journalists after botched reporting on Donald Trump Jr. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Status",
+                  "url": "https://status.news/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            }
+          ],
+          "links": [
+            {
+              "title": "Status",
+              "url": "https://status.news/"
+            },
+            {
+              "title": "InsideHook",
+              "url": "https://www.insidehook.com/"
+            }
+          ]
+        },
         "full": {
-          "body": "Thursday, November 26, 2026 - Morning Edition\n\nToday's Numbers\n\n• 100+: people reporter May Jeong interviewed for Vanity Fair's \"The Mastermind,\" a profile of Taylor Swift that never once names her, calling her only \"The Star.\" Swift's camp and fans have waged a scorched-earth campaign against the magazine since it published Monday, and the Committee to Protect Journalists has checked in with Jeong as a precaution. (Status)\n\n• 25: the top speed, in mph, of the Fiat Topolino, a $15,000 electric quadricycle built for beach towns and gated communities. A WIRED writer took it across the Manhattan Bridge anyway. (WIRED)\n\n• 4%: the share of historical carbon emissions the UK is responsible for, despite holding less than 1% of the world's population. Bangladesh and Pakistan, two former colonies, hold more than five times the people between them and account for under 0.5% of emissions. (The Argument)\n\nQuotes of the Day\n\n• \"being Trump's vice president is a little like being a turkey invited to Thanksgiving dinner\" (Counterpoint, on JD Vance in its Thanksgiving edition)\n\n• \"Happy Thanksgiving from your exceptional, talented, witty, genius, magnificent, humble team at Pirate Wires\" (Pirate Wires, Thanksgiving greeting)\n\nAI & The Machines\n\n• Don't bring up AI at the Thanksgiving table. Young people anxious about their futures say they are increasingly frustrated with their pro-AI parents, and they are worried the topic will make holiday gatherings very tense. The generational split over AI has become a dinner table landmine, right up there with politics. (WIRED)\n\n• Meta would not let the UK test Muse. The UK's financial watchdog complained after Meta declined a request for joint testing of its personal agent ahead of the UK rollout on Tuesday. The FCA warned against \"another force of attack\" from agents it cannot inspect. (WIRED)\n\nThe Culture\n\n• The jump-roping toy soldiers took over your FYP. Holiday theme park performers started posting their own AI fan videos as an inside joke. They did not expect it to actually catch on, and now the videos are everywhere. (WIRED)\n\n• Mario Batali, explained. Journalist Adam Robb joins Eddie Huang to break down his Batali piece, then rolls through his other stories as a self-described hunter of bad men, including running into an alleged billionaire human trafficker in a Brickell bathroom and hopping on an ex-warlord's private yacht. (Canal Street Dreams)\n\nScience & Space\n\n• The Iowa lead detonation happened. Early results show minimal signs of lead in the environment, though it will take days for more rigorous testing to confirm anything. The feds left Iowans in the dark about plans to blow up tons of lead in the first place. (WIRED)\n\n• A space probe is heading back to the asteroids NASA shot at. Several years ago, NASA tested systems for deterring dangerous space rocks. Now a probe from the European Space Agency is returning to the scene to investigate what happened. (WIRED)\n\nThe Internet\n\n• The true crime community is inspiring real attacks. Attacks linked to a network of young people obsessed with mass shooters are greatly increasing, research shared with WIRED shows. The nihilistic group uses TikTok and AI to spread its message. (WIRED)\n\nQuick Hits & Curiosities\n\n• CBS News is moving to settle a defamation suit, while buyouts rock its Washington bureau and top leadership heads for the exit. (Status)\n\n• \"Hunger Games\" is set for the Thanksgiving box office crown. (Status)\n\n• Legendary Washington Post reporter Bob Woodward is torching owner Jeff Bezos for kowtowing to Donald Trump. (Status)\n\nThursday, November 26, 2026 - Midday Edition\n\nToday's Numbers\n\n• 84%: the jump in Goldman Sachs' daily value-at-risk since last December, a measure of how much the bank could lose on a single bad day in the markets. The VIX just hit a post-\"Liberation Day\" high. (Semafor)\n\n• 4.3%: the revised Q3 GDP growth rate, up from 3.4% in the first estimate. It is the strongest pace in three years, powered by consumer spending and business investment. (NLDR Media)\n\n• 63%: how far fresh cranberry sales fell in the Cranberry Crash of 1959, after two shipments tested positive for a poisonous weed killer. Canned sales fell 73%. Even the Eisenhowers swapped cranberry sauce for applesauce. (Semafor)\n\n• $163 billion: convertible bond issuance through September, a record year. Volatility is a key input in pricing them, so this should be boom time for the market. (Semafor)\n\nQuotes of the Day\n\n• \"when you do innovation, the reaction is that people mock you.\" (Benedetto Vigna, Ferrari CEO, on the backlash to the electric Luce)\n\n• \"I'm not interested in being any more of a guru than I already am.\" (Charlie Munger, as recalled by Ben Gilbert on Acquired)\n\n• \"Basically, a lot of us are tired of the high fashion merry-go-round.\" (Clarke Rudick, magazine editor and art director, on luxury hand-me-downs)\n\nMarkets on Edge\n\n• Banks are quietly shopping their AI loans around. Citi and JPMorgan are among the banks marketing portfolios of AI-related loans to offload exposure, or using synthetic risk transfers to shift the risk to investors while keeping the loans on their books. Some of it is routine December balance sheet cleanup, but the scale is new: so much AI debt has been issued that it has crowded out Treasurys, and some investors feel tapped out. The risk is not disappearing, it is moving somewhere harder to see. (Semafor)\n\n• Nvidia's credit rating is now wobbling too. Moody's changed the company's outlook from positive to stable, and S&P flagged worries around the CEO departure and return. A real downgrade would hit far beyond Nvidia's share price, since the company effectively rents out its AA rating to backstop debt, leases, and hardware purchases across the AI ecosystem. AI risk is concentrating in a handful of giants just as rates rise. (Semafor)\n\nWashington\n\n• Jeffries laid out the Democrats' first 100 days. Speaker designate Hakeem Jeffries committed to passing the PRO Act, a constitutional amendment to end Citizens United, the John Lewis Voting Rights Advancement Act, and the Dream and Promise Act, plus clawing back ICE funding and pursuing dramatic Supreme Court reform. He framed it as a cost of living agenda. Critics on both sides pushed back, with the right citing a $41 trillion debt and the left wanting Medicare for All and a Gaza stance. (NLDR Media)\n\n• A judge blocked Trump's second birthright citizenship order. Judge Christopher Cooper granted a classwide preliminary injunction, writing that the Supreme Court has twice confirmed nearly all children born in the US are citizens and the president cannot carve out new exceptions. The order targeted children of foreign government employees without full diplomatic immunity, children born through commercial surrogacy, and children of parents labeled alien enemies. The administration is expected to appeal. (NLDR Media)\n\nSpace\n\n• The FCC cleared SpaceX to put a million AI data centers in orbit. The first approval of its kind authorizes up to 1 million solar-powered Starmind satellites in low Earth orbit, beaming results back via laser links to Starlink. The 15-year license has hard milestones: the first satellite by November 2033, 100,000 by 2035, and the full constellation by 2040. Amazon's satellite unit, Viasat, and the American Astronomical Society all asked the FCC to deny it. (NLDR Media)\n\nThe Luxury Report\n\n• Ferrari's CEO is shrugging off the haters. The backlash to the Luce, Ferrari's first electric car, reminds Benedetto Vigna of the boos Bob Dylan got for going electric in 1965. The Jony Ive-styled models start at $560,800, and purists said they didn't do justice to the car. Vigna says internal tracking shows sentiment has turned positive and the company will hit its sales targets. Ferrari still expects EVs to be 20% of its lineup by 2030. (Semafor)\n\n• Fashion's insiders are tired of the merry-go-round. Magazine editor and art director Clarke Rudick told Wardrobe that working with meticulous designers like Rier's Andreas Steiner made him resent paying luxury prices for shoddy quality. His prized recent find is a £250 COS overcoat, after a $3,000 option proved out of budget and Dries had nothing. Multiple people have already assumed the COS coat is designer. (Wardrobe)\n\nThanksgiving Culture\n\n• GTA VI is the new Thanksgiving negotiation, and couples are treating it like a chore chart. The year's biggest game is a 40-plus hour single-player epic, and households with one console are splitting time, buying second copies, or playing in separate rooms after the kids go to bed. One couple told 404 Media they treat it like a book club, comparing choices over dinner. The View even ran a segment asking if Grand Theft Auto is stealing Thanksgiving's thunder. (404 Media)\n\nQuick Hits & Curiosities\n\n• Governments around the world tried to meme about GTA VI and produced some of the worst AI-generated images ever seen, including one that caused a minor political scandal in Scotland. (404 Media)\n\n• Scientists strapped audio recorders to seabirds and used them to track hidden ships that had switched off their location transponders. (404 Media)\n\n• FIFA was hacked, per Semafor's morning roundup. (Semafor)\n\n• Pirate Wires embraced an anonymous Redditor's description of the site as \"anti-woke venture capitalist tech worship rags,\" calling it the best explanation anyone has ever given them. (Pirate Wires)\n\n• Acquired host Ben Gilbert estimates he has eaten 2,000 to 2,500 Starbucks spinach feta wraps, buying them ten at a time and heating them in his June oven. (Acquired)\n\nThursday, November 26, 2026 - Afternoon Edition\n\nToday's Numbers\n\n• 16: the years Amanda Gabriele has spent writing about food, drinks, travel and style. She edits InsideHook's IRL newsletter, where today's note is a short Thanksgiving hello before the gift guides take over. (InsideHook)\n\n• $145: the sale price of a Snake River Farms wagyu tomahawk steak, down from $165, leading InsideHook's gift guide for the snack obsessed and the gourmand. (InsideHook)\n\nQuotes of the Day\n\n• \"It could happen at any time, tornado, earthquake, Armageddon. It could happen. Or sunshine, love, salvation.\" (William Stafford, \"Yes,\" reposted by Lydia Laurenson for Thanksgiving)\n\n• \"You don't have to prove anything. Just be ready for what God sends.\" (William Stafford's mother, quoted in his last poem, \"Are You Mr. William Stafford?\")\n\nThanksgiving, Remixed\n\n• Amanda Gabriele remixed her great aunt's chestnut stuffing with venison. The InsideHook senior editor keeps the family recipe but swaps the beef for venison, her version of a tradition made her own. She kept today's note short, since everyone has roasted meats and flavor-rich sides to get back to. (InsideHook)\n\n• Lydia Laurenson is grateful for the little corners of new culture. The Solar Light writer thanked her readers and everyone trying to make or support small pockets of new culture, and asked readers to share the cultural items or trailheads that inspired them this year. Last Thanksgiving she wrote about PTSD recovery; this year she says her life changed a lot, for the better, and she hardly knows how to be grateful enough. (Solar Light)\n\nQuick Hits & Curiosities\n\n• InsideHook rounded up every Black Friday sale worth your time in one digest for the biggest online shopping weekend of the year. (InsideHook)\n\n• Charleston's most stylish restaurateur, the man behind Melfi's and Leon's Oyster Shop, talks Chuck Taylors, Dries Van Noten suits, and collegiate rowing merch. (InsideHook)\n\n• Amanda Gabriele is hunting for a new festive cocktail recipe and asked readers to reply with theirs. (InsideHook)",
+          "body": "Thursday, November 26, 2026 - Morning Edition\n\nToday's Numbers\n\n• 100+: people reporter May Jeong interviewed for Vanity Fair's \"The Mastermind,\" a profile of Taylor Swift that never once names her, calling her only \"The Star.\" Swift's camp and fans have waged a scorched-earth campaign against the magazine since it published Monday, and the Committee to Protect Journalists has checked in with Jeong as a precaution. (Status)\n\n• 25: the top speed, in mph, of the Fiat Topolino, a $15,000 electric quadricycle built for beach towns and gated communities. A WIRED writer took it across the Manhattan Bridge anyway. (WIRED)\n\n• 4%: the share of historical carbon emissions the UK is responsible for, despite holding less than 1% of the world's population. Bangladesh and Pakistan, two former colonies, hold more than five times the people between them and account for under 0.5% of emissions. (The Argument)\n\nQuotes of the Day\n\n• \"being Trump's vice president is a little like being a turkey invited to Thanksgiving dinner\" (Counterpoint, on JD Vance in its Thanksgiving edition)\n\n• \"Happy Thanksgiving from your exceptional, talented, witty, genius, magnificent, humble team at Pirate Wires\" (Pirate Wires, Thanksgiving greeting)\n\nAI & The Machines\n\n• Don't bring up AI at the Thanksgiving table. Young people anxious about their futures say they are increasingly frustrated with their pro-AI parents, and they are worried the topic will make holiday gatherings very tense. The generational split over AI has become a dinner table landmine, right up there with politics. (WIRED)\n\n• Meta would not let the UK test Muse. The UK's financial watchdog complained after Meta declined a request for joint testing of its personal agent ahead of the UK rollout on Tuesday. The FCA warned against \"another force of attack\" from agents it cannot inspect. (WIRED)\n\nThe Culture\n\n• The jump-roping toy soldiers took over your FYP. Holiday theme park performers started posting their own AI fan videos as an inside joke. They did not expect it to actually catch on, and now the videos are everywhere. (WIRED)\n\n• Mario Batali, explained. Journalist Adam Robb joins Eddie Huang to break down his Batali piece, then rolls through his other stories as a self-described hunter of bad men, including running into an alleged billionaire human trafficker in a Brickell bathroom and hopping on an ex-warlord's private yacht. (Canal Street Dreams)\n\nScience & Space\n\n• The Iowa lead detonation happened. Early results show minimal signs of lead in the environment, though it will take days for more rigorous testing to confirm anything. The feds left Iowans in the dark about plans to blow up tons of lead in the first place. (WIRED)\n\n• A space probe is heading back to the asteroids NASA shot at. Several years ago, NASA tested systems for deterring dangerous space rocks. Now a probe from the European Space Agency is returning to the scene to investigate what happened. (WIRED)\n\nThe Internet\n\n• The true crime community is inspiring real attacks. Attacks linked to a network of young people obsessed with mass shooters are greatly increasing, research shared with WIRED shows. The nihilistic group uses TikTok and AI to spread its message. (WIRED)\n\nQuick Hits & Curiosities\n\n• CBS News is moving to settle a defamation suit, while buyouts rock its Washington bureau and top leadership heads for the exit. (Status)\n\n• \"Hunger Games\" is set for the Thanksgiving box office crown. (Status)\n\n• Legendary Washington Post reporter Bob Woodward is torching owner Jeff Bezos for kowtowing to Donald Trump. (Status)\n\nThursday, November 26, 2026 - Midday Edition\n\nToday's Numbers\n\n• 84%: the jump in Goldman Sachs' daily value-at-risk since last December, a measure of how much the bank could lose on a single bad day in the markets. The VIX just hit a post-\"Liberation Day\" high. (Semafor)\n\n• 4.3%: the revised Q3 GDP growth rate, up from 3.4% in the first estimate. It is the strongest pace in three years, powered by consumer spending and business investment. (NLDR Media)\n\n• 63%: how far fresh cranberry sales fell in the Cranberry Crash of 1959, after two shipments tested positive for a poisonous weed killer. Canned sales fell 73%. Even the Eisenhowers swapped cranberry sauce for applesauce. (Semafor)\n\n• $163 billion: convertible bond issuance through September, a record year. Volatility is a key input in pricing them, so this should be boom time for the market. (Semafor)\n\nQuotes of the Day\n\n• \"when you do innovation, the reaction is that people mock you.\" (Benedetto Vigna, Ferrari CEO, on the backlash to the electric Luce)\n\n• \"I'm not interested in being any more of a guru than I already am.\" (Charlie Munger, as recalled by Ben Gilbert on Acquired)\n\n• \"Basically, a lot of us are tired of the high fashion merry-go-round.\" (Clarke Rudick, magazine editor and art director, on luxury hand-me-downs)\n\nMarkets on Edge\n\n• Banks are quietly shopping their AI loans around. Citi and JPMorgan are among the banks marketing portfolios of AI-related loans to offload exposure, or using synthetic risk transfers to shift the risk to investors while keeping the loans on their books. Some of it is routine December balance sheet cleanup, but the scale is new: so much AI debt has been issued that it has crowded out Treasurys, and some investors feel tapped out. The risk is not disappearing, it is moving somewhere harder to see. (Semafor)\n\n• Nvidia's credit rating is now wobbling too. Moody's changed the company's outlook from positive to stable, and S&P flagged worries around the CEO departure and return. A real downgrade would hit far beyond Nvidia's share price, since the company effectively rents out its AA rating to backstop debt, leases, and hardware purchases across the AI ecosystem. AI risk is concentrating in a handful of giants just as rates rise. (Semafor)\n\nWashington\n\n• Jeffries laid out the Democrats' first 100 days. Speaker designate Hakeem Jeffries committed to passing the PRO Act, a constitutional amendment to end Citizens United, the John Lewis Voting Rights Advancement Act, and the Dream and Promise Act, plus clawing back ICE funding and pursuing dramatic Supreme Court reform. He framed it as a cost of living agenda. Critics on both sides pushed back, with the right citing a $41 trillion debt and the left wanting Medicare for All and a Gaza stance. (NLDR Media)\n\n• A judge blocked Trump's second birthright citizenship order. Judge Christopher Cooper granted a classwide preliminary injunction, writing that the Supreme Court has twice confirmed nearly all children born in the US are citizens and the president cannot carve out new exceptions. The order targeted children of foreign government employees without full diplomatic immunity, children born through commercial surrogacy, and children of parents labeled alien enemies. The administration is expected to appeal. (NLDR Media)\n\nSpace\n\n• The FCC cleared SpaceX to put a million AI data centers in orbit. The first approval of its kind authorizes up to 1 million solar-powered Starmind satellites in low Earth orbit, beaming results back via laser links to Starlink. The 15-year license has hard milestones: the first satellite by November 2033, 100,000 by 2035, and the full constellation by 2040. Amazon's satellite unit, Viasat, and the American Astronomical Society all asked the FCC to deny it. (NLDR Media)\n\nThe Luxury Report\n\n• Ferrari's CEO is shrugging off the haters. The backlash to the Luce, Ferrari's first electric car, reminds Benedetto Vigna of the boos Bob Dylan got for going electric in 1965. The Jony Ive-styled models start at $560,800, and purists said they didn't do justice to the car. Vigna says internal tracking shows sentiment has turned positive and the company will hit its sales targets. Ferrari still expects EVs to be 20% of its lineup by 2030. (Semafor)\n\n• Fashion's insiders are tired of the merry-go-round. Magazine editor and art director Clarke Rudick told Wardrobe that working with meticulous designers like Rier's Andreas Steiner made him resent paying luxury prices for shoddy quality. His prized recent find is a £250 COS overcoat, after a $3,000 option proved out of budget and Dries had nothing. Multiple people have already assumed the COS coat is designer. (Wardrobe)\n\nThanksgiving Culture\n\n• GTA VI is the new Thanksgiving negotiation, and couples are treating it like a chore chart. The year's biggest game is a 40-plus hour single-player epic, and households with one console are splitting time, buying second copies, or playing in separate rooms after the kids go to bed. One couple told 404 Media they treat it like a book club, comparing choices over dinner. The View even ran a segment asking if Grand Theft Auto is stealing Thanksgiving's thunder. (404 Media)\n\nQuick Hits & Curiosities\n\n• Governments around the world tried to meme about GTA VI and produced some of the worst AI-generated images ever seen, including one that caused a minor political scandal in Scotland. (404 Media)\n\n• Scientists strapped audio recorders to seabirds and used them to track hidden ships that had switched off their location transponders. (404 Media)\n\n• FIFA was hacked, per Semafor's morning roundup. (Semafor)\n\n• Pirate Wires embraced an anonymous Redditor's description of the site as \"anti-woke venture capitalist tech worship rags,\" calling it the best explanation anyone has ever given them. (Pirate Wires)\n\n• Acquired host Ben Gilbert estimates he has eaten 2,000 to 2,500 Starbucks spinach feta wraps, buying them ten at a time and heating them in his June oven. (Acquired)\n\nThursday, November 26, 2026 - Afternoon Edition\n\nToday's Numbers\n\n• 16: the years Amanda Gabriele has spent writing about food, drinks, travel and style. She edits InsideHook's IRL newsletter, where today's note is a short Thanksgiving hello before the gift guides take over. (InsideHook)\n\n• $145: the sale price of a Snake River Farms wagyu tomahawk steak, down from $165, leading InsideHook's gift guide for the snack obsessed and the gourmand. (InsideHook)\n\nQuotes of the Day\n\n• \"It could happen at any time, tornado, earthquake, Armageddon. It could happen. Or sunshine, love, salvation.\" (William Stafford, \"Yes,\" reposted by Lydia Laurenson for Thanksgiving)\n\n• \"You don't have to prove anything. Just be ready for what God sends.\" (William Stafford's mother, quoted in his last poem, \"Are You Mr. William Stafford?\")\n\nThanksgiving, Remixed\n\n• Amanda Gabriele remixed her great aunt's chestnut stuffing with venison. The InsideHook senior editor keeps the family recipe but swaps the beef for venison, her version of a tradition made her own. She kept today's note short, since everyone has roasted meats and flavor-rich sides to get back to. (InsideHook)\n\n• Lydia Laurenson is grateful for the little corners of new culture. The Solar Light writer thanked her readers and everyone trying to make or support small pockets of new culture, and asked readers to share the cultural items or trailheads that inspired them this year. Last Thanksgiving she wrote about PTSD recovery; this year she says her life changed a lot, for the better, and she hardly knows how to be grateful enough. (Solar Light)\n\nQuick Hits & Curiosities\n\n• InsideHook rounded up every Black Friday sale worth your time in one digest for the biggest online shopping weekend of the year. (InsideHook)\n\n• Charleston's most stylish restaurateur, the man behind Melfi's and Leon's Oyster Shop, talks Chuck Taylors, Dries Van Noten suits, and collegiate rowing merch. (InsideHook)\n\n• Amanda Gabriele is hunting for a new festive cocktail recipe and asked readers to reply with theirs. (InsideHook)\n\nThursday, November 26, 2026 - Evening Edition\n\nToday's Numbers\n\n• 100,000: YouTube subscribers passed by Status's Power Lines podcast this year, a community that has grown to roughly 150,000. (Status)\n\n• $74.97: the Black Friday price for a first year of Status, half off the usual rate, which works out to $1.44 a week. (Status)\n\nQuotes of the Day\n\n• \"Frankly, I've always believed that if we're not ruffling a few feathers, we're probably not doing our jobs.\" (Oliver Darcy, founder of Status, on independent media) (Status)\n\n• \"Thanksgiving is really just Black Friday now.\" (Paolo Sandoval, editor of The Goods at InsideHook, on the season's sales starting early) (InsideHook)\n\nA Year of Media Scoops\n\n• CBS News got a full overhaul, and Status was all over it. David Ellison empowered Bari Weiss to remake the network, and Status got the audio of Scott Pelley confronting his 60 Minutes bosses after the \"Black Thursday\" firings, plus Lesley Stahl's heated clashes with Weiss, the real reason Anderson Cooper walked away, a scripted October 7 story handed to Holly Williams, and foreign editor Shayndi Raice unloading on staff. (Status)\n\n• JD Vance was unmasked as a secret source for POLITICO. Status revealed the vice president helped inform a story the White House then used to justify evicting the outlet from its grounds. (Status)\n\n• Cable news had a rough year on both sides. Status reported what really led to Maria Bartiromo's ouster from Fox News, and chronicled the anxiety gripping CNN over its new Skydance ownership. (Status)\n\nQuick Hits & Curiosities\n\n• Just in the past month, Status broke news on security concerns from Newsmax staffers sent on a propaganda trip to Ukraine, Fox News' midterm ratings woes, and ABC News suspending two journalists after botched reporting on Donald Trump Jr. (Status)",
           "blocks": [
             {
               "type": "heading_1",
@@ -344429,6 +344688,251 @@
                   "italic": false
                 }
               ]
+            },
+            {
+              "type": "heading_1",
+              "runs": [
+                {
+                  "text": "Thursday, November 26, 2026 - Evening Edition",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Today's Numbers",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "100,000",
+                  "url": "https://status.news/",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": YouTube subscribers passed by Status's Power Lines podcast this year, a community that has grown to roughly 150,000. (Status)",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "$74.97",
+                  "url": "https://status.news/",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": the Black Friday price for a first year of Status, half off the usual rate, which works out to $1.44 a week. (Status)",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Quotes of the Day",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "\"Frankly, I've always believed that if we're not ruffling a few feathers, we're probably not doing our jobs.\" (Oliver Darcy, founder of Status, on independent media) (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Status",
+                  "url": "https://status.news/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "\"Thanksgiving is really just Black Friday now.\" (Paolo Sandoval, editor of The Goods at InsideHook, on the season's sales starting early) (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "InsideHook",
+                  "url": "https://www.insidehook.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "A Year of Media Scoops",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "CBS News got a full overhaul, and Status was all over it.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " David Ellison empowered Bari Weiss to remake the network, and Status got the audio of Scott Pelley confronting his 60 Minutes bosses after the \"Black Thursday\" firings, plus Lesley Stahl's heated clashes with Weiss, the real reason Anderson Cooper walked away, a scripted October 7 story handed to Holly Williams, and foreign editor Shayndi Raice unloading on staff. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Status",
+                  "url": "https://status.news/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "JD Vance was unmasked as a secret source for POLITICO.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " Status revealed the vice president helped inform a story the White House then used to justify evicting the outlet from its grounds. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Status",
+                  "url": "https://status.news/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Cable news had a rough year on both sides.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " Status reported what really led to Maria Bartiromo's ouster from Fox News, and chronicled the anxiety gripping CNN over its new Skydance ownership. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Status",
+                  "url": "https://status.news/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Quick Hits & Curiosities",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Just in the past month, Status broke news on security concerns from Newsmax staffers sent on a propaganda trip to Ukraine, Fox News' midterm ratings woes, and ABC News suspending two journalists after botched reporting on Donald Trump Jr. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Status",
+                  "url": "https://status.news/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
             }
           ],
           "links": [
@@ -344535,6 +345039,10 @@
             {
               "title": "InsideHook",
               "url": "https://www.insidehook.com/style-commentary/charlestons-most-stylish-restaurateur"
+            },
+            {
+              "title": "Status",
+              "url": "https://status.news/"
             }
           ]
         }
