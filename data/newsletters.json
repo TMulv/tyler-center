@@ -345652,14 +345652,14 @@
       "domain": "Daily newsletter digest",
       "title": "The Bisexual Boom, Light-Powered AI Chips, Britain's New Preppers - Friday, November 27, 2026",
       "url": "",
-      "description": "Friday, November 27, 2026 - Morning Edition",
-      "body": "Friday, November 27, 2026 - Morning Edition\n\nToday's Numbers\n\n• 1 in 4: Americans aged 18 to 27 identified as LGBTQ+ as of 2024, up from 1 in 16 millennials a decade earlier. Bisexuality drove almost all of the increase.\n\n• 86% vs. 65%: the orgasm gap. Lesbian women report orgasming 86% of the time, compared with 65% for heterosexual women, one reason the essay argues same-sex dating can look appealing to young women.\n\n• 83% to 61%: the share of 12th-grade girls who say they want to get married, down from 83% in 1993, while boys' expectations held steady.\n\n• $1 million: in prizes NASA is offering U.S. high school and college students for designs for the base it plans to build near the moon's south pole. Registration closes January 25, 2027.\n\nQuotes of the Day\n\n• \"For many young people, coming into their sexual identities is, in a way, theoretical. That does not mean that they are wrong or confused, but this key part of who they are has not been tested or tried out by engaging with real people.\" (Daniel Cox, polling fellow at the American Enterprise Institute, in his book Generation Uncoupled)\n\n• \"If Gen Z is giving homosexuality a try and likes it, that seems a whole lot better than remaining withdrawn and disconnected.\" (Maibritt Henkel, The Argument)\n\nAI & The Machines\n\nGerman startup Q.ANT is betting that light can do AI's hardest math for a fraction of the energy. Regular GPUs shuffle electrons around, which generates heat and guzzles power, and cooling is one of a data center's biggest costs. Photonic processors use waves of light instead, which generates almost no heat as it travels and lets more data be processed at once. The chips are not meant to replace GPUs, just to sit beside them as coprocessors handling the complex, nonlinear math like image recognition and video generation while GPUs grind through the linear stuff. Simulations point to four to five times less energy, though the company admits it has not proven that on real hardware yet. Q.ANT just rolled its chips out to cloud provider IONOS in a pilot, and more than 30 engineering teams are now building AI models tuned for light. (WIRED)\n\nMoney & Power\n\nBenchmark is on a deal-making run, and defense and bio are next. The storied VC firm is in talks to back Overland and Bindwell in new defense and bio deals, its second defense-tech investment in two months plus a rare bio bet, according to four sources. Benchmark had a rough patch, but the firm looks to be on a roll again. The full story sits behind a paywall, so details are thin for now. (Newcomer)\n\nThe Culture\n\nThe British government is turning everyone into a prepper. Forget guns and underground bunkers. Britain's growing survivalist movement is more worried about backup power, baby formula, and making friends with the neighbors. Preparedness is going mainstream, and the new prepper looks less like a doomsday hoarder and more like a neighbor with a charged battery and a plan. (WIRED)\n\nIn church basements and warehouses, Americans are fighting throwaway culture one fixed toaster at a time. Repair Cafes are cozy, radical little spaces where neighbors help each other fix broken items instead of throwing them away. It is part workshop, part block party, and part quiet protest against a world built to be replaced. (WIRED)\n\nQuick Hits & Curiosities\n\n• This year's super El Nino could worsen global hunger, with some regions getting wetter while others face massive drought, on top of wars and cuts to foreign aid. (WIRED)\n\n• Anthropic created a honeypot to lure AI agents into misbehaving. (WIRED)\n\n• OpenAI says its latest language models successfully designed new proteins. (OpenAI)\n\n• Fusion power is about to start working, says Bob Mumgaard, in The Economist's look at business in 2027. (The Economist)\n\n• The rich world's sexual recession is getting worse, and exhaustion is just one of the culprits. (The Economist)\n\n• GTA VI's Lucia forces gamers to grow up, and the game punishes players with narrative consequences if they refuse. (Vanity Fair)\n\n• Wild turkeys have taken over American cities. (The Atlantic)\n\n• Scientists made monkeys watch Minions to study their brains. (404 Media)\n\n• The NYT tested the drugs sold at gas stations to find out what is actually in them. (The New York Times)\n\n• Porridge, now known as \"nature's Ozempic\" for how full it makes you feel, is hot right now. (The Guardian)\n\n• You can call restaurants again. A human might even answer. (The New York Times)\n\n• Many Irish families believed they descended from selkies. One writer's grandmother was a seal. (Aeon)",
+      "description": "Friday, November 27, 2026 - Midday Edition",
+      "body": "Friday, November 27, 2026 - Midday Edition\n\nToday's Numbers\n\n• 62%: of lost B2B deals end in no decision at all, not a win by a competitor. The real enemy is inertia, not the rival pitch.\n\n• 81%: of AI agents reached the end of checkout at stores offering guest checkout, in an analysis of more than 11,000 agent runs. Forcing an account signup stops the sale.\n\n• 1,722: beds in Colombia's new megaprison in Riohacha, the first major prison infrastructure delivered in the country since 2011.\n\n• 3: prior DUIs on the record of the wrong-way driver who killed Palm Beach County bomb squad Detective Alan Smith on Thanksgiving morning.\n\n• 57: songs on the official GTA VI soundtrack, from Dua Lipa and Bad Bunny to a posthumous D'Angelo single.\n\nQuotes of the Day\n\n• \"Picking a villain is good politics but a terrible technique for solving problems.\" (Jeff Bezos, on Semafor's Compound Interest, on why he will not apologize for his access to President Trump)\n\n• \"The biggest bag of odorous excrement ever assembled in the history of capitalism.\" (John Tuld, the fictional CEO played by Jeremy Irons in Margin Call, ordering his team to dump toxic assets on someone else)\n\nAI & The Machines\n\nAn open source framework is letting AI agents hack companies at machine speed. ARTEX plugs a large language model into a swarm of agents, each focused on a different hacking task, and sets them loose. The FBI warned this month that hackers using ARTEX have hit government, health care, telecom, legal, defense, financial services, and semiconductor targets around the world, with Chinese espionage crews and financially motivated crews both in the mix. The tool is written in Go and works with models from Anthropic, DeepSeek, or anyone else. The scary part is not that AI can hack. It is that it can do the boring, time-consuming parts of hacking automatically, which used to be the bottleneck. (404 Media)\n\nBuild your own AI harness before you need one. Semafor's tech team argues the holiday wish list item you cannot buy is a personal AI harness, a setup that stitches together the best features of tools like Codex, Cowork, and Hermes and keeps updating itself as they improve. The plug-and-play tools from Meta and OpenAI are easy, but they leave you dependent on companies that may not have your interests at heart, and with no control over your own data. A personal harness takes setup time and occasional maintenance. The alternative is waking up one day to find the company holding your digital life has vanished. (Semafor)\n\nMoney & Power\n\nThe University of Michigan approved a $1.25 billion data center for nuclear weapons research, then insisted it is not a data center. The board of regents voted 7 to 1 on November 19 to build the facility in Ypsilanti Township, despite opposition from faculty, staff, and residents. The project, a partnership with Los Alamos National Laboratory, was announced in 2024 as an \"AI research facility\" and is now called a \"research computing center.\" Construction on the 125,000 square foot building starts in late 2027, with room to grow to 300,000 square feet. The university's own mailer works hard to convince people this is not a data center. (404 Media)\n\nThe American Girl doll was a business masterclass before DTC had a name. Pleasant Rowland built a billion dollar toy empire out of a mail-order catalog, selling a $135 luxury doll as the anti-Barbie, roughly six times the price of the plastic competition, and marketing it to parents as much as to girls. Two years after the first catalog went out in September 1986, annual sales topped $17 million. About a decade later, Mattel paid $700 million for the franchise. Sales still beat Barbie today, but the dolls now do roughly $200 million a year, down from a $600 million peak, as kids trade dolls for iPads. (Semafor)\n\nFood & Drink\n\nThe best Mexican food a Texas-raised writer ate all year was in Copenhagen. Graydon Gordian went to Sanchez, a contemporary Mexican restaurant in the Danish capital, reluctantly. He grew up in Austin, spent plenty of time eating in Mexico, and had one week of dinners to spend. The seven-course meal turned out to be the best he had all year, with charming staff and Fania-era salsa on the speakers. The chef, Rosio Sanchez, is a Noma alum who grew up on Chicago's South Side. The meal raises a question about travel itself: are we there for the local culture, or for the best experiences a place offers, even when those two things have nothing to do with each other? (Why is this interesting?)\n\nThe Culture\n\nGTA VI might be the last monoculture event of our lifetimes. On November 19, clips, tips, and Easter eggs flooded every feed before most of the world could even play the game. New Zealand's \"population\" swelled by almost 50 percent on release day as players used the timezone trick to get in early. Pre-sales alone hit 32.5 million, more than the population of Australia, and 145.3 million hours were streamed on Twitch in the first two days. The monoculture peaked with Ellen's Oscars selfie in 2014, when 43.74 million people watched. This year it was 17.86 million. Everyone is talking about the same thing for once, and nobody is sure there will be another moment quite this big. (Dazed)\n\nQuick Hits & Curiosities\n\n• While the Treasury Department dealt with a hack that took down some of its services, its CIO Sam Corcos was pushing updates to Legatum, his vibe-coded Civilization clone, including balance patches and new theme music for the Aztec faction. (404 Media)\n\n• Google wants to make a 24/7 AI TV channel, and you will be the main character. (404 Media)\n\n• To understand the Chinese internet, read The Wall Dancers, which follows a gay dating app founder, a hip-hop pioneer, and a social media censor through cycles of openness and crackdown. (Semafor)\n\n• Evan Ratliff's podcast Shell Game is back for a third season, this time exposing the surprisingly vast world of AI podcast slop. (Semafor)\n\n• Vanity Fair is at the center of two discourse cycles: a strange Timothee Chalamet profile and a takedown of Taylor Swift that alludes to her Mean Girls persona. (InsideHook)\n\n• The Cut published an essay by Grace Brassel about dating Shane Gillis, and a North Brooklyn diary about dating an \"anonymous celebrity\" is so obviously Lucas Hedges. (InsideHook)\n\n• Three new NYC restaurants worth a visit: Swaine's in Williamsburg, Pizzeria The Pantheon Bar, and Ditto, Andy Baraghani's first restaurant off Union Square. (coolstuff.nyc)\n\n• In Elmhurst, four women sell homemade tamales for $2 each from giant aluminum pots under the 7 train, in chicken, pork, chile, cactus, and sweet dessert varieties. (Robert Sietsema's New York)\n\n• Feed Me asked readers for the most memorable gifts they ever gave or got, and the best ones were not for sale: a mother's Rolex, a framed letter from an autistic son, a Miracle on Ice poster signed by Jim Craig and Mike Eruzione. (Feed Me)\n\n• An 18-year-old was killed and six others shot at a teen Airbnb party in Polk County, Florida, promoted on social media as a pajama party for a teenage girl's birthday. (NLDR Media)\n\n• Mohammed bin Salman is planning to travel to Miami in December for the G20 Leaders' Summit, his first trip to the US since the outbreak of the Iran war. (Semafor)\n\n• Super Pumped was a cautionary tale about worshipping tech founders. Now Travis Kalanick is seen as one of the few founders of his era to build a big successful public company. (Semafor)",
       "blocks": [
         {
           "type": "heading_1",
           "runs": [
             {
-              "text": "Friday, November 27, 2026 - Morning Edition",
+              "text": "Friday, November 27, 2026 - Midday Edition",
               "url": "",
               "bold": false,
               "italic": false
@@ -345681,13 +345681,13 @@
           "type": "bulleted_list_item",
           "runs": [
             {
-              "text": "1 in 4",
-              "url": "https://www.theargumentmag.com/p/who-cares-if-bisexuality-is-a-choice",
+              "text": "62%",
+              "url": "https://www.founderfridays.co/",
               "bold": true,
               "italic": false
             },
             {
-              "text": ": Americans aged 18 to 27 identified as LGBTQ+ as of 2024, up from 1 in 16 millennials a decade earlier. Bisexuality drove almost all of the increase.",
+              "text": ": of lost B2B deals end in no decision at all, not a win by a competitor. The real enemy is inertia, not the rival pitch.",
               "url": "",
               "bold": false,
               "italic": false
@@ -345698,13 +345698,13 @@
           "type": "bulleted_list_item",
           "runs": [
             {
-              "text": "86% vs. 65%",
-              "url": "https://www.theargumentmag.com/p/who-cares-if-bisexuality-is-a-choice",
+              "text": "81%",
+              "url": "https://www.founderfridays.co/",
               "bold": true,
               "italic": false
             },
             {
-              "text": ": the orgasm gap. Lesbian women report orgasming 86% of the time, compared with 65% for heterosexual women, one reason the essay argues same-sex dating can look appealing to young women.",
+              "text": ": of AI agents reached the end of checkout at stores offering guest checkout, in an analysis of more than 11,000 agent runs. Forcing an account signup stops the sale.",
               "url": "",
               "bold": false,
               "italic": false
@@ -345715,13 +345715,13 @@
           "type": "bulleted_list_item",
           "runs": [
             {
-              "text": "83% to 61%",
-              "url": "https://www.theargumentmag.com/p/who-cares-if-bisexuality-is-a-choice",
+              "text": "1,722",
+              "url": "https://thejefferymead.substack.com/p/morning-briefing-november-27-2026",
               "bold": true,
               "italic": false
             },
             {
-              "text": ": the share of 12th-grade girls who say they want to get married, down from 83% in 1993, while boys' expectations held steady.",
+              "text": ": beds in Colombia's new megaprison in Riohacha, the first major prison infrastructure delivered in the country since 2011.",
               "url": "",
               "bold": false,
               "italic": false
@@ -345732,13 +345732,30 @@
           "type": "bulleted_list_item",
           "runs": [
             {
-              "text": "$1 million",
-              "url": "https://www.nasa.gov/news-release/nasa-announces-1-million-to-students-for-moon-base-challenge/",
+              "text": "3",
+              "url": "https://thejefferymead.substack.com/p/morning-briefing-november-27-2026",
               "bold": true,
               "italic": false
             },
             {
-              "text": ": in prizes NASA is offering U.S. high school and college students for designs for the base it plans to build near the moon's south pole. Registration closes January 25, 2027.",
+              "text": ": prior DUIs on the record of the wrong-way driver who killed Palm Beach County bomb squad Detective Alan Smith on Thanksgiving morning.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "57",
+              "url": "https://www.insidehook.com/",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": ": songs on the official GTA VI soundtrack, from Dua Lipa and Bad Bunny to a posthumous D'Angelo single.",
               "url": "",
               "bold": false,
               "italic": false
@@ -345760,7 +345777,7 @@
           "type": "bulleted_list_item",
           "runs": [
             {
-              "text": "\"For many young people, coming into their sexual identities is, in a way, theoretical. That does not mean that they are wrong or confused, but this key part of who they are has not been tested or tried out by engaging with real people.\" (Daniel Cox, polling fellow at the American Enterprise Institute, in his book Generation Uncoupled)",
+              "text": "\"Picking a villain is good politics but a terrible technique for solving problems.\" (Jeff Bezos, on Semafor's Compound Interest, on why he will not apologize for his access to President Trump)",
               "url": "",
               "bold": false,
               "italic": false
@@ -345771,7 +345788,7 @@
           "type": "bulleted_list_item",
           "runs": [
             {
-              "text": "\"If Gen Z is giving homosexuality a try and likes it, that seems a whole lot better than remaining withdrawn and disconnected.\" (Maibritt Henkel, The Argument)",
+              "text": "\"The biggest bag of odorous excrement ever assembled in the history of capitalism.\" (John Tuld, the fictional CEO played by Jeremy Irons in Margin Call, ordering his team to dump toxic assets on someone else)",
               "url": "",
               "bold": false,
               "italic": false
@@ -345793,20 +345810,49 @@
           "type": "paragraph",
           "runs": [
             {
-              "text": "German startup Q.ANT is betting that light can do AI's hardest math for a fraction of the energy.",
+              "text": "An open source framework is letting AI agents hack companies at machine speed.",
               "url": "",
               "bold": true,
               "italic": false
             },
             {
-              "text": " Regular GPUs shuffle electrons around, which generates heat and guzzles power, and cooling is one of a data center's biggest costs. Photonic processors use waves of light instead, which generates almost no heat as it travels and lets more data be processed at once. The chips are not meant to replace GPUs, just to sit beside them as coprocessors handling the complex, nonlinear math like image recognition and video generation while GPUs grind through the linear stuff. Simulations point to four to five times less energy, though the company admits it has not proven that on real hardware yet. Q.ANT just rolled its chips out to cloud provider IONOS in a pilot, and more than 30 engineering teams are now building AI models tuned for light. (",
+              "text": " ARTEX plugs a large language model into a swarm of agents, each focused on a different hacking task, and sets them loose. The FBI warned this month that hackers using ARTEX have hit government, health care, telecom, legal, defense, financial services, and semiconductor targets around the world, with Chinese espionage crews and financially motivated crews both in the mix. The tool is written in Go and works with models from Anthropic, DeepSeek, or anyone else. The scary part is not that AI can hack. It is that it can do the boring, time-consuming parts of hacking automatically, which used to be the bottleneck. (",
               "url": "",
               "bold": false,
               "italic": false
             },
             {
-              "text": "WIRED",
-              "url": "https://www.wired.com/story/a-new-breed-of-chip-runs-ai-models-using-waves-of-light/",
+              "text": "404 Media",
+              "url": "https://www.404media.co/r/3784da8d",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Build your own AI harness before you need one.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " Semafor's tech team argues the holiday wish list item you cannot buy is a personal AI harness, a setup that stitches together the best features of tools like Codex, Cowork, and Hermes and keeps updating itself as they improve. The plug-and-play tools from Meta and OpenAI are easy, but they leave you dependent on companies that may not have your interests at heart, and with no control over your own data. A personal harness takes setup time and occasional maintenance. The alternative is waking up one day to find the company holding your digital life has vanished. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Semafor",
+              "url": "https://www.semafor.com/",
               "bold": false,
               "italic": false
             },
@@ -345833,20 +345879,89 @@
           "type": "paragraph",
           "runs": [
             {
-              "text": "Benchmark is on a deal-making run, and defense and bio are next.",
+              "text": "The University of Michigan approved a $1.25 billion data center for nuclear weapons research, then insisted it is not a data center.",
               "url": "",
               "bold": true,
               "italic": false
             },
             {
-              "text": " The storied VC firm is in talks to back Overland and Bindwell in new defense and bio deals, its second defense-tech investment in two months plus a rare bio bet, according to four sources. Benchmark had a rough patch, but the firm looks to be on a roll again. The full story sits behind a paywall, so details are thin for now. (",
+              "text": " The board of regents voted 7 to 1 on November 19 to build the facility in Ypsilanti Township, despite opposition from faculty, staff, and residents. The project, a partnership with Los Alamos National Laboratory, was announced in 2024 as an \"AI research facility\" and is now called a \"research computing center.\" Construction on the 125,000 square foot building starts in late 2027, with room to grow to 300,000 square feet. The university's own mailer works hard to convince people this is not a data center. (",
               "url": "",
               "bold": false,
               "italic": false
             },
             {
-              "text": "Newcomer",
-              "url": "https://www.newcomer.co/p/scoop-benchmark-to-back-overland",
+              "text": "404 Media",
+              "url": "https://www.404media.co/r/e81d0d7d",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "The American Girl doll was a business masterclass before DTC had a name.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " Pleasant Rowland built a billion dollar toy empire out of a mail-order catalog, selling a $135 luxury doll as the anti-Barbie, roughly six times the price of the plastic competition, and marketing it to parents as much as to girls. Two years after the first catalog went out in September 1986, annual sales topped $17 million. About a decade later, Mattel paid $700 million for the franchise. Sales still beat Barbie today, but the dolls now do roughly $200 million a year, down from a $600 million peak, as kids trade dolls for iPads. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Semafor",
+              "url": "https://semafor.com/s/hvxbnbhzcl",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Food & Drink",
+              "url": "",
+              "bold": true,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "The best Mexican food a Texas-raised writer ate all year was in Copenhagen.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " Graydon Gordian went to Sanchez, a contemporary Mexican restaurant in the Danish capital, reluctantly. He grew up in Austin, spent plenty of time eating in Mexico, and had one week of dinners to spend. The seven-course meal turned out to be the best he had all year, with charming staff and Fania-era salsa on the speakers. The chef, Rosio Sanchez, is a Noma alum who grew up on Chicago's South Side. The meal raises a question about travel itself: are we there for the local culture, or for the best experiences a place offers, even when those two things have nothing to do with each other? (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Why is this interesting?",
+              "url": "https://whyisthisinteresting.substack.com/p/the-sanchez-edition",
               "bold": false,
               "italic": false
             },
@@ -345873,49 +345988,20 @@
           "type": "paragraph",
           "runs": [
             {
-              "text": "The British government is turning everyone into a prepper.",
+              "text": "GTA VI might be the last monoculture event of our lifetimes.",
               "url": "",
               "bold": true,
               "italic": false
             },
             {
-              "text": " Forget guns and underground bunkers. Britain's growing survivalist movement is more worried about backup power, baby formula, and making friends with the neighbors. Preparedness is going mainstream, and the new prepper looks less like a doomsday hoarder and more like a neighbor with a charged battery and a plan. (",
+              "text": " On November 19, clips, tips, and Easter eggs flooded every feed before most of the world could even play the game. New Zealand's \"population\" swelled by almost 50 percent on release day as players used the timezone trick to get in early. Pre-sales alone hit 32.5 million, more than the population of Australia, and 145.3 million hours were streamed on Twitch in the first two days. The monoculture peaked with Ellen's Oscars selfie in 2014, when 43.74 million people watched. This year it was 17.86 million. Everyone is talking about the same thing for once, and nobody is sure there will be another moment quite this big. (",
               "url": "",
               "bold": false,
               "italic": false
             },
             {
-              "text": "WIRED",
-              "url": "https://www.wired.com/story/the-british-government-is-turning-everyone-into-a-prepper/",
-              "bold": false,
-              "italic": false
-            },
-            {
-              "text": ")",
-              "url": "",
-              "bold": false,
-              "italic": false
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "runs": [
-            {
-              "text": "In church basements and warehouses, Americans are fighting throwaway culture one fixed toaster at a time.",
-              "url": "",
-              "bold": true,
-              "italic": false
-            },
-            {
-              "text": " Repair Cafes are cozy, radical little spaces where neighbors help each other fix broken items instead of throwing them away. It is part workshop, part block party, and part quiet protest against a world built to be replaced. (",
-              "url": "",
-              "bold": false,
-              "italic": false
-            },
-            {
-              "text": "WIRED",
-              "url": "https://www.wired.com/story/welcome-to-the-repair-cafe-where-neighbors-fight-throw-away-culture/",
+              "text": "Dazed",
+              "url": "https://www.dazeddigital.com/life-culture/article/71404/1/gta-vi-might-be-a-last-gasp-for-monoculture-but-should-we-be-celebrating",
               "bold": false,
               "italic": false
             },
@@ -345942,175 +346028,14 @@
           "type": "bulleted_list_item",
           "runs": [
             {
-              "text": "This year's super El Nino could worsen global hunger, with some regions getting wetter while others face massive drought, on top of wars and cuts to foreign aid. (",
-              "url": "",
-              "bold": false,
-              "italic": false
-            },
-            {
-              "text": "WIRED",
-              "url": "https://www.wired.com/story/how-this-years-super-el-nino-will-worsen-global-hunger/",
-              "bold": false,
-              "italic": false
-            },
-            {
-              "text": ")",
-              "url": "",
-              "bold": false,
-              "italic": false
-            }
-          ]
-        },
-        {
-          "type": "bulleted_list_item",
-          "runs": [
-            {
-              "text": "Anthropic created a honeypot to lure AI agents into misbehaving. (",
-              "url": "",
-              "bold": false,
-              "italic": false
-            },
-            {
-              "text": "WIRED",
-              "url": "https://www.wired.com/story/ai-agents-can-get-honeypotted-too-aw/",
-              "bold": false,
-              "italic": false
-            },
-            {
-              "text": ")",
-              "url": "",
-              "bold": false,
-              "italic": false
-            }
-          ]
-        },
-        {
-          "type": "bulleted_list_item",
-          "runs": [
-            {
-              "text": "OpenAI says its latest language models successfully designed new proteins. (",
-              "url": "",
-              "bold": false,
-              "italic": false
-            },
-            {
-              "text": "OpenAI",
-              "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/",
-              "bold": false,
-              "italic": false
-            },
-            {
-              "text": ")",
-              "url": "",
-              "bold": false,
-              "italic": false
-            }
-          ]
-        },
-        {
-          "type": "bulleted_list_item",
-          "runs": [
-            {
-              "text": "Fusion power is about to start working, says Bob Mumgaard, in The Economist's look at business in 2027. (",
-              "url": "",
-              "bold": false,
-              "italic": false
-            },
-            {
-              "text": "The Economist",
-              "url": "https://www.economist.com/the-world-ahead/2026/11/18/fusion-power-is-about-to-start-working-says-bob-mumgaard",
-              "bold": false,
-              "italic": false
-            },
-            {
-              "text": ")",
-              "url": "",
-              "bold": false,
-              "italic": false
-            }
-          ]
-        },
-        {
-          "type": "bulleted_list_item",
-          "runs": [
-            {
-              "text": "The rich world's sexual recession is getting worse, and exhaustion is just one of the culprits. (",
-              "url": "",
-              "bold": false,
-              "italic": false
-            },
-            {
-              "text": "The Economist",
-              "url": "https://www.economist.com/international/2026/11/25/the-rich-worlds-sexual-recession-is-getting-worse",
-              "bold": false,
-              "italic": false
-            },
-            {
-              "text": ")",
-              "url": "",
-              "bold": false,
-              "italic": false
-            }
-          ]
-        },
-        {
-          "type": "bulleted_list_item",
-          "runs": [
-            {
-              "text": "GTA VI's Lucia forces gamers to grow up, and the game punishes players with narrative consequences if they refuse. (",
-              "url": "",
-              "bold": false,
-              "italic": false
-            },
-            {
-              "text": "Vanity Fair",
-              "url": "https://www.vanityfair.com/story/grand-theft-auto-lucia",
-              "bold": false,
-              "italic": false
-            },
-            {
-              "text": ")",
-              "url": "",
-              "bold": false,
-              "italic": false
-            }
-          ]
-        },
-        {
-          "type": "bulleted_list_item",
-          "runs": [
-            {
-              "text": "Wild turkeys have taken over American cities. (",
-              "url": "",
-              "bold": false,
-              "italic": false
-            },
-            {
-              "text": "The Atlantic",
-              "url": "https://www.theatlantic.com/science/2026/11/wild-turkeys-cities-suburbs-mayhem/689475/",
-              "bold": false,
-              "italic": false
-            },
-            {
-              "text": ")",
-              "url": "",
-              "bold": false,
-              "italic": false
-            }
-          ]
-        },
-        {
-          "type": "bulleted_list_item",
-          "runs": [
-            {
-              "text": "Scientists made monkeys watch Minions to study their brains. (",
+              "text": "While the Treasury Department dealt with a hack that took down some of its services, its CIO Sam Corcos was pushing updates to Legatum, his vibe-coded Civilization clone, including balance patches and new theme music for the Aztec faction. (",
               "url": "",
               "bold": false,
               "italic": false
             },
             {
               "text": "404 Media",
-              "url": "https://www.404media.co/scientists-made-monkeys-watch-minions-to-study-their-brains/",
+              "url": "https://www.404media.co/r/8bd0bd87",
               "bold": false,
               "italic": false
             },
@@ -346126,37 +346051,14 @@
           "type": "bulleted_list_item",
           "runs": [
             {
-              "text": "The NYT tested the drugs sold at gas stations to find out what is actually in them. (",
+              "text": "Google wants to make a 24/7 AI TV channel, and you will be the main character. (",
               "url": "",
               "bold": false,
               "italic": false
             },
             {
-              "text": "The New York Times",
-              "url": "https://www.nytimes.com/interactive/2026/11/23/well/gas-station-drugs-vape-weed-kratom-hallucinogens.html",
-              "bold": false,
-              "italic": false
-            },
-            {
-              "text": ")",
-              "url": "",
-              "bold": false,
-              "italic": false
-            }
-          ]
-        },
-        {
-          "type": "bulleted_list_item",
-          "runs": [
-            {
-              "text": "Porridge, now known as \"nature's Ozempic\" for how full it makes you feel, is hot right now. (",
-              "url": "",
-              "bold": false,
-              "italic": false
-            },
-            {
-              "text": "The Guardian",
-              "url": "https://www.theguardian.com/business/2026/nov/25/natures-ozempic-oat-sales-soar-shoppers-seek-out-foods-mimic-effect-glp-1s",
+              "text": "404 Media",
+              "url": "https://www.404media.co/r/66f41a10",
               "bold": false,
               "italic": false
             },
@@ -346172,14 +346074,14 @@
           "type": "bulleted_list_item",
           "runs": [
             {
-              "text": "You can call restaurants again. A human might even answer. (",
+              "text": "To understand the Chinese internet, read The Wall Dancers, which follows a gay dating app founder, a hip-hop pioneer, and a social media censor through cycles of openness and crackdown. (",
               "url": "",
               "bold": false,
               "italic": false
             },
             {
-              "text": "The New York Times",
-              "url": "https://www.nytimes.com/2026/11/24/dining/restaurant-reservations-phone-calls.html",
+              "text": "Semafor",
+              "url": "https://semafor.com/s/cgli6pzpw1",
               "bold": false,
               "italic": false
             },
@@ -346195,14 +346097,198 @@
           "type": "bulleted_list_item",
           "runs": [
             {
-              "text": "Many Irish families believed they descended from selkies. One writer's grandmother was a seal. (",
+              "text": "Evan Ratliff's podcast Shell Game is back for a third season, this time exposing the surprisingly vast world of AI podcast slop. (",
               "url": "",
               "bold": false,
               "italic": false
             },
             {
-              "text": "Aeon",
-              "url": "https://aeon.co/essays/do-you-have-a-selkie-or-a-seal-in-the-family",
+              "text": "Semafor",
+              "url": "https://www.semafor.com/",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Vanity Fair is at the center of two discourse cycles: a strange Timothee Chalamet profile and a takedown of Taylor Swift that alludes to her Mean Girls persona. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "InsideHook",
+              "url": "https://www.insidehook.com/",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "The Cut published an essay by Grace Brassel about dating Shane Gillis, and a North Brooklyn diary about dating an \"anonymous celebrity\" is so obviously Lucas Hedges. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "InsideHook",
+              "url": "https://www.insidehook.com/",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Three new NYC restaurants worth a visit: Swaine's in Williamsburg, Pizzeria The Pantheon Bar, and Ditto, Andy Baraghani's first restaurant off Union Square. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "coolstuff.nyc",
+              "url": "https://coolstuffnyc.substack.com/p/our-group-chats-most-forwarded-finds",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "In Elmhurst, four women sell homemade tamales for $2 each from giant aluminum pots under the 7 train, in chicken, pork, chile, cactus, and sweet dessert varieties. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Robert Sietsema's New York",
+              "url": "https://robertsietsema.substack.com/p/the-spice-bag-sandwich-a-restaurant",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Feed Me asked readers for the most memorable gifts they ever gave or got, and the best ones were not for sale: a mother's Rolex, a framed letter from an autistic son, a Miracle on Ice poster signed by Jim Craig and Mike Eruzione. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Feed Me",
+              "url": "https://www.readfeedme.com/",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "An 18-year-old was killed and six others shot at a teen Airbnb party in Polk County, Florida, promoted on social media as a pajama party for a teenage girl's birthday. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "NLDR Media",
+              "url": "https://thejefferymead.substack.com/p/morning-briefing-november-27-2026",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Mohammed bin Salman is planning to travel to Miami in December for the G20 Leaders' Summit, his first trip to the US since the outbreak of the Iran war. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Semafor",
+              "url": "https://www.semafor.com/",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Super Pumped was a cautionary tale about worshipping tech founders. Now Travis Kalanick is seen as one of the few founders of his era to build a big successful public company. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Semafor",
+              "url": "https://www.semafor.com/",
               "bold": false,
               "italic": false
             },
@@ -346218,76 +346304,64 @@
       "publishedAt": "2026-11-27T13:04:00Z",
       "links": [
         {
-          "title": "83% to 61%",
-          "url": "https://www.theargumentmag.com/p/who-cares-if-bisexuality-is-a-choice"
+          "title": "81%",
+          "url": "https://www.founderfridays.co/"
         },
         {
-          "title": "$1 million",
-          "url": "https://www.nasa.gov/news-release/nasa-announces-1-million-to-students-for-moon-base-challenge/"
+          "title": "NLDR Media",
+          "url": "https://thejefferymead.substack.com/p/morning-briefing-november-27-2026"
         },
         {
-          "title": "WIRED",
-          "url": "https://www.wired.com/story/a-new-breed-of-chip-runs-ai-models-using-waves-of-light/"
-        },
-        {
-          "title": "Newcomer",
-          "url": "https://www.newcomer.co/p/scoop-benchmark-to-back-overland"
-        },
-        {
-          "title": "WIRED",
-          "url": "https://www.wired.com/story/the-british-government-is-turning-everyone-into-a-prepper/"
-        },
-        {
-          "title": "WIRED",
-          "url": "https://www.wired.com/story/welcome-to-the-repair-cafe-where-neighbors-fight-throw-away-culture/"
-        },
-        {
-          "title": "WIRED",
-          "url": "https://www.wired.com/story/how-this-years-super-el-nino-will-worsen-global-hunger/"
-        },
-        {
-          "title": "WIRED",
-          "url": "https://www.wired.com/story/ai-agents-can-get-honeypotted-too-aw/"
-        },
-        {
-          "title": "OpenAI",
-          "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/"
-        },
-        {
-          "title": "The Economist",
-          "url": "https://www.economist.com/the-world-ahead/2026/11/18/fusion-power-is-about-to-start-working-says-bob-mumgaard"
-        },
-        {
-          "title": "The Economist",
-          "url": "https://www.economist.com/international/2026/11/25/the-rich-worlds-sexual-recession-is-getting-worse"
-        },
-        {
-          "title": "Vanity Fair",
-          "url": "https://www.vanityfair.com/story/grand-theft-auto-lucia"
-        },
-        {
-          "title": "The Atlantic",
-          "url": "https://www.theatlantic.com/science/2026/11/wild-turkeys-cities-suburbs-mayhem/689475/"
+          "title": "InsideHook",
+          "url": "https://www.insidehook.com/"
         },
         {
           "title": "404 Media",
-          "url": "https://www.404media.co/scientists-made-monkeys-watch-minions-to-study-their-brains/"
+          "url": "https://www.404media.co/r/3784da8d"
         },
         {
-          "title": "The New York Times",
-          "url": "https://www.nytimes.com/interactive/2026/11/23/well/gas-station-drugs-vape-weed-kratom-hallucinogens.html"
+          "title": "Semafor",
+          "url": "https://www.semafor.com/"
         },
         {
-          "title": "The Guardian",
-          "url": "https://www.theguardian.com/business/2026/nov/25/natures-ozempic-oat-sales-soar-shoppers-seek-out-foods-mimic-effect-glp-1s"
+          "title": "404 Media",
+          "url": "https://www.404media.co/r/e81d0d7d"
         },
         {
-          "title": "The New York Times",
-          "url": "https://www.nytimes.com/2026/11/24/dining/restaurant-reservations-phone-calls.html"
+          "title": "Semafor",
+          "url": "https://semafor.com/s/hvxbnbhzcl"
         },
         {
-          "title": "Aeon",
-          "url": "https://aeon.co/essays/do-you-have-a-selkie-or-a-seal-in-the-family"
+          "title": "Why is this interesting?",
+          "url": "https://whyisthisinteresting.substack.com/p/the-sanchez-edition"
+        },
+        {
+          "title": "Dazed",
+          "url": "https://www.dazeddigital.com/life-culture/article/71404/1/gta-vi-might-be-a-last-gasp-for-monoculture-but-should-we-be-celebrating"
+        },
+        {
+          "title": "404 Media",
+          "url": "https://www.404media.co/r/8bd0bd87"
+        },
+        {
+          "title": "404 Media",
+          "url": "https://www.404media.co/r/66f41a10"
+        },
+        {
+          "title": "Semafor",
+          "url": "https://semafor.com/s/cgli6pzpw1"
+        },
+        {
+          "title": "coolstuff.nyc",
+          "url": "https://coolstuffnyc.substack.com/p/our-group-chats-most-forwarded-finds"
+        },
+        {
+          "title": "Robert Sietsema's New York",
+          "url": "https://robertsietsema.substack.com/p/the-spice-bag-sandwich-a-restaurant"
+        },
+        {
+          "title": "Feed Me",
+          "url": "https://www.readfeedme.com/"
         }
       ],
       "versions": {
@@ -346929,8 +347003,720 @@
             }
           ]
         },
+        "midday": {
+          "body": "Friday, November 27, 2026 - Midday Edition\n\nToday's Numbers\n\n• 62%: of lost B2B deals end in no decision at all, not a win by a competitor. The real enemy is inertia, not the rival pitch.\n\n• 81%: of AI agents reached the end of checkout at stores offering guest checkout, in an analysis of more than 11,000 agent runs. Forcing an account signup stops the sale.\n\n• 1,722: beds in Colombia's new megaprison in Riohacha, the first major prison infrastructure delivered in the country since 2011.\n\n• 3: prior DUIs on the record of the wrong-way driver who killed Palm Beach County bomb squad Detective Alan Smith on Thanksgiving morning.\n\n• 57: songs on the official GTA VI soundtrack, from Dua Lipa and Bad Bunny to a posthumous D'Angelo single.\n\nQuotes of the Day\n\n• \"Picking a villain is good politics but a terrible technique for solving problems.\" (Jeff Bezos, on Semafor's Compound Interest, on why he will not apologize for his access to President Trump)\n\n• \"The biggest bag of odorous excrement ever assembled in the history of capitalism.\" (John Tuld, the fictional CEO played by Jeremy Irons in Margin Call, ordering his team to dump toxic assets on someone else)\n\nAI & The Machines\n\nAn open source framework is letting AI agents hack companies at machine speed. ARTEX plugs a large language model into a swarm of agents, each focused on a different hacking task, and sets them loose. The FBI warned this month that hackers using ARTEX have hit government, health care, telecom, legal, defense, financial services, and semiconductor targets around the world, with Chinese espionage crews and financially motivated crews both in the mix. The tool is written in Go and works with models from Anthropic, DeepSeek, or anyone else. The scary part is not that AI can hack. It is that it can do the boring, time-consuming parts of hacking automatically, which used to be the bottleneck. (404 Media)\n\nBuild your own AI harness before you need one. Semafor's tech team argues the holiday wish list item you cannot buy is a personal AI harness, a setup that stitches together the best features of tools like Codex, Cowork, and Hermes and keeps updating itself as they improve. The plug-and-play tools from Meta and OpenAI are easy, but they leave you dependent on companies that may not have your interests at heart, and with no control over your own data. A personal harness takes setup time and occasional maintenance. The alternative is waking up one day to find the company holding your digital life has vanished. (Semafor)\n\nMoney & Power\n\nThe University of Michigan approved a $1.25 billion data center for nuclear weapons research, then insisted it is not a data center. The board of regents voted 7 to 1 on November 19 to build the facility in Ypsilanti Township, despite opposition from faculty, staff, and residents. The project, a partnership with Los Alamos National Laboratory, was announced in 2024 as an \"AI research facility\" and is now called a \"research computing center.\" Construction on the 125,000 square foot building starts in late 2027, with room to grow to 300,000 square feet. The university's own mailer works hard to convince people this is not a data center. (404 Media)\n\nThe American Girl doll was a business masterclass before DTC had a name. Pleasant Rowland built a billion dollar toy empire out of a mail-order catalog, selling a $135 luxury doll as the anti-Barbie, roughly six times the price of the plastic competition, and marketing it to parents as much as to girls. Two years after the first catalog went out in September 1986, annual sales topped $17 million. About a decade later, Mattel paid $700 million for the franchise. Sales still beat Barbie today, but the dolls now do roughly $200 million a year, down from a $600 million peak, as kids trade dolls for iPads. (Semafor)\n\nFood & Drink\n\nThe best Mexican food a Texas-raised writer ate all year was in Copenhagen. Graydon Gordian went to Sanchez, a contemporary Mexican restaurant in the Danish capital, reluctantly. He grew up in Austin, spent plenty of time eating in Mexico, and had one week of dinners to spend. The seven-course meal turned out to be the best he had all year, with charming staff and Fania-era salsa on the speakers. The chef, Rosio Sanchez, is a Noma alum who grew up on Chicago's South Side. The meal raises a question about travel itself: are we there for the local culture, or for the best experiences a place offers, even when those two things have nothing to do with each other? (Why is this interesting?)\n\nThe Culture\n\nGTA VI might be the last monoculture event of our lifetimes. On November 19, clips, tips, and Easter eggs flooded every feed before most of the world could even play the game. New Zealand's \"population\" swelled by almost 50 percent on release day as players used the timezone trick to get in early. Pre-sales alone hit 32.5 million, more than the population of Australia, and 145.3 million hours were streamed on Twitch in the first two days. The monoculture peaked with Ellen's Oscars selfie in 2014, when 43.74 million people watched. This year it was 17.86 million. Everyone is talking about the same thing for once, and nobody is sure there will be another moment quite this big. (Dazed)\n\nQuick Hits & Curiosities\n\n• While the Treasury Department dealt with a hack that took down some of its services, its CIO Sam Corcos was pushing updates to Legatum, his vibe-coded Civilization clone, including balance patches and new theme music for the Aztec faction. (404 Media)\n\n• Google wants to make a 24/7 AI TV channel, and you will be the main character. (404 Media)\n\n• To understand the Chinese internet, read The Wall Dancers, which follows a gay dating app founder, a hip-hop pioneer, and a social media censor through cycles of openness and crackdown. (Semafor)\n\n• Evan Ratliff's podcast Shell Game is back for a third season, this time exposing the surprisingly vast world of AI podcast slop. (Semafor)\n\n• Vanity Fair is at the center of two discourse cycles: a strange Timothee Chalamet profile and a takedown of Taylor Swift that alludes to her Mean Girls persona. (InsideHook)\n\n• The Cut published an essay by Grace Brassel about dating Shane Gillis, and a North Brooklyn diary about dating an \"anonymous celebrity\" is so obviously Lucas Hedges. (InsideHook)\n\n• Three new NYC restaurants worth a visit: Swaine's in Williamsburg, Pizzeria The Pantheon Bar, and Ditto, Andy Baraghani's first restaurant off Union Square. (coolstuff.nyc)\n\n• In Elmhurst, four women sell homemade tamales for $2 each from giant aluminum pots under the 7 train, in chicken, pork, chile, cactus, and sweet dessert varieties. (Robert Sietsema's New York)\n\n• Feed Me asked readers for the most memorable gifts they ever gave or got, and the best ones were not for sale: a mother's Rolex, a framed letter from an autistic son, a Miracle on Ice poster signed by Jim Craig and Mike Eruzione. (Feed Me)\n\n• An 18-year-old was killed and six others shot at a teen Airbnb party in Polk County, Florida, promoted on social media as a pajama party for a teenage girl's birthday. (NLDR Media)\n\n• Mohammed bin Salman is planning to travel to Miami in December for the G20 Leaders' Summit, his first trip to the US since the outbreak of the Iran war. (Semafor)\n\n• Super Pumped was a cautionary tale about worshipping tech founders. Now Travis Kalanick is seen as one of the few founders of his era to build a big successful public company. (Semafor)",
+          "blocks": [
+            {
+              "type": "heading_1",
+              "runs": [
+                {
+                  "text": "Friday, November 27, 2026 - Midday Edition",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Today's Numbers",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "62%",
+                  "url": "https://www.founderfridays.co/",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": of lost B2B deals end in no decision at all, not a win by a competitor. The real enemy is inertia, not the rival pitch.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "81%",
+                  "url": "https://www.founderfridays.co/",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": of AI agents reached the end of checkout at stores offering guest checkout, in an analysis of more than 11,000 agent runs. Forcing an account signup stops the sale.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "1,722",
+                  "url": "https://thejefferymead.substack.com/p/morning-briefing-november-27-2026",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": beds in Colombia's new megaprison in Riohacha, the first major prison infrastructure delivered in the country since 2011.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "3",
+                  "url": "https://thejefferymead.substack.com/p/morning-briefing-november-27-2026",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": prior DUIs on the record of the wrong-way driver who killed Palm Beach County bomb squad Detective Alan Smith on Thanksgiving morning.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "57",
+                  "url": "https://www.insidehook.com/",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": songs on the official GTA VI soundtrack, from Dua Lipa and Bad Bunny to a posthumous D'Angelo single.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Quotes of the Day",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "\"Picking a villain is good politics but a terrible technique for solving problems.\" (Jeff Bezos, on Semafor's Compound Interest, on why he will not apologize for his access to President Trump)",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "\"The biggest bag of odorous excrement ever assembled in the history of capitalism.\" (John Tuld, the fictional CEO played by Jeremy Irons in Margin Call, ordering his team to dump toxic assets on someone else)",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "AI & The Machines",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "An open source framework is letting AI agents hack companies at machine speed.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " ARTEX plugs a large language model into a swarm of agents, each focused on a different hacking task, and sets them loose. The FBI warned this month that hackers using ARTEX have hit government, health care, telecom, legal, defense, financial services, and semiconductor targets around the world, with Chinese espionage crews and financially motivated crews both in the mix. The tool is written in Go and works with models from Anthropic, DeepSeek, or anyone else. The scary part is not that AI can hack. It is that it can do the boring, time-consuming parts of hacking automatically, which used to be the bottleneck. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "404 Media",
+                  "url": "https://www.404media.co/r/3784da8d",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Build your own AI harness before you need one.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " Semafor's tech team argues the holiday wish list item you cannot buy is a personal AI harness, a setup that stitches together the best features of tools like Codex, Cowork, and Hermes and keeps updating itself as they improve. The plug-and-play tools from Meta and OpenAI are easy, but they leave you dependent on companies that may not have your interests at heart, and with no control over your own data. A personal harness takes setup time and occasional maintenance. The alternative is waking up one day to find the company holding your digital life has vanished. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Semafor",
+                  "url": "https://www.semafor.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Money & Power",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "The University of Michigan approved a $1.25 billion data center for nuclear weapons research, then insisted it is not a data center.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " The board of regents voted 7 to 1 on November 19 to build the facility in Ypsilanti Township, despite opposition from faculty, staff, and residents. The project, a partnership with Los Alamos National Laboratory, was announced in 2024 as an \"AI research facility\" and is now called a \"research computing center.\" Construction on the 125,000 square foot building starts in late 2027, with room to grow to 300,000 square feet. The university's own mailer works hard to convince people this is not a data center. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "404 Media",
+                  "url": "https://www.404media.co/r/e81d0d7d",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "The American Girl doll was a business masterclass before DTC had a name.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " Pleasant Rowland built a billion dollar toy empire out of a mail-order catalog, selling a $135 luxury doll as the anti-Barbie, roughly six times the price of the plastic competition, and marketing it to parents as much as to girls. Two years after the first catalog went out in September 1986, annual sales topped $17 million. About a decade later, Mattel paid $700 million for the franchise. Sales still beat Barbie today, but the dolls now do roughly $200 million a year, down from a $600 million peak, as kids trade dolls for iPads. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Semafor",
+                  "url": "https://semafor.com/s/hvxbnbhzcl",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Food & Drink",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "The best Mexican food a Texas-raised writer ate all year was in Copenhagen.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " Graydon Gordian went to Sanchez, a contemporary Mexican restaurant in the Danish capital, reluctantly. He grew up in Austin, spent plenty of time eating in Mexico, and had one week of dinners to spend. The seven-course meal turned out to be the best he had all year, with charming staff and Fania-era salsa on the speakers. The chef, Rosio Sanchez, is a Noma alum who grew up on Chicago's South Side. The meal raises a question about travel itself: are we there for the local culture, or for the best experiences a place offers, even when those two things have nothing to do with each other? (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Why is this interesting?",
+                  "url": "https://whyisthisinteresting.substack.com/p/the-sanchez-edition",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "The Culture",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "GTA VI might be the last monoculture event of our lifetimes.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " On November 19, clips, tips, and Easter eggs flooded every feed before most of the world could even play the game. New Zealand's \"population\" swelled by almost 50 percent on release day as players used the timezone trick to get in early. Pre-sales alone hit 32.5 million, more than the population of Australia, and 145.3 million hours were streamed on Twitch in the first two days. The monoculture peaked with Ellen's Oscars selfie in 2014, when 43.74 million people watched. This year it was 17.86 million. Everyone is talking about the same thing for once, and nobody is sure there will be another moment quite this big. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Dazed",
+                  "url": "https://www.dazeddigital.com/life-culture/article/71404/1/gta-vi-might-be-a-last-gasp-for-monoculture-but-should-we-be-celebrating",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Quick Hits & Curiosities",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "While the Treasury Department dealt with a hack that took down some of its services, its CIO Sam Corcos was pushing updates to Legatum, his vibe-coded Civilization clone, including balance patches and new theme music for the Aztec faction. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "404 Media",
+                  "url": "https://www.404media.co/r/8bd0bd87",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Google wants to make a 24/7 AI TV channel, and you will be the main character. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "404 Media",
+                  "url": "https://www.404media.co/r/66f41a10",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "To understand the Chinese internet, read The Wall Dancers, which follows a gay dating app founder, a hip-hop pioneer, and a social media censor through cycles of openness and crackdown. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Semafor",
+                  "url": "https://semafor.com/s/cgli6pzpw1",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Evan Ratliff's podcast Shell Game is back for a third season, this time exposing the surprisingly vast world of AI podcast slop. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Semafor",
+                  "url": "https://www.semafor.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Vanity Fair is at the center of two discourse cycles: a strange Timothee Chalamet profile and a takedown of Taylor Swift that alludes to her Mean Girls persona. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "InsideHook",
+                  "url": "https://www.insidehook.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "The Cut published an essay by Grace Brassel about dating Shane Gillis, and a North Brooklyn diary about dating an \"anonymous celebrity\" is so obviously Lucas Hedges. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "InsideHook",
+                  "url": "https://www.insidehook.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Three new NYC restaurants worth a visit: Swaine's in Williamsburg, Pizzeria The Pantheon Bar, and Ditto, Andy Baraghani's first restaurant off Union Square. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "coolstuff.nyc",
+                  "url": "https://coolstuffnyc.substack.com/p/our-group-chats-most-forwarded-finds",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "In Elmhurst, four women sell homemade tamales for $2 each from giant aluminum pots under the 7 train, in chicken, pork, chile, cactus, and sweet dessert varieties. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Robert Sietsema's New York",
+                  "url": "https://robertsietsema.substack.com/p/the-spice-bag-sandwich-a-restaurant",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Feed Me asked readers for the most memorable gifts they ever gave or got, and the best ones were not for sale: a mother's Rolex, a framed letter from an autistic son, a Miracle on Ice poster signed by Jim Craig and Mike Eruzione. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Feed Me",
+                  "url": "https://www.readfeedme.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "An 18-year-old was killed and six others shot at a teen Airbnb party in Polk County, Florida, promoted on social media as a pajama party for a teenage girl's birthday. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "NLDR Media",
+                  "url": "https://thejefferymead.substack.com/p/morning-briefing-november-27-2026",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Mohammed bin Salman is planning to travel to Miami in December for the G20 Leaders' Summit, his first trip to the US since the outbreak of the Iran war. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Semafor",
+                  "url": "https://www.semafor.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Super Pumped was a cautionary tale about worshipping tech founders. Now Travis Kalanick is seen as one of the few founders of his era to build a big successful public company. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Semafor",
+                  "url": "https://www.semafor.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            }
+          ],
+          "links": [
+            {
+              "title": "81%",
+              "url": "https://www.founderfridays.co/"
+            },
+            {
+              "title": "NLDR Media",
+              "url": "https://thejefferymead.substack.com/p/morning-briefing-november-27-2026"
+            },
+            {
+              "title": "InsideHook",
+              "url": "https://www.insidehook.com/"
+            },
+            {
+              "title": "404 Media",
+              "url": "https://www.404media.co/r/3784da8d"
+            },
+            {
+              "title": "Semafor",
+              "url": "https://www.semafor.com/"
+            },
+            {
+              "title": "404 Media",
+              "url": "https://www.404media.co/r/e81d0d7d"
+            },
+            {
+              "title": "Semafor",
+              "url": "https://semafor.com/s/hvxbnbhzcl"
+            },
+            {
+              "title": "Why is this interesting?",
+              "url": "https://whyisthisinteresting.substack.com/p/the-sanchez-edition"
+            },
+            {
+              "title": "Dazed",
+              "url": "https://www.dazeddigital.com/life-culture/article/71404/1/gta-vi-might-be-a-last-gasp-for-monoculture-but-should-we-be-celebrating"
+            },
+            {
+              "title": "404 Media",
+              "url": "https://www.404media.co/r/8bd0bd87"
+            },
+            {
+              "title": "404 Media",
+              "url": "https://www.404media.co/r/66f41a10"
+            },
+            {
+              "title": "Semafor",
+              "url": "https://semafor.com/s/cgli6pzpw1"
+            },
+            {
+              "title": "coolstuff.nyc",
+              "url": "https://coolstuffnyc.substack.com/p/our-group-chats-most-forwarded-finds"
+            },
+            {
+              "title": "Robert Sietsema's New York",
+              "url": "https://robertsietsema.substack.com/p/the-spice-bag-sandwich-a-restaurant"
+            },
+            {
+              "title": "Feed Me",
+              "url": "https://www.readfeedme.com/"
+            }
+          ]
+        },
         "full": {
-          "body": "Friday, November 27, 2026 - Morning Edition\n\nToday's Numbers\n\n• 1 in 4: Americans aged 18 to 27 identified as LGBTQ+ as of 2024, up from 1 in 16 millennials a decade earlier. Bisexuality drove almost all of the increase.\n\n• 86% vs. 65%: the orgasm gap. Lesbian women report orgasming 86% of the time, compared with 65% for heterosexual women, one reason the essay argues same-sex dating can look appealing to young women.\n\n• 83% to 61%: the share of 12th-grade girls who say they want to get married, down from 83% in 1993, while boys' expectations held steady.\n\n• $1 million: in prizes NASA is offering U.S. high school and college students for designs for the base it plans to build near the moon's south pole. Registration closes January 25, 2027.\n\nQuotes of the Day\n\n• \"For many young people, coming into their sexual identities is, in a way, theoretical. That does not mean that they are wrong or confused, but this key part of who they are has not been tested or tried out by engaging with real people.\" (Daniel Cox, polling fellow at the American Enterprise Institute, in his book Generation Uncoupled)\n\n• \"If Gen Z is giving homosexuality a try and likes it, that seems a whole lot better than remaining withdrawn and disconnected.\" (Maibritt Henkel, The Argument)\n\nAI & The Machines\n\nGerman startup Q.ANT is betting that light can do AI's hardest math for a fraction of the energy. Regular GPUs shuffle electrons around, which generates heat and guzzles power, and cooling is one of a data center's biggest costs. Photonic processors use waves of light instead, which generates almost no heat as it travels and lets more data be processed at once. The chips are not meant to replace GPUs, just to sit beside them as coprocessors handling the complex, nonlinear math like image recognition and video generation while GPUs grind through the linear stuff. Simulations point to four to five times less energy, though the company admits it has not proven that on real hardware yet. Q.ANT just rolled its chips out to cloud provider IONOS in a pilot, and more than 30 engineering teams are now building AI models tuned for light. (WIRED)\n\nMoney & Power\n\nBenchmark is on a deal-making run, and defense and bio are next. The storied VC firm is in talks to back Overland and Bindwell in new defense and bio deals, its second defense-tech investment in two months plus a rare bio bet, according to four sources. Benchmark had a rough patch, but the firm looks to be on a roll again. The full story sits behind a paywall, so details are thin for now. (Newcomer)\n\nThe Culture\n\nThe British government is turning everyone into a prepper. Forget guns and underground bunkers. Britain's growing survivalist movement is more worried about backup power, baby formula, and making friends with the neighbors. Preparedness is going mainstream, and the new prepper looks less like a doomsday hoarder and more like a neighbor with a charged battery and a plan. (WIRED)\n\nIn church basements and warehouses, Americans are fighting throwaway culture one fixed toaster at a time. Repair Cafes are cozy, radical little spaces where neighbors help each other fix broken items instead of throwing them away. It is part workshop, part block party, and part quiet protest against a world built to be replaced. (WIRED)\n\nQuick Hits & Curiosities\n\n• This year's super El Nino could worsen global hunger, with some regions getting wetter while others face massive drought, on top of wars and cuts to foreign aid. (WIRED)\n\n• Anthropic created a honeypot to lure AI agents into misbehaving. (WIRED)\n\n• OpenAI says its latest language models successfully designed new proteins. (OpenAI)\n\n• Fusion power is about to start working, says Bob Mumgaard, in The Economist's look at business in 2027. (The Economist)\n\n• The rich world's sexual recession is getting worse, and exhaustion is just one of the culprits. (The Economist)\n\n• GTA VI's Lucia forces gamers to grow up, and the game punishes players with narrative consequences if they refuse. (Vanity Fair)\n\n• Wild turkeys have taken over American cities. (The Atlantic)\n\n• Scientists made monkeys watch Minions to study their brains. (404 Media)\n\n• The NYT tested the drugs sold at gas stations to find out what is actually in them. (The New York Times)\n\n• Porridge, now known as \"nature's Ozempic\" for how full it makes you feel, is hot right now. (The Guardian)\n\n• You can call restaurants again. A human might even answer. (The New York Times)\n\n• Many Irish families believed they descended from selkies. One writer's grandmother was a seal. (Aeon)",
+          "body": "Friday, November 27, 2026 - Morning Edition\n\nToday's Numbers\n\n• 1 in 4: Americans aged 18 to 27 identified as LGBTQ+ as of 2024, up from 1 in 16 millennials a decade earlier. Bisexuality drove almost all of the increase.\n\n• 86% vs. 65%: the orgasm gap. Lesbian women report orgasming 86% of the time, compared with 65% for heterosexual women, one reason the essay argues same-sex dating can look appealing to young women.\n\n• 83% to 61%: the share of 12th-grade girls who say they want to get married, down from 83% in 1993, while boys' expectations held steady.\n\n• $1 million: in prizes NASA is offering U.S. high school and college students for designs for the base it plans to build near the moon's south pole. Registration closes January 25, 2027.\n\nQuotes of the Day\n\n• \"For many young people, coming into their sexual identities is, in a way, theoretical. That does not mean that they are wrong or confused, but this key part of who they are has not been tested or tried out by engaging with real people.\" (Daniel Cox, polling fellow at the American Enterprise Institute, in his book Generation Uncoupled)\n\n• \"If Gen Z is giving homosexuality a try and likes it, that seems a whole lot better than remaining withdrawn and disconnected.\" (Maibritt Henkel, The Argument)\n\nAI & The Machines\n\nGerman startup Q.ANT is betting that light can do AI's hardest math for a fraction of the energy. Regular GPUs shuffle electrons around, which generates heat and guzzles power, and cooling is one of a data center's biggest costs. Photonic processors use waves of light instead, which generates almost no heat as it travels and lets more data be processed at once. The chips are not meant to replace GPUs, just to sit beside them as coprocessors handling the complex, nonlinear math like image recognition and video generation while GPUs grind through the linear stuff. Simulations point to four to five times less energy, though the company admits it has not proven that on real hardware yet. Q.ANT just rolled its chips out to cloud provider IONOS in a pilot, and more than 30 engineering teams are now building AI models tuned for light. (WIRED)\n\nMoney & Power\n\nBenchmark is on a deal-making run, and defense and bio are next. The storied VC firm is in talks to back Overland and Bindwell in new defense and bio deals, its second defense-tech investment in two months plus a rare bio bet, according to four sources. Benchmark had a rough patch, but the firm looks to be on a roll again. The full story sits behind a paywall, so details are thin for now. (Newcomer)\n\nThe Culture\n\nThe British government is turning everyone into a prepper. Forget guns and underground bunkers. Britain's growing survivalist movement is more worried about backup power, baby formula, and making friends with the neighbors. Preparedness is going mainstream, and the new prepper looks less like a doomsday hoarder and more like a neighbor with a charged battery and a plan. (WIRED)\n\nIn church basements and warehouses, Americans are fighting throwaway culture one fixed toaster at a time. Repair Cafes are cozy, radical little spaces where neighbors help each other fix broken items instead of throwing them away. It is part workshop, part block party, and part quiet protest against a world built to be replaced. (WIRED)\n\nQuick Hits & Curiosities\n\n• This year's super El Nino could worsen global hunger, with some regions getting wetter while others face massive drought, on top of wars and cuts to foreign aid. (WIRED)\n\n• Anthropic created a honeypot to lure AI agents into misbehaving. (WIRED)\n\n• OpenAI says its latest language models successfully designed new proteins. (OpenAI)\n\n• Fusion power is about to start working, says Bob Mumgaard, in The Economist's look at business in 2027. (The Economist)\n\n• The rich world's sexual recession is getting worse, and exhaustion is just one of the culprits. (The Economist)\n\n• GTA VI's Lucia forces gamers to grow up, and the game punishes players with narrative consequences if they refuse. (Vanity Fair)\n\n• Wild turkeys have taken over American cities. (The Atlantic)\n\n• Scientists made monkeys watch Minions to study their brains. (404 Media)\n\n• The NYT tested the drugs sold at gas stations to find out what is actually in them. (The New York Times)\n\n• Porridge, now known as \"nature's Ozempic\" for how full it makes you feel, is hot right now. (The Guardian)\n\n• You can call restaurants again. A human might even answer. (The New York Times)\n\n• Many Irish families believed they descended from selkies. One writer's grandmother was a seal. (Aeon)\n\nFriday, November 27, 2026 - Midday Edition\n\nToday's Numbers\n\n• 62%: of lost B2B deals end in no decision at all, not a win by a competitor. The real enemy is inertia, not the rival pitch.\n\n• 81%: of AI agents reached the end of checkout at stores offering guest checkout, in an analysis of more than 11,000 agent runs. Forcing an account signup stops the sale.\n\n• 1,722: beds in Colombia's new megaprison in Riohacha, the first major prison infrastructure delivered in the country since 2011.\n\n• 3: prior DUIs on the record of the wrong-way driver who killed Palm Beach County bomb squad Detective Alan Smith on Thanksgiving morning.\n\n• 57: songs on the official GTA VI soundtrack, from Dua Lipa and Bad Bunny to a posthumous D'Angelo single.\n\nQuotes of the Day\n\n• \"Picking a villain is good politics but a terrible technique for solving problems.\" (Jeff Bezos, on Semafor's Compound Interest, on why he will not apologize for his access to President Trump)\n\n• \"The biggest bag of odorous excrement ever assembled in the history of capitalism.\" (John Tuld, the fictional CEO played by Jeremy Irons in Margin Call, ordering his team to dump toxic assets on someone else)\n\nAI & The Machines\n\nAn open source framework is letting AI agents hack companies at machine speed. ARTEX plugs a large language model into a swarm of agents, each focused on a different hacking task, and sets them loose. The FBI warned this month that hackers using ARTEX have hit government, health care, telecom, legal, defense, financial services, and semiconductor targets around the world, with Chinese espionage crews and financially motivated crews both in the mix. The tool is written in Go and works with models from Anthropic, DeepSeek, or anyone else. The scary part is not that AI can hack. It is that it can do the boring, time-consuming parts of hacking automatically, which used to be the bottleneck. (404 Media)\n\nBuild your own AI harness before you need one. Semafor's tech team argues the holiday wish list item you cannot buy is a personal AI harness, a setup that stitches together the best features of tools like Codex, Cowork, and Hermes and keeps updating itself as they improve. The plug-and-play tools from Meta and OpenAI are easy, but they leave you dependent on companies that may not have your interests at heart, and with no control over your own data. A personal harness takes setup time and occasional maintenance. The alternative is waking up one day to find the company holding your digital life has vanished. (Semafor)\n\nMoney & Power\n\nThe University of Michigan approved a $1.25 billion data center for nuclear weapons research, then insisted it is not a data center. The board of regents voted 7 to 1 on November 19 to build the facility in Ypsilanti Township, despite opposition from faculty, staff, and residents. The project, a partnership with Los Alamos National Laboratory, was announced in 2024 as an \"AI research facility\" and is now called a \"research computing center.\" Construction on the 125,000 square foot building starts in late 2027, with room to grow to 300,000 square feet. The university's own mailer works hard to convince people this is not a data center. (404 Media)\n\nThe American Girl doll was a business masterclass before DTC had a name. Pleasant Rowland built a billion dollar toy empire out of a mail-order catalog, selling a $135 luxury doll as the anti-Barbie, roughly six times the price of the plastic competition, and marketing it to parents as much as to girls. Two years after the first catalog went out in September 1986, annual sales topped $17 million. About a decade later, Mattel paid $700 million for the franchise. Sales still beat Barbie today, but the dolls now do roughly $200 million a year, down from a $600 million peak, as kids trade dolls for iPads. (Semafor)\n\nFood & Drink\n\nThe best Mexican food a Texas-raised writer ate all year was in Copenhagen. Graydon Gordian went to Sanchez, a contemporary Mexican restaurant in the Danish capital, reluctantly. He grew up in Austin, spent plenty of time eating in Mexico, and had one week of dinners to spend. The seven-course meal turned out to be the best he had all year, with charming staff and Fania-era salsa on the speakers. The chef, Rosio Sanchez, is a Noma alum who grew up on Chicago's South Side. The meal raises a question about travel itself: are we there for the local culture, or for the best experiences a place offers, even when those two things have nothing to do with each other? (Why is this interesting?)\n\nThe Culture\n\nGTA VI might be the last monoculture event of our lifetimes. On November 19, clips, tips, and Easter eggs flooded every feed before most of the world could even play the game. New Zealand's \"population\" swelled by almost 50 percent on release day as players used the timezone trick to get in early. Pre-sales alone hit 32.5 million, more than the population of Australia, and 145.3 million hours were streamed on Twitch in the first two days. The monoculture peaked with Ellen's Oscars selfie in 2014, when 43.74 million people watched. This year it was 17.86 million. Everyone is talking about the same thing for once, and nobody is sure there will be another moment quite this big. (Dazed)\n\nQuick Hits & Curiosities\n\n• While the Treasury Department dealt with a hack that took down some of its services, its CIO Sam Corcos was pushing updates to Legatum, his vibe-coded Civilization clone, including balance patches and new theme music for the Aztec faction. (404 Media)\n\n• Google wants to make a 24/7 AI TV channel, and you will be the main character. (404 Media)\n\n• To understand the Chinese internet, read The Wall Dancers, which follows a gay dating app founder, a hip-hop pioneer, and a social media censor through cycles of openness and crackdown. (Semafor)\n\n• Evan Ratliff's podcast Shell Game is back for a third season, this time exposing the surprisingly vast world of AI podcast slop. (Semafor)\n\n• Vanity Fair is at the center of two discourse cycles: a strange Timothee Chalamet profile and a takedown of Taylor Swift that alludes to her Mean Girls persona. (InsideHook)\n\n• The Cut published an essay by Grace Brassel about dating Shane Gillis, and a North Brooklyn diary about dating an \"anonymous celebrity\" is so obviously Lucas Hedges. (InsideHook)\n\n• Three new NYC restaurants worth a visit: Swaine's in Williamsburg, Pizzeria The Pantheon Bar, and Ditto, Andy Baraghani's first restaurant off Union Square. (coolstuff.nyc)\n\n• In Elmhurst, four women sell homemade tamales for $2 each from giant aluminum pots under the 7 train, in chicken, pork, chile, cactus, and sweet dessert varieties. (Robert Sietsema's New York)\n\n• Feed Me asked readers for the most memorable gifts they ever gave or got, and the best ones were not for sale: a mother's Rolex, a framed letter from an autistic son, a Miracle on Ice poster signed by Jim Craig and Mike Eruzione. (Feed Me)\n\n• An 18-year-old was killed and six others shot at a teen Airbnb party in Polk County, Florida, promoted on social media as a pajama party for a teenage girl's birthday. (NLDR Media)\n\n• Mohammed bin Salman is planning to travel to Miami in December for the G20 Leaders' Summit, his first trip to the US since the outbreak of the Iran war. (Semafor)\n\n• Super Pumped was a cautionary tale about worshipping tech founders. Now Travis Kalanick is seen as one of the few founders of his era to build a big successful public company. (Semafor)",
           "blocks": [
             {
               "type": "heading_1",
@@ -347490,6 +348276,651 @@
                   "italic": false
                 }
               ]
+            },
+            {
+              "type": "heading_1",
+              "runs": [
+                {
+                  "text": "Friday, November 27, 2026 - Midday Edition",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Today's Numbers",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "62%",
+                  "url": "https://www.founderfridays.co/",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": of lost B2B deals end in no decision at all, not a win by a competitor. The real enemy is inertia, not the rival pitch.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "81%",
+                  "url": "https://www.founderfridays.co/",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": of AI agents reached the end of checkout at stores offering guest checkout, in an analysis of more than 11,000 agent runs. Forcing an account signup stops the sale.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "1,722",
+                  "url": "https://thejefferymead.substack.com/p/morning-briefing-november-27-2026",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": beds in Colombia's new megaprison in Riohacha, the first major prison infrastructure delivered in the country since 2011.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "3",
+                  "url": "https://thejefferymead.substack.com/p/morning-briefing-november-27-2026",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": prior DUIs on the record of the wrong-way driver who killed Palm Beach County bomb squad Detective Alan Smith on Thanksgiving morning.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "57",
+                  "url": "https://www.insidehook.com/",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": songs on the official GTA VI soundtrack, from Dua Lipa and Bad Bunny to a posthumous D'Angelo single.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Quotes of the Day",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "\"Picking a villain is good politics but a terrible technique for solving problems.\" (Jeff Bezos, on Semafor's Compound Interest, on why he will not apologize for his access to President Trump)",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "\"The biggest bag of odorous excrement ever assembled in the history of capitalism.\" (John Tuld, the fictional CEO played by Jeremy Irons in Margin Call, ordering his team to dump toxic assets on someone else)",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "AI & The Machines",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "An open source framework is letting AI agents hack companies at machine speed.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " ARTEX plugs a large language model into a swarm of agents, each focused on a different hacking task, and sets them loose. The FBI warned this month that hackers using ARTEX have hit government, health care, telecom, legal, defense, financial services, and semiconductor targets around the world, with Chinese espionage crews and financially motivated crews both in the mix. The tool is written in Go and works with models from Anthropic, DeepSeek, or anyone else. The scary part is not that AI can hack. It is that it can do the boring, time-consuming parts of hacking automatically, which used to be the bottleneck. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "404 Media",
+                  "url": "https://www.404media.co/r/3784da8d",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Build your own AI harness before you need one.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " Semafor's tech team argues the holiday wish list item you cannot buy is a personal AI harness, a setup that stitches together the best features of tools like Codex, Cowork, and Hermes and keeps updating itself as they improve. The plug-and-play tools from Meta and OpenAI are easy, but they leave you dependent on companies that may not have your interests at heart, and with no control over your own data. A personal harness takes setup time and occasional maintenance. The alternative is waking up one day to find the company holding your digital life has vanished. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Semafor",
+                  "url": "https://www.semafor.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Money & Power",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "The University of Michigan approved a $1.25 billion data center for nuclear weapons research, then insisted it is not a data center.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " The board of regents voted 7 to 1 on November 19 to build the facility in Ypsilanti Township, despite opposition from faculty, staff, and residents. The project, a partnership with Los Alamos National Laboratory, was announced in 2024 as an \"AI research facility\" and is now called a \"research computing center.\" Construction on the 125,000 square foot building starts in late 2027, with room to grow to 300,000 square feet. The university's own mailer works hard to convince people this is not a data center. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "404 Media",
+                  "url": "https://www.404media.co/r/e81d0d7d",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "The American Girl doll was a business masterclass before DTC had a name.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " Pleasant Rowland built a billion dollar toy empire out of a mail-order catalog, selling a $135 luxury doll as the anti-Barbie, roughly six times the price of the plastic competition, and marketing it to parents as much as to girls. Two years after the first catalog went out in September 1986, annual sales topped $17 million. About a decade later, Mattel paid $700 million for the franchise. Sales still beat Barbie today, but the dolls now do roughly $200 million a year, down from a $600 million peak, as kids trade dolls for iPads. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Semafor",
+                  "url": "https://semafor.com/s/hvxbnbhzcl",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Food & Drink",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "The best Mexican food a Texas-raised writer ate all year was in Copenhagen.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " Graydon Gordian went to Sanchez, a contemporary Mexican restaurant in the Danish capital, reluctantly. He grew up in Austin, spent plenty of time eating in Mexico, and had one week of dinners to spend. The seven-course meal turned out to be the best he had all year, with charming staff and Fania-era salsa on the speakers. The chef, Rosio Sanchez, is a Noma alum who grew up on Chicago's South Side. The meal raises a question about travel itself: are we there for the local culture, or for the best experiences a place offers, even when those two things have nothing to do with each other? (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Why is this interesting?",
+                  "url": "https://whyisthisinteresting.substack.com/p/the-sanchez-edition",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "The Culture",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "GTA VI might be the last monoculture event of our lifetimes.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " On November 19, clips, tips, and Easter eggs flooded every feed before most of the world could even play the game. New Zealand's \"population\" swelled by almost 50 percent on release day as players used the timezone trick to get in early. Pre-sales alone hit 32.5 million, more than the population of Australia, and 145.3 million hours were streamed on Twitch in the first two days. The monoculture peaked with Ellen's Oscars selfie in 2014, when 43.74 million people watched. This year it was 17.86 million. Everyone is talking about the same thing for once, and nobody is sure there will be another moment quite this big. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Dazed",
+                  "url": "https://www.dazeddigital.com/life-culture/article/71404/1/gta-vi-might-be-a-last-gasp-for-monoculture-but-should-we-be-celebrating",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Quick Hits & Curiosities",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "While the Treasury Department dealt with a hack that took down some of its services, its CIO Sam Corcos was pushing updates to Legatum, his vibe-coded Civilization clone, including balance patches and new theme music for the Aztec faction. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "404 Media",
+                  "url": "https://www.404media.co/r/8bd0bd87",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Google wants to make a 24/7 AI TV channel, and you will be the main character. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "404 Media",
+                  "url": "https://www.404media.co/r/66f41a10",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "To understand the Chinese internet, read The Wall Dancers, which follows a gay dating app founder, a hip-hop pioneer, and a social media censor through cycles of openness and crackdown. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Semafor",
+                  "url": "https://semafor.com/s/cgli6pzpw1",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Evan Ratliff's podcast Shell Game is back for a third season, this time exposing the surprisingly vast world of AI podcast slop. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Semafor",
+                  "url": "https://www.semafor.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Vanity Fair is at the center of two discourse cycles: a strange Timothee Chalamet profile and a takedown of Taylor Swift that alludes to her Mean Girls persona. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "InsideHook",
+                  "url": "https://www.insidehook.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "The Cut published an essay by Grace Brassel about dating Shane Gillis, and a North Brooklyn diary about dating an \"anonymous celebrity\" is so obviously Lucas Hedges. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "InsideHook",
+                  "url": "https://www.insidehook.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Three new NYC restaurants worth a visit: Swaine's in Williamsburg, Pizzeria The Pantheon Bar, and Ditto, Andy Baraghani's first restaurant off Union Square. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "coolstuff.nyc",
+                  "url": "https://coolstuffnyc.substack.com/p/our-group-chats-most-forwarded-finds",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "In Elmhurst, four women sell homemade tamales for $2 each from giant aluminum pots under the 7 train, in chicken, pork, chile, cactus, and sweet dessert varieties. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Robert Sietsema's New York",
+                  "url": "https://robertsietsema.substack.com/p/the-spice-bag-sandwich-a-restaurant",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Feed Me asked readers for the most memorable gifts they ever gave or got, and the best ones were not for sale: a mother's Rolex, a framed letter from an autistic son, a Miracle on Ice poster signed by Jim Craig and Mike Eruzione. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Feed Me",
+                  "url": "https://www.readfeedme.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "An 18-year-old was killed and six others shot at a teen Airbnb party in Polk County, Florida, promoted on social media as a pajama party for a teenage girl's birthday. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "NLDR Media",
+                  "url": "https://thejefferymead.substack.com/p/morning-briefing-november-27-2026",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Mohammed bin Salman is planning to travel to Miami in December for the G20 Leaders' Summit, his first trip to the US since the outbreak of the Iran war. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Semafor",
+                  "url": "https://www.semafor.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Super Pumped was a cautionary tale about worshipping tech founders. Now Travis Kalanick is seen as one of the few founders of his era to build a big successful public company. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Semafor",
+                  "url": "https://www.semafor.com/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
             }
           ],
           "links": [
@@ -347564,6 +348995,66 @@
             {
               "title": "Aeon",
               "url": "https://aeon.co/essays/do-you-have-a-selkie-or-a-seal-in-the-family"
+            },
+            {
+              "title": "81%",
+              "url": "https://www.founderfridays.co/"
+            },
+            {
+              "title": "NLDR Media",
+              "url": "https://thejefferymead.substack.com/p/morning-briefing-november-27-2026"
+            },
+            {
+              "title": "InsideHook",
+              "url": "https://www.insidehook.com/"
+            },
+            {
+              "title": "404 Media",
+              "url": "https://www.404media.co/r/3784da8d"
+            },
+            {
+              "title": "Semafor",
+              "url": "https://www.semafor.com/"
+            },
+            {
+              "title": "404 Media",
+              "url": "https://www.404media.co/r/e81d0d7d"
+            },
+            {
+              "title": "Semafor",
+              "url": "https://semafor.com/s/hvxbnbhzcl"
+            },
+            {
+              "title": "Why is this interesting?",
+              "url": "https://whyisthisinteresting.substack.com/p/the-sanchez-edition"
+            },
+            {
+              "title": "Dazed",
+              "url": "https://www.dazeddigital.com/life-culture/article/71404/1/gta-vi-might-be-a-last-gasp-for-monoculture-but-should-we-be-celebrating"
+            },
+            {
+              "title": "404 Media",
+              "url": "https://www.404media.co/r/8bd0bd87"
+            },
+            {
+              "title": "404 Media",
+              "url": "https://www.404media.co/r/66f41a10"
+            },
+            {
+              "title": "Semafor",
+              "url": "https://semafor.com/s/cgli6pzpw1"
+            },
+            {
+              "title": "coolstuff.nyc",
+              "url": "https://coolstuffnyc.substack.com/p/our-group-chats-most-forwarded-finds"
+            },
+            {
+              "title": "Robert Sietsema's New York",
+              "url": "https://robertsietsema.substack.com/p/the-spice-bag-sandwich-a-restaurant"
+            },
+            {
+              "title": "Feed Me",
+              "url": "https://www.readfeedme.com/"
             }
           ]
         }
