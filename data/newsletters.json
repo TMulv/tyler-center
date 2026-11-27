@@ -345643,6 +345643,1931 @@
       ],
       "publishedAt": "2026-11-26T22:10:00Z",
       "links": []
+    },
+    {
+      "id": "digest-4258153c-8a3e-81e0-af9f-dcceb8a374c6",
+      "channel": "newsletters",
+      "source": "notion",
+      "kind": "Agent-written digest",
+      "domain": "Daily newsletter digest",
+      "title": "The Bisexual Boom, Light-Powered AI Chips, Britain's New Preppers - Friday, November 27, 2026",
+      "url": "",
+      "description": "Friday, November 27, 2026 - Morning Edition",
+      "body": "Friday, November 27, 2026 - Morning Edition\n\nToday's Numbers\n\n• 1 in 4: Americans aged 18 to 27 identified as LGBTQ+ as of 2024, up from 1 in 16 millennials a decade earlier. Bisexuality drove almost all of the increase.\n\n• 86% vs. 65%: the orgasm gap. Lesbian women report orgasming 86% of the time, compared with 65% for heterosexual women, one reason the essay argues same-sex dating can look appealing to young women.\n\n• 83% to 61%: the share of 12th-grade girls who say they want to get married, down from 83% in 1993, while boys' expectations held steady.\n\n• $1 million: in prizes NASA is offering U.S. high school and college students for designs for the base it plans to build near the moon's south pole. Registration closes January 25, 2027.\n\nQuotes of the Day\n\n• \"For many young people, coming into their sexual identities is, in a way, theoretical. That does not mean that they are wrong or confused, but this key part of who they are has not been tested or tried out by engaging with real people.\" (Daniel Cox, polling fellow at the American Enterprise Institute, in his book Generation Uncoupled)\n\n• \"If Gen Z is giving homosexuality a try and likes it, that seems a whole lot better than remaining withdrawn and disconnected.\" (Maibritt Henkel, The Argument)\n\nAI & The Machines\n\nGerman startup Q.ANT is betting that light can do AI's hardest math for a fraction of the energy. Regular GPUs shuffle electrons around, which generates heat and guzzles power, and cooling is one of a data center's biggest costs. Photonic processors use waves of light instead, which generates almost no heat as it travels and lets more data be processed at once. The chips are not meant to replace GPUs, just to sit beside them as coprocessors handling the complex, nonlinear math like image recognition and video generation while GPUs grind through the linear stuff. Simulations point to four to five times less energy, though the company admits it has not proven that on real hardware yet. Q.ANT just rolled its chips out to cloud provider IONOS in a pilot, and more than 30 engineering teams are now building AI models tuned for light. (WIRED)\n\nMoney & Power\n\nBenchmark is on a deal-making run, and defense and bio are next. The storied VC firm is in talks to back Overland and Bindwell in new defense and bio deals, its second defense-tech investment in two months plus a rare bio bet, according to four sources. Benchmark had a rough patch, but the firm looks to be on a roll again. The full story sits behind a paywall, so details are thin for now. (Newcomer)\n\nThe Culture\n\nThe British government is turning everyone into a prepper. Forget guns and underground bunkers. Britain's growing survivalist movement is more worried about backup power, baby formula, and making friends with the neighbors. Preparedness is going mainstream, and the new prepper looks less like a doomsday hoarder and more like a neighbor with a charged battery and a plan. (WIRED)\n\nIn church basements and warehouses, Americans are fighting throwaway culture one fixed toaster at a time. Repair Cafes are cozy, radical little spaces where neighbors help each other fix broken items instead of throwing them away. It is part workshop, part block party, and part quiet protest against a world built to be replaced. (WIRED)\n\nQuick Hits & Curiosities\n\n• This year's super El Nino could worsen global hunger, with some regions getting wetter while others face massive drought, on top of wars and cuts to foreign aid. (WIRED)\n\n• Anthropic created a honeypot to lure AI agents into misbehaving. (WIRED)\n\n• OpenAI says its latest language models successfully designed new proteins. (OpenAI)\n\n• Fusion power is about to start working, says Bob Mumgaard, in The Economist's look at business in 2027. (The Economist)\n\n• The rich world's sexual recession is getting worse, and exhaustion is just one of the culprits. (The Economist)\n\n• GTA VI's Lucia forces gamers to grow up, and the game punishes players with narrative consequences if they refuse. (Vanity Fair)\n\n• Wild turkeys have taken over American cities. (The Atlantic)\n\n• Scientists made monkeys watch Minions to study their brains. (404 Media)\n\n• The NYT tested the drugs sold at gas stations to find out what is actually in them. (The New York Times)\n\n• Porridge, now known as \"nature's Ozempic\" for how full it makes you feel, is hot right now. (The Guardian)\n\n• You can call restaurants again. A human might even answer. (The New York Times)\n\n• Many Irish families believed they descended from selkies. One writer's grandmother was a seal. (Aeon)",
+      "blocks": [
+        {
+          "type": "heading_1",
+          "runs": [
+            {
+              "text": "Friday, November 27, 2026 - Morning Edition",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Today's Numbers",
+              "url": "",
+              "bold": true,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "1 in 4",
+              "url": "https://www.theargumentmag.com/p/who-cares-if-bisexuality-is-a-choice",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": ": Americans aged 18 to 27 identified as LGBTQ+ as of 2024, up from 1 in 16 millennials a decade earlier. Bisexuality drove almost all of the increase.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "86% vs. 65%",
+              "url": "https://www.theargumentmag.com/p/who-cares-if-bisexuality-is-a-choice",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": ": the orgasm gap. Lesbian women report orgasming 86% of the time, compared with 65% for heterosexual women, one reason the essay argues same-sex dating can look appealing to young women.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "83% to 61%",
+              "url": "https://www.theargumentmag.com/p/who-cares-if-bisexuality-is-a-choice",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": ": the share of 12th-grade girls who say they want to get married, down from 83% in 1993, while boys' expectations held steady.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "$1 million",
+              "url": "https://www.nasa.gov/news-release/nasa-announces-1-million-to-students-for-moon-base-challenge/",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": ": in prizes NASA is offering U.S. high school and college students for designs for the base it plans to build near the moon's south pole. Registration closes January 25, 2027.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Quotes of the Day",
+              "url": "",
+              "bold": true,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "\"For many young people, coming into their sexual identities is, in a way, theoretical. That does not mean that they are wrong or confused, but this key part of who they are has not been tested or tried out by engaging with real people.\" (Daniel Cox, polling fellow at the American Enterprise Institute, in his book Generation Uncoupled)",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "\"If Gen Z is giving homosexuality a try and likes it, that seems a whole lot better than remaining withdrawn and disconnected.\" (Maibritt Henkel, The Argument)",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "AI & The Machines",
+              "url": "",
+              "bold": true,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "German startup Q.ANT is betting that light can do AI's hardest math for a fraction of the energy.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " Regular GPUs shuffle electrons around, which generates heat and guzzles power, and cooling is one of a data center's biggest costs. Photonic processors use waves of light instead, which generates almost no heat as it travels and lets more data be processed at once. The chips are not meant to replace GPUs, just to sit beside them as coprocessors handling the complex, nonlinear math like image recognition and video generation while GPUs grind through the linear stuff. Simulations point to four to five times less energy, though the company admits it has not proven that on real hardware yet. Q.ANT just rolled its chips out to cloud provider IONOS in a pilot, and more than 30 engineering teams are now building AI models tuned for light. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "WIRED",
+              "url": "https://www.wired.com/story/a-new-breed-of-chip-runs-ai-models-using-waves-of-light/",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Money & Power",
+              "url": "",
+              "bold": true,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Benchmark is on a deal-making run, and defense and bio are next.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " The storied VC firm is in talks to back Overland and Bindwell in new defense and bio deals, its second defense-tech investment in two months plus a rare bio bet, according to four sources. Benchmark had a rough patch, but the firm looks to be on a roll again. The full story sits behind a paywall, so details are thin for now. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Newcomer",
+              "url": "https://www.newcomer.co/p/scoop-benchmark-to-back-overland",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "The Culture",
+              "url": "",
+              "bold": true,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "The British government is turning everyone into a prepper.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " Forget guns and underground bunkers. Britain's growing survivalist movement is more worried about backup power, baby formula, and making friends with the neighbors. Preparedness is going mainstream, and the new prepper looks less like a doomsday hoarder and more like a neighbor with a charged battery and a plan. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "WIRED",
+              "url": "https://www.wired.com/story/the-british-government-is-turning-everyone-into-a-prepper/",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "In church basements and warehouses, Americans are fighting throwaway culture one fixed toaster at a time.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " Repair Cafes are cozy, radical little spaces where neighbors help each other fix broken items instead of throwing them away. It is part workshop, part block party, and part quiet protest against a world built to be replaced. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "WIRED",
+              "url": "https://www.wired.com/story/welcome-to-the-repair-cafe-where-neighbors-fight-throw-away-culture/",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Quick Hits & Curiosities",
+              "url": "",
+              "bold": true,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "This year's super El Nino could worsen global hunger, with some regions getting wetter while others face massive drought, on top of wars and cuts to foreign aid. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "WIRED",
+              "url": "https://www.wired.com/story/how-this-years-super-el-nino-will-worsen-global-hunger/",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Anthropic created a honeypot to lure AI agents into misbehaving. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "WIRED",
+              "url": "https://www.wired.com/story/ai-agents-can-get-honeypotted-too-aw/",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "OpenAI says its latest language models successfully designed new proteins. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "OpenAI",
+              "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Fusion power is about to start working, says Bob Mumgaard, in The Economist's look at business in 2027. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "The Economist",
+              "url": "https://www.economist.com/the-world-ahead/2026/11/18/fusion-power-is-about-to-start-working-says-bob-mumgaard",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "The rich world's sexual recession is getting worse, and exhaustion is just one of the culprits. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "The Economist",
+              "url": "https://www.economist.com/international/2026/11/25/the-rich-worlds-sexual-recession-is-getting-worse",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "GTA VI's Lucia forces gamers to grow up, and the game punishes players with narrative consequences if they refuse. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Vanity Fair",
+              "url": "https://www.vanityfair.com/story/grand-theft-auto-lucia",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Wild turkeys have taken over American cities. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "The Atlantic",
+              "url": "https://www.theatlantic.com/science/2026/11/wild-turkeys-cities-suburbs-mayhem/689475/",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Scientists made monkeys watch Minions to study their brains. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "404 Media",
+              "url": "https://www.404media.co/scientists-made-monkeys-watch-minions-to-study-their-brains/",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "The NYT tested the drugs sold at gas stations to find out what is actually in them. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "The New York Times",
+              "url": "https://www.nytimes.com/interactive/2026/11/23/well/gas-station-drugs-vape-weed-kratom-hallucinogens.html",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Porridge, now known as \"nature's Ozempic\" for how full it makes you feel, is hot right now. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "The Guardian",
+              "url": "https://www.theguardian.com/business/2026/nov/25/natures-ozempic-oat-sales-soar-shoppers-seek-out-foods-mimic-effect-glp-1s",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "You can call restaurants again. A human might even answer. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "The New York Times",
+              "url": "https://www.nytimes.com/2026/11/24/dining/restaurant-reservations-phone-calls.html",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Many Irish families believed they descended from selkies. One writer's grandmother was a seal. (",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Aeon",
+              "url": "https://aeon.co/essays/do-you-have-a-selkie-or-a-seal-in-the-family",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ")",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        }
+      ],
+      "publishedAt": "2026-11-27T13:04:00Z",
+      "links": [
+        {
+          "title": "83% to 61%",
+          "url": "https://www.theargumentmag.com/p/who-cares-if-bisexuality-is-a-choice"
+        },
+        {
+          "title": "$1 million",
+          "url": "https://www.nasa.gov/news-release/nasa-announces-1-million-to-students-for-moon-base-challenge/"
+        },
+        {
+          "title": "WIRED",
+          "url": "https://www.wired.com/story/a-new-breed-of-chip-runs-ai-models-using-waves-of-light/"
+        },
+        {
+          "title": "Newcomer",
+          "url": "https://www.newcomer.co/p/scoop-benchmark-to-back-overland"
+        },
+        {
+          "title": "WIRED",
+          "url": "https://www.wired.com/story/the-british-government-is-turning-everyone-into-a-prepper/"
+        },
+        {
+          "title": "WIRED",
+          "url": "https://www.wired.com/story/welcome-to-the-repair-cafe-where-neighbors-fight-throw-away-culture/"
+        },
+        {
+          "title": "WIRED",
+          "url": "https://www.wired.com/story/how-this-years-super-el-nino-will-worsen-global-hunger/"
+        },
+        {
+          "title": "WIRED",
+          "url": "https://www.wired.com/story/ai-agents-can-get-honeypotted-too-aw/"
+        },
+        {
+          "title": "OpenAI",
+          "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/"
+        },
+        {
+          "title": "The Economist",
+          "url": "https://www.economist.com/the-world-ahead/2026/11/18/fusion-power-is-about-to-start-working-says-bob-mumgaard"
+        },
+        {
+          "title": "The Economist",
+          "url": "https://www.economist.com/international/2026/11/25/the-rich-worlds-sexual-recession-is-getting-worse"
+        },
+        {
+          "title": "Vanity Fair",
+          "url": "https://www.vanityfair.com/story/grand-theft-auto-lucia"
+        },
+        {
+          "title": "The Atlantic",
+          "url": "https://www.theatlantic.com/science/2026/11/wild-turkeys-cities-suburbs-mayhem/689475/"
+        },
+        {
+          "title": "404 Media",
+          "url": "https://www.404media.co/scientists-made-monkeys-watch-minions-to-study-their-brains/"
+        },
+        {
+          "title": "The New York Times",
+          "url": "https://www.nytimes.com/interactive/2026/11/23/well/gas-station-drugs-vape-weed-kratom-hallucinogens.html"
+        },
+        {
+          "title": "The Guardian",
+          "url": "https://www.theguardian.com/business/2026/nov/25/natures-ozempic-oat-sales-soar-shoppers-seek-out-foods-mimic-effect-glp-1s"
+        },
+        {
+          "title": "The New York Times",
+          "url": "https://www.nytimes.com/2026/11/24/dining/restaurant-reservations-phone-calls.html"
+        },
+        {
+          "title": "Aeon",
+          "url": "https://aeon.co/essays/do-you-have-a-selkie-or-a-seal-in-the-family"
+        }
+      ],
+      "versions": {
+        "morning": {
+          "body": "Friday, November 27, 2026 - Morning Edition\n\nToday's Numbers\n\n• 1 in 4: Americans aged 18 to 27 identified as LGBTQ+ as of 2024, up from 1 in 16 millennials a decade earlier. Bisexuality drove almost all of the increase.\n\n• 86% vs. 65%: the orgasm gap. Lesbian women report orgasming 86% of the time, compared with 65% for heterosexual women, one reason the essay argues same-sex dating can look appealing to young women.\n\n• 83% to 61%: the share of 12th-grade girls who say they want to get married, down from 83% in 1993, while boys' expectations held steady.\n\n• $1 million: in prizes NASA is offering U.S. high school and college students for designs for the base it plans to build near the moon's south pole. Registration closes January 25, 2027.\n\nQuotes of the Day\n\n• \"For many young people, coming into their sexual identities is, in a way, theoretical. That does not mean that they are wrong or confused, but this key part of who they are has not been tested or tried out by engaging with real people.\" (Daniel Cox, polling fellow at the American Enterprise Institute, in his book Generation Uncoupled)\n\n• \"If Gen Z is giving homosexuality a try and likes it, that seems a whole lot better than remaining withdrawn and disconnected.\" (Maibritt Henkel, The Argument)\n\nAI & The Machines\n\nGerman startup Q.ANT is betting that light can do AI's hardest math for a fraction of the energy. Regular GPUs shuffle electrons around, which generates heat and guzzles power, and cooling is one of a data center's biggest costs. Photonic processors use waves of light instead, which generates almost no heat as it travels and lets more data be processed at once. The chips are not meant to replace GPUs, just to sit beside them as coprocessors handling the complex, nonlinear math like image recognition and video generation while GPUs grind through the linear stuff. Simulations point to four to five times less energy, though the company admits it has not proven that on real hardware yet. Q.ANT just rolled its chips out to cloud provider IONOS in a pilot, and more than 30 engineering teams are now building AI models tuned for light. (WIRED)\n\nMoney & Power\n\nBenchmark is on a deal-making run, and defense and bio are next. The storied VC firm is in talks to back Overland and Bindwell in new defense and bio deals, its second defense-tech investment in two months plus a rare bio bet, according to four sources. Benchmark had a rough patch, but the firm looks to be on a roll again. The full story sits behind a paywall, so details are thin for now. (Newcomer)\n\nThe Culture\n\nThe British government is turning everyone into a prepper. Forget guns and underground bunkers. Britain's growing survivalist movement is more worried about backup power, baby formula, and making friends with the neighbors. Preparedness is going mainstream, and the new prepper looks less like a doomsday hoarder and more like a neighbor with a charged battery and a plan. (WIRED)\n\nIn church basements and warehouses, Americans are fighting throwaway culture one fixed toaster at a time. Repair Cafes are cozy, radical little spaces where neighbors help each other fix broken items instead of throwing them away. It is part workshop, part block party, and part quiet protest against a world built to be replaced. (WIRED)\n\nQuick Hits & Curiosities\n\n• This year's super El Nino could worsen global hunger, with some regions getting wetter while others face massive drought, on top of wars and cuts to foreign aid. (WIRED)\n\n• Anthropic created a honeypot to lure AI agents into misbehaving. (WIRED)\n\n• OpenAI says its latest language models successfully designed new proteins. (OpenAI)\n\n• Fusion power is about to start working, says Bob Mumgaard, in The Economist's look at business in 2027. (The Economist)\n\n• The rich world's sexual recession is getting worse, and exhaustion is just one of the culprits. (The Economist)\n\n• GTA VI's Lucia forces gamers to grow up, and the game punishes players with narrative consequences if they refuse. (Vanity Fair)\n\n• Wild turkeys have taken over American cities. (The Atlantic)\n\n• Scientists made monkeys watch Minions to study their brains. (404 Media)\n\n• The NYT tested the drugs sold at gas stations to find out what is actually in them. (The New York Times)\n\n• Porridge, now known as \"nature's Ozempic\" for how full it makes you feel, is hot right now. (The Guardian)\n\n• You can call restaurants again. A human might even answer. (The New York Times)\n\n• Many Irish families believed they descended from selkies. One writer's grandmother was a seal. (Aeon)",
+          "blocks": [
+            {
+              "type": "heading_1",
+              "runs": [
+                {
+                  "text": "Friday, November 27, 2026 - Morning Edition",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Today's Numbers",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "1 in 4",
+                  "url": "https://www.theargumentmag.com/p/who-cares-if-bisexuality-is-a-choice",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": Americans aged 18 to 27 identified as LGBTQ+ as of 2024, up from 1 in 16 millennials a decade earlier. Bisexuality drove almost all of the increase.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "86% vs. 65%",
+                  "url": "https://www.theargumentmag.com/p/who-cares-if-bisexuality-is-a-choice",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": the orgasm gap. Lesbian women report orgasming 86% of the time, compared with 65% for heterosexual women, one reason the essay argues same-sex dating can look appealing to young women.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "83% to 61%",
+                  "url": "https://www.theargumentmag.com/p/who-cares-if-bisexuality-is-a-choice",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": the share of 12th-grade girls who say they want to get married, down from 83% in 1993, while boys' expectations held steady.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "$1 million",
+                  "url": "https://www.nasa.gov/news-release/nasa-announces-1-million-to-students-for-moon-base-challenge/",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": in prizes NASA is offering U.S. high school and college students for designs for the base it plans to build near the moon's south pole. Registration closes January 25, 2027.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Quotes of the Day",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "\"For many young people, coming into their sexual identities is, in a way, theoretical. That does not mean that they are wrong or confused, but this key part of who they are has not been tested or tried out by engaging with real people.\" (Daniel Cox, polling fellow at the American Enterprise Institute, in his book Generation Uncoupled)",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "\"If Gen Z is giving homosexuality a try and likes it, that seems a whole lot better than remaining withdrawn and disconnected.\" (Maibritt Henkel, The Argument)",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "AI & The Machines",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "German startup Q.ANT is betting that light can do AI's hardest math for a fraction of the energy.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " Regular GPUs shuffle electrons around, which generates heat and guzzles power, and cooling is one of a data center's biggest costs. Photonic processors use waves of light instead, which generates almost no heat as it travels and lets more data be processed at once. The chips are not meant to replace GPUs, just to sit beside them as coprocessors handling the complex, nonlinear math like image recognition and video generation while GPUs grind through the linear stuff. Simulations point to four to five times less energy, though the company admits it has not proven that on real hardware yet. Q.ANT just rolled its chips out to cloud provider IONOS in a pilot, and more than 30 engineering teams are now building AI models tuned for light. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "WIRED",
+                  "url": "https://www.wired.com/story/a-new-breed-of-chip-runs-ai-models-using-waves-of-light/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Money & Power",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Benchmark is on a deal-making run, and defense and bio are next.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " The storied VC firm is in talks to back Overland and Bindwell in new defense and bio deals, its second defense-tech investment in two months plus a rare bio bet, according to four sources. Benchmark had a rough patch, but the firm looks to be on a roll again. The full story sits behind a paywall, so details are thin for now. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Newcomer",
+                  "url": "https://www.newcomer.co/p/scoop-benchmark-to-back-overland",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "The Culture",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "The British government is turning everyone into a prepper.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " Forget guns and underground bunkers. Britain's growing survivalist movement is more worried about backup power, baby formula, and making friends with the neighbors. Preparedness is going mainstream, and the new prepper looks less like a doomsday hoarder and more like a neighbor with a charged battery and a plan. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "WIRED",
+                  "url": "https://www.wired.com/story/the-british-government-is-turning-everyone-into-a-prepper/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "In church basements and warehouses, Americans are fighting throwaway culture one fixed toaster at a time.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " Repair Cafes are cozy, radical little spaces where neighbors help each other fix broken items instead of throwing them away. It is part workshop, part block party, and part quiet protest against a world built to be replaced. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "WIRED",
+                  "url": "https://www.wired.com/story/welcome-to-the-repair-cafe-where-neighbors-fight-throw-away-culture/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Quick Hits & Curiosities",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "This year's super El Nino could worsen global hunger, with some regions getting wetter while others face massive drought, on top of wars and cuts to foreign aid. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "WIRED",
+                  "url": "https://www.wired.com/story/how-this-years-super-el-nino-will-worsen-global-hunger/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Anthropic created a honeypot to lure AI agents into misbehaving. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "WIRED",
+                  "url": "https://www.wired.com/story/ai-agents-can-get-honeypotted-too-aw/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "OpenAI says its latest language models successfully designed new proteins. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "OpenAI",
+                  "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Fusion power is about to start working, says Bob Mumgaard, in The Economist's look at business in 2027. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "The Economist",
+                  "url": "https://www.economist.com/the-world-ahead/2026/11/18/fusion-power-is-about-to-start-working-says-bob-mumgaard",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "The rich world's sexual recession is getting worse, and exhaustion is just one of the culprits. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "The Economist",
+                  "url": "https://www.economist.com/international/2026/11/25/the-rich-worlds-sexual-recession-is-getting-worse",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "GTA VI's Lucia forces gamers to grow up, and the game punishes players with narrative consequences if they refuse. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Vanity Fair",
+                  "url": "https://www.vanityfair.com/story/grand-theft-auto-lucia",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Wild turkeys have taken over American cities. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "The Atlantic",
+                  "url": "https://www.theatlantic.com/science/2026/11/wild-turkeys-cities-suburbs-mayhem/689475/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Scientists made monkeys watch Minions to study their brains. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "404 Media",
+                  "url": "https://www.404media.co/scientists-made-monkeys-watch-minions-to-study-their-brains/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "The NYT tested the drugs sold at gas stations to find out what is actually in them. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "The New York Times",
+                  "url": "https://www.nytimes.com/interactive/2026/11/23/well/gas-station-drugs-vape-weed-kratom-hallucinogens.html",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Porridge, now known as \"nature's Ozempic\" for how full it makes you feel, is hot right now. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "The Guardian",
+                  "url": "https://www.theguardian.com/business/2026/nov/25/natures-ozempic-oat-sales-soar-shoppers-seek-out-foods-mimic-effect-glp-1s",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "You can call restaurants again. A human might even answer. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "The New York Times",
+                  "url": "https://www.nytimes.com/2026/11/24/dining/restaurant-reservations-phone-calls.html",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Many Irish families believed they descended from selkies. One writer's grandmother was a seal. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Aeon",
+                  "url": "https://aeon.co/essays/do-you-have-a-selkie-or-a-seal-in-the-family",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            }
+          ],
+          "links": [
+            {
+              "title": "83% to 61%",
+              "url": "https://www.theargumentmag.com/p/who-cares-if-bisexuality-is-a-choice"
+            },
+            {
+              "title": "$1 million",
+              "url": "https://www.nasa.gov/news-release/nasa-announces-1-million-to-students-for-moon-base-challenge/"
+            },
+            {
+              "title": "WIRED",
+              "url": "https://www.wired.com/story/a-new-breed-of-chip-runs-ai-models-using-waves-of-light/"
+            },
+            {
+              "title": "Newcomer",
+              "url": "https://www.newcomer.co/p/scoop-benchmark-to-back-overland"
+            },
+            {
+              "title": "WIRED",
+              "url": "https://www.wired.com/story/the-british-government-is-turning-everyone-into-a-prepper/"
+            },
+            {
+              "title": "WIRED",
+              "url": "https://www.wired.com/story/welcome-to-the-repair-cafe-where-neighbors-fight-throw-away-culture/"
+            },
+            {
+              "title": "WIRED",
+              "url": "https://www.wired.com/story/how-this-years-super-el-nino-will-worsen-global-hunger/"
+            },
+            {
+              "title": "WIRED",
+              "url": "https://www.wired.com/story/ai-agents-can-get-honeypotted-too-aw/"
+            },
+            {
+              "title": "OpenAI",
+              "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/"
+            },
+            {
+              "title": "The Economist",
+              "url": "https://www.economist.com/the-world-ahead/2026/11/18/fusion-power-is-about-to-start-working-says-bob-mumgaard"
+            },
+            {
+              "title": "The Economist",
+              "url": "https://www.economist.com/international/2026/11/25/the-rich-worlds-sexual-recession-is-getting-worse"
+            },
+            {
+              "title": "Vanity Fair",
+              "url": "https://www.vanityfair.com/story/grand-theft-auto-lucia"
+            },
+            {
+              "title": "The Atlantic",
+              "url": "https://www.theatlantic.com/science/2026/11/wild-turkeys-cities-suburbs-mayhem/689475/"
+            },
+            {
+              "title": "404 Media",
+              "url": "https://www.404media.co/scientists-made-monkeys-watch-minions-to-study-their-brains/"
+            },
+            {
+              "title": "The New York Times",
+              "url": "https://www.nytimes.com/interactive/2026/11/23/well/gas-station-drugs-vape-weed-kratom-hallucinogens.html"
+            },
+            {
+              "title": "The Guardian",
+              "url": "https://www.theguardian.com/business/2026/nov/25/natures-ozempic-oat-sales-soar-shoppers-seek-out-foods-mimic-effect-glp-1s"
+            },
+            {
+              "title": "The New York Times",
+              "url": "https://www.nytimes.com/2026/11/24/dining/restaurant-reservations-phone-calls.html"
+            },
+            {
+              "title": "Aeon",
+              "url": "https://aeon.co/essays/do-you-have-a-selkie-or-a-seal-in-the-family"
+            }
+          ]
+        },
+        "full": {
+          "body": "Friday, November 27, 2026 - Morning Edition\n\nToday's Numbers\n\n• 1 in 4: Americans aged 18 to 27 identified as LGBTQ+ as of 2024, up from 1 in 16 millennials a decade earlier. Bisexuality drove almost all of the increase.\n\n• 86% vs. 65%: the orgasm gap. Lesbian women report orgasming 86% of the time, compared with 65% for heterosexual women, one reason the essay argues same-sex dating can look appealing to young women.\n\n• 83% to 61%: the share of 12th-grade girls who say they want to get married, down from 83% in 1993, while boys' expectations held steady.\n\n• $1 million: in prizes NASA is offering U.S. high school and college students for designs for the base it plans to build near the moon's south pole. Registration closes January 25, 2027.\n\nQuotes of the Day\n\n• \"For many young people, coming into their sexual identities is, in a way, theoretical. That does not mean that they are wrong or confused, but this key part of who they are has not been tested or tried out by engaging with real people.\" (Daniel Cox, polling fellow at the American Enterprise Institute, in his book Generation Uncoupled)\n\n• \"If Gen Z is giving homosexuality a try and likes it, that seems a whole lot better than remaining withdrawn and disconnected.\" (Maibritt Henkel, The Argument)\n\nAI & The Machines\n\nGerman startup Q.ANT is betting that light can do AI's hardest math for a fraction of the energy. Regular GPUs shuffle electrons around, which generates heat and guzzles power, and cooling is one of a data center's biggest costs. Photonic processors use waves of light instead, which generates almost no heat as it travels and lets more data be processed at once. The chips are not meant to replace GPUs, just to sit beside them as coprocessors handling the complex, nonlinear math like image recognition and video generation while GPUs grind through the linear stuff. Simulations point to four to five times less energy, though the company admits it has not proven that on real hardware yet. Q.ANT just rolled its chips out to cloud provider IONOS in a pilot, and more than 30 engineering teams are now building AI models tuned for light. (WIRED)\n\nMoney & Power\n\nBenchmark is on a deal-making run, and defense and bio are next. The storied VC firm is in talks to back Overland and Bindwell in new defense and bio deals, its second defense-tech investment in two months plus a rare bio bet, according to four sources. Benchmark had a rough patch, but the firm looks to be on a roll again. The full story sits behind a paywall, so details are thin for now. (Newcomer)\n\nThe Culture\n\nThe British government is turning everyone into a prepper. Forget guns and underground bunkers. Britain's growing survivalist movement is more worried about backup power, baby formula, and making friends with the neighbors. Preparedness is going mainstream, and the new prepper looks less like a doomsday hoarder and more like a neighbor with a charged battery and a plan. (WIRED)\n\nIn church basements and warehouses, Americans are fighting throwaway culture one fixed toaster at a time. Repair Cafes are cozy, radical little spaces where neighbors help each other fix broken items instead of throwing them away. It is part workshop, part block party, and part quiet protest against a world built to be replaced. (WIRED)\n\nQuick Hits & Curiosities\n\n• This year's super El Nino could worsen global hunger, with some regions getting wetter while others face massive drought, on top of wars and cuts to foreign aid. (WIRED)\n\n• Anthropic created a honeypot to lure AI agents into misbehaving. (WIRED)\n\n• OpenAI says its latest language models successfully designed new proteins. (OpenAI)\n\n• Fusion power is about to start working, says Bob Mumgaard, in The Economist's look at business in 2027. (The Economist)\n\n• The rich world's sexual recession is getting worse, and exhaustion is just one of the culprits. (The Economist)\n\n• GTA VI's Lucia forces gamers to grow up, and the game punishes players with narrative consequences if they refuse. (Vanity Fair)\n\n• Wild turkeys have taken over American cities. (The Atlantic)\n\n• Scientists made monkeys watch Minions to study their brains. (404 Media)\n\n• The NYT tested the drugs sold at gas stations to find out what is actually in them. (The New York Times)\n\n• Porridge, now known as \"nature's Ozempic\" for how full it makes you feel, is hot right now. (The Guardian)\n\n• You can call restaurants again. A human might even answer. (The New York Times)\n\n• Many Irish families believed they descended from selkies. One writer's grandmother was a seal. (Aeon)",
+          "blocks": [
+            {
+              "type": "heading_1",
+              "runs": [
+                {
+                  "text": "Friday, November 27, 2026 - Morning Edition",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Today's Numbers",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "1 in 4",
+                  "url": "https://www.theargumentmag.com/p/who-cares-if-bisexuality-is-a-choice",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": Americans aged 18 to 27 identified as LGBTQ+ as of 2024, up from 1 in 16 millennials a decade earlier. Bisexuality drove almost all of the increase.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "86% vs. 65%",
+                  "url": "https://www.theargumentmag.com/p/who-cares-if-bisexuality-is-a-choice",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": the orgasm gap. Lesbian women report orgasming 86% of the time, compared with 65% for heterosexual women, one reason the essay argues same-sex dating can look appealing to young women.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "83% to 61%",
+                  "url": "https://www.theargumentmag.com/p/who-cares-if-bisexuality-is-a-choice",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": the share of 12th-grade girls who say they want to get married, down from 83% in 1993, while boys' expectations held steady.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "$1 million",
+                  "url": "https://www.nasa.gov/news-release/nasa-announces-1-million-to-students-for-moon-base-challenge/",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": ": in prizes NASA is offering U.S. high school and college students for designs for the base it plans to build near the moon's south pole. Registration closes January 25, 2027.",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Quotes of the Day",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "\"For many young people, coming into their sexual identities is, in a way, theoretical. That does not mean that they are wrong or confused, but this key part of who they are has not been tested or tried out by engaging with real people.\" (Daniel Cox, polling fellow at the American Enterprise Institute, in his book Generation Uncoupled)",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "\"If Gen Z is giving homosexuality a try and likes it, that seems a whole lot better than remaining withdrawn and disconnected.\" (Maibritt Henkel, The Argument)",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "AI & The Machines",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "German startup Q.ANT is betting that light can do AI's hardest math for a fraction of the energy.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " Regular GPUs shuffle electrons around, which generates heat and guzzles power, and cooling is one of a data center's biggest costs. Photonic processors use waves of light instead, which generates almost no heat as it travels and lets more data be processed at once. The chips are not meant to replace GPUs, just to sit beside them as coprocessors handling the complex, nonlinear math like image recognition and video generation while GPUs grind through the linear stuff. Simulations point to four to five times less energy, though the company admits it has not proven that on real hardware yet. Q.ANT just rolled its chips out to cloud provider IONOS in a pilot, and more than 30 engineering teams are now building AI models tuned for light. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "WIRED",
+                  "url": "https://www.wired.com/story/a-new-breed-of-chip-runs-ai-models-using-waves-of-light/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Money & Power",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Benchmark is on a deal-making run, and defense and bio are next.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " The storied VC firm is in talks to back Overland and Bindwell in new defense and bio deals, its second defense-tech investment in two months plus a rare bio bet, according to four sources. Benchmark had a rough patch, but the firm looks to be on a roll again. The full story sits behind a paywall, so details are thin for now. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Newcomer",
+                  "url": "https://www.newcomer.co/p/scoop-benchmark-to-back-overland",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "The Culture",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "The British government is turning everyone into a prepper.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " Forget guns and underground bunkers. Britain's growing survivalist movement is more worried about backup power, baby formula, and making friends with the neighbors. Preparedness is going mainstream, and the new prepper looks less like a doomsday hoarder and more like a neighbor with a charged battery and a plan. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "WIRED",
+                  "url": "https://www.wired.com/story/the-british-government-is-turning-everyone-into-a-prepper/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "In church basements and warehouses, Americans are fighting throwaway culture one fixed toaster at a time.",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "text": " Repair Cafes are cozy, radical little spaces where neighbors help each other fix broken items instead of throwing them away. It is part workshop, part block party, and part quiet protest against a world built to be replaced. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "WIRED",
+                  "url": "https://www.wired.com/story/welcome-to-the-repair-cafe-where-neighbors-fight-throw-away-culture/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Quick Hits & Curiosities",
+                  "url": "",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "This year's super El Nino could worsen global hunger, with some regions getting wetter while others face massive drought, on top of wars and cuts to foreign aid. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "WIRED",
+                  "url": "https://www.wired.com/story/how-this-years-super-el-nino-will-worsen-global-hunger/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Anthropic created a honeypot to lure AI agents into misbehaving. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "WIRED",
+                  "url": "https://www.wired.com/story/ai-agents-can-get-honeypotted-too-aw/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "OpenAI says its latest language models successfully designed new proteins. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "OpenAI",
+                  "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Fusion power is about to start working, says Bob Mumgaard, in The Economist's look at business in 2027. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "The Economist",
+                  "url": "https://www.economist.com/the-world-ahead/2026/11/18/fusion-power-is-about-to-start-working-says-bob-mumgaard",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "The rich world's sexual recession is getting worse, and exhaustion is just one of the culprits. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "The Economist",
+                  "url": "https://www.economist.com/international/2026/11/25/the-rich-worlds-sexual-recession-is-getting-worse",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "GTA VI's Lucia forces gamers to grow up, and the game punishes players with narrative consequences if they refuse. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Vanity Fair",
+                  "url": "https://www.vanityfair.com/story/grand-theft-auto-lucia",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Wild turkeys have taken over American cities. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "The Atlantic",
+                  "url": "https://www.theatlantic.com/science/2026/11/wild-turkeys-cities-suburbs-mayhem/689475/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Scientists made monkeys watch Minions to study their brains. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "404 Media",
+                  "url": "https://www.404media.co/scientists-made-monkeys-watch-minions-to-study-their-brains/",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "The NYT tested the drugs sold at gas stations to find out what is actually in them. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "The New York Times",
+                  "url": "https://www.nytimes.com/interactive/2026/11/23/well/gas-station-drugs-vape-weed-kratom-hallucinogens.html",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Porridge, now known as \"nature's Ozempic\" for how full it makes you feel, is hot right now. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "The Guardian",
+                  "url": "https://www.theguardian.com/business/2026/nov/25/natures-ozempic-oat-sales-soar-shoppers-seek-out-foods-mimic-effect-glp-1s",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "You can call restaurants again. A human might even answer. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "The New York Times",
+                  "url": "https://www.nytimes.com/2026/11/24/dining/restaurant-reservations-phone-calls.html",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "bulleted_list_item",
+              "runs": [
+                {
+                  "text": "Many Irish families believed they descended from selkies. One writer's grandmother was a seal. (",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": "Aeon",
+                  "url": "https://aeon.co/essays/do-you-have-a-selkie-or-a-seal-in-the-family",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "url": "",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            }
+          ],
+          "links": [
+            {
+              "title": "83% to 61%",
+              "url": "https://www.theargumentmag.com/p/who-cares-if-bisexuality-is-a-choice"
+            },
+            {
+              "title": "$1 million",
+              "url": "https://www.nasa.gov/news-release/nasa-announces-1-million-to-students-for-moon-base-challenge/"
+            },
+            {
+              "title": "WIRED",
+              "url": "https://www.wired.com/story/a-new-breed-of-chip-runs-ai-models-using-waves-of-light/"
+            },
+            {
+              "title": "Newcomer",
+              "url": "https://www.newcomer.co/p/scoop-benchmark-to-back-overland"
+            },
+            {
+              "title": "WIRED",
+              "url": "https://www.wired.com/story/the-british-government-is-turning-everyone-into-a-prepper/"
+            },
+            {
+              "title": "WIRED",
+              "url": "https://www.wired.com/story/welcome-to-the-repair-cafe-where-neighbors-fight-throw-away-culture/"
+            },
+            {
+              "title": "WIRED",
+              "url": "https://www.wired.com/story/how-this-years-super-el-nino-will-worsen-global-hunger/"
+            },
+            {
+              "title": "WIRED",
+              "url": "https://www.wired.com/story/ai-agents-can-get-honeypotted-too-aw/"
+            },
+            {
+              "title": "OpenAI",
+              "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/"
+            },
+            {
+              "title": "The Economist",
+              "url": "https://www.economist.com/the-world-ahead/2026/11/18/fusion-power-is-about-to-start-working-says-bob-mumgaard"
+            },
+            {
+              "title": "The Economist",
+              "url": "https://www.economist.com/international/2026/11/25/the-rich-worlds-sexual-recession-is-getting-worse"
+            },
+            {
+              "title": "Vanity Fair",
+              "url": "https://www.vanityfair.com/story/grand-theft-auto-lucia"
+            },
+            {
+              "title": "The Atlantic",
+              "url": "https://www.theatlantic.com/science/2026/11/wild-turkeys-cities-suburbs-mayhem/689475/"
+            },
+            {
+              "title": "404 Media",
+              "url": "https://www.404media.co/scientists-made-monkeys-watch-minions-to-study-their-brains/"
+            },
+            {
+              "title": "The New York Times",
+              "url": "https://www.nytimes.com/interactive/2026/11/23/well/gas-station-drugs-vape-weed-kratom-hallucinogens.html"
+            },
+            {
+              "title": "The Guardian",
+              "url": "https://www.theguardian.com/business/2026/nov/25/natures-ozempic-oat-sales-soar-shoppers-seek-out-foods-mimic-effect-glp-1s"
+            },
+            {
+              "title": "The New York Times",
+              "url": "https://www.nytimes.com/2026/11/24/dining/restaurant-reservations-phone-calls.html"
+            },
+            {
+              "title": "Aeon",
+              "url": "https://aeon.co/essays/do-you-have-a-selkie-or-a-seal-in-the-family"
+            }
+          ]
+        }
+      }
     }
   ]
 }
