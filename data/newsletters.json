@@ -349156,6 +349156,569 @@
           ]
         }
       }
+    },
+    {
+      "id": "digest-9778153c-8a3e-828e-b260-012605c151e1",
+      "channel": "newsletters",
+      "source": "notion",
+      "kind": "Agent-written digest",
+      "domain": "Daily newsletter digest",
+      "title": "The Black Friday Afterlife: Gumbo Sundays, Machine-Speed Hackers & the Last Monoculture",
+      "url": "",
+      "description": "2026-11-27",
+      "body": "2026-11-27\n\nBlack Friday turned out to be less about buying things than about what happens after the buying: a city’s police nickname becoming a national ritual, a turkey carcass becoming a recurring Sunday party, and one giant video game briefly giving the internet a shared object to argue about. In the margins: AI agents learning to shop, hack, and perhaps replace the apps we currently use to talk to them.\n\nBest links\n\nThe day after Thanksgiving gets its name back\n\nJonathan M. Katz’s history lesson in The Racket punctures the familiar “retailers go from red to black” explanation. The name most likely came from Philadelphia police complaining about the crowds, traffic, and Army–Navy Game chaos that took over Center City in the 1960s. A 1966 quote from the Franklin Institute — “Now you know why we call it Black Friday” — is the perfect origin story: civic exasperation, not accounting. The Racket\n\nThe last monoculture might be a video game\n\nDazed makes the case that GTA VI is doing something the algorithmic internet rarely manages anymore: giving people with wildly different feeds the same thing to watch, play, quote, and fight about. The argument is not that everyone agrees on the game; it’s that a common object makes disagreement legible again. The sharpest point: without a mainstream to push against, subcultures lose some of their fuel. Dazed\n\nThe most alarming phrase of the day: “machine speed”\n\n404 Media rounds up ARTEX, an open-source framework that lets AI agents divide up hacking tasks. The newsletter says the FBI has warned that the tool has been used against targets across government, health care, telecoms, legal, defense, finance, and semiconductors. Elsewhere, the University of Michigan is insisting its planned $1.25 billion nuclear-weapons-research facility is a “research computing center,” not a data center — a distinction that sounds increasingly like branding under oath. 404 Media\n\nFood & places\n\nThe leftover that became a calendar invite\n\nThe best newsletter recipe was not a recipe so much as a social technology. Ryan Shepard turned an overlarge Thanksgiving turkey into a dark-roux gumbo, invited a few friends over, and accidentally created “Gumbo Sunday”: a recurring Atlanta gathering that people began planning travel around. The metaphor is almost too neat — odds and ends become a better thing after enough time in the same pot — but it earns its neatness. The Substack Post\n\nIf you want the practical version, NYT Cooking has a full leftover-rescue roster: a turkey Sloppy Joe, cranberry grilled cheese, turkey fried rice, birria de pavo, turkey pho, turkey tikka masala, stock, and barley soup. The move is to stop treating leftovers as a sentence and use them as raw material. NYT Cooking\n\nCopenhagen, but make it Mexican\n\nA guest essay in Why is this interesting? describes Sanchez, Rosio Sanchez’s Copenhagen restaurant, as a seven-course Mexican meal that beat every other meal of the writer’s year. The useful travel lesson is to leave one dinner open for the thing that seems geographically “wrong.” Unexpectedness is not a failure to experience local culture; it may be the reason to travel. Why is this interesting?\n\nFor a cheaper itinerary, Robert Sietsema points to Elmhurst’s 82nd Street stop, where vendors sell homemade tamales for $2, with fillings ranging from chicken and pork to cactus, chiles, and sweet dessert versions. A weekend destination can be a subway staircase. Robert Sietsema’s New York\n\nIdeas to steal\n\n• Make products legible to agents. Founder Fridays summarizes research across more than 11,000 agent runs: explain the specific use case, expose machine-readable information and APIs, show the full economic cost, and remove checkout friction. Guest checkout succeeded in 81% of the tests it cites; account creation repeatedly interrupted the sale. Founder Fridays\n\n• Build a personal AI harness before you need one. Semafor Technology’s holiday recommendation is also a warning: if your work and personal life increasingly run through AI tools, a private harness gives you more control over your data and less exposure to a single company disappearing or changing course. Their reading/watch/listen stack: The Wall Dancers, the podcast Shell Game, and Apple TV’s Silo. Semafor Technology\n\n• Sell against “no decision.” The same Founder Fridays issue says 62% of lost B2B deals reportedly end with nobody choosing anything. A smaller pilot, tied to the buyer’s actual workflow, may beat another round of feature comparisons.\n\nInternet oddities\n\n• 404 Media reviewed a music-to-vibration device marketed as an “internal music player,” a phrase that somehow makes the product stranger, not less strange. 404 Media\n\n• [SIC] linked to a story about scientists making monkeys watch Minions, a report on wild turkeys taking over American cities, a “luxury water” trend for people drinking less alcohol, and the question of whether the web can be saved by net art. This is what a newsletter looks like when it refuses to pick one lane. SIC\n\nOne-liners\n\n• The internet’s shared holiday activity is now watching other people play a game inside the game they are already playing.\n\n• Black Friday began as a police complaint and became a shopping holiday; Gumbo Sunday began as a leftover problem and became a family.\n\n• The most future-facing business advice is still: make the thing easy to understand, easy to try, and easy to leave.\n\n• Today’s strongest recipe is “invite the misfits back next Sunday.”",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "2026-11-27",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Black Friday turned out to be less about buying things than about what happens after the buying: a city’s police nickname becoming a national ritual, a turkey carcass becoming a recurring Sunday party, and one giant video game briefly giving the internet a shared object to argue about. In the margins: AI agents learning to shop, hack, and perhaps replace the apps we currently use to talk to them.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "heading_2",
+          "runs": [
+            {
+              "text": "Best links",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "heading_3",
+          "runs": [
+            {
+              "text": "The day after Thanksgiving gets its name back",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Jonathan M. Katz’s history lesson in ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "The Racket",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " punctures the familiar “retailers go from red to black” explanation. The name most likely came from Philadelphia police complaining about the crowds, traffic, and Army–Navy Game chaos that took over Center City in the 1960s. A 1966 quote from the Franklin Institute — “Now you know why we call it Black Friday” — is the perfect origin story: civic exasperation, not accounting. ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "The Racket",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": " ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "heading_3",
+          "runs": [
+            {
+              "text": "The last monoculture might be a video game",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Dazed makes the case that ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "GTA VI",
+              "url": "",
+              "bold": false,
+              "italic": true
+            },
+            {
+              "text": " is doing something the algorithmic internet rarely manages anymore: giving people with wildly different feeds the same thing to watch, play, quote, and fight about. The argument is not that everyone agrees on the game; it’s that a common object makes disagreement legible again. The sharpest point: without a mainstream to push against, subcultures lose some of their fuel. ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Dazed",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": " ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "heading_3",
+          "runs": [
+            {
+              "text": "The most alarming phrase of the day: “machine speed”",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "404 Media",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " rounds up ARTEX, an open-source framework that lets AI agents divide up hacking tasks. The newsletter says the FBI has warned that the tool has been used against targets across government, health care, telecoms, legal, defense, finance, and semiconductors. Elsewhere, the University of Michigan is insisting its planned $1.25 billion nuclear-weapons-research facility is a “research computing center,” not a data center — a distinction that sounds increasingly like branding under oath. ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "404 Media",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": " ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "heading_2",
+          "runs": [
+            {
+              "text": "Food & places",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "heading_3",
+          "runs": [
+            {
+              "text": "The leftover that became a calendar invite",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "The best newsletter recipe was not a recipe so much as a social technology. Ryan Shepard turned an overlarge Thanksgiving turkey into a dark-roux gumbo, invited a few friends over, and accidentally created “Gumbo Sunday”: a recurring Atlanta gathering that people began planning travel around. The metaphor is almost too neat — odds and ends become a better thing after enough time in the same pot — but it earns its neatness. ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "The Substack Post",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": " ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "If you want the practical version, ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "NYT Cooking",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " has a full leftover-rescue roster: a turkey Sloppy Joe, cranberry grilled cheese, turkey fried rice, birria de pavo, turkey pho, turkey tikka masala, stock, and barley soup. The move is to stop treating leftovers as a sentence and use them as raw material. ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "NYT Cooking",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": " ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "heading_3",
+          "runs": [
+            {
+              "text": "Copenhagen, but make it Mexican",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "A guest essay in ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Why is this interesting?",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " describes Sanchez, Rosio Sanchez’s Copenhagen restaurant, as a seven-course Mexican meal that beat every other meal of the writer’s year. The useful travel lesson is to leave one dinner open for the thing that seems geographically “wrong.” Unexpectedness is not a failure to experience local culture; it may be the reason to travel. ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Why is this interesting?",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": " ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "For a cheaper itinerary, Robert Sietsema points to Elmhurst’s 82nd Street stop, where vendors sell homemade tamales for $2, with fillings ranging from chicken and pork to cactus, chiles, and sweet dessert versions. A weekend destination can be a subway staircase. ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Robert Sietsema’s New York",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": " ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "heading_2",
+          "runs": [
+            {
+              "text": "Ideas to steal",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Make products legible to agents.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " Founder Fridays summarizes research across more than 11,000 agent runs: explain the specific use case, expose machine-readable information and APIs, show the full economic cost, and remove checkout friction. Guest checkout succeeded in 81% of the tests it cites; account creation repeatedly interrupted the sale. ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Founder Fridays",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": " ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Build a personal AI harness before you need one.",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " Semafor Technology’s holiday recommendation is also a warning: if your work and personal life increasingly run through AI tools, a private harness gives you more control over your data and less exposure to a single company disappearing or changing course. Their reading/watch/listen stack: ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "The Wall Dancers",
+              "url": "",
+              "bold": false,
+              "italic": true
+            },
+            {
+              "text": ", the podcast ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Shell Game",
+              "url": "",
+              "bold": false,
+              "italic": true
+            },
+            {
+              "text": ", and Apple TV’s ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Silo",
+              "url": "",
+              "bold": false,
+              "italic": true
+            },
+            {
+              "text": ". ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Semafor Technology",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": " ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Sell against “no decision.”",
+              "url": "",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " The same Founder Fridays issue says 62% of lost B2B deals reportedly end with nobody choosing anything. A smaller pilot, tied to the buyer’s actual workflow, may beat another round of feature comparisons.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "heading_2",
+          "runs": [
+            {
+              "text": "Internet oddities",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "404 Media reviewed a music-to-vibration device marketed as an “internal music player,” a phrase that somehow makes the product stranger, not less strange. ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "404 Media",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": " ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "[SIC] linked to a story about scientists making monkeys watch Minions, a report on wild turkeys taking over American cities, a “luxury water” trend for people drinking less alcohol, and the question of whether the web can be saved by net art. This is what a newsletter looks like when it refuses to pick one lane. ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "SIC",
+              "url": "",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": " ",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "heading_2",
+          "runs": [
+            {
+              "text": "One-liners",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "The internet’s shared holiday activity is now watching other people play a game inside the game they are already playing.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Black Friday began as a police complaint and became a shopping holiday; Gumbo Sunday began as a leftover problem and became a family.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "The most future-facing business advice is still: make the thing easy to understand, easy to try, and easy to leave.",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "bulleted_list_item",
+          "runs": [
+            {
+              "text": "Today’s strongest recipe is “invite the misfits back next Sunday.”",
+              "url": "",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        }
+      ],
+      "publishedAt": "2026-11-27T22:12:00Z",
+      "links": []
     }
   ]
 }
